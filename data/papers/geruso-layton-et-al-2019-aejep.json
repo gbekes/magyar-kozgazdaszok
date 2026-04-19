@@ -1,0 +1,46 @@
+{
+  "id": "geruso-layton-et-al-2019-aejep",
+  "title": "Screening in Contract Design: Evidence from the ACA Health Insurance Exchanges",
+  "authors": [
+    "Michael Geruso",
+    "Timothy Layton",
+    "prinz-daniel"
+  ],
+  "publication_type": "article",
+  "journal": "American Economic Journal Economic Policy",
+  "year": 2019,
+  "volume": "11",
+  "issue": "2",
+  "pages": "64-107",
+  "doi": "10.1257/pol.20170014",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1257/pol.20170014",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "We study insurers' use of prescription drug formularies to screen consumers in the ACA Health Insurance exchanges. We begin by showing that exchange risk adjustment and reinsurance succeed in neutralizing selection incentives for most, but not all, consumer types. A minority of consumers, identifiable by demand for particular classes of prescription drugs, are predictably unprofitable. We then show that contract features relating to these drugs are distorted in a manner consistent with multidimensional screening. The empirical findings support a long theoretical literature examining how insurance contracts offered in equilibrium can fail to optimally trade off risk protection and moral hazard.",
+  "summary_en": "When health insurance is sold through exchanges (as in the US Affordable Care Act), insurers must take all comers, and risk-adjustment payments are used to neutralise the incentive to avoid sick enrollees. This paper shows the neutralisation is incomplete: insurers still design their prescription-drug formularies — which drugs they cover and at what tier — to discourage consumers who need specific high-cost medications. The paper documents the pattern in ACA exchange data and frames it as classic contract distortion: when regulators plug one leak, insurers find another.",
+  "summary_hu": null,
+  "data_used": "US Health Insurance Marketplaces (ACA exchanges) formulary and benefit data for 2015, combined with prescription-drug-demand data from large private insurers; all US states with federal exchanges.",
+  "data_used_hu": null,
+  "policy_relevance": "Relevant to Hungarian health-insurance policy if voluntary private-supplementary or exchange-type products are introduced (OEP/NEAK, or pension-fund health supplements). The paper's warning: formal risk-adjustment is necessary but not sufficient; specific benefit-design rules (standardised formularies, minimum coverage classes) are also needed to prevent gaming. For now Hungary's single-payer system doesn't face this directly, but the EU context of expanding private-supplementary insurance makes the mechanism worth understanding.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "health",
+    "banking-finance"
+  ],
+  "methods": [
+    "panel-data",
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
+  "featured": false,
+  "added_at": "2026-04-19",
+  "last_reviewed_at": "2026-04-19",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2559764134"
+}

@@ -1,0 +1,152 @@
+[
+  {
+    "id": "labor-markets",
+    "name_en": "Labor markets and employment",
+    "name_hu": "Munkaerőpiac és foglalkoztatás",
+    "description_en": "Research on wages, employment, unemployment, labor supply, job search, workplace training, and worker mobility.",
+    "description_hu": "Bérekkel, foglalkoztatással, munkanélküliséggel, munkaerő-kínálattal, álláskereséssel, munkahelyi képzéssel és munkavállalói mobilitással kapcsolatos kutatások.",
+    "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
+    "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
+    "icon": "briefcase"
+  },
+  {
+    "id": "education-skills",
+    "name_en": "Education and skills",
+    "name_hu": "Oktatás és készségek",
+    "description_en": "Schools, teachers, tracking, higher education, vocational training, returns to education, skill formation, test scores.",
+    "description_hu": "Iskolák, tanárok, osztályba sorolás, felsőoktatás, szakképzés, az oktatás hozamai, képességek kialakulása, tesztpontszámok.",
+    "policy_framing_en": "Relevant to: curriculum design, teacher policy, school tracking age, higher education funding, vocational training.",
+    "policy_framing_hu": "Releváns: tantervfejlesztés, tanárpolitika, iskolai szelekció életkora, felsőoktatás finanszírozása, szakképzés.",
+    "icon": "graduation-cap"
+  },
+  {
+    "id": "health",
+    "name_en": "Health and healthcare",
+    "name_hu": "Egészségügy",
+    "description_en": "Health outcomes, healthcare access, hospitals, prevention, lifestyle, mental health, public health.",
+    "description_hu": "Egészségi állapot, egészségügyi hozzáférés, kórházak, prevenció, életmód, mentális egészség, közegészségügy.",
+    "policy_framing_en": "Relevant to: healthcare system design, hospital payment, prevention programs, pharmaceutical policy, mental health services.",
+    "policy_framing_hu": "Releváns: egészségügyi rendszer kialakítása, kórházi finanszírozás, prevenciós programok, gyógyszerpolitika, mentális szolgáltatások.",
+    "icon": "heart-pulse"
+  },
+  {
+    "id": "demographics-migration",
+    "name_en": "Demographics and migration",
+    "name_hu": "Demográfia és migráció",
+    "description_en": "Fertility, ageing, pensions, emigration, immigration, return migration, brain drain.",
+    "description_hu": "Termékenység, idősödés, nyugdíjak, kivándorlás, bevándorlás, visszavándorlás, agyelszívás.",
+    "policy_framing_en": "Relevant to: family policy, pension system, immigration policy, retention of skilled workers.",
+    "policy_framing_hu": "Releváns: családpolitika, nyugdíjrendszer, bevándorláspolitika, szakemberek megtartása.",
+    "icon": "users"
+  },
+  {
+    "id": "trade-fdi",
+    "name_en": "Trade, FDI, and global value chains",
+    "name_hu": "Kereskedelem, külföldi működő tőke",
+    "description_en": "Exports, imports, multinational firms, foreign direct investment, offshoring, global value chains, trade policy.",
+    "description_hu": "Export, import, multinacionális vállalatok, külföldi működő tőke, kiszervezés, globális értékláncok, kereskedelempolitika.",
+    "policy_framing_en": "Relevant to: EU trade policy, FDI promotion, export promotion, supply chain resilience, industrial policy.",
+    "policy_framing_hu": "Releváns: EU kereskedelempolitika, FDI ösztönzés, exporttámogatás, ellátási láncok rugalmassága, iparpolitika.",
+    "icon": "globe"
+  },
+  {
+    "id": "firms-productivity",
+    "name_en": "Firms and productivity",
+    "name_hu": "Vállalatok és termelékenység",
+    "description_en": "Firm dynamics, productivity, entry and exit, management practices, competitiveness, SME finance.",
+    "description_hu": "Vállalati dinamika, termelékenység, belépés és kilépés, menedzsmentgyakorlatok, versenyképesség, kkv-finanszírozás.",
+    "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
+    "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
+    "icon": "factory"
+  },
+  {
+    "id": "innovation-digital",
+    "name_en": "Innovation, R&D, and the digital economy",
+    "name_hu": "Innováció, K+F, digitális gazdaság",
+    "description_en": "R&D, patents, technology adoption, artificial intelligence, digitalization, open source, software economics.",
+    "description_hu": "K+F, szabadalmak, technológia-átvétel, mesterséges intelligencia, digitalizáció, nyílt forráskód, szoftvergazdaságtan.",
+    "policy_framing_en": "Relevant to: R&D tax credits, digital strategy, AI policy, innovation agency design, university–industry linkages.",
+    "policy_framing_hu": "Releváns: K+F adókedvezmények, digitális stratégia, MI-politika, innovációs ügynökségek, egyetem–ipar kapcsolatok.",
+    "icon": "cpu"
+  },
+  {
+    "id": "banking-finance",
+    "name_en": "Banking, finance, and monetary policy",
+    "name_hu": "Pénzügy, bankrendszer, monetáris politika",
+    "description_en": "Banks, credit, financial stability, stock markets, corporate finance, central bank policy, exchange rates.",
+    "description_hu": "Bankok, hitel, pénzügyi stabilitás, tőzsde, vállalati pénzügyek, központi banki politika, árfolyamok.",
+    "policy_framing_en": "Relevant to: MNB policy, banking regulation, macroprudential tools, financial inclusion.",
+    "policy_framing_hu": "Releváns: MNB-politika, bankszabályozás, makroprudenciális eszközök, pénzügyi befogadás.",
+    "icon": "landmark"
+  },
+  {
+    "id": "fiscal-tax",
+    "name_en": "Fiscal policy and taxation",
+    "name_hu": "Költségvetési politika és adózás",
+    "description_en": "Government budget, taxes, public debt, tax evasion, fiscal multipliers, income tax design, VAT.",
+    "description_hu": "Költségvetés, adók, államadósság, adóelkerülés, fiskális multiplikátorok, jövedelemadó-tervezés, ÁFA.",
+    "policy_framing_en": "Relevant to: tax reform, budget planning, public debt management, compliance policy.",
+    "policy_framing_hu": "Releváns: adóreform, költségvetés-tervezés, államadósság-kezelés, adócompliance.",
+    "icon": "coins"
+  },
+  {
+    "id": "regional-urban",
+    "name_en": "Regional and urban economics",
+    "name_hu": "Regionális és városi gazdaságtan",
+    "description_en": "Regional disparities, agglomeration, housing, urban policy, infrastructure, transport, commuting.",
+    "description_hu": "Regionális egyenlőtlenségek, agglomeráció, lakhatás, városfejlesztés, infrastruktúra, közlekedés, ingázás.",
+    "policy_framing_en": "Relevant to: regional development funds, housing policy, transport investment, urban planning.",
+    "policy_framing_hu": "Releváns: regionális fejlesztési alapok, lakáspolitika, közlekedési beruházások, városfejlesztés.",
+    "icon": "building"
+  },
+  {
+    "id": "energy-environment",
+    "name_en": "Energy, environment, and climate",
+    "name_hu": "Energia, környezet, klíma",
+    "description_en": "Energy policy, emissions, climate, air quality, renewables, environmental regulation.",
+    "description_hu": "Energiapolitika, kibocsátások, klíma, levegőminőség, megújuló energia, környezetvédelmi szabályozás.",
+    "policy_framing_en": "Relevant to: energy transition, carbon pricing, renewable support, environmental standards.",
+    "policy_framing_hu": "Releváns: energiaátmenet, szén-dioxid árazás, megújulók támogatása, környezeti szabványok.",
+    "icon": "leaf"
+  },
+  {
+    "id": "inequality-welfare",
+    "name_en": "Inequality, poverty, and social policy",
+    "name_hu": "Egyenlőtlenség, szegénység, szociálpolitika",
+    "description_en": "Income and wealth distribution, poverty, welfare programs, gender gaps, intergenerational mobility.",
+    "description_hu": "Jövedelem- és vagyoneloszlás, szegénység, szociális juttatások, nemek közötti szakadékok, generációk közötti mobilitás.",
+    "policy_framing_en": "Relevant to: welfare system, anti-poverty programs, family allowances, gender-equal pay policies.",
+    "policy_framing_hu": "Releváns: szociális rendszer, szegénység elleni programok, családi pótlékok, egyenlő bérezés.",
+    "icon": "scale"
+  },
+  {
+    "id": "political-economy",
+    "name_en": "Political economy and institutions",
+    "name_hu": "Politikai gazdaságtan, intézmények",
+    "description_en": "Institutions, rule of law, corruption, voting, populism, democracy, EU integration.",
+    "description_hu": "Intézmények, jogállamiság, korrupció, választások, populizmus, demokrácia, EU-integráció.",
+    "policy_framing_en": "Relevant to: anti-corruption policy, public administration reform, EU affairs, electoral system design.",
+    "policy_framing_hu": "Releváns: korrupcióellenes politika, közigazgatási reform, EU-ügyek, választási rendszer.",
+    "icon": "building-2"
+  },
+  {
+    "id": "transition-postcommunist",
+    "name_en": "Transition and post-communist economics",
+    "name_hu": "Rendszerváltás és posztszocialista gazdaság",
+    "description_en": "Transition dynamics, privatization, emerging Europe, CEE-specific research, economic history of the region.",
+    "description_hu": "Rendszerváltás, privatizáció, feltörekvő Európa, KKE-specifikus kutatás, a régió gazdaságtörténete.",
+    "policy_framing_en": "Relevant to: long-run diagnoses of the Hungarian and CEE economy, lessons from 30+ years of transition, institutional path dependence.",
+    "policy_framing_hu": "Releváns: a magyar és KKE gazdaság hosszú távú diagnózisa, 30+ év rendszerváltásának tanulságai, intézményi útfüggőség.",
+    "icon": "flag"
+  },
+  {
+    "id": "methods",
+    "name_en": "Methods and econometrics",
+    "name_hu": "Módszertan és ökonometria",
+    "description_en": "Papers whose primary contribution is methodological: estimation, identification, computation.",
+    "description_hu": "Olyan tanulmányok, amelyek elsődleges hozzájárulása módszertani: becslés, azonosítás, számítás.",
+    "policy_framing_en": "Relevant to: rigorous program evaluation; papers here explain how to measure policy effects credibly.",
+    "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
+    "icon": "function-square"
+  }
+]

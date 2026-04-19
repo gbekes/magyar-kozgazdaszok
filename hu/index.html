@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="hu">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bizonyíték Magyarországnak — kutatás a döntéshozóknak</title>
+  <link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+  <div id="site-header"></div>
+
+  <section class="hero">
+    <div class="container">
+      <h1>Magyar közgazdászok kutatásai, a szakpolitikának érthetően.</h1>
+      <p class="lede">Lektorált tanulmányok kereshető katalógusa — mindegyikhez közérthető összefoglaló, az adatok leírása, és mit tanulhat belőle egy magyar döntéshozó.</p>
+      <div class="search-wrap">
+        <div class="search-bar">
+          <input id="hero-search" type="search" placeholder='Keress cím, szerző, téma alapján — "/" a fókuszra' autocomplete="off">
+          <button type="button" onclick="document.getElementById('hero-search').focus()">Keresés</button>
+        </div>
+        <div id="hero-results" class="search-results hidden"></div>
+      </div>
+      <div class="stats">
+        <span><strong id="stat-papers">…</strong> tanulmány</span>
+        <span><strong id="stat-authors">…</strong> szerző</span>
+        <span><strong>15</strong> szakpolitikai téma</span>
+        <span class="muted"><a href="../index.html" style="color:var(--v-9);">English</a></span>
+      </div>
+    </div>
+  </section>
+
+  <main>
+    <div class="container">
+      <div class="banner-review">
+        A magyar oldal folyamatban van. A témák és a cím-/szerzőlista angolul és magyarul is elérhető; a tanulmányok közérthető összefoglalói fokozatosan kerülnek fordításra. Ahol még nincs magyar változat, az angol szöveg jelenik meg.
+      </div>
+
+      <section class="block">
+        <h2>Témák</h2>
+        <div id="topic-grid" class="topic-grid"></div>
+      </section>
+
+      <section class="block">
+        <h2>Kiemelt tanulmányok</h2>
+        <div id="featured-list"></div>
+      </section>
+
+      <section class="block">
+        <h2>Legutóbb hozzáadva</h2>
+        <div id="recent-list"></div>
+      </section>
+    </div>
+  </main>
+
+  <div id="site-footer"></div>
+
+  <script src="../assets/app.js"></script>
+  <script src="../assets/chrome.js"></script>
+  <script>
+  (async function () {
+    const EFH = window.EFH;
+    const data = await EFH.loadData();
+
+    document.getElementById('stat-papers').textContent = data.counts.papers;
+    document.getElementById('stat-authors').textContent = data.counts.authors;
+
+    const grid = document.getElementById('topic-grid');
+    grid.innerHTML = data.topics.map(t => `
+      <a class="topic-card" href="../topic.html?id=${encodeURIComponent(t.id)}">
+        <div class="name">${EFH.esc(t.name_hu || t.name_en)}</div>
+        <div class="count">${t.paper_count || 0} tanulmány</div>
+      </a>
+    `).join('');
+
+    const featured = data.papers.filter(p => p.featured).slice(0, 4);
+    document.getElementById('featured-list').innerHTML = featured.length
+      ? featured.map(p => EFH.paperCardHtml(data, p, 'hu')).join('')
+      : '<p class="muted">Még nincs kiemelt tanulmány.</p>';
+
+    const recent = [...data.papers]
+      .sort((a, b) => (b.added_at || '').localeCompare(a.added_at || ''))
+      .slice(0, 6);
+    document.getElementById('recent-list').innerHTML = recent.map(p => EFH.paperCardHtml(data, p, 'hu')).join('');
+
+    EFH.attachSearchBar(document.getElementById('hero-search'), document.getElementById('hero-results'));
+  })();
+  </script>
+</body>
+</html>

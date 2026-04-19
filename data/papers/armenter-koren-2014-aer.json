@@ -1,0 +1,46 @@
+{
+  "id": "armenter-koren-2014-aer",
+  "title": "A Balls-and-Bins Model of Trade",
+  "authors": [
+    "Roc Armenter",
+    "koren-miklos"
+  ],
+  "publication_type": "article",
+  "journal": "American Economic Review",
+  "year": 2014,
+  "volume": "104",
+  "issue": "7",
+  "pages": "2127-2151",
+  "doi": "10.1257/aer.104.7.2127",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1257/aer.104.7.2127",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "Many of the facts about the extensive margin of trade—which firms export, and how many products are sent to how many destinations— are consistent with a surprisingly large class of trade models because of the sparse nature of trade data. We propose a statistical model to account for sparsity, formalizing the assignment of trade shipments to country, product, and firm categories as balls falling into bins. The balls-and-bins model quantitatively reproduces the pattern of zero product- and firm-level trade flows across export destinations, and the frequency of multiproduct, multidestination exporters. In contrast, balls-and-bins overpredicts the fraction of exporting firms. ( JEL F11, F14)",
+  "summary_en": "Trade data is extraordinarily sparse: most firms export to only a handful of destinations, and most products are shipped by a small number of firms. This paper shows that many common \"facts\" about the extensive margin of trade — which firms export, to where, how many products — can be explained by a simple statistical model that assigns trade shipments to country–product–firm bins like balls falling into urns. The result is humbling: facts cited as evidence for sophisticated trade models may be consistent with pure randomness, and careful researchers need a statistical baseline before claiming structural evidence.",
+  "summary_hu": null,
+  "data_used": "US Census Bureau's Linked/Longitudinal Firm Trade Transactions Database, 2002 — universe of US export shipments by firm, destination country, and 6-digit HS product code; ~20 million shipments.",
+  "data_used_hu": null,
+  "policy_relevance": "Cautionary note for trade-policy modelling at the Ministry of Economy and KSH: quantitative claims about the composition of Hungarian exports (numbers of destinations, products per firm) should be compared against a balls-and-bins null before they are attributed to firm heterogeneity or trade frictions. Does not change first-order trade policy, but disciplines how evidence is read. US setting, but the statistical point generalises.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "trade-fdi",
+    "firms-productivity",
+    "methods"
+  ],
+  "methods": [
+    "structural",
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
+  "featured": false,
+  "added_at": "2026-04-19",
+  "last_reviewed_at": "2026-04-19",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2157241661"
+}

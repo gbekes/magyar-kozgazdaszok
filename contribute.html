@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Contribute — Evidence for Hungary</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <div id="site-header"></div>
+
+  <main>
+    <div class="container container-read">
+      <h1>Contribute</h1>
+
+      <p class="lede">Corrections, missing papers, missing authors — all welcome. There are three ways in.</p>
+
+      <h2>1. Flag a missing paper or correction</h2>
+      <p>Easiest path: email the editor at <a href="mailto:bekesg@ceu.edu">bekesg@ceu.edu</a> with:</p>
+      <ul>
+        <li>Paper title, authors, year, journal, DOI.</li>
+        <li>What's wrong or missing. Short is fine.</li>
+      </ul>
+      <p>If you are the author of a paper on the site and want to adjust how it's summarised, say so — author-approved summaries get a badge.</p>
+
+      <h2>2. Submit via pull request</h2>
+      <p>If you're comfortable with git, the data lives in JSON files in the repo:</p>
+      <ul>
+        <li>One file per paper at <code>data/papers/&lt;slug&gt;.json</code></li>
+        <li>One file per author at <code>data/authors/&lt;slug&gt;.json</code></li>
+      </ul>
+      <p>Slug format: <code>firstauthor-lastauthor-year-journalshort</code> (e.g., <code>lindner-harasztosi-2019-aer</code>). Use <code>data/sample-paper.json</code> as a template. Run <code>python build.py</code> locally to regenerate <code>data/index.json</code>, then open a PR.</p>
+
+      <h2>3. Suggest an author</h2>
+      <p>Inclusion criterion: at least one paper in a top general or top field journal (see the SPEC). Broader "Hungarian" definition: nationality, birthplace, or three or more years primary affiliation. If you think someone qualifies and isn't listed, write in.</p>
+
+      <h2>How summaries get written</h2>
+      <p>When a paper is added, the summary and policy-relevance fields start as <code>ai-drafted</code>. A human editor reviews, tightens, and flips them to <code>human-reviewed</code>. If the author reads and approves, the status moves to <code>author-approved</code> and a small badge appears on the paper. Authors can submit their own draft at any time.</p>
+
+      <h2>What we won't accept</h2>
+      <ul>
+        <li>Op-eds, blog posts, or policy notes without an abstract and a clear working-paper version.</li>
+        <li>Papers that aren't yet publicly posted (submit after posting a working paper).</li>
+        <li>Summaries that copy-paste the abstract — we want plain language.</li>
+      </ul>
+
+      <h2>Contact</h2>
+      <p>Editor: Gábor Békés (CEU / KRTK) — <a href="mailto:bekesg@ceu.edu">bekesg@ceu.edu</a>.</p>
+    </div>
+  </main>
+
+  <div id="site-footer"></div>
+
+  <script src="assets/app.js"></script>
+  <script src="assets/chrome.js"></script>
+</body>
+</html>

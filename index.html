@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Evidence for Hungary — research by Hungarian economists for policymakers</title>
+  <meta name="description" content="A searchable catalogue of peer-reviewed research by top Hungarian economists, framed for policymakers.">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <div id="site-header"></div>
+
+  <section class="hero">
+    <div class="container">
+      <h1>Research by top Hungarian economists, made useful for policy.</h1>
+      <p class="lede">A searchable catalogue of peer-reviewed papers — each with a plain-language summary, a description of the data behind it, and what a Hungarian policymaker can take from it.</p>
+      <div class="search-wrap">
+        <div class="search-bar">
+          <input id="hero-search" type="search" placeholder='Search titles, authors, topics — press "/" to focus' autocomplete="off">
+          <button type="button" onclick="document.getElementById('hero-search').focus()">Search</button>
+        </div>
+        <div id="hero-results" class="search-results hidden"></div>
+      </div>
+      <div class="stats">
+        <span><strong id="stat-papers">…</strong> papers</span>
+        <span><strong id="stat-authors">…</strong> authors</span>
+        <span><strong id="stat-topics">15</strong> policy topics</span>
+        <span class="muted">English and <a href="hu/index.html" style="color:var(--v-9);">Hungarian</a></span>
+      </div>
+    </div>
+  </section>
+
+  <main>
+    <div class="container">
+      <section class="block">
+        <h2>Browse by policy topic</h2>
+        <div id="topic-grid" class="topic-grid"></div>
+      </section>
+
+      <section class="block">
+        <h2>Featured papers</h2>
+        <div id="featured-list"></div>
+      </section>
+
+      <section class="block">
+        <h2>Recently added</h2>
+        <div id="recent-list"></div>
+      </section>
+    </div>
+  </main>
+
+  <div id="site-footer"></div>
+
+  <script src="assets/app.js"></script>
+  <script src="assets/chrome.js"></script>
+  <script>
+  (async function () {
+    const EFH = window.EFH;
+    const data = await EFH.loadData();
+
+    document.getElementById('stat-papers').textContent = data.counts.papers;
+    document.getElementById('stat-authors').textContent = data.counts.authors;
+
+    // topic grid
+    const grid = document.getElementById('topic-grid');
+    grid.innerHTML = data.topics.map(t => `
+      <a class="topic-card" href="topic.html?id=${encodeURIComponent(t.id)}">
+        <div class="name">${EFH.esc(t.name_en)}</div>
+        <div class="count">${t.paper_count || 0} paper${t.paper_count === 1 ? '' : 's'}</div>
+      </a>
+    `).join('');
+
+    // featured
+    const featured = data.papers.filter(p => p.featured).slice(0, 4);
+    const featEl = document.getElementById('featured-list');
+    featEl.innerHTML = featured.length
+      ? featured.map(p => EFH.paperCardHtml(data, p, 'en')).join('')
+      : '<p class="muted">No featured papers yet.</p>';
+
+    // recent (by added_at or year desc)
+    const recent = [...data.papers].sort((a, b) => {
+      return (b.added_at || '').localeCompare(a.added_at || '') || (b.year || 0) - (a.year || 0);
+    }).slice(0, 6);
+    const recentEl = document.getElementById('recent-list');
+    recentEl.innerHTML = recent.map(p => EFH.paperCardHtml(data, p, 'en')).join('');
+
+    // search bar
+    EFH.attachSearchBar(document.getElementById('hero-search'), document.getElementById('hero-results'));
+  })();
+  </script>
+</body>
+</html>

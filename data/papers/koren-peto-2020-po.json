@@ -1,0 +1,47 @@
+{
+  "id": "koren-peto-2020-po",
+  "title": "Business disruptions from social distancing",
+  "authors": [
+    "koren-miklos",
+    "Rita Pető"
+  ],
+  "publication_type": "article",
+  "journal": "PLoS ONE",
+  "year": 2020,
+  "volume": "15",
+  "issue": "9",
+  "pages": "e0239113-e0239113",
+  "doi": "10.1371/journal.pone.0239113",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1371/journal.pone.0239113",
+  "url_pdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0239113&type=printable",
+  "url_replication": null,
+  "abstract": "Social distancing interventions can be effective against epidemics but are potentially detrimental for the economy. Businesses that rely heavily on face-to-face communication or close physical proximity when producing a product or providing a service are particularly vulnerable. There is, however, no systematic evidence about the role of human interactions across different lines of business and about which will be the most limited by social distancing. Here we provide theory-based measures of the reliance of U.S. businesses on human interaction, detailed by industry and geographic location. We find that, before the pandemic hit, 43 million workers worked in occupations that rely heavily on face-to-face communication or require close physical proximity to other workers. Many of these workers lost their jobs since. Consistently with our model, employment losses have been largest in sectors that rely heavily on customer contact and where these contacts dropped the most: retail, hotels and restaurants, arts and entertainment and schools. Our results can help quantify the economic costs of social distancing.",
+  "summary_en": "At the start of the COVID-19 pandemic, everyone asked: which jobs require face-to-face work? This paper gave an early, systematic answer. The authors built theory-based indices of how much face-to-face communication or close physical proximity each US occupation requires, using the O*NET database, and estimated that 43 million US workers — about 30% of employment — worked in high-interaction jobs. Job losses through 2020 Q2 were disproportionately concentrated in exactly the sectors their index flagged: retail, hotels, restaurants, arts and entertainment, schools. The paper offered one of the first quantitative frameworks for thinking about the economic cost of social distancing.",
+  "summary_hu": null,
+  "data_used": "US Bureau of Labor Statistics occupational data (OES) combined with O*NET task-level data on job physical and communication requirements; US employment data through mid-2020 at occupation and metropolitan-area level.",
+  "data_used_hu": null,
+  "policy_relevance": "For Hungarian pandemic-preparedness and business-continuity policy: the paper's index framework can be reapplied to Hungarian occupation data to estimate the employment exposure to any future mobility-restriction shock. Relevant to the Ministry of Interior, Ministry of Finance (worker-support schemes), and ministries handling business-support programmes. The O*NET-based method is US; an adapted version using EU occupation classifications would make it directly operational for Hungary.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "labor-markets",
+    "health",
+    "firms-productivity"
+  ],
+  "methods": [
+    "descriptive-survey",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "admin-individual",
+    "digital-trace"
+  ],
+  "featured": false,
+  "added_at": "2026-04-19",
+  "last_reviewed_at": "2026-04-19",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3014364737"
+}

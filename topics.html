@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Topics — Evidence for Hungary</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <div id="site-header"></div>
+
+  <main>
+    <div class="container">
+      <h1>Policy topics</h1>
+      <p class="muted">Fifteen areas. Each paper is tagged with up to three. Click in to see the papers — and the kinds of data researchers have used.</p>
+      <div id="topic-grid" class="topic-grid"></div>
+    </div>
+  </main>
+
+  <div id="site-footer"></div>
+
+  <script src="assets/app.js"></script>
+  <script src="assets/chrome.js"></script>
+  <script>
+  (async function () {
+    const EFH = window.EFH;
+    const data = await EFH.loadData();
+    const grid = document.getElementById('topic-grid');
+    grid.innerHTML = data.topics.map(t => `
+      <a class="topic-card" href="topic.html?id=${encodeURIComponent(t.id)}">
+        <div class="name">${EFH.esc(t.name_en)}</div>
+        <div class="count">${t.paper_count || 0} paper${t.paper_count === 1 ? '' : 's'}</div>
+        <div class="small muted" style="margin-top:0.4rem;">${EFH.esc(EFH.firstSentence(t.description_en, 22))}</div>
+      </a>
+    `).join('');
+  })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,46 @@
+{
+  "id": "ambrus-field-et-al-2020-aer",
+  "title": "Loss in the Time of Cholera: Long-Run Impact of a Disease Epidemic on the Urban Landscape",
+  "authors": [
+    "ambrus-attila",
+    "Erica Field",
+    "Robert Gonzalez"
+  ],
+  "publication_type": "article",
+  "journal": "American Economic Review",
+  "year": 2020,
+  "volume": "110",
+  "issue": "2",
+  "pages": "475-525",
+  "doi": "10.1257/aer.20190759",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1257/aer.20190759",
+  "url_pdf": "https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20190759",
+  "url_replication": null,
+  "abstract": "How do geographically concentrated income shocks influence the long-run spatial distribution of poverty within a city? We examine the impact on housing prices of a cholera epidemic in one neighborhood of nineteenth century London. Ten years after the epidemic, housing prices are significantly lower just inside the catchment area of the water pump that transmitted the disease. Moreover, differences in housing prices persist over the following 160 years. We make sense of these patterns by building a model of a rental market with frictions in which poor tenants exert a negative externality on their neighbors. This showcases how a locally concentrated income shock can persistently change the tenant composition of a block. (JEL D62, O18, R21, R31)",
+  "summary_en": "A cholera outbreak in 19th-century London was localised to a single contaminated water pump. This paper shows that houses inside the pump's catchment area fell in value after the epidemic and — strikingly — remained cheaper for 160 years. The authors model a rental market with externalities between neighbours: a temporary income shock concentrated in one block can lock that block into a persistent low-income equilibrium. The result is a clean historical demonstration that geographic inequalities in cities can outlast by generations the shocks that caused them.",
+  "summary_hu": null,
+  "data_used": "Archival property-price and rental records for the Soho district of London matched to the 1854 cholera outbreak catchment area of the Broad Street pump; price data covers 1844 to the 2010s, combined with census records on neighbourhood composition.",
+  "data_used_hu": null,
+  "policy_relevance": "For Hungarian regional and urban policy: neighbourhood-concentrated shocks (factory closures, segregated housing decisions, localised environmental disasters) can create persistent poverty traps that ordinary labour-mobility won't dissolve. Relevant to Ministry of Interior decisions on segregated settlements (\"szegregátumok\"), targeted urban-renewal funding, and evaluation of place-based interventions. Caveat: 19th-century London had weaker labour mobility than modern Hungary; the mechanism is a plausible channel, not a point prediction.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "regional-urban",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "diff-in-diff",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "GB"
+  ],
+  "data_types": [
+    "historical"
+  ],
+  "featured": false,
+  "added_at": "2026-04-19",
+  "last_reviewed_at": "2026-04-19",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3003904273"
+}

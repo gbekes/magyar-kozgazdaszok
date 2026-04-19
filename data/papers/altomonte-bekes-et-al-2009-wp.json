@@ -1,0 +1,48 @@
+{
+  "id": "altomonte-bekes-et-al-2009-wp",
+  "title": "Trade Complexity and Productivity",
+  "authors": [
+    "Carlo Altomonte",
+    "bekes-gabor",
+    "Altomonte, Carlo",
+    "Bekes, Gabor"
+  ],
+  "publication_type": "working_paper",
+  "journal": null,
+  "year": 2009,
+  "volume": null,
+  "issue": null,
+  "pages": null,
+  "doi": "10.22004/ag.econ.54170",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.22004/ag.econ.54170",
+  "url_pdf": "https://ageconsearch.umn.edu/record/54170/files/62-09.pdf",
+  "url_replication": null,
+  "abstract": "We exploit a panel dataset of Hungarian firms merged with product-level trade data for the period 1992-2003 to investigate the relation between firms' trading activities (importing, exporting or both) and productivity. We find important self-selection effects of the most productive firms induced by the existence of heterogeneous sunk costs of trade, for both importers and exporters. We relate these sunk costs of trade to the relationship-specific nature of the trade activities, entailing a certain degree of technological and organizational complexity. We also show that, to the extent that imports and exports are correlated within firms, failing to control for the importing activity leads to overstated average productivity premia of exporters.",
+  "summary_en": "Why are firms that both import and export so much more productive than firms that only do one? This paper tracks Hungarian manufacturing firms 1992–2003, matched to product-level customs data, and shows that two-way traders really are better — but part of the gap is pure selection: the most productive firms self-select into two-way trade because the fixed costs are high. The paper argues these sunk costs reflect the relationship-intensive, organisationally complex nature of trade. A key corrective: estimates that ignore imports overstate the \"export premium\" substantially.",
+  "summary_hu": null,
+  "data_used": "Hungarian firm-level administrative panel 1992–2003 from APEH/NAV corporate tax filings merged with product-level customs data; manufacturing firms; variables include employment, capital, sales, exports and imports by HS product code.",
+  "data_used_hu": null,
+  "policy_relevance": "For Hungarian trade and industrial policy: simple export-promotion has limited effects because productive firms already export; supporting imports of intermediate inputs (through low tariffs, efficient customs) may be at least as productive a lever. Also useful for diagnostics: existing \"export premium\" statistics overstate the productivity-boosting effect of exporting alone. Ministry of Economy / HIPA should measure programme impacts net of the import channel.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "trade-fdi",
+    "firms-productivity",
+    "transition-postcommunist"
+  ],
+  "methods": [
+    "structural",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
+  "featured": false,
+  "added_at": "2026-04-19",
+  "last_reviewed_at": "2026-04-19",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2150925880"
+}

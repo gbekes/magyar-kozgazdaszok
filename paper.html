@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Paper — Evidence for Hungary</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <div id="site-header"></div>
+
+  <main>
+    <div class="container container-read">
+      <p class="small muted"><a href="papers.html">← All papers</a></p>
+      <div id="paper-root">Loading…</div>
+    </div>
+  </main>
+
+  <div id="site-footer"></div>
+
+  <script src="assets/app.js"></script>
+  <script src="assets/chrome.js"></script>
+  <script>
+  (async function () {
+    const EFH = window.EFH;
+    const data = await EFH.loadData();
+    const id = EFH.getParam('id');
+    const p = data.papersById[id];
+    const root = document.getElementById('paper-root');
+    if (!p) {
+      root.innerHTML = `<h1>Paper not found</h1><p class="muted">No paper with id <code>${EFH.esc(id || '')}</code>.</p>`;
+      return;
+    }
+    document.title = `${p.title} — Evidence for Hungary`;
+
+    const authors = (p.authors || []).map(a => EFH.authorLink(data, a, 'en')).join(', ');
+    const topicTags = (p.topics || []).map(t => EFH.topicLink(data, t, 'en')).join(' ');
+    const methodTags = (p.methods || []).map(m =>
+      `<span class="tag tag-method">${EFH.esc(EFH.methodLabel(m))}</span>`).join(' ');
+    const dataTags = (p.data_types || []).map(d =>
+      `<span class="tag tag-data">${EFH.esc(EFH.dataTypeLabel(d))}</span>`).join(' ');
+    const countryTags = (p.countries_studied || []).map(c =>
+      `<span class="tag tag-country">${EFH.esc(c)}</span>`).join(' ');
+
+    // At-a-glance row: primary topic, primary method, primary data type
+    const primaryTopic = p.topics?.[0] ? data.topicsById[p.topics[0]]?.name_en : '—';
+    const primaryMethod = p.methods?.[0] ? EFH.methodLabel(p.methods[0]) : '—';
+    const primaryData = p.data_types?.[0] ? EFH.dataTypeLabel(p.data_types[0]) : '—';
+
+    const pages = [p.volume, p.issue ? `(${p.issue})` : '', p.pages].filter(Boolean).join(', ');
+    const pub = [p.journal, p.year].filter(Boolean).join(', ');
+    const pubLine = `${p.journal ? `<span class="journal">${EFH.esc(p.journal)}</span>` : ''}${p.year ? ', ' + p.year : ''}${pages ? ', ' + EFH.esc(pages) : ''}`;
+
+    const links = [];
+    if (p.url_published || p.doi) links.push(`<a href="${EFH.esc(p.url_published || ('https://doi.org/' + p.doi))}" target="_blank" rel="noopener">Published version</a>`);
+    if (p.url_pdf) links.push(`<a href="${EFH.esc(p.url_pdf)}" target="_blank" rel="noopener">PDF</a>`);
+    if (p.url_replication) links.push(`<a href="${EFH.esc(p.url_replication)}" target="_blank" rel="noopener">Replication</a>`);
+    if (p.doi) links.push(`<a href="https://doi.org/${EFH.esc(p.doi)}" target="_blank" rel="noopener">DOI</a>`);
+
+    // Simple APA-ish citation
+    const authorStr = (p.authors || [])
+      .map(id => data.authorsById[id]?.name_en || id)
+      .join(', ');
+    const apa = `${authorStr} (${p.year}). ${p.title}. ${p.journal || ''}${p.volume ? `, ${p.volume}` : ''}${p.issue ? `(${p.issue})` : ''}${p.pages ? `, ${p.pages}` : ''}.`;
+    const bibtex = `@article{${p.id},
+  author  = {${authorStr}},
+  title   = {${p.title}},
+  journal = {${p.journal || ''}},
+  year    = {${p.year || ''}},
+  volume  = {${p.volume || ''}},
+  number  = {${p.issue || ''}},
+  pages   = {${p.pages || ''}},
+  doi     = {${p.doi || ''}}
+}`;
+
+    // Related papers: up to 3 sharing a topic or author
+    const topicSet = new Set(p.topics || []);
+    const authorSet = new Set(p.authors || []);
+    const related = data.papers.filter(q => q.id !== p.id &&
+      (q.topics?.some(t => topicSet.has(t)) || q.authors?.some(a => authorSet.has(a)))
+    ).slice(0, 3);
+
+    const reviewBanner = p.review_status && p.review_status !== 'author-approved'
+      ? `<div class="banner-review">
+           Summary status: <strong>${EFH.esc(p.review_status)}</strong>
+           — the non-technical text on this page is a first draft and has not yet been verified by the author.
+         </div>` : '';
+
+    root.innerHTML = `
+      <header class="paper-header">
+        <h1>${EFH.esc(p.title)}</h1>
+        <div class="byline">${authors}</div>
+        <div class="pub">${pubLine}</div>
+        ${p.featured ? '<span class="tag tag-featured">Featured</span>' : ''}
+        ${p.publication_type === 'working_paper' ? '<span class="tag tag-type">Working paper</span>' : ''}
+      </header>
+
+      ${reviewBanner}
+
+      <div class="at-a-glance">
+        <div class="chip-glance"><div class="label">Primary topic</div><div class="value">${EFH.esc(primaryTopic)}</div></div>
+        <div class="chip-glance"><div class="label">Method</div><div class="value">${EFH.esc(primaryMethod)}</div></div>
+        <div class="chip-glance"><div class="label">Data</div><div class="value">${EFH.esc(primaryData)}</div></div>
+      </div>
+
+      <section class="paper-section summary">
+        <h2>Non-technical summary</h2>
+        ${p.summary_en ? `<p>${EFH.esc(p.summary_en)}</p>` : '<p class="muted">Summary not written yet.</p>'}
+      </section>
+
+      <section class="paper-section">
+        <h2>Data used</h2>
+        ${p.data_used ? `<p>${EFH.esc(p.data_used)}</p>` : '<p class="muted">—</p>'}
+      </section>
+
+      <section class="paper-section">
+        <h2>Policy relevance</h2>
+        ${p.policy_relevance ? `<p>${EFH.esc(p.policy_relevance)}</p>` : '<p class="muted">—</p>'}
+      </section>
+
+      <section class="paper-section">
+        <h2>Abstract (original)</h2>
+        <details>
+          <summary>Show abstract</summary>
+          <div class="abstract-box">${EFH.esc(p.abstract || '')}</div>
+        </details>
+      </section>
+
+      <section class="paper-section">
+        <h2>Tags</h2>
+        <div>${topicTags} ${methodTags} ${dataTags} ${countryTags}</div>
+      </section>
+
+      <section class="paper-section">
+        <h2>Links</h2>
+        <ul class="link-list">${links.map(l => `<li>${l}</li>`).join('') || '<li class="muted">No links yet.</li>'}</ul>
+      </section>
+
+      <section class="paper-section">
+        <h2>Cite</h2>
+        <div class="cite-box" id="cite-apa"><button class="copy-btn" data-target="cite-apa">Copy</button>${EFH.esc(apa)}</div>
+        <details style="margin-top:0.6rem;">
+          <summary>BibTeX</summary>
+          <div class="cite-box" id="cite-bib"><button class="copy-btn" data-target="cite-bib">Copy</button>${EFH.esc(bibtex)}</div>
+        </details>
+      </section>
+
+      ${related.length ? `
+      <section class="paper-section">
+        <h2>Related papers</h2>
+        ${related.map(q => EFH.paperCardHtml(data, q, 'en')).join('')}
+      </section>` : ''}
+    `;
+
+    // copy buttons
+    document.querySelectorAll('.copy-btn').forEach(btn => {
+      btn.addEventListener('click', async () => {
+        const el = document.getElementById(btn.dataset.target);
+        const txt = el.childNodes[1]?.textContent || el.textContent;
+        try {
+          await navigator.clipboard.writeText(txt.trim());
+          btn.textContent = 'Copied!';
+          setTimeout(() => btn.textContent = 'Copy', 1500);
+        } catch (e) {
+          btn.textContent = 'Copy failed';
+        }
+      });
+    });
+  })();
+  </script>
+</body>
+</html>

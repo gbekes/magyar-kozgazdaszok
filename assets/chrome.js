@@ -1,0 +1,73 @@
+/* Injects the header and footer so they don't have to be duplicated across
+ * every HTML file. Called by a <script> tag at the bottom of each page.
+ */
+(function () {
+  const isHu = /\/hu\/[^?#]*$/.test(window.location.pathname);
+  const prefix = isHu ? '../' : '';
+  const huPrefix = isHu ? '' : 'hu/';
+
+  const nav = isHu ? {
+    papers: 'Tanulmányok',
+    authors: 'Szerzők',
+    topics: 'Témák',
+    about: 'Bemutatkozás',
+    contribute: 'Közreműködés',
+    brand: 'Bizonyíték Magyarországnak',
+    brandSub: 'magyar közgazdaságtan a politikának'
+  } : {
+    papers: 'Papers',
+    authors: 'Authors',
+    topics: 'Topics',
+    about: 'About',
+    contribute: 'Contribute',
+    brand: 'Evidence for Hungary',
+    brandSub: 'Hungarian economics for policy'
+  };
+
+  const header = `
+    <header class="site">
+      <div class="container">
+        <a href="${prefix}index.html" class="brand">
+          ${nav.brand}
+          <span class="sub">— ${nav.brandSub}</span>
+        </a>
+        <nav>
+          <a href="${prefix}papers.html">${nav.papers}</a>
+          <a href="${prefix}authors.html">${nav.authors}</a>
+          <a href="${prefix}topics.html">${nav.topics}</a>
+          <a href="${prefix}about.html">${nav.about}</a>
+          <a href="${prefix}contribute.html">${nav.contribute}</a>
+        </nav>
+        <div class="lang">
+          <a href="${prefix}index.html" class="${isHu ? '' : 'active'}">EN</a> /
+          <a href="${prefix}${huPrefix}index.html" class="${isHu ? 'active' : ''}">HU</a>
+        </div>
+      </div>
+    </header>
+  `;
+
+  const footer = `
+    <footer class="site">
+      <div class="container">
+        <p><strong>${nav.brand}</strong> — ${isHu
+          ? 'kutatási összefoglalók a magyar gazdaságpolitikához.'
+          : 'peer-reviewed research made useful for Hungarian policy.'}</p>
+        <p class="small muted">
+          ${isHu
+            ? 'Kurátor: Békés Gábor. MVP verzió, 2026 áprilisa. Jelezz hibát vagy hiányt a'
+            : 'Edited by Gábor Békés. MVP scaffold, April 2026. Corrections and missing papers welcome — see'}
+          <a href="${prefix}contribute.html">${nav.contribute}</a>.
+        </p>
+      </div>
+    </footer>
+  `;
+
+  // Insert header at the top of <body>, footer just before </body>.
+  const headerSlot = document.getElementById('site-header');
+  if (headerSlot) headerSlot.outerHTML = header;
+  else document.body.insertAdjacentHTML('afterbegin', header);
+
+  const footerSlot = document.getElementById('site-footer');
+  if (footerSlot) footerSlot.outerHTML = footer;
+  else document.body.insertAdjacentHTML('beforeend', footer);
+})();

@@ -1,0 +1,40 @@
+{
+  "id": "eso-szentes-2007-restud",
+  "title": "Optimal Information Disclosure in Auctions and the Handicap Auction",
+  "authors": [
+    "Peter Harremo es",
+    "szentes-balazs"
+  ],
+  "publication_type": "article",
+  "journal": "The Review of Economic Studies",
+  "year": 2007,
+  "volume": "74",
+  "issue": "3",
+  "pages": "705-731",
+  "doi": "10.1111/j.1467-937x.2007.00442.x",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1111/j.1467-937x.2007.00442.x",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "&lt;p&gt;We analyze a situation where a monopolist is selling an indivisible good to risk neutral buyers who only have an estimate of their private valuations. The seller can release, without observing, certain additional signals that affect the buyers’ valuations. Our main result is that in the expected revenue maximizing mechanism, the seller makes available all the information that she can, and her expected revenue is the same as it would be if she could observe the part of the information that is “new” to the buyers. We also show that this mechanism can be implemented by what we call a &lt;em&gt;handicap auction&lt;/em&gt; in interesting applications. In the first round of this auction, each buyer picks a price premium from a menu offered by the seller (a smaller premium costs more). Then the seller releases the additional signals. In the second round, the buyers bid in a second-price auction where the winner pays the sum of his premium and the second highest non-negative bid. In the case of a single buyer, this mechanism simplifies to a menu of European call options.&lt;/p&gt;",
+  "summary_en": "A seller has more information than her buyers about a good. Should she release that information before an auction? This paper shows the answer is unambiguous: release everything. In the revenue-maximising mechanism, the seller discloses all signals she can, and her expected revenue equals what she would earn if she could privately observe the new information herself. The authors propose a \"handicap auction\" that implements this mechanism: buyers first pick a price premium from a menu, then the seller reveals information, then a second-price auction runs with premium adjustments. For single-buyer cases, it reduces to a menu of call options.",
+  "summary_hu": null,
+  "data_used": "Theoretical paper; no empirical data.",
+  "data_used_hu": null,
+  "policy_relevance": "Important for Hungarian public-asset disposal (Ministry of National Assets), spectrum auctions (NMHH), and EU-procurement rules: the paper's message is that more disclosure is revenue-improving, not revenue-destroying, when the auction mechanism is chosen well. Suggests a simple implementation via two-stage handicap auctions that could be piloted for public-land or property sales. Abstract setting; specific implementation needs mechanism design tuned to the asset.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "methods",
+    "firms-productivity"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [],
+  "data_types": [],
+  "featured": false,
+  "added_at": "2026-04-19",
+  "last_reviewed_at": "2026-04-19",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2160062365"
+}

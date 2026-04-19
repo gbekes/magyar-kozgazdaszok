@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Topic — Evidence for Hungary</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <div id="site-header"></div>
+
+  <main>
+    <div class="container">
+      <p class="small muted"><a href="topics.html">← All topics</a></p>
+      <div id="topic-root">Loading…</div>
+    </div>
+  </main>
+
+  <div id="site-footer"></div>
+
+  <script src="assets/app.js"></script>
+  <script src="assets/chrome.js"></script>
+  <script>
+  (async function () {
+    const EFH = window.EFH;
+    const data = await EFH.loadData();
+    const id = EFH.getParam('id');
+    const t = data.topicsById[id];
+    const root = document.getElementById('topic-root');
+    if (!t) {
+      root.innerHTML = `<h1>Topic not found</h1><p class="muted">No topic with id <code>${EFH.esc(id || '')}</code>.</p>`;
+      return;
+    }
+    document.title = `${t.name_en} — Evidence for Hungary`;
+
+    const papers = data.papers
+      .filter(p => (p.topics || []).includes(id))
+      .sort((a, b) => (b.year || 0) - (a.year || 0));
+
+    // data landscape: count of data types appearing in these papers
+    const dataCounts = {};
+    const methodCounts = {};
+    for (const p of papers) {
+      for (const d of (p.data_types || [])) dataCounts[d] = (dataCounts[d] || 0) + 1;
+      for (const m of (p.methods || [])) methodCounts[m] = (methodCounts[m] || 0) + 1;
+    }
+    const dataLandscape = Object.entries(dataCounts).sort((a, b) => b[1] - a[1]);
+    const methodLandscape = Object.entries(methodCounts).sort((a, b) => b[1] - a[1]);
+
+    // related topics: topics that co-occur with this one
+    const related = {};
+    for (const p of papers) {
+      for (const tt of (p.topics || [])) {
+        if (tt !== id) related[tt] = (related[tt] || 0) + 1;
+      }
+    }
+    const relatedList = Object.entries(related).sort((a, b) => b[1] - a[1]).slice(0, 6);
+
+    root.innerHTML = `
+      <header class="entity-header">
+        <h1>${EFH.esc(t.name_en)}</h1>
+        <div class="sub">${EFH.esc(t.name_hu || '')}</div>
+        <p class="bio">${EFH.esc(t.description_en)}</p>
+        <p class="small"><strong>Policy framing:</strong> ${EFH.esc(t.policy_framing_en || '')}</p>
+      </header>
+
+      <div class="layout-filter">
+        <aside class="filter-sidebar">
+          <h3 style="margin-top:0;">Data landscape</h3>
+          ${dataLandscape.length ? dataLandscape.map(([d, c]) => `
+            <div class="small" style="display:flex; justify-content:space-between;">
+              <span>${EFH.esc(EFH.dataTypeLabel(d))}</span>
+              <span class="muted">${c}</span>
+            </div>
+          `).join('') : '<p class="muted small">No data yet.</p>'}
+
+          <h3>Methods</h3>
+          ${methodLandscape.length ? methodLandscape.map(([m, c]) => `
+            <div class="small" style="display:flex; justify-content:space-between;">
+              <span>${EFH.esc(EFH.methodLabel(m))}</span>
+              <span class="muted">${c}</span>
+            </div>
+          `).join('') : '<p class="muted small">—</p>'}
+
+          <h3>Related topics</h3>
+          ${relatedList.length ? relatedList.map(([rid, c]) =>
+            `<div class="small"><a href="topic.html?id=${encodeURIComponent(rid)}">${EFH.esc(data.topicsById[rid]?.name_en)}</a> <span class="muted">(${c})</span></div>`
+          ).join('') : '<p class="muted small">—</p>'}
+        </aside>
+
+        <section>
+          <div class="result-head">
+            <span class="count">${papers.length} paper${papers.length === 1 ? '' : 's'}</span>
+            <a class="small" href="papers.html?topic=${encodeURIComponent(id)}">Open in full filter view →</a>
+          </div>
+          ${papers.length ? papers.map(p => EFH.paperCardHtml(data, p, 'en')).join('') : '<p class="muted">No papers tagged with this topic yet.</p>'}
+        </section>
+      </div>
+    `;
+  })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Author — Evidence for Hungary</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <div id="site-header"></div>
+
+  <main>
+    <div class="container">
+      <p class="small muted"><a href="authors.html">← All authors</a></p>
+      <div id="author-root">Loading…</div>
+    </div>
+  </main>
+
+  <div id="site-footer"></div>
+
+  <script src="assets/app.js"></script>
+  <script src="assets/chrome.js"></script>
+  <script>
+  (async function () {
+    const EFH = window.EFH;
+    const data = await EFH.loadData();
+    const id = EFH.getParam('id');
+    const a = data.authorsById[id];
+    const root = document.getElementById('author-root');
+    if (!a) {
+      root.innerHTML = `<h1>Author not found</h1><p class="muted">No author with id <code>${EFH.esc(id || '')}</code>.</p>`;
+      return;
+    }
+    document.title = `${a.name_en} — Evidence for Hungary`;
+
+    const affils = (a.affiliations || []).map(x => {
+      const role = x.role ? `, ${x.role}` : '';
+      const since = x.start ? ` (since ${x.start})` : '';
+      return `<li>${EFH.esc(x.name + role)}${since}</li>`;
+    }).join('');
+
+    const fields = (a.primary_fields || []).map(f =>
+      `<a class="tag" href="topic.html?id=${encodeURIComponent(f)}">${EFH.esc(data.topicsById[f]?.name_en || f)}</a>`
+    ).join(' ');
+
+    const links = [];
+    if (a.website) links.push(`<a href="${EFH.esc(a.website)}" target="_blank" rel="noopener">Website</a>`);
+    if (a.scholar_id) links.push(`<a href="https://scholar.google.com/citations?user=${EFH.esc(a.scholar_id)}" target="_blank" rel="noopener">Google Scholar</a>`);
+    if (a.repec_id) links.push(`<a href="https://ideas.repec.org/e/${EFH.esc(a.repec_id)}.html" target="_blank" rel="noopener">RePEc</a>`);
+    if (a.orcid) links.push(`<a href="https://orcid.org/${EFH.esc(a.orcid)}" target="_blank" rel="noopener">ORCID</a>`);
+    if (a.email) links.push(`<a href="mailto:${EFH.esc(a.email)}">${EFH.esc(a.email)}</a>`);
+
+    // papers by this author, grouped by year desc
+    const papers = data.papers
+      .filter(p => (p.authors || []).includes(a.id))
+      .sort((x, y) => (y.year || 0) - (x.year || 0));
+    const byYear = {};
+    for (const p of papers) (byYear[p.year || 'undated'] ||= []).push(p);
+    const years = Object.keys(byYear).sort((a, b) => b.localeCompare(a));
+
+    const qp = a.qualifying_publication;
+    const qpLine = qp ? `<p class="small muted">Qualifying publication: <em>${EFH.esc(qp.title)}</em>, ${EFH.esc(qp.journal)}, ${qp.year}.</p>` : '';
+
+    const reviewBanner = a.review_status === 'needs-verification' || a.review_status === 'stub'
+      ? `<div class="banner-review">Profile status: <strong>${EFH.esc(a.review_status)}</strong> — details need verification.</div>`
+      : '';
+
+    root.innerHTML = `
+      <header class="entity-header">
+        <h1>${EFH.esc(a.name_en)}</h1>
+        ${a.name_hu && a.name_hu !== a.name_en ? `<div class="sub">${EFH.esc(a.name_hu)}</div>` : ''}
+        ${reviewBanner}
+        ${a.bio_en ? `<p class="bio">${EFH.esc(a.bio_en)}</p>` : ''}
+        ${fields ? `<div style="margin-top:0.5rem;">${fields}</div>` : ''}
+        ${qpLine}
+      </header>
+
+      <div class="layout-filter">
+        <aside class="filter-sidebar">
+          ${affils ? `<h3 style="margin-top:0;">Affiliations</h3><ul style="padding-left:1rem; margin:0.3rem 0;">${affils}</ul>` : ''}
+          ${links.length ? `<h3>Links</h3><ul class="link-list" style="margin:0;">${links.map(l => `<li>${l}</li>`).join('')}</ul>` : ''}
+        </aside>
+        <section>
+          <div class="result-head">
+            <span class="count">${papers.length} paper${papers.length === 1 ? '' : 's'}</span>
+          </div>
+          ${papers.length ? years.map(y => `
+            <div class="paper-year-group">
+              <h3>${EFH.esc(y)}</h3>
+              ${byYear[y].map(p => EFH.paperCardHtml(data, p, 'en')).join('')}
+            </div>
+          `).join('') : '<p class="muted">No papers indexed yet for this author. Paper entries are added as we go; check back.</p>'}
+        </section>
+      </div>
+    `;
+  })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,46 @@
+{
+  "id": "bekes-borza-et-al-2024-ei",
+  "title": "Favoritism under multiple sources of social pressure",
+  "authors": [
+    "bekes-gabor",
+    "Endre Márk Borza",
+    "Márton Fleck"
+  ],
+  "publication_type": "article",
+  "journal": "Economic Inquiry",
+  "year": 2024,
+  "volume": "62",
+  "issue": "4",
+  "pages": "1748-1769",
+  "doi": "10.1111/ecin.13245",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1111/ecin.13245",
+  "url_pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ecin.13245",
+  "url_replication": null,
+  "abstract": "Abstract When social pressure leads to favoritism, policies might aim to reduce the bias by affecting its source. This paper shows that multiple sources may be present and telling them apart is important. We build a novel and granular dataset on European football games and revisit the view that supporting crowds make referees help the host team. We find this bias to remain unchanged even in stadiums closed due to Covid‐19. Instead, influential host organizations emerge as the source of social pressure. This has an adverse effect on maintaining the ranking of influential teams and hindering the progress of smaller teams.",
+  "summary_en": "When referees appear to favour the home team in football, is it because the crowd pressures them? This paper builds a granular dataset of European football matches and separates out the sources of referee bias. Using the unique natural experiment of COVID-era empty stadiums — where the crowd simply wasn't there — the authors show that referee favouritism did not disappear. Instead, the bias persists and tracks the influence of host organisations themselves (clubs with stronger institutional clout). The effect helps entrench established big clubs and slows the upward mobility of smaller teams.",
+  "summary_hu": null,
+  "data_used": "Original match-by-match panel of European professional football matches spanning pre-COVID, during-COVID closed-stadium, and post-COVID periods; referee decisions, match outcomes, and team-level institutional-influence measures; tens of thousands of matches across major European leagues.",
+  "data_used_hu": null,
+  "policy_relevance": "Applies beyond football to any system where rankings are determined by officials who face informal pressure from powerful parties — academic peer review, procurement evaluation, antitrust decisions. For Hungarian competition authority (GVH) and public procurement: if evaluators are insulated from direct \"crowd\" pressure but still connected to influential institutions, bias persists. Suggests that rotating reviewers and limiting institutional ties matters more than simply reducing visible observer influence. Setting is European football; the mechanism generalises to expert-judgement contexts.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "political-economy",
+    "methods"
+  ],
+  "methods": [
+    "diff-in-diff",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "EU"
+  ],
+  "data_types": [
+    "digital-trace"
+  ],
+  "featured": false,
+  "added_at": "2026-04-19",
+  "last_reviewed_at": "2026-04-19",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4400697291"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "eso-szentes-2017-te",
+  "title": "Dynamic contracting: An irrelevance theorem",
+  "authors": [
+    "eso-peter",
+    "szentes-balazs"
+  ],
+  "publication_type": "article",
+  "journal": "Theoretical Economics",
+  "year": 2017,
+  "volume": "12",
+  "issue": "1",
+  "pages": "109-139",
+  "doi": "10.3982/te2127",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.3982/te2127",
+  "url_pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.3982/TE2127",
+  "url_replication": null,
+  "abstract": "This paper generalizes a conceptual insight in dynamic contracting with quasilinear payoffs: the principal does not need to pay any information rents for extracting the agent's “new” private information obtained after signing the contract. This is shown in a general model in which the agent's type stochastically evolves over time, and her payoff (which is linear in transfers) depends on the entire history of private and any contractible information, contractible decisions, and her hidden actions. The contract is offered by the principal in the presence of initial informational asymmetry. The model can be transformed into an equivalent one where the agent's subsequent information is independent in each period (type orthogonalization). We show that for any fixed decision–action rule implemented by a mechanism, the agent's rents (as well as the principal's maximal revenue) are the same as if the principal could observe and contract on the agent's orthogonalized types after the initial period. We also show that any monotonic decision–action rule can be implemented in a Markovian environment satisfying certain regularity conditions, and we provide a simple “recipe” for solving such dynamic contracting problems.",
+  "summary_en": "This paper proves a general \"irrelevance\" result for dynamic contracts: when agents' private information evolves over time, a principal (say, an employer or regulator) does not have to pay the agent to reveal new information acquired after signing. A clever reparameterisation (\"type orthogonalisation\") shows that the principal can extract all subsequent private information for free while still paying rents on the initial private information. The result unifies a large class of dynamic mechanism-design problems and provides a \"recipe\" for solving them.",
+  "summary_hu": null,
+  "data_used": "Theoretical paper; no empirical data.",
+  "data_used_hu": null,
+  "policy_relevance": "Relevant to long-term regulatory contracts, public-private partnerships, and procurement with uncertain future states — all standard Hungarian settings. Examples: concessions for motorway operations, long-term healthcare-provision contracts, energy-regulation tariffs. The takeaway: sophisticated, state-contingent contracting can eliminate the \"information rents\" that bureaucrats and regulators commonly assume they must pay. A theoretical-methodological contribution; direct translation to policy requires design expertise.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "methods",
+    "firms-productivity"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [],
+  "data_types": [],
+  "featured": false,
+  "added_at": "2026-04-19",
+  "last_reviewed_at": "2026-04-19",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2282230947"
+}

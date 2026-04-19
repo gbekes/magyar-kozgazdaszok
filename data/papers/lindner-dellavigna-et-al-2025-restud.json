@@ -1,0 +1,46 @@
+{
+  "id": "lindner-dellavigna-et-al-2025-restud",
+  "title": "Policy Diffusion and Polarization across U.S. States",
+  "authors": [
+    "lindner-attila",
+    "Stefano DellaVigna",
+    "Woojin Kim"
+  ],
+  "publication_type": "article",
+  "journal": "The Review of Economic Studies",
+  "year": 2025,
+  "volume": null,
+  "issue": null,
+  "pages": null,
+  "doi": "10.1093/restud/rdaf070",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1093/restud/rdaf070",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "Abstract Economists have studied the impact of numerous state laws, from welfare rules to voting ID requirements. Yet for all this policy evaluation, what do we know about policy diffusion—how these policies are introduced and spread from state to state? We present a series of facts based on a data set of 602 U.S. state policies spanning the past seven decades. First, proxies of state capacity do not predict a higher likelihood of innovating new policies, but the political leaning of the state does predict a higher likelihood of introducing partisan laws since 1990. Second, the diffusion of policies from 1950 to 2000 is best predicted by proximity—a state is more likely to adopt a policy if nearby states have already done so—as well as similarity in voter policy preferences. Third, since 2000, party alignment has become the strongest predictor of diffusion, and the speed of adoption has increased. Models of learning and correlated preferences can account for the earlier patterns, but the findings for the last two decades indicate a sharply increasing role of party control. We conclude that party polarization has emerged as a key factor recently for policy adoption, plausibly leading to a worse match between state policies and voter preferences.",
+  "summary_en": "Economists study how state laws work — but how do laws actually get adopted and spread? This paper assembles a dataset of 602 US state policies over the past seven decades and finds a sharp break around 2000. Before 2000, a state was more likely to adopt a policy if its neighbours had — a classic \"learning from nearby\" pattern. After 2000, geographic proximity fades and partisan alignment becomes the dominant predictor. Blue states adopt blue policies fast; red states adopt red policies. The speed of diffusion has risen, and policy adoption has become less reflective of voter preferences. The paper identifies party polarisation as the key force driving the shift.",
+  "summary_hu": null,
+  "data_used": "Novel hand-collected dataset of 602 US state-level laws and policy changes, 1950–2020s; supplemented with state political-control records, voter policy preferences, and measures of state capacity.",
+  "data_used_hu": null,
+  "policy_relevance": "Relevant framing for Hungarian policy-learning and EU-level-diffusion research. For Hungarian Ministry of Foreign Affairs and Ministry of Justice: policy adoption across EU member states may follow similar patterns — learning from neighbours early, then ideological alignment dominating later. Applies to debates about Hungarian adoption of EU directives, and to analysis of why some EU reform proposals succeed while others fail. Setting is US; the political-polarisation dynamics are likely to operate at different speeds in the EU context.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "political-economy",
+    "methods"
+  ],
+  "methods": [
+    "panel-data",
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
+  "featured": false,
+  "added_at": "2026-04-19",
+  "last_reviewed_at": "2026-04-19",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4414511355"
+}

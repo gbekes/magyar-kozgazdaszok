@@ -1,0 +1,48 @@
+{
+  "id": "karlan-mobius-et-al-2009-qje",
+  "title": "Trust and Social Collateral<sup>*</sup>",
+  "authors": [
+    "Dean Karlan",
+    "Markus Möbius",
+    "Tanya Rosenblat",
+    "szeidl-adam"
+  ],
+  "publication_type": "article",
+  "journal": "The Quarterly Journal of Economics",
+  "year": 2009,
+  "volume": "124",
+  "issue": "3",
+  "pages": "1307-1361",
+  "doi": "10.1162/qjec.2009.124.3.1307",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1162/qjec.2009.124.3.1307",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "This paper builds a theory of trust based on informal contract enforcement in social networks. In our model, network connections between individuals can be used as social collateral to secure informal borrowing. We define network-based trust as the largest amount one agent can borrow from another agent and derive a reduced-form expression for this quantity, which we then use in three applications. (1) We predict that dense networks generate bonding social capital that allows transacting valuable assets, whereas loose networks create bridging social capital that improves access to cheap favors such as information. (2) For job recommendation networks, we show that strong ties between employers and trusted recommenders reduce asymmetric information about the quality of job candidates. (3) Using data from Peru, we show empirically that network-based trust predicts informal borrowing, and we structurally estimate and test our model.",
+  "summary_en": "When banks won't lend to you, who will? Sometimes friends and extended family — but not everyone gets equal access. This paper builds a model of trust as \"social collateral\": your ability to borrow informally is bounded by how much future interaction you would lose by defaulting. Dense networks support large transactions (bonding), loose networks give access to information and small favours (bridging). In Peruvian field data the model's predictions hold: network connections predict informal borrowing amounts, and the structural parameters match observed behaviour.",
+  "summary_hu": null,
+  "data_used": "Original household network survey in Peruvian villages (~200 households) combined with detailed borrowing and lending records; conducted by the authors.",
+  "data_used_hu": null,
+  "policy_relevance": "For Hungarian financial-inclusion and anti-poverty policy: formal banking failures in rural/low-income communities can be partially substituted by trust-based informal networks — but only when networks are dense enough. Relevant for design of microcredit programmes (implied partnership with local networks) and financial-inclusion strategies at MNB/OECD level. Also informs poverty research: fragmented networks among marginalised groups (e.g., segregated communities) may compound exclusion. Setting is Peru; applicability to Hungarian villages needs empirical confirmation.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "banking-finance",
+    "inequality-welfare",
+    "methods"
+  ],
+  "methods": [
+    "structural",
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "PE"
+  ],
+  "data_types": [
+    "survey"
+  ],
+  "featured": false,
+  "added_at": "2026-04-19",
+  "last_reviewed_at": "2026-04-19",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3122626903"
+}

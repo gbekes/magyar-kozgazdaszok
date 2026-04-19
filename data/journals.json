@@ -1,0 +1,65 @@
+[
+  {"short": "AER",     "name": "American Economic Review",                        "tier": "A", "field": "general"},
+  {"short": "QJE",     "name": "Quarterly Journal of Economics",                   "tier": "A", "field": "general"},
+  {"short": "JPE",     "name": "Journal of Political Economy",                     "tier": "A", "field": "general"},
+  {"short": "ECMA",    "name": "Econometrica",                                     "tier": "A", "field": "general"},
+  {"short": "REStud",  "name": "Review of Economic Studies",                       "tier": "A", "field": "general"},
+  {"short": "JEEA",    "name": "Journal of the European Economic Association",     "tier": "A", "field": "general"},
+  {"short": "AEJ:App", "name": "American Economic Journal: Applied Economics",     "tier": "A", "field": "general"},
+  {"short": "AEJ:Mac", "name": "American Economic Journal: Macroeconomics",        "tier": "A", "field": "general"},
+  {"short": "AEJ:Mic", "name": "American Economic Journal: Microeconomics",        "tier": "A", "field": "general"},
+  {"short": "AEJ:Pol", "name": "American Economic Journal: Economic Policy",       "tier": "A", "field": "general"},
+  {"short": "EJ",      "name": "Economic Journal",                                 "tier": "A", "field": "general"},
+  {"short": "IER",     "name": "International Economic Review",                    "tier": "A", "field": "general"},
+  {"short": "REStat",  "name": "Review of Economics and Statistics",               "tier": "A", "field": "general"},
+  {"short": "JEP",     "name": "Journal of Economic Perspectives",                 "tier": "A", "field": "general"},
+  {"short": "TE",      "name": "Theoretical Economics",                            "tier": "A", "field": "general"},
+  {"short": "AEA:P&P", "name": "AEA Papers and Proceedings",                       "tier": "A", "field": "general"},
+
+  {"short": "JoLE",    "name": "Journal of Labor Economics",                       "tier": "B", "field": "labor"},
+  {"short": "LabEc",   "name": "Labour Economics",                                 "tier": "B", "field": "labor"},
+  {"short": "JHR",     "name": "Journal of Human Resources",                       "tier": "B", "field": "labor"},
+
+  {"short": "JIE",     "name": "Journal of International Economics",               "tier": "B", "field": "trade"},
+  {"short": "RIE",     "name": "Review of International Economics",                "tier": "B", "field": "trade"},
+
+  {"short": "JoF",     "name": "Journal of Finance",                               "tier": "B", "field": "finance"},
+  {"short": "RFS",     "name": "Review of Financial Studies",                      "tier": "B", "field": "finance"},
+  {"short": "JFE",     "name": "Journal of Financial Economics",                   "tier": "B", "field": "finance"},
+  {"short": "RoF",     "name": "Review of Finance",                                "tier": "B", "field": "finance"},
+  {"short": "JIMF",    "name": "Journal of International Money and Finance",       "tier": "B", "field": "finance"},
+
+  {"short": "JME",     "name": "Journal of Monetary Economics",                    "tier": "B", "field": "macro"},
+  {"short": "JMCB",    "name": "Journal of Money, Credit and Banking",             "tier": "B", "field": "macro"},
+
+  {"short": "RAND",    "name": "RAND Journal of Economics",                        "tier": "B", "field": "io"},
+  {"short": "IJIO",    "name": "International Journal of Industrial Organization", "tier": "B", "field": "io"},
+
+  {"short": "JPubE",   "name": "Journal of Public Economics",                      "tier": "B", "field": "public"},
+
+  {"short": "JDE",     "name": "Journal of Development Economics",                 "tier": "B", "field": "development"},
+
+  {"short": "JoEm",    "name": "Journal of Econometrics",                          "tier": "B", "field": "econometrics"},
+  {"short": "JBES",    "name": "Journal of Business and Economic Statistics",      "tier": "B", "field": "econometrics"},
+  {"short": "ET",      "name": "Econometric Theory",                               "tier": "B", "field": "econometrics"},
+
+  {"short": "JET",     "name": "Journal of Economic Theory",                       "tier": "B", "field": "theory"},
+  {"short": "EcTh",    "name": "Economic Theory",                                  "tier": "B", "field": "theory"},
+
+  {"short": "MS",      "name": "Management Science",                               "tier": "B", "field": "management"},
+  {"short": "SMJ",     "name": "Strategic Management Journal",                     "tier": "B", "field": "management"},
+  {"short": "OrgSci",  "name": "Organization Science",                             "tier": "B", "field": "management"},
+
+  {"short": "JUE",     "name": "Journal of Urban Economics",                       "tier": "B", "field": "urban"},
+  {"short": "RSUE",    "name": "Regional Science and Urban Economics",             "tier": "B", "field": "urban"},
+
+  {"short": "JHE",     "name": "Journal of Health Economics",                      "tier": "B", "field": "health"},
+  {"short": "HE",      "name": "Health Economics",                                 "tier": "B", "field": "health"},
+
+  {"short": "JEEM",    "name": "Journal of Environmental Economics and Management","tier": "B", "field": "environment"},
+  {"short": "JAERE",   "name": "Journal of the Association of Environmental and Resource Economists", "tier": "B", "field": "environment"},
+
+  {"short": "JEH",     "name": "Journal of Economic History",                      "tier": "B", "field": "history"},
+  {"short": "EEH",     "name": "Explorations in Economic History",                 "tier": "B", "field": "history"},
+  {"short": "ERH",     "name": "European Review of Economic History",              "tier": "B", "field": "history"}
+]

@@ -1,0 +1,45 @@
+{
+  "id": "eso-simonovits-et-al-2011-ao",
+  "title": "Designing benefit rules for flexible retirement: Welfare vs. redistribution",
+  "authors": [
+    "eso-peter",
+    "András Simonovits",
+    "János Tóth"
+  ],
+  "publication_type": "article",
+  "journal": "Acta Oeconomica",
+  "year": 2011,
+  "volume": "61",
+  "issue": "1",
+  "pages": "3-32",
+  "doi": "10.1556/aoecon.61.2011.1.2",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1556/aoecon.61.2011.1.2",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "With flexible (variable) retirement every individual determines his optimal retirement age, depending on a common benefit-retirement age schedule and his life expectancy. The government maximises the average expected lifetime utility minus a scalar multiple of the variance of the lifetime pension balances to achieve harmony between the maximisation of welfare and the minimisation of redistribution. Since the government cannot identify types by life expectancy, it must take the individual incentive compatibility constraints into account. Second-best schedules strongly reduce the variances of benefits and of retirement ages of the so-called actuarially fair system, thus achieving higher social welfare and lower redistribution.",
+  "summary_en": "How should a pension system be designed when people can choose when to retire? If everyone retires at the age that maximises their own lifetime benefit, life-expectancy differences translate into transfers from the short-lived to the long-lived. This paper shows that the government, by slightly bending the benefit–retirement-age schedule away from actuarial fairness, can reduce this implicit redistribution at small welfare cost. The resulting \"second-best\" schedule narrows the variance of both retirement ages and benefits compared to an actuarially fair system, while raising average welfare.",
+  "summary_hu": null,
+  "data_used": "Theoretical model calibrated to Hungarian pension-system parameters; no new micro-data.",
+  "data_used_hu": null,
+  "policy_relevance": "Direct Hungarian policy input. For the Ministry of Economy/Finance designing future pension reforms: pure actuarial fairness is not optimal when life-expectancy varies by socioeconomic group (as it does sharply in Hungary — see Bíró et al. 2021). A modest departure from actuarial fairness can reduce regressive redistribution toward the long-lived rich at minimal welfare cost. Directly applicable to Hungarian flexible-retirement rules. Caveat: the model assumes government can commit and that individuals respond rationally; real pension behaviour is noisier.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "demographics-migration",
+    "inequality-welfare",
+    "fiscal-tax"
+  ],
+  "methods": [
+    "theory",
+    "structural"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [],
+  "featured": false,
+  "added_at": "2026-04-19",
+  "last_reviewed_at": "2026-04-19",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2091189895"
+}

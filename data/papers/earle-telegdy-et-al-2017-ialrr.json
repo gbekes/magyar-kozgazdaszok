@@ -1,0 +1,48 @@
+{
+  "id": "earle-telegdy-et-al-2017-ialrr",
+  "title": "Foreign Ownership and Wages: Evidence from Hungary, 1986–2008",
+  "authors": [
+    "John S. Earle",
+    "telegdy-almos",
+    "Gábor Antal"
+  ],
+  "publication_type": "article",
+  "journal": "Industrial and Labor Relations Review",
+  "year": 2017,
+  "volume": "71",
+  "issue": "2",
+  "pages": "458-491",
+  "doi": "10.1177/0019793917700087",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1177/0019793917700087",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "This article estimates the wage effects of foreign direct investment (FDI) using firm-level and linked employer-employee panel data containing a large number of foreign acquisitions over a long period of rapid development in Hungary. Matching on pre-acquisition data, the authors find that much of the raw foreign wage premium represents selection bias, but that foreign acquisition nevertheless raises average wages by 15 to 29% when controlling for fixed effects for firms and highly detailed worker groups, and by 6% with firm–worker match effects. Acquired firms that are later divested to domestic owners experience a substantial reversal of the positive acquisition effect. No type of worker—defined by education, experience, gender, incumbency, and occupational group—experiences wage decline, but the patterns suggest skill bias in the gains from acquisition. The evidence implies a strong cross-firm correlation of FDI wage and productivity differentials, and an inverse relationship between FDI effects and economic development level of the sending country relative to Hungary.",
+  "summary_en": "When a foreign firm acquires a Hungarian company, what happens to wages? This paper uses 22 years (1986–2008) of matched employer-employee data to show foreign-owned firms pay a 15–29% wage premium over domestic firms — and critically, much of that premium is selection (better firms get acquired) rather than a true causal effect. The actual acquisition raises wages by about 6% once firm and worker fixed effects are properly controlled. No worker group loses wages after acquisition, but higher-skilled workers gain more. When foreign owners later divest back to domestic, the wage premium largely reverses.",
+  "summary_hu": null,
+  "data_used": "Hungarian linked employer-employee administrative panel 1986–2008 (Central Statistical Office/KSH wage survey linked to APEH/NAV firm register); ~3 million worker-years; includes a large sample of foreign acquisitions.",
+  "data_used_hu": null,
+  "policy_relevance": "For Hungarian labour and FDI policy: foreign acquisitions raise wages, but the size of that effect is much smaller than the raw cross-sectional gap suggests. Implications for the Ministry of Economy when evaluating FDI-promotion incentives: expected wage spillovers are real but modest. Relevant for the Ministry of Labour when monitoring worker welfare during ownership changes. Uses 1986–2008 data; recent geopolitical shifts and reshoring may change the profile of new foreign acquisitions.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "labor-markets",
+    "trade-fdi",
+    "firms-productivity"
+  ],
+  "methods": [
+    "panel-data",
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual",
+    "admin-firm"
+  ],
+  "featured": false,
+  "added_at": "2026-04-19",
+  "last_reviewed_at": "2026-04-19",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3125578567"
+}

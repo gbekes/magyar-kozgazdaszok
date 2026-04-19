@@ -1,0 +1,44 @@
+{
+  "id": "ambrus-greiner-2012-aer",
+  "title": "Imperfect Public Monitoring with Costly Punishment: An Experimental Study",
+  "authors": [
+    "ambrus-attila",
+    "Ben Greiner"
+  ],
+  "publication_type": "article",
+  "journal": "American Economic Review",
+  "year": 2012,
+  "volume": "102",
+  "issue": "7",
+  "pages": "3317-3332",
+  "doi": "10.1257/aer.102.7.3317",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1257/aer.102.7.3317",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "This paper experimentally investigates the effects of a costly punishment option on cooperation and social welfare in long, finitely repeated public good contribution games. In a perfect monitoring environment, increasing the severity of the potential punishment monotonically increases average net payoffs. In a more realistic imperfect monitoring environment, we find a U-shaped relationship. Access to a standard punishment technology in this setting significantly decreases net payoffs, even in the long run. Access to a severe punishment technology leads to roughly the same payoffs as with no punishment option, as the benefits of increased cooperation offset the social costs of punishing. (JEL C92, H41, K42)",
+  "summary_en": "In lab experiments on public-goods contributions, allowing players to punish free-riders raises cooperation — but punishment is costly, which cuts into the gains. This paper shows the trade-off is non-trivial: with realistic \"imperfect monitoring\" (you can't be sure someone actually free-rode), mild punishment options can make groups worse off because people punish each other by mistake. Severe punishment options do as well as no punishment, because the fear of severe retaliation deters both free-riding and unnecessary punishment. The paper refines a popular behavioural-economics result about the value of decentralised enforcement.",
+  "summary_hu": null,
+  "data_used": "Laboratory experiment with 180 participants playing finitely repeated public-goods games with costly punishment options, varying the severity of punishment and the quality of the monitoring signal; conducted at a German university.",
+  "data_used_hu": null,
+  "policy_relevance": "Relevant to the design of peer-monitoring schemes in tax compliance, workplace misconduct reporting, or community-based resource management: the paper cautions that half-measure punishment in noisy environments can backfire. If monitoring is imperfect, policy should either invest in better monitoring or design severe-but-rare sanctions rather than frequent small ones. Setting is student-lab experiment in Germany; field translation to Hungarian institutions (NAV, GVH) requires care.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "political-economy",
+    "methods"
+  ],
+  "methods": [
+    "rct"
+  ],
+  "countries_studied": [
+    "DE"
+  ],
+  "data_types": [
+    "field-experiment"
+  ],
+  "featured": false,
+  "added_at": "2026-04-19",
+  "last_reviewed_at": "2026-04-19",
+  "review_status": "ai-drafted",
+  "openalex_id": "W1993243903"
+}

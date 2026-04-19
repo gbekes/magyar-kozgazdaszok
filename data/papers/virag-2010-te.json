@@ -1,0 +1,39 @@
+{
+  "id": "virag-2010-te",
+  "title": "Competing auctions: Finite markets and convergence",
+  "authors": [
+    "virag-gabor"
+  ],
+  "publication_type": "article",
+  "journal": "Theoretical Economics",
+  "year": 2010,
+  "volume": "5",
+  "issue": "2",
+  "pages": "241-274",
+  "doi": "10.3982/te538",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.3982/te538",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "The literature on competing auctions offers a model where sellers compete for buyers by setting reserve prices freely. An important outstanding conjecture (e.g. Peters and Severinov (1997)) is that the sellers post prices close to their marginal costs when the market becomes large. This conjecture is confirmed in this paper. More precisely, we show that if all sellers have zero costs, then the equilibrium reserve price converges to 0 in distribution. I also show that if there is a high enough lower bound on the buyers’ valuations, then there is a symmetric pure strategy equilibrium. In this equilibrium, if the number of buyers (sellers) increases, then the equilibrium reserve price increases (decreases) and the reserve price is decreasing in the size of the market.",
+  "summary_en": "When sellers compete for buyers by setting reserve prices in auctions, do the reserve prices approach marginal cost as the market grows large? This paper confirms a long-standing conjecture in the competing-auctions literature: yes. More precisely, if all sellers have zero costs, the equilibrium reserve price converges in distribution to zero as the market becomes large. If buyer valuations are bounded below sufficiently high, a symmetric pure-strategy equilibrium exists; in that equilibrium, more buyers push reserve prices up and more sellers push them down, with reserve prices decreasing in overall market size.",
+  "summary_hu": null,
+  "data_used": "Theoretical paper; no empirical data.",
+  "data_used_hu": null,
+  "policy_relevance": "For Hungarian online-marketplace and platform-competition policy (GVH): supports the case that large platforms with many competing sellers do converge on competitive outcomes, which is relevant to merger analysis and platform-regulation debates. Less supportive of intervention in platforms that already have many sellers per buyer than in those with few. Abstract; concrete assessment of a specific marketplace requires empirical calibration.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "firms-productivity",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [],
+  "data_types": [],
+  "featured": false,
+  "added_at": "2026-04-19",
+  "last_reviewed_at": "2026-04-19",
+  "review_status": "ai-drafted",
+  "openalex_id": "W1487001069"
+}

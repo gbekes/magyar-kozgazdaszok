@@ -1,0 +1,39 @@
+{
+  "id": "kondor-2012-restud",
+  "title": "The More We Know about the Fundamental, the Less We Agree on the Price",
+  "authors": [
+    "kondor-peter"
+  ],
+  "publication_type": "article",
+  "journal": "The Review of Economic Studies",
+  "year": 2012,
+  "volume": "79",
+  "issue": "3",
+  "pages": "1175-1207",
+  "doi": "10.1093/restud/rdr051",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1093/restud/rdr051",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "I allow trading horizon heterogeneity across groups in a standard differential information model of a financial market. This approach can explain the well-established phenomenon that, after a public announcement, trading volume increases, more private information is incorporated into prices and volatility increases. In such environments, public information has the important secondary role of helping agents learn about the information of other agents. Therefore, whenever the correlation between the private information of different groups is sufficiently low, a public announcement increases disagreement among short-horizon traders regarding the expected selling price even as it decreases disagreement about the fundamental value of the asset. Additional testable implications are also suggested.",
+  "summary_en": "After a public announcement — an earnings release, a central-bank statement — trading volume typically spikes and volatility rises. That seems paradoxical: shouldn't public information lead to less disagreement, not more? This paper resolves the puzzle by introducing trading-horizon heterogeneity. Short-horizon traders care about each other's information (they want to resell at a profit), not just the fundamental. A public announcement helps traders learn about what other traders know, and when their private information is weakly correlated, this can increase disagreement even as it reduces disagreement about fundamentals.",
+  "summary_hu": null,
+  "data_used": "Theoretical model; the paper discusses consistency with empirical patterns in stock returns and trading volume around announcements.",
+  "data_used_hu": null,
+  "policy_relevance": "For MNB communication policy and financial-stability monitoring: even clear public announcements can increase short-run volatility through the trading-horizon channel, not because markets misunderstand the news but because they use it to re-infer what others know. Relevant for designing inflation-target communications (how detailed? how much guidance?) and for interpreting post-announcement spikes in HUF forward markets. Theoretical; direct calibration to Hungarian markets is not done.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "banking-finance",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [],
+  "data_types": [],
+  "featured": false,
+  "added_at": "2026-04-19",
+  "last_reviewed_at": "2026-04-19",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3125760810"
+}

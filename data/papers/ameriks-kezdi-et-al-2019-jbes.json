@@ -1,0 +1,48 @@
+{
+  "id": "ameriks-kezdi-et-al-2019-jbes",
+  "title": "Heterogeneity in Expectations, Risk Tolerance, and Household Stock Shares: The Attenuation Puzzle",
+  "authors": [
+    "John Ameriks",
+    "kezdi-gabor",
+    "Min Joon Lee",
+    "Matthew D. Shapiro"
+  ],
+  "publication_type": "article",
+  "journal": "Journal of Business and Economic Statistics",
+  "year": 2019,
+  "volume": "38",
+  "issue": "3",
+  "pages": "633-646",
+  "doi": "10.1080/07350015.2018.1549560",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1080/07350015.2018.1549560",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "This paper jointly estimates the relationship between stock share and expectations and risk preferences. The survey allows individual-level, quantitative estimates of risk tolerance and of the perceived mean and variance of stock returns. These estimates have economically and statistically significant association for the distribution of stock shares with relative magnitudes in proportion with the predictions of theories. Incorporating survey measurement error in the estimation model increases the estimated associations twofold, but they are still substantially attenuated being only about 5 percent of what benchmark finance theories predict. Because of the careful attention in the estimation to measurement error, the attenuation likely arises from economic behavior rather than errors in variables.",
+  "summary_en": "Standard finance theory predicts that households with higher risk tolerance and more optimistic stock-return beliefs should hold a much larger share of their wealth in stocks. The prediction is directionally right but quantitatively far too strong: actual stock shares respond only about one-fifth as much as theory says. This paper jointly measures risk preferences, expected stock returns, and actual portfolios in a large US household panel, and shows that even after correcting for measurement error the \"attenuation\" remains. Most household portfolios react to preferences and beliefs far more weakly than benchmark models imply.",
+  "summary_hu": null,
+  "data_used": "Vanguard Research Initiative: longitudinal survey of ~8,000 US Vanguard clients 2014–2017 with elicited risk tolerance, elicited distributions of expected one-year stock returns, and linked actual portfolio data.",
+  "data_used_hu": null,
+  "policy_relevance": "Relevant to Hungarian household-finance policy (MNB/Budapest Institute/pension regulators): standard asset-allocation advice assuming textbook risk-return trade-offs will badly over-fit real household behaviour. Implications for auto-enrolment defaults, personal pension product design (ÖNYP), and financial education: changing beliefs or even elicited risk tolerance is unlikely to produce one-for-one portfolio changes. Setting is US wealthy Vanguard clients; Hungarian median households are much less financially sophisticated, so the attenuation may be even stronger.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "banking-finance",
+    "inequality-welfare",
+    "methods"
+  ],
+  "methods": [
+    "structural",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "survey"
+  ],
+  "featured": false,
+  "added_at": "2026-04-19",
+  "last_reviewed_at": "2026-04-19",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2904488242"
+}

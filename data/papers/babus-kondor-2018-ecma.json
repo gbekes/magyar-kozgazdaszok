@@ -1,0 +1,40 @@
+{
+  "id": "babus-kondor-2018-ecma",
+  "title": "Trading and Information Diffusion in Over-the-Counter Markets",
+  "authors": [
+    "Ana Babus",
+    "kondor-peter"
+  ],
+  "publication_type": "article",
+  "journal": "Econometrica",
+  "year": 2018,
+  "volume": "86",
+  "issue": "5",
+  "pages": "1727-1769",
+  "doi": "10.3982/ecta12043",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.3982/ecta12043",
+  "url_pdf": "https://www.econometricsociety.org/sites/default/files/ecta12043-sup-0001-Supplement.pdf",
+  "url_replication": null,
+  "abstract": "We model trading and information diffusion in OTC markets, when dealers can engage in many bilateral transactions at the same time. We show that information diffusion is effective, but not efficient. While each bilateral price partially reveals all dealers' private information after a single round of trading, dealers could learn more even within the constraints imposed by our environment. This is not a result of dealers' market power, but arises from the interaction between decentralization and differences in dealers' valuation of the asset. We apply our framework to confront several explanations for the disruption of OTC markets with stylized facts from the empirical literature. We find more support for narratives emphasizing increased counterparty risk as opposed to increased informational frictions.",
+  "summary_en": "Most bond, derivative, and currency trading happens over the counter: dealers trade bilaterally, not through a central exchange. How well does information spread through such a decentralised market? This paper shows information diffusion works — every dealer's private signal eventually shows up in every price — but not efficiently: within the same round of trading, dealers could learn strictly more than they do. The friction is not market power but the interaction between decentralisation and differences in asset valuations. The paper maps these insights to stylised facts from the 2008 crisis, finding stronger support for explanations based on rising counterparty risk than on rising informational frictions.",
+  "summary_hu": null,
+  "data_used": "Theoretical model; no empirical data, but the authors discuss consistency with stylised facts from the post-2008 OTC-market literature.",
+  "data_used_hu": null,
+  "policy_relevance": "For MNB financial-stability policy and EU capital-markets regulation: the paper supports the case that mandatory central clearing and post-trade transparency (EMIR, MIFID II) improve information diffusion without having to wait for dealers to compete fully. Counterparty-risk management (margining, default funds) is likely the more important lever than information-disclosure rules. Theoretical; implications for specific Hungarian OTC markets need empirical follow-up.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "banking-finance",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [],
+  "data_types": [],
+  "featured": false,
+  "added_at": "2026-04-19",
+  "last_reviewed_at": "2026-04-19",
+  "review_status": "ai-drafted",
+  "openalex_id": "W1494170344"
+}

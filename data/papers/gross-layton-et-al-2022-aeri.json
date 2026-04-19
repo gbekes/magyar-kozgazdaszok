@@ -1,0 +1,46 @@
+{
+  "id": "gross-layton-et-al-2022-aeri",
+  "title": "The Liquidity Sensitivity of Healthcare Consumption: Evidence from Social Security Payments",
+  "authors": [
+    "Tal Gross",
+    "Timothy Layton",
+    "prinz-daniel"
+  ],
+  "publication_type": "article",
+  "journal": "American Economic Review Insights",
+  "year": 2022,
+  "volume": "4",
+  "issue": "2",
+  "pages": "175-190",
+  "doi": "10.1257/aeri.20200830",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1257/aeri.20200830",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "Insurance is typically viewed as a mechanism for transferring resources from good to bad states. Insurance, however, may also transfer resources from high-liquidity periods to low-liquidity periods. We test for this type of transfer from health insurance by studying the distribution of Social Security checks among Medicare recipients. When Social Security checks are distributed, prescription fills increase by 6-12 percent among recipients who pay small copayments. We find no such pattern among recipients who face no copayments. The results demonstrate that more-complete insurance allows recipients to consume healthcare when they need it rather than only when they have cash.",
+  "summary_en": "Health insurance is usually thought of as protection against bad-health states. This paper shows it also functions as a liquidity bridge. Among US Medicare recipients who pay small copayments, prescription fills jump 6–12% right after Social Security checks arrive — suggesting that lack of cash at the end of the month delays needed prescriptions. For recipients with no copay, no such pattern exists. The implication: more-complete insurance (zero or low out-of-pocket costs) is particularly valuable for liquidity-constrained households, beyond its risk-pooling function.",
+  "summary_hu": null,
+  "data_used": "US Medicare Part D prescription-fill records linked to Social Security benefit-payment timing, ~2010–2015; millions of prescription fills for elderly US recipients.",
+  "data_used_hu": null,
+  "policy_relevance": "For Hungarian pharmaceutical co-pay policy (OEP/NEAK): small patient co-pays on prescription drugs aren't just a transfer of cost — they can cause liquidity-driven delays in medication adherence, worsening health outcomes. Relevant to policy around \"means-tested\" co-pays and chronic-disease prescription refills for pensioners. Setting is US elderly; the mechanism likely applies to Hungarian low-income pensioners whose income comes in a regular pension payment, possibly with similar timing effects.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "health",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "panel-data",
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
+  "featured": false,
+  "added_at": "2026-04-19",
+  "last_reviewed_at": "2026-04-19",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3147950302"
+}

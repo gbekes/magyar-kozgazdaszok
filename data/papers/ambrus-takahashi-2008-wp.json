@@ -1,0 +1,40 @@
+{
+  "id": "ambrus-takahashi-2008-wp",
+  "title": "Multi-sender cheap talk with restricted state spaces",
+  "authors": [
+    "ambrus-attila",
+    "Satoru Takahashi"
+  ],
+  "publication_type": "working_paper",
+  "journal": null,
+  "year": 2008,
+  "volume": "3",
+  "issue": "1",
+  "pages": null,
+  "doi": null,
+  "working_paper_series": null,
+  "url_published": null,
+  "url_pdf": "http://hdl.handle.net/10419/150105",
+  "url_replication": null,
+  "abstract": "This paper analyzes multi-sender cheap talk when the state space might be restricted, either because the policy space is restricted, or the set of rationalizable policies of the receiver is not the whole space. We provide a necessary and sufficient condition for the existence of a fully revealing perfect Bayesian equilibrium for any state space. We show that if biases are large enough and are not of similar directions, where the notion of similarity depends on the shape of the state space, then there is no fully revealing perfect Bayesian equilibrium. The results suggest that boundedness, as opposed to dimensionality, of the state space plays an important role in determining the qualitative implications of a cheap talk model. We also investigate equilibria that satisfy a robustness property, diagonal continuity.",
+  "summary_en": "When several advisers send messages to a decision-maker whose preferences differ from theirs — a classic \"cheap talk\" setting — can full truth-telling survive? This paper generalises existing results by allowing the set of possible decisions to be restricted, which matters in real institutions where policies are bounded. The main result: whether fully revealing equilibria exist depends on the shape (not just the dimension) of the decision space, and on how biased the advisers are relative to each other. A bounded, oddly-shaped space can rule out truth-telling even when advisers have moderate biases.",
+  "summary_hu": null,
+  "data_used": "Theoretical paper; no empirical data.",
+  "data_used_hu": null,
+  "policy_relevance": "Indirectly relevant to the design of expert-advisory bodies where the range of feasible policies is constrained (e.g., EU fiscal rules, MNB inflation-target bands, environmental quotas). Implication: bounding the policy space deliberately — rather than allowing the full real line — is not a costless neutrality choice, it changes what information gets revealed. Keeps advisory panels honest when their biases point in similar directions; breaks down when biases diverge.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "political-economy",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [],
+  "data_types": [],
+  "featured": false,
+  "added_at": "2026-04-19",
+  "last_reviewed_at": "2026-04-19",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2104247047"
+}
