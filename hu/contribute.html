@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="hu">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Közreműködés — Magyar Közgazdászok</title>
+  <link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+  <div id="site-header"></div>
+
+  <main>
+    <div class="container container-read">
+      <h1>Közreműködés</h1>
+
+      <p class="lede">Javítások, hiányzó tanulmányok, hiányzó szerzők — mindent szívesen veszünk. Három út vezet be.</p>
+
+      <h2>1. Hiányzó tanulmány vagy javítás jelzése</h2>
+      <p>A legegyszerűbb mód: írj a szerkesztőnek a <a href="mailto:bekesg@ceu.edu">bekesg@ceu.edu</a> címre, és add meg:</p>
+      <ul>
+        <li>Tanulmány címe, szerzők, év, folyóirat, DOI.</li>
+        <li>Mi hibás, vagy mi hiányzik. Röviden is elég.</li>
+      </ul>
+      <p>Ha egy itt szereplő tanulmány szerzője vagy, és szeretnéd finomhangolni az összefoglalót, írd meg — a szerző által jóváhagyott összefoglalókhoz külön jelzés kerül.</p>
+
+      <h2>2. Beküldés pull requesttel</h2>
+      <p>Ha használsz git-et, az adat JSON fájlokban található a repóban:</p>
+      <ul>
+        <li>Tanulmányonként egy fájl: <code>data/papers/&lt;slug&gt;.json</code></li>
+        <li>Szerzőnként egy fájl: <code>data/authors/&lt;slug&gt;.json</code></li>
+      </ul>
+      <p>Slug formátum: <code>elsoszerzo-masodikszerzo-ev-folyoiratrovidites</code> (pl. <code>lindner-harasztosi-2019-aer</code>). Sablonnak használd a <code>data/sample-paper.json</code> fájlt. Futtasd helyben a <code>python build.py</code> parancsot a <code>data/index.json</code> újragenerálásához, majd nyiss egy PR-t.</p>
+
+      <h2>3. Szerző javaslata</h2>
+      <p>A bekerülés feltétele: legalább egy publikáció egy vezető általános vagy területi folyóiratban (lásd SPEC). A „magyar” definíció tág: állampolgárság, születési hely, vagy legalább három év elsődleges magyarországi affiliáció. Ha úgy gondolod, valaki megfelel és nincs a listán, jelezd.</p>
+
+      <h2>Hogyan készülnek az összefoglalók</h2>
+      <p>Új tanulmány esetén az összefoglaló és szakpolitikai relevancia mezők <code>ai-drafted</code> (mesterséges intelligenciával fogalmazott) állapotban indulnak. Emberi szerkesztő átolvassa, pontosítja, majd átállítja <code>human-reviewed</code> státuszra. Ha a szerző is jóváhagyja, az állapot <code>author-approved</code> lesz, és kis jelölés kerül a tanulmány oldalára. A szerzők bármikor beküldhetik saját változatukat.</p>
+
+      <h2>Mit nem fogadunk el</h2>
+      <ul>
+        <li>Publicisztikák, blogbejegyzések, absztrakt és nyilvános műhelytanulmány-változat nélküli szakpolitikai írások.</li>
+        <li>Olyan tanulmányok, amelyek még nincsenek nyilvánosan közzétéve (működő műhelytanulmány-verzió közzététele után jelezd).</li>
+        <li>Olyan összefoglalók, amelyek az absztraktot másolják — célunk a közérthető nyelv.</li>
+      </ul>
+
+      <h2>Kapcsolat</h2>
+      <p>Szerkesztő: Békés Gábor (CEU / KRTK) — <a href="mailto:bekesg@ceu.edu">bekesg@ceu.edu</a>.</p>
+    </div>
+  </main>
+
+  <div id="site-footer"></div>
+
+  <script src="../assets/app.js"></script>
+  <script src="../assets/chrome.js"></script>
+</body>
+</html>

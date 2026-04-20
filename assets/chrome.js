@@ -2,9 +2,17 @@
  * every HTML file. Called by a <script> tag at the bottom of each page.
  */
 (function () {
-  const isHu = /\/hu\/[^?#]*$/.test(window.location.pathname);
+  const path = window.location.pathname;
+  const isHu = /\/hu\/[^?#]*$/.test(path);
   const prefix = isHu ? '../' : '';
   const huPrefix = isHu ? '' : 'hu/';
+
+  // Preserve the current page when switching language.
+  // E.g. /papers.html?id=foo  ↔  /hu/papers.html?id=foo
+  const page = (path.match(/[^/]+\.html$/) || ['index.html'])[0];
+  const search = window.location.search || '';
+  const enHref = `${prefix}${page}${search}`;
+  const huHref = `${prefix}${huPrefix}${page}${search}`;
 
   const nav = isHu ? {
     papers: 'Tanulmányok',
@@ -39,8 +47,8 @@
           <a href="${prefix}contribute.html">${nav.contribute}</a>
         </nav>
         <div class="lang">
-          <a href="${prefix}index.html" class="${isHu ? '' : 'active'}">EN</a> /
-          <a href="${prefix}${huPrefix}index.html" class="${isHu ? 'active' : ''}">HU</a>
+          <a href="${enHref}" class="${isHu ? '' : 'active'}">EN</a> /
+          <a href="${huHref}" class="${isHu ? 'active' : ''}">HU</a>
         </div>
       </div>
     </header>

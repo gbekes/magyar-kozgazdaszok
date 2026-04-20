@@ -263,8 +263,12 @@
     });
   }
 
+  // Current language, detected from URL path: 'hu' if under /hu/, else 'en'.
+  const lang = /\/hu\/[^?#]*$/.test(window.location.pathname) ? 'hu' : 'en';
+
   // expose
   window.EFH = {
+    lang,
     loadData, esc, authorName, authorLink, topicName, topicLink,
     methodLabel, dataTypeLabel, firstSentence, paperCardHtml,
     getParam, search, attachSearchBar, rootPrefix

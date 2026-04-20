@@ -1,0 +1,203 @@
+<!doctype html>
+<html lang="hu">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tanulmányok — Magyar Közgazdászok</title>
+  <link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+  <div id="site-header"></div>
+
+  <main>
+    <div class="container">
+      <h1>Tanulmányok</h1>
+      <p class="muted">Magyar közgazdászok lektorált cikkei és friss műhelytanulmányai.</p>
+
+      <div class="search-bar" style="max-width:560px; margin-bottom:1.5rem;">
+        <input id="paper-search" type="search" placeholder="Szűrés cím, szerző, kulcsszó alapján…" autocomplete="off">
+      </div>
+
+      <div class="layout-filter">
+        <aside class="filter-sidebar">
+          <h3>Téma</h3>
+          <div id="filter-topics"></div>
+
+          <h3>Módszer</h3>
+          <div id="filter-methods"></div>
+
+          <h3>Publikáció típusa</h3>
+          <div id="filter-types"></div>
+
+          <h3>Év</h3>
+          <div style="display:flex; gap:0.3rem; align-items:center;">
+            <input id="year-from" type="number" placeholder="-tól" min="1960" max="2030" style="width:50%;">
+            <span>–</span>
+            <input id="year-to" type="number" placeholder="-ig" min="1960" max="2030" style="width:50%;">
+          </div>
+
+          <button class="reset" type="button" id="reset-filters">Szűrők törlése</button>
+        </aside>
+
+        <section>
+          <div class="result-head">
+            <div>
+              <span id="result-count" class="count">…</span>
+              <div class="active-filters" id="active-filters"></div>
+            </div>
+            <label class="small">Rendezés:
+              <select id="sort-order">
+                <option value="year-desc">Év (legújabb elöl)</option>
+                <option value="year-asc">Év (legrégebbi elöl)</option>
+                <option value="title">Cím A–Z</option>
+              </select>
+            </label>
+          </div>
+          <div id="paper-list"></div>
+        </section>
+      </div>
+    </div>
+  </main>
+
+  <div id="site-footer"></div>
+
+  <script src="../assets/app.js"></script>
+  <script src="../assets/chrome.js"></script>
+  <script>
+  (async function () {
+    const EFH = window.EFH;
+    const data = await EFH.loadData();
+
+    const topicCounts = {}, methodCounts = {}, typeCounts = {};
+    for (const p of data.papers) {
+      for (const t of (p.topics || [])) topicCounts[t] = (topicCounts[t] || 0) + 1;
+      for (const m of (p.methods || [])) methodCounts[m] = (methodCounts[m] || 0) + 1;
+      typeCounts[p.publication_type] = (typeCounts[p.publication_type] || 0) + 1;
+    }
+
+    function buildCheckboxes(containerId, items, getLabel) {
+      document.getElementById(containerId).innerHTML = items.map(([id, count]) => `
+        <label>
+          <input type="checkbox" value="${id}"> ${EFH.esc(getLabel(id))}
+          <span class="count">(${count})</span>
+        </label>
+      `).join('');
+    }
+
+    const methodLabelsHu = {
+      'rct': 'Randomizált kísérlet (RCT, terepkísérlet)',
+      'diff-in-diff': 'Különbség a különbségben',
+      'iv': 'Instrumentumváltozó',
+      'rd': 'Regressziós diszkontinuitás',
+      'panel-data': 'Paneladat / fix hatások',
+      'synthetic-control': 'Szintetikus kontroll',
+      'structural': 'Strukturális modell',
+      'theory': 'Elmélet',
+      'time-series': 'Idősor / VAR',
+      'ml-text': 'Gépi tanulás / szövegelemzés',
+      'descriptive-survey': 'Leíró / felmérés-alapú'
+    };
+    const typeLabelsHu = {'article':'Folyóiratcikk','working_paper':'Műhelytanulmány','chapter':'Könyvfejezet'};
+
+    const topicEntries = data.topics.map(t => [t.id, topicCounts[t.id] || 0])
+                                     .filter(([, c]) => c > 0).sort((a, b) => b[1] - a[1]);
+    buildCheckboxes('filter-topics', topicEntries, id => data.topicsById[id].name_hu || data.topicsById[id].name_en);
+
+    const methodEntries = Object.entries(methodCounts).sort((a, b) => b[1] - a[1]);
+    buildCheckboxes('filter-methods', methodEntries, id => methodLabelsHu[id] || EFH.methodLabel(id));
+
+    const typeEntries = Object.entries(typeCounts).sort((a, b) => b[1] - a[1]);
+    buildCheckboxes('filter-types', typeEntries, id => typeLabelsHu[id] || id);
+
+    const state = { topics: new Set(), methods: new Set(), types: new Set(),
+                    yearFrom: null, yearTo: null, query: '', sort: 'year-desc' };
+
+    const urlTopic = EFH.getParam('topic');
+    if (urlTopic) state.topics.add(urlTopic);
+
+    function collect(id, set) {
+      set.clear();
+      document.querySelectorAll(`#${id} input[type=checkbox]:checked`).forEach(cb => set.add(cb.value));
+    }
+
+    function applyAndRender() {
+      collect('filter-topics', state.topics);
+      collect('filter-methods', state.methods);
+      collect('filter-types', state.types);
+      state.yearFrom = parseInt(document.getElementById('year-from').value) || null;
+      state.yearTo   = parseInt(document.getElementById('year-to').value) || null;
+      state.query    = document.getElementById('paper-search').value.trim().toLowerCase();
+      state.sort     = document.getElementById('sort-order').value;
+
+      let filtered = data.papers.filter(p => {
+        if (state.topics.size && !p.topics?.some(t => state.topics.has(t))) return false;
+        if (state.methods.size && !p.methods?.some(m => state.methods.has(m))) return false;
+        if (state.types.size && !state.types.has(p.publication_type)) return false;
+        if (state.yearFrom && (p.year || 0) < state.yearFrom) return false;
+        if (state.yearTo && (p.year || 9999) > state.yearTo) return false;
+        if (state.query) {
+          const haystack = [p.title, p.abstract, p.summary_en, p.summary_hu, p.journal,
+            (p.authors || []).map(id => data.authorsById[id]?.name_en || '').join(' ')
+          ].join(' ').toLowerCase();
+          if (!haystack.includes(state.query)) return false;
+        }
+        return true;
+      });
+
+      filtered.sort((a, b) => {
+        if (state.sort === 'year-asc') return (a.year || 0) - (b.year || 0);
+        if (state.sort === 'title') return (a.title || '').localeCompare(b.title || '');
+        return (b.year || 0) - (a.year || 0);
+      });
+
+      document.getElementById('result-count').textContent =
+        `${filtered.length} tanulmány`;
+
+      document.getElementById('paper-list').innerHTML = filtered.length
+        ? filtered.map(p => EFH.paperCardHtml(data, p, 'hu')).join('')
+        : '<p class="muted">Nincs a szűrőknek megfelelő tanulmány.</p>';
+
+      const chips = [];
+      state.topics.forEach(t => chips.push({ kind:'topics', val:t, label:'Téma: '+(data.topicsById[t]?.name_hu || data.topicsById[t]?.name_en)}));
+      state.methods.forEach(m => chips.push({ kind:'methods', val:m, label:'Módszer: '+(methodLabelsHu[m] || EFH.methodLabel(m))}));
+      state.types.forEach(t => chips.push({ kind:'types', val:t, label:'Típus: '+(typeLabelsHu[t] || t)}));
+      if (state.yearFrom || state.yearTo) chips.push({ kind:'year', val:'year', label:`Év: ${state.yearFrom || '…'}–${state.yearTo || '…'}`});
+      if (state.query) chips.push({ kind:'query', val:'query', label:`"${state.query}"` });
+      document.getElementById('active-filters').innerHTML = chips
+        .map(c => `<span class="chip" data-kind="${c.kind}" data-val="${EFH.esc(c.val)}">${EFH.esc(c.label)}</span>`).join('');
+
+      document.querySelectorAll('#filter-topics input').forEach(cb => cb.checked = state.topics.has(cb.value));
+      document.querySelectorAll('#filter-methods input').forEach(cb => cb.checked = state.methods.has(cb.value));
+      document.querySelectorAll('#filter-types input').forEach(cb => cb.checked = state.types.has(cb.value));
+    }
+
+    ['filter-topics','filter-methods','filter-types'].forEach(id =>
+      document.getElementById(id).addEventListener('change', applyAndRender));
+    document.getElementById('year-from').addEventListener('change', applyAndRender);
+    document.getElementById('year-to').addEventListener('change', applyAndRender);
+    document.getElementById('paper-search').addEventListener('input', () => {
+      clearTimeout(window.__pSearch);
+      window.__pSearch = setTimeout(applyAndRender, 100);
+    });
+    document.getElementById('sort-order').addEventListener('change', applyAndRender);
+    document.getElementById('active-filters').addEventListener('click', (e) => {
+      const chip = e.target.closest('.chip');
+      if (!chip) return;
+      const { kind, val } = chip.dataset;
+      if (['topics','methods','types'].includes(kind)) state[kind].delete(val);
+      if (kind === 'year') { document.getElementById('year-from').value = ''; document.getElementById('year-to').value = ''; }
+      if (kind === 'query') document.getElementById('paper-search').value = '';
+      applyAndRender();
+    });
+    document.getElementById('reset-filters').addEventListener('click', () => {
+      state.topics.clear(); state.methods.clear(); state.types.clear();
+      document.getElementById('year-from').value = '';
+      document.getElementById('year-to').value = '';
+      document.getElementById('paper-search').value = '';
+      applyAndRender();
+    });
+    applyAndRender();
+  })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="hu">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tanulmány — Magyar Közgazdászok</title>
+  <link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+  <div id="site-header"></div>
+
+  <main>
+    <div class="container container-read">
+      <p class="small muted"><a href="papers.html">← Minden tanulmány</a></p>
+      <div id="paper-root">Betöltés…</div>
+    </div>
+  </main>
+
+  <div id="site-footer"></div>
+
+  <script src="../assets/app.js"></script>
+  <script src="../assets/chrome.js"></script>
+  <script>
+  (async function () {
+    const EFH = window.EFH;
+    const data = await EFH.loadData();
+    const id = EFH.getParam('id');
+    const p = data.papersById[id];
+    const root = document.getElementById('paper-root');
+    if (!p) {
+      root.innerHTML = `<h1>Nincs ilyen tanulmány</h1><p class="muted">Nem található <code>${EFH.esc(id || '')}</code> azonosítóval.</p>`;
+      return;
+    }
+    document.title = `${p.title} — Magyar Közgazdászok`;
+
+    const methodLabelsHu = {
+      'rct':'Randomizált kísérlet','diff-in-diff':'Különbség a különbségben','iv':'Instrumentumváltozó',
+      'rd':'Regressziós diszkontinuitás','panel-data':'Paneladat / fix hatások','synthetic-control':'Szintetikus kontroll',
+      'structural':'Strukturális modell','theory':'Elmélet','time-series':'Idősor / VAR',
+      'ml-text':'Gépi tanulás / szövegelemzés','descriptive-survey':'Leíró / felmérés-alapú'
+    };
+    const dataTypeLabelsHu = {
+      'admin-firm':'Adminisztratív vállalati','admin-tax':'Adminisztratív adó','admin-individual':'Adminisztratív egyéni',
+      'survey':'Felmérés','firm-level-dataset':'Kereskedelmi vállalati adat','field-experiment':'Terepkísérlet',
+      'macro-aggregate':'Makro / aggregált','digital-trace':'Digitális lábnyom','historical':'Történeti / levéltári'
+    };
+    const mLabel = id => methodLabelsHu[id] || EFH.methodLabel(id);
+    const dLabel = id => dataTypeLabelsHu[id] || EFH.dataTypeLabel(id);
+
+    const authors = (p.authors || []).map(a => EFH.authorLink(data, a, 'hu')).join(', ');
+    const topicTags = (p.topics || []).map(t => EFH.topicLink(data, t, 'hu')).join(' ');
+    const methodTags = (p.methods || []).map(m => `<span class="tag tag-method">${EFH.esc(mLabel(m))}</span>`).join(' ');
+    const dataTags = (p.data_types || []).map(d => `<span class="tag tag-data">${EFH.esc(dLabel(d))}</span>`).join(' ');
+    const countryTags = (p.countries_studied || []).map(c => `<span class="tag tag-country">${EFH.esc(c)}</span>`).join(' ');
+
+    const primaryTopic = p.topics?.[0] ? (data.topicsById[p.topics[0]]?.name_hu || data.topicsById[p.topics[0]]?.name_en) : '—';
+    const primaryMethod = p.methods?.[0] ? mLabel(p.methods[0]) : '—';
+    const primaryData = p.data_types?.[0] ? dLabel(p.data_types[0]) : '—';
+
+    const pages = [p.volume, p.issue ? `(${p.issue})` : '', p.pages].filter(Boolean).join(', ');
+    const pubLine = `${p.journal ? `<span class="journal">${EFH.esc(p.journal)}</span>` : ''}${p.year ? ', ' + p.year : ''}${pages ? ', ' + EFH.esc(pages) : ''}`;
+
+    const links = [];
+    if (p.url_published || p.doi) links.push(`<a href="${EFH.esc(p.url_published || ('https://doi.org/' + p.doi))}" target="_blank" rel="noopener">Megjelent változat</a>`);
+    if (p.url_pdf) links.push(`<a href="${EFH.esc(p.url_pdf)}" target="_blank" rel="noopener">PDF</a>`);
+    if (p.url_replication) links.push(`<a href="${EFH.esc(p.url_replication)}" target="_blank" rel="noopener">Replikáció</a>`);
+    if (p.doi) links.push(`<a href="https://doi.org/${EFH.esc(p.doi)}" target="_blank" rel="noopener">DOI</a>`);
+
+    const authorStr = (p.authors || []).map(id => data.authorsById[id]?.name_en || id).join(', ');
+    const apa = `${authorStr} (${p.year}). ${p.title}. ${p.journal || ''}${p.volume ? `, ${p.volume}` : ''}${p.issue ? `(${p.issue})` : ''}${p.pages ? `, ${p.pages}` : ''}.`;
+    const bibtex = `@article{${p.id},
+  author  = {${authorStr}},
+  title   = {${p.title}},
+  journal = {${p.journal || ''}},
+  year    = {${p.year || ''}},
+  volume  = {${p.volume || ''}},
+  number  = {${p.issue || ''}},
+  pages   = {${p.pages || ''}},
+  doi     = {${p.doi || ''}}
+}`;
+
+    const topicSet = new Set(p.topics || []);
+    const authorSet = new Set(p.authors || []);
+    const related = data.papers.filter(q => q.id !== p.id &&
+      (q.topics?.some(t => topicSet.has(t)) || q.authors?.some(a => authorSet.has(a)))
+    ).slice(0, 3);
+
+    const reviewBanner = p.review_status && p.review_status !== 'author-approved'
+      ? `<div class="banner-review">
+           Összefoglaló állapot: <strong>${EFH.esc(p.review_status)}</strong>
+           — az alábbi közérthető szöveg első változat, a szerző még nem hagyta jóvá.
+         </div>` : '';
+
+    const summary = p.summary_hu || p.summary_en;
+    const summaryNote = (!p.summary_hu && p.summary_en)
+      ? '<p class="small muted"><em>Magyar fordítás hamarosan.</em></p>' : '';
+    const dataUsed = p.data_used_hu || p.data_used;
+    const dataNote = (!p.data_used_hu && p.data_used)
+      ? '<p class="small muted"><em>Magyar fordítás hamarosan.</em></p>' : '';
+    const policy = p.policy_relevance_hu || p.policy_relevance;
+    const policyNote = (!p.policy_relevance_hu && p.policy_relevance)
+      ? '<p class="small muted"><em>Magyar fordítás hamarosan.</em></p>' : '';
+
+    root.innerHTML = `
+      <header class="paper-header">
+        <h1>${EFH.esc(p.title)}</h1>
+        <div class="byline">${authors}</div>
+        <div class="pub">${pubLine}</div>
+        ${p.featured ? '<span class="tag tag-featured">Kiemelt</span>' : ''}
+        ${p.publication_type === 'working_paper' ? '<span class="tag tag-type">Műhelytanulmány</span>' : ''}
+      </header>
+
+      ${reviewBanner}
+
+      <div class="at-a-glance">
+        <div class="chip-glance"><div class="label">Fő téma</div><div class="value">${EFH.esc(primaryTopic)}</div></div>
+        <div class="chip-glance"><div class="label">Módszer</div><div class="value">${EFH.esc(primaryMethod)}</div></div>
+        <div class="chip-glance"><div class="label">Adat</div><div class="value">${EFH.esc(primaryData)}</div></div>
+      </div>
+
+      <section class="paper-section summary">
+        <h2>Közérthető összefoglaló</h2>
+        ${summary ? `<p>${EFH.esc(summary)}</p>` : '<p class="muted">Még nincs összefoglaló.</p>'}
+        ${summaryNote}
+      </section>
+
+      <section class="paper-section">
+        <h2>Felhasznált adatok</h2>
+        ${dataUsed ? `<p>${EFH.esc(dataUsed)}</p>` : '<p class="muted">—</p>'}
+        ${dataNote}
+      </section>
+
+      <section class="paper-section">
+        <h2>Szakpolitikai relevancia</h2>
+        ${policy ? `<p>${EFH.esc(policy)}</p>` : '<p class="muted">—</p>'}
+        ${policyNote}
+      </section>
+
+      <section class="paper-section">
+        <h2>Eredeti absztrakt</h2>
+        <details>
+          <summary>Absztrakt megjelenítése</summary>
+          <div class="abstract-box">${EFH.esc(p.abstract || '')}</div>
+        </details>
+      </section>
+
+      <section class="paper-section">
+        <h2>Címkék</h2>
+        <div>${topicTags} ${methodTags} ${dataTags} ${countryTags}</div>
+      </section>
+
+      <section class="paper-section">
+        <h2>Linkek</h2>
+        <ul class="link-list">${links.map(l => `<li>${l}</li>`).join('') || '<li class="muted">Még nincsenek linkek.</li>'}</ul>
+      </section>
+
+      <section class="paper-section">
+        <h2>Hivatkozás</h2>
+        <div class="cite-box" id="cite-apa"><button class="copy-btn" data-target="cite-apa">Másolás</button>${EFH.esc(apa)}</div>
+        <details style="margin-top:0.6rem;">
+          <summary>BibTeX</summary>
+          <div class="cite-box" id="cite-bib"><button class="copy-btn" data-target="cite-bib">Másolás</button>${EFH.esc(bibtex)}</div>
+        </details>
+      </section>
+
+      ${related.length ? `
+      <section class="paper-section">
+        <h2>Kapcsolódó tanulmányok</h2>
+        ${related.map(q => EFH.paperCardHtml(data, q, 'hu')).join('')}
+      </section>` : ''}
+    `;
+
+    document.querySelectorAll('.copy-btn').forEach(btn => {
+      btn.addEventListener('click', async () => {
+        const el = document.getElementById(btn.dataset.target);
+        const txt = el.childNodes[1]?.textContent || el.textContent;
+        try {
+          await navigator.clipboard.writeText(txt.trim());
+          btn.textContent = 'Másolva!';
+          setTimeout(() => btn.textContent = 'Másolás', 1500);
+        } catch (e) { btn.textContent = 'Sikertelen'; }
+      });
+    });
+  })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="hu">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Szerzők — Magyar Közgazdászok</title>
+  <link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+  <div id="site-header"></div>
+
+  <main>
+    <div class="container">
+      <h1>Szerzők</h1>
+      <p class="muted">Magyar közgazdászok, akiknek legalább egy publikációjuk megjelent egy vezető általános vagy területi folyóiratban. A diaszpóra is szerepel.</p>
+
+      <div style="display:flex; gap:1rem; align-items:center; flex-wrap:wrap; margin-bottom:1.2rem;">
+        <div class="search-bar" style="max-width:440px; flex:1;">
+          <input id="author-search" type="search" placeholder="Szűrés név, terület, affiliáció alapján…" autocomplete="off">
+        </div>
+        <label class="small">Terület:
+          <select id="field-filter">
+            <option value="">Minden terület</option>
+          </select>
+        </label>
+        <label class="small">Rendezés:
+          <select id="sort-order">
+            <option value="name">Név A–Z</option>
+            <option value="papers">Tanulmányok száma (csökkenő)</option>
+          </select>
+        </label>
+      </div>
+
+      <div id="author-grid" class="author-grid"></div>
+    </div>
+  </main>
+
+  <div id="site-footer"></div>
+
+  <script src="../assets/app.js"></script>
+  <script src="../assets/chrome.js"></script>
+  <script>
+  (async function () {
+    const EFH = window.EFH;
+    const data = await EFH.loadData();
+
+    const fieldSel = document.getElementById('field-filter');
+    data.topics.forEach(t => {
+      const opt = document.createElement('option');
+      opt.value = t.id; opt.textContent = t.name_hu || t.name_en;
+      fieldSel.appendChild(opt);
+    });
+
+    function render() {
+      const q = document.getElementById('author-search').value.trim().toLowerCase();
+      const field = document.getElementById('field-filter').value;
+      const sort = document.getElementById('sort-order').value;
+
+      let list = data.authors.filter(a => {
+        if (field && !(a.primary_fields || []).includes(field)) return false;
+        if (!q) return true;
+        const hay = [a.name_en, a.name_hu,
+          (a.affiliations || []).map(x => x.name).join(' '),
+          a.bio_en, a.bio_hu
+        ].filter(Boolean).join(' ').toLowerCase();
+        return hay.includes(q);
+      });
+
+      list.sort((a, b) => {
+        if (sort === 'papers') return (b.paper_count || 0) - (a.paper_count || 0);
+        const an = a.name_hu || a.name_en, bn = b.name_hu || b.name_en;
+        return (an || '').localeCompare(bn || '', 'hu');
+      });
+
+      const grid = document.getElementById('author-grid');
+      grid.innerHTML = list.length ? list.map(a => {
+        const affil = (a.affiliations || [])[0]?.name || '';
+        const fields = (a.primary_fields || []).map(f =>
+          `<span class="tag">${EFH.esc(data.topicsById[f]?.name_hu || data.topicsById[f]?.name_en || f)}</span>`
+        ).join(' ');
+        const count = a.paper_count ? `<span class="muted small">${a.paper_count} tanulmány</span>` : '';
+        const nm = a.name_hu || a.name_en;
+        return `
+          <article class="author-card">
+            <h3><a href="author.html?id=${encodeURIComponent(a.id)}">${EFH.esc(nm)}</a> ${count}</h3>
+            <div class="affil">${EFH.esc(affil)}</div>
+            <div class="fields">${fields}</div>
+          </article>
+        `;
+      }).join('') : '<p class="muted">Nincs a szűrésnek megfelelő szerző.</p>';
+    }
+
+    document.getElementById('author-search').addEventListener('input', render);
+    document.getElementById('field-filter').addEventListener('change', render);
+    document.getElementById('sort-order').addEventListener('change', render);
+    render();
+  })();
+  </script>
+</body>
+</html>

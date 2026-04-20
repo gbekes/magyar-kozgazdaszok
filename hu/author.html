@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="hu">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Szerző — Magyar Közgazdászok</title>
+  <link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+  <div id="site-header"></div>
+
+  <main>
+    <div class="container">
+      <p class="small muted"><a href="authors.html">← Minden szerző</a></p>
+      <div id="author-root">Betöltés…</div>
+    </div>
+  </main>
+
+  <div id="site-footer"></div>
+
+  <script src="../assets/app.js"></script>
+  <script src="../assets/chrome.js"></script>
+  <script>
+  (async function () {
+    const EFH = window.EFH;
+    const data = await EFH.loadData();
+    const id = EFH.getParam('id');
+    const a = data.authorsById[id];
+    const root = document.getElementById('author-root');
+    if (!a) {
+      root.innerHTML = `<h1>Nincs ilyen szerző</h1><p class="muted">Nem található <code>${EFH.esc(id || '')}</code> azonosítóval.</p>`;
+      return;
+    }
+    const displayName = a.name_hu || a.name_en;
+    document.title = `${displayName} — Magyar Közgazdászok`;
+
+    const affils = (a.affiliations || []).map(x => {
+      const role = x.role ? `, ${x.role}` : '';
+      const since = x.start ? ` (${x.start}-tól)` : '';
+      return `<li>${EFH.esc(x.name + role)}${since}</li>`;
+    }).join('');
+
+    const fields = (a.primary_fields || []).map(f =>
+      `<a class="tag" href="topic.html?id=${encodeURIComponent(f)}">${EFH.esc(data.topicsById[f]?.name_hu || data.topicsById[f]?.name_en || f)}</a>`
+    ).join(' ');
+
+    const links = [];
+    if (a.website) links.push(`<a href="${EFH.esc(a.website)}" target="_blank" rel="noopener">Honlap</a>`);
+    if (a.scholar_id) links.push(`<a href="https://scholar.google.com/citations?user=${EFH.esc(a.scholar_id)}" target="_blank" rel="noopener">Google Scholar</a>`);
+    if (a.repec_id) links.push(`<a href="https://ideas.repec.org/e/${EFH.esc(a.repec_id)}.html" target="_blank" rel="noopener">RePEc</a>`);
+    if (a.orcid) links.push(`<a href="https://orcid.org/${EFH.esc(a.orcid)}" target="_blank" rel="noopener">ORCID</a>`);
+    if (a.email) links.push(`<a href="mailto:${EFH.esc(a.email)}">${EFH.esc(a.email)}</a>`);
+
+    const papers = data.papers
+      .filter(p => (p.authors || []).includes(a.id))
+      .sort((x, y) => (y.year || 0) - (x.year || 0));
+    const byYear = {};
+    for (const p of papers) (byYear[p.year || 'datálatlan'] ||= []).push(p);
+    const years = Object.keys(byYear).sort((a, b) => b.localeCompare(a));
+
+    const qp = a.qualifying_publication;
+    const qpLine = qp ? `<p class="small muted">Belépő publikáció: <em>${EFH.esc(qp.title)}</em>, ${EFH.esc(qp.journal)}, ${qp.year}.</p>` : '';
+
+    const reviewBanner = a.review_status === 'needs-verification' || a.review_status === 'stub'
+      ? `<div class="banner-review">Profil állapota: <strong>${EFH.esc(a.review_status)}</strong> — részletek ellenőrzésre várnak.</div>`
+      : '';
+
+    const bio = a.bio_hu || a.bio_en;
+    const bioNote = (!a.bio_hu && a.bio_en) ? '<p class="small muted"><em>Magyar életrajz hamarosan.</em></p>' : '';
+
+    root.innerHTML = `
+      <header class="entity-header">
+        <h1>${EFH.esc(displayName)}</h1>
+        ${a.name_en && a.name_en !== displayName ? `<div class="sub">${EFH.esc(a.name_en)}</div>` : ''}
+        ${reviewBanner}
+        ${bio ? `<p class="bio">${EFH.esc(bio)}</p>` : ''}
+        ${bioNote}
+        ${fields ? `<div style="margin-top:0.5rem;">${fields}</div>` : ''}
+        ${qpLine}
+      </header>
+
+      <div class="layout-filter">
+        <aside class="filter-sidebar">
+          ${affils ? `<h3 style="margin-top:0;">Affiliációk</h3><ul style="padding-left:1rem; margin:0.3rem 0;">${affils}</ul>` : ''}
+          ${links.length ? `<h3>Linkek</h3><ul class="link-list" style="margin:0;">${links.map(l => `<li>${l}</li>`).join('')}</ul>` : ''}
+        </aside>
+        <section>
+          <div class="result-head">
+            <span class="count">${papers.length} tanulmány</span>
+          </div>
+          ${papers.length ? years.map(y => `
+            <div class="paper-year-group">
+              <h3>${EFH.esc(y)}</h3>
+              ${byYear[y].map(p => EFH.paperCardHtml(data, p, 'hu')).join('')}
+            </div>
+          `).join('') : '<p class="muted">Ehhez a szerzőhöz még nem tartozik tanulmány. Fokozatosan adjuk hozzá őket; nézz vissza később.</p>'}
+        </section>
+      </div>
+    `;
+  })();
+  </script>
+</body>
+</html>
