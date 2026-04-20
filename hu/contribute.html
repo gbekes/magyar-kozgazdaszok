@@ -13,60 +13,49 @@
     <div class="container container-read">
       <h1>Közreműködés</h1>
 
-      <p class="lede">Javítások, hiányzó tanulmányok, hiányzó szerzők, és ismeretterjesztő cikkek — mindent szívesen veszünk.</p>
+      <p class="lede">Két út, attól függően, ki vagy.</p>
 
-      <h2>Ha az itt szereplő tanulmányok szerzője vagy</h2>
-      <p>Három konkrét kérésünk van:</p>
+      <section class="block scope-block">
+        <h2>Ha az itt szereplő tanulmányok szerzője vagy</h2>
+        <p><strong>Írj Békés Gábornak (<a href="mailto:bekesg@ceu.edu">bekesg@ceu.edu</a>), szabad szövegben, magyarul vagy angolul — amelyik kényelmesebb.</strong></p>
+        <p>Amit küldhetsz, például:</p>
+        <ul>
+          <li>„Kérlek cseréld ki az életrajzomat erre a szövegre: …"</li>
+          <li>„A minimálbér-papíromnál a policy bullet-ek legyenek: (1)… (2)… (3)…"</li>
+          <li>„Az X papír adatleírásában 1998–2012, nem 2000–2012 a helyes."</li>
+          <li>„Add hozzá ezt a VoxEU linket: URL"</li>
+          <li>„A transition-postcommunist tag nem illik a papíromra — vegyétek le."</li>
+          <li>„Itt van a magyar összefoglaló, amit inkább szeretnék: …"</li>
+        </ul>
+        <p><strong>Elég egy nyelven küldened</strong>, kivéve ha egy tény-változás a fordításra is kihat. Nem várjuk el, hogy mindkét változatot karbantartsd.</p>
+        <p>Gábor egy integrált workflow-n keresztül dolgozza fel: a változtatás egy-két napon belül élesben van, a „AI-drafted" figyelmeztetés helyére „author-approved" státusz kerül. Nincs GitHub, nincs JSON, nincs sablon. Csak írd le.</p>
+        <p class="small muted">Technikai részlet az érdeklődőknek: az e-mailed egy fájlba kerül a <code>submissions/</code> mappában, Claude Code feldolgozza és elvégzi a JSON-szerkesztéseket, Gábor átnézi a diff-et és push-ol. A review-gate egy szerkesztő, aki a GitHub pull-request diff-et elolvassa.</p>
+      </section>
+
+      <h2>Ha bárki más vagy</h2>
+      <p>Olvasók, döntéshozók, újságírók, diákok — minden javítás és javaslat jöhet ezeken az utakon:</p>
       <ul>
-        <li><strong>Ellenőrizd a saját profilodat.</strong> Nyisd meg a szerzői oldaladat és a tanulmányaid oldalait. Pontosak az összefoglalók? Jól van megfogalmazva a szakpolitikai relevancia? Hiányoznak frissebb tanulmányaid?</li>
-        <li><strong>Küldd el az ismeretterjesztő változatokat.</strong> Ha van VoxEU-cikked, index.hu / portfolio.hu / telex.hu / 444.hu anyagod, KRTK blog-posztod, vagy Bruegel-jegyzeted a tanulmányodról — küldd el az URL-t. Felvesszük a tanulmány oldalára egy „Ismeretterjesztő változatok" szekcióba, amely kiemelt helyen van a döntéshozóknak. Ez vitathatatlanul a legnagyobb hatású dolog, amit tehetsz.</li>
-        <li><strong>Írj saját szakpolitikai highlight-okat.</strong> Ha jobb 2–3 szakpolitikai-relevancia pontod van, mint az AI-változat, küldd el. A szerző által jóváhagyott tartalom külön jelölést kap.</li>
+        <li><strong><a href="https://github.com/gbekes/magyar-kozgazdaszok/issues" target="_blank" rel="noopener">Nyiss egy GitHub issue-t.</a></strong> Legjobb, ha konkrétan leírod a problémát (tanulmány-slug, mi hibás, mi legyen helyette).</li>
+        <li><strong>Írj a szerkesztőnek</strong> ugyanezzel a <a href="mailto:bekesg@ceu.edu">bekesg@ceu.edu</a> címre.</li>
+        <li><strong>Nyiss egy pull request-et</strong>, ha ismered a git-et. Az adat JSON fájlokban található: egy-egy tanulmány <code>data/papers/&lt;slug&gt;.json</code>-ban, szerző <code>data/authors/&lt;slug&gt;.json</code>-ban. Helyben futtasd a <code>python build.py</code>-t az index frissítéséhez, majd nyiss PR-t.</li>
       </ul>
-      <p>Mindezeket: vagy e-mail (<a href="mailto:bekesg@ceu.edu">bekesg@ceu.edu</a>), vagy PR <a href="https://github.com/gbekes/magyar-kozgazdaszok" target="_blank" rel="noopener">GitHub-on</a>.</p>
 
-      <h2>Döntéshozóknak, újságíróknak, más olvasóknak</h2>
+      <h2>Amit külön érdemes jelezni</h2>
       <ul>
-        <li>Rossz, félrevezető vagy nem érthető összefoglalót találtál? Nyiss <a href="https://github.com/gbekes/magyar-kozgazdaszok/issues" target="_blank" rel="noopener">GitHub issue</a>-t vagy írj e-mailt.</li>
-        <li>Tudsz olyan magyar közgazdászról, akinek itt kellene szerepelnie, de nincs itt? Küldd el a nevét (ha lehet, weboldal-linkkel). Önjelölés is jöhet.</li>
-        <li>Láttál ismeretterjesztő cikket egy itt szereplő tanulmányról (magyar vagy nemzetközi sajtóban), ami még nincs linkelve? Küldd az URL-t.</li>
+        <li><strong>Hiányzó magyar közgazdász.</strong> Ha úgy gondolod, valaki ide való és nincs itt, küldd el a nevét (lehetőleg weboldal-linkkel). Önjelölés is jöhet — az alternatíva, hogy kimaradsz.</li>
+        <li><strong>Hiányzó tanulmány</strong> egy már itt szereplő szerzőtől. Cím / DOI / év elég.</li>
+        <li><strong>Ismeretterjesztő cikk</strong> egy itt szereplő tanulmányról (VoxEU különösen; Bruegel, KRTK blog, vagy egyértelmű magyar sajtómegjelenés). Ezek többet látszanak a döntéshozóknak, mint maga az akadémiai papír.</li>
+        <li><strong>Rossz vagy félrevezető összefoglaló.</strong> Az AI-tervezetek egyértelműen jelölve vannak — a legrosszabbakat jelezni valódi segítség.</li>
       </ul>
 
-      <h2>Hiányzó tanulmány vagy javítás jelzése</h2>
-      <p>Legegyszerűbb út: írj a szerkesztőnek a <a href="mailto:bekesg@ceu.edu">bekesg@ceu.edu</a> címre, és add meg:</p>
-      <ul>
-        <li>Tanulmány címe, szerzők, év, folyóirat, DOI.</li>
-        <li>Mi hibás, vagy mi hiányzik. Röviden is elég.</li>
-      </ul>
-
-      <h2>Beküldés pull requesttel</h2>
-      <p>Ha használsz git-et, az adat JSON fájlokban található a repóban:</p>
-      <ul>
-        <li>Tanulmányonként egy fájl: <code>data/papers/&lt;slug&gt;.json</code></li>
-        <li>Szerzőnként egy fájl: <code>data/authors/&lt;slug&gt;.json</code></li>
-      </ul>
-      <p>Slug formátum: <code>elsoszerzo-masodikszerzo-ev-folyoiratrovidites</code> (pl. <code>lindner-harasztosi-2019-aer</code>). Sablonnak használd a <code>sample-paper.json</code>-t. Futtasd helyben a <code>python build.py</code> parancsot a <code>data/index.json</code> újragenerálásához, majd nyiss egy PR-t.</p>
-
-      <h2>Ismeretterjesztő vagy szakpolitikai brief-link hozzáadása</h2>
-      <p>A tanulmány JSON-jében van egy <code>popular_links</code> tömb. Minden elem egy kis objektum:</p>
-      <pre><code>{
-  "title": "A minimálbér nem ölt állásokat Magyarországon",
-  "url": "https://cepr.org/voxeu/columns/...",
-  "outlet": "VoxEU"
-}</code></pre>
-      <p><strong>Jelenleg a VoxEU / CEPR oszlopokra fókuszálunk</strong>, és a saját szerzők által írt szakpolitikai cikkekre (Bruegel, KRTK blog, JRC tudományos jelentések, intézményi műhelytanulmány-sajtóközlemények). Ezek adják a legerősebb jelzést egy döntéshozó olvasónak.</p>
-      <p>Magyar médiás megjelenés (index.hu / portfolio.hu / telex.hu / 444.hu) is jöhet, de csak akkor, ha a link egyértelműen az adott tanulmányra hivatkozik — nem egy általános cikk, ami a szerzőt csak mellékesen említi.</p>
-
-      <h2>Szerző javaslata</h2>
-      <p>A bekerülés feltétele: legalább egy publikáció egy vezető általános vagy területi folyóiratban (lásd a <a href="journals.html">folyóiratok listát</a>). A „magyar" definíció tág: állampolgárság, születési hely, vagy legalább három év elsődleges magyarországi affiliáció.</p>
-
-      <h2>Hogyan készülnek az összefoglalók</h2>
-      <p>Új tanulmány esetén az összefoglaló és szakpolitikai relevancia mezők <code>ai-drafted</code> állapotban indulnak. Emberi szerkesztő átolvassa, pontosítja, majd átállítja <code>human-reviewed</code> státuszra. Ha a szerző is jóváhagyja, az állapot <code>author-approved</code> lesz, és kis jelölés kerül a tanulmány oldalára. A szerzők bármikor beküldhetik saját változatukat.</p>
+      <h2>Hogyan lesz az AI-tervezetből szerzői jóváhagyás</h2>
+      <p>Minden tanulmány <code>review_status: ai-drafted</code>-del indul — egy AI által írt első tervezetként. Egy szerkesztő átolvassa és pontosítja: <code>human-reviewed</code>. Amikor a tanulmány szerzője jóváhagyja (vagy saját változatot küld a fenti e-mail-workflow-n), az állapot <code>author-approved</code> lesz, és az AI-drafted jelzés eltűnik az oldalról.</p>
 
       <h2>Mit nem fogadunk el</h2>
       <ul>
-        <li>Publicisztikák vagy blogbejegyzések ÖNÁLLÓ tanulmány-bejegyzésként (de meglévő tanulmányokhoz kapcsolt ismeretterjesztő linkeket nagyon szívesen veszünk).</li>
+        <li>Publicisztikák és blogbejegyzések önálló bejegyzésként. De meglévő tanulmányhoz kapcsolt ismeretterjesztő linkek nagyon is jöhetnek.</li>
         <li>Olyan tanulmányok, amelyek még nincsenek nyilvánosan közzétéve.</li>
-        <li>Olyan összefoglalók, amelyek az absztraktot másolják — célunk a közérthető nyelv.</li>
+        <li>Olyan összefoglalók, amelyek az absztraktot másolják — közérthető újraírást várunk.</li>
       </ul>
 
       <h2>Kapcsolat</h2>

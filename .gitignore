@@ -19,6 +19,9 @@ scripts/drafts_batch*.json
 scripts/drafts_*.json
 *.draft.txt
 
+# Author-submission archive (local-only record after processing)
+submissions/DONE/
+
 # Local config / secrets
 .env
 .env.local
