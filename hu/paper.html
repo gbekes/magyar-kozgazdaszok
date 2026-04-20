@@ -132,9 +132,24 @@
 
       <section class="paper-section">
         <h2>Szakpolitikai relevancia</h2>
-        ${policy ? `<p>${EFH.esc(policy)}</p>` : '<p class="muted">—</p>'}
+        ${(() => {
+          const bullets = EFH.highlightsOrBullets(p.policy_highlights_hu || p.policy_highlights, policy);
+          if (!bullets.length) return '<p class="muted">—</p>';
+          return `<ul class="policy-bullets">${bullets.map(b => `<li>${EFH.esc(b)}</li>`).join('')}</ul>`;
+        })()}
         ${policyNote}
       </section>
+
+      ${Array.isArray(p.popular_links) && p.popular_links.length ? `
+      <section class="paper-section popular-links">
+        <h2>Ismeretterjesztő változatok</h2>
+        <p class="small muted">A tanulmány közérthető ismertetése a médiában és szakpolitikai blogokon.</p>
+        <ul class="link-list">
+          ${p.popular_links.map(pl => `
+            <li><a href="${EFH.esc(pl.url)}" target="_blank" rel="noopener">${EFH.esc(pl.title || pl.outlet || pl.url)}</a>${pl.outlet && pl.title ? ` <span class="small muted">— ${EFH.esc(pl.outlet)}</span>` : ''}</li>
+          `).join('')}
+        </ul>
+      </section>` : ''}
 
       <section class="paper-section">
         <h2>Eredeti absztrakt</h2>

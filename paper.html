@@ -115,8 +115,23 @@
 
       <section class="paper-section">
         <h2>Policy relevance</h2>
-        ${p.policy_relevance ? `<p>${EFH.esc(p.policy_relevance)}</p>` : '<p class="muted">—</p>'}
+        ${(() => {
+          const bullets = EFH.highlightsOrBullets(p.policy_highlights, p.policy_relevance);
+          if (!bullets.length) return '<p class="muted">—</p>';
+          return `<ul class="policy-bullets">${bullets.map(b => `<li>${EFH.esc(b)}</li>`).join('')}</ul>`;
+        })()}
       </section>
+
+      ${Array.isArray(p.popular_links) && p.popular_links.length ? `
+      <section class="paper-section popular-links">
+        <h2>Popular write-ups</h2>
+        <p class="small muted">Non-technical coverage of this paper in the media and on policy blogs.</p>
+        <ul class="link-list">
+          ${p.popular_links.map(pl => `
+            <li><a href="${EFH.esc(pl.url)}" target="_blank" rel="noopener">${EFH.esc(pl.title || pl.outlet || pl.url)}</a>${pl.outlet && pl.title ? ` <span class="small muted">— ${EFH.esc(pl.outlet)}</span>` : ''}</li>
+          `).join('')}
+        </ul>
+      </section>` : ''}
 
       <section class="paper-section">
         <h2>Abstract (original)</h2>

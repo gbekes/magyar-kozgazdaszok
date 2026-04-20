@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Contribute — Evidence for Hungary</title>
+  <title>Contribute — Magyar Közgazdászok</title>
   <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
@@ -13,34 +13,58 @@
     <div class="container container-read">
       <h1>Contribute</h1>
 
-      <p class="lede">Corrections, missing papers, missing authors — all welcome. There are three ways in.</p>
+      <p class="lede">Corrections, missing papers, missing authors, and popular-science write-ups — all welcome.</p>
 
-      <h2>1. Flag a missing paper or correction</h2>
+      <h2>For authors of papers on this site</h2>
+      <p>If you're one of the authors listed here, three specific asks:</p>
+      <ul>
+        <li><strong>Verify your entry.</strong> Open your author page and your paper pages. Are the summaries accurate? Is the policy-relevance framed right? Are key recent papers missing?</li>
+        <li><strong>Send us popular-science versions of your work.</strong> If you have a VoxEU column, an index.hu / portfolio.hu / telex.hu / 444.hu piece, a KRTK blog post, or a Bruegel brief about one of your papers — send the URL. We'll add it to the paper page in a "Popular write-ups" section that's prominent for policymakers. This is arguably the highest-leverage thing you can do.</li>
+        <li><strong>Suggest own-written highlights.</strong> If you have better 2–3 policy-relevance bullet points than our AI-drafted version, send them. Author-approved content gets a badge.</li>
+      </ul>
+      <p>All of the above: either email (<a href="mailto:bekesg@ceu.edu">bekesg@ceu.edu</a>) or file a PR on <a href="https://github.com/gbekes/magyar-kozgazdaszok" target="_blank" rel="noopener">GitHub</a>.</p>
+
+      <h2>For policymakers, journalists, and other readers</h2>
+      <ul>
+        <li>Found a paper summary that's wrong, misleading, or unclear? File a <a href="https://github.com/gbekes/magyar-kozgazdaszok/issues" target="_blank" rel="noopener">GitHub issue</a> or email.</li>
+        <li>Know of a Hungarian economist who should be on the site but isn't? Send their name (plus a link to their website if possible). Self-promotion is welcome.</li>
+        <li>Spotted a popular-science piece about one of our papers (in the Hungarian or international press) that isn't linked on the paper page? Send the URL.</li>
+      </ul>
+
+      <h2>Flag a missing paper or correction</h2>
       <p>Easiest path: email the editor at <a href="mailto:bekesg@ceu.edu">bekesg@ceu.edu</a> with:</p>
       <ul>
         <li>Paper title, authors, year, journal, DOI.</li>
         <li>What's wrong or missing. Short is fine.</li>
       </ul>
-      <p>If you are the author of a paper on the site and want to adjust how it's summarised, say so — author-approved summaries get a badge.</p>
 
-      <h2>2. Submit via pull request</h2>
+      <h2>Submit via pull request</h2>
       <p>If you're comfortable with git, the data lives in JSON files in the repo:</p>
       <ul>
         <li>One file per paper at <code>data/papers/&lt;slug&gt;.json</code></li>
         <li>One file per author at <code>data/authors/&lt;slug&gt;.json</code></li>
       </ul>
-      <p>Slug format: <code>firstauthor-lastauthor-year-journalshort</code> (e.g., <code>lindner-harasztosi-2019-aer</code>). Use <code>data/sample-paper.json</code> as a template. Run <code>python build.py</code> locally to regenerate <code>data/index.json</code>, then open a PR.</p>
+      <p>Slug format: <code>firstauthor-secondauthor-year-journalshort</code> (e.g., <code>lindner-harasztosi-2019-aer</code>). Use <code>sample-paper.json</code> as a template. Run <code>python build.py</code> locally to regenerate <code>data/index.json</code>, then open a PR.</p>
 
-      <h2>3. Suggest an author</h2>
-      <p>Inclusion criterion: at least one paper in a top general or top field journal (see the SPEC). Broader "Hungarian" definition: nationality, birthplace, or three or more years primary affiliation. If you think someone qualifies and isn't listed, write in.</p>
+      <h2>Adding a popular-science link</h2>
+      <p>Paper JSON files have a <code>popular_links</code> array. Each entry is a small object:</p>
+      <pre><code>{
+  "title": "Minimum wages don't destroy jobs in Hungary",
+  "url": "https://voxeu.org/...",
+  "outlet": "VoxEU"
+}</code></pre>
+      <p>Outlets we especially want to include: <strong>VoxEU</strong>, <strong>index.hu</strong>, <strong>portfolio.hu</strong>, <strong>telex.hu</strong>, <strong>444.hu</strong>, <strong>KRTK blog</strong>, <strong>Bruegel</strong>. Academic blogs (Conversable Economist, Marginal Revolution) are also welcome.</p>
+
+      <h2>Suggesting an author</h2>
+      <p>Inclusion criterion: at least one publication in a top general or top field journal (see the <a href="journals.html">journals list</a>). "Hungarian" is broad: nationality, birthplace, or 3+ years primary affiliation.</p>
 
       <h2>How summaries get written</h2>
-      <p>When a paper is added, the summary and policy-relevance fields start as <code>ai-drafted</code>. A human editor reviews, tightens, and flips them to <code>human-reviewed</code>. If the author reads and approves, the status moves to <code>author-approved</code> and a small badge appears on the paper. Authors can submit their own draft at any time.</p>
+      <p>When a paper is added, the summary and policy-relevance fields start as <code>ai-drafted</code>. A human editor reviews, tightens, and flips them to <code>human-reviewed</code>. If the author signs off, status moves to <code>author-approved</code> and a badge appears on the paper page. Authors can submit their own draft at any time.</p>
 
       <h2>What we won't accept</h2>
       <ul>
-        <li>Op-eds, blog posts, or policy notes without an abstract and a clear working-paper version.</li>
-        <li>Papers that aren't yet publicly posted (submit after posting a working paper).</li>
+        <li>Op-eds or blog posts as primary entries (but popular-science links to op-eds on existing papers are very welcome).</li>
+        <li>Papers that aren't yet publicly posted.</li>
         <li>Summaries that copy-paste the abstract — we want plain language.</li>
       </ul>
 

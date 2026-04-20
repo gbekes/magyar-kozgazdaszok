@@ -4,15 +4,14 @@
 (function () {
   const path = window.location.pathname;
   const isHu = /\/hu\/[^?#]*$/.test(path);
-  const prefix = isHu ? '../' : '';
-  const huPrefix = isHu ? '' : 'hu/';
 
-  // Preserve the current page when switching language.
-  // E.g. /papers.html?id=foo  ↔  /hu/papers.html?id=foo
+  // In-language nav links are RELATIVE: from /hu/authors.html, "papers.html"
+  // resolves to /hu/papers.html. No prefix needed.
+  // Only the language-toggle links need to cross the /hu/ boundary.
   const page = (path.match(/[^/]+\.html$/) || ['index.html'])[0];
   const search = window.location.search || '';
-  const enHref = `${prefix}${page}${search}`;
-  const huHref = `${prefix}${huPrefix}${page}${search}`;
+  const enHref = isHu ? `../${page}${search}` : `${page}${search}`;
+  const huHref = isHu ? `${page}${search}` : `hu/${page}${search}`;
 
   const nav = isHu ? {
     papers: 'Tanulmányok',
@@ -35,16 +34,16 @@
   const header = `
     <header class="site">
       <div class="container">
-        <a href="${prefix}index.html" class="brand">
+        <a href="index.html" class="brand">
           ${nav.brand}
           <span class="sub">— ${nav.brandSub}</span>
         </a>
         <nav>
-          <a href="${prefix}papers.html">${nav.papers}</a>
-          <a href="${prefix}authors.html">${nav.authors}</a>
-          <a href="${prefix}topics.html">${nav.topics}</a>
-          <a href="${prefix}about.html">${nav.about}</a>
-          <a href="${prefix}contribute.html">${nav.contribute}</a>
+          <a href="papers.html">${nav.papers}</a>
+          <a href="authors.html">${nav.authors}</a>
+          <a href="topics.html">${nav.topics}</a>
+          <a href="about.html">${nav.about}</a>
+          <a href="contribute.html">${nav.contribute}</a>
         </nav>
         <div class="lang">
           <a href="${enHref}" class="${isHu ? '' : 'active'}">EN</a> /
@@ -64,7 +63,7 @@
           ${isHu
             ? 'Kurátor: Békés Gábor. MVP verzió, 2026 áprilisa. Jelezz hibát vagy hiányt a'
             : 'Edited by Gábor Békés. MVP scaffold, April 2026. Corrections and missing papers welcome — see'}
-          <a href="${prefix}contribute.html">${nav.contribute}</a>.
+          <a href="contribute.html">${nav.contribute}</a>.
         </p>
       </div>
     </footer>

@@ -15,9 +15,11 @@
     return atRoot ? 'data/index.json' : '../data/index.json';
   }
 
-  function rootPrefix() {
-    return /\/hu\/[^?#]*$/.test(window.location.pathname) ? '../' : '';
-  }
+  // In-language navigation between pages is done with RELATIVE links that
+  // don't escape the current language directory. E.g. from /hu/index.html,
+  // `paper.html?id=foo` resolves to /hu/paper.html (correct). Language
+  // switching is handled separately in chrome.js.
+  function rootPrefix() { return ''; }
 
   async function loadData() {
     if (window.__data) return window.__data;
@@ -106,6 +108,26 @@
     const words = text.split(/\s+/);
     if (words.length <= maxWords) return text;
     return words.slice(0, maxWords).join(' ') + '…';
+  }
+
+  // Split prose into scannable bullets by sentence.
+  // Skips likely false boundaries ("e.g.", "etc.", "i.e.", abbreviations).
+  // Very short fragments are dropped. Returns [] if input is empty.
+  function toBullets(text) {
+    if (!text) return [];
+    // Normalize whitespace, protect common abbreviations.
+    const protect = text.replace(/\b(e\.g|i\.e|etc|vs|cf|et al|pl|ún|stb|ill)\.\s/g, '$1§§');
+    // Split on sentence boundaries: period/!/? followed by space + capital.
+    const parts = protect.split(/(?<=[.!?])\s+(?=[A-ZÁÉÍÓÖŐÚÜŰ])/);
+    return parts
+      .map(s => s.replace(/§§/g, '. ').trim())
+      .filter(s => s.length > 20);
+  }
+
+  // Prefer explicit highlights[] array when available; else split prose.
+  function highlightsOrBullets(explicit, prose) {
+    if (Array.isArray(explicit) && explicit.length) return explicit;
+    return toBullets(prose);
   }
 
   // -------- paper card renderer (shared) --------
@@ -271,6 +293,7 @@
     lang,
     loadData, esc, authorName, authorLink, topicName, topicLink,
     methodLabel, dataTypeLabel, firstSentence, paperCardHtml,
+    toBullets, highlightsOrBullets,
     getParam, search, attachSearchBar, rootPrefix
   };
 })();

@@ -1,7 +1,10 @@
 {
   "id": "lindner-harasztosi-2019-aer",
   "title": "Who Pays for the Minimum Wage?",
-  "authors": ["lindner-attila", "harasztosi-peter"],
+  "authors": [
+    "lindner-attila",
+    "harasztosi-peter"
+  ],
   "publication_type": "article",
   "journal": "American Economic Review",
   "year": 2019,
@@ -20,10 +23,21 @@
   "data_used_hu": "Összekapcsolt magyar adminisztratív adatok: a bértarifa felvétel (KSH) évi ~800 000 munkavállalóra, valamint a vállalati adónyilvántartás (NAV) minden 5 vagy több főt foglalkoztató magyar vállalatra, 1999–2007. A vállalati szintű kimeneti változók magukban foglalják a foglalkoztatást, béreket, árbevételt, árakat és jövedelmezőséget.",
   "policy_relevance": "For Hungarian policymakers considering minimum wage increases: the evidence suggests moderate increases can achieve their redistributive goals without major employment costs, but the costs show up in prices — meaning the policy implicitly transfers from consumers (including lower-income ones) to low-wage workers. This is a quasi-tax on consumption worth factoring into the policy design. The paper studies a period of strong aggregate demand; effects may differ in recessions. Relevant for: Ministry of Economy, ministry staff designing the annual minimum-wage negotiations.",
   "policy_relevance_hu": "A minimálbér-emelést fontolóra vevő magyar döntéshozók számára: a bizonyítékok azt mutatják, hogy a mérsékelt emelések elérhetik az újraelosztási céljaikat jelentős foglalkoztatási költségek nélkül, de a költségek az árakban jelennek meg — ami azt jelenti, hogy a politika implicit módon a fogyasztóktól (beleértve az alacsonyabb jövedelműeket is) az alacsony bérű munkavállalók felé csoportosít át. Ez egy implicit fogyasztási adó, amit érdemes figyelembe venni a politika tervezésekor. A tanulmány egy erős aggregált keresletű időszakot vizsgál; recesszióban a hatások eltérőek lehetnek. Releváns: Gazdasági Minisztérium, éves minimálbér-tárgyalásokat tervező minisztériumi munkatársak.",
-  "topics": ["labor-markets", "firms-productivity", "transition-postcommunist"],
-  "methods": ["diff-in-diff", "panel-data"],
-  "countries_studied": ["HU"],
-  "data_types": ["admin-firm", "admin-individual"],
+  "topics": [
+    "labor-markets",
+    "firms-productivity"
+  ],
+  "methods": [
+    "diff-in-diff",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm",
+    "admin-individual"
+  ],
   "featured": true,
   "added_at": "2026-04-19",
   "last_reviewed_at": "2026-04-19",

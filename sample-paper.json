@@ -27,5 +27,14 @@
   "featured": true,
   "added_at": "2026-04-19",
   "last_reviewed_at": "2026-04-19",
-  "review_status": "ai-drafted"
+  "review_status": "ai-drafted",
+  "policy_highlights": [
+    "Optional: author- or editor-written concise bullet points summarising the paper's value to a policymaker.",
+    "When present, they replace the auto-bulleted policy_relevance prose on the paper page.",
+    "Each string should stand alone — no 'and', 'moreover', pronoun references across bullets."
+  ],
+  "popular_links": [
+    {"title": "Who Really Pays for the Minimum Wage?", "url": "https://example.voxeu.org/...", "outlet": "VoxEU"},
+    {"title": "A minimálbér nem ölt állásokat Magyarországon", "url": "https://example.portfolio.hu/...", "outlet": "Portfolio"}
+  ]
 }
