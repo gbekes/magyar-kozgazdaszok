@@ -17,11 +17,11 @@
   "url_replication": null,
   "abstract": "This paper develops a model of competitive arbitrageurs trading against mispricing in two identical assets. I show that even with frictionless arbitrage, the price gap can persist and widen before it closes, which imposes risk on arbitrageurs and limits the speed at which prices converge.",
   "summary_en": "Why doesn't arbitrage instantly close price gaps between nearly identical assets? This theory paper shows that when many arbitrageurs compete to trade the same mispricing, the gap can widen before it narrows — making the trade risky even when the eventual profit is certain. The result helps explain why 'arbitrage' trades in real markets (e.g., LTCM-style positions) can blow up in the short run while still being right in the long run.",
-  "summary_hu": null,
+  "summary_hu": "Miért nem zárja be az arbitrázs azonnal az ár-szakadékokat szinte azonos eszközök között? Ez az elméleti tanulmány megmutatja, hogy amikor sok arbitrázs-szereplő verseng ugyanazért az áreltérésért, a szakadék szélesedhet, mielőtt szűkülne — kockázatossá téve a kereskedelmet, még akkor is, amikor a végső nyereség biztos. Az eredmény segít megmagyarázni, miért tudnak a valós piacokon „arbitrázs\" ügyletek (pl. LTCM-típusú pozíciók) rövid távon fellobbanni, miközben hosszú távon igazuk van.",
   "data_used": "Theoretical paper; no empirical data.",
-  "data_used_hu": null,
+  "data_used_hu": "Elméleti tanulmány; nincs empirikus adat.",
   "policy_relevance": "Indirectly relevant to financial stability policy and central bank market-operations design: gives a formal reason why large arbitrage-like positions can amplify market stress rather than stabilise it, even when the underlying trade is economically sound. Useful framing for MNB staff thinking about liquidity provision in stressed markets.",
-  "policy_relevance_hu": null,
+  "policy_relevance_hu": "Közvetetten releváns a pénzügyi stabilitási politikához és a központi banki piac-műveletek tervezéséhez: formális okot ad arra, miért erősíthetik fel a nagy arbitrázs-szerű pozíciók a piaci stresszt, ahelyett, hogy stabilizálnák, még akkor is, amikor a mögöttes ügylet közgazdaságilag megalapozott. Hasznos keret az MNB munkatársainak a likviditás-biztosítási döntések mérlegeléséhez stresszes piacokon.",
   "topics": [
     "banking-finance",
     "methods"

@@ -1,7 +1,9 @@
 {
   "id": "koren-tenreyro-2007-qje",
   "title": "Volatility and Development",
-  "authors": ["koren-miklos"],
+  "authors": [
+    "koren-miklos"
+  ],
   "publication_type": "article",
   "journal": "Quarterly Journal of Economics",
   "year": 2007,
@@ -15,15 +17,26 @@
   "url_replication": null,
   "abstract": "We decompose aggregate volatility in a cross-section of countries into components attributable to sectoral specialisation, the volatility of individual sectors, and idiosyncratic country-specific shocks. Poor countries specialise in more volatile sectors and face larger aggregate shocks; richer countries have more diversified production structures and smoother growth.",
   "summary_en": "Why are GDP growth rates more volatile in poor countries than rich ones? This paper shows that lower-income countries tend to be narrowly specialised in a small number of volatile sectors (often commodities), while richer economies have broader, more diversified production. About half of the volatility gap between the poorest and richest countries is explained by sectoral composition, the rest by country-specific macro shocks.",
-  "summary_hu": null,
+  "summary_hu": "Miért volatilisabbak a GDP-növekedési ráták szegény országokban, mint gazdagokban? A tanulmány megmutatja, hogy az alacsonyabb jövedelmű országok hajlamosak szűken specializálódni néhány volatilis szektorra (gyakran nyersanyagokra), míg a gazdagabb gazdaságoknak szélesebb, diverzifikáltabb termelésük van. A legszegényebb és leggazdagabb országok közötti volatilitás-szakadék körülbelül fele a szektorális összetétellel magyarázható, a többi ország-specifikus makro-sokkokkal.",
   "data_used": "Sectoral output and value-added data for roughly 90 countries, 1960–1997, from the United Nations Industrial Development Organisation database and national accounts.",
-  "data_used_hu": null,
+  "data_used_hu": "Szektorális kibocsátási és hozzáadott érték adatok körülbelül 90 országra, 1960–1997, az ENSZ Iparfejlesztési Szervezete adatbázisából és nemzeti számlákból.",
   "policy_relevance": "Signals that diversification away from a narrow set of volatile industries is a credible path toward macroeconomic stability. For a middle-income, open economy like Hungary, the practical implication is less about moving out of any single sector and more about avoiding policies that entrench concentration in one or two external-demand-sensitive industries (e.g., automotive).",
-  "policy_relevance_hu": null,
-  "topics": ["trade-fdi", "firms-productivity", "banking-finance"],
-  "methods": ["panel-data", "descriptive-survey"],
-  "countries_studied": ["GLOBAL"],
-  "data_types": ["macro-aggregate"],
+  "policy_relevance_hu": "Azt sugallja, hogy a volatilis iparágak szűk halmazából való diverzifikáció hiteles út a makroökonómiai stabilitás felé. Egy közepes jövedelmű, nyitott gazdaságnak, mint Magyarország, a gyakorlati következmény kevésbé arról szól, hogy kilépjünk egy adott szektorból, inkább arról, hogy elkerüljük a politikákat, amelyek egy-két külső-kereslet-érzékeny iparágra (pl. autóipar) koncentrációt rögzítenek.",
+  "topics": [
+    "trade-fdi",
+    "firms-productivity",
+    "banking-finance"
+  ],
+  "methods": [
+    "panel-data",
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-19",
   "last_reviewed_at": "2026-04-19",

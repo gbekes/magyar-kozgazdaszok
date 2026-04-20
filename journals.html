@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Qualifying journals — Magyar Közgazdászok</title>
+  <meta name="description" content="The list of journals used to admit authors to the catalogue.">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <div id="site-header"></div>
+
+  <main>
+    <div class="container container-read">
+      <p class="small muted"><a href="index.html">← Home</a></p>
+      <h1>Qualifying journals</h1>
+
+      <p class="lede">An economist is admitted to the catalogue if they have at least one publication in one of the journals below. Once admitted, all of their papers and recent working papers are eligible.</p>
+
+      <p>Roughly this is D1 — top general interest — plus the leading field journals in labor, trade, finance, macro, IO, public, development, econometrics, theory, management, urban, health, environment, economic history. About the top 50 economics journals, plus top finance and management outlets.</p>
+
+      <div class="banner-review">
+        Any such list is arbitrary. Suggestions welcome via
+        <a href="https://github.com/gbekes/magyar-kozgazdaszok/issues" target="_blank" rel="noopener">GitHub issue</a> or
+        <a href="https://github.com/gbekes/magyar-kozgazdaszok/pulls" target="_blank" rel="noopener">PR</a>.
+      </div>
+
+      <div id="journals-root">Loading…</div>
+    </div>
+  </main>
+
+  <div id="site-footer"></div>
+
+  <script src="assets/app.js"></script>
+  <script src="assets/chrome.js"></script>
+  <script>
+  (async function () {
+    const EFH = window.EFH;
+    const data = await EFH.loadData();
+    const journals = data.journals;
+
+    const FIELD_LABELS = {
+      general: 'Top general interest',
+      labor: 'Labor',
+      trade: 'Trade / international',
+      finance: 'Finance',
+      macro: 'Macro / monetary',
+      io: 'Industrial organisation',
+      public: 'Public',
+      development: 'Development',
+      econometrics: 'Econometrics',
+      theory: 'Theory',
+      management: 'Management',
+      urban: 'Urban / regional',
+      health: 'Health',
+      environment: 'Environment',
+      history: 'Economic history'
+    };
+    const FIELD_ORDER = ['general','labor','trade','finance','macro','io','public','development',
+                         'econometrics','theory','management','urban','health','environment','history'];
+
+    function section(tier, title) {
+      const subset = journals.filter(j => j.tier === tier);
+      const byField = {};
+      for (const j of subset) (byField[j.field] ||= []).push(j);
+      const blocks = FIELD_ORDER.filter(f => byField[f]).map(f => {
+        const rows = byField[f].map(j =>
+          `<tr><td class="short">${EFH.esc(j.short)}</td><td>${EFH.esc(j.name)}</td></tr>`
+        ).join('');
+        return `<h3>${EFH.esc(FIELD_LABELS[f] || f)}</h3><table class="journals-table"><tbody>${rows}</tbody></table>`;
+      }).join('');
+      return `<section class="journal-section"><h2>${EFH.esc(title)} <span class="count muted small">(${subset.length})</span></h2>${blocks}</section>`;
+    }
+
+    document.getElementById('journals-root').innerHTML = `
+      ${section('A', 'Tier A — top general interest')}
+      ${section('B', 'Tier B — top field journals')}
+    `;
+  })();
+  </script>
+</body>
+</html>

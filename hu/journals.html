@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="hu">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Belépő folyóiratok — Magyar Közgazdászok</title>
+  <meta name="description" content="A bekerülés alapjául szolgáló folyóiratok listája.">
+  <link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+  <div id="site-header"></div>
+
+  <main>
+    <div class="container container-read">
+      <p class="small muted"><a href="index.html">← Kezdőlap</a></p>
+      <h1>Belépő folyóiratok</h1>
+
+      <p class="lede">A katalógusba akkor kerül be egy közgazdász, ha legalább egy publikációja megjelent az alábbi folyóiratok valamelyikében. A bekerülés után minden tanulmánya és friss műhelytanulmánya bekerülhet a katalógusba.</p>
+
+      <p>Nagyjából ez a D1 — vezető általános érdekű folyóiratok — és a legjobb területi folyóiratok: munkaügyi, kereskedelem, pénzügy, makroökonómia, IO, közgazdaságtan, fejlődés, ökonometria, elmélet, menedzsment, városi, egészségügy, környezet, gazdaságtörténet. Körülbelül a közgazdaságtan legjobb 50 folyóirata, kiegészítve a vezető pénzügyi és menedzsment folyóiratokkal.</p>
+
+      <div class="banner-review">
+        Minden ilyen lista önkényes. Javaslatokat
+        <a href="https://github.com/gbekes/magyar-kozgazdaszok/issues" target="_blank" rel="noopener">GitHub issue</a> vagy
+        <a href="https://github.com/gbekes/magyar-kozgazdaszok/pulls" target="_blank" rel="noopener">PR</a> formájában várunk.
+      </div>
+
+      <div id="journals-root">Betöltés…</div>
+    </div>
+  </main>
+
+  <div id="site-footer"></div>
+
+  <script src="../assets/app.js"></script>
+  <script src="../assets/chrome.js"></script>
+  <script>
+  (async function () {
+    const EFH = window.EFH;
+    const data = await EFH.loadData();
+    const journals = data.journals;
+
+    const FIELD_LABELS = {
+      general: 'Vezető általános érdekű',
+      labor: 'Munkaügy',
+      trade: 'Kereskedelem / nemzetközi',
+      finance: 'Pénzügy',
+      macro: 'Makroökonómia / monetáris',
+      io: 'Piacszerkezet (IO)',
+      public: 'Közgazdaságtan',
+      development: 'Fejlődésgazdaságtan',
+      econometrics: 'Ökonometria',
+      theory: 'Elmélet',
+      management: 'Menedzsment',
+      urban: 'Városi / regionális',
+      health: 'Egészség-gazdaságtan',
+      environment: 'Környezet-gazdaságtan',
+      history: 'Gazdaságtörténet'
+    };
+    const FIELD_ORDER = ['general','labor','trade','finance','macro','io','public','development',
+                         'econometrics','theory','management','urban','health','environment','history'];
+
+    function section(tier, title) {
+      const subset = journals.filter(j => j.tier === tier);
+      const byField = {};
+      for (const j of subset) (byField[j.field] ||= []).push(j);
+      const blocks = FIELD_ORDER.filter(f => byField[f]).map(f => {
+        const rows = byField[f].map(j =>
+          `<tr><td class="short">${EFH.esc(j.short)}</td><td>${EFH.esc(j.name)}</td></tr>`
+        ).join('');
+        return `<h3>${EFH.esc(FIELD_LABELS[f] || f)}</h3><table class="journals-table"><tbody>${rows}</tbody></table>`;
+      }).join('');
+      return `<section class="journal-section"><h2>${EFH.esc(title)} <span class="count muted small">(${subset.length})</span></h2>${blocks}</section>`;
+    }
+
+    document.getElementById('journals-root').innerHTML = `
+      ${section('A', 'A szint — vezető általános érdekű folyóiratok')}
+      ${section('B', 'B szint — vezető területi folyóiratok')}
+    `;
+  })();
+  </script>
+</body>
+</html>

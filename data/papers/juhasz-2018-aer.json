@@ -1,7 +1,9 @@
 {
   "id": "juhasz-2018-aer",
   "title": "Temporary Protection and Technology Adoption: Evidence from the Napoleonic Blockade",
-  "authors": ["juhasz-reka"],
+  "authors": [
+    "juhasz-reka"
+  ],
   "publication_type": "article",
   "journal": "American Economic Review",
   "year": 2018,
@@ -15,15 +17,26 @@
   "url_replication": null,
   "abstract": "This paper asks whether temporary trade protection can help countries develop new industries. Using Napoleon's blockade of British trade as a natural experiment, I show that French regions whose exposure to British imports was more reduced by the blockade saw faster adoption of mechanised cotton spinning and retained this advantage for decades after the blockade ended.",
   "summary_en": "Can a country build a new industry by temporarily shielding it from foreign competition? Using Napoleon's 1806–1813 blockade of British trade — which cut off imports unevenly across French regions — this paper shows that more-protected regions adopted mechanised cotton spinning faster, and kept the advantage long after the blockade was lifted. The paper is a rare piece of credible empirical evidence for the classical infant-industry argument behind industrial policy.",
-  "summary_hu": null,
+  "summary_hu": "Egy ország kiépíthet-e egy új iparágat, ha időlegesen megvédi a külföldi versenytől? Napoleon 1806–1813-as brit-kereskedelmi blokádját használva — amely egyenetlenül vágta el a francia régiókat az importoktól —, a tanulmány megmutatja, hogy a jobban védett régiók gyorsabban adoptálták a gépesített gyapot-fonást, és megtartották az előnyt jóval a blokád feloldása után. A tanulmány ritka, hiteles empirikus bizonyíték a klasszikus „kezdő-ipar\" érvre, amely az iparpolitika mögött áll.",
   "data_used": "Historical French administrative data on textile mills and spindles by département, 1803–1840, combined with measures of each region's effective exposure to the British blockade based on distance from the North Sea coast and shipping routes.",
-  "data_used_hu": null,
+  "data_used_hu": "Történelmi francia adminisztratív adatok textil-gyárakra és orsókra départementenként 1803–1840 között, kombinálva a brit blokádnak való tényleges kitettség mérőszámaival, amelyek az Északi-tengerből való távolságra és hajózási útvonalakra épülnek.",
   "policy_relevance": "Offers one of the cleanest empirical cases for the idea that time-limited trade protection can seed a lasting industry. Caveats: the setting is early-19th-century textiles and a very large trade shock; generalising to modern industrial policy requires care about which industries and shock sizes are comparable. Relevant for: Hungarian Ministry of Economy officials designing targeted industrial policy under EU state-aid rules.",
-  "policy_relevance_hu": null,
-  "topics": ["trade-fdi", "firms-productivity"],
-  "methods": ["panel-data", "diff-in-diff"],
-  "countries_studied": ["FR", "GB"],
-  "data_types": ["historical"],
+  "policy_relevance_hu": "Az egyik legtisztább empirikus eset arra, hogy időleges kereskedelmi védelem tartós iparhoz vezethet. Figyelmeztetés: a környezet 19. század eleji textil és nagyon nagy kereskedelmi sokk; a modern iparpolitikára való általánosítás óvatosságot igényel, mely iparágakban és sokknagyságokban lehet összehasonlítható. Releváns a magyar Gazdasági Minisztérium tisztviselőinek, akik célzott iparpolitikát terveznek az EU állami-támogatási szabályok alatt.",
+  "topics": [
+    "trade-fdi",
+    "firms-productivity"
+  ],
+  "methods": [
+    "panel-data",
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "FR",
+    "GB"
+  ],
+  "data_types": [
+    "historical"
+  ],
   "featured": true,
   "added_at": "2026-04-19",
   "last_reviewed_at": "2026-04-19",

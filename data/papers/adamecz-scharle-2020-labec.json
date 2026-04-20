@@ -1,7 +1,9 @@
 {
   "id": "adamecz-scharle-2020-labec",
   "title": "Compulsory Schooling Age and Early Labour Market Outcomes: Evidence from Hungary",
-  "authors": ["adamecz-anna"],
+  "authors": [
+    "adamecz-anna"
+  ],
   "publication_type": "article",
   "journal": "Labour Economics",
   "year": 2020,
@@ -15,15 +17,26 @@
   "url_replication": null,
   "abstract": "We study a Hungarian reform that cut the compulsory schooling age from 18 to 16 and find sizeable effects on school completion and early labour market outcomes, especially for lower-SES students and the Roma minority.",
   "summary_en": "In 2012 Hungary cut the compulsory schooling age from 18 to 16. Using administrative data, this paper shows the reform raised dropout rates, reduced secondary-school completion (especially among lower-income and Roma students), and lowered employment and earnings in the first years after school. The effects are larger for groups already at risk of exclusion.",
-  "summary_hu": null,
+  "summary_hu": "2012-ben Magyarország 18-ról 16 évre csökkentette a tankötelezettségi korhatárt. Adminisztratív adatokat használva a tanulmány megmutatja, hogy a reform megnövelte a lemorzsolódási arányt, csökkentette a középiskolai végzettséget (különösen az alacsonyabb jövedelmű és roma tanulók körében), és csökkentette a foglalkoztatást és a béreket az iskola utáni első években. A hatások nagyobbak azoknál a csoportoknál, amelyek már eleve veszélyeztetettek a kiszorulás szempontjából.",
   "data_used": "Hungarian administrative education records and matched employer-employee data, covering cohorts exposed and unexposed to the 2012 compulsory-schooling-age reduction.",
-  "data_used_hu": null,
+  "data_used_hu": "Magyar adminisztratív oktatási adatok és összekapcsolt munkáltató–munkavállaló adatok, amelyek a 2012-es tankötelezettségi-korcsökkentésnek kitett és ki nem tett kohorszokra terjednek ki.",
   "policy_relevance": "Direct Hungarian policy evidence: lowering the school-leaving age from 18 to 16 did not save money in any meaningful sense — it shifted costs downstream through worse employment outcomes, concentrated on the students the education system was already failing. Relevant for any future discussion of compulsory schooling age, vocational tracking, and early exit routes. Ministry of Human Capacities / education policy.",
-  "policy_relevance_hu": null,
-  "topics": ["education-skills", "labor-markets", "inequality-welfare"],
-  "methods": ["diff-in-diff", "panel-data"],
-  "countries_studied": ["HU"],
-  "data_types": ["admin-individual"],
+  "policy_relevance_hu": "Közvetlen magyar szakpolitikai bizonyíték: a tanköteles kor 18-ról 16-ra csökkentése érdemben nem takarított meg pénzt — rosszabb munkaerőpiaci kimeneteleken keresztül a költségeket lejjebb tolta a vonalon, olyan tanulókra koncentrálva, akiket az oktatási rendszer amúgy is kudarcot vallott. Releváns a jövőbeli tankötelezettségi kor, a szakmai képzés és a korai kilépési útvonalak vitájához. Emberi Erőforrások Minisztériuma / oktatáspolitika.",
+  "topics": [
+    "education-skills",
+    "labor-markets",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "diff-in-diff",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-19",
   "last_reviewed_at": "2026-04-19",

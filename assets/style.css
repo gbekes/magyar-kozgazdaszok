@@ -408,5 +408,64 @@ footer.site a { color: var(--ink-2); }
   margin: 0.5rem 0 1rem;
 }
 
+/* Beta / MVP warning — more prominent than banner-review */
+.beta-banner {
+  background: #fff3cd;
+  border: 2px solid var(--v-9);
+  border-left: 6px solid var(--v-9);
+  color: #6b5400;
+  padding: 0.9rem 1.1rem;
+  border-radius: 4px;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
+.beta-banner strong:first-child { color: var(--v-0); }
+.beta-banner a { color: var(--v-2); font-weight: 600; }
+
+/* Journals page — tier + field tables */
+.journal-section { margin: 2rem 0; }
+.journal-section h2 {
+  border-bottom: 2px solid var(--v-3);
+  padding-bottom: 0.25rem;
+  margin-bottom: 1rem;
+}
+.journal-section h3 {
+  color: var(--v-3);
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin: 1.25rem 0 0.4rem;
+}
+.journals-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+.journals-table td {
+  padding: 0.3rem 0.6rem;
+  border-bottom: 1px solid var(--rule);
+}
+.journals-table td.short {
+  width: 110px;
+  font-family: var(--font-mono);
+  color: var(--v-2);
+  font-weight: 600;
+}
+
+/* Scope / definition block on landing */
+.scope-block {
+  background: var(--bg-card);
+  border: 1px solid var(--rule);
+  border-left: 4px solid var(--v-4);
+  padding: 1.1rem 1.4rem;
+  border-radius: 4px;
+}
+.scope-block h2 { border: none; margin-bottom: 0.5rem; }
+.scope-block .scope-cta {
+  display: inline-block; margin: 0.3rem 0 0.5rem;
+  font-weight: 600; color: var(--v-2);
+}
+
 details > summary { cursor: pointer; font-weight: 600; color: var(--v-3); }
 details[open] > summary { margin-bottom: 0.5rem; }
