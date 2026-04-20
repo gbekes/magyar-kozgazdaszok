@@ -1,0 +1,209 @@
+{
+  "benczur-konya-2016-eee": {
+    "summary_en": "What happens when a small open economy with heavy foreign-currency debt suddenly loses access to foreign credit? This paper builds a two-sector model with money-in-the-utility, calibrated to Hungary's 2008–11 crisis experience, and simulates four policy counterfactuals: a more flexible float, a perfect peg, and both under lower initial indebtedness. The model reproduces the observed post-crisis movements in aggregate and sectoral variables, and shows that currency mismatch amplifies the cost of an exchange-rate regime that allows large depreciation — a key lesson from Hungary's 2008 experience with foreign-currency household debt.",
+    "data_used": "Hungarian macro and sectoral time series 2000–2013 (GDP, consumption, investment, traded vs non-traded sector output, exchange rate, household foreign-currency debt), from the Hungarian National Bank (MNB) and KSH.",
+    "policy_relevance": "Directly relevant to MNB macroprudential policy. The paper's counterfactuals support the post-crisis policy of discouraging foreign-currency household borrowing (the 2014–15 forint conversion) — without such measures, large depreciations cause disproportionate contractions. Relevant to any debate about exchange-rate regime choice for Hungary or similar CEE economies with potentially significant foreign-currency debt.",
+    "topics": ["banking-finance", "transition-postcommunist", "fiscal-tax"],
+    "methods": ["structural"],
+    "data_types": ["macro-aggregate"],
+    "countries_studied": ["HU"]
+  },
+  "bisztray-koren-et-al-2018-jie": {
+    "summary_en": "How do firms learn to import from abroad? This paper uses Hungarian firm-level data to identify knowledge spillovers through fine spatial and managerial networks. Having a peer firm that imports from a specific country more than doubles the probability of starting to import from that same country — but the spillover effect decays quickly with distance and is stronger when both firms or their managers are more productive. The model-implied social multiplier is highly skewed: targeting an import-encouragement policy to firms with many productive neighbors can deliver disproportionate aggregate effects.",
+    "data_used": "Hungarian firm-level panel data (administrative tax + customs) 2003–2011, linked to firm location (building-level coordinates) and manager employment history across firms.",
+    "policy_relevance": "Direct Hungarian policy implication. For HIPA and the Ministry of Economy: import-encouragement programs benefit from targeting — policies reaching firms clustered near productive peers deliver outsized multipliers. Spatial proximity matters, so physical infrastructure investments that co-locate firms (industrial parks) have spillover benefits beyond the standard cost-savings argument. Hungarian data; immediately operational.",
+    "topics": ["trade-fdi", "firms-productivity", "innovation-digital"],
+    "methods": ["panel-data", "diff-in-diff"],
+    "data_types": ["admin-firm"],
+    "countries_studied": ["HU"]
+  },
+  "cai-szeidl-2017-qje": {
+    "summary_en": "Do business networks really improve firm performance? This paper ran a randomized experiment with 2,820 young Chinese firms, assigning some to monthly business-association meetings for a year. Firms in the meeting groups saw 8.1% higher revenue, alongside higher profit, inputs, borrowing, and management-practice adoption — and the effects persisted a year after meetings ended. The paper documents specific channels: managers shared useful business information, found new suppliers and clients, and firms with better-quality peers grew faster. Strong evidence that peer networks among SMEs are not just social but genuinely productivity-raising.",
+    "data_used": "Randomized field experiment with 2,820 registered SMEs in Nanchang, China, 2013–2016; monthly meetings over one year; firm outcomes tracked via administrative data and surveys.",
+    "policy_relevance": "For Hungarian SME policy (HIPA, Ministry of Economy): structured peer-learning networks for SMEs can deliver meaningful productivity gains, not just social capital. Relevant to design of mentoring programs, sector-based SME associations, and cluster-development initiatives. Chinese setting; the mechanism (information sharing between peer firms) applies wherever SMEs are information-constrained.",
+    "topics": ["firms-productivity", "innovation-digital", "labor-markets"],
+    "methods": ["rct"],
+    "data_types": ["field-experiment"],
+    "countries_studied": ["CN"]
+  },
+  "calzolari-colliard-et-al-2018-rfs": {
+    "summary_en": "When a multinational bank operates across countries, who should supervise it? National supervisors face coordination failures, and switching to a supranational supervisor (like the ECB's Single Supervisory Mechanism) solves this. But this paper shows banks strategically adjust their organisational structure in response — converting subsidiaries to branches, or vice versa, to reduce supervisory pressure. In some cases these adjustments backfire, raising public costs and lowering welfare. Current European supervisory reforms should account for this endogenous reshuffling.",
+    "data_used": "Theoretical paper; calibrated with stylised facts from European banking supervision reform. No new empirical data.",
+    "policy_relevance": "Directly relevant to Hungarian Ministry of Finance and MNB positions on EU banking union and the Single Supervisory Mechanism. The paper argues that simply imposing supranational supervision may produce unintended banking-structure responses. Useful for thinking about how Hungarian-registered subsidiaries of foreign banks (OTP foreign units, or foreign banks' Hungarian subsidiaries) might respond to supervisory regime changes.",
+    "topics": ["banking-finance", "political-economy"],
+    "methods": ["theory"],
+    "data_types": [],
+    "countries_studied": ["EU"]
+  },
+  "chetty-szeidl-2016-ecma": {
+    "summary_en": "Household consumption is famously 'excessively sensitive' to predictable income shocks and 'excessively smooth' to big ones — anomalies usually attributed to habit formation. This paper shows that a simpler mechanism can explain both: consumption commitments (mortgage, rent, car loan) that are costly to adjust. When idiosyncratic income risk is large relative to aggregate risk, the commitments model is approximately equivalent to a habit-formation model — but the commitments model correctly predicts that excess sensitivity and smoothness vanish for large shocks, which habit formation does not. The paper develops additional tests to distinguish the two.",
+    "data_used": "Theoretical paper with empirical tests using US Panel Study of Income Dynamics (PSID) consumption data and event studies around unemployment.",
+    "policy_relevance": "Relevant to how Hungarian macro models treat household consumption dynamics (MNB). The commitments interpretation implies that stabilisation policies that prevent foreclosures and severe debt shocks generate welfare gains out of proportion to their small effects on average consumption. Reinforces the case for targeted social insurance that smooths large negative shocks rather than broad transfers.",
+    "topics": ["methods", "inequality-welfare", "banking-finance"],
+    "methods": ["structural", "panel-data"],
+    "data_types": ["survey"],
+    "countries_studied": ["US"]
+  },
+  "conte-desmet-et-al-2021-joeg": {
+    "summary_en": "How will climate change reshape where people live and work? Using a two-sector dynamic spatial growth model at 1°×1° global resolution, this paper simulates a 200-year horizon under high-emissions warming. The model predicts economic activity shifting northward to Siberia, Canada, and Scandinavia; agricultural specialisation shifting from the tropics to Central Asia, China, and northern Canada; and equatorial regions losing population as they become less productive. By 2200, world real GDP falls about 6% and utility about 15% relative to a no-warming counterfactual.",
+    "data_used": "Global gridded data at 1°×1° resolution: agricultural and non-agricultural productivity, population, trade, temperature projections under IPCC RCP 8.5. Model calibrated to fit 2000-era patterns.",
+    "policy_relevance": "For Hungarian climate and migration policy (Ministry of Agriculture, Ministry for European Affairs): quantitative framework for projecting how climate-induced migration pressures evolve over decades. Hungary itself is in a relatively protected middle latitude — but neighboring regions' climate displacement affects EU migration. Useful background for long-term agricultural and regional-development planning. Model-based; not a prediction but a scenario under specific assumptions.",
+    "topics": ["energy-environment", "regional-urban", "trade-fdi"],
+    "methods": ["structural"],
+    "data_types": ["macro-aggregate"],
+    "countries_studied": ["GLOBAL"]
+  },
+  "dellavigna-lindner-et-al-2017-qje": {
+    "summary_en": "How does unemployment duration respond when benefit rules change? This paper exploits a 2005 Hungarian reform that switched from a single-step to a two-step unemployment-insurance system with the same overall generosity, and shows that the timing of exits from unemployment reacts sharply: hazard rates rise before anticipated benefit cuts and fall after. Standard models struggle to explain this, but a reference-dependent job search model — where workers are loss-averse relative to recent income — fits the data well. The paper is a clean test of behavioural models using a unique Hungarian policy design.",
+    "data_used": "Hungarian administrative unemployment-insurance records 2002–2010 from NYES / NFSZ, covering the universe of unemployment spells; linked to pre-unemployment wages and post-unemployment re-employment.",
+    "policy_relevance": "Direct Hungarian policy evidence. For the Ministry of Labour and NFSZ: unemployment-insurance design is not just about total generosity — the shape of the benefit path over time has large effects on job search and re-employment timing. The two-step structure introduced in 2005 created particular search distortions. Also supports the case for behavioural considerations in benefit design more generally. Hungarian data; directly applicable.",
+    "topics": ["labor-markets", "inequality-welfare", "methods"],
+    "methods": ["structural", "diff-in-diff"],
+    "data_types": ["admin-individual"],
+    "countries_studied": ["HU"]
+  },
+  "desmet-kopp-et-al-2021-aejm": {
+    "summary_en": "How much will sea-level rise actually cost the world economy? Using a dynamic spatial model of the world economy combined with probabilistic sea-level projections, this paper estimates that under an intermediate emissions scenario, permanent coastal flooding reduces global real GDP by about 0.19% in present value terms, and displaces about 1.46% of the world's population by 2200. Coastal locations lose much more. Ignoring the endogenous response of investment and migration massively overstates the damages (from 0.11% to 4.5% of real GDP by 2200): people and capital move away from flood-prone areas.",
+    "data_used": "Global gridded economic activity data at fine spatial resolution, combined with probabilistic local sea-level rise projections through 2200 under IPCC scenarios.",
+    "policy_relevance": "For Hungarian climate and migration policy: primary message is that coastal-flooding damage at the global level is smaller than naive estimates because people move — but Hungary, as a non-coastal EU member, can expect migration pressure from displaced populations. Useful quantitative baseline for EU-level climate-adaptation debates and for long-range demographic projections.",
+    "topics": ["energy-environment", "demographics-migration", "regional-urban"],
+    "methods": ["structural"],
+    "data_types": ["macro-aggregate"],
+    "countries_studied": ["GLOBAL"]
+  },
+  "desmet-nagy-et-al-2018-jpe": {
+    "summary_en": "Why are some parts of the world rich and others poor? This foundational paper develops a dynamic spatial growth model with realistic geography — applied at 1°×1° resolution to the entire world economy. The model explicitly traces how migration frictions shape local market size, innovation incentives, and the evolution of technology. The central result: fully liberalising migration would increase global welfare by about threefold, and would dramatically reshape which regions drive economic growth. The paper launches a research program that combines trade, migration, and growth in a single spatial framework.",
+    "data_used": "Global data at 1°×1° spatial resolution on population, income, trade flows, agricultural and non-agricultural productivity, migration barriers. Calibrated to circa-2000 data.",
+    "policy_relevance": "For Hungarian migration and EU policy debates: provides a quantitative framework for the economic case for international migration. The estimated threefold welfare gain from full liberalisation is an upper bound from one model specification, but even partial liberalisations generate large gains. Relevant to EU debates on labor mobility and for understanding Hungary's position as both a destination and origin of migration within the EU.",
+    "topics": ["trade-fdi", "demographics-migration", "regional-urban"],
+    "methods": ["structural"],
+    "data_types": ["macro-aggregate"],
+    "countries_studied": ["GLOBAL"]
+  },
+  "egger-francois-et-al-2015-ep": {
+    "summary_en": "How much would TTIP (the proposed US–EU trade agreement) actually deliver? Using a mix of econometric estimation and computable general equilibrium simulation, this paper projects a ~80% increase in bilateral US–EU trade from a full agreement, with consumption gains of 1% for the US and 2.25% for the EU. But third countries lose: trade diversion reduces their trade with the core parties by ~2.5%. A purely discriminatory agreement harms outside countries, while one that spreads non-tariff-barrier reductions globally spreads benefits too. The paper was influential in EU-side TTIP negotiations.",
+    "data_used": "CEPII BACI bilateral trade database combined with sectoral and tariff data for EU and US; GTAP computable general equilibrium model calibrated to 2010.",
+    "policy_relevance": "Relevant to Hungarian position on EU trade agreements generally (Ministry of Foreign Affairs and Trade). The paper's discriminatory-vs-open finding matters for Hungarian manufacturers who export to both EU and third-country markets: Hungarian auto-sector exporters may face trade diversion from future EU–third-country deals. The specific TTIP projections are dated (negotiations stalled), but the methodology applies to ongoing Mercosur-EU and EU-India talks.",
+    "topics": ["trade-fdi", "political-economy", "firms-productivity"],
+    "methods": ["structural"],
+    "data_types": ["macro-aggregate"],
+    "countries_studied": ["EU", "US"]
+  },
+  "fan-hsu-et-al-2020-jbes": {
+    "summary_en": "When estimating how a program's effect varies with observable characteristics, how should we handle the fact that many covariates might matter but we don't know which? This methodological paper develops a two-stage nonparametric estimator. The first stage uses machine learning to estimate the needed nuisance functions (allowing for high-dimensional covariates); the second stage uses low-dimensional local regression on the covariate of interest. The approach is efficient, allows proper inference, and is demonstrated on maternal-smoking effects on birth weight as a function of mother's age.",
+    "data_used": "Methodological paper; empirical application uses US natality data on birth weight and maternal characteristics.",
+    "policy_relevance": "Useful for Hungarian policy evaluation when heterogeneous effects matter (which is almost always). For researchers at KRTK, MNB, and ministries evaluating program impacts: this estimator lets you use modern machine-learning tools while still getting proper standard errors on effect heterogeneity. Particularly relevant for evaluating labor-market programs, health interventions, and education reforms where effects likely differ across subpopulations.",
+    "topics": ["methods"],
+    "methods": ["ml-text", "structural"],
+    "data_types": ["admin-individual"],
+    "countries_studied": ["US"]
+  },
+  "francois-manchin-et-al-2015-wp": {
+    "summary_en": "An earlier study of the potential economic impact of TTIP (proposed US–EU trade agreement), focusing on non-tariff barrier reductions. Using a computable general equilibrium framework, the paper estimates bilateral trade gains and consumption benefits for the EU and US, with moderate third-country effects that depend critically on whether reductions spread globally. The paper also tracks emissions and resource-use impacts, finding negligible environmental effects. A complementary economic-assessment precursor to the 2015 Economic Policy paper.",
+    "data_used": "CEPII BACI bilateral trade data with sectoral and tariff detail; GTAP computable general equilibrium model calibrated to 2010 baseline.",
+    "policy_relevance": "For Hungarian trade policy analysis (Ministry of Foreign Affairs and Trade): methodological template for assessing economy-wide impacts of proposed trade agreements. The headline quantitative predictions are TTIP-specific and dated, but the framework remains applicable to analysing ongoing EU trade negotiations.",
+    "topics": ["trade-fdi", "energy-environment", "political-economy"],
+    "methods": ["structural"],
+    "data_types": ["macro-aggregate"],
+    "countries_studied": ["EU", "US"]
+  },
+  "hsu-lai-et-al-2020-er": {
+    "summary_en": "How do you estimate the distribution — not just the mean — of treatment effects when treatment is endogenous (think: voluntary program participation)? This methodological paper proposes nonparametric estimation of the distribution and quantile functions of potential outcomes among compliers. The approach uses a simple monotonisation method that works even when the outcome is unbounded, improving on the Chernozhukov–Fernández-Val–Galichon (2010) alternative. The paper develops the asymptotic theory and provides a multiplier-bootstrap procedure for proper confidence bands.",
+    "data_used": "Methodological paper; no specific empirical application beyond simulation studies.",
+    "policy_relevance": "For Hungarian policy evaluation: when a program's impact is not uniform across the population (e.g., some participants gain much more than average), knowing the whole distribution matters. This estimator lets evaluators properly quantify how much of the gain goes to which segment of program participants — useful for targeted policies, means-tested programs, and heterogeneous-response interventions.",
+    "topics": ["methods"],
+    "methods": ["structural"],
+    "data_types": [],
+    "countries_studied": []
+  },
+  "hsu-lai-et-al-2020-jbes": {
+    "summary_en": "If we changed who gets a particular social program, what would its effects look like? This methodological paper develops estimation and inference for the 'quantile counterfactual treatment effect' — the distribution of outcomes that would result if the treated population were different. The approach handles both ex-ante policy simulations and analyses of treatment-effect heterogeneity. Monte Carlo simulations and two empirical counterfactuals illustrate the method.",
+    "data_used": "Methodological paper; two counterfactual exercises illustrate the approach but the main contribution is statistical.",
+    "policy_relevance": "Useful for Hungarian policy-simulation work: when a ministry wants to know 'what would happen if we expanded this program to group X?', this method provides proper counterfactual distributions with confidence bands — not just point estimates. Applies to means-tested benefit reforms, targeted subsidies, and training-program expansions.",
+    "topics": ["methods"],
+    "methods": ["structural"],
+    "data_types": [],
+    "countries_studied": []
+  },
+  "konya-2015-ks": {
+    "summary_en": "This paper recomputes Hungary's total factor productivity (TFP) and the growth decomposition of Hungarian GDP, with two methodological improvements: a better treatment of human capital, and explicit accounting for capacity utilisation in both labor and capital. The results show that both capital accumulation and productivity improvement mattered for Hungary's 1995–2013 growth, while employment's contribution was only significant in the late 1990s. The paper also explores the interaction between capital accumulation and productivity growth.",
+    "data_used": "Hungarian macro data 1995–2013: GDP, capital stock, employment, capacity utilisation measures. Sources: KSH, MNB, and the paper's own human-capital adjustments.",
+    "policy_relevance": "Central reference for Hungarian growth accounting. For Ministry of Finance and MNB: properly accounting for capacity utilisation changes the picture of productivity fluctuations — Hungarian TFP is less volatile than conventional calculations suggest once capacity is controlled for. Supports a more nuanced narrative about the post-2008 slowdown. Hungarian data; methodology is directly applicable to updates with newer data.",
+    "topics": ["firms-productivity", "transition-postcommunist", "labor-markets"],
+    "methods": ["descriptive-survey", "time-series"],
+    "data_types": ["macro-aggregate"],
+    "countries_studied": ["HU"]
+  },
+  "konya-kreko-et-al-2020-em": {
+    "summary_en": "Why do Central and Eastern European EU countries have lower labor shares (the fraction of national income going to wages) than older EU members? This paper documents the gap at both aggregate and sectoral levels, finds that structural change between sectors plays only a minor role, and shows that a large part of the cross-country gap is explained by relative price differences. A calibrated two-sector model with sectoral productivity differentials can explain 36–71% of the observed gap. Measurement problems in agriculture, real estate, and the public sector complicate straightforward aggregate comparisons.",
+    "data_used": "EU KLEMS database at sectoral level for EU member states, 1995–2017; focus on CEE-6 vs. older EU-15 comparison.",
+    "policy_relevance": "For Hungarian Ministry of Finance and MNB: the 'low labor share in CEE' often cited in political debates is partly a measurement/composition phenomenon, not pure exploitation or institutional weakness. Useful correction to casual narratives. Relevant for wage policy discussions and for framing comparisons with older EU members. Hungarian data with EU context.",
+    "topics": ["labor-markets", "firms-productivity", "transition-postcommunist"],
+    "methods": ["structural", "descriptive-survey"],
+    "data_types": ["macro-aggregate"],
+    "countries_studied": ["HU", "CEE", "EU"]
+  },
+  "konya-kreko-et-al-2021-ks": {
+    "summary_en": "A Hungarian-language follow-up to the 2020 Economic Modelling paper on labor shares. The paper details measurement issues in computing the labor share (the fraction of income going to wages) in Hungary and compares Hungary's trajectory to European peers from 1995 to 2019. Key findings: the aggregate labor share fell meaningfully in this period, but most of the decline reflects cuts to employer social security contributions rather than underlying wage compression. Agriculture, real estate, and the public sector generate special measurement problems for aggregate comparisons.",
+    "data_used": "Hungarian and EU sectoral data 1995–2019 from KSH and EU KLEMS; detailed breakdown by sector and income-component.",
+    "policy_relevance": "For Hungarian wage-and-tax policy debates (Ministry of Finance, Ministry of Economy): the paper is a rigorous reality-check on headline labor-share statistics. The declining labor share in Hungary is largely an artefact of payroll-tax reforms, not wage suppression. Important when labor-share comparisons are used in wage negotiations, EU-comparison arguments, and welfare-statistics work. Hungarian data; directly applicable.",
+    "topics": ["labor-markets", "firms-productivity", "fiscal-tax"],
+    "methods": ["descriptive-survey", "structural"],
+    "data_types": ["macro-aggregate"],
+    "countries_studied": ["HU", "EU"]
+  },
+  "kutasi-koltai-et-al-2022-sr": {
+    "summary_en": "Why did Hungarians hesitate to take some COVID-19 vaccines but eagerly accept others? Using a nationally representative survey fielded at the end of the third pandemic wave in Hungary, this paper exploits a unique feature: Hungarians could reject an assigned vaccine and wait for a preferred alternative, revealing actual preferences across five vaccine types (rather than just stated attitudes). Hesitancy was highly heterogeneous by vaccine type and strongly driven by the respondent's trusted information source. Conspiracy-theory believers were disproportionately hesitant across all vaccines.",
+    "data_used": "Nationally representative Hungarian survey of ~1,000 respondents, fielded at the end of the third COVID-19 wave (spring 2021), covering vaccination status, preferences, information sources, and attitudes.",
+    "policy_relevance": "Direct Hungarian policy input for future vaccine-campaign design (EMMI-era health portfolio, NNK). Vaccine hesitancy is not a unified phenomenon — it's vaccine-specific and information-source-specific. Public-health messaging that targets trusted local sources (family doctors, community networks) is likely more effective than broadcast campaigns. Hungarian data; actionable insight.",
+    "topics": ["health", "political-economy", "demographics-migration"],
+    "methods": ["descriptive-survey"],
+    "data_types": ["survey"],
+    "countries_studied": ["HU"]
+  },
+  "lieli-hsu-2018-jons": {
+    "summary_en": "When a model is built to predict a binary outcome (will this person default? take this job? get sick?) from a set of regressors, how do we test whether the model beats pure chance? This paper shows that naive asymptotic tests based on the empirical AUC (area under the ROC curve) are size-distorted when the predictive index comes from a first-stage regression fit on the same data. The authors derive the correct asymptotic null distribution for the special case of Bernoulli regressors, enabling a proper in-sample test that can have more power than sample-splitting alternatives.",
+    "data_used": "Methodological paper; Monte Carlo simulations and illustration on a synthetic binary-prediction problem.",
+    "policy_relevance": "Directly relevant to Hungarian actuarial, credit-scoring, and medical-risk applications (MNB financial stability, OEP/NEAK claims analytics, private insurers). Anyone evaluating a binary predictor's performance against chance needs proper standard errors, especially when the predictor was estimated on the same data being used to evaluate it. Avoids the common pitfall of overstating in-sample prediction quality.",
+    "topics": ["methods"],
+    "methods": ["structural"],
+    "data_types": [],
+    "countries_studied": []
+  },
+  "lovasz-bat-erdene-et-al-2022-jobae": {
+    "summary_en": "Do women respond differently to competition than men — and does supportive feedback change that? This paper runs a randomised online-game experiment with 5,191 participants, varying whether players see a Top-10 leaderboard (competition) and what kind of subjective feedback they receive (none, supportive, rewarding, or 'trash talk'). A leaderboard increases how long all players persist, but only improves male performance. Combining the leaderboard with supportive feedback also raises female performance — suggesting personalised encouragement may be key for closing gender gaps in competitive settings like STEM.",
+    "data_used": "Online-game field experiment with 5,191 participants, 8 treatment arms, Hungarian recruitment.",
+    "policy_relevance": "For Hungarian STEM and higher-education policy (NKFIH, Ministry for Culture and Innovation): generic 'more competition' interventions may widen rather than close gender gaps, but adding personalised supportive feedback can offset this. Relevant to competitive-admission programmes, STEM-encouragement interventions, and workplace performance-review design. Hungarian context; directly applicable.",
+    "topics": ["labor-markets", "inequality-welfare", "education-skills"],
+    "methods": ["rct"],
+    "data_types": ["field-experiment"],
+    "countries_studied": ["HU"]
+  },
+  "lovasz-cukrowska-torzewska-et-al-2022-jobae": {
+    "summary_en": "Does telling someone they're doing well change how they perform? This paper runs a randomised online-game experiment with Hungarian participants, testing the effect of two kinds of subjective feedback — encouragement versus praise — delivered as pop-up messages during the game. The main finding: encouragement raises persistence and performance among women (especially low-confidence women), and reduces performance among men. Praise has little effect. The asymmetric pattern suggests that personalised feedback targeted by confidence level can close gender gaps in traditionally male-dominated fields.",
+    "data_used": "Online-game field experiment with Hungarian participants; within-experiment randomisation to different feedback conditions; task-related confidence measured pre-experiment.",
+    "policy_relevance": "For Hungarian workplace and education policy: the paper's specific finding — encouragement helps low-confidence women but can hurt men — means that blanket positive-feedback campaigns may not work. Targeted feedback delivery based on individual confidence matters. Applicable to school grading, promotion decisions, and career-counselling programmes. Hungarian data; suggests intervention designs.",
+    "topics": ["labor-markets", "inequality-welfare", "education-skills"],
+    "methods": ["rct"],
+    "data_types": ["field-experiment"],
+    "countries_studied": ["HU"]
+  },
+  "nagy-2023-restud": {
+    "summary_en": "Why did some US settlements become cities while neighbouring ones remained villages? This paper proposes the 'hinterland hypothesis': cities' productive farm hinterlands foster both the city's development and aggregate US growth. Using a novel historical dataset on 19th-century population, trading routes, and agricultural productivity combined with a dynamic quantitative model of economic geography, the paper shows the model can replicate observed patterns of US urbanisation and city formation. Counterfactuals quantify how railroads, changing political borders, and international trade affected city formation and aggregate US growth.",
+    "data_used": "Original historical dataset on US pre-Civil War geography: population and city size at fine spatial resolution, trading routes (rivers, railroads), and local agricultural productivity; 1790–1860.",
+    "policy_relevance": "Mostly a contribution to historical economic-geography theory, but the hinterland hypothesis has indirect relevance to Hungarian regional-development debates: strong regional cities depend on productive surrounding countryside, not just on within-city industrial policy. Argues against purely urban-centric regional development policies. Historical US data; the conceptual insight transfers broadly.",
+    "topics": ["regional-urban", "firms-productivity", "trade-fdi"],
+    "methods": ["structural"],
+    "data_types": ["historical"],
+    "countries_studied": ["US"]
+  },
+  "tobias-2023-joebo": {
+    "summary_en": "Can cooperation emerge among self-interested agents if they can choose how much to care about each other's welfare? This paper proposes a new game-theoretic equilibrium concept — 'rational altruism' — where players optimally calibrate how much weight they give to opponents' payoffs. Such equilibria always exist in finite games when a public signal is available, and are most influential when players' interests are moderately but not diametrically opposed (as in the prisoner's dilemma). With more than two players, rational altruism can enable implicit collusion through opportunistic coalition formation.",
+    "data_used": "Theoretical paper; no empirical data.",
+    "policy_relevance": "Relevant to competition policy (GVH) and regulatory design where collusion risk matters. The paper's insight that rational altruism can facilitate implicit collusion without explicit communication is a caution for antitrust: some seemingly cooperative outcomes may not require coordination mechanisms that regulators could detect or prevent. Also relevant to theory of public-goods provision. Abstract; specific regulatory implications require context.",
+    "topics": ["methods", "firms-productivity"],
+    "methods": ["theory"],
+    "data_types": [],
+    "countries_studied": []
+  }
+}

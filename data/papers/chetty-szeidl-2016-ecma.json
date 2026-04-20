@@ -1,0 +1,46 @@
+{
+  "id": "chetty-szeidl-2016-ecma",
+  "title": "Consumption Commitments and Habit Formation",
+  "authors": [
+    "Raj Chetty",
+    "szeidl-adam"
+  ],
+  "publication_type": "article",
+  "journal": "Econometrica",
+  "year": 2016,
+  "volume": "84",
+  "issue": "2",
+  "pages": "855-890",
+  "doi": "10.3982/ecta9390",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.3982/ecta9390",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "We analyze the implications of household-level adjustment costs for the dynamics of aggregate consumption. We show that an economy in which agents have “consumption commitments” is approximately equivalent to a habit formation model in which the habit stock is a weighted average of past consumption if idiosyncratic risk is large relative to aggregate risk. Consumption commitments can thus explain the empirical regularity that consumption is excessively sensitive and excessively smooth, findings that are typically attributed to habit formation. Unlike habit formation and other theories, but consistent with empirical evidence, the consumption commitments model also predicts that excess sensitivity and smoothness vanish for large shocks. These results suggest that behavior previously attributed to habit formation may be better explained by adjustment costs. We develop additional testable predictions to further distinguish the commitment and habit models and show that the two models have different welfare implications.",
+  "summary_en": "Household consumption is famously 'excessively sensitive' to predictable income shocks and 'excessively smooth' to big ones — anomalies usually attributed to habit formation. This paper shows that a simpler mechanism can explain both: consumption commitments (mortgage, rent, car loan) that are costly to adjust. When idiosyncratic income risk is large relative to aggregate risk, the commitments model is approximately equivalent to a habit-formation model — but the commitments model correctly predicts that excess sensitivity and smoothness vanish for large shocks, which habit formation does not. The paper develops additional tests to distinguish the two.",
+  "summary_hu": "A háztartási fogyasztás hírhedten „túlérzékeny\" az előre látható jövedelmi sokkokra és „túlságosan sima\" a nagyokra — anomáliák, amelyeket általában szokásformálódásnak (habit formation) tulajdonítanak. A tanulmány megmutatja, hogy egy egyszerűbb mechanizmus megmagyarázhatja mindkettőt: a fogyasztási elkötelezettségek (jelzálog, bérlet, autóhitel), amelyeket költséges módosítani. Ha az egyéni jövedelmi kockázat nagy az aggregált kockázathoz képest, az elkötelezettségek modellje közel ekvivalens a szokásformálódási modellel — de az elkötelezettségek modellje helyesen jelzi előre, hogy a túlérzékenység és a túlzott simaság eltűnik nagy sokkokra, amit a szokásformálódás nem tesz. A tanulmány további teszteket fejleszt a két elmélet megkülönböztetésére.",
+  "data_used": "Theoretical paper with empirical tests using US Panel Study of Income Dynamics (PSID) consumption data and event studies around unemployment.",
+  "data_used_hu": "Elméleti tanulmány empirikus tesztekkel az amerikai Panel Study of Income Dynamics (PSID) fogyasztási adatain és munkanélküliséget körülvevő eseményelemzésekkel.",
+  "policy_relevance": "Relevant to how Hungarian macro models treat household consumption dynamics (MNB). The commitments interpretation implies that stabilisation policies that prevent foreclosures and severe debt shocks generate welfare gains out of proportion to their small effects on average consumption. Reinforces the case for targeted social insurance that smooths large negative shocks rather than broad transfers.",
+  "policy_relevance_hu": "Releváns, hogyan kezeli a magyar makró-modellezés a háztartási fogyasztási dinamikát (MNB). Az elkötelezettségek értelmezés azt implikálja, hogy a válságpolitikák, amelyek megelőzik a kilakoltatásokat és a súlyos adóssági sokkokat, aránytalan jóléti nyereséget termelnek a kis átlagos fogyasztási hatáson felül. Megerősíti a célzott szociális biztosítás érvelését, amely nagy negatív sokkokat simít, nem pedig széles körű transzfereket ad.",
+  "topics": [
+    "methods",
+    "inequality-welfare",
+    "banking-finance"
+  ],
+  "methods": [
+    "structural",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "survey"
+  ],
+  "featured": false,
+  "added_at": "2026-04-20",
+  "last_reviewed_at": "2026-04-20",
+  "review_status": "ai-drafted",
+  "openalex_id": "W1499290289"
+}

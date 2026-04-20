@@ -1,0 +1,48 @@
+{
+  "id": "dellavigna-lindner-et-al-2017-qje",
+  "title": "Reference-Dependent Job Search: Evidence from Hungary*",
+  "authors": [
+    "Stefano DellaVigna",
+    "lindner-attila",
+    "reizer-balazs",
+    "Johannes F. Schmieder"
+  ],
+  "publication_type": "article",
+  "journal": "The Quarterly Journal of Economics",
+  "year": 2017,
+  "volume": "132",
+  "issue": "4",
+  "pages": "1969-2018",
+  "doi": "10.1093/qje/qjx015",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1093/qje/qjx015",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "Abstract We propose a model of job search with reference-dependent preferences, with loss aversion relative to recent income (the reference point). In this model, newly unemployed individuals search hard since consumption is below their reference point. Over time, though, they get used to lower income and thus reduce their search effort. In anticipation of a benefit cut, their search effort rises again, then declines once they get accustomed to the lower postcut benefit level. The model fits the typical pattern of exit from unemployment, even with no unobserved heterogeneity. To distinguish between this and other models, we use a unique reform in the unemployment insurance (UI) benefit path. In 2005, Hungary switched from a single-step UI system to a two-step system, with overall generosity unchanged. The system generated increased hazard rates in anticipation of, and especially following, benefit cuts in ways the standard model has a hard time explaining. We estimate a model with optimal consumption, endogenous search effort, and unobserved heterogeneity. The reference-dependent model fits the hazard rates substantially better than plausible versions of the standard model, including habit formation. Our estimates indicate a slow-adjusting reference point and substantial impatience, likely reflecting present-bias.",
+  "summary_en": "How does unemployment duration respond when benefit rules change? This paper exploits a 2005 Hungarian reform that switched from a single-step to a two-step unemployment-insurance system with the same overall generosity, and shows that the timing of exits from unemployment reacts sharply: hazard rates rise before anticipated benefit cuts and fall after. Standard models struggle to explain this, but a reference-dependent job search model — where workers are loss-averse relative to recent income — fits the data well. The paper is a clean test of behavioural models using a unique Hungarian policy design.",
+  "summary_hu": "Hogyan reagál a munkanélküliségi időtartam, ha a juttatási szabályok megváltoznak? A tanulmány a magyar 2005-ös reformot használja, amely egy-lépcsős rendszerről kétlépcsős munkanélküli-biztosítási rendszerre váltott ugyanazzal a teljes bőkezűséggel, és megmutatja, hogy a munkanélküliségből való kilépés időzítése élesen reagál: a hazard-ráták emelkednek az várható juttatási csökkentések előtt és esnek utána. A standard modellek ezt nehezen magyarázzák, de egy referenciafüggő álláskeresési modell — ahol a munkavállalók a nemrég megszokott jövedelemhez képest veszteségkerülők — jól illeszkedik az adatokra. Tiszta teszt a viselkedési modellekre egyedi magyar szakpolitikai tervezéssel.",
+  "data_used": "Hungarian administrative unemployment-insurance records 2002–2010 from NYES / NFSZ, covering the universe of unemployment spells; linked to pre-unemployment wages and post-unemployment re-employment.",
+  "data_used_hu": "Magyar adminisztratív munkanélküli-biztosítási rekordok 2002–2010 a NYES/NFSZ-től, a munkanélküli-időszakok univerzumát lefedve; a munkanélküliség előtti bérekhez és utáni újra-foglalkoztatáshoz kapcsolva.",
+  "policy_relevance": "Direct Hungarian policy evidence. For the Ministry of Labour and NFSZ: unemployment-insurance design is not just about total generosity — the shape of the benefit path over time has large effects on job search and re-employment timing. The two-step structure introduced in 2005 created particular search distortions. Also supports the case for behavioural considerations in benefit design more generally. Hungarian data; directly applicable.",
+  "policy_relevance_hu": "Közvetlen magyar szakpolitikai bizonyíték. A Munkaügyi Minisztériumnak és az NFSZ-nek: a munkanélküli-biztosítás tervezése nem csak a teljes bőkezűségről szól — a juttatási pálya időbeli alakjának nagy hatása van az álláskeresésre és az újra-foglalkoztatás időzítésére. A 2005-ben bevezetett kétlépcsős szerkezet különleges keresési torzulásokat teremtett. Támogatja a viselkedési megfontolások érvelését a juttatások tervezésében általában is. Magyar adat; közvetlenül alkalmazható.",
+  "topics": [
+    "labor-markets",
+    "inequality-welfare",
+    "methods"
+  ],
+  "methods": [
+    "structural",
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
+  "featured": false,
+  "added_at": "2026-04-20",
+  "last_reviewed_at": "2026-04-20",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2402272161"
+}

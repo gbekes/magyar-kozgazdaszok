@@ -1,0 +1,46 @@
+{
+  "id": "fan-hsu-et-al-2020-jbes",
+  "title": "Estimation of Conditional Average Treatment Effects With High-Dimensional Data",
+  "authors": [
+    "Qingliang Fan",
+    "Yu‐Chin Hsu",
+    "lieli-robert",
+    "Yichong Zhang"
+  ],
+  "publication_type": "article",
+  "journal": "Journal of Business and Economic Statistics",
+  "year": 2020,
+  "volume": "40",
+  "issue": "1",
+  "pages": "313-327",
+  "doi": "10.1080/07350015.2020.1811102",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1080/07350015.2020.1811102",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "Given the unconfoundedness assumption, we propose new nonparametric estimators for the reduced dimensional conditional average treatment effect (CATE) function. In the first stage, the nuisance functions necessary for identifying CATE are estimated by machine learning methods, allowing the number of covariates to be comparable to or larger than the sample size. The second stage consists of a low-dimensional local linear regression, reducing CATE to a function of the covariate(s) of interest. We consider two variants of the estimator depending on whether the nuisance functions are estimated over the full sample or over a hold-out sample. Building on Belloni at al. and Chernozhukov et al., we derive functional limit theory for the estimators and provide an easy-to-implement procedure for uniform inference based on the multiplier bootstrap. The empirical application revisits the effect of maternal smoking on a baby’s birth weight as a function of the mother’s age.",
+  "summary_en": "When estimating how a program's effect varies with observable characteristics, how should we handle the fact that many covariates might matter but we don't know which? This methodological paper develops a two-stage nonparametric estimator. The first stage uses machine learning to estimate the needed nuisance functions (allowing for high-dimensional covariates); the second stage uses low-dimensional local regression on the covariate of interest. The approach is efficient, allows proper inference, and is demonstrated on maternal-smoking effects on birth weight as a function of mother's age.",
+  "summary_hu": "Amikor azt becsüljük, hogyan változik egy program hatása megfigyelhető tulajdonságok szerint, hogyan kezeljük azt a tényt, hogy sok kovariáns számíthat, de nem tudjuk, melyik? A módszertani tanulmány kétlépcsős nem-parametrikus becslőt fejleszt. Az első lépésben gépi tanulás becsli a szükséges zavaró függvényeket (magas-dimenziós kovariánsokat engedve); a második lépés alacsony-dimenziós lokális regressziót használ az érdeklődésre számot tartó kovariánsra. A megközelítés hatékony, megfelelő következtetést enged, és az anyai dohányzás-születési-súly hatásán illusztrálják az anya életkorának függvényében.",
+  "data_used": "Methodological paper; empirical application uses US natality data on birth weight and maternal characteristics.",
+  "data_used_hu": "Módszertani tanulmány; az empirikus alkalmazás amerikai születési adatokat használ a születési súlyról és az anya tulajdonságairól.",
+  "policy_relevance": "Useful for Hungarian policy evaluation when heterogeneous effects matter (which is almost always). For researchers at KRTK, MNB, and ministries evaluating program impacts: this estimator lets you use modern machine-learning tools while still getting proper standard errors on effect heterogeneity. Particularly relevant for evaluating labor-market programs, health interventions, and education reforms where effects likely differ across subpopulations.",
+  "policy_relevance_hu": "Hasznos a magyar szakpolitikai értékeléshez, amikor heterogén hatások számítanak (ami majdnem mindig igaz). A KRTK, MNB és minisztériumok programértékelő kutatóinak: ez a becslő modern gépi-tanulási eszközök használatát engedi, miközben megfelelő standard hibákat ad a hatás-heterogenitásra. Különösen releváns munkaerőpiaci programok, egészségügyi beavatkozások és oktatási reformok értékelésénél, ahol a hatások valószínűleg alpopulációnként különböznek.",
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "ml-text",
+    "structural"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
+  "featured": false,
+  "added_at": "2026-04-20",
+  "last_reviewed_at": "2026-04-20",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3050159347"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "hsu-lai-et-al-2020-jbes",
+  "title": "Counterfactual Treatment Effects: Estimation and Inference",
+  "authors": [
+    "Yu‐Chin Hsu",
+    "Tsung-Chih Lai",
+    "lieli-robert"
+  ],
+  "publication_type": "article",
+  "journal": "Journal of Business and Economic Statistics",
+  "year": 2020,
+  "volume": "40",
+  "issue": "1",
+  "pages": "240-255",
+  "doi": "10.1080/07350015.2020.1800479",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1080/07350015.2020.1800479",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "This article proposes statistical methods to evaluate the quantile counterfactual treatment effect (QCTE) if one were to change the composition of the population targeted by a status quo program. QCTE enables a researcher to carry out an ex-ante assessment of the distributional impact of certain policy interventions or to investigate the possible explanations for treatment effect heterogeneity. Assuming unconfoundedness and invariance of the conditional distributions of the potential outcomes, QCTE is identified and can be nonparametrically estimated by a kernel-based method. Viewed as a random function over the continuum of quantile indices, the estimator converges weakly to a zero mean Gaussian process at the parametric rate. We propose a multiplier bootstrap procedure to construct uniform confidence bands, and provide similar results for average effects and for the counterfactually treated subpopulation. We also present Monte Carlo simulations and two counterfactual exercises that provide insight into the heterogeneous earnings effects of the Job Corps training program in the United States.",
+  "summary_en": "If we changed who gets a particular social program, what would its effects look like? This methodological paper develops estimation and inference for the 'quantile counterfactual treatment effect' — the distribution of outcomes that would result if the treated population were different. The approach handles both ex-ante policy simulations and analyses of treatment-effect heterogeneity. Monte Carlo simulations and two empirical counterfactuals illustrate the method.",
+  "summary_hu": "Ha megváltoztatnánk, ki kap egy bizonyos szociális programot, hogyan néznének ki a hatások? A módszertani tanulmány becslést és következtetést fejleszt a „kvantilis ellenpéldás kezelési hatásra\" — ami azt adja meg, milyen kimenetel-eloszlás lenne, ha a kezelt népesség más lenne. A megközelítés mind az előzetes szakpolitikai szimulációt, mind a kezelési-hatás-heterogenitás elemzését kezeli. Monte Carlo-szimulációk és két empirikus ellenpélda illusztrálja a módszert.",
+  "data_used": "Methodological paper; two counterfactual exercises illustrate the approach but the main contribution is statistical.",
+  "data_used_hu": "Módszertani tanulmány; két ellenpéldás gyakorlat illusztrálja a megközelítést, de a fő hozzájárulás statisztikai.",
+  "policy_relevance": "Useful for Hungarian policy-simulation work: when a ministry wants to know 'what would happen if we expanded this program to group X?', this method provides proper counterfactual distributions with confidence bands — not just point estimates. Applies to means-tested benefit reforms, targeted subsidies, and training-program expansions.",
+  "policy_relevance_hu": "Hasznos magyar szakpolitikai-szimulációs munkához: amikor egy minisztérium tudni akarja, hogy „mi történne, ha kiterjesztenénk ezt a programot X csoportra?\", ez a módszer megfelelő ellenpéldás eloszlásokat ad konfidencia-sávokkal — nem csak pontbecsléseket. Alkalmazható rászorultsági alapú juttatás-reformokhoz, célzott támogatásokhoz és képzési-program kiterjesztésekhez.",
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "structural"
+  ],
+  "countries_studied": [],
+  "data_types": [],
+  "featured": false,
+  "added_at": "2026-04-20",
+  "last_reviewed_at": "2026-04-20",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3045303571"
+}

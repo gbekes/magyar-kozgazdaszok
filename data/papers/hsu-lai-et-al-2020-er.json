@@ -1,0 +1,40 @@
+{
+  "id": "hsu-lai-et-al-2020-er",
+  "title": "Estimation and inference for distribution and quantile functions in endogenous treatment effect models",
+  "authors": [
+    "Yu‐Chin Hsu",
+    "Tsung-Chih Lai",
+    "lieli-robert"
+  ],
+  "publication_type": "article",
+  "journal": "Econometric Reviews",
+  "year": 2020,
+  "volume": "41",
+  "issue": "1",
+  "pages": "22-50",
+  "doi": "10.1080/07474938.2020.1847479",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1080/07474938.2020.1847479",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "Given a standard endogenous treatment effect model, we propose nonparametric estimation and inference procedures for the distribution and quantile functions of the potential outcomes among compliers, as well as the local quantile treatment effect function. The preliminary distribution function estimator is a weighted average of indicator functions, but is not monotonically increasing in general. We therefore propose a simple monotonizing method for proper distribution function estimation, and obtain the quantile function estimator by inversion. Our monotonizing method is an alternative to Chernozhukov et al. (2010 Chernozhukov, V., Fernández-Val, I., Galichon, A. (2010). Quantile and probability curves without crossing. Econometrica 78(3):1093–1125.[Crossref], [Web of Science ®] , [Google Scholar]) and is arguably preferable when the outcome has unbounded support. We show that all the estimators converge weakly to Gaussian processes at the parametric rate, and propose a multiplier bootstrap for uniform inference. Our uniform results thus generalize the pointwise theory developed by Frölich and Melly (2013 Frölich, M., Melly, B. (2013). Unconditional quantile treatment effects under endogeneity. Journal of Business & Economic Statistics 31(3):346–357. doi:10.1080/07350015.2013.803869[Taylor & Francis Online], [Web of Science ®] , [Google Scholar]). Monte Carlo simulations and an application to the effect of fertility on family income distribution illustrate the use of the methods. All results extend to the subpopulation of treated compliers as well.",
+  "summary_en": "How do you estimate the distribution — not just the mean — of treatment effects when treatment is endogenous (think: voluntary program participation)? This methodological paper proposes nonparametric estimation of the distribution and quantile functions of potential outcomes among compliers. The approach uses a simple monotonisation method that works even when the outcome is unbounded, improving on the Chernozhukov–Fernández-Val–Galichon (2010) alternative. The paper develops the asymptotic theory and provides a multiplier-bootstrap procedure for proper confidence bands.",
+  "summary_hu": "Hogyan becsüljük a kezelési hatások teljes eloszlását — nem csak az átlagát —, amikor a kezelés endogén (például önkéntes programrészvétel)? A módszertani tanulmány nem-parametrikus becslést javasol a potenciális kimenetelek eloszlására és kvantilis-függvényeire az megfelelők körében. A megközelítés egy egyszerű monotonizáló módszert használ, amely akkor is működik, ha a kimenetel nem korlátos, javítva a Chernozhukov–Fernández-Val–Galichon (2010) alternatívát. A tanulmány kifejleszti az aszimptotikus elméletet és megfelelő konfidencia-sávokhoz multiplier-bootstrap eljárást ad.",
+  "data_used": "Methodological paper; no specific empirical application beyond simulation studies.",
+  "data_used_hu": "Módszertani tanulmány; nincs specifikus empirikus alkalmazás a szimulációs tanulmányokon túl.",
+  "policy_relevance": "For Hungarian policy evaluation: when a program's impact is not uniform across the population (e.g., some participants gain much more than average), knowing the whole distribution matters. This estimator lets evaluators properly quantify how much of the gain goes to which segment of program participants — useful for targeted policies, means-tested programs, and heterogeneous-response interventions.",
+  "policy_relevance_hu": "Magyar szakpolitikai értékeléshez: amikor egy program hatása nem egyenletes a népességben (pl. egyes résztvevők sokkal többet nyernek az átlagnál), az egész eloszlás ismerete számít. Ez a becslő lehetővé teszi az értékelőknek, hogy megfelelően kvantifikálják, a nyereség mennyi megy a program résztvevőinek mely szegmenséhez — hasznos a célzott politikáknak, rászorultsági alapú programoknak és heterogén-válaszú beavatkozásoknak.",
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "structural"
+  ],
+  "countries_studied": [],
+  "data_types": [],
+  "featured": false,
+  "added_at": "2026-04-20",
+  "last_reviewed_at": "2026-04-20",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3110300034"
+}
