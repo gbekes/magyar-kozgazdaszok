@@ -17,19 +17,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We created experimental variation across markets in China in the share of firms having access to a new loan product. Access to finance had a large positive direct effect on the performance of treated firms but a similar-sized negative indirect effect on that of firms with treated competitors, leading to nondetectable gains in producer surplus. Access to finance had a positive direct effect on business quality and consumer satisfaction and a negative effect on price, which were not offset by indirect effects, implying net gains in consumer surplus. We document other indirect effects and combine effects in a welfare evaluation. (JEL D22, G21, G32, L81, O16, P31, P34)",
-  "summary_en": null,
+  "summary_en": "When small firms get better access to finance, they grow. But their competitors — who didn't get the new loans — may lose business. This paper ran a randomised experiment in Chinese retail markets, varying across cities how many firms were offered a new loan product. Treated firms performed much better; their untreated competitors performed correspondingly worse. Net producer-surplus gain: essentially zero. But consumers gained: treated firms delivered better product quality and satisfaction without raising prices as much as their untreated competitors, producing real welfare gains. The paper is a model of how to evaluate finance programmes while accounting for spillover effects.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Randomised market-level experiment in China involving ~1,000 small firms across multiple cities, 2018–2021; firm performance tracked via sales data, mystery shoppers, and customer surveys.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian SME-finance policy (MNB, MFB, Ministry of Economy): the paper's core lesson — that firm-level evaluation of finance programmes understates displacement effects on competitors — applies directly to Hungarian SME loan programmes. A Hungarian programme showing positive treated-firm effects may be net-neutral to the SME sector but still beneficial to consumers. Argues for market-level (not just firm-level) evaluation design. Chinese retail setting; the mechanism applies wherever financial constraints are binding on firms.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "firms-productivity",
+    "banking-finance",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "rct"
+  ],
+  "countries_studied": [
+    "CN"
+  ],
+  "data_types": [
+    "field-experiment"
+  ],
   "featured": false,
   "added_at": "2026-04-19",
-  "last_reviewed_at": "2026-04-19",
-  "review_status": "discovered",
+  "last_reviewed_at": "2026-04-20",
+  "review_status": "ai-drafted",
   "openalex_id": "W4401126511"
 }

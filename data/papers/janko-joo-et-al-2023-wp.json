@@ -1,0 +1,41 @@
+{
+  "id": "janko-joo-et-al-2023-wp",
+  "title": "On Connected Strongly-Proportional Cake-Cutting",
+  "authors": [
+    "janko-zsuzsanna",
+    "Attila Joó",
+    "Erel Segal-Halevi",
+    "Yuen, Sheung Man"
+  ],
+  "publication_type": "working_paper",
+  "journal": null,
+  "year": 2023,
+  "volume": null,
+  "issue": null,
+  "pages": null,
+  "doi": "10.48550/arxiv.2312.15326",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.48550/arxiv.2312.15326",
+  "url_pdf": "https://arxiv.org/pdf/2312.15326",
+  "url_replication": null,
+  "abstract": "We investigate the problem of fairly dividing a divisible heterogeneous resource, also known as a cake, among a set of agents who may have different entitlements. We characterize the existence of a connected strongly-proportional allocation -- one in which every agent receives a contiguous piece worth strictly more than their proportional share. The characterization is supplemented with an algorithm that determines its existence using O(n * 2^n) queries. We devise a simpler characterization for agents with strictly positive valuations and with equal entitlements, and present an algorithm to determine the existence of such an allocation using O(n^2) queries. We provide matching lower bounds in the number of queries for both algorithms. When a connected strongly-proportional allocation exists, we show that it can also be computed using a similar number of queries. We also consider the problem of deciding the existence of a connected allocation of a cake in which each agent receives a piece worth a small fixed value more than their proportional share, and the problem of deciding the existence of a connected strongly-proportional allocation of a pie.",
+  "summary_en": "How do you fairly divide a cake when people have different entitlements and you want every piece to be both contiguous and worth strictly more than each person's proportional share? This paper characterises exactly when such a \"connected strongly-proportional\" allocation exists, and provides algorithms that determine existence and (when it exists) compute it. For equal entitlements and strictly positive valuations, the algorithm runs in O(n²) queries; matching lower bounds show this is tight. The paper contributes to the classic fair-division literature started by Banach, Knaster, and Steinhaus.",
+  "summary_hu": null,
+  "data_used": "Theoretical paper; no empirical data.",
+  "data_used_hu": null,
+  "policy_relevance": "Applications in fair division come up in estate settlement, divorce asset division, inheritance disputes, land allocation, and — most concretely — in contested Hungarian property-restitution cases. The paper's algorithms can be implemented in software for fair-division disputes, though translating theoretical results to operational mediation procedures takes more work.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [],
+  "data_types": [],
+  "featured": false,
+  "added_at": "2026-04-20",
+  "last_reviewed_at": "2026-04-20",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4390306247"
+}

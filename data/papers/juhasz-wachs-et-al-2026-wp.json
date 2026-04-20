@@ -1,0 +1,49 @@
+{
+  "id": "juhasz-wachs-et-al-2026-wp",
+  "title": "The software complexity of nations",
+  "authors": [
+    "juhasz-sandor",
+    "Johannes Wachs",
+    "J.S. Kaminski",
+    "César A. Hidalgo"
+  ],
+  "publication_type": "working_paper",
+  "journal": null,
+  "year": 2026,
+  "volume": "55",
+  "issue": "3",
+  "pages": "105422-105422",
+  "doi": "10.1016/j.respol.2026.105422",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1016/j.respol.2026.105422",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "Despite the growing importance of the digital sector, research on economic complexity and its implications continues to rely mostly on administrative records—e.g. data on exports, patents, and employment—that have blind spots when it comes to the digital economy. In this paper we use data on the geography of programming languages used in open-source software to extend economic complexity ideas to the digital economy. We estimate a country's software economic complexity index (ECI software ) and show that it complements the ability of measures of complexity based on trade, patents, and research to account for international differences in GDP per capita, income inequality, and emissions. We also show that open-source software follows the principle of relatedness, meaning that a country's entries and exits in programming languages are partly explained by its current pattern of specialization. Together, these findings help extend economic complexity ideas and their policy implications to the digital economy. • We measure countries' software economic complexity using GitHub data • Software economic complexity predicts GDP, income inequality and emissions • We show that countries diversify into related programming languages over time • We extend economic complexity methods and their policy implications to the digital sector",
+  "summary_en": "\"Economic complexity\" measures — how sophisticated a country's production mix is — have been built from exports, patents, and employment, but those sources miss the digital economy entirely. This paper extends the framework to open-source software: which programming languages a country uses, and how rare-yet-productive those languages are. The resulting Software Economic Complexity Index predicts GDP per capita, income inequality, and emissions above and beyond trade-based measures. The paper shows that software capabilities, like physical-goods capabilities, follow a \"principle of relatedness\": countries move into languages related to what they already know.",
+  "summary_hu": null,
+  "data_used": "Global GitHub activity data: country-level, programming-language-level panel of open-source-software contributions, ~2008–2023; matched to country-level macro data on GDP, inequality (Gini), and emissions.",
+  "data_used_hu": null,
+  "policy_relevance": "For Hungarian digital-strategy policy (Ministry for Digital Development, NKFIH): measures a country's digital-sector readiness beyond narrow ICT-employment metrics. Relevant for deciding which programming-language ecosystems and open-source communities to support with public-sector talent-development programmes. Software specialisation, like physical-sector specialisation, exhibits path-dependence — Hungary is better positioned to advance in languages related to what Hungarian developers already contribute to.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "innovation-digital",
+    "firms-productivity",
+    "trade-fdi"
+  ],
+  "methods": [
+    "descriptive-survey",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
+  "data_types": [
+    "digital-trace",
+    "macro-aggregate"
+  ],
+  "featured": false,
+  "added_at": "2026-04-20",
+  "last_reviewed_at": "2026-04-20",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4402855175"
+}

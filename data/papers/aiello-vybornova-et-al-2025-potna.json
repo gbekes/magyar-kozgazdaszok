@@ -1,0 +1,49 @@
+{
+  "id": "aiello-vybornova-et-al-2025-potna",
+  "title": "Urban highways are barriers to social ties",
+  "authors": [
+    "Luca Maria Aiello",
+    "Anastassia Vybornova",
+    "juhasz-sandor",
+    "Michael Szell",
+    "Eszter Bokányi"
+  ],
+  "publication_type": "article",
+  "journal": "Proceedings of the National Academy of Sciences",
+  "year": 2025,
+  "volume": "122",
+  "issue": "10",
+  "pages": "e2408937122-e2408937122",
+  "doi": "10.1073/pnas.2408937122",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1073/pnas.2408937122",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "Urban highways are common, especially in the United States, making cities more car-centric. They promise the annihilation of distance but obstruct pedestrian mobility, thus playing a key role in limiting social interactions locally. Although this limiting role is widely acknowledged in urban studies, the quantitative relationship between urban highways and social ties is barely tested. Here, we define a Barrier Score that relates massive, geolocated online social network data to highways in the 50 largest US cities. At the granularity of individual social ties, we show that urban highways are associated with decreased social connectivity. This barrier effect is especially strong for short distances and consistent with historical cases of highways that were built to purposefully disrupt or isolate Black neighborhoods. By combining spatial infrastructure with social tie data, our method adds a dimension to demographic studies of social segregation. Our study can inform reparative planning for an evidence-based reduction of spatial inequality, and more generally, support a better integration of the social fabric in urban planning.",
+  "summary_en": "Urban highways cut through cities — do they cut through neighbourhoods' social ties, too? Using geo-located online-social-network data from the 50 largest US cities, this paper builds a \"Barrier Score\" that quantifies how urban highways reduce social connectivity between places. Connections just across a highway are far weaker than those at the same physical distance without a highway between them. The effect is strongest at short distances and is especially pronounced in cases where highways were historically built to isolate Black neighbourhoods. The paper gives urban planners a quantitative tool for thinking about when road infrastructure causes persistent social segregation.",
+  "summary_hu": null,
+  "data_used": "Anonymised geo-located Twitter data for the 50 largest US metropolitan areas, combined with OpenStreetMap road-network data and US Census demographic information; millions of social-tie observations.",
+  "data_used_hu": null,
+  "policy_relevance": "Directly applicable to Hungarian urban-planning debates (Ministry of Construction and Transport, Budapest Municipality): major road infrastructure doesn't just affect mobility, it reshapes long-run social ties and spatial inequality. Relevant for ring-road extensions, river crossings, and urban-highway reconfigurations in Budapest, Szeged, and Pécs. Setting is US; the mechanism — physical barriers limit social ties — is general, though the historical racial dimension is US-specific.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "regional-urban",
+    "inequality-welfare",
+    "demographics-migration"
+  ],
+  "methods": [
+    "descriptive-survey",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "digital-trace"
+  ],
+  "featured": false,
+  "added_at": "2026-04-20",
+  "last_reviewed_at": "2026-04-20",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4408150733"
+}

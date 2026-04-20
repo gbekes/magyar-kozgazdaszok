@@ -1,0 +1,45 @@
+{
+  "id": "bardits-kertesi-2025-jope",
+  "title": "Family foster care or residential care: the impact of home environment on children raised in state care",
+  "authors": [
+    "Anna Bárdits",
+    "kertesi-gabor"
+  ],
+  "publication_type": "article",
+  "journal": "Journal of Population Economics",
+  "year": 2025,
+  "volume": "38",
+  "issue": "4",
+  "pages": null,
+  "doi": "10.1007/s00148-025-01129-9",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1007/s00148-025-01129-9",
+  "url_pdf": "https://link.springer.com/content/pdf/10.1007/s00148-025-01129-9.pdf",
+  "url_replication": null,
+  "abstract": "Abstract This study investigates how family foster care, compared to residential care, affects the outcomes of adolescents raised in state care. Using Hungarian administrative panel data, we contribute to the literature by examining previously unmeasured adult outcomes, conditioning on a rich set of variables observed in childhood. We show that adolescents raised in a foster family have substantially better outcomes as adults. Compared to similar peers in residential care, they are more likely to complete secondary education and have lower probabilities of using mental health medication and spending extended periods without either working or studying. For girls, teenage childbirth and abortion are less likely. Oster bounds indicate that selection on unobservables would need to be implausibly strong to explain away the estimated effects. Further evidence suggests that local child protection systems with more-abundant foster parents lead to better outcomes for children raised in state care.",
+  "summary_en": "Children in state care in Hungary are placed either with foster families or in residential institutions. Does it matter which? Using Hungarian administrative data that tracks children from care into adulthood, this paper shows that foster-family placement leads to substantially better adult outcomes: higher secondary-school completion, lower mental-health medication use, lower probability of being neither in work nor in school. For girls, teen childbirth and abortion rates are also lower. Selection-on-observables and Oster-bound analysis suggest the effect is causal. County-level variation in foster-parent availability also predicts better outcomes — supply of foster families matters.",
+  "summary_hu": null,
+  "data_used": "Hungarian administrative panel linking state-care placement records to educational, health, and employment outcomes for children aged into adulthood; cohort coverage of children in state care; adult-outcome tracking through their 20s.",
+  "data_used_hu": null,
+  "policy_relevance": "Direct Hungarian-policy reference for the child-protection system (EMMI child-protection portfolio, Ministry of Interior). The effect size is large and policy-actionable: expanding foster-family placement relative to residential care would improve long-run outcomes. Relevant to budgeting for foster-family recruitment and training. Caveats: causal claim rests on Oster bounds rather than randomisation; but the effect is large, consistent with international evidence, and Hungary-specific — rare combination.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "education-skills",
+    "inequality-welfare",
+    "health"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
+  "featured": false,
+  "added_at": "2026-04-20",
+  "last_reviewed_at": "2026-04-20",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4392875010"
+}

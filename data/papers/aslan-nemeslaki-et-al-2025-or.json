@@ -1,0 +1,44 @@
+{
+  "id": "aslan-nemeslaki-et-al-2025-or",
+  "title": "Dynamics of two-sided platforms in public administration",
+  "authors": [
+    "Fatma Aslan",
+    "Andras Nemeslaki",
+    "somogyi-robert",
+    "Ádám János Zsiros"
+  ],
+  "publication_type": "article",
+  "journal": "Operational Research",
+  "year": 2025,
+  "volume": "26",
+  "issue": "1",
+  "pages": null,
+  "doi": "10.1007/s12351-025-01001-4",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1007/s12351-025-01001-4",
+  "url_pdf": "https://link.springer.com/content/pdf/10.1007/s12351-025-01001-4.pdf",
+  "url_replication": null,
+  "abstract": "This paper argues that some key aspects of the management of public platforms can be described well by using the logic of two-sided markets. Many government platforms aim to attract a critical mass of citizens on one side and a diverse array of administrative services or business entities on the other. We develop a dynamic model of two-sided platforms to study such platforms. Previous studies show the importance of initial network sizes in the research of the resource-based view of competitive advantage. We introduce capacity constraints and within-group network effects to the standard models and show that they play a crucial role in the success of public platforms. In particular, we show that public platforms must be wary of negative within-group externalities because they can hinder achieving the critical mass of users. Additionally, we caution against excessively high membership fees, even for the side with for-profit companies. Our theoretical model generates dynamics consistent with the stylized S-shaped growth patterns commonly associated with platform adoption. We run simulations (with assumed rather than estimated model parameters) to demonstrate the sensitivity of this growth trajectory to changes in the levels of within-group externalities.",
+  "summary_en": "Government digital platforms — tax portals, benefit gateways, business registries — need to attract both citizens and service providers to work. This paper extends the standard two-sided market model with capacity constraints and within-group network effects to understand when public platforms succeed. A key finding: negative within-group externalities (e.g., congestion among firms competing for the same citizens) can stop a platform from ever reaching critical mass. High membership fees on the for-profit side are also more damaging than commonly thought. The model produces the characteristic S-shaped adoption curve and identifies levers regulators should focus on.",
+  "summary_hu": null,
+  "data_used": "Theoretical model with simulation using assumed (not estimated) parameter values; no new empirical dataset.",
+  "data_used_hu": null,
+  "policy_relevance": "Directly relevant to Hungarian digital-state policy (DEAK, Ministry for Digital Development). Practical lessons: (1) Price moderately on the firm side — high fees can stall platform take-off; (2) Design platforms to mitigate within-group congestion between competing firms; (3) Expect slow early growth (the S-curve) and don't judge early adoption rates against false benchmarks. Relevant to ongoing Hungarian public-administration platform projects. Setting is theoretical with simulated parameters; applying to specific Hungarian platforms requires calibration.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "innovation-digital",
+    "firms-productivity",
+    "political-economy"
+  ],
+  "methods": [
+    "theory",
+    "structural"
+  ],
+  "countries_studied": [],
+  "data_types": [],
+  "featured": false,
+  "added_at": "2026-04-20",
+  "last_reviewed_at": "2026-04-20",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4417114180"
+}

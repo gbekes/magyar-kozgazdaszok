@@ -1,0 +1,48 @@
+{
+  "id": "lorincz-juhasz-et-al-2023-ns",
+  "title": "Business transactions and ownership ties between firms",
+  "authors": [
+    "lorincz-laszlo",
+    "juhasz-sandor",
+    "Rebeka O. Szabó"
+  ],
+  "publication_type": "article",
+  "journal": "Network Science",
+  "year": 2023,
+  "volume": "12",
+  "issue": "1",
+  "pages": "1-20",
+  "doi": "10.1017/nws.2023.19",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1017/nws.2023.19",
+  "url_pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F369E7C10886E93279AF589BA80C5612/S205012422300019Xa.pdf/div-class-title-business-transactions-and-ownership-ties-between-firms-div.pdf",
+  "url_replication": null,
+  "abstract": "Abstract In this study, we investigate the creation and persistence of interfirm ties in a large-scale business transaction network. Business transaction relations (firms buying or selling products or services to each other) are driven by economic motives, but because trust is essential to business relationships, the social connections of owners or the geographical proximity of firms can also influence their development. However, studying the formation of interfirm business transaction ties on a large scale is rare, because of the significant data demand. The business transaction and the ownership networks of Hungarian firms are constructed from two administrative datasets for 2016 and 2017. We show that direct or indirect connections in this two-layered network, including open triads in the business network, contribute to both the creation and persistence of business transaction ties. For our estimations, we utilize log-linear models and emphasize their efficiency in predicting links in such large networks. We contribute to the literature by presenting different patterns of business connections in a nationwide multilayer interfirm network.",
+  "summary_en": "Hungarian firms that trade with each other are not chosen at random. This paper builds a two-layer network — one of buy-sell relationships, one of ownership ties — for the universe of Hungarian firms in 2016–2017. Firms that are directly or indirectly connected through ownership are much more likely to form and sustain trading relationships; so are firms that sit in \"open triads\" (both connected to a common partner but not to each other). The network structure itself predicts which business ties will form next, and log-linear models efficiently handle the million-firm scale.",
+  "summary_hu": null,
+  "data_used": "Hungarian administrative data 2016–2017: VAT-return firm-to-firm transactions combined with firm-ownership records; ~500,000 firms and millions of transactions.",
+  "data_used_hu": null,
+  "policy_relevance": "For Hungarian competition policy (GVH) and firm-level tax auditing (NAV): the paper provides an empirical basis for identifying suspicious transaction patterns — ownership-linked trading is the norm, not the exception. Relevant when evaluating anti-tax-evasion measures that target related-party transactions, and for diagnosing supply-chain resilience. Hungarian data; directly applicable.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "firms-productivity",
+    "trade-fdi",
+    "methods"
+  ],
+  "methods": [
+    "panel-data",
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm",
+    "admin-tax"
+  ],
+  "featured": false,
+  "added_at": "2026-04-20",
+  "last_reviewed_at": "2026-04-20",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4387668199"
+}

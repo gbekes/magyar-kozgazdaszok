@@ -1,0 +1,46 @@
+{
+  "id": "koczy-koltai-et-al-2025-o",
+  "title": "Apportionment methods in resource allocation",
+  "authors": [
+    "László Á. Kóczy",
+    "Tamás Koltai",
+    "sziklai-balazs"
+  ],
+  "publication_type": "article",
+  "journal": "Omega",
+  "year": 2025,
+  "volume": "138",
+  "issue": null,
+  "pages": "103403-103403",
+  "doi": "10.1016/j.omega.2025.103403",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1016/j.omega.2025.103403",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "The efficient use of resources is of paramount importance in any organization, and this is especially true of the use of human resources. We are considering an organization with a fixed number of workers over a network of subunits. The relative efficiency of these units can be uncovered using Data Envelopment Analysis (DEA) methods. How do we overcome efficiency differences when resources are constrained? Motivated by concerns for quality assurance, we use a method that lexicographically minimizes the tasks per worker. We present a fast algorithm to calculate the optimal allocation. Connections to the apportionment literature — mostly focusing on the fair allocation of voting districts among geographical or administrative regions, — are discussed. The allocation can be validated using DEA: efficiency indicators are now levelled. The method is illustrated using data from salary administrators at the Hungarian State Treasury’s 19 county-level subsidiaries. Knowing the number of standard administrative tasks for each subsidiary and each month, we allocate workers proportionally to the busiest months. After the reallocation, the relative efficiency of the worst-performing counties moves from about 60% to over 90%. • We study resource allocation among decision-making units. • Data envelopment analysis identifies relative inefficiencies. • Apportionment methods are used for the optimal allocation. • Optimal allocation mitigates inefficiencies.",
+  "summary_en": "How should an organisation allocate its workers across a network of subunits with different workloads? This paper uses apportionment methods (originally developed for distributing parliamentary seats) combined with Data Envelopment Analysis (DEA) to solve the problem efficiently. The authors propose a lexicographic minimisation of tasks-per-worker and present a fast algorithm. An illustration with Hungarian State Treasury data — 19 county-level offices managing salary administration — shows that reallocation based on the method raises the worst-performing offices from ~60% to over 90% of best-practice efficiency.",
+  "summary_hu": null,
+  "data_used": "Hungarian State Treasury administrative data: monthly workload and staff count for 19 county-level salary administration offices; used as illustration for the apportionment methodology.",
+  "data_used_hu": null,
+  "policy_relevance": "Direct operational tool for Hungarian public-administration efficiency (Ministry of Interior, State Treasury, tax and other county-level bureaucracies). The method is concrete and computable; the illustration produces measurable efficiency gains. Also applies to any organisation with discrete worker allocation across units with varying workloads (hospitals, schools, social-service offices). Caveat: treats workload as given — doesn't address whether underlying task definitions are appropriate.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "firms-productivity",
+    "political-economy",
+    "methods"
+  ],
+  "methods": [
+    "structural"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
+  "featured": false,
+  "added_at": "2026-04-20",
+  "last_reviewed_at": "2026-04-20",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4412703359"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "janko-joo-2023-botlm",
+  "title": "On generalisations of the Aharoni–Pouzet base exchange theorem",
+  "authors": [
+    "janko-zsuzsanna",
+    "Attila Joó"
+  ],
+  "publication_type": "article",
+  "journal": "Bulletin of the London Mathematical Society",
+  "year": 2023,
+  "volume": "55",
+  "issue": "3",
+  "pages": "1540-1549",
+  "doi": "10.1112/blms.12808",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1112/blms.12808",
+  "url_pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1112/blms.12808",
+  "url_replication": null,
+  "abstract": "Abstract The Greene–Magnanti theorem states that if is a finite matroid, and are bases and is a partition, then there is a partition such that is a base for every . The special case where each is a singleton can be rephrased as the existence of a perfect matching in the base transition graph. Pouzet conjectured that this remains true in infinite‐dimensional vector spaces. Later, he and Aharoni answered this conjecture affirmatively not just for vector spaces but also for infinite matroids. We prove two generalisations of their result. On the one hand, we show that ‘being a singleton’ can be relaxed to ‘being finite’ and this is sharp in the sense that the exclusion of infinite sets is really necessary. In addition, we prove that if and are bases, then there is a bijection between their finite subsets such that is a base for every . In contrast to the approach of Aharoni and Pouzet, our proofs are completely elementary, they do not rely on infinite matching theory.",
+  "summary_en": "This mathematical paper generalises a classical base-exchange theorem in matroid theory. The Greene–Magnanti theorem says that when two bases of a finite matroid are partitioned, there's a corresponding partition of the other base that preserves the base property. Pouzet conjectured this held for infinite matroids; Aharoni and Pouzet proved it later. The current paper extends the result in two ways: it allows partition blocks of finite (not just singleton) size, and it establishes a bijective form between finite subsets of two bases. The proofs are completely elementary — no infinite matching theory needed.",
+  "summary_hu": null,
+  "data_used": "Mathematical paper; no empirical data.",
+  "data_used_hu": null,
+  "policy_relevance": "Foundational methods research; no direct policy application. The tool matters for matching and assignment problems that appear in public-policy contexts (school choice, healthcare-resource allocation), but the contribution here is mathematical depth rather than operational.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [],
+  "data_types": [],
+  "featured": false,
+  "added_at": "2026-04-20",
+  "last_reviewed_at": "2026-04-20",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4321788976"
+}

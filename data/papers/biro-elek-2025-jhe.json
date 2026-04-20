@@ -1,0 +1,47 @@
+{
+  "id": "biro-elek-2025-jhe",
+  "title": "Firm quality and health maintenance",
+  "authors": [
+    "biro-aniko",
+    "Péter Elek"
+  ],
+  "publication_type": "article",
+  "journal": "Journal of Health Economics",
+  "year": 2025,
+  "volume": "103",
+  "issue": null,
+  "pages": "103045-103045",
+  "doi": "10.1016/j.jhealeco.2025.103045",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1016/j.jhealeco.2025.103045",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "We estimate the impact of firm quality - primarily measured by the firm-level wage premium - on the health maintenance of employees. Using linked employer-employee administrative panel data from Hungary, we analyze the dynamics of healthcare use before and after moving to a new firm. We show that moving to a higher-paying firm leads to higher consumption of drugs for cardiovascular conditions and more diagnostic and primary care visits, without evidence of deteriorating physical health, and, among men and older workers, to lower consumption of medications for mental health conditions. The results are robust to using alternative firm quality indicators based on productivity and worker flows, and to controlling for firm size, individual wage, and possible peer effects. The results suggest that higher-paying firms provide beneficial health-related amenities via the detection of previously undiagnosed chronic physical illnesses and improved mental health. Plausible mechanisms include higher-quality occupational health check-ups and less stressful working conditions.",
+  "summary_en": "When a worker moves to a higher-paying Hungarian firm, what happens to their health? This paper uses linked employer-employee administrative data to track workers before and after job changes. Moving to a higher-paying firm raises cardiovascular-drug consumption and diagnostic/primary-care visits — not because workers get sicker, but because high-quality firms detect previously-undiagnosed chronic conditions through better occupational health screening. For men and older workers, the same job move also lowers mental-health medication use, likely reflecting less stressful work. Firm quality carries measurable health-amenity consequences beyond the wage itself.",
+  "summary_hu": null,
+  "data_used": "Hungarian linked employer-employee administrative panel data from KRTK's Databank, including health records (drug prescriptions, GP visits, diagnostic tests) linked to firm and wage information; worker panel 2010s.",
+  "data_used_hu": null,
+  "policy_relevance": "Central Hungarian health-policy finding. For OEP/NEAK and the Ministry of Interior health portfolio: a significant portion of cardiovascular-disease detection happens at higher-quality firms with better occupational health programmes. Policy implications: (1) Mandate minimum occupational health-screening standards to level the playing field; (2) Lower-SES workers, who tend to be at lower-paying firms, miss out on this amenity and see delayed diagnosis; (3) Occupational health is not just a workplace-safety issue but a chronic-disease-prevention lever. Hungarian data; directly policy-relevant.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "health",
+    "labor-markets",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "panel-data",
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual",
+    "admin-firm"
+  ],
+  "featured": false,
+  "added_at": "2026-04-20",
+  "last_reviewed_at": "2026-04-20",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4413355095"
+}

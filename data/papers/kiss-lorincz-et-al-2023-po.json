@@ -1,0 +1,48 @@
+{
+  "id": "kiss-lorincz-et-al-2023-po",
+  "title": "Related adjustment of firm production after demand shocks",
+  "authors": [
+    "Károly Kiss",
+    "lorincz-laszlo",
+    "Zsolt Csáfordi",
+    "lengyel-balazs"
+  ],
+  "publication_type": "article",
+  "journal": "PLoS ONE",
+  "year": 2023,
+  "volume": "18",
+  "issue": "1",
+  "pages": "e0280461-e0280461",
+  "doi": "10.1371/journal.pone.0280461",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1371/journal.pone.0280461",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "Multiproduct firms often diversify into technologically related activities to exploit efficiencies of joint production; however, unrelated products in the company's portfolio provide access to distinct markets and can help to avoid industry-specific shocks. Yet, the underlying mechanisms of related and unrelated diversification are still poorly understood. Here we investigate diversification decisions of firms in periods when corporations' markets are hit by a demand shocks. In these times, cost efficiency considerations might drive firms to reduce costs by narrowing product portfolios and focusing on combinations of technologically related products, in which economies of scope and mutual capabilities can be exploited. To test this hypothesis, we consider two measures of demand shocks, decreasing sales volumes on the product market and increasing import competition; and analyze their association with changes of product portfolios of Hungarian firms in the 2003-2012 period. We find that production has become more coherent in terms of technological relatedness after firms were exposed to demand shocks. Evidence suggests related adjustment of firm production after demand shocks such that products unrelated to firms' core product are dropped from the portfolio but related products are added.",
+  "summary_en": "When a Hungarian firm's market hits a demand shock, does it consolidate into related products or diversify into unrelated ones? This paper uses firm-level administrative data for 2003–2012 and shows consolidation wins: firms facing falling sales or rising import competition narrow their product portfolios toward technologically related products, exploiting economies of scope. Unrelated diversification, while theoretically attractive for risk-spreading, is not what firms actually do in a crisis. The paper adds Hungarian evidence to the small but growing literature on how multi-product firms respond to market shocks.",
+  "summary_hu": null,
+  "data_used": "Hungarian firm-level administrative panel 2003–2012 from APEH/NAV corporate tax returns and product-level sales data; manufacturing firms; plus import-competition measures from customs data.",
+  "data_used_hu": null,
+  "policy_relevance": "For Hungarian Ministry of Economy and export-promotion policy: when supporting firms through downturns, policies that help firms consolidate around core competencies (e.g., retraining, specialised R&D subsidies, targeted export programmes) may fit firm behaviour better than broad diversification-support programmes. Hungarian data; directly actionable. Caveat: 2003–2012 covers one major crisis (2008–09); more recent shocks (COVID, energy crisis) may produce different patterns.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "firms-productivity",
+    "trade-fdi",
+    "innovation-digital"
+  ],
+  "methods": [
+    "panel-data",
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
+  "featured": false,
+  "added_at": "2026-04-20",
+  "last_reviewed_at": "2026-04-20",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4317358668"
+}
