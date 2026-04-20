@@ -46,14 +46,15 @@
       </ul>
       <p>Slug format: <code>firstauthor-secondauthor-year-journalshort</code> (e.g., <code>lindner-harasztosi-2019-aer</code>). Use <code>sample-paper.json</code> as a template. Run <code>python build.py</code> locally to regenerate <code>data/index.json</code>, then open a PR.</p>
 
-      <h2>Adding a popular-science link</h2>
+      <h2>Adding a popular-science or policy-brief link</h2>
       <p>Paper JSON files have a <code>popular_links</code> array. Each entry is a small object:</p>
       <pre><code>{
   "title": "Minimum wages don't destroy jobs in Hungary",
-  "url": "https://voxeu.org/...",
+  "url": "https://cepr.org/voxeu/columns/...",
   "outlet": "VoxEU"
 }</code></pre>
-      <p>Outlets we especially want to include: <strong>VoxEU</strong>, <strong>index.hu</strong>, <strong>portfolio.hu</strong>, <strong>telex.hu</strong>, <strong>444.hu</strong>, <strong>KRTK blog</strong>, <strong>Bruegel</strong>. Academic blogs (Conversable Economist, Marginal Revolution) are also welcome.</p>
+      <p><strong>Right now we're focused on VoxEU / CEPR columns</strong>, and on briefs / policy pieces written by the paper's own authors (Bruegel, KRTK blog, JRC technical reports, institutional working-paper press releases). These are the strongest signal for a policymaker reader.</p>
+      <p>Hungarian-media coverage (index.hu / portfolio.hu / telex.hu / 444.hu) is welcome too, but we're only accepting it when the link unambiguously refers to the specific paper — not a general feature that mentions the author in passing.</p>
 
       <h2>Suggesting an author</h2>
       <p>Inclusion criterion: at least one publication in a top general or top field journal (see the <a href="journals.html">journals list</a>). "Hungarian" is broad: nationality, birthplace, or 3+ years primary affiliation.</p>
