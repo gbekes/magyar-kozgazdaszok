@@ -74,6 +74,9 @@ header.site a { color: white; }
 header.site .brand {
   font-weight: 700; font-size: 1.1rem; letter-spacing: 0.01em;
 }
+header.site .brand em {
+  font-style: italic; color: var(--v-9); font-weight: 500;
+}
 header.site .brand .sub { color: var(--v-8); font-weight: 400; margin-left: 0.4rem; font-size: 0.9rem; }
 header.site nav { display: flex; gap: 1rem; margin-left: auto; flex-wrap: wrap; }
 header.site nav a { opacity: 0.9; font-size: 0.95rem; }
@@ -94,6 +97,20 @@ header.site .lang a.active { color: var(--v-9); font-weight: 600; }
   font-size: 2.4rem;
   max-width: 40ch;
   margin-bottom: 0.75rem;
+}
+.hero .hero-title {
+  font-family: var(--font-serif);
+  font-size: 4rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  margin-bottom: 1rem;
+  line-height: 1.05;
+  max-width: none;
+}
+.hero .hero-title em {
+  font-style: italic;
+  color: var(--v-9);
+  font-weight: 400;
 }
 .hero p.lede {
   font-size: 1.15rem;

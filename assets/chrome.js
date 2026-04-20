@@ -12,16 +12,16 @@
     topics: 'Témák',
     about: 'Bemutatkozás',
     contribute: 'Közreműködés',
-    brand: 'Bizonyíték Magyarországnak',
-    brandSub: 'magyar közgazdaságtan a politikának'
+    brand: 'Magyar Közgazd<em>ászok</em>',
+    brandSub: 'innovatív közgazdászok a döntéshozóknak'
   } : {
     papers: 'Papers',
     authors: 'Authors',
     topics: 'Topics',
     about: 'About',
     contribute: 'Contribute',
-    brand: 'Evidence for Hungary',
-    brandSub: 'Hungarian economics for policy'
+    brand: 'Magyar Közgazd<em>ászok</em>',
+    brandSub: 'innovative economists for policymakers'
   };
 
   const header = `
@@ -50,8 +50,8 @@
     <footer class="site">
       <div class="container">
         <p><strong>${nav.brand}</strong> — ${isHu
-          ? 'kutatási összefoglalók a magyar gazdaságpolitikához.'
-          : 'peer-reviewed research made useful for Hungarian policy.'}</p>
+          ? 'akadémiai kutatások az innovatív magyar közgazdászoktól, a döntéshozóknak.'
+          : 'academic research by innovative Hungarian economists, for policymakers.'}</p>
         <p class="small muted">
           ${isHu
             ? 'Kurátor: Békés Gábor. MVP verzió, 2026 áprilisa. Jelezz hibát vagy hiányt a'
