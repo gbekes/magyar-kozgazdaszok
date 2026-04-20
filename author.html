@@ -65,9 +65,20 @@
       ? `<div class="banner-review">Profile status: <strong>${EFH.esc(a.review_status)}</strong> — details need verification.</div>`
       : '';
 
+    const deceasedNote = a.deceased
+      ? `<span class="deceased-note" title="deceased">† ${a.died ? EFH.esc(String(a.died)) : ''}</span>`
+      : '';
+
+    const mediaBlock = a.open_to_media ? `
+      <section class="media-slot">
+        <h3>Open to media</h3>
+        <p>Available for interviews, op-eds, and policy briefings.${a.media_note ? ` ${EFH.esc(a.media_note)}` : ''}</p>
+        ${a.email ? `<p class="small"><a href="mailto:${EFH.esc(a.email)}">${EFH.esc(a.email)}</a></p>` : ''}
+      </section>` : '';
+
     root.innerHTML = `
       <header class="entity-header">
-        <h1>${EFH.esc(a.name_en)}</h1>
+        <h1>${EFH.esc(a.name_en)} ${deceasedNote}</h1>
         ${a.name_hu && a.name_hu !== a.name_en ? `<div class="sub">${EFH.esc(a.name_hu)}</div>` : ''}
         ${reviewBanner}
         ${a.bio_en ? `<p class="bio">${EFH.esc(a.bio_en)}</p>` : ''}
@@ -79,6 +90,7 @@
         <aside class="filter-sidebar">
           ${affils ? `<h3 style="margin-top:0;">Affiliations</h3><ul style="padding-left:1rem; margin:0.3rem 0;">${affils}</ul>` : ''}
           ${links.length ? `<h3>Links</h3><ul class="link-list" style="margin:0;">${links.map(l => `<li>${l}</li>`).join('')}</ul>` : ''}
+          ${mediaBlock}
         </aside>
         <section>
           <div class="result-head">

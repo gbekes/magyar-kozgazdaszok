@@ -80,9 +80,10 @@
         ).join(' ');
         const count = a.paper_count ? `<span class="muted small">${a.paper_count} tanulmány</span>` : '';
         const nm = a.name_hu || a.name_en;
+        const dagger = a.deceased ? ` <span class="deceased-note" title="elhunyt${a.died ? ' ' + a.died : ''}">†</span>` : '';
         return `
           <article class="author-card">
-            <h3><a href="author.html?id=${encodeURIComponent(a.id)}">${EFH.esc(nm)}</a> ${count}</h3>
+            <h3><a href="author.html?id=${encodeURIComponent(a.id)}">${EFH.esc(nm)}</a>${dagger} ${count}</h3>
             <div class="affil">${EFH.esc(affil)}</div>
             <div class="fields">${fields}</div>
           </article>

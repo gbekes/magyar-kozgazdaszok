@@ -52,6 +52,10 @@ def expand_seed_authors() -> int:
             "bio_hu": s.get("bio_hu"),
             "photo_url": None,
             "qualifying_publication": None,
+            "deceased": s.get("deceased", False),
+            "died": s.get("died"),
+            "open_to_media": s.get("open_to_media", False),
+            "media_note": s.get("media_note"),
             "review_status": s.get("bio_review", "stub"),
         }
 

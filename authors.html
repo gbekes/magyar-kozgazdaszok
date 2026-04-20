@@ -92,9 +92,10 @@
         // Display "Surname, Given names" — academic convention, and makes the sort order obvious.
         const sn = surname(a.name_en), gn = givenNames(a.name_en);
         const display = gn ? `${sn}, ${gn}` : sn;
+        const dagger = a.deceased ? ` <span class="deceased-note" title="deceased${a.died ? ' ' + a.died : ''}">†</span>` : '';
         return `
           <article class="author-card">
-            <h3><a href="author.html?id=${encodeURIComponent(a.id)}">${EFH.esc(display)}</a> ${count}</h3>
+            <h3><a href="author.html?id=${encodeURIComponent(a.id)}">${EFH.esc(display)}</a>${dagger} ${count}</h3>
             <div class="affil">${EFH.esc(affil)}</div>
             <div class="fields">${fields}</div>
           </article>

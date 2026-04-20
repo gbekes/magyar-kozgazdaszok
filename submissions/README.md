@@ -30,6 +30,19 @@ Free-form markdown or plain text. No strict template. Helpful to include:
 - Which paper(s) or author bio the corrections target — slug if known,
   otherwise enough context for Claude to match
 
+Things the author can change (non-exhaustive):
+
+- Summary / data description / policy bullets (per paper, EN or HU).
+- `policy_highlights` — explicit bullet list overriding the auto-split prose.
+- Bio (EN or HU).
+- Affiliations, website, email, Scholar/RePEc/ORCID IDs.
+- `popular_links` (add/remove entries).
+- Tags (topic, method, data-type, countries studied).
+- **`open_to_media`** — turn on the "Open to media" slot on the author page,
+  optionally with a scoping note (`media_note`), e.g. "interviews on labor
+  economics in HU/EN; op-eds in Telex, Portfolio, HVG". Opt-in only —
+  default is off.
+
 Example:
 
 ```markdown

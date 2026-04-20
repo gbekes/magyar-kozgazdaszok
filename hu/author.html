@@ -68,9 +68,20 @@
     const bio = a.bio_hu || a.bio_en;
     const bioNote = (!a.bio_hu && a.bio_en) ? '<p class="small muted"><em>Magyar életrajz hamarosan.</em></p>' : '';
 
+    const deceasedNote = a.deceased
+      ? `<span class="deceased-note" title="elhunyt">† ${a.died ? EFH.esc(String(a.died)) : ''}</span>`
+      : '';
+
+    const mediaBlock = a.open_to_media ? `
+      <section class="media-slot">
+        <h3>Média-felkérések</h3>
+        <p>Nyitott interjúkra, véleménycikkekre, szakpolitikai konzultációra.${a.media_note ? ` ${EFH.esc(a.media_note)}` : ''}</p>
+        ${a.email ? `<p class="small"><a href="mailto:${EFH.esc(a.email)}">${EFH.esc(a.email)}</a></p>` : ''}
+      </section>` : '';
+
     root.innerHTML = `
       <header class="entity-header">
-        <h1>${EFH.esc(displayName)}</h1>
+        <h1>${EFH.esc(displayName)} ${deceasedNote}</h1>
         ${a.name_en && a.name_en !== displayName ? `<div class="sub">${EFH.esc(a.name_en)}</div>` : ''}
         ${reviewBanner}
         ${bio ? `<p class="bio">${EFH.esc(bio)}</p>` : ''}
@@ -83,6 +94,7 @@
         <aside class="filter-sidebar">
           ${affils ? `<h3 style="margin-top:0;">Affiliációk</h3><ul style="padding-left:1rem; margin:0.3rem 0;">${affils}</ul>` : ''}
           ${links.length ? `<h3>Linkek</h3><ul class="link-list" style="margin:0;">${links.map(l => `<li>${l}</li>`).join('')}</ul>` : ''}
+          ${mediaBlock}
         </aside>
         <section>
           <div class="result-head">

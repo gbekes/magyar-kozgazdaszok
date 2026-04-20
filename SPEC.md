@@ -55,7 +55,12 @@ An author is admitted if they have **at least one publication** in any journal o
 
 Store the full list as `data/journals.json` so it is editable without code changes.
 
-**Admission rule:** any journal on this list qualifies an author for inclusion — Tier A or Tier B. Once admitted, all of the author's peer-reviewed papers and recent working papers are eligible for the catalogue (filter later in the UI).
+**Admission rule:** an author is admitted if **either**
+
+- (i) they have at least one publication in a journal on the Tier A / Tier B list above, **or**
+- (ii) they have at least **3 peer-reviewed, published articles in English**, in any economics, finance, or management journal (no journal-tier cutoff — the criterion is a sustained record of internationally-refereed work in the field).
+
+Both paths are editorial decisions; the journal list is a guide, not a gate. Once admitted via either route, all of the author's peer-reviewed papers and recent working papers are eligible for the catalogue (filter later in the UI).
 
 **Recent changes to this list:**
 - Added to Tier A: International Economic Review, Review of Economics and Statistics, Journal of Economic Perspectives, Theoretical Economics, AEA Papers and Proceedings.
@@ -141,9 +146,23 @@ Recommended: everything else. `review_status` ∈ `{ai-drafted, human-reviewed, 
     "title": "...",
     "journal": "Journal of International Economics",
     "year": 2014
-  }
+  },
+  "deceased": false,
+  "died": null,
+  "open_to_media": false,
+  "media_note": null
 }
 ```
+
+- `deceased` / `died`: gentle denote. When `deceased: true`, the author's
+  name on the listing gets a small † and the detail header shows "(deceased YYYY)".
+  `died` is the four-digit year; optional.
+- `open_to_media` / `media_note`: authors can opt in to signal they're open
+  to interviews, op-eds, policy briefings, etc. Default is off (empty slot).
+  When `open_to_media: true`, the author page shows a distinct "Open to
+  media" section with the email address and any `media_note` scoping it
+  (e.g., "interviews on labor economics, op-eds in HVG / Telex / Portfolio").
+  Only changed via a submission from the author.
 
 ### 2.3 Topic schema (static, curated — see `TAXONOMY.md`)
 

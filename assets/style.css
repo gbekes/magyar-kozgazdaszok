@@ -361,6 +361,35 @@ section.block > h2 {
   font-weight: 700;
 }
 
+/* Deceased author: small dagger after the name */
+.deceased-note {
+  color: var(--ink-3);
+  font-size: 0.85em;
+  font-weight: 400;
+  margin-left: 0.2em;
+  letter-spacing: 0.02em;
+}
+h1 .deceased-note { font-size: 0.65em; vertical-align: 0.15em; }
+
+/* Open-to-media slot on author sidebar: distinct, warm */
+.media-slot {
+  background: #fcfbf0;
+  border: 1px solid var(--v-8);
+  border-left: 3px solid var(--v-9);
+  padding: 0.7rem 0.9rem;
+  margin-top: 1.1rem;
+  border-radius: 3px;
+  font-size: 0.92rem;
+}
+.media-slot h3 {
+  color: var(--v-1);
+  margin-top: 0;
+  margin-bottom: 0.3rem;
+  font-size: 0.82rem;
+  letter-spacing: 0.04em;
+}
+.media-slot p { margin: 0.3rem 0; }
+
 /* Popular write-ups section: slightly emphasized */
 .paper-section.popular-links {
   background: #fcfbf0;
