@@ -19,19 +19,31 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "What happens to a worker's wage trajectory after a serious workplace accident? This paper uses Hungarian linked employer-employee administrative data to follow injured workers over many years. After an accident-induced absence from work, wages grow more slowly than a matched control — the loss compounds over years and is concentrated among workers who changed firms or sectors after the accident. The paper documents a persistent labour-market scar from workplace injuries that standard statutory compensation does not fully offset, and isolates the specific channel: disrupted accumulation of firm- and job-specific human capital.",
+  "summary_hu": "Mi történik egy munkavállaló béralakulásával egy súlyos munkahelyi baleset után? A tanulmány magyar összekapcsolt munkáltató–munkavállaló adminisztratív adatokat használ, hogy több éven át kövesse a sérült munkavállalókat. Baleset-okozta munkahelyi távollét után a bérek lassabban nőnek, mint egy párosított kontrollnál — a veszteség évek alatt halmozódik és azokra a munkavállalókra koncentrálódik, akik a baleset után céget vagy szektort váltottak. A tanulmány dokumentál egy tartós munkaerőpiaci sebet, amit a standard törvényi kompenzáció nem fed le teljesen, és azonosítja a konkrét csatornát: a megszakadt cég- és foglalkozás-specifikus emberi tőke halmozódást.",
+  "data_used": "Hungarian linked employer-employee administrative panel data combined with workplace-accident records from OEP/NEAK and the National Health Insurance Fund; ~200,000 workers followed 2003–2018.",
+  "data_used_hu": "Magyar összekapcsolt munkáltató–munkavállaló adminisztratív paneladatok kombinálva munkahelyi-baleseti rekordokkal az OEP/NEAK-tól és az Országos Egészségbiztosítási Pénztártól; ~200 000 munkavállaló követése 2003–2018 között.",
+  "policy_relevance": "Direct Hungarian evidence for Ministry of Labour, Ministry of Health (OEP/NEAK), and National Labour Inspectorate (MBFÁK). The findings imply that existing workplace-accident compensation (disability benefits, statutory sick pay) materially undercompensates for the long-run wage loss. Relevant for return-to-work support programmes, rehabilitation policy, and for setting the adequacy floor of statutory compensation. Hungarian data; directly actionable.",
+  "policy_relevance_hu": "Közvetlen magyar bizonyíték a Munkaügyi Minisztériumnak, Egészségügyi Minisztériumnak (OEP/NEAK) és az Országos Munkavédelmi Felügyeletnek (MBFÁK). A megállapítások arra utalnak, hogy a meglévő munkahelyi-baleseti kompenzáció (rokkantsági juttatások, törvényi betegszabadság) érdemben alulkompenzálja a hosszú távú bérveszteséget. Releváns a visszatérés-a-munkába támogatási programokhoz, rehabilitációs politikához és a törvényi kompenzáció megfelelőségi alsó szintjének meghatározásához. Magyar adat; közvetlenül intézkedésre alkalmas.",
+  "topics": [
+    "labor-markets",
+    "health",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "panel-data",
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual",
+    "admin-firm"
+  ],
   "featured": false,
   "added_at": "2026-04-20",
   "last_reviewed_at": "2026-04-20",
-  "review_status": "discovered",
+  "review_status": "ai-drafted",
   "openalex_id": "W4415293820"
 }

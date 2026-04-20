@@ -1,0 +1,44 @@
+{
+  "id": "molnar-2026-jhr",
+  "title": "Can Academic Redshirting Shrink the Education Gender Gap? Causal Evidence on Student Achievement and Mental Health",
+  "authors": [
+    "molnar-timea"
+  ],
+  "publication_type": "article",
+  "journal": "Journal of Human Resources",
+  "year": 2026,
+  "volume": null,
+  "issue": null,
+  "pages": null,
+  "doi": null,
+  "working_paper_series": null,
+  "url_published": null,
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Redshirting — delaying a child's start at school by one year — is often invoked as a way to close gender gaps in education. Does it actually work? This paper uses a Hungarian age-cutoff natural experiment to estimate the causal effect of a one-year delay on both student achievement and mental health. Redshirting raises achievement modestly, with larger gains for girls, and improves mental-health outcomes for boys. The paper argues that delayed-entry policies can shrink the observed education gender gap while also having mental-health benefits — but that the policy's costs (one extra year of schooling paid by households and the state) need to be weighed against these benefits.",
+  "summary_hu": "A redshirting — egy gyermek iskolakezdésének egy évvel való késleltetése — gyakran felmerül a nemek közötti oktatási szakadék csökkentésének módjaként. Valóban működik? A tanulmány egy magyar életkor-határnál zajló természetes kísérlet alapján becsli az egyéves késleltetés kauzális hatását mind a diákteljesítményre, mind a mentális egészségre. A redshirting mérsékelten emeli a teljesítményt, nagyobb nyereségekkel lányoknál, és javítja a fiúk mentális-egészségi kimeneteleit. A tanulmány érvel, hogy a késleltetett-belépési politikák csökkenthetik a megfigyelt oktatási nemi szakadékot, ugyanakkor mentális-egészségi előnyöket is hoznak — de a politika költségeit (egy extra év iskolázás a háztartások és az állam számára) mérlegelni kell ezek ellen.",
+  "data_used": "Hungarian administrative education data and national competence-test scores linked to birth dates, exploiting the September-1 age cutoff for school entry. Linked to mental-health records for a subsample.",
+  "data_used_hu": "Magyar adminisztratív oktatási adatok és országos kompetenciamérési pontszámok születési dátumokhoz kapcsolva, a szeptember 1-i életkor-határt kihasználva az iskolakezdéshez. Egy részmintán mentális-egészségi rekordokhoz kapcsolva.",
+  "policy_relevance": "Directly relevant to Hungarian education-policy debates (Ministry of Interior education portfolio) about the optimal age for primary-school entry. The paper provides causal evidence that a later start benefits particularly girls' academic performance and boys' mental health — suggesting that the current Hungarian flexibility in school-start age (allowing delay at parental discretion) is welfare-improving but should perhaps be made more actively available to children whose parents might not otherwise ask for it.",
+  "policy_relevance_hu": "Közvetlenül releváns a magyar oktatáspolitikai vitákhoz (Belügyminisztérium oktatási portfólió) az általános iskola optimális kezdő-életkoráról. A tanulmány kauzális bizonyítékot ad arra, hogy egy későbbi kezdés különösen a lányok akadémiai teljesítményének és a fiúk mentális egészségének kedvez — ez azt sugallja, hogy a magyar jelenlegi rugalmasság az iskola-kezdési életkorban (szülői mérlegelés szerint engedélyezett késleltetés) jóléti szempontból kedvező, de talán aktívabban elérhetővé kellene tenni olyan gyerekeknek, akiknek szülei egyébként nem kérnék.",
+  "topics": [
+    "education-skills",
+    "health",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "rd",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
+  "featured": false,
+  "added_at": "2026-04-20",
+  "last_reviewed_at": "2026-04-20",
+  "review_status": "ai-drafted"
+}

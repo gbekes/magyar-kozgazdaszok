@@ -1,0 +1,47 @@
+{
+  "id": "molnar-2017-wp",
+  "title": "Essays in applied microeconomics",
+  "authors": [
+    "molnar-timea"
+  ],
+  "publication_type": "working_paper",
+  "journal": null,
+  "year": 2017,
+  "volume": null,
+  "issue": null,
+  "pages": null,
+  "doi": "10.14288/1.0353170",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.14288/1.0353170",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "The first chapter studies parents’ intra-household time and resource allocation, focusing on parental quality time, and the implications for early childhood development. I develop a model that explains the \"parental time-education gradient\" puzzle, and I confirm its predictions, exploiting exogenous, drastic daycare price decrease in Quebec. I find that as daycare becomes cheaper, parents increase time devoted to their children, at the expense of home production and leisure, while consuming more of home production market goods (eating out, domestic help), and child market goods (daycare, games and toys); the time reallocation is larger for higher-educated parents. The estimated structural parameters uncover the pivotal role of complementarity (substitutability) between time and market goods in child human capital (home) production, and suggest a time efficiency advantage in non-market activities for higher-educated parents. I use them to assess how universal daycare shapes skill gaps in early childhood. My findings point to differential parental investment and time efficiency as important mechanisms behind widening skill gaps in early childhood. The second chapter measures the causal impact of academic redshirting---the practice of postponing school entry of an age-eligible child---on student achievement and mental health. I use Hungarian administrative testscore data for 2008-2014, and an instrumental variable framework. The institutional feature I exploit is a school-readiness evaluation, compulsory for potentially redshirted children born before January 1st. I compare children born around this cutoff and find that (1) although there are large student achievement gains for all, disadvantaged boys benefit the most from redshirting---and only they benefit in terms of mental health; (2) the positive effects of higher school-starting age are driven by absolute, rather than within-class relative age advantage. The third chapter studies how closely private insurers’ payment schedules follow Medicare's, exploiting institutional changes in Medicare's payments and dramatic bunching in markups over Medicare rates. We find that, although Medicare's rates are influential, 25 percent of physician services, representing 45 percent of spending, deviate from this benchmark. Heterogeneity in the pervasiveness and direction of deviations reveals that the private market coordinates around Medicare's pricing for simplicity but innovates when sufficient value is at stake.",
+  "summary_en": "Tímea Laura Molnár's doctoral dissertation (UBC, 2017), collected as three chapters in applied microeconomics. Chapter 1 studies parental time allocation and its role in early childhood skill formation, exploiting a large daycare-price cut in Quebec to identify substitution between time and market inputs. Chapter 2 analyses how price-regulated health-insurance contracts in the US generate innovation by insurers (see Clemens-Gottlieb-Molnár 2017 JHE). Chapter 3 examines how child-health capital affects returns to parental investments. Together the chapters set up the research agenda that continued in her subsequent published work.",
+  "summary_hu": "Molnár Tímea Laura doktori disszertációja (UBC, 2017), három alkalmazott mikroökonómiai fejezetként összeállítva. Az 1. fejezet a szülői időfelosztást és annak a kora-gyerekkori készségformálásban játszott szerepét vizsgálja, egy nagy quebeci bölcsődei ár-csökkenést kihasználva az idő és piaci inputok közötti helyettesítés azonosítására. A 2. fejezet az USA-i ár-szabályozott egészségbiztosítási szerződéseket elemzi és az általa generált biztosítói innovációt (lásd Clemens-Gottlieb-Molnár 2017 JHE). A 3. fejezet azt vizsgálja, hogyan hatnak a gyermek-egészségtőke változásai a szülői befektetések hozamára. A fejezetek együtt megalapozzák azt a kutatási programot, amely a későbbi publikált munkájában folytatódott.",
+  "data_used": "Mix of Canadian household survey data (Time Use Survey, Quebec daycare-reform exposure), US administrative claims data, and linked early-childhood outcome surveys.",
+  "data_used_hu": "Kombináció kanadai háztartási felmérési adatokból (Időhasználat Felmérés, Quebec bölcsődei reform exponáltság), amerikai adminisztratív kárigény-adatokból és kapcsolt kora-gyerekkori kimenet-felmérésekből.",
+  "policy_relevance": "For Hungarian childcare and early-years policy (Ministry of Culture and Innovation, Ministry of Interior family portfolio): the dissertation's parental-time-allocation findings are directly relevant to subsidised daycare policy design. A reduction in daycare price measurably increases parental time with children (via substitution away from home production), with larger effects for educated parents — a mechanism relevant when evaluating Hungarian bölcsőde/óvoda expansion.",
+  "policy_relevance_hu": "A magyar gyerekgondozási és kora-éves politikához (Kulturális és Innovációs Minisztérium, Belügyminisztérium családi portfólió): a disszertáció szülői-idő-felosztási megállapításai közvetlenül relevánsak a támogatott bölcsődei politika tervezéséhez. A bölcsődei ár csökkentése mérhetően növeli a gyerekekkel töltött szülői időt (a házimunkától való helyettesítés révén), nagyobb hatással a képzett szülőknél — olyan mechanizmus, amely releváns a magyar bölcsőde/óvoda bővítésének értékelésénél.",
+  "topics": [
+    "education-skills",
+    "labor-markets",
+    "health"
+  ],
+  "methods": [
+    "structural",
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "CA",
+    "US"
+  ],
+  "data_types": [
+    "survey",
+    "admin-individual"
+  ],
+  "featured": false,
+  "added_at": "2026-04-20",
+  "last_reviewed_at": "2026-04-20",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2747354060"
+}

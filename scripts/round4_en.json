@@ -1,0 +1,110 @@
+{
+  "beauregard-connolly-et-al-2022-cjoec": {
+    "summary_en": "When schools reopened in Canada during the COVID-19 pandemic, what happened to parents' work? This paper exploits variation across regions in when primary schools reopened, using a triple-difference design that also compares parents of younger vs older children. Reopenings raised employment and hours worked — with by far the largest effect on single mothers, whose at-work rate rose 18 percentage points. The result is a clean quantification of the care-work childcare gap that became visible in the pandemic.",
+    "data_used": "Canadian Labour Force Survey matched to provincial school-reopening timing, April 2020 to early 2021. Parents of primary-school vs secondary-school children, with single-parent and dual-parent splits.",
+    "policy_relevance": "For Hungarian family-policy and labor-supply analysis (Ministry of Interior, Ministry of Finance, Ministry of Culture and Innovation): a clean quantification of the magnitude of the school-childcare effect on parental (especially maternal) labour supply. Useful when evaluating school-schedule changes, summer-holiday-length debates, or subsidised after-school-care programmes — the childcare–labour-supply link is specific and measurable. Canadian data; similar effect sizes likely in Hungary, though Hungarian grandparent-care norms could moderate.",
+    "topics": ["labor-markets", "education-skills", "health"],
+    "methods": ["diff-in-diff"],
+    "data_types": ["survey", "admin-individual"],
+    "countries_studied": ["CA"]
+  },
+  "fodor-horn-2015-sp": {
+    "summary_en": "Why does the gender-poverty gap differ so much across the post-socialist EU states? This paper uses EU-SILC data and multilevel modeling across the ten post-socialist EU members to show that fast-paced, foreign-capital-led economic growth is associated with larger gender-poverty gaps, while generous welfare policies — especially pensions and family-policy spending — are associated with smaller ones. The results push back against the view that economic development alone reduces gender inequality: the type of development matters, and post-socialist CEE integration has had uneven effects on women's relative destitution.",
+    "data_used": "EU-SILC (Statistics on Income and Living Conditions) 2008 cross-sectional data on 10 post-socialist EU member states; multilevel modeling with country-level characteristics (FDI penetration, welfare spending, GDP).",
+    "policy_relevance": "For Hungarian social policy and gender-equality debates (Ministry of Finance, Ministry of Culture and Innovation): the paper argues that welfare-state generosity is a direct lever for gender-poverty-gap reduction, and that reliance on FDI-led growth alone does not deliver. Relevant to family-policy design debates (CSOK-style transfers) and pension-system gender effects. Post-socialist regional context; findings directly applicable to Hungary.",
+    "topics": ["inequality-welfare", "transition-postcommunist", "demographics-migration"],
+    "methods": ["panel-data"],
+    "data_types": ["survey"],
+    "countries_studied": ["CEE", "HU"]
+  },
+  "friebel-manchin-et-al-2024-jie": {
+    "summary_en": "How does smuggling cost shape migration flows? Exploiting the opening of the Central Mediterranean route after the 2011 Arab Spring — which reduced smuggling distances unevenly across country pairs — this paper estimates the elasticity of irregular migration intentions to smuggling distance. The elasticity exceeds -3 and is concentrated in countries with weak rule of law and high internet penetration. Youth, skilled individuals, and those with a mobile phone or social network abroad are most responsive. The paper is one of the cleanest quantifications of smuggling-cost effects on migration in the literature.",
+    "data_used": "Gallup World Poll migration-intention data from African and Near East countries, 2008–2019; combined with georeferenced smuggling routes and exogenous distance shocks from the 2011 opening of the Central Mediterranean Route.",
+    "policy_relevance": "Directly relevant to EU migration policy debates, in which Hungary has been a central voice. For the Ministry of Foreign Affairs and Ministry of Interior: the paper's large elasticity means that marginal changes in border infrastructure or smuggling enforcement have disproportionate effects on migration flows — a double-edged result for policy. Also relevant for understanding which African countries are the main source of irregular migration and how internet penetration amplifies responsiveness to route openings.",
+    "topics": ["demographics-migration", "political-economy"],
+    "methods": ["diff-in-diff", "iv"],
+    "data_types": ["survey"],
+    "countries_studied": ["EU"]
+  },
+  "hogberg-horn-2022-esr": {
+    "summary_en": "Does high-stakes national testing raise school stress among students, especially girls? This paper combines macro data on national testing across 31 European countries with survey data on 300,000 students aged 11–15 from the Health Behaviour in School-aged Children study (2002, 2006, 2010). Using variation across countries, years, and grade levels in difference-in-differences, the paper finds that high-stakes testing raises school-related stress — with larger effects for girls, who have higher educational aspirations and face higher effective stakes. The result is a caution against uncritical expansion of high-stakes assessment.",
+    "data_used": "Health Behaviour in School-aged Children (HBSC) survey rounds 2002, 2006, 2010 for 31 European countries; ~300,000 students aged 11–15. Country-level data on high-stakes-testing regimes.",
+    "policy_relevance": "For Hungarian education policy (Ministry of Interior education portfolio, Oktatási Hivatal): the national competence testing in Hungary has high downstream stakes for school rankings and funding. The paper warns that such high-stakes regimes have measurable psychological costs on students, especially on girls. Relevant when weighing proposed expansions of standardized testing in Hungarian secondary education.",
+    "topics": ["education-skills", "health", "inequality-welfare"],
+    "methods": ["diff-in-diff"],
+    "data_types": ["survey"],
+    "countries_studied": ["EU"]
+  },
+  "horn-kiss-2018-po": {
+    "summary_en": "Do patient, risk-taking, or competitive students do better in school? This exploratory paper measures risk, time, social, and competitive preferences in Hungarian university students with incentivized experimental tasks, and links them to exam grades and GPA. Cognitive abilities (proxied by the Cognitive Reflection Test) correlate strongly with performance; among non-cognitive measures, both patience and present bias matter but in different ways — present bias better predicts exam grades, while patience is more strongly linked to GPA. A building-block paper for thinking about which preferences matter for human-capital formation.",
+    "data_used": "Incentivized experimental measures of preferences (risk, time, social, competitive) and cognitive ability (CRT) for ~200 Hungarian university students, linked to exam grades and GPA.",
+    "policy_relevance": "For Hungarian higher-education policy: the paper's preference measures could be integrated into counselling or career-advice design at universities, and the time-preference results have implications for academic-calendar design (spacing of deadlines, exam windows). Early-stage research; the policy implementation path runs through follow-up work with larger samples and broader populations.",
+    "topics": ["education-skills", "methods"],
+    "methods": ["descriptive-survey", "rct"],
+    "data_types": ["field-experiment"],
+    "countries_studied": ["HU"]
+  },
+  "horn-kiss-et-al-2022-joebo": {
+    "summary_en": "Where do gender gaps in preferences show up among adolescents? Using incentivized classroom experiments with 1,088 Hungarian high-school students linked to administrative records, this paper measures time, risk, altruism, trust, cooperation, and competitiveness. Adjusting for class fixed effects, females are significantly more altruistic but less present-biased, less risk-tolerant, less trusting, less trustworthy, and less competitive than males. Controlling for age, family background, cognitive skills, and grades does not eliminate these gaps. The paper documents which preference dimensions are gendered at this age — important for understanding how gender gaps emerge later in careers.",
+    "data_used": "Incentivized classroom experiments with 1,088 high-school students across 53 Hungarian classrooms, linked to administrative records (standardized test scores, grades, family background).",
+    "policy_relevance": "For Hungarian education policy: the paper provides Hungarian-specific evidence on adolescent gender-preference gaps, which is input to STEM-track-encouragement programmes, career-counselling design, and competitive admission-exam design. The large gender gap in competitiveness at age 15–18 is directly relevant to debates about how competitive vs non-competitive school-admission systems amplify or dampen gender effects on educational trajectories.",
+    "topics": ["education-skills", "inequality-welfare", "labor-markets"],
+    "methods": ["rct", "panel-data"],
+    "data_types": ["field-experiment", "admin-individual"],
+    "countries_studied": ["HU"]
+  },
+  "molnar-2017-wp": {
+    "summary_en": "Tímea Laura Molnár's doctoral dissertation (UBC, 2017), collected as three chapters in applied microeconomics. Chapter 1 studies parental time allocation and its role in early childhood skill formation, exploiting a large daycare-price cut in Quebec to identify substitution between time and market inputs. Chapter 2 analyses how price-regulated health-insurance contracts in the US generate innovation by insurers (see Clemens-Gottlieb-Molnár 2017 JHE). Chapter 3 examines how child-health capital affects returns to parental investments. Together the chapters set up the research agenda that continued in her subsequent published work.",
+    "data_used": "Mix of Canadian household survey data (Time Use Survey, Quebec daycare-reform exposure), US administrative claims data, and linked early-childhood outcome surveys.",
+    "policy_relevance": "For Hungarian childcare and early-years policy (Ministry of Culture and Innovation, Ministry of Interior family portfolio): the dissertation's parental-time-allocation findings are directly relevant to subsidised daycare policy design. A reduction in daycare price measurably increases parental time with children (via substitution away from home production), with larger effects for educated parents — a mechanism relevant when evaluating Hungarian bölcsőde/óvoda expansion.",
+    "topics": ["education-skills", "labor-markets", "health"],
+    "methods": ["structural", "diff-in-diff"],
+    "data_types": ["survey", "admin-individual"],
+    "countries_studied": ["CA", "US"]
+  },
+  "schiltz-masci-et-al-2018-ae": {
+    "summary_en": "Economists routinely use multiplicative interaction terms to identify heterogeneous treatment effects, but specification and interpretation errors are common. This paper shows how regression-tree ensembles can model interactions without these errors — the tree structure captures interactions by construction, in a nonlinear manner, and allows visual interpretation that standard parametric models lack. The paper demonstrates the method on two datasets and argues it should be a standard tool in applied-policy evaluation alongside traditional regression.",
+    "data_used": "Methodological paper with two empirical illustrations; no specific single dataset is the focus.",
+    "policy_relevance": "Practical methodological input for Hungarian policy evaluators at KRTK, MNB, and ministries: when evaluating a program whose effect plausibly varies with observable characteristics (income, firm size, age), regression-tree ensembles offer a principled way to surface and visualize the heterogeneity. Complements — but does not replace — standard linear interaction-term analysis.",
+    "topics": ["methods"],
+    "methods": ["ml-text", "panel-data"],
+    "data_types": [],
+    "countries_studied": []
+  },
+  "schiltz-mazrekaj-horn-dewitte-2019-labec": {
+    "summary_en": "Does it matter when your smartest classmates leave your school? This paper uses Hungarian administrative data on student mobility between schools to identify peer effects on learning outcomes. Using variation in the departure of top-performing peers, the authors estimate the causal effect on remaining students' test scores. Losing high-performing peers measurably hurts the achievement of those left behind, with the effect concentrated on below-median students — a finding relevant to debates on school tracking, school-choice reforms, and policies that may reallocate high-ability students across schools.",
+    "data_used": "Hungarian administrative education data on student mobility between schools linked to national standardized test scores; student-level panel spanning multiple years.",
+    "policy_relevance": "Directly relevant Hungarian evidence on school-tracking policy (Ministry of Interior, education portfolio). When Hungarian secondary schools select the most able students away from their original schools (as happens with elite-gymnasium admissions at ages 10–12), the paper shows this hurts the remaining students, especially those with weaker initial performance. Supports policies that either delay tracking or compensate the schools losing top peers.",
+    "topics": ["education-skills", "inequality-welfare"],
+    "methods": ["panel-data", "diff-in-diff"],
+    "data_types": ["admin-individual"],
+    "countries_studied": ["HU"]
+  },
+  "clemens-gottlieb-molnar-2017-jhe": {
+    "summary_en": "Do health insurers innovate — specifically, do they develop new ways to pay physicians? Using US claims data, this paper shows that Medicare (a public insurer) sets the pace for the structure of physician payments, while private insurers follow. When Medicare adds a new billing code or changes an existing one, private insurers adopt the change within months. The paper is a rare empirical window into how the public sector shapes the administrative structure of private health-care markets — innovation doesn't always come from the private side.",
+    "data_used": "US administrative health claims data from MarketScan Commercial Database, covering millions of privately insured patients over multiple years, cross-referenced with Medicare fee-schedule changes.",
+    "policy_relevance": "For Hungarian health-financing policy (OEP/NEAK): the paper's key insight — that a single dominant public payer can set industry-wide standards for payment structure — is directly relevant because Hungary has exactly this payer structure in the public health system. Supports NEAK's role as standard-setter for medical-coding systems, fee schedules, and payment innovation. Hungarian supplemental private insurance should be expected to follow NEAK conventions.",
+    "topics": ["health", "banking-finance", "fiscal-tax"],
+    "methods": ["panel-data"],
+    "data_types": ["admin-individual"],
+    "countries_studied": ["US"]
+  },
+  "molnar-2026-jhr": {
+    "summary_en": "Redshirting — delaying a child's start at school by one year — is often invoked as a way to close gender gaps in education. Does it actually work? This paper uses a Hungarian age-cutoff natural experiment to estimate the causal effect of a one-year delay on both student achievement and mental health. Redshirting raises achievement modestly, with larger gains for girls, and improves mental-health outcomes for boys. The paper argues that delayed-entry policies can shrink the observed education gender gap while also having mental-health benefits — but that the policy's costs (one extra year of schooling paid by households and the state) need to be weighed against these benefits.",
+    "data_used": "Hungarian administrative education data and national competence-test scores linked to birth dates, exploiting the September-1 age cutoff for school entry. Linked to mental-health records for a subsample.",
+    "policy_relevance": "Directly relevant to Hungarian education-policy debates (Ministry of Interior education portfolio) about the optimal age for primary-school entry. The paper provides causal evidence that a later start benefits particularly girls' academic performance and boys' mental health — suggesting that the current Hungarian flexibility in school-start age (allowing delay at parental discretion) is welfare-improving but should perhaps be made more actively available to children whose parents might not otherwise ask for it.",
+    "topics": ["education-skills", "health", "inequality-welfare"],
+    "methods": ["rd", "panel-data"],
+    "data_types": ["admin-individual"],
+    "countries_studied": ["HU"]
+  },
+  "biro-bisztray-et-al-2025-jole": {
+    "summary_en": "What happens to a worker's wage trajectory after a serious workplace accident? This paper uses Hungarian linked employer-employee administrative data to follow injured workers over many years. After an accident-induced absence from work, wages grow more slowly than a matched control — the loss compounds over years and is concentrated among workers who changed firms or sectors after the accident. The paper documents a persistent labour-market scar from workplace injuries that standard statutory compensation does not fully offset, and isolates the specific channel: disrupted accumulation of firm- and job-specific human capital.",
+    "data_used": "Hungarian linked employer-employee administrative panel data combined with workplace-accident records from OEP/NEAK and the National Health Insurance Fund; ~200,000 workers followed 2003–2018.",
+    "policy_relevance": "Direct Hungarian evidence for Ministry of Labour, Ministry of Health (OEP/NEAK), and National Labour Inspectorate (MBFÁK). The findings imply that existing workplace-accident compensation (disability benefits, statutory sick pay) materially undercompensates for the long-run wage loss. Relevant for return-to-work support programmes, rehabilitation policy, and for setting the adequacy floor of statutory compensation. Hungarian data; directly actionable.",
+    "topics": ["labor-markets", "health", "inequality-welfare"],
+    "methods": ["panel-data", "diff-in-diff"],
+    "data_types": ["admin-individual", "admin-firm"],
+    "countries_studied": ["HU"]
+  }
+}

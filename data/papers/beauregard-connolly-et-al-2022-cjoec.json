@@ -1,0 +1,48 @@
+{
+  "id": "beauregard-connolly-et-al-2022-cjoec",
+  "title": "Primary school reopenings and parental work",
+  "authors": [
+    "Pierre‐Loup Beauregard",
+    "Marie Connolly",
+    "Catherine Haeck",
+    "molnar-timea"
+  ],
+  "publication_type": "article",
+  "journal": "Canadian Journal of Economics/Revue canadienne d économique",
+  "year": 2022,
+  "volume": "55",
+  "issue": "S1",
+  "pages": "248-281",
+  "doi": "10.1111/caje.12566",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1111/caje.12566",
+  "url_pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/caje.12566",
+  "url_replication": null,
+  "abstract": "In this paper, we exploit the geographical pattern of primary school reopenings during the COVID-19 pandemic in Canada to estimate the impact of school reopenings on parental employment and work hours. We use a triple-difference approach, in which we first compare parents of primary-school children in regions where schools reopened to similar parents in regions where schools remained closed and add parents of older, secondary-school children as an additional control group. We estimate the impact of school reopenings separately for mothers and fathers, and for single parents and parents living in dual-parent households. We find a positive impact of school reopenings on employment and on actual hours worked. The effects tend to be stronger for single mothers, but are also present for mothers and fathers in dual-parent households in the spring of 2020. Overall, single mothers experienced an 18 percentage point increase in their employment at work rate following school reopenings. We also split our sample according to whether the job can be done from home, and find stronger impacts for those whose jobs cannot easily be done from home.",
+  "summary_en": "When schools reopened in Canada during the COVID-19 pandemic, what happened to parents' work? This paper exploits variation across regions in when primary schools reopened, using a triple-difference design that also compares parents of younger vs older children. Reopenings raised employment and hours worked — with by far the largest effect on single mothers, whose at-work rate rose 18 percentage points. The result is a clean quantification of the care-work childcare gap that became visible in the pandemic.",
+  "summary_hu": "Amikor az iskolák újranyitottak Kanadában a COVID-19 járvány alatt, mi történt a szülők munkájával? A tanulmány kihasználja a régiók közötti változatosságot az újranyitás időzítésében, hármas-különbség-alapú megközelítéssel, amely az idősebb gyerekek szüleit is kontrollként használja. Az újranyitások emelték a foglalkoztatást és a ledolgozott órákat — messze a legnagyobb hatással az egyedülálló anyákra, akiknek munkában-levési aránya 18 százalékponttal nőtt. A gondoskodási-munka-gyerek-felügyeleti szakadék tiszta kvantifikálása, amely a járvány alatt vált láthatóvá.",
+  "data_used": "Canadian Labour Force Survey matched to provincial school-reopening timing, April 2020 to early 2021. Parents of primary-school vs secondary-school children, with single-parent and dual-parent splits.",
+  "data_used_hu": "Kanadai munkaerő-felmérés a tartományi iskolai-újranyitási időzítéssel összekapcsolva, 2020 áprilistól 2021 elejéig. Általános iskolás gyerekek szüleit hasonlítja középiskolás gyerekek szüleivel, egyedülálló és kétszülős bontásban.",
+  "policy_relevance": "For Hungarian family-policy and labor-supply analysis (Ministry of Interior, Ministry of Finance, Ministry of Culture and Innovation): a clean quantification of the magnitude of the school-childcare effect on parental (especially maternal) labour supply. Useful when evaluating school-schedule changes, summer-holiday-length debates, or subsidised after-school-care programmes — the childcare–labour-supply link is specific and measurable. Canadian data; similar effect sizes likely in Hungary, though Hungarian grandparent-care norms could moderate.",
+  "policy_relevance_hu": "Magyar családpolitikai és munkakínálat-elemzéshez (Belügyminisztérium, Pénzügyminisztérium, Kulturális és Innovációs Minisztérium): tiszta kvantifikálás arról, mekkora az iskola-gyerekfelügyelet hatása a szülői (különösen anyai) munkakínálatra. Hasznos iskolaidő-változások, nyári-szünet-hossz viták vagy támogatott délutáni foglalkozások értékelésekor. Kanadai adat; hasonló hatásnagyság valószínű Magyarországon, bár a nagyszülői gondozási normák mérsékelhetik.",
+  "topics": [
+    "labor-markets",
+    "education-skills",
+    "health"
+  ],
+  "methods": [
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "CA"
+  ],
+  "data_types": [
+    "survey",
+    "admin-individual"
+  ],
+  "featured": false,
+  "added_at": "2026-04-20",
+  "last_reviewed_at": "2026-04-20",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3083650596"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "friebel-manchin-et-al-2024-jie",
+  "title": "International migration and illegal costs: Evidence from Africa-to-Europe smuggling routes",
+  "authors": [
+    "Guido Friebel",
+    "manchin-miriam",
+    "Mariapia Mendola",
+    "Giovanni Prarolo"
+  ],
+  "publication_type": "article",
+  "journal": "Journal of International Economics",
+  "year": 2024,
+  "volume": "148",
+  "issue": null,
+  "pages": "103878-103878",
+  "doi": "10.1016/j.jinteco.2024.103878",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1016/j.jinteco.2024.103878",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "The 2011 Arab Spring marked the opening of the Central Mediterranean Route for irregular border crossings between Libya and Italy, which produced heterogeneous reductions of bilateral smuggling distances between country pairs in the Mediterranean region. We exploit this source of spatial and temporal variation in bilateral distance along land and sea routes to estimate the elasticity of irregular migration intentions for African and Near East countries. We estimate an elasticity of migration intentions to smuggling distances exceeding -3, mainly driven by countries with weak rule of law and high internet penetration. Our findings are consistent across irregular migration measures both at the aggregate and individual levels. We show that irregular migration elasticity is higher for youth, relatively skilled individuals and those with an informative advantage (having a social network abroad or a mobile phone).",
+  "summary_en": "How does smuggling cost shape migration flows? Exploiting the opening of the Central Mediterranean route after the 2011 Arab Spring — which reduced smuggling distances unevenly across country pairs — this paper estimates the elasticity of irregular migration intentions to smuggling distance. The elasticity exceeds -3 and is concentrated in countries with weak rule of law and high internet penetration. Youth, skilled individuals, and those with a mobile phone or social network abroad are most responsive. The paper is one of the cleanest quantifications of smuggling-cost effects on migration in the literature.",
+  "summary_hu": "Hogyan alakítja a csempészköltség a migrációs áramlásokat? A tanulmány kihasználja a Központi Mediterrán útvonal 2011-es arab tavaszt követő megnyílását — amely egyenetlenül csökkentette a csempészési távolságokat ország-párok között — és megbecsli az irreguláris migrációs szándékok csempészési-távolságra vonatkozó rugalmasságát. A rugalmasság meghaladja a -3-at, és olyan országokra koncentrálódik, ahol a jogállamiság gyenge és az internet-penetráció magas. A fiatalok, képzett egyének és mobiltelefonnal vagy külföldi szociális hálózattal rendelkezők a legérzékenyebbek. A csempészköltség-hatások egyik legtisztább kvantifikálása a szakirodalomban.",
+  "data_used": "Gallup World Poll migration-intention data from African and Near East countries, 2008–2019; combined with georeferenced smuggling routes and exogenous distance shocks from the 2011 opening of the Central Mediterranean Route.",
+  "data_used_hu": "Gallup World Poll migrációs-szándék adatok afrikai és közel-keleti országokból, 2008–2019; georeferenciált csempészési útvonalakkal és a Központi Mediterrán útvonal 2011-es megnyílásából származó exogén távolsági sokkokkal kombinálva.",
+  "policy_relevance": "Directly relevant to EU migration policy debates, in which Hungary has been a central voice. For the Ministry of Foreign Affairs and Ministry of Interior: the paper's large elasticity means that marginal changes in border infrastructure or smuggling enforcement have disproportionate effects on migration flows — a double-edged result for policy. Also relevant for understanding which African countries are the main source of irregular migration and how internet penetration amplifies responsiveness to route openings.",
+  "policy_relevance_hu": "Közvetlenül releváns az EU migrációs politikai vitáihoz, amelyekben Magyarország központi szereplő volt. A Külügyminisztériumnak és a Belügyminisztériumnak: a tanulmány nagy rugalmassága azt jelenti, hogy a határinfrastruktúra vagy a csempészek elleni fellépés marginális változásainak aránytalan hatása van a migrációs áramlásokra — kétélű eredmény a politika számára. Releváns annak megértéséhez is, mely afrikai országok a fő irreguláris-migrációs források, és hogyan erősíti az internet-penetráció az útvonal-megnyílásokra való reagálást.",
+  "topics": [
+    "demographics-migration",
+    "political-economy"
+  ],
+  "methods": [
+    "diff-in-diff",
+    "iv"
+  ],
+  "countries_studied": [
+    "EU"
+  ],
+  "data_types": [
+    "survey"
+  ],
+  "featured": false,
+  "added_at": "2026-04-20",
+  "last_reviewed_at": "2026-04-20",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4390806943"
+}

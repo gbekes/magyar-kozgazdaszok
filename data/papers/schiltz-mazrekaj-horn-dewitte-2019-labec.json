@@ -1,0 +1,46 @@
+{
+  "id": "schiltz-mazrekaj-horn-dewitte-2019-labec",
+  "title": "Does it matter when your smartest peers leave your class? Evidence from Hungary",
+  "authors": [
+    "Fritz Schiltz",
+    "Deni Mazrekaj",
+    "horn-daniel",
+    "Kristof De Witte"
+  ],
+  "publication_type": "article",
+  "journal": "Labour Economics",
+  "year": 2019,
+  "volume": "59",
+  "issue": null,
+  "pages": null,
+  "doi": "10.1016/j.labeco.2019.04.001",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1016/j.labeco.2019.04.001",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Does it matter when your smartest classmates leave your school? This paper uses Hungarian administrative data on student mobility between schools to identify peer effects on learning outcomes. Using variation in the departure of top-performing peers, the authors estimate the causal effect on remaining students' test scores. Losing high-performing peers measurably hurts the achievement of those left behind, with the effect concentrated on below-median students — a finding relevant to debates on school tracking, school-choice reforms, and policies that may reallocate high-ability students across schools.",
+  "summary_hu": "Számít-e, mikor távoznak osztályodból a legokosabb társaid? A tanulmány magyar adminisztratív adatokat használ a diákok iskolák közötti mobilitásáról, hogy azonosítsa a társ-hatásokat a tanulási kimenetelekre. A csúcs-teljesítményű társak távozásának változatosságát kihasználva a szerzők becslik a kauzális hatást a maradó diákok teszt-pontszámaira. A magas-teljesítményű társak elvesztése mérhetően árt a maradók teljesítményének, a hatás az alsó-medián diákokra koncentrálódik — releváns az iskolai szelekció, iskola-választási reformok és azon politikák vitáihoz, amelyek képességes diákokat helyeznek át iskolák között.",
+  "data_used": "Hungarian administrative education data on student mobility between schools linked to national standardized test scores; student-level panel spanning multiple years.",
+  "data_used_hu": "Magyar adminisztratív oktatási adatok a diák-mobilitásról iskolák között, országos szabványosított teszt-pontszámokhoz kapcsolva; diák-szintű panel több éven át.",
+  "policy_relevance": "Directly relevant Hungarian evidence on school-tracking policy (Ministry of Interior, education portfolio). When Hungarian secondary schools select the most able students away from their original schools (as happens with elite-gymnasium admissions at ages 10–12), the paper shows this hurts the remaining students, especially those with weaker initial performance. Supports policies that either delay tracking or compensate the schools losing top peers.",
+  "policy_relevance_hu": "Közvetlenül releváns magyar bizonyíték az iskolai szelekciós politikához (Belügyminisztérium, oktatási portfólió). Amikor a magyar középiskolák elvonják a legképzettebb diákokat eredeti iskoláikból (mint az elit-gimnáziumi felvételiknél 10–12 éves korban), a tanulmány megmutatja, hogy ez árt a maradó diákoknak, különösen a gyengébb kezdeti teljesítményűeknek. Támogatja azokat a politikákat, amelyek vagy késleltetik a szelekciót, vagy kompenzálják az iskolákat, amelyek elveszítik a csúcs-társaikat.",
+  "topics": [
+    "education-skills",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "panel-data",
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
+  "featured": false,
+  "added_at": "2026-04-20",
+  "last_reviewed_at": "2026-04-20",
+  "review_status": "ai-drafted"
+}

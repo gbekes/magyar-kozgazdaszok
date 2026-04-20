@@ -1,0 +1,42 @@
+{
+  "id": "schiltz-masci-et-al-2018-ae",
+  "title": "Using regression tree ensembles to model interaction effects: a graphical approach",
+  "authors": [
+    "Fritz Schiltz",
+    "Chiara Masci",
+    "Tommaso Agasisti",
+    "horn-daniel"
+  ],
+  "publication_type": "article",
+  "journal": "Applied Economics",
+  "year": 2018,
+  "volume": "50",
+  "issue": "58",
+  "pages": "6341-6354",
+  "doi": "10.1080/00036846.2018.1489520",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1080/00036846.2018.1489520",
+  "url_pdf": "https://www.tandfonline.com/doi/pdf/10.1080/00036846.2018.1489520?needAccess=true",
+  "url_replication": null,
+  "abstract": "Multiplicative interaction terms are widely used in economics to identify heterogeneous effects and to tailor policy recommendations. The execution of these models is often flawed due to specification and interpretation errors. This article introduces regression trees and regression tree ensembles to model and visualize interaction effects. Tree-based methods include interactions by construction and in a nonlinear manner. Visualizing nonlinear interaction effects in a way that can be easily read overcomes common interpretation errors. We apply the proposed approach to two different datasets to illustrate its usefulness.",
+  "summary_en": "Economists routinely use multiplicative interaction terms to identify heterogeneous treatment effects, but specification and interpretation errors are common. This paper shows how regression-tree ensembles can model interactions without these errors — the tree structure captures interactions by construction, in a nonlinear manner, and allows visual interpretation that standard parametric models lack. The paper demonstrates the method on two datasets and argues it should be a standard tool in applied-policy evaluation alongside traditional regression.",
+  "summary_hu": "A közgazdászok rendszeresen használnak multiplikatív interakciós tagokat heterogén kezelési hatások azonosítására, de a specifikációs és értelmezési hibák gyakoriak. A tanulmány megmutatja, hogyan tudnak a regressziós-fa-együttesek interakciókat modellezni ezen hibák nélkül — a fa-szerkezet a konstrukcióból adódóan tartalmazza az interakciókat, nemlineáris módon, és olyan vizuális értelmezést engedélyez, amely a standard parametrikus modelleknek hiányzik. A tanulmány a módszert két adatbázison demonstrálja és érvel, hogy a standard lineáris interakciós-tag elemzés mellett a gyakorlati-szakpolitikai értékelés standard eszközévé kellene válnia.",
+  "data_used": "Methodological paper with two empirical illustrations; no specific single dataset is the focus.",
+  "data_used_hu": "Módszertani tanulmány két empirikus illusztrációval; nincs egyetlen fókuszált adatbázis.",
+  "policy_relevance": "Practical methodological input for Hungarian policy evaluators at KRTK, MNB, and ministries: when evaluating a program whose effect plausibly varies with observable characteristics (income, firm size, age), regression-tree ensembles offer a principled way to surface and visualize the heterogeneity. Complements — but does not replace — standard linear interaction-term analysis.",
+  "policy_relevance_hu": "Gyakorlati módszertani input a magyar szakpolitikai értékelőknek a KRTK-n, MNB-nél és minisztériumokban: amikor egy program hatása vélhetően megfigyelhető jellemzőkkel (jövedelem, cégméret, életkor) változik, a regressziós-fa-együttesek elvszerű módot adnak a heterogenitás felszínre hozására és vizualizálására. Kiegészíti — de nem helyettesíti — a standard lineáris interakciós-tag elemzést.",
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "ml-text",
+    "panel-data"
+  ],
+  "countries_studied": [],
+  "data_types": [],
+  "featured": false,
+  "added_at": "2026-04-20",
+  "last_reviewed_at": "2026-04-20",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2835710089"
+}
