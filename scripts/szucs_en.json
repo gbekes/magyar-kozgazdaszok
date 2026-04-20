@@ -1,0 +1,29 @@
+{
+  "szucs-2024-jeea": {
+    "summary_en": "When government officials have discretion over who wins a public contract, do they use it to reward connected firms? Using detailed Hungarian public-procurement data and exploiting variation in how much discretion officials have across contract types, this paper shows that discretion systematically tilts awards toward politically connected firms — and that the rents captured by connected firms are substantial. The effect is concentrated in exactly the kinds of procurement procedures where European and national rules grant the most administrative leeway. The paper gives one of the clearest quantifications of procurement-favoritism cost in a democratic EU member state.",
+    "data_used": "Hungarian public-procurement microdata covering all tenders above the EU threshold, 2010–2017, combined with firm-ownership and political-connection measures (Orbit Corporate, Hungarian company register, donation data). Hundreds of thousands of contracts.",
+    "policy_relevance": "Directly relevant Hungarian-policy evidence, central to anti-corruption and EU rule-of-law debates. For the State Audit Office (ÁSZ), Public Procurement Authority (KH), and EU rule-of-law dialogue: the paper documents in numbers what qualitative observers have long reported — high-discretion procurement procedures are systematically captured. Supports policy recommendations that reduce discretion (open tendering, stricter oversight, ex-post auditing of high-value single-bidder contracts) without requiring identification of specific corrupt actors. Hungarian data; directly actionable.",
+    "topics": ["political-economy", "firms-productivity", "fiscal-tax"],
+    "methods": ["panel-data", "diff-in-diff"],
+    "data_types": ["admin-firm", "admin-individual"],
+    "countries_studied": ["HU"]
+  },
+  "garz-szucs-2023-iep": {
+    "summary_en": "How does Facebook's algorithmic feed shape what political news people actually see? Using data on Facebook's News Feed presentation of German political news, this paper tracks which stories get algorithmically elevated and which suppressed, and how this varies with user engagement. The paper shows that the algorithm systematically amplifies stories generating strong reactions — regardless of accuracy or source quality — and that supply-side responses by publishers then reinforce the selection. A contribution to the growing literature on platform algorithms as political-economy actors in their own right.",
+    "data_used": "German Facebook data on political-news exposure, supplemented with publisher output data and user engagement metrics.",
+    "policy_relevance": "Relevant to EU Digital Services Act (DSA) enforcement and Hungarian media-regulation debates (NMHH, Ministry of Justice). The paper's central insight — algorithmic feed selection systematically shapes political discourse independently of user choices — supports transparency and interpretability requirements for large platforms. Useful reference for assessing proposed algorithmic-audit rules. German data; the platform-level mechanism generalises.",
+    "topics": ["political-economy", "innovation-digital"],
+    "methods": ["panel-data", "descriptive-survey"],
+    "data_types": ["digital-trace"],
+    "countries_studied": ["DE"]
+  },
+  "szeidl-szucs-2021-ecma": {
+    "summary_en": "Can governments systematically buy favourable coverage from independent media? This Econometrica paper develops both a theory and Hungarian empirical evidence for what the authors call \"media capture through favor exchange\": governments trade state advertising revenue for favourable coverage of corruption scandals, and connected media outlets receive disproportionate advertising in return for coverage favors. The paper documents large advertising flows from the Hungarian government to connected media and reciprocal reductions in corruption coverage. The empirical strategy exploits sharp reallocations around changes in media ownership — ruling out market-based explanations. The paper is a landmark contribution on media, government, and democratic accountability, and a key reference for understanding Hungary's 2010s media landscape.",
+    "data_used": "Hungarian media-level data 2010s: state-advertising expenditure by outlet, corruption-coverage measures from systematic content analysis, and ownership-history panels linking outlets to connected/unconnected investors. Sharp event studies around changes in outlet ownership.",
+    "policy_relevance": "Foundational Hungarian political-economy evidence, directly relevant to EU rule-of-law assessment of Hungary and to Hungarian debates about press freedom and state advertising policy. For independent media, civil society, opposition parties, and international observers: the paper quantifies what many sensed qualitatively — state advertising is a powerful tool for capturing nominally independent media. Supports policy proposals for transparency in state advertising, independent allocation criteria, and caps on state-ad concentration in single outlets. Hungarian data; directly applicable, and central to any serious discussion of Hungarian media policy.",
+    "topics": ["political-economy", "methods"],
+    "methods": ["panel-data", "structural"],
+    "data_types": ["admin-firm", "digital-trace"],
+    "countries_studied": ["HU"]
+  }
+}

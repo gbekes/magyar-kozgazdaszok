@@ -1,0 +1,44 @@
+{
+  "id": "garz-szucs-2023-iep",
+  "title": "Algorithmic Selection and Supply of Political News on Facebook",
+  "authors": [
+    "Marcel Garz",
+    "szucs-ferenc"
+  ],
+  "publication_type": "article",
+  "journal": "Information Economics and Policy",
+  "year": 2023,
+  "volume": "62",
+  "issue": null,
+  "pages": "101020",
+  "doi": null,
+  "working_paper_series": null,
+  "url_published": null,
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "How does Facebook's algorithmic feed shape what political news people actually see? Using data on Facebook's News Feed presentation of German political news, this paper tracks which stories get algorithmically elevated and which suppressed, and how this varies with user engagement. The paper shows that the algorithm systematically amplifies stories generating strong reactions — regardless of accuracy or source quality — and that supply-side responses by publishers then reinforce the selection. A contribution to the growing literature on platform algorithms as political-economy actors in their own right.",
+  "summary_hu": "Hogyan alakítja a Facebook algoritmikus folyama, hogy az emberek mely politikai híreket látják? A tanulmány német politikai hírek Facebook hírfolyam-megjelenítésének adatait használva nyomon követi, mely történeteket emeli ki az algoritmus és melyeket nyom vissza, és hogyan változik ez a felhasználói elköteleződéssel. A tanulmány megmutatja, hogy az algoritmus szisztematikusan azokat a történeteket erősíti fel, amelyek erős reakciót váltanak ki — a pontosságuk vagy a forrás minősége ellenére —, és hogy a kiadók kínálat-oldali reakciói aztán megerősítik a kiválasztást. Hozzájárulás a növekvő irodalomhoz, amely a platform-algoritmusokat önálló politikai-gazdasági szereplőként tekinti.",
+  "data_used": "German Facebook data on political-news exposure, supplemented with publisher output data and user engagement metrics.",
+  "data_used_hu": "Német Facebook-adatok a politikai hírek megjelenítéséről, kiadói output-adatokkal és felhasználói elköteleződési mérőszámokkal kiegészítve.",
+  "policy_relevance": "Relevant to EU Digital Services Act (DSA) enforcement and Hungarian media-regulation debates (NMHH, Ministry of Justice). The paper's central insight — algorithmic feed selection systematically shapes political discourse independently of user choices — supports transparency and interpretability requirements for large platforms. Useful reference for assessing proposed algorithmic-audit rules. German data; the platform-level mechanism generalises.",
+  "policy_relevance_hu": "Releváns az EU Digitális Szolgáltatások Törvény (DSA) kikényszerítéséhez és a magyar média-szabályozási vitákhoz (NMHH, Igazságügyi Minisztérium). A tanulmány központi meglátása — az algoritmikus hírfolyam-kiválasztás szisztematikusan alakítja a politikai diskurzust a felhasználói választásoktól függetlenül — támogatja az átláthatósági és értelmezhetőségi követelményeket a nagy platformokkal szemben. Hasznos referencia a javasolt algoritmikus-audit szabályok értékeléséhez. Német adat; a platform-szintű mechanizmus általánosítható.",
+  "topics": [
+    "political-economy",
+    "innovation-digital"
+  ],
+  "methods": [
+    "panel-data",
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "DE"
+  ],
+  "data_types": [
+    "digital-trace"
+  ],
+  "featured": false,
+  "added_at": "2026-04-20",
+  "last_reviewed_at": "2026-04-20",
+  "review_status": "ai-drafted"
+}

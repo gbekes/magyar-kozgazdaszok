@@ -1,0 +1,45 @@
+{
+  "id": "szucs-2024-jeea",
+  "title": "Discretion and Favoritism in Public Procurement",
+  "authors": [
+    "szucs-ferenc"
+  ],
+  "publication_type": "article",
+  "journal": "Journal of the European Economic Association",
+  "year": 2024,
+  "volume": "22",
+  "issue": "1",
+  "pages": "117-160",
+  "doi": null,
+  "working_paper_series": null,
+  "url_published": null,
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "When government officials have discretion over who wins a public contract, do they use it to reward connected firms? Using detailed Hungarian public-procurement data and exploiting variation in how much discretion officials have across contract types, this paper shows that discretion systematically tilts awards toward politically connected firms — and that the rents captured by connected firms are substantial. The effect is concentrated in exactly the kinds of procurement procedures where European and national rules grant the most administrative leeway. The paper gives one of the clearest quantifications of procurement-favoritism cost in a democratic EU member state.",
+  "summary_hu": "Amikor állami tisztviselőknek mérlegelési jogkörük van a közbeszerzések elbírálásában, felhasználják-e ezt a kapcsolt cégek jutalmazására? Részletes magyar közbeszerzési adatok alapján, a szerződéstípusok közötti mérlegelési-jogkör változatosságát kihasználva a tanulmány megmutatja, hogy a mérlegelés szisztematikusan a politikailag kapcsolt cégek felé tolja az elbírálást — és a kapcsolt cégek által megszerzett járadékok jelentősek. A hatás pontosan azokban a közbeszerzési eljárásokban koncentrálódik, ahol az európai és nemzeti szabályok a legnagyobb adminisztratív mozgásteret engedik. A tanulmány az egyik legtisztább kvantifikálás a közbeszerzési favoritizmus költségeiről egy demokratikus EU-tagállamban.",
+  "data_used": "Hungarian public-procurement microdata covering all tenders above the EU threshold, 2010–2017, combined with firm-ownership and political-connection measures (Orbit Corporate, Hungarian company register, donation data). Hundreds of thousands of contracts.",
+  "data_used_hu": "Magyar közbeszerzési mikroadatok az EU-küszöböt meghaladó összes pályázatra, 2010–2017, összekapcsolva cégtulajdonos- és politikai-kapcsolati mérőszámokkal (Orbit Corporate, magyar cégjegyzék, adományadatok). Több százezer szerződés.",
+  "policy_relevance": "Directly relevant Hungarian-policy evidence, central to anti-corruption and EU rule-of-law debates. For the State Audit Office (ÁSZ), Public Procurement Authority (KH), and EU rule-of-law dialogue: the paper documents in numbers what qualitative observers have long reported — high-discretion procurement procedures are systematically captured. Supports policy recommendations that reduce discretion (open tendering, stricter oversight, ex-post auditing of high-value single-bidder contracts) without requiring identification of specific corrupt actors. Hungarian data; directly actionable.",
+  "policy_relevance_hu": "Közvetlenül releváns magyar szakpolitikai bizonyíték, központi a korrupcióellenes és az EU jogállamisági vitákhoz. Az Állami Számvevőszéknek (ÁSZ), Közbeszerzési Hatóságnak (KH) és az EU jogállamisági dialógusnak: a tanulmány számszerűsítve dokumentálja azt, amit a kvalitatív megfigyelők régóta jelentettek — a magas-mérlegelésű közbeszerzési eljárásokat szisztematikusan kisajátítják. Támogatja a mérlegelést csökkentő szakpolitikai javaslatokat (nyílt tenderezés, szigorúbb ellenőrzés, magas értékű egyetlen-ajánlattevős szerződések utólagos auditálása) anélkül, hogy konkrét korrupt szereplők azonosítására lenne szükség. Magyar adat; közvetlenül intézkedésre alkalmas.",
+  "topics": [
+    "political-economy",
+    "firms-productivity",
+    "fiscal-tax"
+  ],
+  "methods": [
+    "panel-data",
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm",
+    "admin-individual"
+  ],
+  "featured": false,
+  "added_at": "2026-04-20",
+  "last_reviewed_at": "2026-04-20",
+  "review_status": "ai-drafted"
+}
