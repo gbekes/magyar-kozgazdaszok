@@ -68,9 +68,18 @@
         return hay.includes(q);
       });
 
+      function surname(name) {
+        const tokens = (name || '').trim().split(/\s+/);
+        return tokens[tokens.length - 1] || '';
+      }
+      function givenNames(name) {
+        const tokens = (name || '').trim().split(/\s+/);
+        return tokens.slice(0, -1).join(' ');
+      }
+
       list.sort((a, b) => {
         if (sort === 'papers') return (b.paper_count || 0) - (a.paper_count || 0);
-        return (a.name_en || '').localeCompare(b.name_en || '');
+        return surname(a.name_en).localeCompare(surname(b.name_en), 'en');
       });
 
       const grid = document.getElementById('author-grid');
@@ -80,9 +89,12 @@
           `<span class="tag">${EFH.esc(data.topicsById[f]?.name_en || f)}</span>`
         ).join(' ');
         const count = a.paper_count ? `<span class="muted small">${a.paper_count} paper${a.paper_count === 1 ? '' : 's'}</span>` : '';
+        // Display "Surname, Given names" — academic convention, and makes the sort order obvious.
+        const sn = surname(a.name_en), gn = givenNames(a.name_en);
+        const display = gn ? `${sn}, ${gn}` : sn;
         return `
           <article class="author-card">
-            <h3><a href="author.html?id=${encodeURIComponent(a.id)}">${EFH.esc(a.name_en)}</a> ${count}</h3>
+            <h3><a href="author.html?id=${encodeURIComponent(a.id)}">${EFH.esc(display)}</a> ${count}</h3>
             <div class="affil">${EFH.esc(affil)}</div>
             <div class="fields">${fields}</div>
           </article>
