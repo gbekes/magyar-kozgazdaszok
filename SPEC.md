@@ -111,6 +111,7 @@ Three primary entities: **Paper**, **Author**, **Topic**. Plus **Journal** and *
   "methods": ["diff-in-diff", "panel-data"],
   "countries_studied": ["HU"],
   "data_types": ["admin-firm", "admin-tax"],
+  "policy_instruments": ["minimálbér", "FDI promotion (HIPA)"],
   "featured": false,
   "added_at": "2026-04-19",
   "last_reviewed_at": "2026-04-19",
@@ -120,6 +121,15 @@ Three primary entities: **Paper**, **Author**, **Topic**. Plus **Journal** and *
 
 Required fields: `id`, `title`, `authors`, `publication_type`, `year`, `abstract`, `topics`.
 Recommended: everything else. `review_status` ∈ `{ai-drafted, human-reviewed, author-approved}`.
+
+`policy_instruments` is an **uncontrolled, free-text** array of 0 to 5 concrete
+policy instruments / programs / levers the paper studies or directly informs.
+This sits alongside the 15-topic controlled vocabulary and gives policymakers
+a second way in — a policymaker can land on the paper because they typed
+"minimálbér" into search, not just because they browsed the labor topic. Short
+phrases, in whichever language makes sense for the paper's setting (Hungarian
+terms for Hungarian-context papers; English for global/US-setting papers).
+Not a replacement for `topics` — it's additive.
 
 ### 2.2 Author schema
 

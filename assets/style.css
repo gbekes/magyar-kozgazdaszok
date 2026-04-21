@@ -390,6 +390,27 @@ h1 .deceased-note { font-size: 0.65em; vertical-align: 0.15em; }
 }
 .media-slot p { margin: 0.3rem 0; }
 
+/* Policy-instruments section: prominent, policymaker-facing */
+.paper-section.policy-instruments {
+  background: #fff8e0;
+  border-left: 4px solid var(--v-9);
+  padding: 0.7rem 1rem;
+  border-radius: 3px;
+}
+.paper-section.policy-instruments > h2 {
+  color: var(--v-0);
+  margin-top: 0;
+}
+.tag.tag-instrument {
+  background: var(--v-9);
+  color: var(--v-0);
+  font-weight: 600;
+  border: 1px solid #d4c000;
+  font-size: 0.88rem;
+  padding: 0.2rem 0.7rem;
+}
+.instrument-chips { margin-top: 0.4rem; }
+
 /* Popular write-ups section: slightly emphasized */
 .paper-section.popular-links {
   background: #fcfbf0;

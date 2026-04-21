@@ -38,6 +38,11 @@ Things the author can change (non-exhaustive):
 - Affiliations, website, email, Scholar/RePEc/ORCID IDs.
 - `popular_links` (add/remove entries).
 - Tags (topic, method, data-type, countries studied).
+- **`policy_instruments`** — free-text list of specific levers the paper
+  informs (e.g. "minimálbér", "családi adókedvezmény", "CSOK", "EU
+  strukturális alapok", "NAV adóellenőrzés"). 0–5 entries. Authors can say
+  "please add 'roma oktatási integráció' to the instruments" or "drop the
+  'public procurement' tag, that's not what this paper is about."
 - **`open_to_media`** — turn on the "Open to media" slot on the author page,
   optionally with a scoping note (`media_note`), e.g. "interviews on labor
   economics in HU/EN; op-eds in Telex, Portfolio, HVG". Opt-in only —

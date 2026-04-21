@@ -430,6 +430,7 @@ For each paper you will produce FOUR outputs in a single JSON object:
    - methods: array of 1 to 2 IDs from {METHODS}
    - data_types: array of 1 to 3 IDs from {DATA_TYPES} (empty array [] for theory papers)
    - countries: array of ISO 3166-1 alpha-2 codes, or the group codes EU / EEA / CEE / V4 / GLOBAL / TRANSITION
+   - policy_instruments: array of 0 to 5 concrete policy instruments, programs, or levers the paper studies or directly informs. Examples: "minimum wage", "family tax allowance", "EU structural funds", "unemployment insurance rules", "school tracking age", "cigarette excise tax", "occupational health screening", "state advertising allocation", "pension benefit formula". Short phrases. NOT generic labels like "tax policy" or "education policy" — those are already topics. Be specific: a policymaker should be able to map each entry to a real lever they control. For Hungarian-context papers, prefer Hungarian terms ("minimálbér", "családi adókedvezmény", "CSOK"). For theory papers with no direct instrument, return []. Omit entirely if the paper doesn't discuss specific instruments.
 
 If a field cannot be determined confidently from the abstract alone, add a 5th field:
    uncertain: object mapping field name → one-sentence note.
@@ -516,6 +517,10 @@ def cmd_draft(paper_id: str, force: bool, dry_run: bool, model: str = "claude-op
     methods = [m for m in tags.get("methods", []) if m in CONTROLLED["methods"]][:2]
     data_types = [d for d in tags.get("data_types", []) if d in CONTROLLED["data_types"]][:3]
     countries = [c for c in tags.get("countries", []) if isinstance(c, str)][:5]
+    policy_instruments = [
+        str(x).strip() for x in tags.get("policy_instruments", [])
+        if isinstance(x, str) and x.strip()
+    ][:5]
 
     if obj.get("summary_en"):
         p["summary_en"] = obj["summary_en"].strip()
@@ -531,6 +536,8 @@ def cmd_draft(paper_id: str, force: bool, dry_run: bool, model: str = "claude-op
         p["methods"] = methods
     if data_types:
         p["data_types"] = data_types
+    if policy_instruments:
+        p["policy_instruments"] = policy_instruments
     if countries:
         p["countries_studied"] = countries
 

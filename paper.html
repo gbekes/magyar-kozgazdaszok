@@ -122,6 +122,15 @@
         })()}
       </section>
 
+      ${Array.isArray(p.policy_instruments) && p.policy_instruments.length ? `
+      <section class="paper-section policy-instruments">
+        <h2>Policy instruments discussed</h2>
+        <p class="small muted">Specific levers, programs, or rules the paper studies or directly informs.</p>
+        <div class="instrument-chips">
+          ${p.policy_instruments.map(i => `<span class="tag tag-instrument">${EFH.esc(i)}</span>`).join(' ')}
+        </div>
+      </section>` : ''}
+
       ${Array.isArray(p.popular_links) && p.popular_links.length ? `
       <section class="paper-section popular-links">
         <h2>Popular write-ups</h2>

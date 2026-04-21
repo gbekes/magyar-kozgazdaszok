@@ -68,11 +68,17 @@ def apply(drafts_path: str) -> None:
         methods = [m for m in d.get("methods", []) if m in METHODS][:2]
         data_types = [dt for dt in d.get("data_types", []) if dt in DATA_TYPES][:3]
         countries = [c for c in d.get("countries_studied", []) if isinstance(c, str)][:5]
+        # policy_instruments is free-text, capped at 5.
+        instruments = [
+            str(x).strip() for x in d.get("policy_instruments", [])
+            if isinstance(x, str) and x.strip()
+        ][:5]
 
         if topics: p["topics"] = topics
         if methods: p["methods"] = methods
         if data_types: p["data_types"] = data_types
         if countries: p["countries_studied"] = countries
+        if instruments: p["policy_instruments"] = instruments
 
         # sanity flag: missing topic/summary left as defaults
         if not (p["topics"] and p.get("summary_en") and p.get("policy_relevance")):
