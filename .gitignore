@@ -28,6 +28,14 @@ submissions/DONE/
 *.pem
 *.key
 
+# Local-only content: PII (emails), author dossiers, editor scratch.
+# Never committed. Back up separately if needed.
+not-shared/
+
+# Author outreach dossiers. Regenerate any time with
+# `python scripts/generate_dossier.py <author_id>`.
+outreach/
+
 # Node (if ever added)
 node_modules/
 
