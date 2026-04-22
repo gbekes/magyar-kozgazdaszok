@@ -13,7 +13,7 @@
       ],
       "website": "https://research-information.bris.ac.uk/en/persons/arpad-abraham",
       "email": null,
-      "repec_id": null,
+      "repec_id": "pab40",
       "scholar_id": null,
       "orcid": null,
       "primary_fields": [
@@ -126,7 +126,7 @@
       ],
       "website": "https://sites.google.com/site/peterbenczurhomepage/",
       "email": null,
-      "repec_id": null,
+      "repec_id": "pbe251",
       "scholar_id": null,
       "orcid": null,
       "primary_fields": [
@@ -267,7 +267,7 @@
       ],
       "website": "https://kti.krtk.hu/en/kutato/halpern-laszlo/",
       "email": null,
-      "repec_id": null,
+      "repec_id": "pha245",
       "scholar_id": null,
       "orcid": null,
       "primary_fields": [
@@ -468,7 +468,7 @@
       ],
       "website": "https://sites.google.com/site/peterkondor/",
       "email": null,
-      "repec_id": null,
+      "repec_id": "pko157",
       "scholar_id": null,
       "orcid": null,
       "primary_fields": [
@@ -495,7 +495,7 @@
       ],
       "website": "https://kti.krtk.hu/en/kutato/konya-istvan/",
       "email": null,
-      "repec_id": null,
+      "repec_id": "pko53",
       "scholar_id": null,
       "orcid": null,
       "primary_fields": [
@@ -524,7 +524,7 @@
       ],
       "website": "https://koren.mk/",
       "email": null,
-      "repec_id": null,
+      "repec_id": "pko6",
       "scholar_id": null,
       "orcid": null,
       "primary_fields": [
@@ -555,7 +555,7 @@
       "died": 2021,
       "website": null,
       "email": null,
-      "repec_id": null,
+      "repec_id": "pko198",
       "scholar_id": null,
       "orcid": null,
       "primary_fields": [
@@ -698,7 +698,7 @@
         "year": 2019
       },
       "openalex_id": "A5111929267",
-      "paper_count": 5
+      "paper_count": 6
     },
     {
       "id": "loranth-gyongyi",
@@ -882,7 +882,7 @@
       "qualifying_publication": null,
       "review_status": "confident",
       "openalex_id": "A5074785351",
-      "paper_count": 16
+      "paper_count": 17
     },
     {
       "id": "nagy-david",
@@ -967,8 +967,8 @@
       "photo_url": null,
       "qualifying_publication": null,
       "review_status": "needs-verification",
-      "openalex_id": "A5111929267",
-      "paper_count": 2
+      "openalex_id": "A5087966108",
+      "paper_count": 10
     },
     {
       "id": "sandor-laszlo",
@@ -1000,8 +1000,8 @@
       "photo_url": null,
       "qualifying_publication": null,
       "review_status": "needs-verification",
-      "openalex_id": "A5107827357",
-      "paper_count": 1
+      "openalex_id": "A5032211636",
+      "paper_count": 2
     },
     {
       "id": "somogyi-robert",
@@ -1270,7 +1270,7 @@
       ],
       "website": "https://research.manchester.ac.uk/en/persons/akos.valentinyi",
       "email": null,
-      "repec_id": null,
+      "repec_id": "pva126",
       "scholar_id": null,
       "orcid": null,
       "primary_fields": [
@@ -7806,6 +7806,42 @@
       "openalex_id": "W3123490317"
     },
     {
+      "id": "chetty-saez-et-al-2014-jep",
+      "title": "What Policies Increase Prosocial Behavior? An Experiment with Referees at the <i>Journal of Public Economics</i>",
+      "authors": [
+        "Raj Chetty",
+        "Emmanuel Saez",
+        "sandor-laszlo"
+      ],
+      "publication_type": "article",
+      "journal": "The Journal of Economic Perspectives",
+      "year": 2014,
+      "volume": "28",
+      "issue": "3",
+      "pages": "169-188",
+      "doi": "10.1257/jep.28.3.169",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1257/jep.28.3.169",
+      "url_pdf": "https://www.aeaweb.org/articles/pdf/doi/10.1257/jep.28.3.169",
+      "url_replication": null,
+      "abstract": "We evaluate policies to increase prosocial behavior using a field experiment with 1,500 referees at the Journal of Public Economics. We randomly assign referees to four groups: a control group with a six-week deadline to submit a referee report; a group with a four-week deadline; a cash incentive group rewarded with $100 for meeting the four-week deadline; and a social incentive group in which referees were told that their turnaround times would be publicly posted. We obtain four sets of results. First, shorter deadlines reduce the time referees take to submit reports substantially. Second, cash incentives significantly improve speed, especially in the week before the deadline. Cash payments do not crowd out intrinsic motivation: after the cash treatment ends, referees who received cash incentives are no slower than those in the four-week deadline group. Third, social incentives have smaller but significant effects on review times and are especially effective among tenured professors, who are less sensitive to deadlines and cash incentives. Fourth, all the treatments have little or no effect on rates of agreement to review, quality of reports, or review times at other journals. We conclude that small changes in journals' policies could substantially expedite peer review at little cost. More generally, price incentives, nudges, and social pressure are effective and complementary methods of increasing prosocial behavior.",
+      "summary_en": null,
+      "summary_hu": null,
+      "data_used": null,
+      "data_used_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "methods": [],
+      "countries_studied": [],
+      "data_types": [],
+      "featured": false,
+      "added_at": "2026-04-22",
+      "last_reviewed_at": "2026-04-22",
+      "review_status": "metadata-fetched",
+      "openalex_id": "W2251869929"
+    },
+    {
       "id": "chetty-szeidl-2007-qje",
       "title": "Consumption Commitments and Risk Preferences",
       "authors": [
@@ -10511,6 +10547,43 @@
       "openalex_id": "W3178858736"
     },
     {
+      "id": "elek-kollo-et-al-2012-rile",
+      "title": "Chapter 4 Detecting Wage Under-Reporting Using a Double-Hurdle Model",
+      "authors": [
+        "Péter Elek",
+        "János Köllő",
+        "reizer-balazs",
+        "Péter András Szabó"
+      ],
+      "publication_type": "chapter",
+      "journal": "Research in labor economics",
+      "year": 2012,
+      "volume": null,
+      "issue": null,
+      "pages": "135-166",
+      "doi": "10.1108/s0147-9121(2012)0000034007",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1108/s0147-9121(2012)0000034007",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "We estimate a double-hurdle (DH) model of the Hungarian wage distribution assuming censoring at the minimum wage and wage under-reporting (i.e. compensation consisting of the minimum wage, subject to taxation and an unreported cash supplement). We estimate the probability of under-reporting for minimum wage earners, simulate their genuine earnings and classify them and their employers as ‘cheaters’ and ‘non-cheaters’. In the possession of the classification, we check how cheaters and non-cheaters reacted to the introduction of a minimum social security contribution base, equal to 200 per cent of the minimum wage, in 2007. The findings suggest that cheaters were more likely to raise the wages of their minimum wage earners to 200 per cent of the minimum wage, thereby reducing the risk of tax audit. Cheating firms also experienced faster average wage growth and slower output growth. The results suggest that the DH model is able to identify the loci of wage under-reporting with some precision.",
+      "summary_en": null,
+      "summary_hu": null,
+      "data_used": null,
+      "data_used_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "methods": [],
+      "countries_studied": [],
+      "data_types": [],
+      "featured": false,
+      "added_at": "2026-04-22",
+      "last_reviewed_at": "2026-04-22",
+      "review_status": "metadata-fetched",
+      "openalex_id": "W2489902466"
+    },
+    {
       "id": "elekes-boschma-et-al-2019-rs",
       "title": "Foreign-owned firms as agents of structural change in regions",
       "authors": [
@@ -12499,6 +12572,41 @@
       "review_status": "ai-drafted"
     },
     {
+      "id": "gaspar-reizer-2023-ks",
+      "title": "Újabb hozzászólás az ismét elmaradt minimálbérvitához",
+      "authors": [
+        "Attila Gáspár",
+        "reizer-balazs"
+      ],
+      "publication_type": "article",
+      "journal": "Közgazdasági Szemle",
+      "year": 2023,
+      "volume": "70",
+      "issue": "4",
+      "pages": "365-380",
+      "doi": "10.18414/ksz.2023.4.365",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.18414/ksz.2023.4.365",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "Ebben a tanulmányban a számunkra elérhető legfrissebb, 2021. májusi járulékfizetési adatok alapján következtettünk a 2022. évi minimálbér-emelés várható hatásaira. Az adatok alapján úgy sejtjük, hogy a minimálbér-emelés főként a kisvállalatokat és a szakképzettséget nem igénylő munkaköröket érinti, így az aggregált adatok vizsgálata nem elegendő a minimálbér-emelés hatásainak vizsgálatához. Kutatásunk alapján nem látjuk jelét, hogy a minimálbér melletti zsebbe fizetés széles körű jelenség lenne. Végül a minimálbér adóterhének csökkentése mellett érvelünk.",
+      "summary_en": null,
+      "summary_hu": null,
+      "data_used": null,
+      "data_used_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "methods": [],
+      "countries_studied": [],
+      "data_types": [],
+      "featured": false,
+      "added_at": "2026-04-22",
+      "last_reviewed_at": "2026-04-22",
+      "review_status": "metadata-fetched",
+      "openalex_id": "W4364369893"
+    },
+    {
       "id": "gautier-somogyi-2020-ijio",
       "title": "Prioritization vs zero-rating: Discrimination on the internet",
       "authors": [
@@ -13632,6 +13740,41 @@
       "last_reviewed_at": "2026-04-22",
       "review_status": "metadata-fetched",
       "openalex_id": "W2922066365"
+    },
+    {
+      "id": "halo-reizer-2020-ks",
+      "title": "A sorkatonaság munkaerőpiaci hatásai Magyarországon",
+      "authors": [
+        "Buda Háló",
+        "reizer-balazs"
+      ],
+      "publication_type": "article",
+      "journal": "Közgazdasági Szemle",
+      "year": 2020,
+      "volume": "67",
+      "issue": "9",
+      "pages": "878-910",
+      "doi": "10.18414/ksz.2020.9.878",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.18414/ksz.2020.9.878",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "Tanulmányunkban adminisztratív járulékadatok segítségével elemeztük a sorkatonaságban való részvétel bérekre gyakorolt hatását. A különbségek különbsége módszerével vizsgáltuk meg, hogy miként változik a 2003-ban és 2004-ben bevonuló sorkatonák bére a be nem vonuló munkatársaikéhoz képest. A sorkatonák bevonulás előtt 20 százalékkal kevesebbet kerestek, mint a hasonló tulajdonságú, ám be nem vonuló munkavállalók. A sorkatonaság után ez a bérhátrány körülbelül 3 százalékos bérelőnnyé változik. Mivel a sorkatonaság csak hat hónapig tartott, ezért nem gondoljuk, hogy a gyors bérnövekedés csak a termelékenység növekedése miatt következett be. A legvalószínűbb magyarázat az, hogy a cégek diszkriminálták a sorkatonákat bevonulás előtt, vagy pedig a cégek és a későbbi sorkatonák képességei nem illettek össze.* Journal of Economic Literature (JEL) kód: J00, J31, J40.",
+      "summary_en": null,
+      "summary_hu": null,
+      "data_used": null,
+      "data_used_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "methods": [],
+      "countries_studied": [],
+      "data_types": [],
+      "featured": false,
+      "added_at": "2026-04-22",
+      "last_reviewed_at": "2026-04-22",
+      "review_status": "metadata-fetched",
+      "openalex_id": "W3084119953"
     },
     {
       "id": "halpern-1994-cte",
@@ -17221,6 +17364,41 @@
       "openalex_id": "W4386923392"
     },
     {
+      "id": "kollo-reizer-2021-ks",
+      "title": "A koronavírus-járvány első hullámának hatása a foglalkoztatásra és a vállalatok árbevételére",
+      "authors": [
+        "János Köllő",
+        "reizer-balazs"
+      ],
+      "publication_type": "article",
+      "journal": "Közgazdasági Szemle",
+      "year": 2021,
+      "volume": "68",
+      "issue": "4",
+      "pages": "345-374",
+      "doi": "10.18414/ksz.2021.4.345",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.18414/ksz.2021.4.345",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "Tanulmányunkban a KSH munkaerő-felmérése és havi teljesítménystatisztikája segítségével vizsgáljuk a koronavírus-járvány első hullámának azonnali gazdasági hatásait. A mikroadatok vizsgálata lehetővé teszi, hogy az aggregált statisztikáknál részletesebben mérjük fel a gazdasági visszaesés által okozott károkat. Az eredmények a 2008-2009-esnél is súlyosabb visszaesésre és az egyenlőtlenség növekedésére utalnak. A diplomások az átlagnál jobban vészelték át a válságot: körükben kisebb volt az állásvesztés valószínűsége, nagyobb arányban tértek át távmunkára, és az őket alkalmazó cégek árbevétele is kevesebbet esett. A külföldi tulajdonú exportáló vállalatok árbevétele az átlagosnál nagyobbat zuhant márciusban, de nyárra már megközelítette a kora tavaszi értékét. Ezzel szemben a magyar tulajdonú cégek visszaesése lassabb, de tartósabb volt.* Journal of Economic Literature (JEL) kód: E0, J0, L0.",
+      "summary_en": null,
+      "summary_hu": null,
+      "data_used": null,
+      "data_used_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "methods": [],
+      "countries_studied": [],
+      "data_types": [],
+      "featured": false,
+      "added_at": "2026-04-22",
+      "last_reviewed_at": "2026-04-22",
+      "review_status": "metadata-fetched",
+      "openalex_id": "W3152999500"
+    },
+    {
       "id": "kolm-laux-et-al-2016-efr",
       "title": "Bank Regulation, CEO Compensation, and Boards",
       "authors": [
@@ -20579,6 +20757,41 @@
       ]
     },
     {
+      "id": "lindner-reizer-2020-aejae",
+      "title": "Front-Loading the Unemployment Benefit: An Empirical Assessment",
+      "authors": [
+        "lindner-attila",
+        "reizer-balazs"
+      ],
+      "publication_type": "article",
+      "journal": "American Economic Journal Applied Economics",
+      "year": 2020,
+      "volume": "12",
+      "issue": "3",
+      "pages": "140-174",
+      "doi": "10.1257/app.20180138",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1257/app.20180138",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "We estimate the effect of front-loading unemployment benefit payments on nonemployment duration and reemployment wages. Exploiting a sharp change in the path of benefits for those who claimed unemployment benefits after November 1, 2005 in Hungary, we show that nonemployment duration fell by two weeks, while reemployment wages rose by 1.4 percent as a result of front-loading. We show that these behavioral responses were large enough to offset the mechanical cost increase of the unemployment insurance. We argue that our results indicate that benefit front-loading was a Pareto improving policy reform as both unemployed and employed workers were made better off. (JEL D91, J31, J64, J65)",
+      "summary_en": null,
+      "summary_hu": null,
+      "data_used": null,
+      "data_used_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "methods": [],
+      "countries_studied": [],
+      "data_types": [],
+      "featured": false,
+      "added_at": "2026-04-22",
+      "last_reviewed_at": "2026-04-22",
+      "review_status": "metadata-fetched",
+      "openalex_id": "W2535864760"
+    },
+    {
       "id": "lipton-sachs-et-al-1990-bpoea",
       "title": "Creating a Market Economy in Eastern Europe: The Case of Poland",
       "authors": [
@@ -21655,6 +21868,41 @@
       "openalex_id": "W1508722551"
     },
     {
+      "id": "murakozy-reizer-2017-ks",
+      "title": "A magyar vállalati adózás heterogenitása",
+      "authors": [
+        "murakozy-balazs",
+        "reizer-balazs"
+      ],
+      "publication_type": "article",
+      "journal": "Közgazdasági Szemle",
+      "year": 2017,
+      "volume": "64",
+      "issue": "12",
+      "pages": "1233-1264",
+      "doi": "10.18414/ksz.2017.12.1233",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.18414/ksz.2017.12.1233",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "Tanulmányunk vállalati mikroadatok segítségével vizsgálja háromféle vállalati adó – a társasági nyereségadó, a munkáltatói járulék és a helyi iparűzési adó – vállalatok közötti megoszlását. Megmutatjuk, hogy az egy dolgozóra és egységnyi hozzáadott értékre jutó fajlagos vállalati adó lényegesen eltér a különböző vállalatok között. Az adóbevételek erősen koncentráltak. A vállalati adófizetés legfontosabb meghatározója a termelékenység, amely pozitívan függ össze az egy főre jutó adóbevétellel és negatívan a hozzáadottérték-alapú adóékkel. Statikus mikro­szi­mu­lációval vizsgáljuk a 2017-es társaságiadó-csökkentésnek az adóbevételre és az adók elosztására gyakorolt hatását. Kiszámítjuk, hogy milyen mértékben jártak jobban az adócsökkentéssel a nagyvállalatok, és hogy milyen mértékben csökkent az adófizetés koncentrációja az adóváltozás hatására.*&#13;\\nJournal of Economic Literature (JEL) kód: H25, C54, D22.",
+      "summary_en": null,
+      "summary_hu": null,
+      "data_used": null,
+      "data_used_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "methods": [],
+      "countries_studied": [],
+      "data_types": [],
+      "featured": false,
+      "added_at": "2026-04-22",
+      "last_reviewed_at": "2026-04-22",
+      "review_status": "metadata-fetched",
+      "openalex_id": "W2772898465"
+    },
+    {
       "id": "murakozy-telegdy-2016-eer",
       "title": "Political incentives and state subsidy allocation: Evidence from Hungarian municipalities",
       "authors": [
@@ -22068,6 +22316,41 @@
       "openalex_id": "W2124566008"
     },
     {
+      "id": "peto-reizer-2021-jope",
+      "title": "Gender differences in the skill content of jobs",
+      "authors": [
+        "Rita Pető",
+        "reizer-balazs"
+      ],
+      "publication_type": "article",
+      "journal": "Journal of Population Economics",
+      "year": 2021,
+      "volume": "34",
+      "issue": "3",
+      "pages": "825-864",
+      "doi": "10.1007/s00148-021-00825-6",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1007/s00148-021-00825-6",
+      "url_pdf": "https://link.springer.com/content/pdf/10.1007/s00148-021-00825-6.pdf",
+      "url_replication": null,
+      "abstract": "Abstract There is significant heterogeneity in actual skill use within occupations even though occupations are differentiated by the task workers should perform during work. Using data on 12 countries which are available both in the Programme for the International Assessment of Adult Competencies survey and International Social Survey Program, we show that women use their cognitive skills less than men even within the same occupation. The gap in skill intensity cannot be explained by differences in worker characteristics or in cognitive skills. Instead, we show that living in a partnership significantly increases the skill use of men compared with women. We argue that having a partner affects skill use through time allocation as the gender penalty of partnered women is halved once we control for working hours and hours spent on housework. Finally, we do not find evidence of workplace discrimination against women.",
+      "summary_en": null,
+      "summary_hu": null,
+      "data_used": null,
+      "data_used_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "methods": [],
+      "countries_studied": [],
+      "data_types": [],
+      "featured": false,
+      "added_at": "2026-04-22",
+      "last_reviewed_at": "2026-04-22",
+      "review_status": "metadata-fetched",
+      "openalex_id": "W3134022475"
+    },
+    {
       "id": "pinter-lengyel-2025-c",
       "title": "Quantifying barriers of urban mobility",
       "authors": [
@@ -22253,6 +22536,40 @@
       "last_reviewed_at": "2026-04-19",
       "review_status": "metadata-fetched",
       "openalex_id": "W3123411681"
+    },
+    {
+      "id": "reizer-2022-labec",
+      "title": "Employment and Wage Consequences of Flexible Wage Components",
+      "authors": [
+        "reizer-balazs"
+      ],
+      "publication_type": "article",
+      "journal": "Labour Economics",
+      "year": 2022,
+      "volume": "78",
+      "issue": null,
+      "pages": "102256-102256",
+      "doi": "10.1016/j.labeco.2022.102256",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1016/j.labeco.2022.102256",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "I document new facts about the relationship between flexible wage components and firm performance using a unique matched employer-employee database from Hungary. Firms providing flexible wage components adjust total wage compensation more to revenue shocks than firms without flexible wages. Nevertheless, employment responses to revenue shocks are the same at firms with and without flexible wage components. These findings also hold in the case of aggregate shocks and during the Great Recession. The results suggest that flexible wage components in their current magnitude do not attenuate employment responses to a negative revenue shock. Finally, I discuss the possible explanations for the empirical findings.",
+      "summary_en": null,
+      "summary_hu": null,
+      "data_used": null,
+      "data_used_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "methods": [],
+      "countries_studied": [],
+      "data_types": [],
+      "featured": false,
+      "added_at": "2026-04-22",
+      "last_reviewed_at": "2026-04-22",
+      "review_status": "metadata-fetched",
+      "openalex_id": "W4297833780"
     },
     {
       "id": "robatto-szentes-2017-jet",
@@ -26252,7 +26569,7 @@
   ],
   "counts": {
     "authors": 46,
-    "papers": 641,
+    "papers": 650,
     "topics": 15
   }
 }
