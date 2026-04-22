@@ -49,7 +49,7 @@
     if (a.scholar_id) links.push(`<a href="https://scholar.google.com/citations?user=${EFH.esc(a.scholar_id)}" target="_blank" rel="noopener">Google Scholar</a>`);
     if (a.repec_id) links.push(`<a href="https://ideas.repec.org/e/${EFH.esc(a.repec_id)}.html" target="_blank" rel="noopener">RePEc</a>`);
     if (a.orcid) links.push(`<a href="https://orcid.org/${EFH.esc(a.orcid)}" target="_blank" rel="noopener">ORCID</a>`);
-    if (a.email) links.push(`<a href="mailto:${EFH.esc(a.email)}">${EFH.esc(a.email)}</a>`);
+    // Az e-mail címet szándékosan nem jelenítjük meg. A szerkesztői megkeresés céljára külön gyűjtjük.
 
     const papers = data.papers
       .filter(p => (p.authors || []).includes(a.id))
@@ -76,7 +76,6 @@
       <section class="media-slot">
         <h3>Média-felkérések</h3>
         <p>Nyitott interjúkra, véleménycikkekre, szakpolitikai konzultációra.${a.media_note ? ` ${EFH.esc(a.media_note)}` : ''}</p>
-        ${a.email ? `<p class="small"><a href="mailto:${EFH.esc(a.email)}">${EFH.esc(a.email)}</a></p>` : ''}
       </section>` : '';
 
     root.innerHTML = `
