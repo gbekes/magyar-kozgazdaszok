@@ -74,7 +74,24 @@ Full rules in `submissions/README.md`.
 - **`ingest.py discover`** accepts `--since-year N` and
   `--sort publication_year:desc|cited_by_count:desc`. Default is
   cited-by-count desc. For "all recent work" runs use
-  `--since-year 2018 --sort cited_by_count:desc`.
+  `--since-year 2018 --sort cited_by_count:desc`. Default
+  `--max-works` is too low for prolific authors — use 50+ to avoid
+  under-discovery (we've hit this repeatedly).
+
+- **RePEc is the cleaner source for WP series.** OpenAlex rarely
+  identifies CEPR DPs / IZA DPs / CESifo WPs as distinct locations —
+  they hide inside SSRN records. RePEc (ideas.repec.org/e/<id>.html)
+  lists them explicitly with DP numbers. When available, store the
+  `repec_id` on the author JSON and use the RePEc page for spot-check
+  and for filling in missed CEPR/IZA WPs.
+
+- **Editor's WP rule (catalogue-wide):** a working paper is kept
+  only if `year ≥ 2023` AND it's in CEPR / NBER / IZA / CESifo. In
+  practice NBER is the only one that's reliably detectable from
+  OpenAlex metadata (DOI `10.3386/w…`). Everything else that's
+  ambiguous should be deleted; the editor can re-add from a named
+  RePEc WP series by hand. Published articles in peer-reviewed econ/
+  finance journals are kept regardless of year.
 
 - **`build.py`** also expands `authors-seed.json` into per-author JSONs
   (only creates files that don't exist — doesn't overwrite).
