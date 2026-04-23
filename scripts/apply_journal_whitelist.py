@@ -114,7 +114,7 @@ ALIASES = {
     "applied network science": None,
     "network science": None,
     "entropy": None,
-    "omega": None,  # OR — included? keep or drop? we include EJOR only
+    "omega": "Omega",
     "annals of operations research": "Annals of Operations Research",
     "operations research letters": "Operations Research Letters",
     "central european journal of operations research": None,  # second tier OR

@@ -18,19 +18,35 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "A tanulmány a bérhányad (a munkajövedelem hazai jövedelemhez viszonyított aránya) alakulását tárgyalja Magyarországon, régiós és európai összevetésben. A cikkben először részletesen ismertetjük a bérhányad különböző mérési kérdéseit és az ehhez kapcsolódó problémákat és feltételezéseket. Ezután bemutatjuk a bérhányad fő mutatóinak alakulását először aggregált, majd szektorális szinten. Kitérünk az aggregált bérhányad mérése szempontjából problémát jelentő szektorok folyamataira, ilyen a mezőgazdaság, az ingatlanszektor és a közszféra. Ezután vizsgáljuk a relatív árak szerepét a bérhányadok országok közötti összehasonlításában. Összességében azt találjuk, hogy a különböző bérhányadmutatók meglehetősen eltérő képet festenek a magyarországi folyamatokról. A teljes bérhányad az 1995–2019-es időszakban érdemben csökkent, ezt azonban nagyrészt a munkaadók által fizetett társadalombiztosítási járulékok csökkenése magyarázza. A bérhányad reáljövedelmi részesedésként (jóléti mutatóként) való értelmezésekor pedig fontos figyelembe venni a fogyasztás GDP-hez viszonyított relatív árát is, amely különösen a fejlett és kevésbé fejlett gazdaságok közötti összehasonlítások eredményét befolyásolja.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "A Hungarian-language follow-up to the 2020 Economic Modelling paper on labor shares. The paper details measurement issues in computing the labor share (the fraction of income going to wages) in Hungary and compares Hungary's trajectory to European peers from 1995 to 2019. Key findings: the aggregate labor share fell meaningfully in this period, but most of the decline reflects cuts to employer social security contributions rather than underlying wage compression. Agriculture, real estate, and the public sector generate special measurement problems for aggregate comparisons.",
+  "summary_hu": "A 2020-as Economic Modelling cikk magyar nyelvű folytatása a bérhányadról. A tanulmány részletesen bemutatja a bérhányad mérési kérdéseit és összehasonlítja Magyarország pályáját az európai társakkal 1995 és 2019 között. Fő megállapítások: az aggregált bérhányad érdemben csökkent ebben az időszakban, de a csökkenés nagy része a munkaadói társadalombiztosítási járulékok csökkenését tükrözi, nem pedig az alapvető bérkompresszet. Mezőgazdaság, ingatlanpiac és közszféra különleges mérési problémákat generál az aggregált összehasonlításokhoz.",
+  "data_used": "Hungarian and EU sectoral data 1995–2019 from KSH and EU KLEMS; detailed breakdown by sector and income-component.",
+  "data_used_hu": "Magyar és EU szektorális adatok 1995–2019 a KSH-tól és az EU KLEMS-től; részletes bontás szektor és jövedelem-komponens szerint.",
+  "policy_relevance": "For Hungarian wage-and-tax policy debates (Ministry of Finance, Ministry of Economy): the paper is a rigorous reality-check on headline labor-share statistics. The declining labor share in Hungary is largely an artefact of payroll-tax reforms, not wage suppression. Important when labor-share comparisons are used in wage negotiations, EU-comparison arguments, and welfare-statistics work. Hungarian data; directly applicable.",
+  "policy_relevance_hu": "Magyar bér- és adópolitikai vitákhoz (Pénzügyminisztérium, Gazdasági Minisztérium): a tanulmány szigorú valóságellenőrzést ad a főcímsoros bérhányad-statisztikákhoz. A magyar bérhányad csökkenése nagyrészt a bérterhek-reformok műtermékeként mutatkozik, nem bérsűllyesztésként. Fontos, amikor bérhányad-összehasonlításokat használnak bér-tárgyalásokban, EU-összehasonlítási érvelésben és jóléti-statisztikai munkában. Magyar adat; közvetlenül alkalmazható.",
+  "topics": [
+    "labor-markets",
+    "firms-productivity",
+    "fiscal-tax"
+  ],
+  "methods": [
+    "descriptive-survey",
+    "structural"
+  ],
+  "countries_studied": [
+    "HU",
+    "EU"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3207475529"
+  "review_status": "ai-drafted",
+  "openalex_id": "W3207475529",
+  "policy_instruments": [
+    "bérterhek",
+    "employer social security contributions"
+  ]
 }

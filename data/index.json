@@ -511,7 +511,7 @@
       "media_note": null,
       "review_status": "stub",
       "openalex_id": "A5071839699",
-      "paper_count": 4
+      "paper_count": 3
     },
     {
       "id": "csoka-peter",
@@ -539,7 +539,7 @@
       "qualifying_publication": null,
       "review_status": "confident",
       "openalex_id": "A5019909890",
-      "paper_count": 25
+      "paper_count": 21
     },
     {
       "id": "elek-peter",
@@ -694,7 +694,7 @@
       "media_note": null,
       "review_status": "needs-verification",
       "openalex_id": "A5010337700",
-      "paper_count": 13
+      "paper_count": 12
     },
     {
       "id": "fleiner-tamas",
@@ -725,7 +725,7 @@
       "media_note": null,
       "review_status": "needs-verification",
       "openalex_id": "A5055177344",
-      "paper_count": 17
+      "paper_count": 16
     },
     {
       "id": "hajdu-gabor",
@@ -847,7 +847,7 @@
       "qualifying_publication": null,
       "review_status": "confident",
       "openalex_id": "A5025200634",
-      "paper_count": 14
+      "paper_count": 13
     },
     {
       "id": "hermann-zoltan",
@@ -1148,7 +1148,7 @@
       "media_note": null,
       "review_status": "needs-verification",
       "openalex_id": "A5061689420",
-      "paper_count": 26
+      "paper_count": 23
     },
     {
       "id": "koczy-laszlo",
@@ -1156,30 +1156,35 @@
       "name_hu": "Kóczy Á. László",
       "affiliations": [
         {
-          "name": "KRTK Institute of Economics & Óbuda University",
-          "role": null,
+          "name": "KRTK Institute of Economics",
+          "role": "Senior Researcher",
+          "start": null
+        },
+        {
+          "name": "Budapest University of Technology and Economics",
+          "role": "Professor",
           "start": null
         }
       ],
       "website": null,
-      "email": null,
+      "email": "koczy.laszlo@krtk.elte.hu",
       "repec_id": null,
       "scholar_id": null,
       "orcid": null,
       "primary_fields": [
         "methods"
       ],
-      "bio_en": "László Á. Kóczy is a senior researcher at the KRTK Institute of Economics and professor at Óbuda University. His work is in cooperative game theory, voting power, and applications to institutional design, including coalition formation and energy markets.",
-      "bio_hu": "Kóczy Á. László a KRTK Közgazdaság-tudományi Intézet vezető kutatója és az Óbudai Egyetem professzora. Kutatási területe a kooperatív játékelmélet, a szavazati erő és az intézménytervezés alkalmazásai, beleértve a koalícióképződést és az energia-piacokat.",
+      "bio_en": "László Á. Kóczy is a senior researcher at the KRTK Institute of Economics and professor at the Budapest University of Technology and Economics.",
+      "bio_hu": "Kóczy Á. László a KRTK Közgazdaság-tudományi Intézet vezető kutatója és a Budapesti Műszaki és Gazdaságtudományi Egyetem professzora.",
       "photo_url": null,
       "qualifying_publication": null,
       "deceased": false,
       "died": null,
       "open_to_media": false,
       "media_note": null,
-      "review_status": "needs-verification",
+      "review_status": "author-approved",
       "openalex_id": "A5027677214",
-      "paper_count": 23
+      "paper_count": 18
     },
     {
       "id": "kondor-peter",
@@ -1235,7 +1240,7 @@
       "qualifying_publication": null,
       "review_status": "confident",
       "openalex_id": "A5060516887",
-      "paper_count": 20
+      "paper_count": 18
     },
     {
       "id": "koren-miklos",
@@ -1424,7 +1429,7 @@
         "year": 2019
       },
       "openalex_id": "A5111929267",
-      "paper_count": 6
+      "paper_count": 5
     },
     {
       "id": "loranth-gyongyi",
@@ -1882,7 +1887,7 @@
       "qualifying_publication": null,
       "review_status": "needs-verification",
       "openalex_id": "A5072427780",
-      "paper_count": 13
+      "paper_count": 11
     },
     {
       "id": "szeidl-adam",
@@ -1938,7 +1943,7 @@
       "qualifying_publication": null,
       "review_status": "confident",
       "openalex_id": "A5015662394",
-      "paper_count": 29
+      "paper_count": 28
     },
     {
       "id": "sziklai-balazs",
@@ -1966,7 +1971,7 @@
       "qualifying_publication": null,
       "review_status": "confident",
       "openalex_id": "A5052177492",
-      "paper_count": 14
+      "paper_count": 11
     },
     {
       "id": "szucs-ferenc",
@@ -2023,7 +2028,7 @@
       "qualifying_publication": null,
       "review_status": "confident",
       "openalex_id": "A5042196310",
-      "paper_count": 19
+      "paper_count": 18
     },
     {
       "id": "tobias-aron",
@@ -11128,43 +11133,6 @@
       ]
     },
     {
-      "id": "csercsik-hubert-et-al-2019-ee",
-      "title": "Modeling transfer profits as externalities in a cooperative game-theoretic model of natural gas networks",
-      "authors": [
-        "csercsik-david",
-        "Franz Hubert",
-        "sziklai-balazs",
-        "koczy-laszlo"
-      ],
-      "publication_type": "article",
-      "journal": "Energy Economics",
-      "year": 2019,
-      "volume": "80",
-      "issue": null,
-      "pages": "355-365",
-      "doi": "10.1016/j.eneco.2019.01.013",
-      "working_paper_series": null,
-      "url_published": "https://doi.org/10.1016/j.eneco.2019.01.013",
-      "url_pdf": null,
-      "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
-      "featured": false,
-      "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2911895584"
-    },
-    {
       "id": "csercsik-hubert-et-al-2019-enerecon",
       "title": "Modeling transfer profits as externalities in a cooperative game-theoretic model of natural gas networks",
       "authors": [
@@ -11632,7 +11600,7 @@
       ]
     },
     {
-      "id": "csoka-herings-2025-ejoor",
+      "id": "csoka-herings-2025-ejor",
       "title": "Two axiomatizations of the pairwise netting proportional rule in financial networks",
       "authors": [
         "csoka-peter",
@@ -11669,48 +11637,13 @@
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-20",
-      "last_reviewed_at": "2026-04-20",
+      "last_reviewed_at": "2026-04-22",
       "review_status": "ai-drafted",
-      "openalex_id": "W4409500185",
+      "openalex_id": "W4390545673",
       "policy_instruments": [
         "bankruptcy netting rules",
         "central counterparty clearing"
       ]
-    },
-    {
-      "id": "csoka-herings-2025-ejor",
-      "title": "Two axiomatizations of the pairwise netting proportional rule in financial networks",
-      "authors": [
-        "csoka-peter",
-        "P. Jean‐Jacques Herings"
-      ],
-      "publication_type": "article",
-      "journal": "European Journal of Operational Research",
-      "year": 2025,
-      "volume": "325",
-      "issue": "3",
-      "pages": "553-567",
-      "doi": "10.1016/j.ejor.2025.04.008",
-      "working_paper_series": null,
-      "url_published": "https://doi.org/10.1016/j.ejor.2025.04.008",
-      "url_pdf": null,
-      "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
-      "featured": false,
-      "added_at": "2026-04-20",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4390545673"
     },
     {
       "id": "csoka-herings-et-al-2007-jbf",
@@ -11749,78 +11682,6 @@
       "openalex_id": "W2118181412"
     },
     {
-      "id": "csoka-herings-et-al-2007-jobf",
-      "title": "Coherent measures of risk from a general equilibrium perspective",
-      "authors": [
-        "csoka-peter",
-        "P. Jean‐Jacques Herings",
-        "koczy-laszlo"
-      ],
-      "publication_type": "article",
-      "journal": "Journal of Banking & Finance",
-      "year": 2007,
-      "volume": "31",
-      "issue": "8",
-      "pages": "2517-2534",
-      "doi": "10.1016/j.jbankfin.2006.10.026",
-      "working_paper_series": null,
-      "url_published": "https://doi.org/10.1016/j.jbankfin.2006.10.026",
-      "url_pdf": "https://www.sciencedirect.com/science/article/pii/S0378426607000404",
-      "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
-      "featured": false,
-      "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2118181412"
-    },
-    {
-      "id": "csoka-herings-et-al-2008-gaeb",
-      "title": "Stable allocations of risk",
-      "authors": [
-        "csoka-peter",
-        "P. Jean‐Jacques Herings",
-        "koczy-laszlo"
-      ],
-      "publication_type": "article",
-      "journal": "Games and Economic Behavior",
-      "year": 2008,
-      "volume": "67",
-      "issue": "1",
-      "pages": "266-276",
-      "doi": "10.1016/j.geb.2008.11.001",
-      "working_paper_series": null,
-      "url_published": "https://doi.org/10.1016/j.geb.2008.11.001",
-      "url_pdf": "https://www.sciencedirect.com/science/article/pii/S0899825608002042",
-      "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
-      "featured": false,
-      "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2138106469"
-    },
-    {
       "id": "csoka-herings-et-al-2008-geb",
       "title": "Stable allocations of risk",
       "authors": [
@@ -11855,43 +11716,6 @@
       "last_reviewed_at": "2026-04-23",
       "review_status": "metadata-fetched",
       "openalex_id": "W2138106469"
-    },
-    {
-      "id": "csoka-herings-et-al-2010-ejoor",
-      "title": "Convex and exact games with non-transferable utility",
-      "authors": [
-        "csoka-peter",
-        "P. Jean‐Jacques Herings",
-        "koczy-laszlo",
-        "Miklós Pintér"
-      ],
-      "publication_type": "article",
-      "journal": "European Journal of Operational Research",
-      "year": 2010,
-      "volume": "209",
-      "issue": "1",
-      "pages": "57-62",
-      "doi": "10.1016/j.ejor.2010.08.004",
-      "working_paper_series": null,
-      "url_published": "https://doi.org/10.1016/j.ejor.2010.08.004",
-      "url_pdf": null,
-      "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
-      "featured": false,
-      "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2168654026"
     },
     {
       "id": "csoka-herings-et-al-2010-ejor",
@@ -13540,52 +13364,6 @@
       "openalex_id": "W4407765213"
     },
     {
-      "id": "es-szentes-2007-restud",
-      "title": "Optimal Information Disclosure in Auctions and the Handicap Auction",
-      "authors": [
-        "Peter Harremo es",
-        "szentes-balazs"
-      ],
-      "publication_type": "article",
-      "journal": "The Review of Economic Studies",
-      "year": 2007,
-      "volume": "74",
-      "issue": "3",
-      "pages": "705-731",
-      "doi": "10.1111/j.1467-937x.2007.00442.x",
-      "working_paper_series": null,
-      "url_published": "https://doi.org/10.1111/j.1467-937x.2007.00442.x",
-      "url_pdf": null,
-      "url_replication": null,
-      "abstract": "&lt;p&gt;We analyze a situation where a monopolist is selling an indivisible good to risk neutral buyers who only have an estimate of their private valuations. The seller can release, without observing, certain additional signals that affect the buyers’ valuations. Our main result is that in the expected revenue maximizing mechanism, the seller makes available all the information that she can, and her expected revenue is the same as it would be if she could observe the part of the information that is “new” to the buyers. We also show that this mechanism can be implemented by what we call a &lt;em&gt;handicap auction&lt;/em&gt; in interesting applications. In the first round of this auction, each buyer picks a price premium from a menu offered by the seller (a smaller premium costs more). Then the seller releases the additional signals. In the second round, the buyers bid in a second-price auction where the winner pays the sum of his premium and the second highest non-negative bid. In the case of a single buyer, this mechanism simplifies to a menu of European call options.&lt;/p&gt;",
-      "summary_en": "A seller with an indivisible good faces risk-neutral buyers who only have rough estimates of their own valuations. Can the seller do better by releasing additional information? Yes — and strikingly, in the revenue-maximising mechanism the seller releases all the information she can. The paper shows this can be implemented through a \"handicap auction\" with two rounds: first, each buyer picks a premium from a menu (smaller premium costs more); then, a second-round auction with the premium reflected in bids. A new mechanism-design result with elegant implementation and practical appeal.",
-      "summary_hu": null,
-      "data_used": "Theoretical paper; no empirical data.",
-      "data_used_hu": null,
-      "policy_relevance": "Relevant to Hungarian auction design for government assets (spectrum, real estate, privatisations) where bidders have uncertain valuations and the seller has information that could help them. The \"handicap auction\" format is implementable and offers revenue gains. Relevant to the Ministry of Development and Hungarian privatisation agency. Caveat: theoretical; implementation in practice requires careful menu design and clear disclosure rules.",
-      "policy_relevance_hu": null,
-      "topics": [
-        "industrial-organization",
-        "fiscal-tax"
-      ],
-      "methods": [
-        "theory"
-      ],
-      "countries_studied": [
-        "GLOBAL"
-      ],
-      "data_types": [],
-      "featured": false,
-      "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "ai-drafted",
-      "openalex_id": "W2160062365",
-      "policy_instruments": [
-        "handicap auction design",
-        "spectrum-auction information release"
-      ]
-    },
-    {
       "id": "eso-2004-jet",
       "title": "An optimal auction with correlated values and risk aversion",
       "authors": [
@@ -13885,7 +13663,11 @@
       "added_at": "2026-04-19",
       "last_reviewed_at": "2026-04-19",
       "review_status": "ai-drafted",
-      "openalex_id": "W2160062365"
+      "openalex_id": "W2160062365",
+      "policy_instruments": [
+        "handicap auction design",
+        "spectrum-auction information release"
+      ]
     },
     {
       "id": "eso-szentes-2017-te",
@@ -14299,43 +14081,6 @@
         "product-quality upgrading",
         "V4 regional trade strategy"
       ]
-    },
-    {
-      "id": "ferto-koczy-et-al-2020-eroae",
-      "title": "The power ranking of the members of the Agricultural Committee of the European Parliament",
-      "authors": [
-        "ferto-imre",
-        "koczy-laszlo",
-        "Attila Kovács",
-        "sziklai-balazs"
-      ],
-      "publication_type": "article",
-      "journal": "European Review of Agricultural Economics",
-      "year": 2020,
-      "volume": "47",
-      "issue": "5",
-      "pages": "1897-1919",
-      "doi": "10.1093/erae/jbaa011",
-      "working_paper_series": null,
-      "url_published": "https://doi.org/10.1093/erae/jbaa011",
-      "url_pdf": null,
-      "url_replication": null,
-      "abstract": "Abstract We aim to identify the most influential members of the Agricultural Committee of the European Parliament (COMAGRI). Unlike previous studies that were based on case studies or interviews with stakeholders, we analyse the voting power of MEPs using a spatial Banzhaf power index. We identify critical members: members whose votes are necessary to form winning coalitions. We found that rapporteurs, EP group coordinators and MEPs from countries with high relative Committee representations, such as Ireland, Poland or Romania are powerful actors. Italy emerges as the most influential member state, while France seems surprisingly weak.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
-      "featured": false,
-      "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W3046402491"
     },
     {
       "id": "ferto-koczy-et-al-2020-eurae",
@@ -17231,11 +16976,11 @@
       "url_replication": null,
       "abstract": "This paper provides a comprehensive assessment of the margins along which firms responded to a large and persistent minimum wage increase in Hungary. We show that employment elasticities are negative but small even four years after the reform; that around 75 percent of the minimum wage increase was paid by consumers and 25 percent by firm owners; that firms responded to the minimum wage by substituting labor with capital; and that disemployment effects were greater in industries where passing the wage costs to consumers is more difficult. We estimate a model with monopolistic competition to explain these findings. (JEL J23, J24, J31, J38, L13)",
       "summary_en": "Hungary nearly doubled its minimum wage in 2000–2002. Four years later, where did the money come from? This paper uses comprehensive Hungarian firm-level data to trace the entire adjustment. Headline result: employment fell only modestly (elasticities are negative but small). About 75% of the cost was passed on to consumers in higher prices, and 25% was absorbed by firm profits. Firms substituted labour with capital. Disemployment effects were larger in industries where passing costs to consumers was difficult (mainly tradeables facing foreign competition). The paper estimates a monopolistic-competition model to explain these margins jointly. A benchmark study for minimum-wage policy design in emerging economies.",
-      "summary_hu": null,
+      "summary_hu": "Amikor Magyarország 2000 és 2002 között majdnem megkétszerezte a minimálbért, mi történt a munkavállalókkal és a vállalatokkal? Gyakorlatilag minden magyar vállalat részletes adatait felhasználva a tanulmány azt mutatja, hogy a többletköltség nagy része kissé magasabb fogyasztói árakon keresztül a vevőkre hárult, nem pedig elbocsátásokon vagy a vállalati profiton keresztül. A foglalkoztatás csak szerényen csökkent, főként olyan vállalatoknál, ahol a munkavállalók alkupozíciója gyenge volt. A tanulmány széles körben idézett bizonyíték arra, hogy egy mérsékelt minimálbér-emelés egy közepes jövedelmű országban emelheti az alacsony keresetűek bérét anélkül, hogy nagymértékű munkahelyveszteséget okozna.",
       "data_used": "Linked Hungarian administrative firm-level and employer-employee data covering the 2000–2002 minimum-wage reform and four years post-reform. Micro-data on wages, employment, prices, capital stock, and industry composition.",
-      "data_used_hu": null,
+      "data_used_hu": "Összekapcsolt magyar adminisztratív adatok: a bértarifa felvétel (KSH) évi ~800 000 munkavállalóra, valamint a vállalati adónyilvántartás (NAV) minden 5 vagy több főt foglalkoztató magyar vállalatra, 1999–2007. A vállalati szintű kimeneti változók magukban foglalják a foglalkoztatást, béreket, árbevételt, árakat és jövedelmezőséget.",
       "policy_relevance": "Essential reading for the Hungarian minimum-wage debate (minimálbér negotiations, VKF). Concrete implications: a substantial minimum-wage increase can be absorbed mostly through prices with small employment costs if most covered workers are in non-tradeable sectors; but in tradeable sectors facing international competition, disemployment effects are larger and should be expected. For the ministry and employer/union social dialogue, the paper is a quantitative anchor. Caveat: evidence is from the 2000s Hungarian economy; the current labour-market environment (tight, inflation-adjusted, EU-integrated) differs, and magnitudes would need re-estimation with more recent data.",
-      "policy_relevance_hu": null,
+      "policy_relevance_hu": "A minimálbér-emelést fontolóra vevő magyar döntéshozók számára: a bizonyítékok azt mutatják, hogy a mérsékelt emelések elérhetik az újraelosztási céljaikat jelentős foglalkoztatási költségek nélkül, de a költségek az árakban jelennek meg — ami azt jelenti, hogy a politika implicit módon a fogyasztóktól (beleértve az alacsonyabb jövedelműeket is) az alacsony bérű munkavállalók felé csoportosít át. Ez egy implicit fogyasztási adó, amit érdemes figyelembe venni a politika tervezésekor. A tanulmány egy erős aggregált keresletű időszakot vizsgál; recesszióban a hatások eltérőek lehetnek. Releváns: Gazdasági Minisztérium, éves minimálbér-tárgyalásokat tervező minisztériumi munkatársak.",
       "topics": [
         "labor-markets",
         "firms-productivity"
@@ -20684,55 +20429,6 @@
       ]
     },
     {
-      "id": "kiss-koczy-et-al-2022-jobae",
-      "title": "Does risk sorting explain overpricing in experimental asset markets?",
-      "authors": [
-        "kiss-hubert",
-        "koczy-laszlo",
-        "Ágnes Pintér",
-        "sziklai-balazs"
-      ],
-      "publication_type": "article",
-      "journal": "Journal of Behavioral and Experimental Economics",
-      "year": 2022,
-      "volume": "99",
-      "issue": null,
-      "pages": "101882-101882",
-      "doi": "10.1016/j.socec.2022.101882",
-      "working_paper_series": null,
-      "url_published": "https://doi.org/10.1016/j.socec.2022.101882",
-      "url_pdf": null,
-      "url_replication": null,
-      "abstract": "Sorting according to the gender or cognitive abilities of the traders has been investigated as a potential source of overpricing in asset markets. Here we study if sorting according to risk attitudes matters, motivated by the fact that filtering out risk-averse investors is practiced widely in Europe and is in line with the Markets in Financial Instruments Directive (MiFID) of the EU. Despite the central role of risk attitude in the literature, our study is the first that sorts participants into markets by risk tolerance and tests its effect on overpricing. We show that risk sorting can explain overpricing only partially: Markets with the most risk-tolerant traders exhibit larger overpricing than markets with the most risk-averse traders. In our study, risk aversion does not correlate with gender or cognitive abilities, bringing in an additional factor to understand overpricing.",
-      "summary_en": "Experimental asset markets often show bubbles and overpricing. This paper tests whether risk-attitude sorting explains the pattern. Motivated by the EU's MiFID II practice of filtering out risk-averse investors from risky markets, the authors sort experimental participants into markets by risk tolerance. Result: markets with the most risk-tolerant traders show more overpricing than those with the most risk-averse. Risk sorting explains overpricing only partially. Suggests that the MiFID filtering practice may actually worsen overpricing in the segments it filters into — an unintended consequence for investor-protection policy.",
-      "summary_hu": null,
-      "data_used": "Laboratory asset-market experiment with Hungarian participants sorted by risk tolerance.",
-      "data_used_hu": null,
-      "policy_relevance": "For Hungarian retail-investor-protection policy (MNB, BÉT). The paper provides evidence that MiFID II-style risk-aversion screening may have unintended consequences in risky-asset markets. Relevant to ongoing implementation of EU investor-protection rules. Caveat: laboratory evidence; real-market dynamics may differ.",
-      "policy_relevance_hu": null,
-      "topics": [
-        "behavioral",
-        "banking-finance"
-      ],
-      "methods": [
-        "rct"
-      ],
-      "countries_studied": [
-        "HU"
-      ],
-      "data_types": [
-        "field-experiment"
-      ],
-      "featured": false,
-      "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "ai-drafted",
-      "openalex_id": "W4224280735",
-      "policy_instruments": [
-        "MiFID II suitability assessments"
-      ]
-    },
-    {
       "id": "kiss-rodriguez-lara-et-al-2012-jomca",
       "title": "On the Effects of Deposit Insurance and Observability on Bank Runs: An Experimental Study",
       "authors": [
@@ -21224,38 +20920,92 @@
       "openalex_id": "W2102546026"
     },
     {
-      "id": "koczy-2018-tadls",
-      "title": "The Shapley-value",
+      "id": "koczy-2018-book-pffg",
+      "title": "Partition Function Form Games: Coalitional Games with Externalities",
       "authors": [
         "koczy-laszlo"
       ],
       "publication_type": "chapter",
-      "journal": "Theory and decision library. Series C, Game theory, mathematical programming and operations research",
+      "journal": "Theory and Decision Library C (Springer)",
       "year": 2018,
-      "volume": null,
+      "volume": "48",
       "issue": null,
-      "pages": "173-200",
-      "doi": "10.1007/978-3-319-69841-0_9",
+      "pages": null,
+      "doi": "10.1007/978-3-319-69841-0",
       "working_paper_series": null,
-      "url_published": "https://doi.org/10.1007/978-3-319-69841-0_9",
+      "url_published": "https://doi.org/10.1007/978-3-319-69841-0",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "abstract": "A monograph on cooperative games with externalities — partition function form games. The book develops solution concepts for coalition-formation settings where the value of a coalition depends on the structure of competing coalitions. It synthesises the author's research on the recursive core, coalition-structure core, and externalities in cooperative game theory, with applications to international environmental agreements, institutional design, and voting power.",
+      "summary_en": "A monograph on cooperative games with externalities. In standard cooperative game theory, a coalition's worth is fixed; but in many real-world settings — environmental agreements, cartel formation, political coalitions — a coalition's payoff depends on what competing coalitions do. Partition-function-form games capture this. The book develops solution concepts (notably the recursive core) for such settings, shows when they are well-defined, and applies them to international treaty formation, institutional design, and coalition politics. It synthesises Kóczy's decade-plus research programme in a single, unified framework.",
+      "data_used": "Theoretical monograph; no empirical data.",
+      "policy_relevance": "For Hungarian and EU analyses of international agreements (climate, trade, EU fiscal compact), the book provides the state-of-the-art cooperative-game-theoretic toolkit for analysing coalition formation with externalities. Relevant to EU-negotiation strategy, to game-theoretic analysis of voting in EU institutions, and to the KRTK game-theory research group's applications. Caveat: the book is technical; operational Hungarian policy applications require mapping the framework onto specific institutional settings.",
+      "topics": [
+        "methods",
+        "political-economy"
+      ],
+      "methods": [
+        "theory"
+      ],
       "data_types": [],
+      "countries_studied": [
+        "GLOBAL"
+      ],
+      "policy_instruments": [
+        "international-treaty coalition design",
+        "EU voting-power analysis"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2801254807"
+      "review_status": "ai-drafted",
+      "openalex_id": null
+    },
+    {
+      "id": "koczy-koltai-et-al-2026-o",
+      "title": "Apportionment methods in resource allocation",
+      "authors": [
+        "koczy-laszlo",
+        "Tamás Koltai",
+        "sziklai-balazs"
+      ],
+      "publication_type": "article",
+      "journal": "Omega",
+      "year": 2026,
+      "volume": "138",
+      "issue": null,
+      "pages": "103403",
+      "doi": "10.1016/j.omega.2025.103403",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1016/j.omega.2025.103403",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "Apportionment methods — rules for allocating indivisible resources (seats, quotas, budgets) proportionally to claims — are a classical topic in political-economy theory with deep practical applications. This paper applies apportionment methods to resource-allocation problems and compares their properties. The authors extend classical results to settings that go beyond political districting, showing which methods preserve proportionality under specific structural requirements. A rigorous contribution combining apportionment theory with operations-research practice.",
+      "data_used": "Theoretical paper with algorithmic analysis; illustrative resource-allocation applications.",
+      "policy_relevance": "For Hungarian public-resource-allocation design — e.g., education quota allocation, healthcare capacity distribution, regional development-fund splits, and voting-districting — apportionment methods provide a principled framework. Relevant to Oktatási Hivatal (university admissions), NEAK (hospital capacity), and Ministry of Economy (regional-fund allocation). Caveat: specific implementation requires fit with institutional constraints and political acceptability.",
+      "topics": [
+        "methods",
+        "fiscal-tax",
+        "political-economy"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "data_types": [],
+      "countries_studied": [
+        "GLOBAL"
+      ],
+      "policy_instruments": [
+        "university-admission quota allocation",
+        "regional-fund splits",
+        "voting-districting"
+      ],
+      "featured": false,
+      "added_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": null
     },
     {
       "id": "koczy-lauwers-2003-geb",
@@ -22123,11 +21873,11 @@
       "url_replication": null,
       "abstract": "The paper studies the labor share among countries of the European Union, with a particular attention to the newer member states of Central and Eastern Europe (CEEU). We find that CEEU countries typically have lower labor shares than older EU member states, both in the aggregate and at the sectoral level. Structural change, while quite pronounced among the CEEU economies, plays only a minor role in the evolution of the labor share. The exception is agriculture, which for some countries has a sizable impact on the level and dynamics of the labor share - partly because of important measurement problems. We also find that a significant part of the difference in conventionally measured labor shares between the more developed EU countries and less developed CEEU countries can be attributed to differences in relative prices. This is consistent with a productivity-based explanation: we show that a simple, calibrated two-sector model with sectoral productivity differentials can explain 36–71% of cross-country variations in the non-agricultural labor share.",
       "summary_en": "Labour shares — the fraction of national income going to workers rather than capital — differ across EU countries. This paper documents and analyses the pattern, paying special attention to Central and Eastern European (CEEU) countries. Main findings: CEEU countries typically have lower labour shares than older EU members, both aggregate and sectoral. Structural change, though pronounced in CEEU, plays only a minor role. Agriculture is an exception — its role in some countries matters significantly. A significant part of the cross-country difference in measured labour shares comes from measurement issues in CEEU.",
-      "summary_hu": null,
+      "summary_hu": "Miért alacsonyabb a bérhányad (a béreknek jutó nemzeti jövedelem-rész) a közép- és kelet-európai EU-országokban, mint a régebbi EU-tagoknál? A tanulmány dokumentálja a különbséget aggregált és szektorális szinten egyaránt, kiderül, hogy a szektorok közötti strukturális átrendeződés csak kis szerepet játszik, és megmutatja, hogy a keresztország-különbség nagy részét a relatív árak különbségei magyarázzák. Egy kalibrált kétszektoros modell szektorális termelékenységi különbségekkel 36–71%-át magyarázza a megfigyelt különbségnek. Mezőgazdaság, ingatlanpiac és közszféra mérési problémái bonyolítják az egyszerű aggregált összehasonlításokat.",
       "data_used": "EU country-sector panel data on labour share, output, and employment, with particular attention to Central and Eastern European economies.",
-      "data_used_hu": null,
+      "data_used_hu": "EU KLEMS adatbázis szektorális szinten az EU-tagállamokra, 1995–2017; a CEE-6 vs. régebbi EU-15 összehasonlításra fókuszálva.",
       "policy_relevance": "For Hungarian labour-share analysis and tax-policy debates (MNB, Pénzügyminisztérium). The paper provides nuance: Hungary's lower labour share vs. Western Europe is partly measurement, partly real. Relevant to tax-policy choice between labour and capital. Caveat: measurement adjustments have not been universally adopted; the cross-country comparison is sensitive to methodology.",
-      "policy_relevance_hu": null,
+      "policy_relevance_hu": "A magyar Pénzügyminisztériumnak és MNB-nek: a politikai vitákban gyakran idézett „alacsony bérhányad KKE-ben\" részben mérési/összetételi jelenség, nem tiszta kizsákmányolás vagy intézményi gyengeség. Hasznos korrekció a felületes narratívákhoz. Releváns a bérpolitikai vitákhoz és a régebbi EU-tagokkal való összehasonlítások kereteléséhez. Magyar adat EU-kontextussal.",
       "topics": [
         "labor-markets",
         "inequality-welfare",
@@ -22154,60 +21904,7 @@
       ]
     },
     {
-      "id": "konya-kreko-et-al-2020-em",
-      "title": "Labor shares in the old and new EU member states - Sectoral effects and the role of relative prices",
-      "authors": [
-        "konya-istvan",
-        "Judit Krekó",
-        "Gábor Oblath"
-      ],
-      "publication_type": "article",
-      "journal": "Economic Modelling",
-      "year": 2020,
-      "volume": "90",
-      "issue": null,
-      "pages": "254-272",
-      "doi": "10.1016/j.econmod.2020.05.010",
-      "working_paper_series": null,
-      "url_published": "https://doi.org/10.1016/j.econmod.2020.05.010",
-      "url_pdf": null,
-      "url_replication": null,
-      "abstract": "The paper studies the labor share among countries of the European Union, with a particular attention to the newer member states of Central and Eastern Europe (CEEU). We find that CEEU countries typically have lower labor shares than older EU member states, both in the aggregate and at the sectoral level. Structural change, while quite pronounced among the CEEU economies, plays only a minor role in the evolution of the labor share. The exception is agriculture, which for some countries has a sizable impact on the level and dynamics of the labor share - partly because of important measurement problems. We also find that a significant part of the difference in conventionally measured labor shares between the more developed EU countries and less developed CEEU countries can be attributed to differences in relative prices. This is consistent with a productivity-based explanation: we show that a simple, calibrated two-sector model with sectoral productivity differentials can explain 36–71% of cross-country variations in the non-agricultural labor share.",
-      "summary_en": "Why do Central and Eastern European EU countries have lower labor shares (the fraction of national income going to wages) than older EU members? This paper documents the gap at both aggregate and sectoral levels, finds that structural change between sectors plays only a minor role, and shows that a large part of the cross-country gap is explained by relative price differences. A calibrated two-sector model with sectoral productivity differentials can explain 36–71% of the observed gap. Measurement problems in agriculture, real estate, and the public sector complicate straightforward aggregate comparisons.",
-      "summary_hu": "Miért alacsonyabb a bérhányad (a béreknek jutó nemzeti jövedelem-rész) a közép- és kelet-európai EU-országokban, mint a régebbi EU-tagoknál? A tanulmány dokumentálja a különbséget aggregált és szektorális szinten egyaránt, kiderül, hogy a szektorok közötti strukturális átrendeződés csak kis szerepet játszik, és megmutatja, hogy a keresztország-különbség nagy részét a relatív árak különbségei magyarázzák. Egy kalibrált kétszektoros modell szektorális termelékenységi különbségekkel 36–71%-át magyarázza a megfigyelt különbségnek. Mezőgazdaság, ingatlanpiac és közszféra mérési problémái bonyolítják az egyszerű aggregált összehasonlításokat.",
-      "data_used": "EU KLEMS database at sectoral level for EU member states, 1995–2017; focus on CEE-6 vs. older EU-15 comparison.",
-      "data_used_hu": "EU KLEMS adatbázis szektorális szinten az EU-tagállamokra, 1995–2017; a CEE-6 vs. régebbi EU-15 összehasonlításra fókuszálva.",
-      "policy_relevance": "For Hungarian Ministry of Finance and MNB: the 'low labor share in CEE' often cited in political debates is partly a measurement/composition phenomenon, not pure exploitation or institutional weakness. Useful correction to casual narratives. Relevant for wage policy discussions and for framing comparisons with older EU members. Hungarian data with EU context.",
-      "policy_relevance_hu": "A magyar Pénzügyminisztériumnak és MNB-nek: a politikai vitákban gyakran idézett „alacsony bérhányad KKE-ben\" részben mérési/összetételi jelenség, nem tiszta kizsákmányolás vagy intézményi gyengeség. Hasznos korrekció a felületes narratívákhoz. Releváns a bérpolitikai vitákhoz és a régebbi EU-tagokkal való összehasonlítások kereteléséhez. Magyar adat EU-kontextussal.",
-      "topics": [
-        "labor-markets",
-        "firms-productivity",
-        "transition-postcommunist"
-      ],
-      "methods": [
-        "structural",
-        "descriptive-survey"
-      ],
-      "countries_studied": [
-        "HU",
-        "CEE",
-        "EU"
-      ],
-      "data_types": [
-        "macro-aggregate"
-      ],
-      "featured": false,
-      "added_at": "2026-04-20",
-      "last_reviewed_at": "2026-04-20",
-      "review_status": "ai-drafted",
-      "openalex_id": "W3027701166",
-      "policy_instruments": [
-        "bérterhek",
-        "employer social security contributions"
-      ]
-    },
-    {
-      "id": "konya-kreko-et-al-2021-ks",
+      "id": "konya-kreko-et-al-2021-ksz",
       "title": "A bérhányad alakulása Magyarországon és Európában",
       "authors": [
         "konya-istvan",
@@ -22249,50 +21946,14 @@
         "macro-aggregate"
       ],
       "featured": false,
-      "added_at": "2026-04-20",
-      "last_reviewed_at": "2026-04-20",
+      "added_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-23",
       "review_status": "ai-drafted",
       "openalex_id": "W3207475529",
       "policy_instruments": [
         "bérterhek",
         "employer social security contributions"
       ]
-    },
-    {
-      "id": "konya-kreko-et-al-2021-ksz",
-      "title": "A bérhányad alakulása Magyarországon és Európában",
-      "authors": [
-        "konya-istvan",
-        "Judit Krekó",
-        "Gábor Oblath"
-      ],
-      "publication_type": "article",
-      "journal": "Közgazdasági Szemle",
-      "year": 2021,
-      "volume": "68",
-      "issue": "10",
-      "pages": "1021-1054",
-      "doi": "10.18414/ksz.2021.10.1021",
-      "working_paper_series": null,
-      "url_published": "https://doi.org/10.18414/ksz.2021.10.1021",
-      "url_pdf": null,
-      "url_replication": null,
-      "abstract": "A tanulmány a bérhányad (a munkajövedelem hazai jövedelemhez viszonyított aránya) alakulását tárgyalja Magyarországon, régiós és európai összevetésben. A cikkben először részletesen ismertetjük a bérhányad különböző mérési kérdéseit és az ehhez kapcsolódó problémákat és feltételezéseket. Ezután bemutatjuk a bérhányad fő mutatóinak alakulását először aggregált, majd szektorális szinten. Kitérünk az aggregált bérhányad mérése szempontjából problémát jelentő szektorok folyamataira, ilyen a mezőgazdaság, az ingatlanszektor és a közszféra. Ezután vizsgáljuk a relatív árak szerepét a bérhányadok országok közötti összehasonlításában. Összességében azt találjuk, hogy a különböző bérhányadmutatók meglehetősen eltérő képet festenek a magyarországi folyamatokról. A teljes bérhányad az 1995–2019-es időszakban érdemben csökkent, ezt azonban nagyrészt a munkaadók által fizetett társadalombiztosítási járulékok csökkenése magyarázza. A bérhányad reáljövedelmi részesedésként (jóléti mutatóként) való értelmezésekor pedig fontos figyelembe venni a fogyasztás GDP-hez viszonyított relatív árát is, amely különösen a fejlett és kevésbé fejlett gazdaságok közötti összehasonlítások eredményét befolyásolja.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
-      "featured": false,
-      "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W3207475529"
     },
     {
       "id": "konya-ohashi-2007-rie",
@@ -23209,55 +22870,6 @@
       "policy_instruments": [
         "disability-insurance earnings limit",
         "benefit phase-out design"
-      ]
-    },
-    {
-      "id": "kreko-telegdy-2025-e",
-      "title": "The effects of a disability employment quota when compliance is cheaper than defiance",
-      "authors": [
-        "Judit Krekó",
-        "telegdy-almos"
-      ],
-      "publication_type": "article",
-      "journal": "Economica",
-      "year": 2025,
-      "volume": "92",
-      "issue": "366",
-      "pages": "614-643",
-      "doi": "10.1111/ecca.12568",
-      "working_paper_series": null,
-      "url_published": "https://doi.org/10.1111/ecca.12568",
-      "url_pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ecca.12568",
-      "url_replication": null,
-      "abstract": "Abstract This paper evaluates the effects of the Hungarian disability employment quota, which requires firms over a size threshold to employ individuals with disabilities or pay a non‐compliance tax. In 2010, the tax was raised from very low levels to 170% of the minimum wage cost associated with meeting the quota. We employ a regression discontinuity design on firm‐level data to estimate the effects of the policy and provide a lower‐bound estimate to account for the potential bias resulting from firms bunching below the threshold. Firms respond to the quota by hiring 0.24–0.29 additional workers with disabilities, with a lower bound estimate of 0.12–0.17. However, about two‐thirds of the quota is not fulfilled, which is puzzling as the tax is higher than the minimum wage cost of a worker with disabilities. Our model shows that high hiring costs associated with employing individuals with disabilities might be an important factor behind this anomaly. We test this hypothesis by showing that the effect is weaker in regions with a low share of individuals with disabilities, implying that without adequate policies targeting the removal of supply‐side barriers to the employment of people with disabilities, even strong demand‐side financial incentives cannot achieve their goals.",
-      "summary_en": "Hungary's disability employment quota requires firms above a size threshold to employ disabled workers or pay a non-compliance tax. The 2010 tax increase (to 170% of minimum-wage cost) raised the stakes. This paper uses a regression-discontinuity design on firm-level data to evaluate the policy. Firms do hire more disabled workers (0.24–0.29 additional, lower bound 0.12–0.17), but two-thirds of the quota is not fulfilled. The puzzle: the tax is higher than the wage cost of compliance. The authors' model suggests high non-wage hiring costs (workplace adaptation, information) explain why firms prefer paying the tax.",
-      "summary_hu": null,
-      "data_used": "Hungarian administrative firm-level data around the 2010 disability-quota tax reform. Regression-discontinuity at the firm-size threshold.",
-      "data_used_hu": null,
-      "policy_relevance": "Directly actionable for Hungarian disability-policy design (EMMI). The paper identifies non-wage hiring costs as the binding constraint on quota compliance; implication is to subsidise workplace-adaptation and matching services rather than (only) raise the tax further. Relevant to ongoing reform debates. Caveat: reform-specific; labour-market tightness has changed since 2010.",
-      "policy_relevance_hu": null,
-      "topics": [
-        "labor-markets",
-        "inequality-welfare"
-      ],
-      "methods": [
-        "rd",
-        "structural"
-      ],
-      "countries_studied": [
-        "HU"
-      ],
-      "data_types": [
-        "admin-firm"
-      ],
-      "featured": false,
-      "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "ai-drafted",
-      "openalex_id": "W4406807793",
-      "policy_instruments": [
-        "disability-quota tax",
-        "workplace-adaptation subsidies"
       ]
     },
     {
@@ -24322,55 +23934,6 @@
       "last_reviewed_at": "2026-04-19",
       "review_status": "ai-drafted",
       "openalex_id": "W4414511355"
-    },
-    {
-      "id": "lindner-harasztosi-2019-aer",
-      "title": "Who Pays for the Minimum Wage?",
-      "authors": [
-        "lindner-attila",
-        "harasztosi-peter"
-      ],
-      "publication_type": "article",
-      "journal": "American Economic Review",
-      "year": 2019,
-      "volume": "109",
-      "issue": "8",
-      "pages": "2693-2727",
-      "doi": "10.1257/aer.20171445",
-      "working_paper_series": null,
-      "url_published": "https://www.aeaweb.org/articles?id=10.1257/aer.20171445",
-      "url_pdf": "https://www.aeaweb.org/articles?id=10.1257/aer.20171445",
-      "url_replication": null,
-      "abstract": "We show that a minimum wage shock generated large positive wage spillovers and small disemployment effects. Firms responded to the minimum wage by raising output prices — even raising prices on products purchased more heavily by higher-income consumers — and by modestly reducing employment. Using firm-level data we find that the minimum wage increase led to a 2 percent increase in the wage bill at the average firm, a 1.5 percent increase in output prices, and a modest reduction in employment. Our findings suggest that a minimum wage-induced increase in labor costs is passed through to consumers rather than absorbed through lower firm profitability or reduced employment.",
-      "summary_en": "When Hungary nearly doubled its minimum wage between 2000 and 2002, what happened to workers and firms? Using detailed data on nearly every Hungarian firm, this paper shows that most of the extra labor cost was passed on to customers through slightly higher prices, not absorbed by layoffs or lower firm profits. Employment fell only modestly, and mostly at firms where workers had little bargaining power. The paper is widely cited as evidence that moderate minimum-wage hikes in a middle-income economy can raise low-wage workers' pay without causing large job losses.",
-      "summary_hu": "Amikor Magyarország 2000 és 2002 között majdnem megkétszerezte a minimálbért, mi történt a munkavállalókkal és a vállalatokkal? Gyakorlatilag minden magyar vállalat részletes adatait felhasználva a tanulmány azt mutatja, hogy a többletköltség nagy része kissé magasabb fogyasztói árakon keresztül a vevőkre hárult, nem pedig elbocsátásokon vagy a vállalati profiton keresztül. A foglalkoztatás csak szerényen csökkent, főként olyan vállalatoknál, ahol a munkavállalók alkupozíciója gyenge volt. A tanulmány széles körben idézett bizonyíték arra, hogy egy mérsékelt minimálbér-emelés egy közepes jövedelmű országban emelheti az alacsony keresetűek bérét anélkül, hogy nagymértékű munkahelyveszteséget okozna.",
-      "data_used": "Linked Hungarian administrative data: the wage survey (HCSO structure of earnings) for ~800,000 workers annually and the corporate tax register (NAV) covering all Hungarian firms with ≥5 employees, 1999–2007. Firm-level outcomes include employment, wages, sales, prices, and profitability.",
-      "data_used_hu": "Összekapcsolt magyar adminisztratív adatok: a bértarifa felvétel (KSH) évi ~800 000 munkavállalóra, valamint a vállalati adónyilvántartás (NAV) minden 5 vagy több főt foglalkoztató magyar vállalatra, 1999–2007. A vállalati szintű kimeneti változók magukban foglalják a foglalkoztatást, béreket, árbevételt, árakat és jövedelmezőséget.",
-      "policy_relevance": "For Hungarian policymakers considering minimum wage increases: the evidence suggests moderate increases can achieve their redistributive goals without major employment costs, but the costs show up in prices — meaning the policy implicitly transfers from consumers (including lower-income ones) to low-wage workers. This is a quasi-tax on consumption worth factoring into the policy design. The paper studies a period of strong aggregate demand; effects may differ in recessions. Relevant for: Ministry of Economy, ministry staff designing the annual minimum-wage negotiations.",
-      "policy_relevance_hu": "A minimálbér-emelést fontolóra vevő magyar döntéshozók számára: a bizonyítékok azt mutatják, hogy a mérsékelt emelések elérhetik az újraelosztási céljaikat jelentős foglalkoztatási költségek nélkül, de a költségek az árakban jelennek meg — ami azt jelenti, hogy a politika implicit módon a fogyasztóktól (beleértve az alacsonyabb jövedelműeket is) az alacsony bérű munkavállalók felé csoportosít át. Ez egy implicit fogyasztási adó, amit érdemes figyelembe venni a politika tervezésekor. A tanulmány egy erős aggregált keresletű időszakot vizsgál; recesszióban a hatások eltérőek lehetnek. Releváns: Gazdasági Minisztérium, éves minimálbér-tárgyalásokat tervező minisztériumi munkatársak.",
-      "topics": [
-        "labor-markets",
-        "firms-productivity"
-      ],
-      "methods": [
-        "diff-in-diff",
-        "panel-data"
-      ],
-      "countries_studied": [
-        "HU"
-      ],
-      "data_types": [
-        "admin-firm",
-        "admin-individual"
-      ],
-      "featured": true,
-      "added_at": "2026-04-19",
-      "last_reviewed_at": "2026-04-19",
-      "review_status": "ai-drafted",
-      "policy_instruments": [
-        "minimálbér",
-        "minimum wage"
-      ]
     },
     {
       "id": "lindner-reizer-2020-aejae",
@@ -27218,41 +26781,6 @@
       ]
     },
     {
-      "id": "szabo-kiss-2022-ks",
-      "title": "Különböznek-e a roma és nem roma diákok nem kognitív képességeikben?",
-      "authors": [
-        "szabo-morvai-agnes",
-        "kiss-hubert"
-      ],
-      "publication_type": "article",
-      "journal": "Közgazdasági Szemle",
-      "year": 2022,
-      "volume": "69",
-      "issue": "11",
-      "pages": "1433-1456",
-      "doi": "10.18414/ksz.2022.11.1433",
-      "working_paper_series": null,
-      "url_published": "https://doi.org/10.18414/ksz.2022.11.1433",
-      "url_pdf": null,
-      "url_replication": null,
-      "abstract": "Tanulmányunk azt vizsgálja, hogy a roma és nem roma diákok különböznek-e három, az érzelmi stabilitáshoz kötődő nem kognitív képességben: kontrollhelyben, önbecsülésben és depresszióban. Három fő eredményünk van. Egyrészt, a nyers mutatószámok alapján a vizsgált nem kognitív képességek terén a magyarországi roma diákok átlagosan rosszabbul állnak, mint nem roma társaik, bár a különbség az önbecsülésben nem szignifikáns. Másrészt, a roma és nem roma diákok közötti különbségek a nem kognitív képességekben jóval kisebbek, mint a kognitív képességben. Harmadrészt, a különbséget teljes mértékben megmagyarázzák az otthoni és az iskolai környezettel kapcsolatos változók. Pontosabban, a kontrollhelyben és a depresszióban fennálló szignifikáns nyers különbség eltűnik, amikor figyelembe vesszük az otthoni környezettel kapcsolatos tényezőket. Bár a nyers adatok alapján a nem roma diákok önbecsülése (nem szignifikánsan) magasabb, az otthoni és az iskolai környezetet figyelembe véve a roma diákok rendelkeznek szignifikánsan magasabb önbecsüléssel. Az eredmények azt sugallják, hogy az otthoni környezet javítására irányuló szakpolitika csökkentheti a roma és nem roma diákok között a nem kognitív képességekben talált különbségeket.*&#13;\\nJournal of Economic Literature (JEL) kód: D01, D64, D91.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
-      "featured": false,
-      "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4309181473"
-    },
-    {
       "id": "szabo-kiss-2022-ksz",
       "title": "Különböznek-e a roma és nem roma diákok nem kognitív képességeikben?",
       "authors": [
@@ -27333,53 +26861,6 @@
       "policy_instruments": [
         "non-cognitive-skill interventions",
         "effort-focused educational programmes"
-      ]
-    },
-    {
-      "id": "szabo-kiss-2023-ee",
-      "title": "Locus of control, educational attainment, and college aspirations: the relative role of effort and expectations",
-      "authors": [
-        "szabo-morvai-agnes",
-        "kiss-hubert"
-      ],
-      "publication_type": "article",
-      "journal": "Education Economics",
-      "year": 2023,
-      "volume": "32",
-      "issue": "6",
-      "pages": "862-881",
-      "doi": "10.1080/09645292.2023.2273220",
-      "working_paper_series": null,
-      "url_published": "https://doi.org/10.1080/09645292.2023.2273220",
-      "url_pdf": null,
-      "url_replication": null,
-      "abstract": "We study the relationship between locus of control and both educational attainment and college aspirations in adolescence, focusing on the potential channels through which locus of control may influence these outcomes. Even after controlling for a comprehensive set of socio-demographic factors and cognitive skills, there remains a strong correlation between locus of control, college aspirations, and attendance. We show that effort is an essential channel through which locus of control operates. Mediation analysis further reveals that this mechanism is more influential than future expectations in determining high-school graduation, college aspirations, and attendance.",
-      "summary_en": "Locus of control — the sense that outcomes depend on one's own effort — matters for educational attainment. This paper examines how it works. Using rich survey data on adolescents, the authors show that locus of control correlates strongly with college aspirations and attendance, even after controlling for cognitive ability and socio-demographic factors. Mediation analysis identifies effort as the key channel through which locus of control operates — more important than expectations about the future. A sharper empirical picture of a widely-discussed behavioural trait.",
-      "summary_hu": null,
-      "data_used": "Survey data on adolescent locus of control, cognitive skills, socio-demographic background, and educational outcomes. Mediation analysis to isolate effort vs expectations channels.",
-      "data_used_hu": null,
-      "policy_relevance": "For Hungarian education and social-mobility policy. The paper supports interventions building effort rather than expectations among disadvantaged adolescents. Relevant to Tanoda-type programmes and career-counselling design. Caveat: correlational; causal effects of locus-of-control interventions need experimental evidence.",
-      "policy_relevance_hu": null,
-      "topics": [
-        "education-skills",
-        "behavioral"
-      ],
-      "methods": [
-        "descriptive-survey"
-      ],
-      "countries_studied": [
-        "GLOBAL"
-      ],
-      "data_types": [
-        "survey"
-      ],
-      "featured": false,
-      "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "ai-drafted",
-      "openalex_id": "W4388938527",
-      "policy_instruments": [
-        "effort-focused educational interventions"
       ]
     },
     {
@@ -27977,42 +27458,6 @@
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2509923016"
-    },
-    {
-      "id": "sziklai-fleiner-et-al-2016-mp",
-      "title": "On the core and nucleolus of directed acyclic graph games",
-      "authors": [
-        "sziklai-balazs",
-        "fleiner-tamas",
-        "Tamás Solymosi"
-      ],
-      "publication_type": "article",
-      "journal": "Mathematical Programming",
-      "year": 2016,
-      "volume": "163",
-      "issue": "1-2",
-      "pages": "243-271",
-      "doi": "10.1007/s10107-016-1062-y",
-      "working_paper_series": null,
-      "url_published": "https://doi.org/10.1007/s10107-016-1062-y",
-      "url_pdf": null,
-      "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
-      "featured": false,
-      "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
       "review_status": "metadata-fetched",
       "openalex_id": "W2509923016"
     },
@@ -29508,7 +28953,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 52
+      "paper_count": 49
     },
     {
       "id": "education-skills",
@@ -29519,7 +28964,7 @@
       "policy_framing_en": "Relevant to: curriculum design, teacher policy, school tracking age, higher education funding, vocational training.",
       "policy_framing_hu": "Releváns: tantervfejlesztés, tanárpolitika, iskolai szelekció életkora, felsőoktatás finanszírozása, szakképzés.",
       "icon": "graduation-cap",
-      "paper_count": 36
+      "paper_count": 35
     },
     {
       "id": "health",
@@ -29563,7 +29008,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 72
+      "paper_count": 70
     },
     {
       "id": "innovation-digital",
@@ -29585,7 +29030,7 @@
       "policy_framing_en": "Relevant to: MNB policy, banking regulation, macroprudential tools, financial inclusion.",
       "policy_framing_hu": "Releváns: MNB-politika, bankszabályozás, makroprudenciális eszközök, pénzügyi befogadás.",
       "icon": "landmark",
-      "paper_count": 53
+      "paper_count": 52
     },
     {
       "id": "fiscal-tax",
@@ -29629,7 +29074,7 @@
       "policy_framing_en": "Relevant to: welfare system, anti-poverty programs, family allowances, gender-equal pay policies.",
       "policy_framing_hu": "Releváns: szociális rendszer, szegénység elleni programok, családi pótlékok, egyenlő bérezés.",
       "icon": "scale",
-      "paper_count": 68
+      "paper_count": 67
     },
     {
       "id": "political-economy",
@@ -29640,7 +29085,7 @@
       "policy_framing_en": "Relevant to: anti-corruption policy, public administration reform, EU affairs, electoral system design.",
       "policy_framing_hu": "Releváns: korrupcióellenes politika, közigazgatási reform, EU-ügyek, választási rendszer.",
       "icon": "building-2",
-      "paper_count": 34
+      "paper_count": 36
     },
     {
       "id": "transition-postcommunist",
@@ -29651,7 +29096,7 @@
       "policy_framing_en": "Relevant to: long-run diagnoses of the Hungarian and CEE economy, lessons from 30+ years of transition, institutional path dependence.",
       "policy_framing_hu": "Releváns: a magyar és KKE gazdaság hosszú távú diagnózisa, 30+ év rendszerváltásának tanulságai, intézményi útfüggőség.",
       "icon": "flag",
-      "paper_count": 13
+      "paper_count": 12
     },
     {
       "id": "behavioral",
@@ -29662,7 +29107,7 @@
       "policy_framing_en": "Relevant to: consumer protection, pension-default design, nudging, financial-education regulation, addictive-product regulation.",
       "policy_framing_hu": "Releváns: fogyasztóvédelem, nyugdíjalap-alapbeállítások, döntéslendítés (nudge), pénzügyi edukáció szabályozása, függőséget okozó termékek szabályozása.",
       "icon": "brain",
-      "paper_count": 45
+      "paper_count": 43
     },
     {
       "id": "industrial-organization",
@@ -29673,7 +29118,7 @@
       "policy_framing_en": "Relevant to: competition policy (GVH), merger review, platform regulation, auction design, sector-specific regulation.",
       "policy_framing_hu": "Releváns: versenypolitika (GVH), fúziókontroll, platformszabályozás, aukciótervezés, ágazati szabályozás.",
       "icon": "network",
-      "paper_count": 28
+      "paper_count": 27
     },
     {
       "id": "macroeconomics",
@@ -29706,7 +29151,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 85
+      "paper_count": 87
     }
   ],
   "journals": [
@@ -30719,6 +30164,12 @@
       "field": "operations"
     },
     {
+      "short": "Omega",
+      "name": "Omega",
+      "tier": "B",
+      "field": "operations"
+    },
+    {
       "short": "JMkt",
       "name": "Journal of Marketing",
       "tier": "B",
@@ -30823,7 +30274,7 @@
   ],
   "counts": {
     "authors": 76,
-    "papers": 649,
+    "papers": 635,
     "topics": 19
   }
 }
