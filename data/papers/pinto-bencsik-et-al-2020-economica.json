@@ -19,19 +19,31 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We examine the effects of the 2016 and 2012 US presidential election outcomes on subjective wellbeing across party identification. We use Gallup data and a regression discontinuity approach, and focus primarily on evaluative (life satisfaction) and hedonic (positive and negative affect) indicators. We find that both elections had strong negative wellbeing effects on those who identified with the losing party, with little or no increase in wellbeing for those identifying with the winning party. The negative effects for the losing side were larger in 2016 than in 2012, by a factor of three on some indicators, and were driven mainly by women and middle‐income households. As such, both elections had a net negative wellbeing effect, but more so in 2016. Local voting patterns did not have a substantial wellbeing impact, nor did congressional elections taking place the same day. In 2016, the election also changed respondents’ perceptions about the economy, their financial status, and their community. After both elections, hedonic wellbeing gaps across parties typically dissipated within two weeks, but there was more persistence in evaluative wellbeing gaps, especially in expected life satisfaction. The latter gap persisted throughout 2017.",
-  "summary_en": null,
+  "summary_en": "Elections have winners and losers — and the losers feel it. This paper uses Gallup data around the 2012 and 2016 US presidential elections, with a regression-discontinuity around election day, to estimate well-being effects. Finding: losing-party identifiers experience substantial drops in life satisfaction and negative affect, while winning-party identifiers show little gain. Net wellbeing effect of both elections was negative, more so in 2016. Effects concentrated in women and middle-income households. A clean quantitative account of the political-polarisation costs of elections.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Gallup wellbeing data around 2012 and 2016 US presidential elections. Individual-level party-identification and life-satisfaction measurements. Regression-discontinuity around election day.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian political-economy analysis: the paper documents the wellbeing cost of polarised politics, particularly for the losing side. Relevant to thinking about civic-polarisation indicators and to discussions of electoral-system design. Caveat: US context; Hungarian political-polarisation dynamics are different. Hungary-specific replication would be informative.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "political-economy",
+    "behavioral"
+  ],
+  "methods": [
+    "rd"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2921533027"
+  "review_status": "ai-drafted",
+  "openalex_id": "W2921533027",
+  "policy_instruments": [
+    "civic-polarisation measurement"
+  ]
 }

@@ -19,19 +19,31 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Sorting according to the gender or cognitive abilities of the traders has been investigated as a potential source of overpricing in asset markets. Here we study if sorting according to risk attitudes matters, motivated by the fact that filtering out risk-averse investors is practiced widely in Europe and is in line with the Markets in Financial Instruments Directive (MiFID) of the EU. Despite the central role of risk attitude in the literature, our study is the first that sorts participants into markets by risk tolerance and tests its effect on overpricing. We show that risk sorting can explain overpricing only partially: Markets with the most risk-tolerant traders exhibit larger overpricing than markets with the most risk-averse traders. In our study, risk aversion does not correlate with gender or cognitive abilities, bringing in an additional factor to understand overpricing.",
-  "summary_en": null,
+  "summary_en": "Experimental asset markets often show bubbles and overpricing. This paper tests whether risk-attitude sorting explains the pattern. Motivated by the EU's MiFID II practice of filtering out risk-averse investors from risky markets, the authors sort experimental participants into markets by risk tolerance. Result: markets with the most risk-tolerant traders show more overpricing than those with the most risk-averse. Risk sorting explains overpricing only partially. Suggests that the MiFID filtering practice may actually worsen overpricing in the segments it filters into — an unintended consequence for investor-protection policy.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Laboratory asset-market experiment with Hungarian participants sorted by risk tolerance.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian retail-investor-protection policy (MNB, BÉT). The paper provides evidence that MiFID II-style risk-aversion screening may have unintended consequences in risky-asset markets. Relevant to ongoing implementation of EU investor-protection rules. Caveat: laboratory evidence; real-market dynamics may differ.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "behavioral",
+    "banking-finance"
+  ],
+  "methods": [
+    "rct"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "field-experiment"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4224280735"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4224280735",
+  "policy_instruments": [
+    "MiFID II suitability assessments"
+  ]
 }

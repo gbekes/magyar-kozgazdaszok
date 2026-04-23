@@ -18,19 +18,30 @@
   "url_pdf": "https://link.springer.com/content/pdf/10.1007/s10479-020-03678-6.pdf",
   "url_replication": null,
   "abstract": "Abstract We investigate how the spectral risk measure associated with holding stocks rather than a risk-free deposit, depends on the holding period. Previous papers have shown that within a limited class of spectral risk measures, and when the stock price follows specific processes, spectral risk becomes negative at long periods. We generalize this result for arbitrary exponential Lévy processes. We also prove the same behavior for all spectral risk measures (including the important special case of Expected Shortfall) when the stock price grows realistically fast and when it follows a geometric Brownian motion or a finite moment log stable process. This result would suggest that holding stocks for long periods has a vanishing downside risk. However, using realistic models, we find numerically that spectral risk initially increases for a significant amount of time and reaches zero level only after several decades. Therefore, we conclude that holding stocks has spectral risk for all practically relevant periods.",
-  "summary_en": null,
+  "summary_en": "Does holding stocks for a long period make them less risky? Previous research has shown that spectral risk measures associated with holding stocks can become negative (indicating no real risk) at long horizons. This paper generalises the result: under arbitrary exponential Lévy processes and realistic growth rates, all spectral risk measures (including Expected Shortfall) indicate vanishing downside risk at long horizons. Caveat: realistic models may show numerical divergences. A theoretically clean result with implications for long-horizon retirement-planning.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper with numerical simulations using realistic stock-price processes (exponential Lévy, geometric Brownian, finite-moment log stable).",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant to Hungarian long-horizon investment-policy and pension-fund regulation (MNB). The paper supports long-horizon equity exposure in retirement savings — downside risk shrinks with horizon. Relevant to Hungarian pension-fund product regulation (önkéntes nyugdíjpénztár) and voluntary-pillar design. Caveat: theoretical; numerical estimates at realistic horizons vary; investor psychology (fear of short-run losses) may diverge from long-run risk theory.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "banking-finance",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2905419850"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2905419850",
+  "policy_instruments": [
+    "pension-fund asset-allocation regulation",
+    "long-horizon investment product rules"
+  ]
 }

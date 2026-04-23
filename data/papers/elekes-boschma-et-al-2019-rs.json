@@ -18,19 +18,33 @@
   "url_pdf": "https://www.tandfonline.com/doi/pdf/10.1080/00343404.2019.1596254?needAccess=true",
   "url_replication": null,
   "abstract": "This paper investigates the role of different types of firms in related and unrelated diversification in regions, in particular the extent to which foreign-owned firms induce structural change in the manufacturing capability base of 67 Hungarian regions between 2000 and 2009. Doing so, it connects more tightly the literatures of evolutionary economic geography and international business. The results indicate that foreign-owned firms deviate more from the region's average capability match than domestic-owned firms. However, this deviation is larger on the short run than in the long run, and more pronounced in peripheral regions and in the capital region.",
-  "summary_en": null,
+  "summary_en": "Foreign-owned firms can bring new technological capabilities to regions, but do they actually induce diversification? This paper analyses 67 Hungarian regions 2000–2009 in manufacturing. Results: foreign-owned firms deviate more from the region's average capability match than domestic firms — they are indeed agents of structural change. But the deviation is larger in the short run than in the long run (they eventually adapt to the region), and more pronounced in peripheral regions and in the capital. A detailed regional-level account of FDI's role in capability-based development.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian manufacturing firm data 2000–2009 by region (67 regions). Capability-match measures based on product-industry matching.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly relevant to Hungarian FDI strategy (HEPA, ITM, regional development agencies). The paper supports targeting FDI to peripheral regions to generate more diversification, and recognises that FDI-induced structural change is time-limited. Relevant to EU-cohesion-fund targeting. Caveat: data are 2000–2009; post-2010 FDI dynamics (automotive concentration, Chinese investment) differ.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "trade-fdi",
+    "firms-productivity",
+    "regional-urban"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2940864279"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2940864279",
+  "policy_instruments": [
+    "FDI regional targeting",
+    "capability-based industrial policy"
+  ]
 }

@@ -5477,20 +5477,27 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Salience theory has been successfully used to explain a wide range of empirical and experimental phenomena such as the Allais paradox, framing effect, the preference reversal phenomenon or the decoy and compromise effects. In this paper we show that salience theory carries a notable flaw and under certain circumstances it suggests that a salient thinker may prefer a dominated option even when a strictly dominant alternative is available to her. To solve this problem we propose a possible alteration of the theory and show how it accounts for the same phenomena as the salience theory.",
-      "summary_en": null,
+      "summary_en": "Salience theory explains many behavioural puzzles (Allais paradox, framing effects, preference reversals). But does it suffer from a theoretical flaw? This paper shows that under certain circumstances, salience theory predicts that a decision-maker could prefer a dominated option over a dominant one — a violation of basic rationality. The authors propose a fix and show the modified theory still explains the same behavioural phenomena. A useful technical repair to a widely-used behavioural model.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Primarily theoretical. Indirectly relevant to behavioural-economics applications in Hungarian consumer-protection analysis. Caveat: methodological; no direct policy application.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "behavioral",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "review_status": "ai-drafted",
       "openalex_id": "W3029511353"
     },
     {
@@ -7439,20 +7446,26 @@
       "url_pdf": "https://link.springer.com/content/pdf/10.1007/s10107-020-01527-9.pdf",
       "url_replication": null,
       "abstract": "Abstract The nucleolus offers a desirable payoff-sharing solution in cooperative games, thanks to its attractive properties—it always exists and lies in the core (if the core is non-empty), and it is unique. The nucleolus is considered as the most ‘stable’ solution in the sense that it lexicographically minimizes the dissatisfactions among all coalitions. Although computing the nucleolus is very challenging, the Kohlberg criterion offers a powerful method for verifying whether a solution is the nucleolus in relatively small games (i.e. with the number of players $$n \\le 15$$ <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mrow> <mml:mi>n</mml:mi> <mml:mo>≤</mml:mo> <mml:mn>15</mml:mn> </mml:mrow> </mml:math> ). This approach, however, becomes more challenging for larger games because of the need to form and check a criterion involving possibly exponentially large collections of coalitions, with each collection potentially of an exponentially large size. The aim of this work is twofold. First, we develop an improved version of the Kohlberg criterion that involves checking the ‘balancedness’ of at most $$(n-1)$$ <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mrow> <mml:mo>(</mml:mo> <mml:mi>n</mml:mi> <mml:mo>-</mml:mo> <mml:mn>1</mml:mn> <mml:mo>)</mml:mo> </mml:mrow> </mml:math> sets of coalitions. Second, we exploit these results and introduce a novel descent-based constructive algorithm to find the nucleolus efficiently. We demonstrate the performance of the new algorithms by comparing them with existing methods over different types of games. Our contribution also includes the first open-source code for computing the nucleolus for games of moderately large sizes.",
-      "summary_en": null,
+      "summary_en": "The nucleolus is a widely-used cooperative-game solution that always exists, lies in the core, and is unique. But computing it is hard. This paper tackles the computational problem: for games with up to ~15 players, the Kohlberg criterion works. For larger games, the paper develops new algorithmic approaches. A practical contribution for applying cooperative game theory at scale — important for kidney-exchange coordination, auction design, and similar mechanism-design problems.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical and algorithmic paper; computational-complexity analysis.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant to cooperative-game-theory applications in Hungarian mechanism design — kidney exchange, voting-power analysis, bankruptcy negotiation. The paper expands the range of games for which the nucleolus can actually be computed. Relevant to Bíró-group KRTK work. Caveat: worst-case computational bounds; practical instance difficulty varies.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "review_status": "ai-drafted",
       "openalex_id": "W2921104972"
     },
     {
@@ -7958,21 +7971,32 @@
       "url_pdf": "https://link.springer.com/content/pdf/10.1007/s10479-020-03678-6.pdf",
       "url_replication": null,
       "abstract": "Abstract We investigate how the spectral risk measure associated with holding stocks rather than a risk-free deposit, depends on the holding period. Previous papers have shown that within a limited class of spectral risk measures, and when the stock price follows specific processes, spectral risk becomes negative at long periods. We generalize this result for arbitrary exponential Lévy processes. We also prove the same behavior for all spectral risk measures (including the important special case of Expected Shortfall) when the stock price grows realistically fast and when it follows a geometric Brownian motion or a finite moment log stable process. This result would suggest that holding stocks for long periods has a vanishing downside risk. However, using realistic models, we find numerically that spectral risk initially increases for a significant amount of time and reaches zero level only after several decades. Therefore, we conclude that holding stocks has spectral risk for all practically relevant periods.",
-      "summary_en": null,
+      "summary_en": "Does holding stocks for a long period make them less risky? Previous research has shown that spectral risk measures associated with holding stocks can become negative (indicating no real risk) at long horizons. This paper generalises the result: under arbitrary exponential Lévy processes and realistic growth rates, all spectral risk measures (including Expected Shortfall) indicate vanishing downside risk at long horizons. Caveat: realistic models may show numerical divergences. A theoretically clean result with implications for long-horizon retirement-planning.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper with numerical simulations using realistic stock-price processes (exponential Lévy, geometric Brownian, finite-moment log stable).",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant to Hungarian long-horizon investment-policy and pension-fund regulation (MNB). The paper supports long-horizon equity exposure in retirement savings — downside risk shrinks with horizon. Relevant to Hungarian pension-fund product regulation (önkéntes nyugdíjpénztár) and voluntary-pillar design. Caveat: theoretical; numerical estimates at realistic horizons vary; investor psychology (fear of short-run losses) may diverge from long-run risk theory.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "banking-finance",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2905419850"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2905419850",
+      "policy_instruments": [
+        "pension-fund asset-allocation regulation",
+        "long-horizon investment product rules"
+      ]
     },
     {
       "id": "biro-2012-jope",
@@ -10961,21 +10985,30 @@
       "url_pdf": "https://doi.org/10.22574/jmid.2019.11.003",
       "url_replication": null,
       "abstract": "We tackle the problem of partitioning players into groups of fixed size, such as allocating eligible students to shared dormitory rooms. Each student submits preferences over the other individual students. We study several settings, which differ in the size of the rooms to be filled, the orderedness or completeness of the preferences, and the way of calculating the value of a coalition-based on the best or worst roommate in the coalition. In all cases, we determine the complexity of deciding the existence, and then finding a Pareto optimal assignment, and the complexity of verifying Pareto optimality for a given assignment.",
-      "summary_en": null,
+      "summary_en": "How do you partition students into shared rooms, optimally? This paper formalises the problem: players have preferences over others, rooms have fixed capacity, and you need to find a Pareto-optimal assignment. The authors characterise the complexity of deciding the existence of, finding, and verifying Pareto-optimal coalitions across multiple settings (different room sizes, different preference formats). A methodological contribution to assignment-problem complexity.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant to practical assignment-mechanism design in Hungarian institutional settings (university dormitories, refugee housing, shared-facility allocations). The paper informs which algorithms are feasible and which aren't. Caveat: worst-case complexity; real instances vary.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2982557180"
+      "review_status": "ai-drafted",
+      "openalex_id": "W2982557180",
+      "policy_instruments": [
+        "dormitory-assignment mechanisms"
+      ]
     },
     {
       "id": "csercsik-2022-enerecon",
@@ -13508,21 +13541,35 @@
       "url_pdf": "https://www.tandfonline.com/doi/pdf/10.1080/00343404.2019.1596254?needAccess=true",
       "url_replication": null,
       "abstract": "This paper investigates the role of different types of firms in related and unrelated diversification in regions, in particular the extent to which foreign-owned firms induce structural change in the manufacturing capability base of 67 Hungarian regions between 2000 and 2009. Doing so, it connects more tightly the literatures of evolutionary economic geography and international business. The results indicate that foreign-owned firms deviate more from the region's average capability match than domestic-owned firms. However, this deviation is larger on the short run than in the long run, and more pronounced in peripheral regions and in the capital region.",
-      "summary_en": null,
+      "summary_en": "Foreign-owned firms can bring new technological capabilities to regions, but do they actually induce diversification? This paper analyses 67 Hungarian regions 2000–2009 in manufacturing. Results: foreign-owned firms deviate more from the region's average capability match than domestic firms — they are indeed agents of structural change. But the deviation is larger in the short run than in the long run (they eventually adapt to the region), and more pronounced in peripheral regions and in the capital. A detailed regional-level account of FDI's role in capability-based development.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian manufacturing firm data 2000–2009 by region (67 regions). Capability-match measures based on product-industry matching.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly relevant to Hungarian FDI strategy (HEPA, ITM, regional development agencies). The paper supports targeting FDI to peripheral regions to generate more diversification, and recognises that FDI-induced structural change is time-limited. Relevant to EU-cohesion-fund targeting. Caveat: data are 2000–2009; post-2010 FDI dynamics (automotive concentration, Chinese investment) differ.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "trade-fdi",
+        "firms-productivity",
+        "regional-urban"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-firm"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2940864279"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2940864279",
+      "policy_instruments": [
+        "FDI regional targeting",
+        "capability-based industrial policy"
+      ]
     },
     {
       "id": "elliott-lieli-2013-joem",
@@ -18027,20 +18074,26 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "In cooperative games, the coalition structure core is, despite its potential emptiness, one of the most popular solutions. While it is a fundamentally static concept, the consideration of a sequential extension of the underlying dominance correspondence gave rise to a selection of non-empty generalizations. Among these, the payoff-equivalence minimal dominant set and the myopic stable set are defined by a similar set of conditions. We identify some problems with the payoff-equivalence minimal dominant set and propose an appropriate reformulation called the minimal dominant set. We show that replacing asymptotic external stability by sequential weak dominance leaves the myopic stable set unaffected. The myopic stable set is therefore equivalent to the minimal dominant set.",
-      "summary_en": null,
+      "summary_en": "Cooperative-game theory has many proposed solutions to coalition formation. This paper clarifies the relationship between two competing ones: the minimal dominant set and the myopic stable set. The paper identifies problems with the payoff-equivalence minimal dominant set, proposes a reformulation, and shows the reformulated version is equivalent to the myopic stable set. A careful technical unification of competing solution concepts — useful for applied researchers choosing among them.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Foundational cooperative-game-theory contribution. Indirect relevance to Hungarian applications of cooperative game theory in mechanism design (kidney exchange, voting-power analysis). Caveat: highly theoretical; applied payoffs depend on specific policy context.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "review_status": "ai-drafted",
       "openalex_id": "W3026902186"
     },
     {
@@ -19651,21 +19704,35 @@
       "url_pdf": "https://link.springer.com/content/pdf/10.1007/s11187-019-00235-9.pdf",
       "url_replication": null,
       "abstract": "Abstract It is generally acknowledged that in order to have access to locally accumulated industrial knowledge, firms have to collaborate and take part in cluster knowledge networks. This study argues that the inherited capabilities of spinoff enable them to cooperate and exchange knowledge more easily and to gain more from positive knowledge externalities in clusters. The basis of the analysis is a relational dataset on a printing and paper product cluster in Hungary, and I use exponential random graph models to explain the formation of knowledge ties. I demonstrate that besides geographical proximity, ownership similarity and network structural effects, being a spinoff company enhances tie formation in the local network. Results suggest that spinoffs are indeed more likely to collaborate and take advantage of knowledge concentration.",
-      "summary_en": null,
+      "summary_en": "Firms in industrial clusters collaborate, but who actually connects most easily? This paper studies spinoff firms — newly-founded firms whose founders came from existing cluster companies. Using data on a Hungarian printing-and-paper-products cluster, the authors fit exponential random graph models to explain knowledge-tie formation. Beyond standard factors like geographic proximity, ownership similarity, and network structure, being a spinoff significantly enhances tie formation. Inherited capabilities from the founding firm give spinoffs a head start in cluster networks.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Relational dataset on a Hungarian printing-and-paper-products cluster. Exponential random graph models of tie formation.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian cluster-policy and entrepreneurship-support design (NRDI Office, regional development agencies). The paper supports spinoff-encouraging incubation policies — spinoffs connect to cluster networks more easily and can amplify productivity spillovers. Relevant to technology-parks and innovation-district design. Caveat: specific Hungarian cluster; effects in different industries may differ.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "regional-urban",
+        "innovation-digital",
+        "firms-productivity"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2965484183"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2965484183",
+      "policy_instruments": [
+        "spinoff-incubation programmes",
+        "cluster-innovation policy"
+      ]
     },
     {
       "id": "juhasz-elekes-et-al-2016-ks",
@@ -20693,21 +20760,35 @@
       "url_pdf": "https://link.springer.com/content/pdf/10.1007/s10683-020-09646-y.pdf",
       "url_replication": null,
       "abstract": "Abstract In a Diamond–Dybvig type model of financial intermediation, we allow depositors to announce at a positive cost to subsequent depositors that they keep their funds deposited in the bank. Theoretically, the mere availability of public announcements (and not its use) ensures that no bank run is the unique equilibrium outcome. Multiple equilibria—including bank run—exist without such public announcements. We test the theoretical results in the lab and find a widespread use of announcements, which we interpret as an attempt to coordinate on the no bank run outcome. Withdrawal rates in general are lower in information sets that contain announcements.",
-      "summary_en": null,
+      "summary_en": "In Diamond-Dybvig bank-run models, multiple equilibria exist — including the bad run equilibrium. Can depositors avoid runs by signalling their willingness to stay? This paper allows depositors to pay a small cost to publicly announce that they're keeping their money in the bank. Theoretically, the mere availability of public announcements (not even their use) is enough to ensure the no-run equilibrium is unique. The authors test the prediction in the lab — and find widespread use of announcements. Withdrawal rates are lower when announcements are available. A clean theoretical and experimental contribution to bank-run prevention.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical Diamond-Dybvig model extended with announcement mechanism; laboratory experiment with subjects making withdrawal decisions with and without announcement availability.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant to Hungarian deposit-insurance and financial-stability policy (MNB, OBA). The paper supports transparency mechanisms — ways for depositors to see that others are staying put — as run-prevention tools. Relevant to crisis-communication protocols and to deposit-insurance system design. Caveat: laboratory evidence; real-depositor behaviour depends on trust in the public-announcement mechanism itself.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "behavioral"
+      ],
+      "methods": [
+        "theory",
+        "rct"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
+      "data_types": [
+        "field-experiment"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W3006475307"
+      "review_status": "ai-drafted",
+      "openalex_id": "W3006475307",
+      "policy_instruments": [
+        "deposit-insurance design",
+        "bank-run transparency mechanisms"
+      ]
     },
     {
       "id": "kiss-koczy-et-al-2022-jbee",
@@ -20780,21 +20861,33 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Sorting according to the gender or cognitive abilities of the traders has been investigated as a potential source of overpricing in asset markets. Here we study if sorting according to risk attitudes matters, motivated by the fact that filtering out risk-averse investors is practiced widely in Europe and is in line with the Markets in Financial Instruments Directive (MiFID) of the EU. Despite the central role of risk attitude in the literature, our study is the first that sorts participants into markets by risk tolerance and tests its effect on overpricing. We show that risk sorting can explain overpricing only partially: Markets with the most risk-tolerant traders exhibit larger overpricing than markets with the most risk-averse traders. In our study, risk aversion does not correlate with gender or cognitive abilities, bringing in an additional factor to understand overpricing.",
-      "summary_en": null,
+      "summary_en": "Experimental asset markets often show bubbles and overpricing. This paper tests whether risk-attitude sorting explains the pattern. Motivated by the EU's MiFID II practice of filtering out risk-averse investors from risky markets, the authors sort experimental participants into markets by risk tolerance. Result: markets with the most risk-tolerant traders show more overpricing than those with the most risk-averse. Risk sorting explains overpricing only partially. Suggests that the MiFID filtering practice may actually worsen overpricing in the segments it filters into — an unintended consequence for investor-protection policy.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Laboratory asset-market experiment with Hungarian participants sorted by risk tolerance.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian retail-investor-protection policy (MNB, BÉT). The paper provides evidence that MiFID II-style risk-aversion screening may have unintended consequences in risky-asset markets. Relevant to ongoing implementation of EU investor-protection rules. Caveat: laboratory evidence; real-market dynamics may differ.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "behavioral",
+        "banking-finance"
+      ],
+      "methods": [
+        "rct"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "field-experiment"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4224280735"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4224280735",
+      "policy_instruments": [
+        "MiFID II suitability assessments"
+      ]
     },
     {
       "id": "kiss-rodriguez-lara-et-al-2012-jomca",
@@ -22167,21 +22260,36 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "The paper studies the labor share among countries of the European Union, with a particular attention to the newer member states of Central and Eastern Europe (CEEU). We find that CEEU countries typically have lower labor shares than older EU member states, both in the aggregate and at the sectoral level. Structural change, while quite pronounced among the CEEU economies, plays only a minor role in the evolution of the labor share. The exception is agriculture, which for some countries has a sizable impact on the level and dynamics of the labor share - partly because of important measurement problems. We also find that a significant part of the difference in conventionally measured labor shares between the more developed EU countries and less developed CEEU countries can be attributed to differences in relative prices. This is consistent with a productivity-based explanation: we show that a simple, calibrated two-sector model with sectoral productivity differentials can explain 36–71% of cross-country variations in the non-agricultural labor share.",
-      "summary_en": null,
+      "summary_en": "Labour shares — the fraction of national income going to workers rather than capital — differ across EU countries. This paper documents and analyses the pattern, paying special attention to Central and Eastern European (CEEU) countries. Main findings: CEEU countries typically have lower labour shares than older EU members, both aggregate and sectoral. Structural change, though pronounced in CEEU, plays only a minor role. Agriculture is an exception — its role in some countries matters significantly. A significant part of the cross-country difference in measured labour shares comes from measurement issues in CEEU.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "EU country-sector panel data on labour share, output, and employment, with particular attention to Central and Eastern European economies.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian labour-share analysis and tax-policy debates (MNB, Pénzügyminisztérium). The paper provides nuance: Hungary's lower labour share vs. Western Europe is partly measurement, partly real. Relevant to tax-policy choice between labour and capital. Caveat: measurement adjustments have not been universally adopted; the cross-country comparison is sensitive to methodology.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "labor-markets",
+        "inequality-welfare",
+        "macroeconomics"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "EU",
+        "HU"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W3027701166"
+      "review_status": "ai-drafted",
+      "openalex_id": "W3027701166",
+      "policy_instruments": [
+        "labour-capital tax balance",
+        "labour-share measurement standards"
+      ]
     },
     {
       "id": "konya-kreko-et-al-2020-em",
@@ -26108,21 +26216,33 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We examine the effects of the 2016 and 2012 US presidential election outcomes on subjective wellbeing across party identification. We use Gallup data and a regression discontinuity approach, and focus primarily on evaluative (life satisfaction) and hedonic (positive and negative affect) indicators. We find that both elections had strong negative wellbeing effects on those who identified with the losing party, with little or no increase in wellbeing for those identifying with the winning party. The negative effects for the losing side were larger in 2016 than in 2012, by a factor of three on some indicators, and were driven mainly by women and middle‐income households. As such, both elections had a net negative wellbeing effect, but more so in 2016. Local voting patterns did not have a substantial wellbeing impact, nor did congressional elections taking place the same day. In 2016, the election also changed respondents’ perceptions about the economy, their financial status, and their community. After both elections, hedonic wellbeing gaps across parties typically dissipated within two weeks, but there was more persistence in evaluative wellbeing gaps, especially in expected life satisfaction. The latter gap persisted throughout 2017.",
-      "summary_en": null,
+      "summary_en": "Elections have winners and losers — and the losers feel it. This paper uses Gallup data around the 2012 and 2016 US presidential elections, with a regression-discontinuity around election day, to estimate well-being effects. Finding: losing-party identifiers experience substantial drops in life satisfaction and negative affect, while winning-party identifiers show little gain. Net wellbeing effect of both elections was negative, more so in 2016. Effects concentrated in women and middle-income households. A clean quantitative account of the political-polarisation costs of elections.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Gallup wellbeing data around 2012 and 2016 US presidential elections. Individual-level party-identification and life-satisfaction measurements. Regression-discontinuity around election day.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian political-economy analysis: the paper documents the wellbeing cost of polarised politics, particularly for the losing side. Relevant to thinking about civic-polarisation indicators and to discussions of electoral-system design. Caveat: US context; Hungarian political-polarisation dynamics are different. Hungary-specific replication would be informative.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "political-economy",
+        "behavioral"
+      ],
+      "methods": [
+        "rd"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2921533027"
+      "review_status": "ai-drafted",
+      "openalex_id": "W2921533027",
+      "policy_instruments": [
+        "civic-polarisation measurement"
+      ]
     },
     {
       "id": "podruzsik-pollmann-2018-wp",
@@ -27463,21 +27583,33 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We study the relationship between locus of control and both educational attainment and college aspirations in adolescence, focusing on the potential channels through which locus of control may influence these outcomes. Even after controlling for a comprehensive set of socio-demographic factors and cognitive skills, there remains a strong correlation between locus of control, college aspirations, and attendance. We show that effort is an essential channel through which locus of control operates. Mediation analysis further reveals that this mechanism is more influential than future expectations in determining high-school graduation, college aspirations, and attendance.",
-      "summary_en": null,
+      "summary_en": "Locus of control — the sense that outcomes depend on one's own effort — matters for educational attainment. This paper examines how it works. Using rich survey data on adolescents, the authors show that locus of control correlates strongly with college aspirations and attendance, even after controlling for cognitive ability and socio-demographic factors. Mediation analysis identifies effort as the key channel through which locus of control operates — more important than expectations about the future. A sharper empirical picture of a widely-discussed behavioural trait.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Survey data on adolescent locus of control, cognitive skills, socio-demographic background, and educational outcomes. Mediation analysis to isolate effort vs expectations channels.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian education and social-mobility policy. The paper supports interventions building effort rather than expectations among disadvantaged adolescents. Relevant to Tanoda-type programmes and career-counselling design. Caveat: correlational; causal effects of locus-of-control interventions need experimental evidence.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "education-skills",
+        "behavioral"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
+      "data_types": [
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4388938527"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4388938527",
+      "policy_instruments": [
+        "effort-focused educational interventions"
+      ]
     },
     {
       "id": "szabo-lovasz-2023-ee",
@@ -28735,21 +28867,34 @@
       "url_pdf": "https://link.springer.com/content/pdf/10.1007/s10961-019-09758-5.pdf",
       "url_replication": null,
       "abstract": "Abstract Inter-firm mobility of inventors is a major source of embodied knowledge transfer and receiving firms enjoy additional benefits from the collaboration networks of mobile inventors. However, there is still limited understanding on how the firm can maximize the impact of incoming inventors and what structure of co-inventor networks is the most beneficial for that. To answer this question, we construct a weighted and time-decayed co-inventor network from all IT-related patents in the harmonized OECD PATSTAT 1977–2010 database and analyze events of inter-firm inventor mobility. We look at the future impact of firm innovation and isolate the effect of mobile inventors’ network characteristics from the characteristics of the collaboration network in the receiving firm. Our results imply that high-impact innovations are produced if the firm hires broker inventors who have diverse networks and thus has the potential to channel a wide pool of knowledge into the firm. We find evidence that cohesive networks within the firm, measured by small world characteristics, exaggerate the effect of incoming brokers and high-impact inventors.",
-      "summary_en": null,
+      "summary_en": "When inventors move between firms, they bring their own knowledge — and their co-inventor network. What structure of incoming network produces the most high-impact innovation at the receiving firm? This paper constructs a weighted, time-decayed co-inventor network from OECD PATSTAT IT-patent data 1977–2010 and examines inter-firm mobility events. The analysis isolates mobile inventors' network characteristics from receiving-firm characteristics, identifying specific network features (diversity, central position) that predict high-impact innovation. Useful for understanding inventor-mobility policies.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "OECD PATSTAT patent database 1977–2010. Weighted time-decayed co-inventor network and inter-firm inventor-mobility events in IT sectors.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian innovation-policy design (NRDI Office, ITM). The paper supports policies facilitating inventor mobility across firms — particularly mobility of inventors with diverse, central network positions. Relevant to Hungarian patent policy and to EU inventor-mobility programmes. Caveat: IT-focused; other sectors may have different network-impact relationships.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "innovation-digital",
+        "labor-markets"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
+      "data_types": [
+        "admin-firm"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2986538065"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2986538065",
+      "policy_instruments": [
+        "inventor-mobility support",
+        "patent-policy incentives"
+      ]
     },
     {
       "id": "toth-toth-2000-wp",
@@ -29565,21 +29710,34 @@
       "url_pdf": "https://link.springer.com/content/pdf/10.1007/s10198-019-01069-8.pdf",
       "url_replication": null,
       "abstract": "Our results suggest that the choice of value set largely influences the health state utility results in chronic diseases, and might have a significant impact on health policy decisions.",
-      "summary_en": null,
+      "summary_en": "The EQ-5D-3L instrument measures health-state utility for cost-effectiveness analysis. But the \"value set\" (which assigns utility to each state) can differ across countries. Does the choice matter for concrete policy decisions? This paper compares European, Polish, Slovenian, and British value sets on a Hungarian sample of patients with 18 chronic diseases. The conclusion: value-set choice substantially influences health-state utility results in chronic disease — and thus affects health-policy decisions. An important methodological caution for Hungarian cost-effectiveness analyses.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian sample of patients with 18 chronic diseases, evaluated against European, Polish, Slovenian, and British EQ-5D-3L value sets.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly relevant to Hungarian health-technology assessment (GYEMSZI, NEAK) and to drug-reimbursement decisions. The paper supports the development of a Hungarian-specific value set for EQ-5D-3L to avoid systematic biases from using foreign sets. Relevant to Hungarian HTA methodology reform. Caveat: chronic-disease focus; acute and preventive-care implications may differ.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "health",
+        "methods"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2945409559"
+      "review_status": "ai-drafted",
+      "openalex_id": "W2945409559",
+      "policy_instruments": [
+        "health-technology assessment methodology",
+        "Hungarian EQ-5D value-set development"
+      ]
     },
     {
       "id": "zrubka-hermann-et-al-2019-eujhe",
@@ -29631,7 +29789,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 48
+      "paper_count": 50
     },
     {
       "id": "education-skills",
@@ -29642,7 +29800,7 @@
       "policy_framing_en": "Relevant to: curriculum design, teacher policy, school tracking age, higher education funding, vocational training.",
       "policy_framing_hu": "Releváns: tantervfejlesztés, tanárpolitika, iskolai szelekció életkora, felsőoktatás finanszírozása, szakképzés.",
       "icon": "graduation-cap",
-      "paper_count": 34
+      "paper_count": 35
     },
     {
       "id": "health",
@@ -29653,7 +29811,7 @@
       "policy_framing_en": "Relevant to: healthcare system design, hospital payment, prevention programs, pharmaceutical policy, mental health services.",
       "policy_framing_hu": "Releváns: egészségügyi rendszer kialakítása, kórházi finanszírozás, prevenciós programok, gyógyszerpolitika, mentális szolgáltatások.",
       "icon": "heart-pulse",
-      "paper_count": 29
+      "paper_count": 30
     },
     {
       "id": "demographics-migration",
@@ -29675,7 +29833,7 @@
       "policy_framing_en": "Relevant to: EU trade policy, FDI promotion, export promotion, supply chain resilience, industrial policy.",
       "policy_framing_hu": "Releváns: EU kereskedelempolitika, FDI ösztönzés, exporttámogatás, ellátási láncok rugalmassága, iparpolitika.",
       "icon": "globe",
-      "paper_count": 36
+      "paper_count": 37
     },
     {
       "id": "firms-productivity",
@@ -29686,7 +29844,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 69
+      "paper_count": 71
     },
     {
       "id": "innovation-digital",
@@ -29697,7 +29855,7 @@
       "policy_framing_en": "Relevant to: R&D tax credits, digital strategy, AI policy, innovation agency design, university–industry linkages.",
       "policy_framing_hu": "Releváns: K+F adókedvezmények, digitális stratégia, MI-politika, innovációs ügynökségek, egyetem–ipar kapcsolatok.",
       "icon": "cpu",
-      "paper_count": 24
+      "paper_count": 26
     },
     {
       "id": "banking-finance",
@@ -29708,7 +29866,7 @@
       "policy_framing_en": "Relevant to: MNB policy, banking regulation, macroprudential tools, financial inclusion.",
       "policy_framing_hu": "Releváns: MNB-politika, bankszabályozás, makroprudenciális eszközök, pénzügyi befogadás.",
       "icon": "landmark",
-      "paper_count": 47
+      "paper_count": 50
     },
     {
       "id": "fiscal-tax",
@@ -29730,7 +29888,7 @@
       "policy_framing_en": "Relevant to: regional development funds, housing policy, transport investment, urban planning.",
       "policy_framing_hu": "Releváns: regionális fejlesztési alapok, lakáspolitika, közlekedési beruházások, városfejlesztés.",
       "icon": "building",
-      "paper_count": 26
+      "paper_count": 28
     },
     {
       "id": "energy-environment",
@@ -29752,7 +29910,7 @@
       "policy_framing_en": "Relevant to: welfare system, anti-poverty programs, family allowances, gender-equal pay policies.",
       "policy_framing_hu": "Releváns: szociális rendszer, szegénység elleni programok, családi pótlékok, egyenlő bérezés.",
       "icon": "scale",
-      "paper_count": 66
+      "paper_count": 67
     },
     {
       "id": "political-economy",
@@ -29763,7 +29921,7 @@
       "policy_framing_en": "Relevant to: anti-corruption policy, public administration reform, EU affairs, electoral system design.",
       "policy_framing_hu": "Releváns: korrupcióellenes politika, közigazgatási reform, EU-ügyek, választási rendszer.",
       "icon": "building-2",
-      "paper_count": 33
+      "paper_count": 34
     },
     {
       "id": "transition-postcommunist",
@@ -29785,7 +29943,7 @@
       "policy_framing_en": "Relevant to: consumer protection, pension-default design, nudging, financial-education regulation, addictive-product regulation.",
       "policy_framing_hu": "Releváns: fogyasztóvédelem, nyugdíjalap-alapbeállítások, döntéslendítés (nudge), pénzügyi edukáció szabályozása, függőséget okozó termékek szabályozása.",
       "icon": "brain",
-      "paper_count": 36
+      "paper_count": 41
     },
     {
       "id": "industrial-organization",
@@ -29807,7 +29965,7 @@
       "policy_framing_en": "Relevant to: long-run growth forecasting, macroeconomic modelling, sovereign-debt management, stabilisation policy design.",
       "policy_framing_hu": "Releváns: hosszú távú növekedés előrejelzés, makroökonómiai modellek, államadósság-kezelés, stabilizációs politika.",
       "icon": "line-chart",
-      "paper_count": 20
+      "paper_count": 21
     },
     {
       "id": "agriculture-food",
@@ -29829,7 +29987,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 76
+      "paper_count": 82
     }
   ],
   "journals": [

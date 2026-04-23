@@ -16,19 +16,33 @@
   "url_pdf": "https://link.springer.com/content/pdf/10.1007/s11187-019-00235-9.pdf",
   "url_replication": null,
   "abstract": "Abstract It is generally acknowledged that in order to have access to locally accumulated industrial knowledge, firms have to collaborate and take part in cluster knowledge networks. This study argues that the inherited capabilities of spinoff enable them to cooperate and exchange knowledge more easily and to gain more from positive knowledge externalities in clusters. The basis of the analysis is a relational dataset on a printing and paper product cluster in Hungary, and I use exponential random graph models to explain the formation of knowledge ties. I demonstrate that besides geographical proximity, ownership similarity and network structural effects, being a spinoff company enhances tie formation in the local network. Results suggest that spinoffs are indeed more likely to collaborate and take advantage of knowledge concentration.",
-  "summary_en": null,
+  "summary_en": "Firms in industrial clusters collaborate, but who actually connects most easily? This paper studies spinoff firms — newly-founded firms whose founders came from existing cluster companies. Using data on a Hungarian printing-and-paper-products cluster, the authors fit exponential random graph models to explain knowledge-tie formation. Beyond standard factors like geographic proximity, ownership similarity, and network structure, being a spinoff significantly enhances tie formation. Inherited capabilities from the founding firm give spinoffs a head start in cluster networks.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Relational dataset on a Hungarian printing-and-paper-products cluster. Exponential random graph models of tie formation.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian cluster-policy and entrepreneurship-support design (NRDI Office, regional development agencies). The paper supports spinoff-encouraging incubation policies — spinoffs connect to cluster networks more easily and can amplify productivity spillovers. Relevant to technology-parks and innovation-district design. Caveat: specific Hungarian cluster; effects in different industries may differ.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "regional-urban",
+    "innovation-digital",
+    "firms-productivity"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2965484183"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2965484183",
+  "policy_instruments": [
+    "spinoff-incubation programmes",
+    "cluster-innovation policy"
+  ]
 }

@@ -18,19 +18,33 @@
   "url_pdf": "https://link.springer.com/content/pdf/10.1007/s10683-020-09646-y.pdf",
   "url_replication": null,
   "abstract": "Abstract In a Diamond–Dybvig type model of financial intermediation, we allow depositors to announce at a positive cost to subsequent depositors that they keep their funds deposited in the bank. Theoretically, the mere availability of public announcements (and not its use) ensures that no bank run is the unique equilibrium outcome. Multiple equilibria—including bank run—exist without such public announcements. We test the theoretical results in the lab and find a widespread use of announcements, which we interpret as an attempt to coordinate on the no bank run outcome. Withdrawal rates in general are lower in information sets that contain announcements.",
-  "summary_en": null,
+  "summary_en": "In Diamond-Dybvig bank-run models, multiple equilibria exist — including the bad run equilibrium. Can depositors avoid runs by signalling their willingness to stay? This paper allows depositors to pay a small cost to publicly announce that they're keeping their money in the bank. Theoretically, the mere availability of public announcements (not even their use) is enough to ensure the no-run equilibrium is unique. The authors test the prediction in the lab — and find widespread use of announcements. Withdrawal rates are lower when announcements are available. A clean theoretical and experimental contribution to bank-run prevention.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical Diamond-Dybvig model extended with announcement mechanism; laboratory experiment with subjects making withdrawal decisions with and without announcement availability.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant to Hungarian deposit-insurance and financial-stability policy (MNB, OBA). The paper supports transparency mechanisms — ways for depositors to see that others are staying put — as run-prevention tools. Relevant to crisis-communication protocols and to deposit-insurance system design. Caveat: laboratory evidence; real-depositor behaviour depends on trust in the public-announcement mechanism itself.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "behavioral"
+  ],
+  "methods": [
+    "theory",
+    "rct"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
+  "data_types": [
+    "field-experiment"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3006475307"
+  "review_status": "ai-drafted",
+  "openalex_id": "W3006475307",
+  "policy_instruments": [
+    "deposit-insurance design",
+    "bank-run transparency mechanisms"
+  ]
 }

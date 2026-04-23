@@ -17,19 +17,25 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "In cooperative games, the coalition structure core is, despite its potential emptiness, one of the most popular solutions. While it is a fundamentally static concept, the consideration of a sequential extension of the underlying dominance correspondence gave rise to a selection of non-empty generalizations. Among these, the payoff-equivalence minimal dominant set and the myopic stable set are defined by a similar set of conditions. We identify some problems with the payoff-equivalence minimal dominant set and propose an appropriate reformulation called the minimal dominant set. We show that replacing asymptotic external stability by sequential weak dominance leaves the myopic stable set unaffected. The myopic stable set is therefore equivalent to the minimal dominant set.",
-  "summary_en": null,
+  "summary_en": "Cooperative-game theory has many proposed solutions to coalition formation. This paper clarifies the relationship between two competing ones: the minimal dominant set and the myopic stable set. The paper identifies problems with the payoff-equivalence minimal dominant set, proposes a reformulation, and shows the reformulated version is equivalent to the myopic stable set. A careful technical unification of competing solution concepts — useful for applied researchers choosing among them.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Foundational cooperative-game-theory contribution. Indirect relevance to Hungarian applications of cooperative game theory in mechanism design (kidney exchange, voting-power analysis). Caveat: highly theoretical; applied payoffs depend on specific policy context.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "review_status": "ai-drafted",
   "openalex_id": "W3026902186"
 }

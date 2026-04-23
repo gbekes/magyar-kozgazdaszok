@@ -18,19 +18,25 @@
   "url_pdf": "https://link.springer.com/content/pdf/10.1007/s10107-020-01527-9.pdf",
   "url_replication": null,
   "abstract": "Abstract The nucleolus offers a desirable payoff-sharing solution in cooperative games, thanks to its attractive properties—it always exists and lies in the core (if the core is non-empty), and it is unique. The nucleolus is considered as the most ‘stable’ solution in the sense that it lexicographically minimizes the dissatisfactions among all coalitions. Although computing the nucleolus is very challenging, the Kohlberg criterion offers a powerful method for verifying whether a solution is the nucleolus in relatively small games (i.e. with the number of players $$n \\le 15$$ <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mrow> <mml:mi>n</mml:mi> <mml:mo>≤</mml:mo> <mml:mn>15</mml:mn> </mml:mrow> </mml:math> ). This approach, however, becomes more challenging for larger games because of the need to form and check a criterion involving possibly exponentially large collections of coalitions, with each collection potentially of an exponentially large size. The aim of this work is twofold. First, we develop an improved version of the Kohlberg criterion that involves checking the ‘balancedness’ of at most $$(n-1)$$ <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mrow> <mml:mo>(</mml:mo> <mml:mi>n</mml:mi> <mml:mo>-</mml:mo> <mml:mn>1</mml:mn> <mml:mo>)</mml:mo> </mml:mrow> </mml:math> sets of coalitions. Second, we exploit these results and introduce a novel descent-based constructive algorithm to find the nucleolus efficiently. We demonstrate the performance of the new algorithms by comparing them with existing methods over different types of games. Our contribution also includes the first open-source code for computing the nucleolus for games of moderately large sizes.",
-  "summary_en": null,
+  "summary_en": "The nucleolus is a widely-used cooperative-game solution that always exists, lies in the core, and is unique. But computing it is hard. This paper tackles the computational problem: for games with up to ~15 players, the Kohlberg criterion works. For larger games, the paper develops new algorithmic approaches. A practical contribution for applying cooperative game theory at scale — important for kidney-exchange coordination, auction design, and similar mechanism-design problems.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical and algorithmic paper; computational-complexity analysis.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant to cooperative-game-theory applications in Hungarian mechanism design — kidney exchange, voting-power analysis, bankruptcy negotiation. The paper expands the range of games for which the nucleolus can actually be computed. Relevant to Bíró-group KRTK work. Caveat: worst-case computational bounds; practical instance difficulty varies.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "review_status": "ai-drafted",
   "openalex_id": "W2921104972"
 }
