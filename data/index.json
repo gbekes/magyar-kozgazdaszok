@@ -416,7 +416,7 @@
       "media_note": null,
       "review_status": "needs-verification",
       "openalex_id": "A5072365613",
-      "paper_count": 7
+      "paper_count": 8
     },
     {
       "id": "branyiczki-reka",
@@ -603,7 +603,7 @@
       "media_note": null,
       "review_status": "needs-verification",
       "openalex_id": "A5017662219",
-      "paper_count": 4
+      "paper_count": 5
     },
     {
       "id": "ertl-antal",
@@ -937,7 +937,7 @@
       "media_note": null,
       "review_status": "stub",
       "openalex_id": "A5077964171",
-      "paper_count": 8
+      "paper_count": 9
     },
     {
       "id": "janko-zsuzsanna",
@@ -1148,7 +1148,7 @@
       "media_note": null,
       "review_status": "needs-verification",
       "openalex_id": "A5061689420",
-      "paper_count": 27
+      "paper_count": 29
     },
     {
       "id": "koczy-laszlo",
@@ -1454,6 +1454,39 @@
       "paper_count": 10
     },
     {
+      "id": "lorincz-laszlo",
+      "name_en": "László Lőrincz",
+      "name_hu": "Lőrincz László",
+      "affiliations": [
+        {
+          "name": "Corvinus University of Budapest (NETI Lab) & KRTK Institute of Economics",
+          "role": null,
+          "start": null
+        }
+      ],
+      "website": null,
+      "email": null,
+      "repec_id": null,
+      "scholar_id": null,
+      "orcid": null,
+      "primary_fields": [
+        "labor-markets",
+        "regional-urban",
+        "innovation-digital"
+      ],
+      "bio_en": "László Lőrincz is a researcher at Corvinus University of Budapest (NETI Lab) and the KRTK Institute of Economics. His research is in social networks, labor mobility, and the geography of economic activity. His work has appeared in the Journal of Economic Geography, the Journal of Technology Transfer, and the European Journal of Population.",
+      "bio_hu": "Lőrincz László a Budapesti Corvinus Egyetem (NETI Lab) és a KRTK Közgazdaság-tudományi Intézet kutatója. Kutatási területe a szociális hálózatok, a munkaerő-mobilitás és a gazdasági tevékenységek földrajza. Munkái megjelentek a Journal of Economic Geographyben, a Journal of Technology Transferben és az European Journal of Populationben.",
+      "photo_url": null,
+      "qualifying_publication": null,
+      "deceased": false,
+      "died": null,
+      "open_to_media": false,
+      "media_note": null,
+      "review_status": "needs-verification",
+      "openalex_id": "A5007972350",
+      "paper_count": 5
+    },
+    {
       "id": "lychagin-sergey",
       "name_en": "Sergey Lychagin",
       "name_hu": "Lychagin Szergej",
@@ -1642,6 +1675,38 @@
       "paper_count": 4
     },
     {
+      "id": "peto-rita",
+      "name_en": "Rita Pető",
+      "name_hu": "Pető Rita",
+      "affiliations": [
+        {
+          "name": "KRTK Institute of Economics",
+          "role": null,
+          "start": null
+        }
+      ],
+      "website": "https://www.ritapeto.eu/",
+      "email": null,
+      "repec_id": null,
+      "scholar_id": null,
+      "orcid": null,
+      "primary_fields": [
+        "labor-markets",
+        "demographics-migration"
+      ],
+      "bio_en": "Rita Pető is a research fellow at the KRTK Institute of Economics. Her research is in labor economics, with a focus on gender, intergenerational mobility, and the changing nature of work. Her papers appear in the Journal of Population Economics. Homepage: ritapeto.eu.",
+      "bio_hu": "Pető Rita a KRTK Közgazdaság-tudományi Intézet kutatója. Kutatási területe a munkagazdaságtan, különös tekintettel a nem szerinti különbségekre, a generációk közötti mobilitásra és a munka természetének változására. Cikkei megjelentek a Journal of Population Economicsban.",
+      "photo_url": null,
+      "qualifying_publication": null,
+      "deceased": false,
+      "died": null,
+      "open_to_media": false,
+      "media_note": null,
+      "review_status": "needs-verification",
+      "openalex_id": "A5079422127",
+      "paper_count": 3
+    },
+    {
       "id": "podruzsik-szilard",
       "name_en": "Szilárd Podruzsik",
       "name_hu": "Podruzsik Szilárd",
@@ -1727,7 +1792,7 @@
       "qualifying_publication": null,
       "review_status": "needs-verification",
       "openalex_id": "A5087966108",
-      "paper_count": 10
+      "paper_count": 9
     },
     {
       "id": "schlotter-ildiko",
@@ -8777,7 +8842,7 @@
       "title": "Magyar adminisztratív munkáltatói-munkavállalói adatok",
       "authors": [
         "boza-istvan",
-        "Rita Pető",
+        "peto-rita",
         "Melinda Tir"
       ],
       "publication_type": "article",
@@ -9311,6 +9376,43 @@
       "last_reviewed_at": "2026-04-22",
       "review_status": "metadata-fetched",
       "openalex_id": "W4367321980"
+    },
+    {
+      "id": "bukowski-clark-et-al-2021-jpope",
+      "title": "Social Mobility and Political Regimes: Intergenerational Mobility in Hungary, 1949–2017",
+      "authors": [
+        "Paweł Bukowski",
+        "Gregory Clark",
+        "Attila Gáspár",
+        "peto-rita"
+      ],
+      "publication_type": "article",
+      "journal": "Journal of Population Economics",
+      "year": 2021,
+      "volume": "35",
+      "issue": "4",
+      "pages": "1551-1588",
+      "doi": "10.1007/s00148-021-00875-w",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1007/s00148-021-00875-w",
+      "url_pdf": "https://link.springer.com/content/pdf/10.1007/s00148-021-00875-w.pdf",
+      "url_replication": null,
+      "abstract": "This paper measures social mobility rates in Hungary during the period 1949 to 2017, using surnames to measure social status. In those years, there were two very different social regimes. The first was the Hungarian People's Republic (1949-1989), which was a communist regime with an avowed aim of favouring the working class. The second is the modern liberal democracy (1989-2017), which is a free-market economy. We find five surprising things. First, social mobility rates were low for both upper- and lower-class families during 1949-2017, with an underlying intergenerational status correlation of 0.6-0.8. Second, social mobility rates under communism were the same as in the subsequent capitalist regime. Third, the Romani minority throughout both periods showed even lower social mobility rates. Fourth, the descendants of the eighteenth-century noble class in Hungary were still significantly privileged in 1949 and later. And fifth, although social mobility rates did not change measurably during the transition, the composition of the political elite changed rapidly and sharply.",
+      "summary_en": null,
+      "summary_hu": null,
+      "data_used": null,
+      "data_used_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "methods": [],
+      "countries_studied": [],
+      "data_types": [],
+      "featured": false,
+      "added_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "metadata-fetched",
+      "openalex_id": "W3092913333"
     },
     {
       "id": "cai-szeidl-2017-qje",
@@ -10091,13 +10193,13 @@
       ]
     },
     {
-      "id": "csafordi-lorincz-et-al-2018-tjott",
+      "id": "csafordi-lorincz-et-al-2018-jtt",
       "title": "Productivity spillovers through labor flows: productivity gap, multinational experience and industry relatedness",
       "authors": [
         "Zsolt Csáfordi",
-        "László Lőrincz",
+        "lorincz-laszlo",
         "lengyel-balazs",
-        "Károly Kiss"
+        "kiss-hubert"
       ],
       "publication_type": "article",
       "journal": "The Journal of Technology Transfer",
@@ -10122,8 +10224,8 @@
       "countries_studied": [],
       "data_types": [],
       "featured": false,
-      "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
+      "added_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-23",
       "review_status": "metadata-fetched",
       "openalex_id": "W2808368687"
     },
@@ -18245,6 +18347,43 @@
       "openalex_id": "W3045303571"
     },
     {
+      "id": "ilyes-boza-et-al-2022-joeg",
+      "title": "How to enter high-opportunity places? The role of social contacts for residential mobility",
+      "authors": [
+        "ilyes-virag",
+        "boza-istvan",
+        "lorincz-laszlo",
+        "Rikard Eriksson"
+      ],
+      "publication_type": "article",
+      "journal": "Journal of Economic Geography",
+      "year": 2022,
+      "volume": "23",
+      "issue": "2",
+      "pages": "371-395",
+      "doi": "10.1093/jeg/lbac019",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1093/jeg/lbac019",
+      "url_pdf": "https://academic.oup.com/joeg/advance-article-pdf/doi/10.1093/jeg/lbac019/44753621/lbac019.pdf",
+      "url_replication": null,
+      "abstract": "The aim of this article is to analyze the contribution of social ties to moving to high-opportunity locations and assess whether their effect is more pronounced for low-income individuals as a compensation for economic resources. This is done by utilizing Swedish administrative data and by focusing on a wide range of relationships (observed directly or inferred from the data): close and distant family ties, former co-workers and university peers. For estimating the effect of social ties, we use linear probability models, where observed migration is regressed on individual-specific and target-specific characteristics. To account for the nonrandom sorting of movers between locations, we apply sending municipality–target municipality–occupation fixed effects. Our results suggest that there is a positive relationship between migration and the presence of links at given targets for all the examined contact types. The effects are even stronger if the targets are hard-to-reach municipalities (located in Stockholm County or a municipality with higher housing prices). We also demonstrate that, when moving to such opportunity-rich areas, ties to former co-workers and university peers are even more essential assets for those with limited resources. Furthermore, we show that direct help with housing through contacts is an existing factor that contributes to the effect of social networks on residential mobility. The results reinforce the idea that social ties may be of great help in reducing barriers to mobility and can be used to compensate for limited economic resources. We demonstrate the validity of our fixed-effect estimation strategy using a placebo contact approach.",
+      "summary_en": null,
+      "summary_hu": null,
+      "data_used": null,
+      "data_used_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "methods": [],
+      "countries_studied": [],
+      "data_types": [],
+      "featured": false,
+      "added_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "metadata-fetched",
+      "openalex_id": "W4284959352"
+    },
+    {
       "id": "ilyes-sebok-2020-ksz",
       "title": "Egyetemről a munkaerőpiacra. Felsőoktatási ismeretségek hatása a munkaerőpiaci kilátásokra",
       "authors": [
@@ -23549,7 +23688,7 @@
       "id": "lorincz-ilyes-et-al-2024-ksz",
       "title": "Földrajzi és nemek közötti bérkülönbségek a karrierszekvenciákban",
       "authors": [
-        "László Lőrincz",
+        "lorincz-laszlo",
         "ilyes-virag",
         "varga-kinga",
         "kiss-hubert"
@@ -23583,12 +23722,12 @@
       "openalex_id": "W4401209092"
     },
     {
-      "id": "lorincz-kiss-et-al-2019-ks",
+      "id": "lorincz-kiss-et-al-2019-ksz",
       "title": "Az iparágak közti hasonlóság mérésének hálózati módszerei és relevanciájuk a gazdaságfejlesztésben",
       "authors": [
-        "László Lőrincz",
-        "Károly Kiss",
-        "Zoltán Elekes",
+        "lorincz-laszlo",
+        "kiss-hubert",
+        "elekes-zoltan",
         "Zsolt Csáfordi",
         "lengyel-balazs"
       ],
@@ -23615,10 +23754,45 @@
       "countries_studied": [],
       "data_types": [],
       "featured": false,
-      "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
+      "added_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-23",
       "review_status": "metadata-fetched",
       "openalex_id": "W2889918167"
+    },
+    {
+      "id": "lorincz-nemeth-2022-ejopr",
+      "title": "How Social Capital is Related to Migration Between Communities?",
+      "authors": [
+        "lorincz-laszlo",
+        "Brigitta Németh"
+      ],
+      "publication_type": "article",
+      "journal": "European Journal of Population / Revue européenne de Démographie",
+      "year": 2022,
+      "volume": "38",
+      "issue": "5",
+      "pages": "1119-1143",
+      "doi": "10.1007/s10680-022-09642-3",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1007/s10680-022-09642-3",
+      "url_pdf": "https://link.springer.com/content/pdf/10.1007/s10680-022-09642-3.pdf",
+      "url_replication": null,
+      "abstract": "In addition to economic and infrastructural factors, social connections of people also influence migration patterns. This influence can be attributed to the resources that are made available by social contacts: social capital, which can also be utilized in the process of migration. Based on previous literature, we identify three different aspects of social capital and test their relationship with domestic migration simultaneously. First, we analyse if the intensity of connections within communities (local social capital) restrains from migration. Second, if the intensity of connections between two communities (bridging social capital) is associated with increased migration between them. Finally, we consider, if the extent to which local community networks exhibit open or closed structures (bonding social capital) contributes to higher or lower migration rates. We create indicators for these measures using archived online social network data, covering 40% of the adult population of Hungary, and combine them with official migration data of 175 subregions. Based on point-to-point gravity and negative binomial models, we find that bridging social capital between subregions is associated with increased migration flows, but we do not find that local social capital restrains from migration.",
+      "summary_en": null,
+      "summary_hu": null,
+      "data_used": null,
+      "data_used_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "methods": [],
+      "countries_studied": [],
+      "data_types": [],
+      "featured": false,
+      "added_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "metadata-fetched",
+      "openalex_id": "W4296123143"
     },
     {
       "id": "lovasz-bat-erdene-et-al-2022-jobae",
@@ -25461,45 +25635,10 @@
       "openalex_id": "W2124566008"
     },
     {
-      "id": "peto-reizer-2021-jope",
-      "title": "Gender differences in the skill content of jobs",
-      "authors": [
-        "Rita Pető",
-        "reizer-balazs"
-      ],
-      "publication_type": "article",
-      "journal": "Journal of Population Economics",
-      "year": 2021,
-      "volume": "34",
-      "issue": "3",
-      "pages": "825-864",
-      "doi": "10.1007/s00148-021-00825-6",
-      "working_paper_series": null,
-      "url_published": "https://doi.org/10.1007/s00148-021-00825-6",
-      "url_pdf": "https://link.springer.com/content/pdf/10.1007/s00148-021-00825-6.pdf",
-      "url_replication": null,
-      "abstract": "Abstract There is significant heterogeneity in actual skill use within occupations even though occupations are differentiated by the task workers should perform during work. Using data on 12 countries which are available both in the Programme for the International Assessment of Adult Competencies survey and International Social Survey Program, we show that women use their cognitive skills less than men even within the same occupation. The gap in skill intensity cannot be explained by differences in worker characteristics or in cognitive skills. Instead, we show that living in a partnership significantly increases the skill use of men compared with women. We argue that having a partner affects skill use through time allocation as the gender penalty of partnered women is halved once we control for working hours and hours spent on housework. Finally, we do not find evidence of workplace discrimination against women.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
-      "featured": false,
-      "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W3134022475"
-    },
-    {
       "id": "peto-reizer-2021-jpope",
       "title": "Gender differences in the skill content of jobs",
       "authors": [
-        "Rita Pető",
+        "peto-rita",
         "reizer-balazs"
       ],
       "publication_type": "article",
@@ -25527,7 +25666,7 @@
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "review_status": "discovered",
       "openalex_id": "W3134022475"
     },
     {
@@ -30488,8 +30627,8 @@
     }
   ],
   "counts": {
-    "authors": 74,
-    "papers": 689,
+    "authors": 76,
+    "papers": 691,
     "topics": 15
   }
 }
