@@ -18,19 +18,34 @@
   "url_pdf": "https://link.springer.com/content/pdf/10.1007/s00148-020-00771-9.pdf",
   "url_replication": null,
   "abstract": "Abstract This paper examines the effects of an increase in the compulsory school leaving age on the teenage fertility of Roma women, a disadvantaged ethnic minority in Hungary. We use a regression discontinuity design identification strategy and show that the reform decreased the probability of teenage motherhood among Roma women by 13.4–26.0% and delayed motherhood by 2 years. We separate the incapacitation and human capital effects of education on fertility by exploiting a database that covers live births, miscarriages, abortions, and still births and contains information on the time of conception. We find that longer schooling decreases the probability of getting pregnant during the school year but not during summer and Christmas breaks, which suggests that the estimated effects are generated mostly through the incapacitation channel.",
-  "summary_en": null,
+  "summary_en": "In 1998 Hungary raised compulsory schooling age, which kept Roma teenage girls in school longer. Did this reduce teen motherhood? Using a regression-discontinuity design, this paper shows the reform decreased the probability of teenage motherhood among Roma women by 13–26% and delayed motherhood by 2 years. By analysing data covering live births, miscarriages, abortions, and stillbirths (with conception timing), the authors can separate the \"incapacitation\" effect (being in school physically prevents pregnancy) from the \"human capital\" effect (longer schooling changes preferences). Longer schooling reduces pregnancy during school term but not summer breaks — so incapacitation is the main channel.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian administrative data on births, miscarriages, abortions, and stillbirths with conception-timing information. Regression-discontinuity around the compulsory-schooling age reform. Ethnic identification (Roma) via surveys and school records.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly actionable for Hungarian education and social-policy (EMMI, Ministry of Economy) and for Roma-integration efforts. The paper shows that extending compulsory schooling meaningfully postponed teen motherhood among Roma girls — a key demographic and educational policy tool. Relevant to ongoing debates about school-leaving age and to Roma-targeted interventions. Caveat: identifies mostly the incapacitation effect, not the long-run preference or labour-market effect. Also based on the 1998 reform; current cohorts face different contexts.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "education-skills",
+    "demographics-migration",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "rd"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3006219298"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3006219298",
+  "policy_instruments": [
+    "compulsory-schooling age",
+    "Roma-education policy",
+    "teen-pregnancy prevention"
+  ]
 }

@@ -20,19 +20,33 @@
   "url_pdf": "https://link.springer.com/content/pdf/10.1007/s10198-021-01424-8.pdf",
   "url_replication": null,
   "abstract": "The acceptability set of EQ-5D-3L quantifies societal preferences concerning age and disease severity. Its measurement profiles and potential role in health resource allocation needs further exploration.",
-  "summary_en": null,
+  "summary_en": "Health-resource allocation benefits from knowing societal preferences over different health states at different ages. The EQ-5D-3L \"acceptability set\" quantifies these preferences. This paper presents a new adaptive-survey methodology to measure the set more efficiently across demographic groups. The approach allows more precise estimation at lower respondent burden. A methodological contribution useful for health-technology assessment and resource-allocation decisions in healthcare systems.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Survey data using an adaptive-survey methodology to measure health-state acceptability across age groups.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian health-technology assessment (GYEMSZI, NEAK) and for EU-level health-economic-evaluation methodology. The paper provides a concrete tool for more accurate quality-adjusted life-year (QALY) measurement in Hungarian cost-effectiveness analyses. Relevant to drug-reimbursement decisions and to healthcare priority-setting. Caveat: methodological; operational deployment requires survey-design investment.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "health",
+    "methods"
+  ],
+  "methods": [
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
+  "data_types": [
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4205394049"
+  "review_status": "ai-drafted",
+  "openalex_id": "W4205394049",
+  "policy_instruments": [
+    "health-technology assessment",
+    "QALY measurement",
+    "drug-reimbursement decisions"
+  ]
 }

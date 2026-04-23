@@ -16,19 +16,30 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Abstract The paper presents a model that analyzes the role of cultural differences in international trade. The decision to study foreign cultures and languages is incorporated into a simple trade model, which captures basic properties of cultural and language barriers. First, cultural costs differ from physical ones in that they can be eliminated by learning. Secondly, learning a language has economies of scale, thus smaller countries tend to invest more into learning. Thirdly, learning decisions within one country impose an externality on trading partners, since learning by one party makes communication easier also for the other one. This implies that learning decisions are in general inefficient, and the paper derives the connection between the equilibrium and optimal outcomes. Finally, because of the substitutability of learning among countries, a policy where a country subsidizes learning in the other nation—“cultural protectionism”—can be rationalized. Under certain conditions, such a policy can improve the welfare of both countries, in contrast to the case of regular export subsidies.",
-  "summary_en": null,
+  "summary_en": "Cultural barriers to trade — unlike physical barriers — can be reduced by learning (language acquisition, cultural knowledge). This paper models the trade implications of cultural learning. Three main points: (1) cultural costs differ from physical ones in that they're overcomeable; (2) language learning has economies of scale, so smaller countries invest more; (3) learning decisions create externalities — one party learning makes communication easier for both. The paper derives the gap between equilibrium and optimal learning, suggesting systematic under-investment in cultural learning across borders.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian trade-and-education policy (ITM, EMMI, Ministry of Economy). The paper's externality-in-learning argument supports public investment in Hungarian teaching of foreign languages (English in particular) and in foreign students' Hungarian-language learning. Relevant to Erasmus+ and similar mobility programmes. Caveat: theoretical; magnitude of the cultural-learning externality in Hungarian context would need empirical estimation.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "trade-fdi",
+    "education-skills"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2089455037"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2089455037",
+  "policy_instruments": [
+    "foreign-language education",
+    "Erasmus+ mobility support"
+  ]
 }

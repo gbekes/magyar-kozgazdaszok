@@ -17,19 +17,32 @@
   "url_pdf": "https://link.springer.com/content/pdf/10.1007/s10198-021-01296-y.pdf",
   "url_replication": null,
   "abstract": "We estimate the effect of mass media coverage of the meningococcal disease on the uptake of meningococcal vaccinations in Hungary. Our analysis is based on administrative county-level data on vaccination purchases linked to indicators of media coverage of the meningococcal disease and to administrative records of disease incidence. Using geographical and time variations in these indicators, our fixed effects estimates indicate a strong positive effect of mass media coverage of the disease on the rate of vaccination with all types of the meningococcal vaccine. At the same time, we do not find evidence that disease incidence itself has a positive impact on vaccination. These findings are broadly in line with imperfect information and the principles of bounded rationality and highlight the responsibility of mass media in influencing health-related behaviours.",
-  "summary_en": null,
+  "summary_en": "Does mass-media coverage of a disease cause more people to vaccinate against it? This paper estimates the causal effect using Hungarian administrative data on meningococcal-vaccination purchases linked to media-coverage indicators and disease-incidence records. Fixed-effects estimates show a strong positive effect of media coverage on vaccination rates — across all meningococcal vaccine types. Interestingly, disease incidence itself doesn't drive vaccination (unlike coverage). Consistent with imperfect information and bounded rationality: media drives behaviour more than actual risk does.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian county-level administrative data on meningococcal-vaccination purchases, media-coverage indicators, and disease-incidence records.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly relevant to Hungarian public-health communication (NEAK, EMMI, NNGYK). The paper supports active public-health communication strategies even when disease incidence is low — the public responds to information more than to actual epidemiological risk. Relevant to vaccination campaigns (HPV, meningococcal, seasonal flu, COVID-19). Caveat: specific to meningococcal vaccine context; effect sizes for other vaccines differ.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "health",
+    "behavioral"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3020742117"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3020742117",
+  "policy_instruments": [
+    "public-health communication strategy",
+    "vaccination-campaign design"
+  ]
 }

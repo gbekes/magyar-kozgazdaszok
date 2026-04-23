@@ -16,19 +16,32 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This article develops a model that examines the role of cultural conflict in immigration and immigration policy. Cultural differences lead to frictions between natives and immigrants unless the latter make a costly investment to assimilate. This article’s key contribution is the joint analysis of the assimilation and migration decisions, which highlights the inefficiency of some commonly advocated policy tools to achieve the first best. U.S. data provide preliminary support for the model’s implications.",
-  "summary_en": null,
+  "summary_en": "Immigration policy often focuses on quantity — how many to admit. This paper argues quality of assimilation matters too. The model jointly analyses the decision to migrate and the decision to assimilate. Cultural differences create frictions between natives and immigrants unless the latter make costly assimilation investments. The paper shows common immigration-policy tools — quotas, point systems, language tests — can be inefficient relative to the first-best. US data provide preliminary support for the model's implications. A theoretical foundation for thinking about how migration and assimilation interact.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model with preliminary US data comparison. Joint analysis of migration and assimilation decisions.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant to Hungarian migration policy debates (Ministry of Interior, Ministry of Foreign Affairs). The paper supports integrated migration-and-integration-policy design: simply admitting migrants without supporting assimilation investments leaves welfare gains on the table. Relevant to Hungarian language-course design for workers and to immigration-policy reforms. Caveat: theoretical with US stylized facts; Hungarian migration-and-integration context is specific.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "demographics-migration",
+    "labor-markets"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "US",
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2046097848"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2046097848",
+  "policy_instruments": [
+    "migration policy design",
+    "assimilation investment programmes",
+    "language-course subsidies"
+  ]
 }

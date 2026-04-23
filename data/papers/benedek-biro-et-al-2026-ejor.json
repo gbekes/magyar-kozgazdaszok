@@ -21,19 +21,30 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "In kidney exchange programmes, patients with incompatible donors obtain kidneys via cycles of transplants. Countries may merge their national patient-donor pools to form international programmes. To ensure fairness, a credit-based system is used: a cooperative game-theoretic solution concept prescribes a “fair” initial allocation, which is adjusted with accumulated credits to form a target allocation. The objective is to maximize the number of transplants while staying close to the target allocation. When only 2-cycles are permitted, a solution that lexicographically minimizes deviations from the target can be found in polynomial time. However, even the problem of maximizing the number of transplants is NP-hard for larger upper bounds on cycle length. This latter problem is tractable when cycle lengths are not bounded. We formalize this setting via a new class of cooperative games called partitioned permutation games, and prove that computing an optimal solution that is lexicographically closest to the target allocation is NP-hard. We give a randomized XP-time algorithm for solve this problem exactly. We present an experimental study, simulating programmes with up to 10 countries. Allowing unbounded cycle lengths increases the number of transplants by up to 46% compared to 2-cycles. Using credits and selecting lexicographically closest solutions yields low total relative deviation (below 2% for all fairness notions). Among the seven fairness notions tested, a modified Banzhaf value performs best in balancing fairness and efficiency, achieving average deviations below 0.65%. Lexicographic minimization from the target allocation leads to significantly (36 − 56%) smaller average deviations than minimizing maximum difference only.",
-  "summary_en": null,
+  "summary_en": "International kidney-exchange programmes pool patients and donors from multiple countries. But how do you distribute the resulting transplants fairly? This paper introduces a credit-based system: a cooperative game-theoretic solution prescribes a \"fair\" initial allocation, adjusted by accumulated credits over time. The computational question: maximise transplants while staying close to the target allocation. With only 2-cycles allowed, solutions can be found in polynomial time; with larger cycles, the problem becomes NP-hard. The paper provides both theoretical results and algorithmic tools for practical implementation.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical and algorithmic paper; computational-complexity analysis of international kidney-exchange scheduling. Some simulation validation.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Highly relevant to European kidney-exchange coordination (Hungarian participation in eurotransplant / international KEP). The paper supports operational design of multi-country kidney exchange, with fair-allocation mechanisms. Relevant to Ministry of Health and to OEP/transplant coordination. Caveat: NP-hardness for general cycles means real-system implementations need approximation algorithms.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "health",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "EU"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W7119495506"
+  "review_status": "ai-drafted",
+  "openalex_id": "W7119495506",
+  "policy_instruments": [
+    "international kidney-exchange coordination",
+    "fair-allocation credit systems"
+  ]
 }

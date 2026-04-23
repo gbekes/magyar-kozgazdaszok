@@ -18,19 +18,30 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "In a liability problem, the asset value of an insolvent firm must be distributed among the creditors and the firm itself, when the firm has some freedom in negotiating with the creditors. We model the negotiations using cooperative game theory and analyze the Shapley value to resolve such liability problems. We establish three main monotonicity properties of the Shapley value. First, creditors can only benefit from the increase in their claims or of the asset value. Second, the firm can only benefit from the increase of a claim but can end up with more or with less if the asset value increases, depending on the configuration of small and large liabilities. Third, creditors with larger claims benefit more from the increase of the asset value. Even though liability games are constant-sum games and we show that the Shapley value can be calculated directly from a liability problem, we prove that calculating the Shapley payoff to the firm is NP-hard.",
-  "summary_en": null,
+  "summary_en": "When an insolvent firm negotiates with its creditors, how does game-theoretic analysis help us understand the outcome? This paper applies the Shapley value — a cooperative-game-theory solution — to liability games. Three main properties: (1) creditors can only benefit from their claims or the firm's asset value increasing; (2) the firm benefits from claim increases but can gain or lose from asset-value increases; (3) creditors with larger claims benefit more from asset-value increases. A rigorous game-theoretic framework for thinking about bankruptcy-negotiation outcomes.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data. Cooperative-game-theory analysis of liability problems.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian bankruptcy-law design and creditor-negotiation practice (Ministry of Justice). The paper's monotonicity properties provide benchmarks against which specific bankruptcy procedures can be evaluated. Relevant to EU insolvency-directive implementation. Caveat: theoretical; real bankruptcy negotiations feature asymmetric information and strategic complications the Shapley value doesn't capture.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "methods",
+    "banking-finance"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3005088290"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3005088290",
+  "policy_instruments": [
+    "bankruptcy-law design",
+    "creditor-negotiation rules"
+  ]
 }

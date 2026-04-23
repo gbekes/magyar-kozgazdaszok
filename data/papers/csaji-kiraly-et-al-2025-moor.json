@@ -19,19 +19,25 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We investigate weighted settings of popular matching problems with matroid constraints. The concept of popularity was originally defined for matchings in bipartite graphs, where vertices have preferences over the incident edges. There are two standard models, depending on whether vertices on one or both sides have preferences. A matching M is popular if it does not lose a head-to-head election against any other matching. In our generalized models, one or both sides have matroid constraints, and a weight function is defined on the ground set. Our objective is to find a popular optimal matching, that is, a maximum-weight matching that is popular among all maximum-weight matchings satisfying the matroid constraints. For both one- and two-sided preferences models, we provide efficient algorithms to find such solutions, combining algorithms for unweighted models with fundamental techniques from combinatorial optimization. The algorithm for the one-sided preferences model is further extended to a model where the weight function is generalized to an M[Formula: see text]-concave utility function. Finally, we complement these tractability results by providing hardness results for the problems of finding a popular near-optimal matching. These hardness results hold even without matroid constraints and with very restricted weight functions. History: This paper has been accepted for the Special Issue on Mathematics of Market Design. Funding: This work was supported by the Japan Science and Technology Corporation [JST CRONOS Japan Grant JPMJCS24K2, JST ERATO Grant JPMJER2301, and JST PRESTO Grant JPMJPR212B]; the Japan Society for the Promotion of Science [JSPS KAKENHI Grants JP20K11699, JP24K02901, and JP24K14828]; Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal (Hungarian National Research, Development and Innovation Office (NKFIH)) [Grants K143858 and TKP2021-NKTA-62]; and Magyar Tudományos Akadémia (Lendület Programme of the Hungarian Academy of Sciences) [Grant LP2021-1/2021]. C. Csáji was supported by Nemzeti Kutatási, Fejlesztési és Innovaciós Alap (the Ministry of Culture and Innovation of Hungary from the National Research, Development and Innovation Fund), financed under the KDP-2023 funding scheme [Grant C2258525].",
-  "summary_en": null,
+  "summary_en": "Popularity is a matching-theory concept: a matching is popular if it wouldn't lose a head-to-head vote against any alternative. This paper generalises popular-matching theory to settings with matroid constraints and weight functions. For both one-sided and two-sided preference models with matroid constraints, the authors provide efficient algorithms for finding popular maximum-weight matchings. A technical contribution opening up matroid-constrained matching problems to tractable market-design analysis.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Foundational for mechanism-design applications where matroid constraints arise naturally — e.g., school choice with geographic constraints, hospital-doctor matching with departmental caps. Relevant to Hungarian market-design work at KRTK. Caveat: theoretical; operational use depends on problem-specific calibration.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "review_status": "ai-drafted",
   "openalex_id": "W4414427837"
 }

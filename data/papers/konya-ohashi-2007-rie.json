@@ -17,19 +17,32 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Abstract This paper examines the effect of economic integration on the product‐level consumption patterns across the OECD in the past decade. Estimation results find evidence of strong convergence in cross‐country consumption patterns with substantial heterogeneity across products and countries. The results are robust to either the benchmark choice, data selection, or the choice of model specification. In addition to documenting convergence, the paper relates the volume of international trade to cross‐country consumption patterns.",
-  "summary_en": null,
+  "summary_en": "Has economic integration made OECD consumers' consumption patterns converge? This paper uses product-level OECD data over the past decade to test the convergence hypothesis. Results show strong convergence in cross-country consumption patterns, though with substantial heterogeneity across products and countries. The finding is robust to benchmark choice, data selection, and model specification. The paper also relates the volume of international trade to consumption-pattern similarities — providing a quantitative bridge between trade-flow analysis and consumer-preference convergence.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Product-level OECD consumption data across countries over the past decade. Multiple model specifications and benchmark comparisons.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant to Hungarian trade and consumer-policy analysis (KSH, MNB). The paper supports the view that EU single-market integration drives consumption-pattern convergence — which has implications for trade-policy expectations, consumer-protection harmonisation, and inflation measurement. Caveat: OECD sample is high-income; dynamics for emerging-market consumers may differ.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "trade-fdi",
+    "macroeconomics"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W1971093288"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W1971093288",
+  "policy_instruments": [
+    "EU single-market integration",
+    "consumer-protection harmonisation"
+  ]
 }

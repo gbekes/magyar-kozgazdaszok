@@ -16,19 +16,31 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Abstract. The paper analyses the population dynamics of a country that has two ethnic groups, a minority and a majority, and minority members can choose to assimilate into the majority. Depending on the minority's size, the long‐run outcome can be full or no assimilation. Under certain parameter values multiple equilibria exist, including the two extreme cases. The paper demonstrates that both the long‐run outcome and the equilibrium path may be inefficient. Two extensions to the basic model are considered. The first one allows for a comparison between a multicultural and a ‘melting pot’ society. The second one introduces population growth and studies the interplay between exogenous and endogenous changes in the minority's size. JEL classification: J110, J150, J180",
-  "summary_en": null,
+  "summary_en": "When does a minority fully assimilate, and when does it preserve a distinct identity? This paper builds a dynamic model where a minority within a country chooses whether to assimilate into the majority. Outcomes depend on the minority's size: small minorities often fully assimilate; larger ones may preserve distinctness. Multiple equilibria can exist including extreme outcomes. Both long-run outcomes and equilibrium paths may be socially inefficient. Extensions compare \"multicultural\" and \"melting pot\" societies and study interactions between population growth and assimilation. A foundational framework for thinking about ethnic-identity policy.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant to Hungarian minority-policy analysis (Roma integration, Hungarian communities in neighbouring countries). The paper's finding of multiple equilibria supports the view that policy choices can tip societies toward different stable outcomes. Relevant to Roma-integration strategy and to Hungarian-community-support policies abroad. Caveat: theoretical; specific policy implications depend on the empirical parameter values.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "demographics-migration",
+    "political-economy",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W1989237677"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W1989237677",
+  "policy_instruments": [
+    "minority-integration policy",
+    "multiculturalism vs assimilation"
+  ]
 }

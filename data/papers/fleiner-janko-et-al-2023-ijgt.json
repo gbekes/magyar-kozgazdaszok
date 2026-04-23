@@ -19,19 +19,29 @@
   "url_pdf": "https://link.springer.com/content/pdf/10.1007/s00182-022-00833-0.pdf",
   "url_replication": null,
   "abstract": "Abstract Efficient computability is an important property of solution concepts. We consider the computational complexity of finding and verifying various solution concepts in trading networks—multi-sided matching markets with bilateral contracts and without transferable utility—under the assumption of full substitutability of agents’ preferences. It is known that outcomes that satisfy trail stability always exist and can be found in linear time. However, we show that the existence of stable outcomes—immune to deviations by arbitrary sets of agents—is an $${{\\textsf{N}}}{{\\textsf{P}}}$$ <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mrow> <mml:mi>N</mml:mi> <mml:mi>P</mml:mi> </mml:mrow> </mml:math> -hard problem in trading networks. We also show that even verifying whether a given outcome is stable is $${{\\textsf{N}}}{{\\textsf{P}}}$$ <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mrow> <mml:mi>N</mml:mi> <mml:mi>P</mml:mi> </mml:mrow> </mml:math> -hard in trading networks.",
-  "summary_en": null,
+  "summary_en": "Trading networks — multi-sided matching markets with bilateral contracts without transferable utility — have been studied under the assumption of \"full substitutability\" of preferences. This paper asks the computational question: how hard is it to find stable outcomes? Surprising finding: while \"trail-stable\" outcomes are easy to find (linear time), full stability (immune to deviation by any set of agents) is NP-hard. Even verifying whether a given outcome is stable is computationally hard. The result has implications for real-world matching-market design.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data. Computational-complexity analysis.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian mechanism-design applications with multi-sided contracting (e.g., healthcare networks, student-residence assignment). The paper's hardness result is a limitation to be aware of when designing trading-network markets. Relevant to KRTK's matching-market research. Caveat: worst-case hardness; many real instances are tractable.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "methods",
+    "industrial-organization"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2804763432"
+  "review_status": "ai-drafted",
+  "openalex_id": "W2804763432",
+  "policy_instruments": [
+    "trading-network matching-market design"
+  ]
 }

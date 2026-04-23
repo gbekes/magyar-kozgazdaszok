@@ -3217,21 +3217,36 @@
       "url_pdf": "https://link.springer.com/content/pdf/10.1007/s00148-020-00771-9.pdf",
       "url_replication": null,
       "abstract": "Abstract This paper examines the effects of an increase in the compulsory school leaving age on the teenage fertility of Roma women, a disadvantaged ethnic minority in Hungary. We use a regression discontinuity design identification strategy and show that the reform decreased the probability of teenage motherhood among Roma women by 13.4–26.0% and delayed motherhood by 2 years. We separate the incapacitation and human capital effects of education on fertility by exploiting a database that covers live births, miscarriages, abortions, and still births and contains information on the time of conception. We find that longer schooling decreases the probability of getting pregnant during the school year but not during summer and Christmas breaks, which suggests that the estimated effects are generated mostly through the incapacitation channel.",
-      "summary_en": null,
+      "summary_en": "In 1998 Hungary raised compulsory schooling age, which kept Roma teenage girls in school longer. Did this reduce teen motherhood? Using a regression-discontinuity design, this paper shows the reform decreased the probability of teenage motherhood among Roma women by 13–26% and delayed motherhood by 2 years. By analysing data covering live births, miscarriages, abortions, and stillbirths (with conception timing), the authors can separate the \"incapacitation\" effect (being in school physically prevents pregnancy) from the \"human capital\" effect (longer schooling changes preferences). Longer schooling reduces pregnancy during school term but not summer breaks — so incapacitation is the main channel.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian administrative data on births, miscarriages, abortions, and stillbirths with conception-timing information. Regression-discontinuity around the compulsory-schooling age reform. Ethnic identification (Roma) via surveys and school records.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly actionable for Hungarian education and social-policy (EMMI, Ministry of Economy) and for Roma-integration efforts. The paper shows that extending compulsory schooling meaningfully postponed teen motherhood among Roma girls — a key demographic and educational policy tool. Relevant to ongoing debates about school-leaving age and to Roma-targeted interventions. Caveat: identifies mostly the incapacitation effect, not the long-run preference or labour-market effect. Also based on the 1998 reform; current cohorts face different contexts.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "education-skills",
+        "demographics-migration",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "rd"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W3006219298"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W3006219298",
+      "policy_instruments": [
+        "compulsory-schooling age",
+        "Roma-education policy",
+        "teen-pregnancy prevention"
+      ]
     },
     {
       "id": "adamecz-adamecz-volgyi-et-al-2022-jope",
@@ -3644,21 +3659,34 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Admission to universities is organised in a centralised scheme in Hungary. In this paper we investigate two major specialities of this application: ties and common quotas. A tie occur when some students have the same score at a programme. If not enough seats are available for the last tied group of applicants at a programme then there are three reasonable policies used in practice: 1) all must be rejected, as in Hungary 2) all can be accepted, as in Chile 3) a lottery decides which students are accepted from this group, as in Ireland. Even though student-optimal stable matchings can be computed efficiently for each of the above three cases, we developed (mixed) integer programming (IP) formulations for solving these problems, and compared the solutions obtained by the three policies for a real instance of the Hungarian application from 2008. In the case of Hungary common quotas arise from the faculty quotas imposed on their programmes and from the national quotas set for state-financed students in each subject. The overlapping structure of common quotas makes the computational problem of finding a stable solution NP-hard, even for strict rankings. In the case of ties and common quotas we propose two reasonable stable solution concepts for the Hungarian and Chilean policies. We developed (mixed) IP formulations for solving these stable matching problems and tested their performance on the large scale real instance from 2008 and also for one from 2009 under two different assumptions. We demonstrate that the most general case is also solvable in practice by IP technique.",
-      "summary_en": null,
+      "summary_en": "Hungary's centralised university admission has two complications that make classical matching algorithms inadequate: (1) \"ties\" — students with identical scores at the cutoff; (2) \"common quotas\" — limits that span multiple programmes. This paper develops mixed-integer-programming formulations for three rejection policies (reject all tied, accept all tied, lottery) and compares outcomes on Hungarian data. The comparison illustrates the welfare consequences of each policy. A practical contribution to the Hungarian admission algorithm.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian university-admission administrative data. Mixed-integer-programming optimisation under three rejection-policy alternatives.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly actionable for Hungarian centralised-university-admission system design (Oktatási Hivatal). The paper compares three practical rejection policies and provides the empirical basis for choosing among them. Relevant to felvételi policy reform discussions. Caveat: based on specific Hungarian data and institutional structure; would need adjustment for other admission systems.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "education-skills",
+        "methods"
+      ],
+      "methods": [
+        "structural"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W3196438934"
+      "review_status": "ai-drafted",
+      "openalex_id": "W3196438934",
+      "policy_instruments": [
+        "university-admission algorithm",
+        "tie-breaking policy"
+      ]
     },
     {
       "id": "aiello-vybornova-et-al-2025-potna",
@@ -4920,21 +4948,36 @@
       "url_pdf": "https://www.tandfonline.com/doi/pdf/10.1080/00343404.2021.1998418?needAccess=true",
       "url_replication": null,
       "abstract": "Cross-regional mergers and acquisitions (M&A) transfer control and diffuse knowledge across space, which facilitates the integration of business systems. We analyse about 40,000 cross-regional acquisitions in Europe completed between 2003 and 2017 and distinguish innovative and non-innovative M&A. Both types of deals cluster into communities constituted by countries or groups of neighbouring countries. However, an increasing proportion of deals connect different communities, especially for innovative M&A. More populous and richer regions host more acquiring and target companies and thus broker communities. Research and development expenditure and skilled human capital are additional factors favouring brokerage of regions by attracting acquirers.",
-      "summary_en": null,
+      "summary_en": "Cross-regional mergers and acquisitions (M&A) transfer control and diffuse knowledge across European regions. This paper analyses ~40,000 cross-regional acquisitions in Europe 2003–2017, distinguishing innovative from non-innovative deals. Both types cluster into communities of neighbouring countries, but innovative M&A increasingly connects across communities. Populous, richer regions broker between communities. R&D expenditure and skilled human capital attract acquirers. A detailed empirical portrait of European business integration through M&A.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "~40,000 cross-regional M&A deals in Europe 2003–2017. Innovative vs. non-innovative classification. Regional characteristics: R&D, skills, economic mass.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian regional-development and FDI-promotion policy (HEPA, NRDI Office). The paper supports building regional R&D and skills capacity as foundations for attracting innovative acquirers. Relevant to Hungarian participation in European venture ecosystem and to EU Single Market-integration monitoring. Caveat: covers 2003–2017; post-2020 dynamics (COVID, de-risking) may differ.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "firms-productivity",
+        "regional-urban",
+        "innovation-digital"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "EU"
+      ],
+      "data_types": [
+        "admin-firm"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4200502768"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4200502768",
+      "policy_instruments": [
+        "regional R&D investment",
+        "FDI-promotion targeting",
+        "EU Single Market integration"
+      ]
     },
     {
       "id": "armenter-koren-2014-aer",
@@ -7300,21 +7343,31 @@
       "url_pdf": "https://link.springer.com/content/pdf/10.1007/s10107-025-02200-9.pdf",
       "url_replication": null,
       "abstract": "Abstract We introduce partitioned matching games as a suitable model for international kidney exchange programmes, where in each round the total number of available kidney transplants needs to be distributed amongst the participating countries in a “fair” way. A partitioned matching game ( N , v ) is defined on a graph $$G=(V,E)$$ <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mrow> <mml:mi>G</mml:mi> <mml:mo>=</mml:mo> <mml:mo>(</mml:mo> <mml:mi>V</mml:mi> <mml:mo>,</mml:mo> <mml:mi>E</mml:mi> <mml:mo>)</mml:mo> </mml:mrow> </mml:math> with an edge weighting w and a partition $$V=V_1 \\cup \\dots \\cup V_n$$ <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mrow> <mml:mi>V</mml:mi> <mml:mo>=</mml:mo> <mml:msub> <mml:mi>V</mml:mi> <mml:mn>1</mml:mn> </mml:msub> <mml:mo>∪</mml:mo> <mml:mo>⋯</mml:mo> <mml:mo>∪</mml:mo> <mml:msub> <mml:mi>V</mml:mi> <mml:mi>n</mml:mi> </mml:msub> </mml:mrow> </mml:math> . The player set is $$N = \\{ 1, \\dots , n\\}$$ <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mrow> <mml:mi>N</mml:mi> <mml:mo>=</mml:mo> <mml:mo>{</mml:mo> <mml:mn>1</mml:mn> <mml:mo>,</mml:mo> <mml:mo>⋯</mml:mo> <mml:mo>,</mml:mo> <mml:mi>n</mml:mi> <mml:mo>}</mml:mo> </mml:mrow> </mml:math> , and player $$p \\in N$$ <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mrow> <mml:mi>p</mml:mi> <mml:mo>∈</mml:mo> <mml:mi>N</mml:mi> </mml:mrow> </mml:math> owns the vertices in $$V_p$$ <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:msub> <mml:mi>V</mml:mi> <mml:mi>p</mml:mi> </mml:msub> </mml:math> . The value v ( S ) of a coalition $$S \\subseteq N$$ <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mrow> <mml:mi>S</mml:mi> <mml:mo>⊆</mml:mo> <mml:mi>N</mml:mi> </mml:mrow> </mml:math> is the maximum weight of a matching in the subgraph of G induced by the vertices owned by the players in S . If $$|V_p|=1$$ <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mrow> <mml:mrow> <mml:mo>|</mml:mo> </mml:mrow> <mml:msub> <mml:mi>V</mml:mi> <mml:mi>p</mml:mi> </mml:msub> <mml:mrow> <mml:mo>|</mml:mo> <mml:mo>=</mml:mo> <mml:mn>1</mml:mn> </mml:mrow> </mml:mrow> </mml:math> for all $$p\\in N$$ <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mrow> <mml:mi>p</mml:mi> <mml:mo>∈</mml:mo> <mml:mi>N</mml:mi> </mml:mrow> </mml:math> , then we obtain the classical matching game. Let $$c=\\max \\{|V_p| \\; |\\; 1\\le p\\le n\\}$$ <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mrow> <mml:mi>c</mml:mi> <mml:mo>=</mml:mo> <mml:mo>max</mml:mo> <mml:mo>{</mml:mo> <mml:mo>|</mml:mo> <mml:msub> <mml:mi>V</mml:mi> <mml:mi>p</mml:mi> </mml:msub> <mml:mo>|</mml:mo> <mml:mspace/> <mml:mo>|</mml:mo> <mml:mspace/> <mml:mn>1</mml:mn> <mml:mo>≤</mml:mo> <mml:mi>p</mml:mi> <mml:mo>≤</mml:mo> <mml:mi>n</mml:mi> <mml:mo>}</mml:mo> </mml:mrow> </mml:math> be the width of ( N , v ). We prove that checking core non-emptiness is polynomial-time solvable if $$c\\le 2$$ <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mrow> <mml:mi>c</mml:mi> <mml:mo>≤</mml:mo> <mml:mn>2</mml:mn> </mml:mrow> </mml:math> but co--hard if $$c\\le 3$$ <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mrow> <mml:mi>c</mml:mi> <mml:mo>≤</mml:mo> <mml:mn>3</mml:mn> </mml:mrow> </mml:math> . We do this via pinpointing a",
-      "summary_en": null,
+      "summary_en": "International kidney-exchange programmes involve many countries; each round, total available transplants must be distributed fairly across participants. This paper introduces \"partitioned matching games\" as a cooperative-game model for the allocation problem. Theoretical contributions include characterisation of the core and nucleolus solutions. The framework provides a rigorous foundation for credit-based allocation rules used in practice.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data. Cooperative-game-theoretic analysis.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian participation in international kidney-exchange and for the Péter Bíró-led KRTK mechanism-design work. Relevant to Hungarian Ministry of Health and to international-coordination of organ-exchange. Caveat: purely theoretical; operational use requires combining with allocation algorithms and legal frameworks.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "health",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4407368433"
+      "review_status": "ai-drafted",
+      "openalex_id": "W4407368433",
+      "policy_instruments": [
+        "cooperative allocation rules for international KEP"
+      ]
     },
     {
       "id": "benedek-biro-et-al-2026-ejor",
@@ -7339,21 +7392,32 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "In kidney exchange programmes, patients with incompatible donors obtain kidneys via cycles of transplants. Countries may merge their national patient-donor pools to form international programmes. To ensure fairness, a credit-based system is used: a cooperative game-theoretic solution concept prescribes a “fair” initial allocation, which is adjusted with accumulated credits to form a target allocation. The objective is to maximize the number of transplants while staying close to the target allocation. When only 2-cycles are permitted, a solution that lexicographically minimizes deviations from the target can be found in polynomial time. However, even the problem of maximizing the number of transplants is NP-hard for larger upper bounds on cycle length. This latter problem is tractable when cycle lengths are not bounded. We formalize this setting via a new class of cooperative games called partitioned permutation games, and prove that computing an optimal solution that is lexicographically closest to the target allocation is NP-hard. We give a randomized XP-time algorithm for solve this problem exactly. We present an experimental study, simulating programmes with up to 10 countries. Allowing unbounded cycle lengths increases the number of transplants by up to 46% compared to 2-cycles. Using credits and selecting lexicographically closest solutions yields low total relative deviation (below 2% for all fairness notions). Among the seven fairness notions tested, a modified Banzhaf value performs best in balancing fairness and efficiency, achieving average deviations below 0.65%. Lexicographic minimization from the target allocation leads to significantly (36 − 56%) smaller average deviations than minimizing maximum difference only.",
-      "summary_en": null,
+      "summary_en": "International kidney-exchange programmes pool patients and donors from multiple countries. But how do you distribute the resulting transplants fairly? This paper introduces a credit-based system: a cooperative game-theoretic solution prescribes a \"fair\" initial allocation, adjusted by accumulated credits over time. The computational question: maximise transplants while staying close to the target allocation. With only 2-cycles allowed, solutions can be found in polynomial time; with larger cycles, the problem becomes NP-hard. The paper provides both theoretical results and algorithmic tools for practical implementation.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical and algorithmic paper; computational-complexity analysis of international kidney-exchange scheduling. Some simulation validation.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Highly relevant to European kidney-exchange coordination (Hungarian participation in eurotransplant / international KEP). The paper supports operational design of multi-country kidney exchange, with fair-allocation mechanisms. Relevant to Ministry of Health and to OEP/transplant coordination. Caveat: NP-hardness for general cycles means real-system implementations need approximation algorithms.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "health",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "EU"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W7119495506"
+      "review_status": "ai-drafted",
+      "openalex_id": "W7119495506",
+      "policy_instruments": [
+        "international kidney-exchange coordination",
+        "fair-allocation credit systems"
+      ]
     },
     {
       "id": "benedek-fliege-et-al-2020-mathprog",
@@ -8833,21 +8897,34 @@
       "url_pdf": "https://link.springer.com/content/pdf/10.1007/s10198-021-01296-y.pdf",
       "url_replication": null,
       "abstract": "We estimate the effect of mass media coverage of the meningococcal disease on the uptake of meningococcal vaccinations in Hungary. Our analysis is based on administrative county-level data on vaccination purchases linked to indicators of media coverage of the meningococcal disease and to administrative records of disease incidence. Using geographical and time variations in these indicators, our fixed effects estimates indicate a strong positive effect of mass media coverage of the disease on the rate of vaccination with all types of the meningococcal vaccine. At the same time, we do not find evidence that disease incidence itself has a positive impact on vaccination. These findings are broadly in line with imperfect information and the principles of bounded rationality and highlight the responsibility of mass media in influencing health-related behaviours.",
-      "summary_en": null,
+      "summary_en": "Does mass-media coverage of a disease cause more people to vaccinate against it? This paper estimates the causal effect using Hungarian administrative data on meningococcal-vaccination purchases linked to media-coverage indicators and disease-incidence records. Fixed-effects estimates show a strong positive effect of media coverage on vaccination rates — across all meningococcal vaccine types. Interestingly, disease incidence itself doesn't drive vaccination (unlike coverage). Consistent with imperfect information and bounded rationality: media drives behaviour more than actual risk does.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian county-level administrative data on meningococcal-vaccination purchases, media-coverage indicators, and disease-incidence records.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly relevant to Hungarian public-health communication (NEAK, EMMI, NNGYK). The paper supports active public-health communication strategies even when disease incidence is low — the public responds to information more than to actual epidemiological risk. Relevant to vaccination campaigns (HPV, meningococcal, seasonal flu, COVID-19). Caveat: specific to meningococcal vaccine context; effect sizes for other vaccines differ.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "health",
+        "behavioral"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W3020742117"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W3020742117",
+      "policy_instruments": [
+        "public-health communication strategy",
+        "vaccination-campaign design"
+      ]
     },
     {
       "id": "bisztray-koren-et-al-2018-jie",
@@ -10842,20 +10919,26 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We investigate weighted settings of popular matching problems with matroid constraints. The concept of popularity was originally defined for matchings in bipartite graphs, where vertices have preferences over the incident edges. There are two standard models, depending on whether vertices on one or both sides have preferences. A matching M is popular if it does not lose a head-to-head election against any other matching. In our generalized models, one or both sides have matroid constraints, and a weight function is defined on the ground set. Our objective is to find a popular optimal matching, that is, a maximum-weight matching that is popular among all maximum-weight matchings satisfying the matroid constraints. For both one- and two-sided preferences models, we provide efficient algorithms to find such solutions, combining algorithms for unweighted models with fundamental techniques from combinatorial optimization. The algorithm for the one-sided preferences model is further extended to a model where the weight function is generalized to an M[Formula: see text]-concave utility function. Finally, we complement these tractability results by providing hardness results for the problems of finding a popular near-optimal matching. These hardness results hold even without matroid constraints and with very restricted weight functions. History: This paper has been accepted for the Special Issue on Mathematics of Market Design. Funding: This work was supported by the Japan Science and Technology Corporation [JST CRONOS Japan Grant JPMJCS24K2, JST ERATO Grant JPMJER2301, and JST PRESTO Grant JPMJPR212B]; the Japan Society for the Promotion of Science [JSPS KAKENHI Grants JP20K11699, JP24K02901, and JP24K14828]; Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal (Hungarian National Research, Development and Innovation Office (NKFIH)) [Grants K143858 and TKP2021-NKTA-62]; and Magyar Tudományos Akadémia (Lendület Programme of the Hungarian Academy of Sciences) [Grant LP2021-1/2021]. C. Csáji was supported by Nemzeti Kutatási, Fejlesztési és Innovaciós Alap (the Ministry of Culture and Innovation of Hungary from the National Research, Development and Innovation Fund), financed under the KDP-2023 funding scheme [Grant C2258525].",
-      "summary_en": null,
+      "summary_en": "Popularity is a matching-theory concept: a matching is popular if it wouldn't lose a head-to-head vote against any alternative. This paper generalises popular-matching theory to settings with matroid constraints and weight functions. For both one-sided and two-sided preference models with matroid constraints, the authors provide efficient algorithms for finding popular maximum-weight matchings. A technical contribution opening up matroid-constrained matching problems to tractable market-design analysis.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Foundational for mechanism-design applications where matroid constraints arise naturally — e.g., school choice with geographic constraints, hospital-doctor matching with departmental caps. Relevant to Hungarian market-design work at KRTK. Caveat: theoretical; operational use depends on problem-specific calibration.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "review_status": "ai-drafted",
       "openalex_id": "W4414427837"
     },
     {
@@ -11830,21 +11913,32 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "In a liability problem, the asset value of an insolvent firm must be distributed among the creditors and the firm itself, when the firm has some freedom in negotiating with the creditors. We model the negotiations using cooperative game theory and analyze the Shapley value to resolve such liability problems. We establish three main monotonicity properties of the Shapley value. First, creditors can only benefit from the increase in their claims or of the asset value. Second, the firm can only benefit from the increase of a claim but can end up with more or with less if the asset value increases, depending on the configuration of small and large liabilities. Third, creditors with larger claims benefit more from the increase of the asset value. Even though liability games are constant-sum games and we show that the Shapley value can be calculated directly from a liability problem, we prove that calculating the Shapley payoff to the firm is NP-hard.",
-      "summary_en": null,
+      "summary_en": "When an insolvent firm negotiates with its creditors, how does game-theoretic analysis help us understand the outcome? This paper applies the Shapley value — a cooperative-game-theory solution — to liability games. Three main properties: (1) creditors can only benefit from their claims or the firm's asset value increasing; (2) the firm benefits from claim increases but can gain or lose from asset-value increases; (3) creditors with larger claims benefit more from asset-value increases. A rigorous game-theoretic framework for thinking about bankruptcy-negotiation outcomes.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data. Cooperative-game-theory analysis of liability problems.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian bankruptcy-law design and creditor-negotiation practice (Ministry of Justice). The paper's monotonicity properties provide benchmarks against which specific bankruptcy procedures can be evaluated. Relevant to EU insolvency-directive implementation. Caveat: theoretical; real bankruptcy negotiations feature asymmetric information and strategic complications the Shapley value doesn't capture.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "methods",
+        "banking-finance"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W3005088290"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W3005088290",
+      "policy_instruments": [
+        "bankruptcy-law design",
+        "creditor-negotiation rules"
+      ]
     },
     {
       "id": "csoka-kondor-2019-ks",
@@ -12836,21 +12930,34 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Abstract This paper provides an assessment of the contribution to privatization in Romania of the 1995‐96 Mass Privatization Programme (MPP), which offered shares in nearly 5,000 companies to citizens in exchange for coupons. Analysing a comprehensive database of MPP companies, we find that an average of only 18.7 per cent of these companies' shares were actually transferred to Romanian citizens, and only 7.8 per cent of the companies were majority privatized (on a size‐weighted basis). We estimate that the MPP accounted for only about 5.5 per cent of the value of state‐owned enterprise assets inherited from the socialist period. The design of the programme created highly dispersed ownership structures, which is likely to generate particularly difficult problems in the many small companies in the programme. We place our findings in the context of the history of Romanian privatization policies since 1990, and provide some comparisons with mass privatization programmes in other countries. We also analyse the implications of the MPP for the corporate governance and the restructuring of enterprises.",
-      "summary_en": null,
+      "summary_en": "Romania's 1995-96 Mass Privatization Programme gave citizens coupons to acquire shares in ~5,000 state-owned companies. Did it work? This paper offers a first empirical assessment. Findings: only 18.7% of these companies' shares were actually transferred to citizens; only 7.8% were majority-privatised. The programme accounted for just ~5.5% of state-owned asset value. The resulting ownership structures were highly dispersed — particularly problematic for small firms lacking strong corporate-governance mechanisms. An important historical lesson for privatisation programme design.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Comprehensive administrative database of Mass Privatization Programme companies in Romania, 1995–96.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Historical relevance to Hungarian privatisation debates and to SOE-reform programmes in transition economies generally. The paper's lesson — dispersed ownership is particularly problematic for small firms — is applicable to any future Hungarian voucher-privatisation or employee-share-ownership proposal. Caveat: 1998 paper, specific to Romania; direct transfer to current Hungarian SOE context is limited.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "transition-postcommunist",
+        "firms-productivity"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "RO"
+      ],
+      "data_types": [
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W3121905248"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W3121905248",
+      "policy_instruments": [
+        "voucher privatisation",
+        "SOE dispersed-ownership effects"
+      ]
     },
     {
       "id": "earle-telegdy-2002-joce",
@@ -14748,21 +14855,31 @@
       "url_pdf": "https://link.springer.com/content/pdf/10.1007/s00182-022-00833-0.pdf",
       "url_replication": null,
       "abstract": "Abstract Efficient computability is an important property of solution concepts. We consider the computational complexity of finding and verifying various solution concepts in trading networks—multi-sided matching markets with bilateral contracts and without transferable utility—under the assumption of full substitutability of agents’ preferences. It is known that outcomes that satisfy trail stability always exist and can be found in linear time. However, we show that the existence of stable outcomes—immune to deviations by arbitrary sets of agents—is an $${{\\textsf{N}}}{{\\textsf{P}}}$$ <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mrow> <mml:mi>N</mml:mi> <mml:mi>P</mml:mi> </mml:mrow> </mml:math> -hard problem in trading networks. We also show that even verifying whether a given outcome is stable is $${{\\textsf{N}}}{{\\textsf{P}}}$$ <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mrow> <mml:mi>N</mml:mi> <mml:mi>P</mml:mi> </mml:mrow> </mml:math> -hard in trading networks.",
-      "summary_en": null,
+      "summary_en": "Trading networks — multi-sided matching markets with bilateral contracts without transferable utility — have been studied under the assumption of \"full substitutability\" of preferences. This paper asks the computational question: how hard is it to find stable outcomes? Surprising finding: while \"trail-stable\" outcomes are easy to find (linear time), full stability (immune to deviation by any set of agents) is NP-hard. Even verifying whether a given outcome is stable is computationally hard. The result has implications for real-world matching-market design.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data. Computational-complexity analysis.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian mechanism-design applications with multi-sided contracting (e.g., healthcare networks, student-residence assignment). The paper's hardness result is a limitation to be aware of when designing trading-network markets. Relevant to KRTK's matching-market research. Caveat: worst-case hardness; many real instances are tractable.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "methods",
+        "industrial-organization"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2804763432"
+      "review_status": "ai-drafted",
+      "openalex_id": "W2804763432",
+      "policy_instruments": [
+        "trading-network matching-market design"
+      ]
     },
     {
       "id": "fleiner-jordan-1999-mathprog",
@@ -14923,21 +15040,30 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Many countries place restrictions on the political rights of government workers. This includes limitations on political activities such as taking an active part in political campaigns. Are such restrictions desirable? We present a formal welfare analysis of this question. Bureaucrats’ political activities affect voter perceptions of the government and this can have informational benefits. However, they can also induce policy mistakes and are susceptible to ‘noise’ from some bureaucrats’ innate desire for political expression. When politicians have limited control over bureaucrats and successfully coordinate with voters, bureaucrats’ political activities can be desirable. In most cases, however, banning political activities is optimal.",
-      "summary_en": null,
+      "summary_en": "Many countries restrict the political activity of civil servants (no campaigning, no party affiliation). Are such restrictions welfare-improving? This paper provides a formal welfare analysis. Bureaucrats' political activities can inform voters about the government — a benefit. But they can also induce policy mistakes and are susceptible to \"noise\" from bureaucrats' innate political preferences. Result: when politicians have limited control over bureaucrats and voters coordinate well, political activities can be desirable. In most cases, however, banning them is optimal. A theoretical foundation for common civil-service restrictions.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly relevant to Hungarian civil-service legislation (BM, Ministry of Public Administration). The paper supports the general principle of restricting bureaucrats' political activity while acknowledging specific settings where activity could be beneficial. Useful framework for civil-service-reform debates. Caveat: theoretical; specific Hungarian institutional context (political-appointment structures, voter-information flows) would shape the concrete application.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "political-economy"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W3122702586"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W3122702586",
+      "policy_instruments": [
+        "civil-service political-activity restrictions"
+      ]
     },
     {
       "id": "forand-ujhelyi-et-al-2022-jeea",
@@ -18145,21 +18271,35 @@
       "url_pdf": "https://link.springer.com/content/pdf/10.1007/s10198-021-01424-8.pdf",
       "url_replication": null,
       "abstract": "The acceptability set of EQ-5D-3L quantifies societal preferences concerning age and disease severity. Its measurement profiles and potential role in health resource allocation needs further exploration.",
-      "summary_en": null,
+      "summary_en": "Health-resource allocation benefits from knowing societal preferences over different health states at different ages. The EQ-5D-3L \"acceptability set\" quantifies these preferences. This paper presents a new adaptive-survey methodology to measure the set more efficiently across demographic groups. The approach allows more precise estimation at lower respondent burden. A methodological contribution useful for health-technology assessment and resource-allocation decisions in healthcare systems.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Survey data using an adaptive-survey methodology to measure health-state acceptability across age groups.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian health-technology assessment (GYEMSZI, NEAK) and for EU-level health-economic-evaluation methodology. The paper provides a concrete tool for more accurate quality-adjusted life-year (QALY) measurement in Hungarian cost-effectiveness analyses. Relevant to drug-reimbursement decisions and to healthcare priority-setting. Caveat: methodological; operational deployment requires survey-design investment.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "health",
+        "methods"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
+      "data_types": [
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4205394049"
+      "review_status": "ai-drafted",
+      "openalex_id": "W4205394049",
+      "policy_instruments": [
+        "health-technology assessment",
+        "QALY measurement",
+        "drug-reimbursement decisions"
+      ]
     },
     {
       "id": "hermann-varga-2016-tr",
@@ -20394,21 +20534,37 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Abstract Using unique data from Hungary, the gap in reading and mathematics test scores between Roma and non‐Roma 8th grade students is assessed and a substantial gap between them revealed. Standardized test scores as well as the fraction of students with competences considered inadequate are examined. Regardless of measurement and subject area, the bulk of the gap is explained by social differences in income, wealth and parental education. Using reduced‐form regressions, two major mediating mechanisms are identified: first, on average the home environment of Roma children is less favourable for cognitive development; second, the educational environment of the average Roma student is different from the average non‐Roma student. Comparing students with similar home environments from the same school and class, the ethnic gap in test scores is found to be insignificant. Ethnic differences in the home environment are explained by social disparity, and ethnicity seems to play no additional role in that regard. The unequal distribution of Roma students in schools and classes is found to be explained predominantly by social difference, too, with a significant residual portion, indicating the effect of ethnic segregation.",
-      "summary_en": null,
+      "summary_en": "There is a large test-score gap between Roma and non-Roma students in Hungary. Where does it come from? This paper uses unique Hungarian data on 8th-grade reading and math scores and decomposes the gap. Results: the bulk of the gap is explained by social differences — income, wealth, and parental education. Two mediating mechanisms are identified: (1) Roma children's home environments are less favourable for cognitive development, and (2) the educational environment of the average Roma student differs from that of the average non-Roma student. Comparing students with similar home environments in the same school does not close the gap fully — school-level segregation matters.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian administrative and survey data on 8th-grade students including reading/math test scores and detailed home-environment, parental-education, and school-level variables.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Foundational for Hungarian Roma-education policy (EMMI, Oktatási Hivatal). The paper pinpoints that both home-environment and school-environment factors contribute to the gap — supporting both income-support/parent-engagement programmes and school-desegregation/integration policies. Relevant to ongoing Roma-integration strategy and to current debates about school-tracking and selection. Caveat: decomposition identifies associations, not causal effects; targeted-intervention effects need experimental evidence.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "education-skills",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "panel-data",
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual",
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2089327183"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2089327183",
+      "policy_instruments": [
+        "school desegregation",
+        "home-environment interventions",
+        "parental-engagement programmes"
+      ]
     },
     {
       "id": "kertesi-koll-2002-rile",
@@ -21691,21 +21847,33 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Abstract. The paper analyses the population dynamics of a country that has two ethnic groups, a minority and a majority, and minority members can choose to assimilate into the majority. Depending on the minority's size, the long‐run outcome can be full or no assimilation. Under certain parameter values multiple equilibria exist, including the two extreme cases. The paper demonstrates that both the long‐run outcome and the equilibrium path may be inefficient. Two extensions to the basic model are considered. The first one allows for a comparison between a multicultural and a ‘melting pot’ society. The second one introduces population growth and studies the interplay between exogenous and endogenous changes in the minority's size. JEL classification: J110, J150, J180",
-      "summary_en": null,
+      "summary_en": "When does a minority fully assimilate, and when does it preserve a distinct identity? This paper builds a dynamic model where a minority within a country chooses whether to assimilate into the majority. Outcomes depend on the minority's size: small minorities often fully assimilate; larger ones may preserve distinctness. Multiple equilibria can exist including extreme outcomes. Both long-run outcomes and equilibrium paths may be socially inefficient. Extensions compare \"multicultural\" and \"melting pot\" societies and study interactions between population growth and assimilation. A foundational framework for thinking about ethnic-identity policy.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant to Hungarian minority-policy analysis (Roma integration, Hungarian communities in neighbouring countries). The paper's finding of multiple equilibria supports the view that policy choices can tip societies toward different stable outcomes. Relevant to Roma-integration strategy and to Hungarian-community-support policies abroad. Caveat: theoretical; specific policy implications depend on the empirical parameter values.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "demographics-migration",
+        "political-economy",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W1989237677"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W1989237677",
+      "policy_instruments": [
+        "minority-integration policy",
+        "multiculturalism vs assimilation"
+      ]
     },
     {
       "id": "konya-2006-rie",
@@ -21725,21 +21893,32 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Abstract The paper presents a model that analyzes the role of cultural differences in international trade. The decision to study foreign cultures and languages is incorporated into a simple trade model, which captures basic properties of cultural and language barriers. First, cultural costs differ from physical ones in that they can be eliminated by learning. Secondly, learning a language has economies of scale, thus smaller countries tend to invest more into learning. Thirdly, learning decisions within one country impose an externality on trading partners, since learning by one party makes communication easier also for the other one. This implies that learning decisions are in general inefficient, and the paper derives the connection between the equilibrium and optimal outcomes. Finally, because of the substitutability of learning among countries, a policy where a country subsidizes learning in the other nation—“cultural protectionism”—can be rationalized. Under certain conditions, such a policy can improve the welfare of both countries, in contrast to the case of regular export subsidies.",
-      "summary_en": null,
+      "summary_en": "Cultural barriers to trade — unlike physical barriers — can be reduced by learning (language acquisition, cultural knowledge). This paper models the trade implications of cultural learning. Three main points: (1) cultural costs differ from physical ones in that they're overcomeable; (2) language learning has economies of scale, so smaller countries invest more; (3) learning decisions create externalities — one party learning makes communication easier for both. The paper derives the gap between equilibrium and optimal learning, suggesting systematic under-investment in cultural learning across borders.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian trade-and-education policy (ITM, EMMI, Ministry of Economy). The paper's externality-in-learning argument supports public investment in Hungarian teaching of foreign languages (English in particular) and in foreign students' Hungarian-language learning. Relevant to Erasmus+ and similar mobility programmes. Caveat: theoretical; magnitude of the cultural-learning externality in Hungarian context would need empirical estimation.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "trade-fdi",
+        "education-skills"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2089455037"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2089455037",
+      "policy_instruments": [
+        "foreign-language education",
+        "Erasmus+ mobility support"
+      ]
     },
     {
       "id": "konya-2007-jole",
@@ -21759,21 +21938,34 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This article develops a model that examines the role of cultural conflict in immigration and immigration policy. Cultural differences lead to frictions between natives and immigrants unless the latter make a costly investment to assimilate. This article’s key contribution is the joint analysis of the assimilation and migration decisions, which highlights the inefficiency of some commonly advocated policy tools to achieve the first best. U.S. data provide preliminary support for the model’s implications.",
-      "summary_en": null,
+      "summary_en": "Immigration policy often focuses on quantity — how many to admit. This paper argues quality of assimilation matters too. The model jointly analyses the decision to migrate and the decision to assimilate. Cultural differences create frictions between natives and immigrants unless the latter make costly assimilation investments. The paper shows common immigration-policy tools — quotas, point systems, language tests — can be inefficient relative to the first-best. US data provide preliminary support for the model's implications. A theoretical foundation for thinking about how migration and assimilation interact.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model with preliminary US data comparison. Joint analysis of migration and assimilation decisions.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant to Hungarian migration policy debates (Ministry of Interior, Ministry of Foreign Affairs). The paper supports integrated migration-and-integration-policy design: simply admitting migrants without supporting assimilation investments leaves welfare gains on the table. Relevant to Hungarian language-course design for workers and to immigration-policy reforms. Caveat: theoretical with US stylized facts; Hungarian migration-and-integration context is specific.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "demographics-migration",
+        "labor-markets"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "US",
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2046097848"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2046097848",
+      "policy_instruments": [
+        "migration policy design",
+        "assimilation investment programmes",
+        "language-course subsidies"
+      ]
     },
     {
       "id": "konya-2013-tbejo",
@@ -22151,21 +22343,34 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Abstract This paper examines the effect of economic integration on the product‐level consumption patterns across the OECD in the past decade. Estimation results find evidence of strong convergence in cross‐country consumption patterns with substantial heterogeneity across products and countries. The results are robust to either the benchmark choice, data selection, or the choice of model specification. In addition to documenting convergence, the paper relates the volume of international trade to cross‐country consumption patterns.",
-      "summary_en": null,
+      "summary_en": "Has economic integration made OECD consumers' consumption patterns converge? This paper uses product-level OECD data over the past decade to test the convergence hypothesis. Results show strong convergence in cross-country consumption patterns, though with substantial heterogeneity across products and countries. The finding is robust to benchmark choice, data selection, and model specification. The paper also relates the volume of international trade to consumption-pattern similarities — providing a quantitative bridge between trade-flow analysis and consumer-preference convergence.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Product-level OECD consumption data across countries over the past decade. Multiple model specifications and benchmark comparisons.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant to Hungarian trade and consumer-policy analysis (KSH, MNB). The paper supports the view that EU single-market integration drives consumption-pattern convergence — which has implications for trade-policy expectations, consumer-protection harmonisation, and inflation measurement. Caveat: OECD sample is high-income; dynamics for emerging-market consumers may differ.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "trade-fdi",
+        "macroeconomics"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W1971093288"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W1971093288",
+      "policy_instruments": [
+        "EU single-market integration",
+        "consumer-protection harmonisation"
+      ]
     },
     {
       "id": "konya-vary-2024-jimf",
@@ -23047,21 +23252,35 @@
       "url_pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ecca.12568",
       "url_replication": null,
       "abstract": "Abstract This paper evaluates the effects of the Hungarian disability employment quota, which requires firms over a size threshold to employ individuals with disabilities or pay a non‐compliance tax. In 2010, the tax was raised from very low levels to 170% of the minimum wage cost associated with meeting the quota. We employ a regression discontinuity design on firm‐level data to estimate the effects of the policy and provide a lower‐bound estimate to account for the potential bias resulting from firms bunching below the threshold. Firms respond to the quota by hiring 0.24–0.29 additional workers with disabilities, with a lower bound estimate of 0.12–0.17. However, about two‐thirds of the quota is not fulfilled, which is puzzling as the tax is higher than the minimum wage cost of a worker with disabilities. Our model shows that high hiring costs associated with employing individuals with disabilities might be an important factor behind this anomaly. We test this hypothesis by showing that the effect is weaker in regions with a low share of individuals with disabilities, implying that without adequate policies targeting the removal of supply‐side barriers to the employment of people with disabilities, even strong demand‐side financial incentives cannot achieve their goals.",
-      "summary_en": null,
+      "summary_en": "Hungary's disability employment quota requires firms above a size threshold to employ disabled workers or pay a non-compliance tax. The 2010 tax increase (to 170% of minimum-wage cost) raised the stakes. This paper uses a regression-discontinuity design on firm-level data to evaluate the policy. Firms do hire more disabled workers (0.24–0.29 additional, lower bound 0.12–0.17), but two-thirds of the quota is not fulfilled. The puzzle: the tax is higher than the wage cost of compliance. The authors' model suggests high non-wage hiring costs (workplace adaptation, information) explain why firms prefer paying the tax.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian administrative firm-level data around the 2010 disability-quota tax reform. Regression-discontinuity at the firm-size threshold.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly actionable for Hungarian disability-policy design (EMMI). The paper identifies non-wage hiring costs as the binding constraint on quota compliance; implication is to subsidise workplace-adaptation and matching services rather than (only) raise the tax further. Relevant to ongoing reform debates. Caveat: reform-specific; labour-market tightness has changed since 2010.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "labor-markets",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "rd",
+        "structural"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-firm"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4406807793"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4406807793",
+      "policy_instruments": [
+        "disability-quota tax",
+        "workplace-adaptation subsidies"
+      ]
     },
     {
       "id": "kreko-telegdy-2025-economica",
@@ -25511,21 +25730,35 @@
       "url_pdf": "https://www.tandfonline.com/doi/pdf/10.1080/00343404.2022.2084059?needAccess=true",
       "url_replication": null,
       "abstract": "This article explores dilemmas associated with rural tourism and gentrification in the context of territorial development through two Hungarian case studies. An analytical framework is developed based on the parallel perspectives within economic, social and functional dimensions that often lead to split realities and grave problems. We claim that the iterative interplay between rural tourism and gentrification that prepares the ground for booming development helps to explain the process and its results. As concluded, although rural tourism appears to be an attractive, transferable tool for territorial development, policymakers must carefully apply neo-endogenous development principles to achieve sustainable improvements.",
-      "summary_en": null,
+      "summary_en": "Rural tourism can revive rural areas — but it can also drive gentrification and displace long-standing residents. This paper uses two Hungarian case studies to explore these dilemmas. The analytical framework separates economic, social, and functional dimensions that often lead to \"split realities\": tourism-driven development helps some while marginalising others. The paper argues for careful application of neo-endogenous development principles — working with local communities rather than imposing top-down tourism strategies. Practical lessons for regional-development policy in rural Hungary.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Two Hungarian rural case studies (qualitative and quantitative). Gastronomy-tourism initiatives and their local socio-economic effects.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly relevant to Hungarian rural-development policy and to Ministry of Agriculture LEADER programme design. The paper supports community-led rural-tourism initiatives over external-investor-led ones, and warns of gentrification risks. Relevant to EU rural-development fund targeting. Caveat: case-study-based, not generalisable quantitative estimates.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "regional-urban",
+        "agriculture-food"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4284693613"
+      "review_status": "ai-drafted",
+      "openalex_id": "W4284693613",
+      "policy_instruments": [
+        "LEADER programme design",
+        "rural-tourism policy",
+        "anti-gentrification measures"
+      ]
     },
     {
       "id": "nemes-varga-2015-wp",
@@ -27182,21 +27415,34 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We study the relationship between locus of control and both educational attainment and college aspirations in adolescence, focusing on the potential channels through which locus of control may influence these outcomes. Even after controlling for a comprehensive set of socio-demographic factors and cognitive skills, there remains a strong correlation between locus of control, college aspirations, and attendance. We show that effort is an essential channel through which locus of control operates. Mediation analysis further reveals that this mechanism is more influential than future expectations in determining high-school graduation, college aspirations, and attendance.",
-      "summary_en": null,
+      "summary_en": "Locus of control — the belief that outcomes depend on one's own actions — matters for education. This paper analyses the relationship between locus of control and educational attainment plus college aspirations in adolescents. Even after controlling for socio-demographic factors and cognitive skills, locus of control strongly correlates with college aspirations and attendance. Mediation analysis reveals the key channel: effort. Expectations matter too but less. The result is sharper than previous work because it identifies the specific mechanism through which locus of control operates.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Survey data on adolescent locus of control, cognitive skills, socio-demographic characteristics, college aspirations, and attainment.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian education and social-mobility policy (Oktatási Hivatal, EMMI). The paper supports non-cognitive-skill interventions (specifically targeting effort, not just expectations) to improve educational outcomes for at-risk students. Relevant to Tanoda-type programmes and career-counselling design. Caveat: correlational identification; the causal effect of locus-of-control interventions needs experimental evidence.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "education-skills",
+        "behavioral"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
+      "data_types": [
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4388938527"
+      "review_status": "ai-drafted",
+      "openalex_id": "W4388938527",
+      "policy_instruments": [
+        "non-cognitive-skill interventions",
+        "effort-focused educational programmes"
+      ]
     },
     {
       "id": "szabo-kiss-2023-ee",
@@ -29385,7 +29631,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 46
+      "paper_count": 48
     },
     {
       "id": "education-skills",
@@ -29396,7 +29642,7 @@
       "policy_framing_en": "Relevant to: curriculum design, teacher policy, school tracking age, higher education funding, vocational training.",
       "policy_framing_hu": "Releváns: tantervfejlesztés, tanárpolitika, iskolai szelekció életkora, felsőoktatás finanszírozása, szakképzés.",
       "icon": "graduation-cap",
-      "paper_count": 29
+      "paper_count": 34
     },
     {
       "id": "health",
@@ -29407,7 +29653,7 @@
       "policy_framing_en": "Relevant to: healthcare system design, hospital payment, prevention programs, pharmaceutical policy, mental health services.",
       "policy_framing_hu": "Releváns: egészségügyi rendszer kialakítása, kórházi finanszírozás, prevenciós programok, gyógyszerpolitika, mentális szolgáltatások.",
       "icon": "heart-pulse",
-      "paper_count": 25
+      "paper_count": 29
     },
     {
       "id": "demographics-migration",
@@ -29418,7 +29664,7 @@
       "policy_framing_en": "Relevant to: family policy, pension system, immigration policy, retention of skilled workers.",
       "policy_framing_hu": "Releváns: családpolitika, nyugdíjrendszer, bevándorláspolitika, szakemberek megtartása.",
       "icon": "users",
-      "paper_count": 13
+      "paper_count": 16
     },
     {
       "id": "trade-fdi",
@@ -29429,7 +29675,7 @@
       "policy_framing_en": "Relevant to: EU trade policy, FDI promotion, export promotion, supply chain resilience, industrial policy.",
       "policy_framing_hu": "Releváns: EU kereskedelempolitika, FDI ösztönzés, exporttámogatás, ellátási láncok rugalmassága, iparpolitika.",
       "icon": "globe",
-      "paper_count": 34
+      "paper_count": 36
     },
     {
       "id": "firms-productivity",
@@ -29440,7 +29686,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 67
+      "paper_count": 69
     },
     {
       "id": "innovation-digital",
@@ -29451,7 +29697,7 @@
       "policy_framing_en": "Relevant to: R&D tax credits, digital strategy, AI policy, innovation agency design, university–industry linkages.",
       "policy_framing_hu": "Releváns: K+F adókedvezmények, digitális stratégia, MI-politika, innovációs ügynökségek, egyetem–ipar kapcsolatok.",
       "icon": "cpu",
-      "paper_count": 23
+      "paper_count": 24
     },
     {
       "id": "banking-finance",
@@ -29462,7 +29708,7 @@
       "policy_framing_en": "Relevant to: MNB policy, banking regulation, macroprudential tools, financial inclusion.",
       "policy_framing_hu": "Releváns: MNB-politika, bankszabályozás, makroprudenciális eszközök, pénzügyi befogadás.",
       "icon": "landmark",
-      "paper_count": 46
+      "paper_count": 47
     },
     {
       "id": "fiscal-tax",
@@ -29484,7 +29730,7 @@
       "policy_framing_en": "Relevant to: regional development funds, housing policy, transport investment, urban planning.",
       "policy_framing_hu": "Releváns: regionális fejlesztési alapok, lakáspolitika, közlekedési beruházások, városfejlesztés.",
       "icon": "building",
-      "paper_count": 24
+      "paper_count": 26
     },
     {
       "id": "energy-environment",
@@ -29506,7 +29752,7 @@
       "policy_framing_en": "Relevant to: welfare system, anti-poverty programs, family allowances, gender-equal pay policies.",
       "policy_framing_hu": "Releváns: szociális rendszer, szegénység elleni programok, családi pótlékok, egyenlő bérezés.",
       "icon": "scale",
-      "paper_count": 63
+      "paper_count": 66
     },
     {
       "id": "political-economy",
@@ -29517,7 +29763,7 @@
       "policy_framing_en": "Relevant to: anti-corruption policy, public administration reform, EU affairs, electoral system design.",
       "policy_framing_hu": "Releváns: korrupcióellenes politika, közigazgatási reform, EU-ügyek, választási rendszer.",
       "icon": "building-2",
-      "paper_count": 31
+      "paper_count": 33
     },
     {
       "id": "transition-postcommunist",
@@ -29528,7 +29774,7 @@
       "policy_framing_en": "Relevant to: long-run diagnoses of the Hungarian and CEE economy, lessons from 30+ years of transition, institutional path dependence.",
       "policy_framing_hu": "Releváns: a magyar és KKE gazdaság hosszú távú diagnózisa, 30+ év rendszerváltásának tanulságai, intézményi útfüggőség.",
       "icon": "flag",
-      "paper_count": 12
+      "paper_count": 13
     },
     {
       "id": "behavioral",
@@ -29539,7 +29785,7 @@
       "policy_framing_en": "Relevant to: consumer protection, pension-default design, nudging, financial-education regulation, addictive-product regulation.",
       "policy_framing_hu": "Releváns: fogyasztóvédelem, nyugdíjalap-alapbeállítások, döntéslendítés (nudge), pénzügyi edukáció szabályozása, függőséget okozó termékek szabályozása.",
       "icon": "brain",
-      "paper_count": 34
+      "paper_count": 36
     },
     {
       "id": "industrial-organization",
@@ -29550,7 +29796,7 @@
       "policy_framing_en": "Relevant to: competition policy (GVH), merger review, platform regulation, auction design, sector-specific regulation.",
       "policy_framing_hu": "Releváns: versenypolitika (GVH), fúziókontroll, platformszabályozás, aukciótervezés, ágazati szabályozás.",
       "icon": "network",
-      "paper_count": 26
+      "paper_count": 27
     },
     {
       "id": "macroeconomics",
@@ -29561,7 +29807,7 @@
       "policy_framing_en": "Relevant to: long-run growth forecasting, macroeconomic modelling, sovereign-debt management, stabilisation policy design.",
       "policy_framing_hu": "Releváns: hosszú távú növekedés előrejelzés, makroökonómiai modellek, államadósság-kezelés, stabilizációs politika.",
       "icon": "line-chart",
-      "paper_count": 19
+      "paper_count": 20
     },
     {
       "id": "agriculture-food",
@@ -29572,7 +29818,7 @@
       "policy_framing_en": "Relevant to: EU Common Agricultural Policy (CAP), food-safety regulation, rural development programmes, land-use policy.",
       "policy_framing_hu": "Releváns: EU Közös Agrárpolitika (KAP), élelmiszer-biztonsági szabályozás, vidékfejlesztési programok, földhasználati szabályozás.",
       "icon": "wheat",
-      "paper_count": 9
+      "paper_count": 10
     },
     {
       "id": "methods",
@@ -29583,7 +29829,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 68
+      "paper_count": 76
     }
   ],
   "journals": [

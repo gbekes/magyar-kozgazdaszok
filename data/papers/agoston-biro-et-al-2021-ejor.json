@@ -19,19 +19,32 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Admission to universities is organised in a centralised scheme in Hungary. In this paper we investigate two major specialities of this application: ties and common quotas. A tie occur when some students have the same score at a programme. If not enough seats are available for the last tied group of applicants at a programme then there are three reasonable policies used in practice: 1) all must be rejected, as in Hungary 2) all can be accepted, as in Chile 3) a lottery decides which students are accepted from this group, as in Ireland. Even though student-optimal stable matchings can be computed efficiently for each of the above three cases, we developed (mixed) integer programming (IP) formulations for solving these problems, and compared the solutions obtained by the three policies for a real instance of the Hungarian application from 2008. In the case of Hungary common quotas arise from the faculty quotas imposed on their programmes and from the national quotas set for state-financed students in each subject. The overlapping structure of common quotas makes the computational problem of finding a stable solution NP-hard, even for strict rankings. In the case of ties and common quotas we propose two reasonable stable solution concepts for the Hungarian and Chilean policies. We developed (mixed) IP formulations for solving these stable matching problems and tested their performance on the large scale real instance from 2008 and also for one from 2009 under two different assumptions. We demonstrate that the most general case is also solvable in practice by IP technique.",
-  "summary_en": null,
+  "summary_en": "Hungary's centralised university admission has two complications that make classical matching algorithms inadequate: (1) \"ties\" — students with identical scores at the cutoff; (2) \"common quotas\" — limits that span multiple programmes. This paper develops mixed-integer-programming formulations for three rejection policies (reject all tied, accept all tied, lottery) and compares outcomes on Hungarian data. The comparison illustrates the welfare consequences of each policy. A practical contribution to the Hungarian admission algorithm.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian university-admission administrative data. Mixed-integer-programming optimisation under three rejection-policy alternatives.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly actionable for Hungarian centralised-university-admission system design (Oktatási Hivatal). The paper compares three practical rejection policies and provides the empirical basis for choosing among them. Relevant to felvételi policy reform discussions. Caveat: based on specific Hungarian data and institutional structure; would need adjustment for other admission systems.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "education-skills",
+    "methods"
+  ],
+  "methods": [
+    "structural"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3196438934"
+  "review_status": "ai-drafted",
+  "openalex_id": "W3196438934",
+  "policy_instruments": [
+    "university-admission algorithm",
+    "tie-breaking policy"
+  ]
 }

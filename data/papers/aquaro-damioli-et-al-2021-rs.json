@@ -18,19 +18,34 @@
   "url_pdf": "https://www.tandfonline.com/doi/pdf/10.1080/00343404.2021.1998418?needAccess=true",
   "url_replication": null,
   "abstract": "Cross-regional mergers and acquisitions (M&A) transfer control and diffuse knowledge across space, which facilitates the integration of business systems. We analyse about 40,000 cross-regional acquisitions in Europe completed between 2003 and 2017 and distinguish innovative and non-innovative M&A. Both types of deals cluster into communities constituted by countries or groups of neighbouring countries. However, an increasing proportion of deals connect different communities, especially for innovative M&A. More populous and richer regions host more acquiring and target companies and thus broker communities. Research and development expenditure and skilled human capital are additional factors favouring brokerage of regions by attracting acquirers.",
-  "summary_en": null,
+  "summary_en": "Cross-regional mergers and acquisitions (M&A) transfer control and diffuse knowledge across European regions. This paper analyses ~40,000 cross-regional acquisitions in Europe 2003–2017, distinguishing innovative from non-innovative deals. Both types cluster into communities of neighbouring countries, but innovative M&A increasingly connects across communities. Populous, richer regions broker between communities. R&D expenditure and skilled human capital attract acquirers. A detailed empirical portrait of European business integration through M&A.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "~40,000 cross-regional M&A deals in Europe 2003–2017. Innovative vs. non-innovative classification. Regional characteristics: R&D, skills, economic mass.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian regional-development and FDI-promotion policy (HEPA, NRDI Office). The paper supports building regional R&D and skills capacity as foundations for attracting innovative acquirers. Relevant to Hungarian participation in European venture ecosystem and to EU Single Market-integration monitoring. Caveat: covers 2003–2017; post-2020 dynamics (COVID, de-risking) may differ.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "firms-productivity",
+    "regional-urban",
+    "innovation-digital"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "EU"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4200502768"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4200502768",
+  "policy_instruments": [
+    "regional R&D investment",
+    "FDI-promotion targeting",
+    "EU Single Market integration"
+  ]
 }

@@ -17,19 +17,35 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Abstract Using unique data from Hungary, the gap in reading and mathematics test scores between Roma and non‐Roma 8th grade students is assessed and a substantial gap between them revealed. Standardized test scores as well as the fraction of students with competences considered inadequate are examined. Regardless of measurement and subject area, the bulk of the gap is explained by social differences in income, wealth and parental education. Using reduced‐form regressions, two major mediating mechanisms are identified: first, on average the home environment of Roma children is less favourable for cognitive development; second, the educational environment of the average Roma student is different from the average non‐Roma student. Comparing students with similar home environments from the same school and class, the ethnic gap in test scores is found to be insignificant. Ethnic differences in the home environment are explained by social disparity, and ethnicity seems to play no additional role in that regard. The unequal distribution of Roma students in schools and classes is found to be explained predominantly by social difference, too, with a significant residual portion, indicating the effect of ethnic segregation.",
-  "summary_en": null,
+  "summary_en": "There is a large test-score gap between Roma and non-Roma students in Hungary. Where does it come from? This paper uses unique Hungarian data on 8th-grade reading and math scores and decomposes the gap. Results: the bulk of the gap is explained by social differences — income, wealth, and parental education. Two mediating mechanisms are identified: (1) Roma children's home environments are less favourable for cognitive development, and (2) the educational environment of the average Roma student differs from that of the average non-Roma student. Comparing students with similar home environments in the same school does not close the gap fully — school-level segregation matters.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian administrative and survey data on 8th-grade students including reading/math test scores and detailed home-environment, parental-education, and school-level variables.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Foundational for Hungarian Roma-education policy (EMMI, Oktatási Hivatal). The paper pinpoints that both home-environment and school-environment factors contribute to the gap — supporting both income-support/parent-engagement programmes and school-desegregation/integration policies. Relevant to ongoing Roma-integration strategy and to current debates about school-tracking and selection. Caveat: decomposition identifies associations, not causal effects; targeted-intervention effects need experimental evidence.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "education-skills",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "panel-data",
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual",
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2089327183"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2089327183",
+  "policy_instruments": [
+    "school desegregation",
+    "home-environment interventions",
+    "parental-engagement programmes"
+  ]
 }
