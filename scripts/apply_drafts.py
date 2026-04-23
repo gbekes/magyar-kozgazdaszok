@@ -61,7 +61,8 @@ def apply(drafts_path: str) -> None:
             print(f"SKIP (reviewed): {pid}")
             continue
 
-        for key in ("summary_en", "data_used", "policy_relevance"):
+        for key in ("summary_en", "data_used", "policy_relevance",
+                    "summary_hu", "data_used_hu", "policy_relevance_hu"):
             if d.get(key):
                 p[key] = d[key].strip()
 
