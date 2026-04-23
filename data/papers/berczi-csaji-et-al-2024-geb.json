@@ -18,19 +18,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "The stable marriage and stable roommates problems have been extensively studied due to their applicability in various real-world scenarios. However, it might happen that no stable solution exists, or stable solutions do not meet certain requirements. In such cases, one might be interested in modifying the instance so that the existence of a stable outcome with the desired properties is ensured. We focus on three different modifications. 1. In the stable roommates problem, we show that finding a smallest subset of agents whose removal results in an instance with a stable matching is NP-complete if the capacities are greater than one, or the deleted agents must belong to a fixed subset of vertices. We further show that analogous results hold for the stable marriage problem when one would like to achieve the existence of a stable and perfect matching through the deletion of vertices. 2. We investigate how to modify the preferences of the agents as little as possible so that a given matching becomes stable. The deviation of the new preferences from the original ones can be measured in various ways; here, we concentrate on the ℓ 1 -norm. We show that, assuming the Unique Games Conjecture, the problem cannot be approximated within a factor smaller than 2. By relying on bipartite-submodular functions, we give a polynomial-time algorithm for the bipartite case. We also show that a similar approach leads to a 2-approximation for general graphs. 3. Last, we consider problems where the preferences of agents are not fully prescribed, and the goal is to decide whether the preference lists can be completed so that a stable matching exists. We settle the complexity of several variants, including cases when some of the edges are required to be included or excluded from the solution.",
-  "summary_en": null,
+  "summary_en": "Sometimes stable matchings don't exist, or the ones that do miss certain desirable properties. Can we fix the problem by modifying the instance slightly? This paper studies three such modifications for stable marriage and stable roommates problems. Key computational-complexity findings: finding the smallest set of agents to remove (to make stable matching exist) is NP-complete in many cases; similar hardness for marriage when certain agents must be matched. A deep computational-complexity analysis with practical implications for market-design situations where blocking-pair-free assignments are required.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data. Computational complexity analysis.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian market-design applications (kidney exchange, hospital-doctor matching, school-choice). The paper's hardness results explain why designing efficient matching mechanisms with side-constraints is difficult — but also provides limits on where polynomial algorithms exist. Relevant to Péter Bíró-led KRTK work on mechanism design. Caveat: worst-case hardness; many real-world instances are tractable.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4401852526"
+  "review_status": "ai-drafted",
+  "openalex_id": "W4401852526",
+  "policy_instruments": [
+    "matching-mechanism design",
+    "kidney-exchange algorithms"
+  ]
 }

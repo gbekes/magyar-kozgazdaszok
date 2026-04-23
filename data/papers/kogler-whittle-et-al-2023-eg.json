@@ -19,19 +19,33 @@
   "url_pdf": "https://www.tandfonline.com/doi/pdf/10.1080/00130095.2023.2242551?download=true",
   "url_replication": null,
   "abstract": "The diversification of regions into new technologies is driven by the degree of relatedness to existing capabilities already present in the region. In cases where opportunities for diversification are rather limited, external knowledge that spills over from neighboring regions or from farther away might become an important driver of regional diversification. Despite the relative importance of interregional knowledge flows via collaborative work, we still have a very limited understanding of how collaboration networks across regions might facilitate diversification processes. The present study investigates the diversification patterns of European metropolitan and nonmetropolitan regions into new knowledge domains via technology classes reported in patent applications to the European Patent Office. The findings indicate that externally oriented inventor collaboration networks increase the likelihood that a new technology specialization enters a region, but this external orientation is less important for related diversification than for unrelated diversification. Further, the results demonstrate that interregional collaboration networks help diversification into unrelated technologies if external knowledge sourcing is based on a diverse set of regions and if collaboration is intense within companies located in distinct regions. Within-firm collaborations across regions can compensate for missing related skills in metropolitan and in nonmetropolitan regions alike but are especially important in nonmetropolitan regions. These results provide new evidence about the importance of knowledge flows within multilocation firms in the technological knowledge diversification of regions.",
-  "summary_en": null,
+  "summary_en": "Regions diversify into new technologies mostly based on what they already know — \"relatedness\" predicts diversification. But when a region's local capabilities are limited, external knowledge spillovers matter. This paper investigates how inventor- and firm-collaboration networks across European regions mediate knowledge flows. Using European Patent Office data, the authors show that collaboration ties across regions significantly facilitate diversification into new knowledge domains, especially for regions with weaker local capabilities. A sharp empirical contribution to regional-innovation-policy design.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "European Patent Office patent data covering inventor and firm collaborations across European metropolitan and non-metropolitan regions. Network measures of interregional collaboration.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian regional-innovation policy (NRDI Office, regional-development agencies). The paper supports policies that foster cross-regional R&D collaboration as complement to place-based innovation support. Relevant to Horizon Europe participation, to MNB's research-spillover analysis, and to EU Smart Specialisation strategy implementation. Caveat: patent-based measure; non-patented innovation flows (software, services) not captured.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "innovation-digital",
+    "regional-urban"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "EU"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4386923392"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4386923392",
+  "policy_instruments": [
+    "cross-regional R&D collaboration grants",
+    "Horizon Europe participation",
+    "EU Smart Specialisation"
+  ]
 }

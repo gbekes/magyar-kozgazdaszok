@@ -22,19 +22,32 @@
   "url_pdf": "https://link.springer.com/content/pdf/10.1007/s11187-021-00558-6.pdf",
   "url_replication": null,
   "abstract": "Abstract High-growth enterprises (HGEs) have a large economic impact but are notoriously hard to predict. Previous research has linked high-growth episodes to the configuration of lumpy indivisible resources inside firms, such that high capacity utilisation levels might stimulate future growth. We theorize that firms reaching critically high capacity utilisation levels reach a “trigger point” involving either broad-based investment in further growth or shrinking back to previous levels. We analyze EIBIS survey data (matched to ORBIS) which features a question on time-varying capacity utilisation. Overcapacity is a transitory state. Firms enter into overcapacity after a period of the rapid growth of sales and profits, and the years surrounding overcapacity have higher employment growth rates. Firms operating at overcapacity make incremental investments (e.g. capacity expansion, process improvements and modern machinery) rather than investing in R&amp;D and new product development. We find support for the “fork in the road” hypothesis: for some firms, overcapacity is associated with launching into massive investments and subsequent sales growth, while for other firms, overcapacity is negatively related to both investments and sales growth.",
-  "summary_en": null,
+  "summary_en": "High-growth firms are both economically important and notoriously hard to predict. This paper proposes a new trigger: capacity over-utilisation. When firms reach critically high capacity-utilisation levels, they reach a \"trigger point\" — either broad-based investment in further growth, or shrinking back. Using EIB Investment Survey matched to Orbis, the authors show overcapacity is transitory: firms enter overcapacity after rapid sales and profit growth, and years surrounding overcapacity have higher employment growth. A practical signal for identifying high-growth firms at the moment they're about to invest.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Matched EIB Group Survey of Investment and Orbis firm-level data; time-varying measure of capacity utilisation across EU firms.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly relevant to Hungarian SME support policy and growth-firm targeting (ITM, NRDI). The paper suggests capacity utilisation is a usable signal for timing growth-firm subsidies. Relevant to HEPA SME programmes and to targeting of tax-incentive investment schemes. Caveat: reliance on self-reported capacity measurement in the EIB survey; data quality varies.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "firms-productivity"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "EU"
+  ],
+  "data_types": [
+    "admin-firm",
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3212234162"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3212234162",
+  "policy_instruments": [
+    "SME growth-firm targeting",
+    "capacity-utilisation-based subsidies"
+  ]
 }

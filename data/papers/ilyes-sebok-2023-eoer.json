@@ -17,19 +17,34 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "By using extensive Hungarian administrative data, this study aims to provide empirical evidence that former university ties strongly influence the labour market outcomes of individuals, even early in their careers. The estimates focus on the early career paths of graduates who obtained a master's degree between 2010 and 2017. As direct information on social contacts is not available in the dataset, we proxy university peers as students who started and finished the same university programmes (bachelor's or master's) in the same semester. Our results suggest that individuals are more likely to get hired by given firms if their former peers work there. The measured effects are considered significant and quite robust, even after controlling for the important sources of potential bias. Although we cannot present exact proof of the direct help of contacts, we provide suggestive evidence that seems to confirm the existence of such assistance. Our findings also revealed that the measured benefits are mainly attributable to connections from bachelor's studies. The effect of master's peers is mostly driven by the selection of individuals alongside prevalent study track-firm pathways. By comparing entries into new firms with and without peers, we also show that graduates with links have better labor market outcomes after hiring: they earn higher wages, obtain better and more prestigious positions, and stay longer at their new firm. The results draw attention to the importance of university peers in the labour market and contribute to the discussions about the determinants of early labour market success.",
-  "summary_en": null,
+  "summary_en": "If your university peers end up working at a firm, are you more likely to get hired there too? This paper uses Hungarian administrative data on master's-degree graduates 2010–2017 to test the network-hiring hypothesis. The key proxy for social ties: peers who started and finished the same programme in the same semester. Results: individuals are significantly more likely to be hired by firms where their former peers already work, and the effect is robust to many controls. Evidence that informal-network hiring matters in Hungary's labour market early in careers.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian administrative data on master's graduates 2010–2017. Individual education-programme records linked to firm-employment records. Proxy for peer network: same programme, same finish semester.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant to Hungarian labour-market and higher-education policy (ITM, Oktatási Hivatal). The paper shows university networks materially affect early-career outcomes — important for understanding the returns to prestigious universities, for evaluating internship programmes, and for thinking about Roma and first-generation students who lack such networks. Supports mentoring and alumni-network programmes for disadvantaged graduates. Caveat: network proxy is indirect (same programme/semester); direct network data would strengthen causal claims.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "labor-markets",
+    "education-skills",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4386089070"
+  "review_status": "ai-drafted",
+  "openalex_id": "W4386089070",
+  "policy_instruments": [
+    "alumni-network programmes",
+    "internship matching",
+    "first-generation career support"
+  ]
 }

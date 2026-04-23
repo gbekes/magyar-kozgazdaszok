@@ -17,19 +17,33 @@
   "url_pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/manc.12360",
   "url_replication": null,
   "abstract": "Abstract This paper views the growth and convergence process of five Central‐Eastern European economies between 1996 and 2019—the Czech Republic, Hungary, Poland, Slovenia and Slovakia—through the lens of an open economy, stochastic neoclassical growth model with simple financial frictions. Our main question is whether shocks to the growth rate of productivity (‘trend’) or shocks to the external interest premium are more important to understand the volatility of GDP growth and its components. We find that while GDP growth fluctuations can be traced back to productivity shocks, the composition of GDP—and consumption in particular—was driven particularly by premium shocks. Investment‐specific and labor market shocks are also important. Our panel estimation allows us to separate global and local components for the productivity‐trend and interest premium shocks. Results indicate that the global trend component is well approximated by the growth rate of the advanced European Union economies, and we also find tentative evidence that recent investment behavior is driven to a large extent by European Union funds.",
-  "summary_en": null,
+  "summary_en": "Did Central-Eastern European economies grow the way macro theory predicts? This paper analyses five post-socialist economies (Czech Republic, Hungary, Poland, Slovenia, Slovakia) 1996–2019 using an open-economy stochastic neoclassical growth model with financial frictions. The question: were productivity-trend shocks or external-interest-premium shocks more important for GDP volatility? Finding: GDP-growth fluctuations trace mainly to productivity shocks, but the composition of GDP — especially consumption — was driven by external-premium shocks. Investment-specific and labour-market shocks matter too. A quantitative decomposition for the CEE growth experience.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Panel data on 5 CEE countries 1996–2019. Stochastic open-economy neoclassical growth model with financial frictions.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant to Hungarian macroeconomic analysis (MNB, Pénzügyminisztérium) and to CEE-level policy discussions. The paper quantifies the relative importance of productivity versus external-premium shocks — implying that Hungarian macro-stabilisation policy should particularly target consumption and capital-flow dynamics, not just productivity. Caveat: model-based decomposition; uncertainty about which variables best proxy productivity versus premium shocks.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "macroeconomics",
+    "transition-postcommunist"
+  ],
+  "methods": [
+    "structural"
+  ],
+  "countries_studied": [
+    "HU",
+    "EU"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3136919706"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3136919706",
+  "policy_instruments": [
+    "macro-stabilisation policy",
+    "capital-flow management"
+  ]
 }

@@ -17,19 +17,33 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This paper investigates the effects of non-repayable enterprise grants on Hungarian SMEs, financed from the European Union’s Structural and Cohesion Funds between 2004–2014. Comparing firm- and worker level outcomes of successful and unsuccessful applicants, we find that subsidized firms increase their employment, sales, capital-to-labor ratio and labor productivity, but we find conflicting results for total factor productivity. The skill composition of workers is not affected by the grant, but wages increase, although only for skilled workers and especially managers. These results suggest that the program generates additional investment, but that investment leads to limited technology upgrading at best. According to our simple calculations, the cost of creating an additional job with this program was equivalent to 3 years average wage and each year’s grants contributed to aggregate SME labor productivity growth by 0.2-0.6 percentage points — with an annual cost often in excess of 1 percent of total SME value added.",
-  "summary_en": null,
+  "summary_en": "EU Structural Funds subsidise SMEs in new member states. Do these grants actually improve firm performance? This paper evaluates Hungarian grants 2004–2014 using matched successful-versus-unsuccessful applicants. Findings: subsidised firms show higher employment, sales, capital-to-labour ratio, and labour productivity. But total factor productivity effects are mixed. Wages rise but only for skilled workers and managers — skill composition is unchanged. Grants generate more investment but limited technology upgrading. Simple cost-per-job calculations suggest the programme is expensive per additional job created.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Matched Hungarian administrative firm-level data on EU Structural and Cohesion Fund applicants (successful and unsuccessful) 2004–2014. Employment, sales, productivity, and wage outcomes by worker type.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Essential for Hungarian EU-fund programme-evaluation (Ministry of Economy, EU Affairs Agency). The paper provides a rigorous accounting of the 2004–2014 enterprise-grant round and implies that future grant rounds should target technology-upgrade outcomes more aggressively and reconsider cost-per-job benchmarks. Relevant to the next CEF/RRF planning period. Caveat: evaluated against matched non-grantees; selection on unobservables may remain.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "firms-productivity",
+    "fiscal-tax"
+  ],
+  "methods": [
+    "diff-in-diff",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3186634111"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3186634111",
+  "policy_instruments": [
+    "EU Structural and Cohesion Funds",
+    "SME grant programme design"
+  ]
 }

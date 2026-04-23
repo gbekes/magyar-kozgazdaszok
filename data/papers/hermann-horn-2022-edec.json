@@ -17,19 +17,32 @@
   "url_pdf": "https://www.tandfonline.com/doi/epdf/10.1080/09645292.2022.2160432?needAccess=true&role=button",
   "url_replication": null,
   "abstract": "The paper studies a unique education reform that decreased the length of secondary-level vocational education from 4 to 3 years, reducing the time spent on general subjects while keeping the time spent on vocational training. We use a difference-in-difference strategy by comparing reformed schools with early adopters before and after the reform. We find that students’ general skills have dropped considerably, but the probability of dropout has decreased, and the probability of getting a secondary qualification has increased. These results suggest that such a reform will have mixed labour market consequences, at least in the short run.",
-  "summary_en": null,
+  "summary_en": "Hungary shortened its secondary-level vocational education from 4 to 3 years, cutting time spent on general subjects while keeping vocational training. Was it a good idea? This paper uses a difference-in-differences design comparing reformed schools with early adopters. Findings: students' general skills dropped considerably, but dropout probability decreased and secondary-qualification probability rose. Mixed labour-market implications: shorter programmes get more students across the finish line but with weaker general skills. A clear-eyed empirical evaluation.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian administrative data on secondary-school outcomes, skills, and dropouts around the vocational-education reform. Difference-in-differences with early-adopter schools as control.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly actionable for Hungarian vocational-education reform debates (Oktatási Hivatal, EMMI, Ministry of Economy). The paper's trade-off — more completions at cost of weaker general skills — is the core policy choice. Relevant to current adjustments of szakképzés (vocational training) programmes. Caveat: short-run skill and dropout effects; longer-run labour-market effects are still to be measured.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "education-skills",
+    "labor-markets"
+  ],
+  "methods": [
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4312220004"
+  "review_status": "ai-drafted",
+  "openalex_id": "W4312220004",
+  "policy_instruments": [
+    "vocational-education duration",
+    "general-vs-vocational curriculum balance"
+  ]
 }

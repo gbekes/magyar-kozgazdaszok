@@ -17,19 +17,34 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Several studies document that skills are strong predictors of earnings; however, less is known about the extent to which labour market size influences the return to skills. Using data from a unique representative survey recording the skill requirements of Hungarian firms, we show that social skills have higher returns in large urban labour markets. Surprisingly, this pattern cannot be observed for cognitive skills, while the return to manual skills slightly decreases with labour market size. Our estimates are robust to different agglomeration measures, additional controls and estimation methods; however, returns to skills seem to vary considerably across worker groups.",
-  "summary_en": null,
+  "summary_en": "Big cities pay workers more. How much of that \"urban wage premium\" reflects better return to skills in larger labour markets? This paper uses a unique representative survey of Hungarian firms that record specific skill requirements, allowing precise measurement of returns. Key findings: social skills have higher returns in large urban labour markets; cognitive skills show no such urban premium; manual skills' return slightly decreases with labour-market size. Results are robust across specifications. A sharper empirical account of which skills matter more in cities.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Unique survey-based data on Hungarian firms' skill requirements, combined with wage data. Variation in labour-market size across Hungarian locations.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly relevant to Hungarian regional-labour-policy and skills-training design. The paper supports differentiated training programmes across regions — emphasizing social skills in urban areas where returns are highest. Relevant to EMMI vocational-training policy and to Ministry of Economy regional-labour-market interventions. Caveat: based on survey-measured skill requirements; returns are estimated cross-sectionally rather than quasi-experimentally.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "labor-markets",
+    "regional-urban",
+    "education-skills"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "survey",
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4296703010"
+  "review_status": "ai-drafted",
+  "openalex_id": "W4296703010",
+  "policy_instruments": [
+    "differentiated skills-training programmes",
+    "regional active labour-market policy"
+  ]
 }

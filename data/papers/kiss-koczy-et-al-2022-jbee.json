@@ -19,19 +19,32 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Sorting according to the gender or cognitive abilities of the traders has been investigated as a potential source of overpricing in asset markets. Here we study if sorting according to risk attitudes matters, motivated by the fact that filtering out risk-averse investors is practiced widely in Europe and is in line with the Markets in Financial Instruments Directive (MiFID) of the EU. Despite the central role of risk attitude in the literature, our study is the first that sorts participants into markets by risk tolerance and tests its effect on overpricing. We show that risk sorting can explain overpricing only partially: Markets with the most risk-tolerant traders exhibit larger overpricing than markets with the most risk-averse traders. In our study, risk aversion does not correlate with gender or cognitive abilities, bringing in an additional factor to understand overpricing.",
-  "summary_en": null,
+  "summary_en": "Experimental asset markets often exhibit bubbles and overpricing. Why? Various explanations have been proposed: trader gender, cognitive abilities, and more. This paper tests a new one: risk attitudes. Motivated by EU MiFID II practice of filtering out risk-averse retail investors, the authors sort participants into markets by risk tolerance. Result: markets with the most risk-tolerant traders show greater overpricing than those with the most risk-averse. Risk sorting matters for overpricing but doesn't fully explain it. A policy-relevant contribution to debates about investor-protection filtering.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Laboratory asset-market experiment with Hungarian subjects sorted into markets by risk tolerance.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly informs Hungarian investor-protection policy (MNB, BÉT). The paper shows MiFID II-style risk-aversion screening may exacerbate overpricing in the segments it filters into — an unintended consequence worth considering. Relevant to MiFID II suitability-assessment implementation. Caveat: laboratory evidence; real-market risk-sorting dynamics may differ.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "behavioral",
+    "banking-finance"
+  ],
+  "methods": [
+    "rct"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "field-experiment"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4224280735"
+  "review_status": "ai-drafted",
+  "openalex_id": "W4224280735",
+  "policy_instruments": [
+    "MiFID II suitability assessments",
+    "retail-investor screening"
+  ]
 }

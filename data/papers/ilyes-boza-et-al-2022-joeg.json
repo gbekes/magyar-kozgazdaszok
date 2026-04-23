@@ -19,19 +19,34 @@
   "url_pdf": "https://academic.oup.com/joeg/advance-article-pdf/doi/10.1093/jeg/lbac019/44753621/lbac019.pdf",
   "url_replication": null,
   "abstract": "The aim of this article is to analyze the contribution of social ties to moving to high-opportunity locations and assess whether their effect is more pronounced for low-income individuals as a compensation for economic resources. This is done by utilizing Swedish administrative data and by focusing on a wide range of relationships (observed directly or inferred from the data): close and distant family ties, former co-workers and university peers. For estimating the effect of social ties, we use linear probability models, where observed migration is regressed on individual-specific and target-specific characteristics. To account for the nonrandom sorting of movers between locations, we apply sending municipality–target municipality–occupation fixed effects. Our results suggest that there is a positive relationship between migration and the presence of links at given targets for all the examined contact types. The effects are even stronger if the targets are hard-to-reach municipalities (located in Stockholm County or a municipality with higher housing prices). We also demonstrate that, when moving to such opportunity-rich areas, ties to former co-workers and university peers are even more essential assets for those with limited resources. Furthermore, we show that direct help with housing through contacts is an existing factor that contributes to the effect of social networks on residential mobility. The results reinforce the idea that social ties may be of great help in reducing barriers to mobility and can be used to compensate for limited economic resources. We demonstrate the validity of our fixed-effect estimation strategy using a placebo contact approach.",
-  "summary_en": null,
+  "summary_en": "How do people move to better places? Simply knowing a high-opportunity location exists isn't enough; you need social ties there to make the move. This paper tests the hypothesis using Swedish administrative data, tracking a wide range of ties: close and distant family, former co-workers, and university peers. The finding: social ties significantly help people move to high-opportunity locations, and the effect is stronger for low-income individuals who use ties to compensate for lack of economic resources. An important empirical case for treating social networks as part of economic opportunity.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Swedish administrative data linking individual-level migration, income, and social-network relationships (family, co-workers, university peers). Origin-destination-occupation fixed effects in regression.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian migration-and-mobility policy. The paper shows that low-income Hungarians may be especially constrained from moving to higher-opportunity locations when they lack social networks there. Relevant to internal-migration support programmes, to Roma labour-market-integration efforts, and to Budapest-vs-periphery economic-opportunity policy. Caveat: Swedish data; Hungarian internal-mobility rates are lower and patterns differ.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "labor-markets",
+    "regional-urban",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "SE"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4284959352"
+  "review_status": "ai-drafted",
+  "openalex_id": "W4284959352",
+  "policy_instruments": [
+    "internal-migration support",
+    "relocation-assistance programmes",
+    "anti-isolation measures"
+  ]
 }
