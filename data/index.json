@@ -2389,6 +2389,7 @@
       "policy_relevance": "Hungary faces similar supply-side questions: the returns to higher education, the capacity of the tertiary system, and the lag with which new fields (IT, data science) can train workers. For Oktatási Hivatal and the ministry setting student-quota caps, the paper's lesson is that rapid technology shocks (AI) may widen wage differentials for several years before supply adjusts. Caveat: US-calibrated; Hungarian demographics, migration patterns, and education-policy constraints change the quantitative dynamics.",
       "policy_relevance_hu": null,
       "topics": [
+        "macroeconomics",
         "labor-markets",
         "education-skills"
       ],
@@ -2440,7 +2441,7 @@
       "policy_relevance_hu": null,
       "topics": [
         "fiscal-tax",
-        "firms-productivity"
+        "macroeconomics"
       ],
       "methods": [
         "structural"
@@ -3242,7 +3243,8 @@
       "policy_relevance_hu": null,
       "topics": [
         "labor-markets",
-        "inequality-welfare"
+        "inequality-welfare",
+        "behavioral"
       ],
       "methods": [
         "panel-data",
@@ -3789,7 +3791,7 @@
       "policy_relevance": "Foundational game-theoretic contribution. Indirectly relevant to Hungarian competition-policy analysis (when firms might tacitly coordinate without explicit agreement) and to international negotiations where enforcement is limited (EU multilateral agreements). Caveat: theoretical; applying the concept empirically in specific Hungarian contexts is non-trivial.",
       "policy_relevance_hu": null,
       "topics": [
-        "methods"
+        "industrial-organization"
       ],
       "methods": [
         "theory"
@@ -4094,7 +4096,7 @@
       "policy_relevance": "Primarily academic. The commitment-flexibility framework underlies analysis of rule-based vs discretionary policy (central-bank mandates, fiscal rules). This comment tightens the theoretical prediction about when rigid rules are optimal. Indirect implication: even well-designed flexible rules may need explicit waste/penalty clauses at extreme outcomes, which has always been part of real-world constitutional and fiscal-rule design. Caveat: highly abstract; no direct Hungarian policy mapping.",
       "policy_relevance_hu": null,
       "topics": [
-        "methods",
+        "behavioral",
         "fiscal-tax"
       ],
       "methods": [
@@ -4539,7 +4541,7 @@
       "policy_relevance_hu": null,
       "topics": [
         "inequality-welfare",
-        "methods"
+        "behavioral"
       ],
       "methods": [
         "theory"
@@ -4616,7 +4618,7 @@
       "policy_relevance": "Foundational for behavioural consumer-protection analysis. Indirectly relevant to Hungarian retail-finance regulation and default design: if consumer inconsistency comes from multi-self conflict, then policies that commit consumers to their \"long-run self\" (automatic enrolment in savings, pre-commitment devices) can be welfare-improving. Caveat: the paper is theoretical; concrete Hungarian policy implications depend on empirical identification of which domain-specific multi-self conflicts matter most.",
       "policy_relevance_hu": null,
       "topics": [
-        "methods"
+        "behavioral"
       ],
       "methods": [
         "theory"
@@ -4869,8 +4871,7 @@
       "policy_relevance": "Important for Hungarian trade-policy evaluation. The paper implies that policies targeting export entry (first-time exporter subsidies, export-promotion agencies) may be less effective than policies supporting the intensive margin (enabling existing exporters to grow their export share). Relevant to HEPA (Hungarian Export Promotion Agency) and to EU export-support program evaluation. Caveat: the model is general; Hungarian estimates of the size-independent determinants of exporting would require cross-sectional Hungarian firm data.",
       "policy_relevance_hu": null,
       "topics": [
-        "trade-fdi",
-        "firms-productivity"
+        "trade-fdi"
       ],
       "methods": [
         "structural"
@@ -6582,8 +6583,8 @@
       "policy_relevance": "Relevant to Hungary's sovereign-debt management (AKK, MNB). The paper's punishment-versus-reputation decomposition matters: if markets are dominated by relational enforcement, the cost of a technical default or restructuring is a persistent premium; if reputation dominates, good post-default behaviour can repair credibility faster. Informs debt-management strategy and interaction with international lenders. Caveat: the data are pre-1981 and pre-ECB; today's sovereign-debt markets are more integrated and have formal restructuring mechanisms.",
       "policy_relevance_hu": null,
       "topics": [
-        "banking-finance",
-        "fiscal-tax"
+        "macroeconomics",
+        "banking-finance"
       ],
       "methods": [
         "iv",
@@ -9368,7 +9369,7 @@
       "policy_relevance": "Relevant to Hungarian competition policy (GVH) and digital-platform regulation. Smart contracts on blockchains and dynamic pricing algorithms on e-commerce platforms give durable-goods sellers tools that existed only in theory a decade ago. The paper implies that market power in durable-goods and digital-service markets may be more durable than classical Coase-conjecture arguments suggested, and that the advent of automated contract enforcement is itself a market-structure change. Caveat: the result is theoretical and assumes commitment-preserving contracts — in practice, enforcement and consumer awareness vary, and the effect size in specific Hungarian markets would require case-by-case assessment.",
       "policy_relevance_hu": null,
       "topics": [
-        "methods"
+        "industrial-organization"
       ],
       "methods": [
         "theory"
@@ -9586,7 +9587,7 @@
       "policy_relevance_hu": null,
       "topics": [
         "trade-fdi",
-        "firms-productivity"
+        "macroeconomics"
       ],
       "methods": [
         "structural"
@@ -10156,7 +10157,7 @@
       "policy_relevance": "For competition policy and merger review in Hungary (GVH), the paper provides upper and lower bounds on the distribution of welfare gains/losses as market-structure parameters change. Directly useful as a worst-case/best-case check when evaluating merger-efficiency claims. Caveat: the Cournot framework is stylised; real-world oligopolies have product differentiation, dynamic pricing, and entry considerations the paper does not address.",
       "policy_relevance_hu": null,
       "topics": [
-        "methods"
+        "industrial-organization"
       ],
       "methods": [
         "theory"
@@ -11972,7 +11973,8 @@
       "policy_relevance": "Relevant to consumer protection and disclosure policy in Hungary. The paper suggests that simply making more information available to buyers (mandatory disclosures, easier product comparisons) can backfire when sellers anticipate the resulting behaviour. Important for GVH's consumer-protection stance and for the regulation of investor-information platforms overseen by MNB. Caveat: the model is stylised; effects in practice depend on how \"close to free\" information acquisition really is, and mandatory disclosure still remains welfare-improving in many specific settings where the extreme free-learning limit is not reached.",
       "policy_relevance_hu": null,
       "topics": [
-        "methods"
+        "industrial-organization",
+        "behavioral"
       ],
       "methods": [
         "theory"
@@ -12126,6 +12128,7 @@
       "policy_relevance": "For Hungary's long-run growth forecasting (MNB, Pénzügyminisztérium, KSH) and for retirement-system projections that depend on productivity growth, the paper is a mildly optimistic counter-point to cost-disease pessimism: automation and substitution within services will limit the drag. Relevant to fiscal-sustainability modelling and productivity assumptions in pension projections. Caveat: the calibration is to US data; the Hungarian services mix and productivity gap with the frontier differ, and a Hungarian re-calibration might yield different magnitudes.",
       "policy_relevance_hu": null,
       "topics": [
+        "macroeconomics",
         "firms-productivity"
       ],
       "methods": [
@@ -12958,7 +12961,7 @@
       "policy_relevance": "Relevant to Hungarian auction design for government assets (spectrum, real estate, privatisations) where bidders have uncertain valuations and the seller has information that could help them. The \"handicap auction\" format is implementable and offers revenue gains. Relevant to the Ministry of Development and Hungarian privatisation agency. Caveat: theoretical; implementation in practice requires careful menu design and clear disclosure rules.",
       "policy_relevance_hu": null,
       "topics": [
-        "methods",
+        "industrial-organization",
         "fiscal-tax"
       ],
       "methods": [
@@ -13340,7 +13343,7 @@
       "policy_relevance": "Relevant to Hungarian contract-dispute, procurement, and merger-negotiation contexts where both parties can credibly signal private information. The paper supports procedural rules that reduce the cost of information disclosure (for example, structured due diligence in public procurement). Relevant to Közbeszerzési Hatóság (Public Procurement Office). Caveat: theoretical; identifying the \"hard evidence\" dimension empirically in Hungarian procurement is non-trivial.",
       "policy_relevance_hu": null,
       "topics": [
-        "methods"
+        "industrial-organization"
       ],
       "methods": [
         "theory"
@@ -13385,7 +13388,7 @@
       "policy_relevance": "Relevant to Hungarian government-auction design (privatisations, spectrum auctions, treasury-bond auctions). The result implies that when valuing something is uncertain (resource rights, new spectrum licences), bidders with risk aversion bid more cautiously than a naive risk-premium adjustment suggests; auction revenue estimates should account for this. Relevant to MNB debt-auction design and to GVH/EU-compatible infrastructure auctions. Caveat: theoretical; the quantitative size of precautionary bidding depends on bidders' risk attitudes, which must be estimated separately.",
       "policy_relevance_hu": null,
       "topics": [
-        "methods",
+        "industrial-organization",
         "fiscal-tax"
       ],
       "methods": [
@@ -13477,8 +13480,8 @@
       "policy_relevance": "Hungary is a textbook \"periphery\" economy in this model — exposed to global credit cycles with potentially sharp recessions when flight-to-quality episodes occur (2008–09, COVID-19). Directly relevant to MNB's macroprudential policy, foreign-currency debt exposure management, and the case for capital buffers. The paper supports a systematic precautionary stance: even if a Hungarian recession is caused by a global shock, the amplitude depends on buffers built in good times. Caveat: the calibration is cross-country; Hungary-specific parameters (banking-system openness, forint regime) would change the exact quantitative prescriptions.",
       "policy_relevance_hu": null,
       "topics": [
-        "banking-finance",
-        "methods"
+        "macroeconomics",
+        "banking-finance"
       ],
       "methods": [
         "structural",
@@ -13527,8 +13530,8 @@
       "policy_relevance": "Directly informs MNB's macroprudential policy. The paper supports: countercyclical capital buffers that lean against lax lending in booms (to reduce the depth of the next bust); regulation of expert-investor market power to avoid slow recession reallocation; and recognition that credit-supply externalities mean the decentralised equilibrium is socially inefficient — so some form of active macroprudential intervention is justified even without explicit market failures. Relevant to MNB's Counter-Cyclical Capital Buffer setting and systemic-risk monitoring. Caveat: calibration is US/global; Hungarian magnitudes depend on banking-sector concentration and foreign-bank ownership.",
       "policy_relevance_hu": null,
       "topics": [
-        "banking-finance",
-        "methods"
+        "macroeconomics",
+        "banking-finance"
       ],
       "methods": [
         "structural",
@@ -14027,7 +14030,7 @@
       "policy_relevance": "Relevant to any Hungarian market with many-to-many contracting under taxation (supply chains facing VAT or excise taxes; financial intermediation under transaction taxes). The paper formalises why transaction taxes can cause network rearrangements that depart from efficient matching — a concern for the EU digital-services tax and financial transaction tax debates. Caveat: the model's substitutability assumption is strong and must be verified in real markets before concluding a specific Hungarian tax has these distorting effects.",
       "policy_relevance_hu": null,
       "topics": [
-        "methods",
+        "industrial-organization",
         "fiscal-tax"
       ],
       "methods": [
@@ -14943,7 +14946,7 @@
       "policy_relevance_hu": null,
       "topics": [
         "labor-markets",
-        "methods"
+        "industrial-organization"
       ],
       "methods": [
         "theory"
@@ -15096,7 +15099,7 @@
       "policy_relevance": "Primarily theoretical and of interest for academic and contract-design research. Indirect policy relevance: frameworks of this richness underlie modern regulation-of-CEO-compensation analysis and performance-pay design in principal-agent settings (public enterprises, contractor agreements). Caveat: abstract; no direct Hungarian policy recommendation.",
       "policy_relevance_hu": null,
       "topics": [
-        "methods"
+        "industrial-organization"
       ],
       "methods": [
         "theory"
@@ -15137,7 +15140,7 @@
       "policy_relevance": "Primarily a foundational contribution to contract theory. Relevant to how public-sector performance-pay schemes are designed (Magyar Posta, MÁV, public-administration bonuses) and to firm compensation policy. The result rationalises simple pass/fail bonus contracts over complex performance-sensitive schemes. Caveat: the model assumes a clean effort-monitoring technology; real-world performance evaluation has idiosyncrasies, political interference, and gaming concerns that the model does not address.",
       "policy_relevance_hu": null,
       "topics": [
-        "methods"
+        "industrial-organization"
       ],
       "methods": [
         "theory"
@@ -16595,8 +16598,8 @@
       "policy_relevance": "Relevant to Hungarian industrial-policy and state-aid design in capital-intensive sectors (energy, automotive, semiconductors). Key warning: counter-cyclical investment subsidies that only ease the bust can amplify the boom-side overinvestment. Policies that smooth both ends of the cycle do better. Relevant to Ministry of Economic Development and EU state-aid notifications. Caveat: the model is stylised; specific policy calibration requires sectoral frictions to be identified empirically.",
       "policy_relevance_hu": null,
       "topics": [
-        "firms-productivity",
-        "methods"
+        "macroeconomics",
+        "firms-productivity"
       ],
       "methods": [
         "theory"
@@ -16643,8 +16646,8 @@
       "policy_relevance": "Direct implications for Hungarian consumer-protection regulation (MNB in finance, NFH in telecoms, GVH in general). The paper supports caps on hidden fees and overdraft charges, penalty-feature regulation, and disclosure standards for secondary features — not as a second-best protection, but as competition-enhancing. Relevant to the ongoing implementation of EU consumer-protection directives. Caveat: the theory assumes a specific cognitive structure; ex-ante effectiveness of any specific Hungarian regulation depends on whether the targeted fees fit the \"secondary feature\" mould.",
       "policy_relevance_hu": null,
       "topics": [
-        "methods",
-        "banking-finance"
+        "behavioral",
+        "industrial-organization"
       ],
       "methods": [
         "theory"
@@ -16691,8 +16694,8 @@
       "policy_relevance": "Highly relevant to Hungary's implementation of the EU Digital Services Act and Digital Markets Act. The paper provides a foundation for GVH and NMHH to differentiate between \"helpful\" personalisation (recommending a product the consumer would actually like) and \"harmful\" steering (exploiting a known consumer error). Policy implication: tighter rules on steering that is information-asymmetric against the consumer — e.g. dark patterns, default-setting, price discrimination on known biases. Caveat: the paper is theoretical; empirically distinguishing the two types of steering in real Hungarian online markets is non-trivial and would require access to platform algorithms.",
       "policy_relevance_hu": null,
       "topics": [
-        "innovation-digital",
-        "methods"
+        "behavioral",
+        "innovation-digital"
       ],
       "methods": [
         "theory"
@@ -16739,7 +16742,8 @@
       "policy_relevance": "For Hungarian competition and price-regulation analysis: the paper suggests that the observed lack of price dispersion in some retail markets (FMCG, petrol) is not necessarily evidence of collusion; loss aversion provides a competitive explanation. Relevant to GVH assessments of parallel pricing. Caveat: the model doesn't rule out genuine collusion — it just raises the evidentiary bar for inferring anti-competitive behaviour from pure price parallelism. Careful sectoral analysis still needed.",
       "policy_relevance_hu": null,
       "topics": [
-        "methods"
+        "behavioral",
+        "industrial-organization"
       ],
       "methods": [
         "theory"
@@ -16784,8 +16788,8 @@
       "policy_relevance": "Highly relevant to Hungarian public-health policy (smoking, alcohol, gambling) and consumer-protection in addiction-related markets. Message: \"raising awareness\" interventions that educate people about their self-control problems can backfire unless they deliver full and accurate information. Supports commitment-device based policies (e.g., mandatory cooling-off periods, betting self-exclusion registers) over awareness-only approaches. Caveat: theoretical; specific design of Hungarian interventions requires empirical research on how much self-awareness is realistic.",
       "policy_relevance_hu": null,
       "topics": [
-        "health",
-        "methods"
+        "behavioral",
+        "health"
       ],
       "methods": [
         "theory"
@@ -16831,8 +16835,8 @@
       "policy_relevance": "For the Hungarian retail-credit market (consumer lending, mortgage lending) and MNB consumer protection: the paper provides a welfare rationale for caps on penalty fees, late-payment surcharges, and deferred-interest traps. Particularly relevant to the Hungarian mortgage history (FX-mortgage crisis) and to ongoing supervision of retail consumer credit. Caveat: the evidence is US-based; Hungarian contract structures differ, and the behavioural prevalence of self-control problems in Hungarian consumer-credit populations should be measured empirically before calibrating caps.",
       "policy_relevance_hu": null,
       "topics": [
-        "banking-finance",
-        "methods"
+        "behavioral",
+        "banking-finance"
       ],
       "methods": [
         "theory"
@@ -16879,7 +16883,8 @@
       "policy_relevance": "For Hungarian retail-sector regulation and the CPI-measurement challenge (KSH): the paper explains why observed prices look like \"regular\" and \"sale\" two-point distributions, with implications for inflation measurement and price-comparison regulation. Relevant to GVH's sense of normal versus anti-competitive pricing. Caveat: the model is stylised; real retail pricing also reflects many other factors (inventory costs, supplier pressure, advertising).",
       "policy_relevance_hu": null,
       "topics": [
-        "methods"
+        "behavioral",
+        "industrial-organization"
       ],
       "methods": [
         "theory"
@@ -16959,8 +16964,9 @@
       "policy_relevance": "For MNB and GVH in Hungary, the paper provides a clean welfare rationale for consumer-protection rules targeted specifically at exploitative-pricing practices (hidden fees, punitive penalties, deferred charges) — as distinct from general price-discrimination regulation. Particularly relevant for consumer credit, payment-card regulation, and overdraft/ATM-fee rules. Caveat: the paper is theoretical; identifying \"naïveté-based discrimination\" empirically in Hungarian retail-finance or credit-card markets requires detailed product-design and consumer-vulnerability data not typically available in aggregate statistics.",
       "policy_relevance_hu": null,
       "topics": [
-        "banking-finance",
-        "methods"
+        "behavioral",
+        "industrial-organization",
+        "banking-finance"
       ],
       "methods": [
         "theory"
@@ -17078,8 +17084,8 @@
       "policy_relevance": "Directly relevant to MNB consumer protection and GVH competition policy. The paper supports tighter regulation of hidden fees and unfair-product rules, particularly in retail credit and consumer contracts, because bad products thrive in deceptive equilibria. Relevant to transposing EU Consumer Rights Directive and to the design of mandatory-disclosure rules that make hidden charges visible. Caveat: theoretical; identifying which real-world products fall into the \"socially wasteful\" category requires case-by-case assessment.",
       "policy_relevance_hu": null,
       "topics": [
-        "methods",
-        "banking-finance"
+        "behavioral",
+        "industrial-organization"
       ],
       "methods": [
         "theory"
@@ -17126,8 +17132,7 @@
       "policy_relevance": "Relevant to any policy area where overconfident decision-makers act on feedback — financial regulation (retail investors), management training, entrepreneurship support. The paper suggests that feedback-based \"learning\" interventions have limited corrective power when overconfidence is present; more effective to structure decisions so correct information is implied by the action. For Hungary's financial-consumer education and SME-support programmes, this implies designing defaults and limits rather than relying on experience-based learning. Caveat: the model is theoretical, applicability depends on whether and how a given group is overconfident.",
       "policy_relevance_hu": null,
       "topics": [
-        "methods",
-        "banking-finance"
+        "behavioral"
       ],
       "methods": [
         "theory"
@@ -17173,7 +17178,7 @@
       "policy_relevance": "Foundational for behavioural-economics models that inform Hungarian policy (consumer protection, financial education, public-health communication). Caveat: highly abstract. Specific Hungarian applications require mapping the model's components (agent's mental model, observable outcomes) to concrete decision contexts.",
       "policy_relevance_hu": null,
       "topics": [
-        "methods"
+        "behavioral"
       ],
       "methods": [
         "theory"
@@ -17725,8 +17730,8 @@
       "policy_relevance": "For Hungarian long-run productivity accounting and GDP-growth projections (MNB, PM), the paper reshapes how to think about which sectors drive growth. Services now matter for investment, not just for consumption. Directly relevant to fiscal-space projections and to whether industrial-policy emphasis on manufacturing investment still makes sense. Caveat: the empirical basis is US; Hungarian structural-change paths differ (still more industrial than comparable Western economies), so the quantitative story would need Hungarian calibration before informing specific policy.",
       "policy_relevance_hu": null,
       "topics": [
-        "firms-productivity",
-        "regional-urban"
+        "macroeconomics",
+        "firms-productivity"
       ],
       "methods": [
         "structural",
@@ -18619,8 +18624,8 @@
       "policy_relevance": "Relevant to Hungary's startup-support ecosystem (Design Terminal, Hiventures, EU structural funds for VC). Implication: crowd-in public VC can raise entrepreneurial activity but will tend to lower returns; scarcity of skilled VC is a binding constraint, and capital alone is insufficient without the screening and monitoring that VCs provide. Relevant to evaluation of the MFB/state-backed VC programmes. Caveat: the model is calibrated to US data; Hungarian VC-market depth and the role of state intervention are different.",
       "policy_relevance_hu": null,
       "topics": [
+        "industrial-organization",
         "innovation-digital",
-        "firms-productivity",
         "banking-finance"
       ],
       "methods": [
@@ -19319,8 +19324,8 @@
       "policy_relevance": "For Hungary's climate policy (EU ETS, carbon-intensive sector regulation, energy taxes) the paper cautions against over-reliance on voluntary green consumption — even well-intentioned consumers will systematically under-abate once market feedback is accounted for. Relevant to ITM's climate strategy and policy mix choice: the socially-responsible share of consumers makes the choice between carbon taxes and emission caps non-trivial. Caveat: magnitudes come from a US survey; Hungarian consumer preferences about climate responsibility likely differ and would need their own elicitation before quantitative policy calibration.",
       "policy_relevance_hu": null,
       "topics": [
-        "energy-environment",
-        "methods"
+        "behavioral",
+        "energy-environment"
       ],
       "methods": [
         "theory",
@@ -20047,7 +20052,7 @@
       "policy_relevance_hu": null,
       "topics": [
         "banking-finance",
-        "methods"
+        "behavioral"
       ],
       "methods": [
         "theory",
@@ -20676,8 +20681,7 @@
       "policy_relevance": "For MNB's monitoring of Hungarian government-debt and FX markets (AKK), the paper offers a usable metric — number of dealer connections per client — to detect asymmetric-information patterns. Also relevant to MNB supervision of major banks' client-facing trading desks. Caveat: the study uses UK gilt data; Hungarian market microstructure (smaller, less liquid) may produce different connection-quality relationships.",
       "policy_relevance_hu": null,
       "topics": [
-        "banking-finance",
-        "methods"
+        "banking-finance"
       ],
       "methods": [
         "panel-data"
@@ -20726,7 +20730,7 @@
       "policy_relevance_hu": null,
       "topics": [
         "banking-finance",
-        "methods"
+        "macroeconomics"
       ],
       "methods": [
         "theory"
@@ -21610,7 +21614,7 @@
       "policy_relevance": "Indirect but broad relevance to Hungarian public-sector communication and political economy. The model rationalises why policymakers systematically underweight bad news, why doctors soften medical disclosures, and why organisations filter internal information. Relevant to debates about informational transparency (e.g., disclosing full macroeconomic projections, auditing public projects). Caveat: theoretical; does not prescribe specific Hungarian interventions.",
       "policy_relevance_hu": null,
       "topics": [
-        "methods",
+        "behavioral",
         "political-economy"
       ],
       "methods": [
@@ -21688,8 +21692,7 @@
       "policy_relevance": "A foundational survey rather than a new policy analysis. Useful for Hungarian consumer-protection and financial-regulation policymakers as a framework for identifying which specific market practices are likely to be exploitative versus merely inefficient. Relevant to GVH, MNB, and NFH staff. Caveat: a survey synthesises; specific policy design requires turning its ideas into testable interventions for specific Hungarian markets.",
       "policy_relevance_hu": null,
       "topics": [
-        "methods",
-        "banking-finance"
+        "behavioral"
       ],
       "methods": [
         "theory"
@@ -21730,8 +21733,8 @@
       "policy_relevance": "For Hungarian career-counselling policy, talent-management HR practice, and public-sector hiring. The paper highlights that selection based on past achievement aggregates drive and talent in complex ways; simple meritocratic rules can have unintended effects. Caveat: theoretical and somewhat abstract; operational Hungarian applications require empirical measurement of the drive-talent correlation in specific occupations.",
       "policy_relevance_hu": null,
       "topics": [
-        "labor-markets",
-        "methods"
+        "behavioral",
+        "labor-markets"
       ],
       "methods": [
         "theory"
@@ -21773,8 +21776,8 @@
       "policy_relevance": "Relevant to Hungarian educational policy and labour-market interventions for disadvantaged youth. The paper's implication: interventions for students or job-seekers with low self-confidence need to build resilient self-esteem, not just deliver information or opportunities. Relevant to KRTK research on Roma youth, to early-childhood education policy, and to adult re-training programs. Caveat: theoretical; specific programme design would need to be grounded in empirical measurement of which Hungarian populations have fragile self-esteem.",
       "policy_relevance_hu": null,
       "topics": [
+        "behavioral",
         "education-skills",
-        "labor-markets",
         "inequality-welfare"
       ],
       "methods": [
@@ -21820,7 +21823,7 @@
       "policy_relevance": "Relevant to Hungarian consumer-finance regulation and pension-portfolio default design. The mental-budgeting framework explains why consumers stick to simple allocations and may not respond to fine-grained financial advice. For MNB retirement-product regulation and pension-fund default portfolios: the paper supports limiting choice complexity and designing defaults that reflect realistic cognitive costs rather than idealised portfolio optimisation. Caveat: the model is behavioural and stylised; it describes a tendency, not every household, and does not translate directly into quantitative Hungarian welfare estimates.",
       "policy_relevance_hu": null,
       "topics": [
-        "methods",
+        "behavioral",
         "banking-finance"
       ],
       "methods": [
@@ -22098,8 +22101,8 @@
       "policy_relevance": "For Hungarian sovereign-debt management (AKK, MNB): the paper supports active monitoring of incumbent-lender concentration during stress episodes. Diversification across lender types (retail domestic bonds, FX bonds, syndicated loans) is valuable precisely because it reduces incumbents' coordinated monopoly power. Relevant to Hungarian debt-management strategy. Caveat: the model is about developing-country sovereign lending in the 1970s-80s; Hungarian debt is issued largely in EU markets with different institutional features.",
       "policy_relevance_hu": null,
       "topics": [
-        "banking-finance",
-        "fiscal-tax"
+        "macroeconomics",
+        "banking-finance"
       ],
       "methods": [
         "structural",
@@ -22371,7 +22374,7 @@
       "policy_relevance": "Foundational for market-design questions — when can decentralised trading aggregate information efficiently? Indirect policy relevance for Hungarian market-design contexts (energy markets, labour markets with tightness uncertainty). Caveat: theoretical; specific applications require mapping the model to institutional features of particular Hungarian markets.",
       "policy_relevance_hu": null,
       "topics": [
-        "methods"
+        "industrial-organization"
       ],
       "methods": [
         "theory"
@@ -22956,7 +22959,7 @@
       "policy_relevance_hu": null,
       "topics": [
         "banking-finance",
-        "methods"
+        "macroeconomics"
       ],
       "methods": [
         "theory"
@@ -24824,7 +24827,7 @@
       "policy_relevance": "Primarily academic. The decentralised contracting framework underlies analysis of smart-contract networks, blockchain coordination, and self-enforcing agreements — increasingly policy-relevant areas. Caveat: the result is abstract; implementation in specific Hungarian regulatory contexts (e.g., Web3 policy) requires domain-specific mapping.",
       "policy_relevance_hu": null,
       "topics": [
-        "methods"
+        "industrial-organization"
       ],
       "methods": [
         "theory"
@@ -25233,7 +25236,7 @@
       "policy_relevance": "Primarily academic. Tangentially relevant to the social-discount-rate debate in Hungarian public project appraisal (cost-benefit analysis). The corrective here suggests the biologically-grounded 2% benchmark is weaker than originally claimed. Caveat: highly theoretical; no direct policy prescriptions.",
       "policy_relevance_hu": null,
       "topics": [
-        "methods"
+        "behavioral"
       ],
       "methods": [
         "theory"
@@ -25274,7 +25277,7 @@
       "policy_relevance": "Relevant to Hungarian public-investment and social-discount-rate policy. For the Ministry of Finance and infrastructure-project cost-benefit analysis, the paper suggests that public projects should be evaluated at a lower discount rate than private ones — a principle already reflected in many EU project-appraisal guidelines. The paper grounds that difference in evolutionary logic. Caveat: the evolutionary framework is speculative; the quantitative 2–3pp differential is a macro pattern, not a precise calibration tool.",
       "policy_relevance_hu": null,
       "topics": [
-        "methods",
+        "behavioral",
         "fiscal-tax"
       ],
       "methods": [
@@ -26580,7 +26583,7 @@
       "policy_relevance": "Foundational contribution; indirectly relevant to Hungarian platform-competition and telecom-regulation debates. The result that exclusive-contracting environments can sustain monopoly outcomes is a technical foundation for concerns about exclusive-dealing clauses, which GVH and sectoral regulators regularly examine. Caveat: theoretical; empirical detection of such collusive equilibria in Hungarian markets is challenging.",
       "policy_relevance_hu": null,
       "topics": [
-        "methods"
+        "industrial-organization"
       ],
       "methods": [
         "theory"
@@ -28276,7 +28279,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 31
+      "paper_count": 30
     },
     {
       "id": "education-skills",
@@ -28331,7 +28334,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 55
+      "paper_count": 51
     },
     {
       "id": "innovation-digital",
@@ -28353,7 +28356,7 @@
       "policy_framing_en": "Relevant to: MNB policy, banking regulation, macroprudential tools, financial inclusion.",
       "policy_framing_hu": "Releváns: MNB-politika, bankszabályozás, makroprudenciális eszközök, pénzügyi befogadás.",
       "icon": "landmark",
-      "paper_count": 37
+      "paper_count": 33
     },
     {
       "id": "fiscal-tax",
@@ -28364,7 +28367,7 @@
       "policy_framing_en": "Relevant to: tax reform, budget planning, public debt management, compliance policy.",
       "policy_framing_hu": "Releváns: adóreform, költségvetés-tervezés, államadósság-kezelés, adócompliance.",
       "icon": "coins",
-      "paper_count": 18
+      "paper_count": 16
     },
     {
       "id": "regional-urban",
@@ -28375,7 +28378,7 @@
       "policy_framing_en": "Relevant to: regional development funds, housing policy, transport investment, urban planning.",
       "policy_framing_hu": "Releváns: regionális fejlesztési alapok, lakáspolitika, közlekedési beruházások, városfejlesztés.",
       "icon": "building",
-      "paper_count": 13
+      "paper_count": 12
     },
     {
       "id": "energy-environment",
@@ -28422,15 +28425,59 @@
       "paper_count": 9
     },
     {
+      "id": "behavioral",
+      "name_en": "Behavioral economics",
+      "name_hu": "Viselkedési közgazdaságtan",
+      "description_en": "Reference-dependent preferences, present bias, overconfidence, loss aversion, self-control, naïveté, experimental and field-experimental work on decision-making.",
+      "description_hu": "Referenciafüggő preferenciák, jelenhangsúly, túlzott önbizalom, veszteségkerülés, önkontroll, naivitás, döntéshozatal kísérleti és terepkísérleti vizsgálata.",
+      "policy_framing_en": "Relevant to: consumer protection, pension-default design, nudging, financial-education regulation, addictive-product regulation.",
+      "policy_framing_hu": "Releváns: fogyasztóvédelem, nyugdíjalap-alapbeállítások, döntéslendítés (nudge), pénzügyi edukáció szabályozása, függőséget okozó termékek szabályozása.",
+      "icon": "brain",
+      "paper_count": 24
+    },
+    {
+      "id": "industrial-organization",
+      "name_en": "Industrial organization and market structure",
+      "name_hu": "Iparági szerveződés és piaci struktúra",
+      "description_en": "Competition, pricing, mergers, platforms, auctions, regulated industries, vertical relationships, search markets.",
+      "description_hu": "Verseny, árazás, fúziók, platformok, aukciók, szabályozott iparágak, vertikális kapcsolatok, keresési piacok.",
+      "policy_framing_en": "Relevant to: competition policy (GVH), merger review, platform regulation, auction design, sector-specific regulation.",
+      "policy_framing_hu": "Releváns: versenypolitika (GVH), fúziókontroll, platformszabályozás, aukciótervezés, ágazati szabályozás.",
+      "icon": "network",
+      "paper_count": 20
+    },
+    {
+      "id": "macroeconomics",
+      "name_en": "Macroeconomics and business cycles",
+      "name_hu": "Makroökonómia és üzleti ciklusok",
+      "description_en": "Growth, business cycles, inflation, productivity at the aggregate level, macro-finance interactions, sovereign debt dynamics.",
+      "description_hu": "Növekedés, üzleti ciklusok, infláció, aggregált termelékenység, a makrogazdaság és a pénzügyek kölcsönhatásai, szuverén adósság dinamikája.",
+      "policy_framing_en": "Relevant to: long-run growth forecasting, macroeconomic modelling, sovereign-debt management, stabilisation policy design.",
+      "policy_framing_hu": "Releváns: hosszú távú növekedés előrejelzés, makroökonómiai modellek, államadósság-kezelés, stabilizációs politika.",
+      "icon": "line-chart",
+      "paper_count": 12
+    },
+    {
+      "id": "agriculture-food",
+      "name_en": "Agriculture and food economics",
+      "name_hu": "Agrár- és élelmiszer-gazdaságtan",
+      "description_en": "Agricultural productivity, farm subsidies, food policy, land use, rural development, agri-food value chains.",
+      "description_hu": "Mezőgazdasági termelékenység, agrártámogatások, élelmiszer-politika, földhasználat, vidékfejlesztés, agrár-élelmiszer értékláncok.",
+      "policy_framing_en": "Relevant to: EU Common Agricultural Policy (CAP), food-safety regulation, rural development programmes, land-use policy.",
+      "policy_framing_hu": "Releváns: EU Közös Agrárpolitika (KAP), élelmiszer-biztonsági szabályozás, vidékfejlesztési programok, földhasználati szabályozás.",
+      "icon": "wheat",
+      "paper_count": 0
+    },
+    {
       "id": "methods",
-      "name_en": "Methods and econometrics",
-      "name_hu": "Módszertan és ökonometria",
-      "description_en": "Papers whose primary contribution is methodological: estimation, identification, computation.",
-      "description_hu": "Olyan tanulmányok, amelyek elsődleges hozzájárulása módszertani: becslés, azonosítás, számítás.",
-      "policy_framing_en": "Relevant to: rigorous program evaluation; papers here explain how to measure policy effects credibly.",
+      "name_en": "Econometrics and methods",
+      "name_hu": "Ökonometria és módszertan",
+      "description_en": "Papers whose primary contribution is methodological: estimation, identification, computation, or general theory of inference and mechanism design.",
+      "description_hu": "Olyan tanulmányok, amelyek elsődleges hozzájárulása módszertani: becslés, azonosítás, számítás, illetve az inferencia és mechanizmustervezés általános elmélete.",
+      "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 92
+      "paper_count": 51
     }
   ],
   "journals": [
@@ -29548,6 +29595,6 @@
   "counts": {
     "authors": 76,
     "papers": 662,
-    "topics": 15
+    "topics": 19
   }
 }

@@ -37,7 +37,8 @@ PAPERS = ROOT / "data" / "papers"
 TOPICS = {"labor-markets", "education-skills", "health", "demographics-migration",
           "trade-fdi", "firms-productivity", "innovation-digital", "banking-finance",
           "fiscal-tax", "regional-urban", "energy-environment", "inequality-welfare",
-          "political-economy", "transition-postcommunist", "methods"}
+          "political-economy", "transition-postcommunist", "methods",
+          "behavioral", "industrial-organization", "macroeconomics", "agriculture-food"}
 METHODS = {"rct", "diff-in-diff", "iv", "rd", "panel-data", "synthetic-control",
            "structural", "theory", "time-series", "ml-text", "descriptive-survey"}
 DATA_TYPES = {"admin-firm", "admin-tax", "admin-individual", "survey",

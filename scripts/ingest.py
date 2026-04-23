@@ -65,6 +65,7 @@ CONTROLLED = {
         "trade-fdi", "firms-productivity", "innovation-digital", "banking-finance",
         "fiscal-tax", "regional-urban", "energy-environment", "inequality-welfare",
         "political-economy", "transition-postcommunist", "methods",
+        "behavioral", "industrial-organization", "macroeconomics", "agriculture-food",
     ],
     "methods": [
         "rct", "diff-in-diff", "iv", "rd", "panel-data", "synthetic-control",

@@ -140,12 +140,52 @@
     "icon": "flag"
   },
   {
+    "id": "behavioral",
+    "name_en": "Behavioral economics",
+    "name_hu": "Viselkedési közgazdaságtan",
+    "description_en": "Reference-dependent preferences, present bias, overconfidence, loss aversion, self-control, naïveté, experimental and field-experimental work on decision-making.",
+    "description_hu": "Referenciafüggő preferenciák, jelenhangsúly, túlzott önbizalom, veszteségkerülés, önkontroll, naivitás, döntéshozatal kísérleti és terepkísérleti vizsgálata.",
+    "policy_framing_en": "Relevant to: consumer protection, pension-default design, nudging, financial-education regulation, addictive-product regulation.",
+    "policy_framing_hu": "Releváns: fogyasztóvédelem, nyugdíjalap-alapbeállítások, döntéslendítés (nudge), pénzügyi edukáció szabályozása, függőséget okozó termékek szabályozása.",
+    "icon": "brain"
+  },
+  {
+    "id": "industrial-organization",
+    "name_en": "Industrial organization and market structure",
+    "name_hu": "Iparági szerveződés és piaci struktúra",
+    "description_en": "Competition, pricing, mergers, platforms, auctions, regulated industries, vertical relationships, search markets.",
+    "description_hu": "Verseny, árazás, fúziók, platformok, aukciók, szabályozott iparágak, vertikális kapcsolatok, keresési piacok.",
+    "policy_framing_en": "Relevant to: competition policy (GVH), merger review, platform regulation, auction design, sector-specific regulation.",
+    "policy_framing_hu": "Releváns: versenypolitika (GVH), fúziókontroll, platformszabályozás, aukciótervezés, ágazati szabályozás.",
+    "icon": "network"
+  },
+  {
+    "id": "macroeconomics",
+    "name_en": "Macroeconomics and business cycles",
+    "name_hu": "Makroökonómia és üzleti ciklusok",
+    "description_en": "Growth, business cycles, inflation, productivity at the aggregate level, macro-finance interactions, sovereign debt dynamics.",
+    "description_hu": "Növekedés, üzleti ciklusok, infláció, aggregált termelékenység, a makrogazdaság és a pénzügyek kölcsönhatásai, szuverén adósság dinamikája.",
+    "policy_framing_en": "Relevant to: long-run growth forecasting, macroeconomic modelling, sovereign-debt management, stabilisation policy design.",
+    "policy_framing_hu": "Releváns: hosszú távú növekedés előrejelzés, makroökonómiai modellek, államadósság-kezelés, stabilizációs politika.",
+    "icon": "line-chart"
+  },
+  {
+    "id": "agriculture-food",
+    "name_en": "Agriculture and food economics",
+    "name_hu": "Agrár- és élelmiszer-gazdaságtan",
+    "description_en": "Agricultural productivity, farm subsidies, food policy, land use, rural development, agri-food value chains.",
+    "description_hu": "Mezőgazdasági termelékenység, agrártámogatások, élelmiszer-politika, földhasználat, vidékfejlesztés, agrár-élelmiszer értékláncok.",
+    "policy_framing_en": "Relevant to: EU Common Agricultural Policy (CAP), food-safety regulation, rural development programmes, land-use policy.",
+    "policy_framing_hu": "Releváns: EU Közös Agrárpolitika (KAP), élelmiszer-biztonsági szabályozás, vidékfejlesztési programok, földhasználati szabályozás.",
+    "icon": "wheat"
+  },
+  {
     "id": "methods",
-    "name_en": "Methods and econometrics",
-    "name_hu": "Módszertan és ökonometria",
-    "description_en": "Papers whose primary contribution is methodological: estimation, identification, computation.",
-    "description_hu": "Olyan tanulmányok, amelyek elsődleges hozzájárulása módszertani: becslés, azonosítás, számítás.",
-    "policy_framing_en": "Relevant to: rigorous program evaluation; papers here explain how to measure policy effects credibly.",
+    "name_en": "Econometrics and methods",
+    "name_hu": "Ökonometria és módszertan",
+    "description_en": "Papers whose primary contribution is methodological: estimation, identification, computation, or general theory of inference and mechanism design.",
+    "description_hu": "Olyan tanulmányok, amelyek elsődleges hozzájárulása módszertani: becslés, azonosítás, számítás, illetve az inferencia és mechanizmustervezés általános elmélete.",
+    "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
     "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
     "icon": "function-square"
   }
