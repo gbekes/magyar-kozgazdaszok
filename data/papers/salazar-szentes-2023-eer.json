@@ -17,19 +17,30 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This paper examines an environment inhabited by self-interested individuals and unconditional cooperators. The individuals are randomly paired and engage in the Prisoner’s Dilemma Game. Cooperation among players is incentivized by institutional capital, and selfish individuals incur a cost to identify situations where defection goes unpunished. In this environment, we explore the coevolution of types and institutional capital, with both the distribution of types and capital evolving through myopic best-response dynamics. The equilibria are shown to be Pareto-ranked. The main finding is that any equilibrium level of institutional capital exceeds the optimal amount in the long run. Thus, forward-looking optimal institutions not only foster a more cooperative culture but are also more cost-effective compared to the myopically optimal ones.",
-  "summary_en": null,
+  "summary_en": "Why do some societies develop strong institutions that enforce cooperation, while others don't? This paper builds an evolutionary model where selfish individuals and unconditional cooperators co-exist, and institutional capital (like enforcement, monitoring) evolves alongside the distribution of types. Equilibria are Pareto-ranked. The main finding: the equilibrium level of institutional capital always exceeds the long-run optimum — societies over-invest in enforcement. Forward-looking institutional design fosters more cooperative culture and is also more cost-effective. A theoretical foundation for institutional-reform debates.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian institutional-reform debates (transparency, anti-corruption, rule of law): the paper formalises how institutional capital, cooperative culture, and individual behaviour co-evolve. Supports integrated reform packages over piecemeal enforcement. Indirect relevance to EU cohesion-fund conditionality on rule-of-law. Caveat: theoretical and evolutionary — time scales are very long; concrete short-run Hungarian implications are indirect.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "political-economy",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4388191512"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4388191512",
+  "policy_instruments": [
+    "rule-of-law reform",
+    "institutional-capital investment"
+  ]
 }

@@ -16,19 +16,31 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "In this paper we propose a mechanism for the allocation of pipeline capacities, assuming that the participants bidding for capacities do have subjective evaluation of various network routes. The proposed mechanism is based on the concept of bidding for route–quantity pairs. Each participant defines a limited number of routes and places multiple bids, corresponding to various quantities, on each of these routes. The proposed mechanism assigns a convex combination of the submitted bids to each participant, thus its called convex combinatorial auction. The capacity payments in the proposed model are determined according to the Vickrey–Clarke–Groves principle. We compare the efficiency of the proposed algorithm with a simplified model of the method currently used for pipeline capacity allocation in the EU (simultaneous ascending clock auction of pipeline capacities) via simulation, according to various measures, such as resulting and net utility of players, utilization of network capacities, total income of the auctioneer and fairness.",
-  "summary_en": null,
+  "summary_en": "Pipeline network capacity allocation is a classic auction-design problem: bidders want capacity on specific routes, but routes interact in complex ways. This paper proposes a \"convex combinatorial auction\" where each bidder defines multiple route–quantity bids, and a convex combination of bids is assigned. Payments follow the Vickrey-Clarke-Groves principle. The paper compares efficiency with current methods and shows the convex approach performs better. A concrete mechanism-design contribution with direct industry application.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Simulation of pipeline capacity auction scenarios with synthetic bid data; comparison with simplified version of current allocation method.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly relevant to Hungarian energy-market regulation (MEKH) and to European gas-transmission capacity allocation debates (FGSZ, MGP). The paper offers a concrete improvement over current allocation methods for cross-border capacity, with implications for EU Capacity Allocation Mechanism regulation. Relevant to ongoing gas-market design reforms. Caveat: the simulation is stylised; practical deployment requires fit with regulator-approved allocation frameworks.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "energy-environment",
+    "industrial-organization",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3005775756"
+  "review_status": "ai-drafted",
+  "openalex_id": "W3005775756",
+  "policy_instruments": [
+    "gas-pipeline capacity auction design",
+    "EU Capacity Allocation Mechanism"
+  ]
 }

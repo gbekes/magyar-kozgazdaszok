@@ -17,19 +17,30 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We study bankruptcy problems in financial networks in the presence of general bankruptcy laws. The set of clearing payment matrices is shown to be a lattice, which guarantees the existence of a greatest clearing payment and a least clearing payment. Multiplicity of clearing payment matrices is both a theoretical and a practical concern. We present a new condition for uniqueness that generalizes all the existing conditions proposed in the literature. Our condition depends on the decomposition of the financial network into strongly connected components. A strongly connected component that contains more than one agent is called a cycle, and the involved agents are called cyclical agents. If there is a cycle without successors, then one of the agents in such a cycle should have a strictly positive endowment. The division rule used by a cyclical agent with a strictly positive endowment should be positive monotonic, and the rule used by a cyclical agent with a zero endowment should be strictly monotonic. Because division rules involving priorities are not positive monotonic, uniqueness of the clearing payment matrix is a much bigger concern for such division rules than for proportional ones. As a final contribution of the paper, we exhibit the relationship between the uniqueness of clearing payment matrices and the continuity of bankruptcy rules, a property that is very much desired for stability of financial systems. Funding: This research was supported by the Higher Education Institutional Excellence Program 2020 of the Ministry of Innovation and Technology in the framework of the “Financial and Public Services” research project [Grant TKP2020-IKA-02] at Corvinus University of Budapest. P. Csóka received funding from the National Research, Development and Innovation Office [Grants K-120035 and K-138826].",
-  "summary_en": null,
+  "summary_en": "When is the outcome of bankruptcy clearing in a financial network uniquely determined? Multiplicity of clearing solutions is a theoretical and practical problem. This paper presents a new uniqueness condition that generalises all previous conditions. It depends on the decomposition of the financial network into strongly-connected components. \"Cycles\" (strongly-connected components with more than one agent) can create multiplicity; if a cycle has no external successors, at least one of its cyclical agents must have strictly positive endowments to ensure uniqueness. A clean characterisation with direct implementation implications.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly relevant to financial-stability supervision (MNB, ESRB). The paper's characterisation of multiplicity in clearing gives regulators a practical criterion for when interbank-liability networks will have deterministic resolution outcomes — a prerequisite for effective crisis management. Relevant to SRM (Single Resolution Mechanism) implementation in Hungary. Caveat: the condition is sharp but requires detailed network data to apply.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "banking-finance",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4327595745"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4327595745",
+  "policy_instruments": [
+    "interbank-network stress testing",
+    "resolution-mechanism design"
+  ]
 }

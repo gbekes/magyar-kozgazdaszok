@@ -18,19 +18,33 @@
   "url_pdf": "https://www.sciencedirect.com/science/article/am/pii/S0929119916301419?via%3Dihub",
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "Privatization is one of the most studied post-communist reforms, but estimates of its effect on firm performance vary widely across studies and countries. Why? This paper investigates the heterogeneity in privatisation effects, using cross-country firm-level data. Results depend on: baseline institutional quality, the type of privatisation method used, initial firm conditions, and post-privatisation corporate governance. Understanding the conditional-effects structure helps explain why privatisation can be a great reform in some settings and a disaster in others. Useful for evaluating past Hungarian privatisations and any future state-asset sales.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Cross-country firm-level panel data covering privatisation episodes in transition economies; firm-performance outcomes (productivity, employment, revenue).",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct historical relevance to Hungarian state-owned-enterprise privatization debates (MNV, Ministry of Economy). The paper's conditional-effects framing supports careful sequencing: institutional quality and post-privatisation governance determine outcomes more than the act of privatisation itself. Relevant to future SOE reforms and to evaluation of past privatisations. Caveat: privatisation-era-specific context; modern SOE governance (SOE performance contracts, EU state-aid rules) provides different tools.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "transition-postcommunist",
+    "firms-productivity"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "EU",
+    "GLOBAL"
+  ],
+  "data_types": [
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3126143073"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3126143073",
+  "policy_instruments": [
+    "SOE privatization design",
+    "post-privatization governance"
+  ]
 }

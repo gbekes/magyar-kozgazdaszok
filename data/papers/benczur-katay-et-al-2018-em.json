@@ -18,19 +18,35 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We present a general-equilibrium behavioural microsimulation model designed to assess long-run macroeconomic, fiscal and distributional consequences of tax and benefit reforms in a small open economy. We apply the model to reforms adopted in Hungary between 2008 and 2013, a period characterised by intense reform activity in the wake of the financial crisis. Innovations of the model include the treatment of labour supply responses of individuals, affecting both participation (extensive margin) and work intensity (intensive margin), and the incorporation of general-equilibrium effects by a parsimonious macroeconomic model. Our results suggest that Hungary's flat tax reform may have boosted output by improving work incentives of high earners (along the intensive margin), but reduced work incentives and employment levels of low earners. We find that policy measures introduced since 2008 substantially increase income inequality. Moreover, the contribution of changes after 2010 is about four times that of the changes before 2010.",
-  "summary_en": null,
+  "summary_en": "Between 2008 and 2013, Hungary underwent intense tax and benefit reform — including the flat income tax. Did it work? This paper builds a general-equilibrium behavioral microsimulation model for Hungary and evaluates the long-run effects. Individuals adjust labor supply on two margins (participation, hours); a parsimonious macro model adds general-equilibrium feedback. Results: the flat tax likely boosted output by improving intensive-margin incentives for high earners, but reduced work incentives for lower earners along the extensive margin. A rigorous quantitative evaluation of a major Hungarian reform, integrating micro and macro effects.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian administrative and survey micro-data linked into a general-equilibrium behavioral microsimulation model. Covers 2008–2013 tax-benefit reforms.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Central reference for Hungarian tax-reform analysis (Pénzügyminisztérium, MNB, KRTK). The paper quantifies that the flat tax had asymmetric effects across the income distribution and net output gains with distributional costs — an empirical base for ongoing debates about reintroducing progressive-tax elements or adjusting the flat-rate design. Relevant to KATA/KIVA reforms, familly-tax-allowance design, and benefit-system redesign. Caveat: long-run macro effects come from calibrated assumptions; central-estimate uncertainty bands are wide.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "fiscal-tax",
+    "labor-markets",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "structural"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual",
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2883299525"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2883299525",
+  "policy_instruments": [
+    "flat income tax",
+    "family tax allowance",
+    "benefit-eligibility design"
+  ]
 }

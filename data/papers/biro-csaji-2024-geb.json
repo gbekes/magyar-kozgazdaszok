@@ -17,19 +17,30 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We study strong core and Pareto-optimal solutions for multiple partners matching problem under lexicographic preference domains from a computational point of view. The restriction to the two-sided case is called stable many-to-many matching problem and the general one-sided case is called stable fixtures problem. We provide an example to show that the strong core can be empty even for many-to-many problems, and that deciding the non-emptiness of the strong core is NP-hard. On the positive side, we give efficient algorithms for finding a near feasible strong core solution and for finding a fractional matching in the strong core of fractional matchings. In contrast with the NP-hardness result for the stable fixtures problem, we show that finding a maximum size matching that is Pareto-optimal can be done efficiently for many-to-many problems. Finally, we show that for reverse-lexicographic preferences the strong core is always non-empty in the many-to-many case.",
-  "summary_en": null,
+  "summary_en": "Matching problems with multiple partners (like hospital-doctor networks with multiple positions, school-student assignments with multi-year attendance) can have complex core structures. This paper studies computational tractability of strong core and Pareto-optimal solutions under lexicographic preferences. Findings: the strong core can be empty even for many-to-many problems; deciding non-emptiness is NP-hard. On the positive side, efficient algorithms exist for finding near-feasible strong-core solutions and fractional matchings. The paper tightens the computational characterization of a classical matching problem, relevant to market-design practice.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data. Computational-complexity analysis.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian market-design applications: kidney-exchange programmes (with multi-donor options), teacher-school matching, university admissions with multiple offers. The paper informs practical algorithm choice when designing real allocation mechanisms. Relevant to the Péter Bíró-led KRTK game-theory group's ongoing work on kidney exchange. Caveat: hardness is worst-case; realistic instances often admit fast solutions.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "methods",
+    "industrial-organization"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4393187498"
+  "review_status": "ai-drafted",
+  "openalex_id": "W4393187498",
+  "policy_instruments": [
+    "kidney-exchange mechanism design",
+    "school-choice algorithm design"
+  ]
 }

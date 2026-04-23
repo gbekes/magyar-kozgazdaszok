@@ -17,19 +17,30 @@
   "url_pdf": "https://pubsonline.informs.org/doi/pdf/10.1287/mnsc.2017.2847",
   "url_replication": null,
   "abstract": "We consider a situation in which agents have mutual claims on each other, summarized in a liability matrix. Agents’ assets might be insufficient to satisfy their liabilities, leading to defaults. In case of default, bankruptcy rules are used to specify the way agents are going to be rationed. A clearing payment matrix is a payment matrix consistent with the prevailing bankruptcy rules that satisfies limited liability and priority of creditors. Since clearing payment matrices and the corresponding values of equity are not uniquely determined, we provide bounds on the possible levels equity can take. Unlike the existing literature, which studies centralized clearing procedures, we introduce a large class of decentralized clearing processes. We show the convergence of any such process in finitely many iterations to the least clearing payment matrix. When the unit of account is sufficiently small, all decentralized clearing processes lead essentially to the same value of equity as a centralized clearing procedure. As a policy implication, it is not necessary to collect and process all the sensitive data of all the agents simultaneously and run a centralized clearing procedure. This paper was accepted by Yinyu Ye, optimization.",
-  "summary_en": null,
+  "summary_en": "When a web of firms owe each other money and some of them default, who gets paid what? Financial networks with mutual liabilities and insufficient assets create a clearing problem. This paper introduces decentralised clearing processes — where agents make payments to each other according to bankruptcy rules — and shows any such process converges in finite time. This is an important complement to centralised clearing procedures previously studied. Useful for thinking about how financial-network crises could be resolved in practice, when central coordination may be unavailable.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Foundational for Hungarian financial-stability policy (MNB, OBA). The paper supports the concept that well-designed decentralised settlement rules can clear distressed financial networks — relevant to interbank-market stress and payment-system resilience. Relevant to design of BRRD-type resolution procedures. Caveat: theoretical; specific implementation in Hungarian settlement systems (GIRO, VIBER) would require institutional detail not in the paper.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "banking-finance",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2255966915"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2255966915",
+  "policy_instruments": [
+    "decentralised settlement design",
+    "interbank resolution procedures"
+  ]
 }

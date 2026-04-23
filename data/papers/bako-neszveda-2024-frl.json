@@ -17,19 +17,30 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "The existence of a negative risk-return relationship challenges the conventional wisdom of finance, which typically assumes a positive correlation between risk and return. Reference-dependent preferences, motivated by prospect theory, offer a possible explanation for this negative risk-return relation. However, as we demonstrate in this paper prospect theory does not provide a general explanation for this puzzle. We show that the expected utility theory with an aspiration level can effectively account for this phenomenon.",
-  "summary_en": null,
+  "summary_en": "A long-standing finance puzzle: across many assets, the risk-return relationship is negative — riskier assets often earn lower returns, contrary to standard theory. Prospect theory has been offered as an explanation. This paper shows prospect theory doesn't give a general account, but expected-utility theory with an aspiration level does. A cleaner, more tractable explanation for why observed risk-return relationships sometimes go the wrong way. Useful for portfolio-theory teaching and for thinking about retail-investor behaviour.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data. Motivated by empirical asset-pricing literature documenting the negative risk-return relationship.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian retail-investor protection (MNB, BÉT): the paper suggests that investor behaviour deviating from mean-variance optimisation can be captured by aspiration-level models. Relevant to MiFID II suitability assessments and to household-finance regulation. Caveat: theoretical; quantitative calibration to Hungarian household investment data would strengthen the policy case.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "banking-finance",
+    "behavioral"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4390582788"
+  "review_status": "ai-drafted",
+  "openalex_id": "W4390582788",
+  "policy_instruments": [
+    "MiFID II suitability assessments",
+    "retail-investor protection"
+  ]
 }

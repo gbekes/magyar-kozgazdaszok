@@ -18,19 +18,32 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "During the COVID-19 pandemic, many countries eased the burden on borrowers through loan forbearance. Using a representative sample of the Hungarian adult population, we investigate whether time preferences and locus of control are associated with loan forbearance takeup. We find evidence that time discounting correlates with the resort to forbearance: ceteris paribus, more patient individuals are less likely to take up forbearance, even after controlling for their present/future bias, risk aversion, locus of control, demographic characteristics, educational level, financial status, and the effects of the pandemic. However, present bias and locus of control are not significantly associated with loan forbearance.",
-  "summary_en": null,
+  "summary_en": "Hungary offered loan forbearance (pause on repayments) during COVID-19. Who actually took it up? This paper surveys a representative sample of Hungarian adults and links forbearance takeup to psychological and economic traits. Main finding: more patient individuals (lower time discounting) were less likely to take up forbearance, even controlling for present/future bias, risk aversion, locus of control, demographics, and pandemic effects. Locus of control and present bias were not significantly associated with takeup. A clean empirical result relevant for designing financial-support programmes.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Representative survey of Hungarian adults during COVID-19 period. Individual-level measures of time preferences, risk aversion, locus of control; linked to reported loan forbearance usage.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant to Hungarian consumer-credit and crisis-support policy design (MNB, Ministry of Finance). The paper suggests that patient consumers use forbearance less — meaning emergency forbearance programmes reach a specific subset of borrowers, not necessarily those with the greatest need. Useful for targeting future crisis-support instruments. Caveat: specific to COVID-19 context; preferences identified are stated not revealed.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "behavioral"
+  ],
+  "methods": [
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4292086410"
+  "review_status": "ai-drafted",
+  "openalex_id": "W4292086410",
+  "policy_instruments": [
+    "loan-forbearance programme design",
+    "crisis consumer-credit support"
+  ]
 }

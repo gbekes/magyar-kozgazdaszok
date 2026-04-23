@@ -18,19 +18,32 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Novel combinations of technologies are usually the result of collaborative work that builds on existing knowledge. Albeit inventors and their respective communities tend to be specialized, inventor collaborations across differently specialized peers have the potential to generate co-inventor networks that provide access to a diverse set of knowledge and facilitate the production of radical novelty. Previous research has demonstrated that short access in large co-inventor networks enables innovative outcomes in regional economies. However, how connections in the network across different technological knowledge domains matter and what impact they might generate is still unknown. The present investigation focuses on ‘atypical’ combinations of technologies as indicated in patent documents. In particular, the role of technological specializations linked in co-inventor networks that result in radical innovation in European regions is analyzed. Our results confirm that the share of atypical patents is growing in regions where bridging ties establish short access to and across cohesive co-inventor sub-networks. Furthermore, the evidence suggests that the strong specialization of co-inventor communities in regions fosters atypical combinations because these communities manage to increase the scale and scope of novel combinations. Thus, bridges between communities that are specialized in different technologies favor atypical innovation outcomes. The work shows that not diversity per se, but links across variously specialized inventor communities can foster radical innovation.",
-  "summary_en": null,
+  "summary_en": "New inventions often emerge from combining previously unrelated technologies. This paper asks: in regional innovation networks, how do connections across different technological domains enable such \"atypical\" combinations? Using patent data, the authors analyse regional co-inventor networks and identify which cross-domain connections facilitate radical novelty. The answer: dense networks with short paths across domains matter — but the specific bridging connections between distinct technology areas do even more heavy lifting. A nuanced contribution to regional innovation-policy design.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Patent co-inventor data for regional innovation networks. Measures of \"atypicality\" of technology combinations from patent-citation data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian regional innovation policy (NRDI Office, ITM, regional development agencies): the paper supports policies that build bridging connections between different technology domains in a region — cross-sector innovation consortia, interdisciplinary collaboration — over simple density-raising interventions. Relevant to EU Smart Specialisation strategy and to Horizon Europe national-programming. Caveat: patent-based measures miss non-patented innovation; regional effectiveness depends on baseline specialization.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "innovation-digital",
+    "regional-urban"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4386457540"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4386457540",
+  "policy_instruments": [
+    "cross-sector innovation consortia",
+    "EU Smart Specialisation strategy"
+  ]
 }

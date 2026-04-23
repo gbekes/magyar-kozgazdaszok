@@ -17,19 +17,33 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We build a model of structural transformation with endogenous sector–biased technological change. We show that if the return to specialization is larger in the goods sector than in the service sector, then the equilibrium has the following properties: aggregate growth is balanced; the service sector receives more innovation but the goods sector experiences more productivity growth; structural transformation takes place from goods to services. Compared to the efficient allocation the laissez–faire equilibrium has too much labor in the goods sector, implying that optimal industrial policy should aim to increase, not decrease, the pace of structural transformation.",
-  "summary_en": null,
+  "summary_en": "Models of structural transformation (labor moving from goods to services) usually treat technological change as exogenous. This paper endogenises it. Result: if returns to specialization are larger in goods than in services, equilibrium has balanced aggregate growth; the service sector receives more innovation but the goods sector experiences more productivity growth; labor moves from goods to services. But the laissez-faire equilibrium has too much labor in the goods sector — optimal industrial policy should accelerate structural transformation, not slow it down. A counter-intuitive but clean recommendation.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical structural-change model with endogenous sector-biased technology. Comparison to historical sectoral data in developed economies.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian industrial-policy design and long-run growth strategy (Ministry of Economy): the paper supports accelerating structural transformation (faster shift from manufacturing to services) rather than the opposite. Counters nostalgia for manufacturing-heavy industrial policy. Relevant to reindustrialization debates and to EU-level industrial strategy. Caveat: theoretical; the magnitude of the 'too much in goods sector' distortion in Hungarian context should be calibrated.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "macroeconomics",
+    "firms-productivity"
+  ],
+  "methods": [
+    "theory",
+    "structural"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2212142548"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2212142548",
+  "policy_instruments": [
+    "industrial policy acceleration",
+    "structural-transformation support"
+  ]
 }

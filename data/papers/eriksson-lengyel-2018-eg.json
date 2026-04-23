@@ -17,19 +17,34 @@
   "url_pdf": "https://www.tandfonline.com/doi/pdf/10.1080/00130095.2018.1498741?needAccess=true",
   "url_replication": null,
   "abstract": "The present article provides an initial systematic analysis of how social networks influence productivity in regional agglomerations. This is accomplished by means of matched employer–employee data for the entire Swedish economy for the period 1990–2008, allowing us to construct a weighted co-worker network with aggregated tie weights on the plant level. We find evidence that increasing density of the plant-level network has a positive effect on productivity, particularly in large regional industry-clusters with high degrees of specialization. Triadic closure of ties is, however, negatively linked to productivity, suggesting the importance of nonredundant knowledge. Moreover, we find only limited support for the notion that the diversity of linkages within or across regions as such is beneficial for productivity. Instead, we show that the degree of specialization conditions the extent to which both linkages to related industries in the region and nonlocal ties are beneficial. Our results thus suggest that having dense social networks is a crucial feature of high-performing agglomerations, and that interindustry, as well as interregional, linkages are compensatory in cases when sufficient industry specialization is absent.",
-  "summary_en": null,
+  "summary_en": "Do social networks among workers affect regional productivity? This paper uses matched employer-employee data covering the entire Swedish economy 1990–2008 to construct a weighted co-worker network at the plant level. Key finding: higher network density is associated with higher productivity, especially in large regional industry clusters. But triadic closure (redundant connections) is negatively linked to productivity — non-redundant knowledge matters more. The benefit of network diversity within regions is weaker than expected. A comprehensive empirical account of how worker networks matter for regional productivity.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Swedish matched employer-employee administrative data covering the full economy, 1990–2008. Plant-level co-worker network constructed from labour-mobility data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian regional-development and industrial-policy design. The paper supports regional clustering strategies that build networks with non-redundant connections — i.e., policies supporting labour mobility across different firms and sectors within a region. Relevant to KRTK research and to regional-development fund targeting. Caveat: Swedish data; Hungarian labour-mobility patterns differ (much less inter-firm mobility), which changes the applicability.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "regional-urban",
+    "labor-markets",
+    "firms-productivity"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "SE"
+  ],
+  "data_types": [
+    "admin-firm",
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2891595775"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2891595775",
+  "policy_instruments": [
+    "labour-mobility promotion in clusters",
+    "regional network-diversity policy"
+  ]
 }

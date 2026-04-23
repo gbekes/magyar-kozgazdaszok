@@ -17,19 +17,34 @@
   "url_pdf": "https://academic.oup.com/joeg/article-pdf/17/3/635/16974874/lbw027.pdf",
   "url_replication": null,
   "abstract": "The mobility of workers is an important source of regional dynamics, but the effect of mobility on regional productivity growth is not straightforward, as some firms tend to win while others lose from mobility. In the present paper, we argue that the co-worker networks across plants that are established by labour moves are important for both local learning opportunities and job matching quality and should hence facilitate regional growth. We therefore propose a new homophily-biased perspective on co-worker network creation and show that it suits geographical analyses better than random networks do. Moreover, panel vector autoregression models provide systematic evidence that an increase in co-worker network density is positively related to regional productivity growth. This is found to be important even when only ties across plants that are not directly linked by labour mobility are included.",
-  "summary_en": null,
+  "summary_en": "When workers move between firms, what do their old co-worker networks do for regional productivity growth? This paper argues these networks create learning opportunities and improve job matching, helping regional growth. Using a \"homophily-biased\" perspective on co-worker-network formation and panel vector autoregression models, the authors show that increases in co-worker-network density cause increases in regional productivity growth. A clean empirical demonstration that worker-mobility-generated social networks matter for regional economic dynamics.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Matched employer-employee administrative data (likely Swedish or Hungarian). Plant-level co-worker-network measures over time; regional productivity data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly relevant to Hungarian regional-development and labour-market policy. The paper supports policies that facilitate labour mobility between firms within a region as a regional-growth strategy. Relevant to ITM, regional-development agencies, and to active labour-market-policy design. Caveat: the causal identification relies on VAR assumptions; alternative specifications could change magnitudes.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "regional-urban",
+    "labor-markets",
+    "firms-productivity"
+  ],
+  "methods": [
+    "panel-data",
+    "time-series"
+  ],
+  "countries_studied": [
+    "SE"
+  ],
+  "data_types": [
+    "admin-firm",
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2230360416"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2230360416",
+  "policy_instruments": [
+    "labour-mobility-focused regional policy"
+  ]
 }

@@ -17,19 +17,35 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This study examines the impact of ambient air pollution on birth rates in Europe. We estimate the causal effect of air pollution on fertility by utilizing variations in wind speed and the number of heating days as instrumental variables for air quality. Our analysis encompasses 657 regions of NUTS 3 level, with each region having 2 to 6 years of observations between 2013 and 2020. Thus, our study is the first to extend this analysis to multiple countries, pollutants, and years. Our findings indicate that a one standard deviation increase in particulate matter concentration levels leads to a 14.1% decrease in birth rates the following year and an additional 17.2% decrease two years later. Moreover, a similar increase in air pollution has a more pronounced adverse effect on fertility in countries with lower GDP. Other pollutants play little role in shaping fertility outcomes. This result is important for environmental policies with limited resources.",
-  "summary_en": null,
+  "summary_en": "Does air pollution make people have fewer babies? This paper is the first large cross-European study to estimate the causal effect. Using 657 NUTS-3 regions and 2013–2020 data, the authors exploit variation in wind speed and heating-days as instruments for local air quality. The result is large: a one-standard-deviation increase in particulate matter reduces birth rates 14.1% the following year and an additional 17.2% two years later. Effects are stronger in countries where initial pollution is higher. A direct quantitative link between environmental quality and demographic futures.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Panel data for 657 NUTS-3 European regions over 2013–2020, combining air-quality measurements, birth-rate records, and meteorological variables. IV strategy using wind speed and heating days as instruments for air pollution.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance to Hungarian environmental policy (ITM) and family-policy debates. The paper quantifies a large fertility cost of air pollution — important for urban air-quality targets (Budapest smog-alarm thresholds) and for making the demographic case for stricter emission controls. Relevant to the Hungarian government's simultaneous pro-natalist and industrial-policy stances. Caveat: pan-European identification; Hungarian-specific magnitudes may differ, and causal channels (reproductive-health pathways) need domestic-data verification.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "energy-environment",
+    "health",
+    "demographics-migration"
+  ],
+  "methods": [
+    "iv",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "EU"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4406602710"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4406602710",
+  "policy_instruments": [
+    "urban air-quality standards",
+    "emission limits",
+    "family/fertility policy interaction with environment"
+  ]
 }

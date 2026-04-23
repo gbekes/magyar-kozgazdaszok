@@ -19,19 +19,36 @@
   "url_pdf": "https://link.springer.com/content/pdf/10.1007/s00148-022-00908-y.pdf",
   "url_replication": null,
   "abstract": "Abstract We examine how first-in-family (FiF) graduates — those whose parents do not have university degrees — fare in the labor market in England. We find that among women, FiF graduates earn 7.4% less on average than graduates whose parents have a university degree. For men, we do not find a FiF wage penalty. A decomposition of the wage difference between FiF and non-FiF graduates reveals two interesting findings. First, two-thirds of the female FiF penalty is explained by certain characteristics, including having lower educational attainment, not attending an elite university, selecting particular degree courses, working in smaller firms, working in jobs that do not require their degree, and motherhood. Second, FiF graduate men also differ in their endowments from non-FiF graduate men; however, FiF men earn higher returns on their endowments than non-FiF men and thus compensate for their relative social disadvantage, while FiF women do not. We also estimate the returns to graduation for potential FiF and non-FiF young people. We find that the wage returns to graduation are not lower among FiF graduates compared to those who match their parents with a degree.",
-  "summary_en": null,
+  "summary_en": "First-in-family (FiF) university graduates — those whose parents never attended university — represent a key test of social mobility. Do they succeed in the labour market? This paper uses English data to find that FiF women earn 7.4% less than non-FiF graduate women; for men, there is no FiF wage penalty. A decomposition shows two-thirds of the female penalty is explained by specific characteristics (lower grades, non-elite universities, specific fields, motherhood, smaller firms, working below degree level). FiF men also differ but don't face the same wage penalty.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Longitudinal English cohort data covering childhood into mid-career. FiF graduates identified via parents' education records; outcomes include wages, occupation, employer size, degree use.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant to Hungarian higher-education and social-mobility policy (Oktatási Hivatal, Ministry of Economy). The paper shows that getting women from non-graduate families into university doesn't fully close the gap — structural characteristics of elite-university access, field choice, and labour-market matching matter. Relevant to Hungarian HÖOK outreach programmes and to mentoring schemes for first-generation students. Caveat: English data; Hungarian magnitudes would require domestic-cohort longitudinal analysis.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "education-skills",
+    "inequality-welfare",
+    "labor-markets"
+  ],
+  "methods": [
+    "panel-data",
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "GB"
+  ],
+  "data_types": [
+    "survey",
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3113112850"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3113112850",
+  "policy_instruments": [
+    "first-generation student programmes",
+    "elite-university access",
+    "STEM-field targeting"
+  ]
 }

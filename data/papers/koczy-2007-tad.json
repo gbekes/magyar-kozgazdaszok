@@ -16,19 +16,26 @@
   "url_pdf": "https://link.springer.com/content/pdf/10.1007/s11238-007-9030-x.pdf",
   "url_replication": null,
   "abstract": "We present a well-defined generalisation of the core to coalitional games with externalities, where the value of a deviation is given by an endogenous response, the solution (if nonempty: the core) of the residual game.",
-  "summary_en": null,
+  "summary_en": "Standard cooperative game theory defines the \"core\" — the set of allocations no coalition can improve on by leaving — but the concept is fragile when coalitions affect each other (externalities). This paper introduces a recursive core that handles externalities by defining a deviating coalition's value through an endogenous response: whatever remains is itself a game, solved by the core if it's nonempty. A clean generalisation that makes the core applicable to partition-function-form games. Useful for thinking about international-treaty coalitions, cartel formation, and any setting where groups affect each other.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Foundational for modelling international-coalition formation (climate agreements, trade blocs, EU policy coordination). Relevant to Hungarian EU-negotiation strategy analysis. Caveat: highly theoretical; specific policy applications require concrete parameterisation.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "methods",
+    "political-economy"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "review_status": "ai-drafted",
   "openalex_id": "W2102729478"
 }

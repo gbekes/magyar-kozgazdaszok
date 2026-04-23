@@ -17,19 +17,30 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "The most important rule to determine payments in real-life bankruptcy problems is the proportional rule. Many such bankruptcy problems are characterized by network aspects, and the values of the agents’ assets are endogenous as they depend on the extent to which claims on other agents can be collected. These network aspects make an axiomatic analysis challenging. This paper is the first to provide an axiomatization of the proportional rule in financial networks. Our main axiom is invariance to mitosis. The other axioms are claims boundedness, limited liability, priority of creditors, continuity, and impartiality. This paper was accepted by Manel Baucells, decision analysis.",
-  "summary_en": null,
+  "summary_en": "When a bankrupt firm's assets are insufficient to pay all creditors, the proportional rule — dividing the available assets in proportion to claims — is by far the most common rule in real-world bankruptcy law. But in network settings, where collecting claims depends on others' solvency, axiomatizing the proportional rule is hard. This paper provides the first such axiomatization in financial networks. Key axiom: \"invariance to mitosis\" (splitting an agent into two with the same combined claims shouldn't change outcomes). Supplementary axioms include claims boundedness, limited liability, priority of creditors, continuity, and impartiality. A clean theoretical foundation for the most widely-used bankruptcy rule.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian bankruptcy-law design (Ministry of Justice) and EU insolvency-harmonisation debates. The paper provides principled justification for the proportional rule even in network settings — a useful foundation for reform discussions. Relevant to EU Directive on restructuring and insolvency implementation in Hungary. Caveat: theoretical; the specific Hungarian insolvency framework has priority rules that go beyond the proportional one.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "banking-finance",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2582432825"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2582432825",
+  "policy_instruments": [
+    "bankruptcy law design",
+    "EU insolvency directive"
+  ]
 }

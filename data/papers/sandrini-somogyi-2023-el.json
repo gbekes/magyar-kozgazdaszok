@@ -17,19 +17,31 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "In this paper, we analyze the effects of advancements in generative Artificial Intelligence (GenAI) on the news media market. We model a representative consumer who allocates their time between reading news and deceptive articles. We find that GenAI may induce consumers to inefficiently reallocate their time and increase the consumption of the lower value good, i.e. deceptive content (clickbait articles or fake news). Therefore, early-stage GenAI distorts the incentives of consumers and reduces their welfare. After GenAI technology reaches a certain threshold, however, consumers start benefiting from its advancements. Finally, we find that the negative effects of early-stage GenAI are exacerbated as they induce a lower level of investment in news production.",
-  "summary_en": null,
+  "summary_en": "Generative AI makes it cheaper to produce both high-quality journalism and deceptive clickbait. This short paper models how consumers allocate reading time between the two. Early-stage GenAI increases time on deceptive content and reduces consumer welfare — a distortion amplified by lower investment in quality journalism. Once GenAI passes a threshold, consumers start benefiting. A cautionary framework for thinking about the GenAI-media interaction in its early years.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly relevant to Hungarian media policy (NMHH) and to EU Digital Services Act enforcement: the paper supports regulatory support for quality-journalism production (public-broadcast funding, subsidies) during the early-GenAI period to prevent welfare losses. Relevant to Hungarian media-pluralism debates and to EU platform-regulation. Caveat: theoretical; quantitative thresholds for when GenAI becomes net-positive are not in the paper.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "innovation-digital",
+    "behavioral"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4386122704"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4386122704",
+  "policy_instruments": [
+    "public-journalism funding",
+    "platform-content regulation",
+    "Digital Services Act enforcement"
+  ]
 }

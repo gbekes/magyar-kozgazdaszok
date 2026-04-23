@@ -16,19 +16,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "Civil-service reform is a classic topic of political economy: should bureaucrats be protected (tenured) or political appointees? This paper builds a model in which bureaucrats and politicians interact, and analyses when civil-service protection is socially beneficial. The mechanism: tenure lets bureaucrats develop expertise, but reduces politician control. The trade-off depends on policy volatility, information asymmetries, and voter-verification of outcomes. The paper provides formal conditions under which civil-service reform improves government efficiency.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Highly relevant to ongoing Hungarian civil-service reform debates (common theme of the Ujhelyi-Forand research agenda). The paper supports civil-service tenure in stable-policy environments but allows for political appointments in volatile-policy contexts. A technical foundation for Hungarian discussions about tenure protection and political-appointment scope. Caveat: theoretical; concrete Hungarian policy implications depend on parameter values that would need empirical estimation.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "political-economy"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3121243988"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3121243988",
+  "policy_instruments": [
+    "civil-service tenure protection",
+    "political-appointment scope"
+  ]
 }

@@ -18,19 +18,30 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We study housing markets as introduced by Shapley and Scarf. We investigate the computational complexity of various questions regarding the situation of an agent a in a housing market H: we show that it is [Formula: see text]-hard to find an allocation in the core of H in which (i) a receives a certain house, (ii) a does not receive a certain house, or (iii) a receives a house other than a’s own. We prove that the core of housing markets respects improvement in the following sense: given an allocation in the core of H in which agent a receives a house h, if the value of the house owned by a increases, then the resulting housing market admits an allocation in its core in which a receives either h or a house that a prefers to h; moreover, such an allocation can be found efficiently. We further show an analogous result in the Stable Roommates setting by proving that stable matchings in a one-sided market also respect improvement. Funding: This work was supported by the Hungarian Scientific Research Fund [Grants K124171, K128611]. I. Schlotter is supported by the Hungarian Academy of Sciences under its Momentum Programme (LP2021-2) and its János Bolyai Research Scholarship. The research reported in this paper and carried out by T. Fleiner at the Budapest University of Technology and Economics was supported by the “TKP2020, National Challenges Program” of the National Research Development and Innovation Office [BME NC TKP2020 and OTKA K143858] and by the Higher Education Excellence Program of the Ministry of Human Capacities in the frame of the Artificial Intelligence research area of the Budapest University of Technology and Economics (BME FIKP-MI/SC). P. Biró gratefully acknowledges financial support from the Hungarian Scientific Research Fund, OTKA [Grant K143858] and the Hungarian Academy of Sciences [Momentum Grant LP2021-2].",
-  "summary_en": null,
+  "summary_en": "In housing markets (à la Shapley-Scarf), agents trade homes based on preferences. If agent a owns house x, what can a expect in a core allocation? This paper answers a series of questions about the agent's perspective. Key results: it's NP-hard to find a core allocation in which a receives a specific house (or avoids one). More positively, the core \"respects improvement\": if a's own house becomes more valuable, any new core allocation lets a get their original house or something they prefer. Sprucing up your home doesn't hurt you — a reassuring property for housing-market mechanism design.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data. Computational-complexity and structural-property analysis.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant to Hungarian public-housing allocation and housing-exchange policy design. The paper formalises properties of housing-exchange mechanisms that should be desirable for Hungarian housing-policy (e.g., for Budapest's social-housing rotation schemes). Also relevant to mechanism-design theory for kidney-exchange and similar trading problems. Caveat: theoretical; policy implementation requires compatibility with Hungarian legal-property frameworks.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "methods",
+    "regional-urban"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3206424382"
+  "review_status": "ai-drafted",
+  "openalex_id": "W3206424382",
+  "policy_instruments": [
+    "housing-exchange programmes",
+    "social-housing rotation"
+  ]
 }

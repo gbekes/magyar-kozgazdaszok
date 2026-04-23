@@ -17,19 +17,33 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We build a model of administrative barriers to trade to understand how they affect trade volumes, shipping decisions and welfare. Because administrative costs are incurred with every shipment, exporters have to decide how to break up total trade into individual shipments. Consumers value frequent shipments, because they enable them to consume close to their preferred dates. Hence per-shipment costs create a welfare loss. We derive a gravity equation in our model and show that administrative costs can be expressed as bilateral ad-valorem trade costs. We estimate the ad-valorem equivalent in Spanish shipment-level export data and find it to be large. A 50% reduction in per-shipment costs is equivalent to a 9 percentage point reduction in tariffs. Our model and estimates help explain why policy makers emphasize trade facilitation and why trade within customs unions is larger than trade within free trade areas.",
-  "summary_en": null,
+  "summary_en": "Per-shipment administrative costs (customs paperwork, inspections, fees) are a surprisingly important form of trade cost. This paper builds a model showing how they distort trade volumes and shipment patterns. Exporters have to decide shipment frequency; consumers value frequency; so per-shipment costs create welfare loss. The paper derives a gravity equation in the model and shows these costs translate into bilateral ad-valorem trade costs. Using Spanish shipment-level export data, the authors find the ad-valorem equivalent is large: a 50% reduction in per-shipment costs is equivalent to a 9-percentage-point tariff cut. A clean empirical quantification.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Spanish shipment-level customs export data, including shipment timing, destination, and value.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly relevant to Hungarian trade-facilitation policy (NAV customs, ITM) and EU customs-harmonisation debates. The paper's 50%-cut-equals-9pp-tariff equivalence is a powerful argument for digital-customs investment. Relevant to implementation of the EU Union Customs Code. Caveat: Spanish data; Hungarian effects depend on baseline per-shipment costs and industry mix.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "trade-fdi",
+    "firms-productivity"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "ES"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2012795331"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2012795331",
+  "policy_instruments": [
+    "customs digitalisation",
+    "EU Union Customs Code implementation",
+    "trade-facilitation investment"
+  ]
 }

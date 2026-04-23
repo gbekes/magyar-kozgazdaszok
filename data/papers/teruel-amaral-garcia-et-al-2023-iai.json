@@ -22,19 +22,34 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "The impact of crises on firm performance has been studied widely. This paper explores the relationship between firms’ reaction to COVID-19 (in employment) and the adoption of digital technologies, taking into account their productivity, digitalisation level and high-growth episodes before the crisis. We match the EIB Group Survey of Investment and Investment Finance with ORBIS database for 27 EU Member States and the United Kingdom. We find that firms with higher productivity levels are less prone to decrease the number of employees in the short and long term due to the pandemic. High-growth enterprises are less likely to expect a reduction in the number of employees in the long term. Moreover, firms in highly digitalised sectors have a lower probability to reduce the number of employees. Finally, our results suggest that COVID-19 leads firms to increase their use of digital technologies, especially those that were already more digitalised.",
-  "summary_en": null,
+  "summary_en": "How did firms respond to COVID-19 in terms of employment, and what protected them? This paper uses the EIB Investment Survey matched to Orbis for 27 EU + UK firms. Results: firms with higher pre-crisis productivity were less likely to cut employment, in both short and long term. High-growth enterprises and firms in highly-digitalised sectors similarly had lower probability of expecting employment cuts. A useful cross-country snapshot of pandemic resilience and the role of pre-crisis productivity and digitalisation.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Matched EIB Group Survey of Investment and Investment Finance with Orbis firm-level data for 27 EU + UK. Pre-crisis productivity, digitalisation indicators, high-growth-enterprise status.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian economic policy (ITM, Ministry of Economy): the paper supports continued investment in firm-level productivity and digitalisation as resilience-building measures for future shocks. Relevant to EU Recovery and Resilience Facility implementation in Hungary. Caveat: based on survey expectations, not actual employment changes; actual post-COVID outcomes may differ from expected ones.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "firms-productivity",
+    "innovation-digital",
+    "labor-markets"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "EU"
+  ],
+  "data_types": [
+    "admin-firm",
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4385319429"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4385319429",
+  "policy_instruments": [
+    "EU Recovery and Resilience Facility",
+    "firm-digitalisation support"
+  ]
 }

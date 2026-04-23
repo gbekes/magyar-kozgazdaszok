@@ -17,19 +17,32 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "When information is deliberately misleading — advertising puffery, misinformation campaigns, political propaganda — should government regulate? This paper builds a model and shows the answer depends on competition and the sophistication of receivers. Key results: competition with accurate sources doesn't always defeat misinformation (if receivers are inattentive); mandating correction can backfire (raising salience of the false claim); optimal regulation often involves taxing misinformation directly or raising the cost of producing it. A foundational framework for Hungarian and EU-level misinformation policy.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Highly relevant to Hungarian media policy (NMHH) and to EU Digital Services Act enforcement. The paper's framework supports direct regulation of misinformation sources rather than reliance on consumer correction. Relevant to ongoing debates about platform regulation, political-advertising rules, and public-health communication. Caveat: theoretical; applies differently to advertising, political, and public-health misinformation.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "political-economy",
+    "innovation-digital",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4229720470"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4229720470",
+  "policy_instruments": [
+    "misinformation regulation",
+    "Digital Services Act enforcement",
+    "political-advertising rules"
+  ]
 }

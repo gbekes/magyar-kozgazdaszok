@@ -18,19 +18,33 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "The gender gap in competitiveness is argued to explain gender differences in later life outcomes, including career choices and the gender wage gap. In experimental settings, a prevalent explanation attributes this gap to males being more (over)confident than females (we call this the compositional channel). While our lab-in-the-field study using data from students in 53 classrooms (N > 1000) reproduces this finding, it also uncovers a second, potentially more impactful channel of confidence contributing to the gender gap in competitiveness (the preference channel). To disentangle the two channels, we propose a more precise measure of confidence based on whether the subjects’ believed performance rank exceeds, coincides with or falls short of their actual performance in a real-effort task. We label categories of this Guessed - Actual Performance (GAP) difference as overconfident, realistic or underconfident, respectively. Surprisingly, there is no gender difference in competitiveness within the over- and underconfident subgroups, while a significant gender gap exists among the realistic. So, even if both genders had the same level of confidence, a persistent gender gap in preference (or taste) for competition would remain in the realistic group. This finding is robust across all specifications, challenging previous theories about the overconfidence of men being the main driver of the relationship between confidence and the gender gap in competition.",
-  "summary_en": null,
+  "summary_en": "Women are less likely than men to enter competitions — a pattern often blamed on male overconfidence. This paper argues there's a second channel: some realistic people (who accurately know their rank) simply prefer not to compete. Using a lab-in-the-field experiment with 1000+ students in 53 Hungarian classrooms, the authors separate overconfidence-driven entry from preference-driven entry using a more precise confidence measure (believed rank vs actual rank). The preference channel turns out to be at least as important as the compositional/overconfidence channel. Policy should shift focus from \"fixing overconfidence\" to understanding realistic preferences.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Lab-in-the-field experiment with 1000+ Hungarian secondary-school students across 53 classrooms. Real-effort tasks with competitive-entry choice, combined with confidence elicitation via believed-rank measures.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly relevant to Hungarian STEM-gender-gap policy and education interventions. If preference (not just confidence) drives the gender gap in competitive entry, interventions should create lower-stakes competitive environments and non-competitive excellence pathways. Relevant to Oktatási Hivatal and ETDA. Caveat: secondary-school sample; effects at university or professional stages may differ.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "behavioral",
+    "education-skills",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "rct"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "field-experiment"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4401155176"
+  "review_status": "ai-drafted",
+  "openalex_id": "W4401155176",
+  "policy_instruments": [
+    "STEM competition-entry programmes",
+    "school-based gender interventions"
+  ]
 }

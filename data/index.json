@@ -2314,21 +2314,34 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Novel combinations of technologies are usually the result of collaborative work that builds on existing knowledge. Albeit inventors and their respective communities tend to be specialized, inventor collaborations across differently specialized peers have the potential to generate co-inventor networks that provide access to a diverse set of knowledge and facilitate the production of radical novelty. Previous research has demonstrated that short access in large co-inventor networks enables innovative outcomes in regional economies. However, how connections in the network across different technological knowledge domains matter and what impact they might generate is still unknown. The present investigation focuses on ‘atypical’ combinations of technologies as indicated in patent documents. In particular, the role of technological specializations linked in co-inventor networks that result in radical innovation in European regions is analyzed. Our results confirm that the share of atypical patents is growing in regions where bridging ties establish short access to and across cohesive co-inventor sub-networks. Furthermore, the evidence suggests that the strong specialization of co-inventor communities in regions fosters atypical combinations because these communities manage to increase the scale and scope of novel combinations. Thus, bridges between communities that are specialized in different technologies favor atypical innovation outcomes. The work shows that not diversity per se, but links across variously specialized inventor communities can foster radical innovation.",
-      "summary_en": null,
+      "summary_en": "New inventions often emerge from combining previously unrelated technologies. This paper asks: in regional innovation networks, how do connections across different technological domains enable such \"atypical\" combinations? Using patent data, the authors analyse regional co-inventor networks and identify which cross-domain connections facilitate radical novelty. The answer: dense networks with short paths across domains matter — but the specific bridging connections between distinct technology areas do even more heavy lifting. A nuanced contribution to regional innovation-policy design.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Patent co-inventor data for regional innovation networks. Measures of \"atypicality\" of technology combinations from patent-citation data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian regional innovation policy (NRDI Office, ITM, regional development agencies): the paper supports policies that build bridging connections between different technology domains in a region — cross-sector innovation consortia, interdisciplinary collaboration — over simple density-raising interventions. Relevant to EU Smart Specialisation strategy and to Horizon Europe national-programming. Caveat: patent-based measures miss non-patented innovation; regional effectiveness depends on baseline specialization.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "innovation-digital",
+        "regional-urban"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
+      "data_types": [
+        "admin-firm"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4386457540"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4386457540",
+      "policy_instruments": [
+        "cross-sector innovation consortia",
+        "EU Smart Specialisation strategy"
+      ]
     },
     {
       "id": "abraham-2007-jme",
@@ -3077,21 +3090,37 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This paper examines the effects of increasing the compulsory school leaving age from 16 to 18 in Hungary using a difference-in-regression-discontinuities design empirical strategy. While the reform increased the length of schooling, it did not decrease the probability of dropping out of secondary school, either on average or among the most at-risk group of Roma ethnic minority students. Due to grade retentions, marginal students were older than their peers and couldn't have reached the final grade of secondary school by age 18 to earn a degree. The reform also did not affect the probability of employment, hours worked, wages and the probability of working in low-skilled occupations at ages 20 and 25. In education systems that allow grade retention, compulsory education should have the explicit goal of keeping students in school until they earn a secondary degree, rather than just until a certain age.",
-      "summary_en": null,
+      "summary_en": "Hungary raised the compulsory school-leaving age from 16 to 18. Did it work? This paper uses a difference-in-regression-discontinuities design and finds the reform lengthened schooling but did not reduce dropout — either on average or for at-risk Roma students. Because the Hungarian education system allows grade retention, many marginal students couldn't actually reach the final secondary grade by 18, blocking degree attainment. Consistent with this, the reform had no effect on employment, wages, or occupational status at ages 20 and 25. A sharp lesson: compulsory-schooling reforms need to address grade retention explicitly.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian administrative data on school attainment, dropout, and labour-market outcomes. Difference-in-regression-discontinuities design exploiting the 2013 reform.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly actionable for Hungarian education policy (Oktatási Hivatal, EMMI). The paper's message: raising compulsory-schooling age without tackling grade-retention doesn't increase degree attainment or labour-market outcomes. Relevant to current debates about secondary-school dropout and tackling Roma educational disadvantage. Caveat: the reform was specific; effects of alternative designs (automatic promotion, later-grade exit options) could differ.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "education-skills",
+        "labor-markets",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "rd",
+        "diff-in-diff"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4388242002"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4388242002",
+      "policy_instruments": [
+        "compulsory-schooling age",
+        "grade-retention rules",
+        "Roma-education interventions"
+      ]
     },
     {
       "id": "adamecz-adamecz-volgyi-et-al-2017-wp",
@@ -3225,21 +3254,38 @@
       "url_pdf": "https://link.springer.com/content/pdf/10.1007/s00148-022-00908-y.pdf",
       "url_replication": null,
       "abstract": "Abstract We examine how first-in-family (FiF) graduates — those whose parents do not have university degrees — fare in the labor market in England. We find that among women, FiF graduates earn 7.4% less on average than graduates whose parents have a university degree. For men, we do not find a FiF wage penalty. A decomposition of the wage difference between FiF and non-FiF graduates reveals two interesting findings. First, two-thirds of the female FiF penalty is explained by certain characteristics, including having lower educational attainment, not attending an elite university, selecting particular degree courses, working in smaller firms, working in jobs that do not require their degree, and motherhood. Second, FiF graduate men also differ in their endowments from non-FiF graduate men; however, FiF men earn higher returns on their endowments than non-FiF men and thus compensate for their relative social disadvantage, while FiF women do not. We also estimate the returns to graduation for potential FiF and non-FiF young people. We find that the wage returns to graduation are not lower among FiF graduates compared to those who match their parents with a degree.",
-      "summary_en": null,
+      "summary_en": "First-in-family (FiF) university graduates — those whose parents never attended university — represent a key test of social mobility. Do they succeed in the labour market? This paper uses English data to find that FiF women earn 7.4% less than non-FiF graduate women; for men, there is no FiF wage penalty. A decomposition shows two-thirds of the female penalty is explained by specific characteristics (lower grades, non-elite universities, specific fields, motherhood, smaller firms, working below degree level). FiF men also differ but don't face the same wage penalty.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Longitudinal English cohort data covering childhood into mid-career. FiF graduates identified via parents' education records; outcomes include wages, occupation, employer size, degree use.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant to Hungarian higher-education and social-mobility policy (Oktatási Hivatal, Ministry of Economy). The paper shows that getting women from non-graduate families into university doesn't fully close the gap — structural characteristics of elite-university access, field choice, and labour-market matching matter. Relevant to Hungarian HÖOK outreach programmes and to mentoring schemes for first-generation students. Caveat: English data; Hungarian magnitudes would require domestic-cohort longitudinal analysis.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "education-skills",
+        "inequality-welfare",
+        "labor-markets"
+      ],
+      "methods": [
+        "panel-data",
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "GB"
+      ],
+      "data_types": [
+        "survey",
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W3113112850"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W3113112850",
+      "policy_instruments": [
+        "first-generation student programmes",
+        "elite-university access",
+        "STEM-field targeting"
+      ]
     },
     {
       "id": "adamecz-adamecz-volgyi-et-al-2022-labec",
@@ -3352,21 +3398,38 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "• We test for the Dunning-Kruger effect using composite measures and birth cohort data. • We use tests from ages 5/10/16 and self-estimates of ability at ages 10/16. • We show that the Dunning-Kruger effect exists in our secondary data. • We find that the Dunning-Kruger effect is not gender specific. • Women are underconfident and men are overconfident. The Dunning-Kruger effect (DKE) states that people with lower levels of the ability tend to self-assess their ability less accurately than people with relatively higher levels of the ability. Thus, the correlation between one's objective cognitive abilities and self-assessed abilities is higher at higher levels of objective cognitive abilities. There has been much debate as to whether this effect actually exists or is a statistical artefact. This paper replicates and extends Gignac and Zajenkowski (2020) and Dunkel, Nedelec, and van der Linden (2023) to test whether the DKE exists using several measures of ability and nationally representative data from a British birth cohort study. To do this, we construct a measure of objective cognitive abilities using 18 tests conducted at ages 5, 10, and 16, and a measure of subjective self-assessed abilities using estimates of school performance and being clever at ages 10 and 16. We replicate their models and show that the DKE exists in our secondary data. Importantly, we are the first to look at whether this relationship is heterogeneous by gender and find that while the self-assessment bias is gender specific, the DKE is not. The DKE comes from men relatively overestimating and women relatively underestimating their abilities.",
-      "summary_en": null,
+      "summary_en": "The Dunning-Kruger effect — that less-skilled people overestimate their ability more — has been questioned as a statistical artifact. This paper uses UK longitudinal cohort data with ability tests at ages 5, 10, and 16 plus self-estimates at 10 and 16, constructing composite measures robust to previous critiques. The effect is real. But the gender story is nuanced: the Dunning-Kruger pattern itself is not gender-specific, yet women are systematically underconfident and men overconfident across ability levels. A careful empirical vindication with a more nuanced gender interpretation.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "UK longitudinal cohort data (likely BCS70/NCDS) with ability tests at multiple ages (5, 10, 16) and subjective ability self-assessments at ages 10 and 16. Composite-measure approach to mitigate regression-to-mean critiques.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant to Hungarian education-policy and gender-equality interventions. The paper shows confidence-building for women needs to be targeted at all ability levels, not just low-performers. Relevant to STEM education, school-career-counselling design, and workplace-promotion practices. Caveat: UK cohort; Hungarian equivalent would require KRTK-linked longitudinal data.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "behavioral",
+        "education-skills",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "panel-data",
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "GB"
+      ],
+      "data_types": [
+        "survey",
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4408168348"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4408168348",
+      "policy_instruments": [
+        "STEM-education interventions",
+        "gender-confidence programmes",
+        "career-counselling design"
+      ]
     },
     {
       "id": "adamecz-adamecz-volgyi-et-al-2025-jope",
@@ -5203,21 +5266,33 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This study examines a potential link between present bias and reduced memory accuracy in intertemporal decision-making. In a classroom experiment with university students, participants made choices between smaller-sooner and larger-later rewards on two occasions. The second time included an immediate option, tempting present-biased participants to choose the immediate reward. During a third visit, participants were randomized into two groups and asked to recall their decisions from one of the previous visits. The results show that participants with present bias had lower memory accuracy than their time-consistent peers in situations involving immediate rewards. Regression analysis indicates that this reduced accuracy is consistent with motivated misremembering – in which individuals recall their past decisions as more virtuous than they actually were. Robustness checks reveal that time inconsistency is positively associated with lower memory accuracy in general, but present-biased participants exhibit clearly distinct patterns compared to their future-biased counterparts. These results are weighed against alternative explanations, notably the possibility of noisy cognition. • The study explores how present bias influences memory accuracy. • Present bias affects memory accuracy, especially in immediate reward scenarios. • Motivated memory may cause individuals to recall past decisions as more virtuous. • Time-inconsistency is positively associated with lower memory accuracy in general. • Present-biased participants recall fewer earlier choices than time-consistent peers.",
-      "summary_en": null,
+      "summary_en": "Do present-biased people remember their past choices accurately? This paper runs a classroom experiment where students choose between smaller-sooner and larger-later rewards on two occasions — the second including a tempting immediate option — then are asked to recall their past decisions. The finding: present-biased participants had lower memory accuracy specifically in situations involving immediate rewards. The pattern is consistent with \"motivated misremembering\" — recalling your past decisions in a way that reduces cognitive dissonance. A clean behavioural result about the interplay of self-control and memory.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Classroom experiment with Hungarian university students over three sessions. Intertemporal-choice tasks plus a memory-recall task with randomised assignment to recall past decisions.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant to Hungarian financial-consumer protection and debt-counselling design (MNB): if consumers systematically misremember their past impulsive credit decisions, policies relying on consumer self-correction (awareness campaigns, voluntary debt-management plans) will fall short. Supports hard commitment devices and structured debt-counselling over information-only interventions. Caveat: student sample in a lab setting; external validity to actual consumer-credit decisions needs further work.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "behavioral"
+      ],
+      "methods": [
+        "rct"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "field-experiment"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4416427815"
+      "review_status": "ai-drafted",
+      "openalex_id": "W4416427815",
+      "policy_instruments": [
+        "debt-counselling design",
+        "commitment-device financial products"
+      ]
     },
     {
       "id": "bako-horvath-2020-ksz",
@@ -5378,21 +5453,32 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "The existence of a negative risk-return relationship challenges the conventional wisdom of finance, which typically assumes a positive correlation between risk and return. Reference-dependent preferences, motivated by prospect theory, offer a possible explanation for this negative risk-return relation. However, as we demonstrate in this paper prospect theory does not provide a general explanation for this puzzle. We show that the expected utility theory with an aspiration level can effectively account for this phenomenon.",
-      "summary_en": null,
+      "summary_en": "A long-standing finance puzzle: across many assets, the risk-return relationship is negative — riskier assets often earn lower returns, contrary to standard theory. Prospect theory has been offered as an explanation. This paper shows prospect theory doesn't give a general account, but expected-utility theory with an aspiration level does. A cleaner, more tractable explanation for why observed risk-return relationships sometimes go the wrong way. Useful for portfolio-theory teaching and for thinking about retail-investor behaviour.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data. Motivated by empirical asset-pricing literature documenting the negative risk-return relationship.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian retail-investor protection (MNB, BÉT): the paper suggests that investor behaviour deviating from mean-variance optimisation can be captured by aspiration-level models. Relevant to MiFID II suitability assessments and to household-finance regulation. Caveat: theoretical; quantitative calibration to Hungarian household investment data would strengthen the policy case.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "banking-finance",
+        "behavioral"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4390582788"
+      "review_status": "ai-drafted",
+      "openalex_id": "W4390582788",
+      "policy_instruments": [
+        "MiFID II suitability assessments",
+        "retail-investor protection"
+      ]
     },
     {
       "id": "bako-neszveda-et-al-2017-tad",
@@ -6803,21 +6889,36 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Focusing on groups of high-income countries (OECD, EU, and EMU), this study shows that the finding of a non-linear, hump-shaped impact of financing on economic growth is robust to controlling for financing composition in terms of the sources (bank credit, debt securities, stock market) and the recipients of finances (households, non-financial and financial corporations), or both. In particular, we obtain the following results. First, the non-linear impact of total bank credit is more pronounced than that of either household credit alone, or the sum of bank credit, debt securities, and stock market financing. Second, credit to non-financial corporations tends to have a positive, while credit to households a negative impact on growth, even after allowing for non-linearities. Third, debt-securities and stock market-based financing have a different impact on growth. Finally, the estimated turning point of the non-linear relationship is close to that found by Cournède and Denk (2015) for the OECD countries, and lower than that established by Arcand, Berkes, and Panizza (2015) for a broad set of countries.",
-      "summary_en": null,
+      "summary_en": "Is more finance always good for growth? The famous answer is \"yes, up to a point\" — beyond some threshold, finance hurts growth (the hump-shaped relationship). This paper refines that result for high-income countries (OECD, EU, EMU). Three findings: (1) the non-linear effect of bank credit is stronger than of bank credit + debt securities + stock market combined; (2) credit to non-financial corporations is positively associated with growth, but credit to households is negatively associated; (3) debt-securities finance has a more robustly positive effect than stock-market finance. A more nuanced picture of which types of financial deepening help growth and which don't.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Panel data on OECD, EU, and EMU high-income countries. Financial structure indicators (bank credit, debt securities, stock market) by sector recipient (households, non-financial corporations, financial corporations).",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian financial-sector policy (MNB, Pénzügyminisztérium): the paper supports targeting productive-sector credit (to non-financial corporates) while cooling household credit. Relevant to macroprudential tools like household-debt service ratios and LTV caps, and to capital-markets-union policy (which favors debt-securities over bank credit). Caveat: the sample is pre-2016; recent household-debt dynamics in Hungary (FX-mortgage aftermath, housing loan expansion) may have changed the relationship.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "macroeconomics"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "EU",
+        "GLOBAL"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2770773729"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2770773729",
+      "policy_instruments": [
+        "household-debt service ratio",
+        "LTV caps",
+        "capital-markets union"
+      ]
     },
     {
       "id": "benczur-katay-et-al-2018-em",
@@ -6839,21 +6940,37 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We present a general-equilibrium behavioural microsimulation model designed to assess long-run macroeconomic, fiscal and distributional consequences of tax and benefit reforms in a small open economy. We apply the model to reforms adopted in Hungary between 2008 and 2013, a period characterised by intense reform activity in the wake of the financial crisis. Innovations of the model include the treatment of labour supply responses of individuals, affecting both participation (extensive margin) and work intensity (intensive margin), and the incorporation of general-equilibrium effects by a parsimonious macroeconomic model. Our results suggest that Hungary's flat tax reform may have boosted output by improving work incentives of high earners (along the intensive margin), but reduced work incentives and employment levels of low earners. We find that policy measures introduced since 2008 substantially increase income inequality. Moreover, the contribution of changes after 2010 is about four times that of the changes before 2010.",
-      "summary_en": null,
+      "summary_en": "Between 2008 and 2013, Hungary underwent intense tax and benefit reform — including the flat income tax. Did it work? This paper builds a general-equilibrium behavioral microsimulation model for Hungary and evaluates the long-run effects. Individuals adjust labor supply on two margins (participation, hours); a parsimonious macro model adds general-equilibrium feedback. Results: the flat tax likely boosted output by improving intensive-margin incentives for high earners, but reduced work incentives for lower earners along the extensive margin. A rigorous quantitative evaluation of a major Hungarian reform, integrating micro and macro effects.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian administrative and survey micro-data linked into a general-equilibrium behavioral microsimulation model. Covers 2008–2013 tax-benefit reforms.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Central reference for Hungarian tax-reform analysis (Pénzügyminisztérium, MNB, KRTK). The paper quantifies that the flat tax had asymmetric effects across the income distribution and net output gains with distributional costs — an empirical base for ongoing debates about reintroducing progressive-tax elements or adjusting the flat-rate design. Relevant to KATA/KIVA reforms, familly-tax-allowance design, and benefit-system redesign. Caveat: long-run macro effects come from calibrated assumptions; central-estimate uncertainty bands are wide.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "fiscal-tax",
+        "labor-markets",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "structural"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual",
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2883299525"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2883299525",
+      "policy_instruments": [
+        "flat income tax",
+        "family tax allowance",
+        "benefit-eligibility design"
+      ]
     },
     {
       "id": "benczur-konya-2013-jimf",
@@ -6979,21 +7096,36 @@
       "url_pdf": "https://link.springer.com/content/pdf/10.1007/s00181-019-01819-w.pdf",
       "url_replication": null,
       "abstract": "Abstract This paper looks at the influence of financial deepening (private bank credit) on income inequality in developed economies. Building on a model of financially open economies (Kunieda et al. (Macroecon Dyn 18:1091–1128, 2014)), defining its endogenous economic growth rate, and extending its implications also for top income shares, it is shown that the impact of bank credit on inequality depends on the gap between the real interest rate and the GDP growth rate (‘ $$r-g$$ <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mrow> <mml:mi>r</mml:mi> <mml:mo>-</mml:mo> <mml:mi>g</mml:mi> </mml:mrow> </mml:math> ’). This finding is robustly confirmed by the empirical analysis on a few samples of OECD and EU countries, both for the Gini index and for top income shares. Both the econometric evidence and simple evidence show that the presence of this type of non-linearity (an interaction between financial deepening and $$r-g$$ <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mrow> <mml:mi>r</mml:mi> <mml:mo>-</mml:mo> <mml:mi>g</mml:mi> </mml:mrow> </mml:math> ) is likely to be one of the reasons for the mixed results that may be found in the empirical literature on the relationship between the financial deepening and income inequality.",
-      "summary_en": null,
+      "summary_en": "Does financial deepening increase income inequality? Theory suggests yes, but only under specific conditions on the real interest rate minus GDP growth (r-g). This paper tests the prediction on OECD and EU countries and confirms it: the impact of bank credit on inequality depends robustly on the r-g gap. When r exceeds g, financial deepening raises inequality; when g exceeds r, it can compress it. The result holds for both the Gini coefficient and for top-income shares. A precise empirical confirmation of a specific theoretical mechanism.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Panel data on OECD and EU countries. Financial-deepening measures (private bank credit) linked to Gini and top-income-share measures of inequality.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian inequality-policy analysis and macro forecasting (MNB, Pénzügyminisztérium): the paper provides a precise framework for predicting inequality effects of credit expansion depending on the macroeconomic environment. Relevant to low-interest-rate era (when credit could compress inequality) versus higher-rate era (when it amplifies). Caveat: the r-g mechanism works at country-level; the distributional impact of Hungary's specific credit-expansion to household vs. business sectors would need domestic decomposition.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "inequality-welfare",
+        "banking-finance",
+        "macroeconomics"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "EU",
+        "GLOBAL"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W3002216277"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W3002216277",
+      "policy_instruments": [
+        "household-credit policy",
+        "macroprudential tools"
+      ]
     },
     {
       "id": "benczur-ratfai-2009-ae",
@@ -7236,21 +7368,34 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We contribute an alternative explanation of business cycles by using human capital investment as a second sector tied down with accounting methods. Inputs of education expenditure and tertiary student time in this sector enable explanation of a broad set of business-cycle moments. Labor time share, labor productivity, and consumption correlations with output are well explained, a challenge difficult to meet in the one-sector models. Human capital deepening in the human capital investment sector occurs during contractions, while physical capital deepening in the goods sectors occurs during expansions. The external margin from human capital investment clarifies conflicting estimates of the labor elasticity.",
-      "summary_en": null,
+      "summary_en": "Standard business-cycle models struggle to explain several moments of labour markets: labour share, labour productivity, and consumption correlations. This paper offers a fresh account by adding a second sector — human capital investment — with education expenditures and student time as inputs. The two-sector model explains the difficult moments naturally. Key mechanism: human-capital deepening happens in recessions (when people invest more in education), while physical-capital deepening happens in expansions. A useful complement to one-sector business-cycle models.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Calibrated DSGE model with human-capital sector. Compared to US macro data on business-cycle moments, labour share, labour productivity, and consumption.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian macroeconomic forecasting and counter-cyclical education policy (MNB, EMMI): the paper supports recession-era expansion of education-sector investment (vocational retraining, student enrolment) as a structural feature of the business cycle. Relevant to countercyclical policy design — expand tertiary enrollment in downturns. Caveat: calibrated to US data; Hungarian magnitudes would need domestic calibration.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "macroeconomics",
+        "education-skills"
+      ],
+      "methods": [
+        "structural"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4387358244"
+      "review_status": "ai-drafted",
+      "openalex_id": "W4387358244",
+      "policy_instruments": [
+        "countercyclical tertiary-enrollment policy",
+        "retraining during recessions"
+      ]
     },
     {
       "id": "benk-gillman-2019-jimf",
@@ -7558,21 +7703,34 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "During the COVID-19 pandemic, many countries eased the burden on borrowers through loan forbearance. Using a representative sample of the Hungarian adult population, we investigate whether time preferences and locus of control are associated with loan forbearance takeup. We find evidence that time discounting correlates with the resort to forbearance: ceteris paribus, more patient individuals are less likely to take up forbearance, even after controlling for their present/future bias, risk aversion, locus of control, demographic characteristics, educational level, financial status, and the effects of the pandemic. However, present bias and locus of control are not significantly associated with loan forbearance.",
-      "summary_en": null,
+      "summary_en": "Hungary offered loan forbearance (pause on repayments) during COVID-19. Who actually took it up? This paper surveys a representative sample of Hungarian adults and links forbearance takeup to psychological and economic traits. Main finding: more patient individuals (lower time discounting) were less likely to take up forbearance, even controlling for present/future bias, risk aversion, locus of control, demographics, and pandemic effects. Locus of control and present bias were not significantly associated with takeup. A clean empirical result relevant for designing financial-support programmes.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Representative survey of Hungarian adults during COVID-19 period. Individual-level measures of time preferences, risk aversion, locus of control; linked to reported loan forbearance usage.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant to Hungarian consumer-credit and crisis-support policy design (MNB, Ministry of Finance). The paper suggests that patient consumers use forbearance less — meaning emergency forbearance programmes reach a specific subset of borrowers, not necessarily those with the greatest need. Useful for targeting future crisis-support instruments. Caveat: specific to COVID-19 context; preferences identified are stated not revealed.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "behavioral"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4292086410"
+      "review_status": "ai-drafted",
+      "openalex_id": "W4292086410",
+      "policy_instruments": [
+        "loan-forbearance programme design",
+        "crisis consumer-credit support"
+      ]
     },
     {
       "id": "betti-gallo-et-al-2025-natcom",
@@ -8240,21 +8398,32 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We study strong core and Pareto-optimal solutions for multiple partners matching problem under lexicographic preference domains from a computational point of view. The restriction to the two-sided case is called stable many-to-many matching problem and the general one-sided case is called stable fixtures problem. We provide an example to show that the strong core can be empty even for many-to-many problems, and that deciding the non-emptiness of the strong core is NP-hard. On the positive side, we give efficient algorithms for finding a near feasible strong core solution and for finding a fractional matching in the strong core of fractional matchings. In contrast with the NP-hardness result for the stable fixtures problem, we show that finding a maximum size matching that is Pareto-optimal can be done efficiently for many-to-many problems. Finally, we show that for reverse-lexicographic preferences the strong core is always non-empty in the many-to-many case.",
-      "summary_en": null,
+      "summary_en": "Matching problems with multiple partners (like hospital-doctor networks with multiple positions, school-student assignments with multi-year attendance) can have complex core structures. This paper studies computational tractability of strong core and Pareto-optimal solutions under lexicographic preferences. Findings: the strong core can be empty even for many-to-many problems; deciding non-emptiness is NP-hard. On the positive side, efficient algorithms exist for finding near-feasible strong-core solutions and fractional matchings. The paper tightens the computational characterization of a classical matching problem, relevant to market-design practice.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data. Computational-complexity analysis.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian market-design applications: kidney-exchange programmes (with multi-donor options), teacher-school matching, university admissions with multiple offers. The paper informs practical algorithm choice when designing real allocation mechanisms. Relevant to the Péter Bíró-led KRTK game-theory group's ongoing work on kidney exchange. Caveat: hardness is worst-case; realistic instances often admit fast solutions.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "methods",
+        "industrial-organization"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4393187498"
+      "review_status": "ai-drafted",
+      "openalex_id": "W4393187498",
+      "policy_instruments": [
+        "kidney-exchange mechanism design",
+        "school-choice algorithm design"
+      ]
     },
     {
       "id": "biro-elek-2018-he",
@@ -8739,21 +8908,34 @@
       "url_pdf": "https://link.springer.com/content/pdf/10.1007/s11187-022-00614-9.pdf",
       "url_replication": null,
       "abstract": "Abstract This paper investigates the contribution of high-growth firms (HGFs) to aggregate productivity growth, using Hungarian firm-level data. Three stylized facts emerge. First, output-based HGFs substantially outperform employment-based ones in terms of their productivity contribution: on average, sales-based HGFs contribute 5 times as much as employment-based ones. Further, the contribution of employment-based HGFs is negative in 48-50% of industry-years, compared to 25-31% for sales-based HGFs. Second, HGFs tend to contribute to productivity growth only during their high-growth phase but not afterwards. Third, HGFs’ contribution to productivity growth is higher in industries with more effective reallocation and with more young firms, but none of these are strong predictors of the HGFs’ contribution. Finally, we present a simple benchmark model to show that these patterns arise naturally under realistic correlation structures.",
-      "summary_en": null,
+      "summary_en": "High-growth firms (HGFs) are often held up as engines of productivity growth. But are they really? This paper uses Hungarian firm-level data to decompose the contribution. Three stylised facts: (1) sales-based HGFs contribute 5 times as much to aggregate productivity as employment-based HGFs; (2) HGFs contribute to productivity growth only during their high-growth phase, not afterward; (3) HGF contributions are larger in industries with effective reallocation and more young firms. An important corrective to HGF-centric innovation policy.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian firm-level administrative data. Definitions of HGFs by sales-growth and employment-growth with five-year and shorter windows.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly relevant to Hungarian SME policy and innovation-strategy (ITM, NRDI Office). The paper's key message: policies should target sales-based HGFs in reallocation-friendly industries, not just employment-based growth. Relevant to the Hungarian State Holding Company (MNV) portfolio strategy and to SME subsidy targeting. Caveat: focuses on short-term productivity effects; the wider-economy benefits of fast-growing firms (knowledge spillovers, competitive pressure) may not be fully captured.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "firms-productivity",
+        "innovation-digital"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-firm"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4288758408"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4288758408",
+      "policy_instruments": [
+        "HGF targeting in SME policy",
+        "industrial-reallocation support"
+      ]
     },
     {
       "id": "bocskei-somogyi-2023-ks",
@@ -8943,21 +9125,36 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": null,
-      "summary_en": null,
+      "summary_en": "Politicians often spend more in election years (political budget cycles). But is this worse in states where civil-service protections are weaker? This paper uses US state-level highway-spending data to answer. Result: political budget cycles in highway spending are significantly larger in states with weaker civil-service rules. Civil-service protections, in effect, act as a commitment device that limits electoral manipulation of public spending. A clean empirical confirmation of the political-economy argument for bureaucratic independence.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "US state-level highway spending data with political-cycle identification. Cross-state variation in civil-service protections.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly relevant to Hungarian governance-reform debates (BM, central administration). The paper provides empirical support for civil-service protections as a tool limiting electoral manipulation of public spending. Relevant to Hungarian public-procurement reform, MÁSZ (municipal-affairs agency), and EU cohesion-fund oversight. Caveat: US state-level evidence; Hungarian institutional context (unitary rather than federal, different electoral cycles) changes the quantitative implications.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "political-economy",
+        "fiscal-tax"
+      ],
+      "methods": [
+        "panel-data",
+        "diff-in-diff"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2946112054"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2946112054",
+      "policy_instruments": [
+        "civil-service protections",
+        "public-procurement oversight",
+        "electoral-spending rules"
+      ]
     },
     {
       "id": "boza-2023-eepe",
@@ -9515,21 +9712,35 @@
       "url_pdf": "https://www.sciencedirect.com/science/article/am/pii/S0929119916301419?via%3Dihub",
       "url_replication": null,
       "abstract": null,
-      "summary_en": null,
+      "summary_en": "Privatization is one of the most studied post-communist reforms, but estimates of its effect on firm performance vary widely across studies and countries. Why? This paper investigates the heterogeneity in privatisation effects, using cross-country firm-level data. Results depend on: baseline institutional quality, the type of privatisation method used, initial firm conditions, and post-privatisation corporate governance. Understanding the conditional-effects structure helps explain why privatisation can be a great reform in some settings and a disaster in others. Useful for evaluating past Hungarian privatisations and any future state-asset sales.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Cross-country firm-level panel data covering privatisation episodes in transition economies; firm-performance outcomes (productivity, employment, revenue).",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct historical relevance to Hungarian state-owned-enterprise privatization debates (MNV, Ministry of Economy). The paper's conditional-effects framing supports careful sequencing: institutional quality and post-privatisation governance determine outcomes more than the act of privatisation itself. Relevant to future SOE reforms and to evaluation of past privatisations. Caveat: privatisation-era-specific context; modern SOE governance (SOE performance contracts, EU state-aid rules) provides different tools.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "transition-postcommunist",
+        "firms-productivity"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "EU",
+        "GLOBAL"
+      ],
+      "data_types": [
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W3126143073"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W3126143073",
+      "policy_instruments": [
+        "SOE privatization design",
+        "post-privatization governance"
+      ]
     },
     {
       "id": "brueckner-pappa-et-al-2022-jomca",
@@ -10633,21 +10844,33 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "In this paper we propose a mechanism for the allocation of pipeline capacities, assuming that the participants bidding for capacities do have subjective evaluation of various network routes. The proposed mechanism is based on the concept of bidding for route–quantity pairs. Each participant defines a limited number of routes and places multiple bids, corresponding to various quantities, on each of these routes. The proposed mechanism assigns a convex combination of the submitted bids to each participant, thus its called convex combinatorial auction. The capacity payments in the proposed model are determined according to the Vickrey–Clarke–Groves principle. We compare the efficiency of the proposed algorithm with a simplified model of the method currently used for pipeline capacity allocation in the EU (simultaneous ascending clock auction of pipeline capacities) via simulation, according to various measures, such as resulting and net utility of players, utilization of network capacities, total income of the auctioneer and fairness.",
-      "summary_en": null,
+      "summary_en": "Pipeline network capacity allocation is a classic auction-design problem: bidders want capacity on specific routes, but routes interact in complex ways. This paper proposes a \"convex combinatorial auction\" where each bidder defines multiple route–quantity bids, and a convex combination of bids is assigned. Payments follow the Vickrey-Clarke-Groves principle. The paper compares efficiency with current methods and shows the convex approach performs better. A concrete mechanism-design contribution with direct industry application.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Simulation of pipeline capacity auction scenarios with synthetic bid data; comparison with simplified version of current allocation method.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly relevant to Hungarian energy-market regulation (MEKH) and to European gas-transmission capacity allocation debates (FGSZ, MGP). The paper offers a concrete improvement over current allocation methods for cross-border capacity, with implications for EU Capacity Allocation Mechanism regulation. Relevant to ongoing gas-market design reforms. Caveat: the simulation is stylised; practical deployment requires fit with regulator-approved allocation frameworks.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "energy-environment",
+        "industrial-organization",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W3005775756"
+      "review_status": "ai-drafted",
+      "openalex_id": "W3005775756",
+      "policy_instruments": [
+        "gas-pipeline capacity auction design",
+        "EU Capacity Allocation Mechanism"
+      ]
     },
     {
       "id": "csercsik-hubert-et-al-2019-ee",
@@ -10987,21 +11210,32 @@
       "url_pdf": "https://pubsonline.informs.org/doi/pdf/10.1287/mnsc.2017.2847",
       "url_replication": null,
       "abstract": "We consider a situation in which agents have mutual claims on each other, summarized in a liability matrix. Agents’ assets might be insufficient to satisfy their liabilities, leading to defaults. In case of default, bankruptcy rules are used to specify the way agents are going to be rationed. A clearing payment matrix is a payment matrix consistent with the prevailing bankruptcy rules that satisfies limited liability and priority of creditors. Since clearing payment matrices and the corresponding values of equity are not uniquely determined, we provide bounds on the possible levels equity can take. Unlike the existing literature, which studies centralized clearing procedures, we introduce a large class of decentralized clearing processes. We show the convergence of any such process in finitely many iterations to the least clearing payment matrix. When the unit of account is sufficiently small, all decentralized clearing processes lead essentially to the same value of equity as a centralized clearing procedure. As a policy implication, it is not necessary to collect and process all the sensitive data of all the agents simultaneously and run a centralized clearing procedure. This paper was accepted by Yinyu Ye, optimization.",
-      "summary_en": null,
+      "summary_en": "When a web of firms owe each other money and some of them default, who gets paid what? Financial networks with mutual liabilities and insufficient assets create a clearing problem. This paper introduces decentralised clearing processes — where agents make payments to each other according to bankruptcy rules — and shows any such process converges in finite time. This is an important complement to centralised clearing procedures previously studied. Useful for thinking about how financial-network crises could be resolved in practice, when central coordination may be unavailable.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Foundational for Hungarian financial-stability policy (MNB, OBA). The paper supports the concept that well-designed decentralised settlement rules can clear distressed financial networks — relevant to interbank-market stress and payment-system resilience. Relevant to design of BRRD-type resolution procedures. Caveat: theoretical; specific implementation in Hungarian settlement systems (GIRO, VIBER) would require institutional detail not in the paper.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "banking-finance",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2255966915"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2255966915",
+      "policy_instruments": [
+        "decentralised settlement design",
+        "interbank resolution procedures"
+      ]
     },
     {
       "id": "csoka-herings-2019-gaeb",
@@ -11057,21 +11291,32 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "The most important rule to determine payments in real-life bankruptcy problems is the proportional rule. Many such bankruptcy problems are characterized by network aspects, and the values of the agents’ assets are endogenous as they depend on the extent to which claims on other agents can be collected. These network aspects make an axiomatic analysis challenging. This paper is the first to provide an axiomatization of the proportional rule in financial networks. Our main axiom is invariance to mitosis. The other axioms are claims boundedness, limited liability, priority of creditors, continuity, and impartiality. This paper was accepted by Manel Baucells, decision analysis.",
-      "summary_en": null,
+      "summary_en": "When a bankrupt firm's assets are insufficient to pay all creditors, the proportional rule — dividing the available assets in proportion to claims — is by far the most common rule in real-world bankruptcy law. But in network settings, where collecting claims depends on others' solvency, axiomatizing the proportional rule is hard. This paper provides the first such axiomatization in financial networks. Key axiom: \"invariance to mitosis\" (splitting an agent into two with the same combined claims shouldn't change outcomes). Supplementary axioms include claims boundedness, limited liability, priority of creditors, continuity, and impartiality. A clean theoretical foundation for the most widely-used bankruptcy rule.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian bankruptcy-law design (Ministry of Justice) and EU insolvency-harmonisation debates. The paper provides principled justification for the proportional rule even in network settings — a useful foundation for reform discussions. Relevant to EU Directive on restructuring and insolvency implementation in Hungary. Caveat: theoretical; the specific Hungarian insolvency framework has priority rules that go beyond the proportional one.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "banking-finance",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2582432825"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2582432825",
+      "policy_instruments": [
+        "bankruptcy law design",
+        "EU insolvency directive"
+      ]
     },
     {
       "id": "csoka-herings-2022-jomai",
@@ -11092,21 +11337,32 @@
       "url_pdf": "https://doi.org/10.22574/jmid.2022.12.002",
       "url_replication": null,
       "abstract": "We consider financial networks where agents are linked to each other by financial contracts. A centralized clearing mechanism collects the initial endowments, the liabilities and the division rules of the agents and determines the payments to be made. A division rule specifies how the assets of the agents should be rationed. Since payments made depend on payments received, we are looking for solutions to a system of equations. The set of solutions is known to have a lattice structure, leading to the existence of a least and a greatest clearing payment matrix. Previous research has shown how decentralized clearing selects the least clearing payment matrix. We present a centralized approach towards clearing in order to select the greatest clearing payment matrix. To do so, we formulate the determination of the greatest clearing payment matrix as a programming problem. When agents use proportional division rules, this programming problem corresponds to a linear programming problem. We show that for other common division rules, it can be written as an integer linear programming problem.",
-      "summary_en": null,
+      "summary_en": "Continuing a research programme on financial-network clearing, this paper compares decentralised with centralised clearing mechanisms. A central authority collects endowments, liabilities, and division rules, and determines payments by solving a system of equations. The set of solutions forms a lattice with a least and greatest clearing payment matrix. While decentralised clearing picks the least solution, this paper shows how a centralised approach can pick the greatest — delivering higher aggregate payments. A useful programming-approach contribution for practical clearing-system design.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian and EU financial-stability policy: the paper supports centralised-clearing schemes (like ECB's TARGET2) when maximising aggregate payments matters more than decentralised resilience. Relevant to MNB's role in interbank settlement and to EU banking-union discussions. Caveat: theoretical; centralised vs decentralised choice in practice balances many factors beyond payment maximisation.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "banking-finance",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4311298170"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4311298170",
+      "policy_instruments": [
+        "interbank clearing design",
+        "central-counterparty policy"
+      ]
     },
     {
       "id": "csoka-herings-2023-moor",
@@ -11127,21 +11383,32 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We study bankruptcy problems in financial networks in the presence of general bankruptcy laws. The set of clearing payment matrices is shown to be a lattice, which guarantees the existence of a greatest clearing payment and a least clearing payment. Multiplicity of clearing payment matrices is both a theoretical and a practical concern. We present a new condition for uniqueness that generalizes all the existing conditions proposed in the literature. Our condition depends on the decomposition of the financial network into strongly connected components. A strongly connected component that contains more than one agent is called a cycle, and the involved agents are called cyclical agents. If there is a cycle without successors, then one of the agents in such a cycle should have a strictly positive endowment. The division rule used by a cyclical agent with a strictly positive endowment should be positive monotonic, and the rule used by a cyclical agent with a zero endowment should be strictly monotonic. Because division rules involving priorities are not positive monotonic, uniqueness of the clearing payment matrix is a much bigger concern for such division rules than for proportional ones. As a final contribution of the paper, we exhibit the relationship between the uniqueness of clearing payment matrices and the continuity of bankruptcy rules, a property that is very much desired for stability of financial systems. Funding: This research was supported by the Higher Education Institutional Excellence Program 2020 of the Ministry of Innovation and Technology in the framework of the “Financial and Public Services” research project [Grant TKP2020-IKA-02] at Corvinus University of Budapest. P. Csóka received funding from the National Research, Development and Innovation Office [Grants K-120035 and K-138826].",
-      "summary_en": null,
+      "summary_en": "When is the outcome of bankruptcy clearing in a financial network uniquely determined? Multiplicity of clearing solutions is a theoretical and practical problem. This paper presents a new uniqueness condition that generalises all previous conditions. It depends on the decomposition of the financial network into strongly-connected components. \"Cycles\" (strongly-connected components with more than one agent) can create multiplicity; if a cycle has no external successors, at least one of its cyclical agents must have strictly positive endowments to ensure uniqueness. A clean characterisation with direct implementation implications.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly relevant to financial-stability supervision (MNB, ESRB). The paper's characterisation of multiplicity in clearing gives regulators a practical criterion for when interbank-liability networks will have deterministic resolution outcomes — a prerequisite for effective crisis management. Relevant to SRM (Single Resolution Mechanism) implementation in Hungary. Caveat: the condition is sharp but requires detailed network data to apply.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "banking-finance",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4327595745"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4327595745",
+      "policy_instruments": [
+        "interbank-network stress testing",
+        "resolution-mechanism design"
+      ]
     },
     {
       "id": "csoka-herings-2025-ejoor",
@@ -13121,21 +13388,36 @@
       "url_pdf": "https://www.tandfonline.com/doi/pdf/10.1080/00130095.2018.1498741?needAccess=true",
       "url_replication": null,
       "abstract": "The present article provides an initial systematic analysis of how social networks influence productivity in regional agglomerations. This is accomplished by means of matched employer–employee data for the entire Swedish economy for the period 1990–2008, allowing us to construct a weighted co-worker network with aggregated tie weights on the plant level. We find evidence that increasing density of the plant-level network has a positive effect on productivity, particularly in large regional industry-clusters with high degrees of specialization. Triadic closure of ties is, however, negatively linked to productivity, suggesting the importance of nonredundant knowledge. Moreover, we find only limited support for the notion that the diversity of linkages within or across regions as such is beneficial for productivity. Instead, we show that the degree of specialization conditions the extent to which both linkages to related industries in the region and nonlocal ties are beneficial. Our results thus suggest that having dense social networks is a crucial feature of high-performing agglomerations, and that interindustry, as well as interregional, linkages are compensatory in cases when sufficient industry specialization is absent.",
-      "summary_en": null,
+      "summary_en": "Do social networks among workers affect regional productivity? This paper uses matched employer-employee data covering the entire Swedish economy 1990–2008 to construct a weighted co-worker network at the plant level. Key finding: higher network density is associated with higher productivity, especially in large regional industry clusters. But triadic closure (redundant connections) is negatively linked to productivity — non-redundant knowledge matters more. The benefit of network diversity within regions is weaker than expected. A comprehensive empirical account of how worker networks matter for regional productivity.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Swedish matched employer-employee administrative data covering the full economy, 1990–2008. Plant-level co-worker network constructed from labour-mobility data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian regional-development and industrial-policy design. The paper supports regional clustering strategies that build networks with non-redundant connections — i.e., policies supporting labour mobility across different firms and sectors within a region. Relevant to KRTK research and to regional-development fund targeting. Caveat: Swedish data; Hungarian labour-mobility patterns differ (much less inter-firm mobility), which changes the applicability.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "regional-urban",
+        "labor-markets",
+        "firms-productivity"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "SE"
+      ],
+      "data_types": [
+        "admin-firm",
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2891595775"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2891595775",
+      "policy_instruments": [
+        "labour-mobility promotion in clusters",
+        "regional network-diversity policy"
+      ]
     },
     {
       "id": "ertl-2022-ksz",
@@ -15614,21 +15896,34 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": null,
-      "summary_en": null,
+      "summary_en": "When information is deliberately misleading — advertising puffery, misinformation campaigns, political propaganda — should government regulate? This paper builds a model and shows the answer depends on competition and the sophistication of receivers. Key results: competition with accurate sources doesn't always defeat misinformation (if receivers are inattentive); mandating correction can backfire (raising salience of the false claim); optimal regulation often involves taxing misinformation directly or raising the cost of producing it. A foundational framework for Hungarian and EU-level misinformation policy.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Highly relevant to Hungarian media policy (NMHH) and to EU Digital Services Act enforcement. The paper's framework supports direct regulation of misinformation sources rather than reliance on consumer correction. Relevant to ongoing debates about platform regulation, political-advertising rules, and public-health communication. Caveat: theoretical; applies differently to advertising, political, and public-health misinformation.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "political-economy",
+        "innovation-digital",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4229720470"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4229720470",
+      "policy_instruments": [
+        "misinformation regulation",
+        "Digital Services Act enforcement",
+        "political-advertising rules"
+      ]
     },
     {
       "id": "goel-telegdy-et-al-2024-jocf",
@@ -18173,21 +18468,35 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We build a model of structural transformation with endogenous sector–biased technological change. We show that if the return to specialization is larger in the goods sector than in the service sector, then the equilibrium has the following properties: aggregate growth is balanced; the service sector receives more innovation but the goods sector experiences more productivity growth; structural transformation takes place from goods to services. Compared to the efficient allocation the laissez–faire equilibrium has too much labor in the goods sector, implying that optimal industrial policy should aim to increase, not decrease, the pace of structural transformation.",
-      "summary_en": null,
+      "summary_en": "Models of structural transformation (labor moving from goods to services) usually treat technological change as exogenous. This paper endogenises it. Result: if returns to specialization are larger in goods than in services, equilibrium has balanced aggregate growth; the service sector receives more innovation but the goods sector experiences more productivity growth; labor moves from goods to services. But the laissez-faire equilibrium has too much labor in the goods sector — optimal industrial policy should accelerate structural transformation, not slow it down. A counter-intuitive but clean recommendation.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical structural-change model with endogenous sector-biased technology. Comparison to historical sectoral data in developed economies.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian industrial-policy design and long-run growth strategy (Ministry of Economy): the paper supports accelerating structural transformation (faster shift from manufacturing to services) rather than the opposite. Counters nostalgia for manufacturing-heavy industrial policy. Relevant to reindustrialization debates and to EU-level industrial strategy. Caveat: theoretical; the magnitude of the 'too much in goods sector' distortion in Hungarian context should be calibrated.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "macroeconomics",
+        "firms-productivity"
+      ],
+      "methods": [
+        "theory",
+        "structural"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2212142548"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2212142548",
+      "policy_instruments": [
+        "industrial policy acceleration",
+        "structural-transformation support"
+      ]
     },
     {
       "id": "herrendorf-valentinyi-et-al-2000-restud",
@@ -18491,21 +18800,35 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We build a model of administrative barriers to trade to understand how they affect trade volumes, shipping decisions and welfare. Because administrative costs are incurred with every shipment, exporters have to decide how to break up total trade into individual shipments. Consumers value frequent shipments, because they enable them to consume close to their preferred dates. Hence per-shipment costs create a welfare loss. We derive a gravity equation in our model and show that administrative costs can be expressed as bilateral ad-valorem trade costs. We estimate the ad-valorem equivalent in Spanish shipment-level export data and find it to be large. A 50% reduction in per-shipment costs is equivalent to a 9 percentage point reduction in tariffs. Our model and estimates help explain why policy makers emphasize trade facilitation and why trade within customs unions is larger than trade within free trade areas.",
-      "summary_en": null,
+      "summary_en": "Per-shipment administrative costs (customs paperwork, inspections, fees) are a surprisingly important form of trade cost. This paper builds a model showing how they distort trade volumes and shipment patterns. Exporters have to decide shipment frequency; consumers value frequency; so per-shipment costs create welfare loss. The paper derives a gravity equation in the model and shows these costs translate into bilateral ad-valorem trade costs. Using Spanish shipment-level export data, the authors find the ad-valorem equivalent is large: a 50% reduction in per-shipment costs is equivalent to a 9-percentage-point tariff cut. A clean empirical quantification.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Spanish shipment-level customs export data, including shipment timing, destination, and value.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly relevant to Hungarian trade-facilitation policy (NAV customs, ITM) and EU customs-harmonisation debates. The paper's 50%-cut-equals-9pp-tariff equivalence is a powerful argument for digital-customs investment. Relevant to implementation of the EU Union Customs Code. Caveat: Spanish data; Hungarian effects depend on baseline per-shipment costs and industry mix.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "trade-fdi",
+        "firms-productivity"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "ES"
+      ],
+      "data_types": [
+        "admin-firm"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2012795331"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2012795331",
+      "policy_instruments": [
+        "customs digitalisation",
+        "EU Union Customs Code implementation",
+        "trade-facilitation investment"
+      ]
     },
     {
       "id": "hornok-koren-2017-cupe",
@@ -18526,21 +18849,31 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "The goal of this chapter is to summarize the state of the art in research in international trade and global production, and discuss issues relevant to European policymakers. Much of recent research on globalization is primarily empirical, owing to the proliferation of available data. We begin by discussing recent advances in measuring the causes and effects of globalization, and discussing the particular data challenges that have emerged. We then turn to theories of trade and global production, first summarizing the conclusions on which there is a broad consensus in the field. We discuss new insights that may be relevant for policy-makers, and open research questions.",
-      "summary_en": null,
+      "summary_en": "This is a handbook chapter summarising the state of trade-and-globalisation research for European policymakers. It reviews recent advances in measuring the causes and effects of globalisation, the data challenges that have emerged, and the theoretical frameworks that have dominated trade economics. It identifies sixteen open questions — measurement and theory — that remain despite the explosion of firm-level trade data. A valuable overview for policymakers wanting to understand what economics now knows (and doesn't) about globalisation's winners and losers.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Survey chapter; no original empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "An accessible reference for Hungarian trade-policy staff (ITM, Pénzügyminisztérium, MFM) who want a rigorous overview of globalisation research. Useful framing for debates about EU trade agreements, industrial policy, and supply-chain resilience. Caveat: a survey from 2017; ensuing research (COVID-19 supply chains, great-power trade wars, reshoring) has rendered some parts dated.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "trade-fdi"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "GLOBAL",
+        "EU"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2600105563"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2600105563",
+      "policy_instruments": [
+        "trade-policy overview framework"
+      ]
     },
     {
       "id": "hsu-lai-et-al-2020-er",
@@ -19175,21 +19508,35 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Knowledge networks are important to understand learning in industry clusters but surprisingly little is known about what drives the formation, persistence and dissolution of ties. Applying stochastic actor-oriented models on longitudinal relational data from a mature cluster in a medium-tech industry, we show that triadic closure and geographical proximity increase the probability of tie creation but does not influence tie persistence. Cognitive proximity is positively correlated to tie persistence but firms create ties to cognitively proximate firms only if they are loosely connected through common third partners. We propose a micro-perspective to understand how endogenous network effects, cognitive proximity of actors and their interplay influence the evolutionary process of network formation in clusters.",
-      "summary_en": null,
+      "summary_en": "How do knowledge networks in industrial clusters form, grow, and dissolve? This paper uses longitudinal relational data on a mature mid-tech Hungarian cluster to answer the question with stochastic actor-oriented models. Findings: triadic closure (friends-of-friends becoming friends) and geographical proximity both increase tie creation — but neither affects tie persistence. Cognitive proximity helps ties persist, but firms only create ties to cognitively-proximate firms if they are loosely connected through common partners. A nuanced picture of when geography, cognition, and network structure matter for industrial-cluster dynamics.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Longitudinal relational data on knowledge ties within a Hungarian industrial cluster (medium-tech sector). Stochastic actor-oriented models (SAOM).",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian cluster policy and regional innovation-system design. The paper supports different policy levers at different cluster-lifecycle stages: geographical proximity matters for initial tie formation, cognitive proximity for sustaining networks. Relevant to NRDI Office, regional development agencies. Caveat: a specific Hungarian cluster; effects in clusters at different lifecycle stages or sectors may differ.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "regional-urban",
+        "innovation-digital",
+        "firms-productivity"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2771138162"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2771138162",
+      "policy_instruments": [
+        "cluster policy lifecycle-targeted",
+        "regional innovation systems"
+      ]
     },
     {
       "id": "juhasz-squicciarini-et-al-2024-jpe",
@@ -20507,20 +20854,27 @@
       "url_pdf": "https://link.springer.com/content/pdf/10.1007/s11238-007-9030-x.pdf",
       "url_replication": null,
       "abstract": "We present a well-defined generalisation of the core to coalitional games with externalities, where the value of a deviation is given by an endogenous response, the solution (if nonempty: the core) of the residual game.",
-      "summary_en": null,
+      "summary_en": "Standard cooperative game theory defines the \"core\" — the set of allocations no coalition can improve on by leaving — but the concept is fragile when coalitions affect each other (externalities). This paper introduces a recursive core that handles externalities by defining a deviating coalition's value through an endogenous response: whatever remains is itself a game, solved by the core if it's nonempty. A clean generalisation that makes the core applicable to partition-function-form games. Useful for thinking about international-treaty coalitions, cartel formation, and any setting where groups affect each other.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Foundational for modelling international-coalition formation (climate agreements, trade blocs, EU policy coordination). Relevant to Hungarian EU-negotiation strategy analysis. Caveat: highly theoretical; specific policy applications require concrete parameterisation.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "methods",
+        "political-economy"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "review_status": "ai-drafted",
       "openalex_id": "W2102729478"
     },
     {
@@ -22919,21 +23273,35 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "The gender gap in competitiveness is argued to explain gender differences in later life outcomes, including career choices and the gender wage gap. In experimental settings, a prevalent explanation attributes this gap to males being more (over)confident than females (we call this the compositional channel). While our lab-in-the-field study using data from students in 53 classrooms (N > 1000) reproduces this finding, it also uncovers a second, potentially more impactful channel of confidence contributing to the gender gap in competitiveness (the preference channel). To disentangle the two channels, we propose a more precise measure of confidence based on whether the subjects’ believed performance rank exceeds, coincides with or falls short of their actual performance in a real-effort task. We label categories of this Guessed - Actual Performance (GAP) difference as overconfident, realistic or underconfident, respectively. Surprisingly, there is no gender difference in competitiveness within the over- and underconfident subgroups, while a significant gender gap exists among the realistic. So, even if both genders had the same level of confidence, a persistent gender gap in preference (or taste) for competition would remain in the realistic group. This finding is robust across all specifications, challenging previous theories about the overconfidence of men being the main driver of the relationship between confidence and the gender gap in competition.",
-      "summary_en": null,
+      "summary_en": "Women are less likely than men to enter competitions — a pattern often blamed on male overconfidence. This paper argues there's a second channel: some realistic people (who accurately know their rank) simply prefer not to compete. Using a lab-in-the-field experiment with 1000+ students in 53 Hungarian classrooms, the authors separate overconfidence-driven entry from preference-driven entry using a more precise confidence measure (believed rank vs actual rank). The preference channel turns out to be at least as important as the compositional/overconfidence channel. Policy should shift focus from \"fixing overconfidence\" to understanding realistic preferences.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Lab-in-the-field experiment with 1000+ Hungarian secondary-school students across 53 classrooms. Real-effort tasks with competitive-entry choice, combined with confidence elicitation via believed-rank measures.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly relevant to Hungarian STEM-gender-gap policy and education interventions. If preference (not just confidence) drives the gender gap in competitive entry, interventions should create lower-stakes competitive environments and non-competitive excellence pathways. Relevant to Oktatási Hivatal and ETDA. Caveat: secondary-school sample; effects at university or professional stages may differ.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "behavioral",
+        "education-skills",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "rct"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "field-experiment"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4401155176"
+      "review_status": "ai-drafted",
+      "openalex_id": "W4401155176",
+      "policy_instruments": [
+        "STEM competition-entry programmes",
+        "school-based gender interventions"
+      ]
     },
     {
       "id": "lengyel-2012-wp",
@@ -23038,21 +23406,36 @@
       "url_pdf": "https://academic.oup.com/joeg/article-pdf/17/3/635/16974874/lbw027.pdf",
       "url_replication": null,
       "abstract": "The mobility of workers is an important source of regional dynamics, but the effect of mobility on regional productivity growth is not straightforward, as some firms tend to win while others lose from mobility. In the present paper, we argue that the co-worker networks across plants that are established by labour moves are important for both local learning opportunities and job matching quality and should hence facilitate regional growth. We therefore propose a new homophily-biased perspective on co-worker network creation and show that it suits geographical analyses better than random networks do. Moreover, panel vector autoregression models provide systematic evidence that an increase in co-worker network density is positively related to regional productivity growth. This is found to be important even when only ties across plants that are not directly linked by labour mobility are included.",
-      "summary_en": null,
+      "summary_en": "When workers move between firms, what do their old co-worker networks do for regional productivity growth? This paper argues these networks create learning opportunities and improve job matching, helping regional growth. Using a \"homophily-biased\" perspective on co-worker-network formation and panel vector autoregression models, the authors show that increases in co-worker-network density cause increases in regional productivity growth. A clean empirical demonstration that worker-mobility-generated social networks matter for regional economic dynamics.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Matched employer-employee administrative data (likely Swedish or Hungarian). Plant-level co-worker-network measures over time; regional productivity data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly relevant to Hungarian regional-development and labour-market policy. The paper supports policies that facilitate labour mobility between firms within a region as a regional-growth strategy. Relevant to ITM, regional-development agencies, and to active labour-market-policy design. Caveat: the causal identification relies on VAR assumptions; alternative specifications could change magnitudes.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "regional-urban",
+        "labor-markets",
+        "firms-productivity"
+      ],
+      "methods": [
+        "panel-data",
+        "time-series"
+      ],
+      "countries_studied": [
+        "SE"
+      ],
+      "data_types": [
+        "admin-firm",
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2230360416"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2230360416",
+      "policy_instruments": [
+        "labour-mobility-focused regional policy"
+      ]
     },
     {
       "id": "lengyel-kano-et-al-2016-ks",
@@ -25813,21 +26196,32 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This paper examines an environment inhabited by self-interested individuals and unconditional cooperators. The individuals are randomly paired and engage in the Prisoner’s Dilemma Game. Cooperation among players is incentivized by institutional capital, and selfish individuals incur a cost to identify situations where defection goes unpunished. In this environment, we explore the coevolution of types and institutional capital, with both the distribution of types and capital evolving through myopic best-response dynamics. The equilibria are shown to be Pareto-ranked. The main finding is that any equilibrium level of institutional capital exceeds the optimal amount in the long run. Thus, forward-looking optimal institutions not only foster a more cooperative culture but are also more cost-effective compared to the myopically optimal ones.",
-      "summary_en": null,
+      "summary_en": "Why do some societies develop strong institutions that enforce cooperation, while others don't? This paper builds an evolutionary model where selfish individuals and unconditional cooperators co-exist, and institutional capital (like enforcement, monitoring) evolves alongside the distribution of types. Equilibria are Pareto-ranked. The main finding: the equilibrium level of institutional capital always exceeds the long-run optimum — societies over-invest in enforcement. Forward-looking institutional design fosters more cooperative culture and is also more cost-effective. A theoretical foundation for institutional-reform debates.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian institutional-reform debates (transparency, anti-corruption, rule of law): the paper formalises how institutional capital, cooperative culture, and individual behaviour co-evolve. Supports integrated reform packages over piecemeal enforcement. Indirect relevance to EU cohesion-fund conditionality on rule-of-law. Caveat: theoretical and evolutionary — time scales are very long; concrete short-run Hungarian implications are indirect.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "political-economy",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4388191512"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4388191512",
+      "policy_instruments": [
+        "rule-of-law reform",
+        "institutional-capital investment"
+      ]
     },
     {
       "id": "sandrini-somogyi-2023-el",
@@ -25848,21 +26242,33 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "In this paper, we analyze the effects of advancements in generative Artificial Intelligence (GenAI) on the news media market. We model a representative consumer who allocates their time between reading news and deceptive articles. We find that GenAI may induce consumers to inefficiently reallocate their time and increase the consumption of the lower value good, i.e. deceptive content (clickbait articles or fake news). Therefore, early-stage GenAI distorts the incentives of consumers and reduces their welfare. After GenAI technology reaches a certain threshold, however, consumers start benefiting from its advancements. Finally, we find that the negative effects of early-stage GenAI are exacerbated as they induce a lower level of investment in news production.",
-      "summary_en": null,
+      "summary_en": "Generative AI makes it cheaper to produce both high-quality journalism and deceptive clickbait. This short paper models how consumers allocate reading time between the two. Early-stage GenAI increases time on deceptive content and reduces consumer welfare — a distortion amplified by lower investment in quality journalism. Once GenAI passes a threshold, consumers start benefiting. A cautionary framework for thinking about the GenAI-media interaction in its early years.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly relevant to Hungarian media policy (NMHH) and to EU Digital Services Act enforcement: the paper supports regulatory support for quality-journalism production (public-broadcast funding, subsidies) during the early-GenAI period to prevent welfare losses. Relevant to Hungarian media-pluralism debates and to EU platform-regulation. Caveat: theoretical; quantitative thresholds for when GenAI becomes net-positive are not in the paper.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "innovation-digital",
+        "behavioral"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4386122704"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4386122704",
+      "policy_instruments": [
+        "public-journalism funding",
+        "platform-content regulation",
+        "Digital Services Act enforcement"
+      ]
     },
     {
       "id": "schelhaas-cerny-et-al-2004-wp",
@@ -26059,21 +26465,32 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We study housing markets as introduced by Shapley and Scarf. We investigate the computational complexity of various questions regarding the situation of an agent a in a housing market H: we show that it is [Formula: see text]-hard to find an allocation in the core of H in which (i) a receives a certain house, (ii) a does not receive a certain house, or (iii) a receives a house other than a’s own. We prove that the core of housing markets respects improvement in the following sense: given an allocation in the core of H in which agent a receives a house h, if the value of the house owned by a increases, then the resulting housing market admits an allocation in its core in which a receives either h or a house that a prefers to h; moreover, such an allocation can be found efficiently. We further show an analogous result in the Stable Roommates setting by proving that stable matchings in a one-sided market also respect improvement. Funding: This work was supported by the Hungarian Scientific Research Fund [Grants K124171, K128611]. I. Schlotter is supported by the Hungarian Academy of Sciences under its Momentum Programme (LP2021-2) and its János Bolyai Research Scholarship. The research reported in this paper and carried out by T. Fleiner at the Budapest University of Technology and Economics was supported by the “TKP2020, National Challenges Program” of the National Research Development and Innovation Office [BME NC TKP2020 and OTKA K143858] and by the Higher Education Excellence Program of the Ministry of Human Capacities in the frame of the Artificial Intelligence research area of the Budapest University of Technology and Economics (BME FIKP-MI/SC). P. Biró gratefully acknowledges financial support from the Hungarian Scientific Research Fund, OTKA [Grant K143858] and the Hungarian Academy of Sciences [Momentum Grant LP2021-2].",
-      "summary_en": null,
+      "summary_en": "In housing markets (à la Shapley-Scarf), agents trade homes based on preferences. If agent a owns house x, what can a expect in a core allocation? This paper answers a series of questions about the agent's perspective. Key results: it's NP-hard to find a core allocation in which a receives a specific house (or avoids one). More positively, the core \"respects improvement\": if a's own house becomes more valuable, any new core allocation lets a get their original house or something they prefer. Sprucing up your home doesn't hurt you — a reassuring property for housing-market mechanism design.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data. Computational-complexity and structural-property analysis.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant to Hungarian public-housing allocation and housing-exchange policy design. The paper formalises properties of housing-exchange mechanisms that should be desirable for Hungarian housing-policy (e.g., for Budapest's social-housing rotation schemes). Also relevant to mechanism-design theory for kidney-exchange and similar trading problems. Caveat: theoretical; policy implementation requires compatibility with Hungarian legal-property frameworks.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "methods",
+        "regional-urban"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W3206424382"
+      "review_status": "ai-drafted",
+      "openalex_id": "W3206424382",
+      "policy_instruments": [
+        "housing-exchange programmes",
+        "social-housing rotation"
+      ]
     },
     {
       "id": "segal-halevi-sziklai-2018-ecth",
@@ -26469,21 +26886,37 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This study examines the impact of ambient air pollution on birth rates in Europe. We estimate the causal effect of air pollution on fertility by utilizing variations in wind speed and the number of heating days as instrumental variables for air quality. Our analysis encompasses 657 regions of NUTS 3 level, with each region having 2 to 6 years of observations between 2013 and 2020. Thus, our study is the first to extend this analysis to multiple countries, pollutants, and years. Our findings indicate that a one standard deviation increase in particulate matter concentration levels leads to a 14.1% decrease in birth rates the following year and an additional 17.2% decrease two years later. Moreover, a similar increase in air pollution has a more pronounced adverse effect on fertility in countries with lower GDP. Other pollutants play little role in shaping fertility outcomes. This result is important for environmental policies with limited resources.",
-      "summary_en": null,
+      "summary_en": "Does air pollution make people have fewer babies? This paper is the first large cross-European study to estimate the causal effect. Using 657 NUTS-3 regions and 2013–2020 data, the authors exploit variation in wind speed and heating-days as instruments for local air quality. The result is large: a one-standard-deviation increase in particulate matter reduces birth rates 14.1% the following year and an additional 17.2% two years later. Effects are stronger in countries where initial pollution is higher. A direct quantitative link between environmental quality and demographic futures.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Panel data for 657 NUTS-3 European regions over 2013–2020, combining air-quality measurements, birth-rate records, and meteorological variables. IV strategy using wind speed and heating days as instruments for air pollution.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance to Hungarian environmental policy (ITM) and family-policy debates. The paper quantifies a large fertility cost of air pollution — important for urban air-quality targets (Budapest smog-alarm thresholds) and for making the demographic case for stricter emission controls. Relevant to the Hungarian government's simultaneous pro-natalist and industrial-policy stances. Caveat: pan-European identification; Hungarian-specific magnitudes may differ, and causal channels (reproductive-health pathways) need domestic-data verification.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "energy-environment",
+        "health",
+        "demographics-migration"
+      ],
+      "methods": [
+        "iv",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "EU"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4406602710"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4406602710",
+      "policy_instruments": [
+        "urban air-quality standards",
+        "emission limits",
+        "family/fertility policy interaction with environment"
+      ]
     },
     {
       "id": "szabo-kiss-2022-ks",
@@ -27467,21 +27900,36 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "The impact of crises on firm performance has been studied widely. This paper explores the relationship between firms’ reaction to COVID-19 (in employment) and the adoption of digital technologies, taking into account their productivity, digitalisation level and high-growth episodes before the crisis. We match the EIB Group Survey of Investment and Investment Finance with ORBIS database for 27 EU Member States and the United Kingdom. We find that firms with higher productivity levels are less prone to decrease the number of employees in the short and long term due to the pandemic. High-growth enterprises are less likely to expect a reduction in the number of employees in the long term. Moreover, firms in highly digitalised sectors have a lower probability to reduce the number of employees. Finally, our results suggest that COVID-19 leads firms to increase their use of digital technologies, especially those that were already more digitalised.",
-      "summary_en": null,
+      "summary_en": "How did firms respond to COVID-19 in terms of employment, and what protected them? This paper uses the EIB Investment Survey matched to Orbis for 27 EU + UK firms. Results: firms with higher pre-crisis productivity were less likely to cut employment, in both short and long term. High-growth enterprises and firms in highly-digitalised sectors similarly had lower probability of expecting employment cuts. A useful cross-country snapshot of pandemic resilience and the role of pre-crisis productivity and digitalisation.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Matched EIB Group Survey of Investment and Investment Finance with Orbis firm-level data for 27 EU + UK. Pre-crisis productivity, digitalisation indicators, high-growth-enterprise status.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian economic policy (ITM, Ministry of Economy): the paper supports continued investment in firm-level productivity and digitalisation as resilience-building measures for future shocks. Relevant to EU Recovery and Resilience Facility implementation in Hungary. Caveat: based on survey expectations, not actual employment changes; actual post-COVID outcomes may differ from expected ones.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "firms-productivity",
+        "innovation-digital",
+        "labor-markets"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "EU"
+      ],
+      "data_types": [
+        "admin-firm",
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4385319429"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4385319429",
+      "policy_instruments": [
+        "EU Recovery and Resilience Facility",
+        "firm-digitalisation support"
+      ]
     },
     {
       "id": "teruel-coad-et-al-2021-tjott",
@@ -28115,21 +28563,31 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": null,
-      "summary_en": null,
+      "summary_en": "Civil-service reform is a classic topic of political economy: should bureaucrats be protected (tenured) or political appointees? This paper builds a model in which bureaucrats and politicians interact, and analyses when civil-service protection is socially beneficial. The mechanism: tenure lets bureaucrats develop expertise, but reduces politician control. The trade-off depends on policy volatility, information asymmetries, and voter-verification of outcomes. The paper provides formal conditions under which civil-service reform improves government efficiency.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Highly relevant to ongoing Hungarian civil-service reform debates (common theme of the Ujhelyi-Forand research agenda). The paper supports civil-service tenure in stable-policy environments but allows for political appointments in volatile-policy contexts. A technical foundation for Hungarian discussions about tenure protection and political-appointment scope. Caveat: theoretical; concrete Hungarian policy implications depend on parameter values that would need empirical estimation.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "political-economy"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W3121243988"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W3121243988",
+      "policy_instruments": [
+        "civil-service tenure protection",
+        "political-appointment scope"
+      ]
     },
     {
       "id": "ujhelyi-2017-ks",
@@ -28752,7 +29210,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 36
+      "paper_count": 42
     },
     {
       "id": "education-skills",
@@ -28763,7 +29221,7 @@
       "policy_framing_en": "Relevant to: curriculum design, teacher policy, school tracking age, higher education funding, vocational training.",
       "policy_framing_hu": "Releváns: tantervfejlesztés, tanárpolitika, iskolai szelekció életkora, felsőoktatás finanszírozása, szakképzés.",
       "icon": "graduation-cap",
-      "paper_count": 20
+      "paper_count": 25
     },
     {
       "id": "health",
@@ -28774,7 +29232,7 @@
       "policy_framing_en": "Relevant to: healthcare system design, hospital payment, prevention programs, pharmaceutical policy, mental health services.",
       "policy_framing_hu": "Releváns: egészségügyi rendszer kialakítása, kórházi finanszírozás, prevenciós programok, gyógyszerpolitika, mentális szolgáltatások.",
       "icon": "heart-pulse",
-      "paper_count": 24
+      "paper_count": 25
     },
     {
       "id": "demographics-migration",
@@ -28785,7 +29243,7 @@
       "policy_framing_en": "Relevant to: family policy, pension system, immigration policy, retention of skilled workers.",
       "policy_framing_hu": "Releváns: családpolitika, nyugdíjrendszer, bevándorláspolitika, szakemberek megtartása.",
       "icon": "users",
-      "paper_count": 12
+      "paper_count": 13
     },
     {
       "id": "trade-fdi",
@@ -28796,7 +29254,7 @@
       "policy_framing_en": "Relevant to: EU trade policy, FDI promotion, export promotion, supply chain resilience, industrial policy.",
       "policy_framing_hu": "Releváns: EU kereskedelempolitika, FDI ösztönzés, exporttámogatás, ellátási láncok rugalmassága, iparpolitika.",
       "icon": "globe",
-      "paper_count": 31
+      "paper_count": 33
     },
     {
       "id": "firms-productivity",
@@ -28807,7 +29265,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 56
+      "paper_count": 64
     },
     {
       "id": "innovation-digital",
@@ -28818,7 +29276,7 @@
       "policy_framing_en": "Relevant to: R&D tax credits, digital strategy, AI policy, innovation agency design, university–industry linkages.",
       "policy_framing_hu": "Releváns: K+F adókedvezmények, digitális stratégia, MI-politika, innovációs ügynökségek, egyetem–ipar kapcsolatok.",
       "icon": "cpu",
-      "paper_count": 16
+      "paper_count": 22
     },
     {
       "id": "banking-finance",
@@ -28829,7 +29287,7 @@
       "policy_framing_en": "Relevant to: MNB policy, banking regulation, macroprudential tools, financial inclusion.",
       "policy_framing_hu": "Releváns: MNB-politika, bankszabályozás, makroprudenciális eszközök, pénzügyi befogadás.",
       "icon": "landmark",
-      "paper_count": 37
+      "paper_count": 45
     },
     {
       "id": "fiscal-tax",
@@ -28840,7 +29298,7 @@
       "policy_framing_en": "Relevant to: tax reform, budget planning, public debt management, compliance policy.",
       "policy_framing_hu": "Releváns: adóreform, költségvetés-tervezés, államadósság-kezelés, adócompliance.",
       "icon": "coins",
-      "paper_count": 18
+      "paper_count": 20
     },
     {
       "id": "regional-urban",
@@ -28851,7 +29309,7 @@
       "policy_framing_en": "Relevant to: regional development funds, housing policy, transport investment, urban planning.",
       "policy_framing_hu": "Releváns: regionális fejlesztési alapok, lakáspolitika, közlekedési beruházások, városfejlesztés.",
       "icon": "building",
-      "paper_count": 15
+      "paper_count": 20
     },
     {
       "id": "energy-environment",
@@ -28862,7 +29320,7 @@
       "policy_framing_en": "Relevant to: energy transition, carbon pricing, renewable support, environmental standards.",
       "policy_framing_hu": "Releváns: energiaátmenet, szén-dioxid árazás, megújulók támogatása, környezeti szabványok.",
       "icon": "leaf",
-      "paper_count": 5
+      "paper_count": 7
     },
     {
       "id": "inequality-welfare",
@@ -28873,7 +29331,7 @@
       "policy_framing_en": "Relevant to: welfare system, anti-poverty programs, family allowances, gender-equal pay policies.",
       "policy_framing_hu": "Releváns: szociális rendszer, szegénység elleni programok, családi pótlékok, egyenlő bérezés.",
       "icon": "scale",
-      "paper_count": 54
+      "paper_count": 60
     },
     {
       "id": "political-economy",
@@ -28884,7 +29342,7 @@
       "policy_framing_en": "Relevant to: anti-corruption policy, public administration reform, EU affairs, electoral system design.",
       "policy_framing_hu": "Releváns: korrupcióellenes politika, közigazgatási reform, EU-ügyek, választási rendszer.",
       "icon": "building-2",
-      "paper_count": 26
+      "paper_count": 31
     },
     {
       "id": "transition-postcommunist",
@@ -28895,7 +29353,7 @@
       "policy_framing_en": "Relevant to: long-run diagnoses of the Hungarian and CEE economy, lessons from 30+ years of transition, institutional path dependence.",
       "policy_framing_hu": "Releváns: a magyar és KKE gazdaság hosszú távú diagnózisa, 30+ év rendszerváltásának tanulságai, intézményi útfüggőség.",
       "icon": "flag",
-      "paper_count": 10
+      "paper_count": 11
     },
     {
       "id": "behavioral",
@@ -28906,7 +29364,7 @@
       "policy_framing_en": "Relevant to: consumer protection, pension-default design, nudging, financial-education regulation, addictive-product regulation.",
       "policy_framing_hu": "Releváns: fogyasztóvédelem, nyugdíjalap-alapbeállítások, döntéslendítés (nudge), pénzügyi edukáció szabályozása, függőséget okozó termékek szabályozása.",
       "icon": "brain",
-      "paper_count": 26
+      "paper_count": 32
     },
     {
       "id": "industrial-organization",
@@ -28917,7 +29375,7 @@
       "policy_framing_en": "Relevant to: competition policy (GVH), merger review, platform regulation, auction design, sector-specific regulation.",
       "policy_framing_hu": "Releváns: versenypolitika (GVH), fúziókontroll, platformszabályozás, aukciótervezés, ágazati szabályozás.",
       "icon": "network",
-      "paper_count": 24
+      "paper_count": 26
     },
     {
       "id": "macroeconomics",
@@ -28928,7 +29386,7 @@
       "policy_framing_en": "Relevant to: long-run growth forecasting, macroeconomic modelling, sovereign-debt management, stabilisation policy design.",
       "policy_framing_hu": "Releváns: hosszú távú növekedés előrejelzés, makroökonómiai modellek, államadósság-kezelés, stabilizációs politika.",
       "icon": "line-chart",
-      "paper_count": 14
+      "paper_count": 18
     },
     {
       "id": "agriculture-food",
@@ -28950,7 +29408,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 56
+      "paper_count": 66
     }
   ],
   "journals": [

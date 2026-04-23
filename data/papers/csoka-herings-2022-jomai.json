@@ -17,19 +17,30 @@
   "url_pdf": "https://doi.org/10.22574/jmid.2022.12.002",
   "url_replication": null,
   "abstract": "We consider financial networks where agents are linked to each other by financial contracts. A centralized clearing mechanism collects the initial endowments, the liabilities and the division rules of the agents and determines the payments to be made. A division rule specifies how the assets of the agents should be rationed. Since payments made depend on payments received, we are looking for solutions to a system of equations. The set of solutions is known to have a lattice structure, leading to the existence of a least and a greatest clearing payment matrix. Previous research has shown how decentralized clearing selects the least clearing payment matrix. We present a centralized approach towards clearing in order to select the greatest clearing payment matrix. To do so, we formulate the determination of the greatest clearing payment matrix as a programming problem. When agents use proportional division rules, this programming problem corresponds to a linear programming problem. We show that for other common division rules, it can be written as an integer linear programming problem.",
-  "summary_en": null,
+  "summary_en": "Continuing a research programme on financial-network clearing, this paper compares decentralised with centralised clearing mechanisms. A central authority collects endowments, liabilities, and division rules, and determines payments by solving a system of equations. The set of solutions forms a lattice with a least and greatest clearing payment matrix. While decentralised clearing picks the least solution, this paper shows how a centralised approach can pick the greatest — delivering higher aggregate payments. A useful programming-approach contribution for practical clearing-system design.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian and EU financial-stability policy: the paper supports centralised-clearing schemes (like ECB's TARGET2) when maximising aggregate payments matters more than decentralised resilience. Relevant to MNB's role in interbank settlement and to EU banking-union discussions. Caveat: theoretical; centralised vs decentralised choice in practice balances many factors beyond payment maximisation.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "banking-finance",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4311298170"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4311298170",
+  "policy_instruments": [
+    "interbank clearing design",
+    "central-counterparty policy"
+  ]
 }

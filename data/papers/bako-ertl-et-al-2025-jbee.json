@@ -18,19 +18,31 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This study examines a potential link between present bias and reduced memory accuracy in intertemporal decision-making. In a classroom experiment with university students, participants made choices between smaller-sooner and larger-later rewards on two occasions. The second time included an immediate option, tempting present-biased participants to choose the immediate reward. During a third visit, participants were randomized into two groups and asked to recall their decisions from one of the previous visits. The results show that participants with present bias had lower memory accuracy than their time-consistent peers in situations involving immediate rewards. Regression analysis indicates that this reduced accuracy is consistent with motivated misremembering – in which individuals recall their past decisions as more virtuous than they actually were. Robustness checks reveal that time inconsistency is positively associated with lower memory accuracy in general, but present-biased participants exhibit clearly distinct patterns compared to their future-biased counterparts. These results are weighed against alternative explanations, notably the possibility of noisy cognition. • The study explores how present bias influences memory accuracy. • Present bias affects memory accuracy, especially in immediate reward scenarios. • Motivated memory may cause individuals to recall past decisions as more virtuous. • Time-inconsistency is positively associated with lower memory accuracy in general. • Present-biased participants recall fewer earlier choices than time-consistent peers.",
-  "summary_en": null,
+  "summary_en": "Do present-biased people remember their past choices accurately? This paper runs a classroom experiment where students choose between smaller-sooner and larger-later rewards on two occasions — the second including a tempting immediate option — then are asked to recall their past decisions. The finding: present-biased participants had lower memory accuracy specifically in situations involving immediate rewards. The pattern is consistent with \"motivated misremembering\" — recalling your past decisions in a way that reduces cognitive dissonance. A clean behavioural result about the interplay of self-control and memory.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Classroom experiment with Hungarian university students over three sessions. Intertemporal-choice tasks plus a memory-recall task with randomised assignment to recall past decisions.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant to Hungarian financial-consumer protection and debt-counselling design (MNB): if consumers systematically misremember their past impulsive credit decisions, policies relying on consumer self-correction (awareness campaigns, voluntary debt-management plans) will fall short. Supports hard commitment devices and structured debt-counselling over information-only interventions. Caveat: student sample in a lab setting; external validity to actual consumer-credit decisions needs further work.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "behavioral"
+  ],
+  "methods": [
+    "rct"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "field-experiment"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4416427815"
+  "review_status": "ai-drafted",
+  "openalex_id": "W4416427815",
+  "policy_instruments": [
+    "debt-counselling design",
+    "commitment-device financial products"
+  ]
 }

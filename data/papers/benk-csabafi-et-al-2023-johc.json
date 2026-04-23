@@ -20,19 +20,32 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We contribute an alternative explanation of business cycles by using human capital investment as a second sector tied down with accounting methods. Inputs of education expenditure and tertiary student time in this sector enable explanation of a broad set of business-cycle moments. Labor time share, labor productivity, and consumption correlations with output are well explained, a challenge difficult to meet in the one-sector models. Human capital deepening in the human capital investment sector occurs during contractions, while physical capital deepening in the goods sectors occurs during expansions. The external margin from human capital investment clarifies conflicting estimates of the labor elasticity.",
-  "summary_en": null,
+  "summary_en": "Standard business-cycle models struggle to explain several moments of labour markets: labour share, labour productivity, and consumption correlations. This paper offers a fresh account by adding a second sector — human capital investment — with education expenditures and student time as inputs. The two-sector model explains the difficult moments naturally. Key mechanism: human-capital deepening happens in recessions (when people invest more in education), while physical-capital deepening happens in expansions. A useful complement to one-sector business-cycle models.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Calibrated DSGE model with human-capital sector. Compared to US macro data on business-cycle moments, labour share, labour productivity, and consumption.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian macroeconomic forecasting and counter-cyclical education policy (MNB, EMMI): the paper supports recession-era expansion of education-sector investment (vocational retraining, student enrolment) as a structural feature of the business cycle. Relevant to countercyclical policy design — expand tertiary enrollment in downturns. Caveat: calibrated to US data; Hungarian magnitudes would need domestic calibration.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "macroeconomics",
+    "education-skills"
+  ],
+  "methods": [
+    "structural"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4387358244"
+  "review_status": "ai-drafted",
+  "openalex_id": "W4387358244",
+  "policy_instruments": [
+    "countercyclical tertiary-enrollment policy",
+    "retraining during recessions"
+  ]
 }

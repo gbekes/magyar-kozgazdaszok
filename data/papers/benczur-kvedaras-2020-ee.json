@@ -17,19 +17,34 @@
   "url_pdf": "https://link.springer.com/content/pdf/10.1007/s00181-019-01819-w.pdf",
   "url_replication": null,
   "abstract": "Abstract This paper looks at the influence of financial deepening (private bank credit) on income inequality in developed economies. Building on a model of financially open economies (Kunieda et al. (Macroecon Dyn 18:1091–1128, 2014)), defining its endogenous economic growth rate, and extending its implications also for top income shares, it is shown that the impact of bank credit on inequality depends on the gap between the real interest rate and the GDP growth rate (‘ $$r-g$$ <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mrow> <mml:mi>r</mml:mi> <mml:mo>-</mml:mo> <mml:mi>g</mml:mi> </mml:mrow> </mml:math> ’). This finding is robustly confirmed by the empirical analysis on a few samples of OECD and EU countries, both for the Gini index and for top income shares. Both the econometric evidence and simple evidence show that the presence of this type of non-linearity (an interaction between financial deepening and $$r-g$$ <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mrow> <mml:mi>r</mml:mi> <mml:mo>-</mml:mo> <mml:mi>g</mml:mi> </mml:mrow> </mml:math> ) is likely to be one of the reasons for the mixed results that may be found in the empirical literature on the relationship between the financial deepening and income inequality.",
-  "summary_en": null,
+  "summary_en": "Does financial deepening increase income inequality? Theory suggests yes, but only under specific conditions on the real interest rate minus GDP growth (r-g). This paper tests the prediction on OECD and EU countries and confirms it: the impact of bank credit on inequality depends robustly on the r-g gap. When r exceeds g, financial deepening raises inequality; when g exceeds r, it can compress it. The result holds for both the Gini coefficient and for top-income shares. A precise empirical confirmation of a specific theoretical mechanism.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Panel data on OECD and EU countries. Financial-deepening measures (private bank credit) linked to Gini and top-income-share measures of inequality.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian inequality-policy analysis and macro forecasting (MNB, Pénzügyminisztérium): the paper provides a precise framework for predicting inequality effects of credit expansion depending on the macroeconomic environment. Relevant to low-interest-rate era (when credit could compress inequality) versus higher-rate era (when it amplifies). Caveat: the r-g mechanism works at country-level; the distributional impact of Hungary's specific credit-expansion to household vs. business sectors would need domestic decomposition.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "inequality-welfare",
+    "banking-finance",
+    "macroeconomics"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "EU",
+    "GLOBAL"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3002216277"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3002216277",
+  "policy_instruments": [
+    "household-credit policy",
+    "macroprudential tools"
+  ]
 }

@@ -17,19 +17,34 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "Politicians often spend more in election years (political budget cycles). But is this worse in states where civil-service protections are weaker? This paper uses US state-level highway-spending data to answer. Result: political budget cycles in highway spending are significantly larger in states with weaker civil-service rules. Civil-service protections, in effect, act as a commitment device that limits electoral manipulation of public spending. A clean empirical confirmation of the political-economy argument for bureaucratic independence.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "US state-level highway spending data with political-cycle identification. Cross-state variation in civil-service protections.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly relevant to Hungarian governance-reform debates (BM, central administration). The paper provides empirical support for civil-service protections as a tool limiting electoral manipulation of public spending. Relevant to Hungarian public-procurement reform, MÁSZ (municipal-affairs agency), and EU cohesion-fund oversight. Caveat: US state-level evidence; Hungarian institutional context (unitary rather than federal, different electoral cycles) changes the quantitative implications.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "political-economy",
+    "fiscal-tax"
+  ],
+  "methods": [
+    "panel-data",
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2946112054"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2946112054",
+  "policy_instruments": [
+    "civil-service protections",
+    "public-procurement oversight",
+    "electoral-spending rules"
+  ]
 }

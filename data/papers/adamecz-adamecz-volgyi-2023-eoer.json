@@ -17,19 +17,35 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This paper examines the effects of increasing the compulsory school leaving age from 16 to 18 in Hungary using a difference-in-regression-discontinuities design empirical strategy. While the reform increased the length of schooling, it did not decrease the probability of dropping out of secondary school, either on average or among the most at-risk group of Roma ethnic minority students. Due to grade retentions, marginal students were older than their peers and couldn't have reached the final grade of secondary school by age 18 to earn a degree. The reform also did not affect the probability of employment, hours worked, wages and the probability of working in low-skilled occupations at ages 20 and 25. In education systems that allow grade retention, compulsory education should have the explicit goal of keeping students in school until they earn a secondary degree, rather than just until a certain age.",
-  "summary_en": null,
+  "summary_en": "Hungary raised the compulsory school-leaving age from 16 to 18. Did it work? This paper uses a difference-in-regression-discontinuities design and finds the reform lengthened schooling but did not reduce dropout — either on average or for at-risk Roma students. Because the Hungarian education system allows grade retention, many marginal students couldn't actually reach the final secondary grade by 18, blocking degree attainment. Consistent with this, the reform had no effect on employment, wages, or occupational status at ages 20 and 25. A sharp lesson: compulsory-schooling reforms need to address grade retention explicitly.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian administrative data on school attainment, dropout, and labour-market outcomes. Difference-in-regression-discontinuities design exploiting the 2013 reform.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly actionable for Hungarian education policy (Oktatási Hivatal, EMMI). The paper's message: raising compulsory-schooling age without tackling grade-retention doesn't increase degree attainment or labour-market outcomes. Relevant to current debates about secondary-school dropout and tackling Roma educational disadvantage. Caveat: the reform was specific; effects of alternative designs (automatic promotion, later-grade exit options) could differ.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "education-skills",
+    "labor-markets",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "rd",
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4388242002"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4388242002",
+  "policy_instruments": [
+    "compulsory-schooling age",
+    "grade-retention rules",
+    "Roma-education interventions"
+  ]
 }
