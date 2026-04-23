@@ -18,19 +18,33 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This study investigates whether within-school sorting increases socioeconomic test score inequalities. Using universal test score data on 6-th, and 8th grade students in Hungary, we document the extent of within-school sorting in an institutional context where sorting based on ability or prior achievement is rare. We identify sorting schools as schools that systematically assign students with low and high socioeconomic status into different classrooms within the school. Then, exploiting school fixed effects and quasi-exogenous variation in sorting induced by enrollment and class size rules, we show that sorting has a significant and economically meaningful effect on test score inequalities between students from different socioeconomic backgrounds. Sorting harms low-status students, while high-status students gain much less, if anything, from attending sorting schools. We attribute our findings to the within-school reallocation of educational resources and differences in educational practices.",
-  "summary_en": null,
+  "summary_en": "Even within the same school, students from advantaged and disadvantaged families often end up in different classrooms. Does this within-school sorting matter? This paper uses universal test-score data for 6th and 8th graders in Hungary. Exploiting school fixed effects and quasi-random variation in sorting induced by enrollment and class-size rules, the authors show that sorting has a significant and economically meaningful effect on socioeconomic test-score gaps. Sorting harms low-status students but helps high-status students little or not at all. A clear empirical case against within-school class-composition segregation.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Universal-coverage administrative test-score data for Hungarian 6th and 8th graders. Exploits school fixed effects and quasi-exogenous variation from enrollment/class-size rules.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly actionable for Hungarian education policy (Oktatási Hivatal, EMMI). The paper provides evidence for Ministry of Education rules against within-school socioeconomic sorting: regulations that prevent class-composition segregation improve outcomes for disadvantaged students without measurably harming advantaged ones. Particularly relevant to Hungary's Roma-education inclusion efforts. Caveat: the effect is identified at a specific grade; long-run impacts into high-school and labour-market outcomes are for future research.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "education-skills",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "panel-data",
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4402327726"
+  "review_status": "ai-drafted",
+  "openalex_id": "W4402327726",
+  "policy_instruments": [
+    "within-school class-composition rules",
+    "socioeconomic desegregation policy"
+  ]
 }

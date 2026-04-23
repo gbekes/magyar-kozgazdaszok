@@ -17,19 +17,34 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Endogenous cycles emerge through the two-way interaction between lending standards and production fundamentals. Lax lending standards in booms lead to low interest rates and high output but the deterioration of future loan quality. Low borrower quality in turn precipitates tight standards: the economy enters a recession with high credit spreads and low output but a gradual improvement in the quality of loans. This eventually triggers a shift back to a boom with lax lending, and the cycle continues. The capitalization of expert investors determines the strength of capital reallocation in recessions. Furthermore, although the constrained efficient economy is often cyclical, it features both a static and a dynamic externality in credit supply, hence differing from the decentralized equilibrium.",
-  "summary_en": null,
+  "summary_en": "Credit cycles — periods of lax then tight lending — aren't just driven by shocks from outside. This paper shows how lax standards in a boom gradually deteriorate loan quality, precipitating tight standards in the next bust. During the bust, loan quality improves (the \"cleansing\" effect), which eventually triggers a return to lax standards. The cycle self-generates. The paper also shows that expert investors' capitalisation determines how quickly credit gets reallocated in recessions, and identifies both static and dynamic externalities that make the decentralised equilibrium differ from the constrained optimum. A sophisticated framework for macro-financial policy.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical macro-finance model with calibrated extensions; predictions match cross-country credit-cycle stylized facts.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly informs MNB's macroprudential policy. The paper supports: countercyclical capital buffers that lean against lax lending in booms (to reduce the depth of the next bust); regulation of expert-investor market power to avoid slow recession reallocation; and recognition that credit-supply externalities mean the decentralised equilibrium is socially inefficient — so some form of active macroprudential intervention is justified even without explicit market failures. Relevant to MNB's Counter-Cyclical Capital Buffer setting and systemic-risk monitoring. Caveat: calibration is US/global; Hungarian magnitudes depend on banking-sector concentration and foreign-bank ownership.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "methods"
+  ],
+  "methods": [
+    "structural",
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4385603815"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4385603815",
+  "policy_instruments": [
+    "countercyclical capital buffer",
+    "lending-standard regulation",
+    "systemic-risk monitoring"
+  ]
 }

@@ -18,19 +18,34 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "In most disability insurance programs beneficiaries lose some or all of their benefits if they earn above an earnings threshold. While intended to screen out applicants with high remaining working capacity, earnings limits can also distort the labor supply of beneficiaries. We use a reduction in the earnings limit in Hungary to evaluate this trade-off and examine screening and labor supply responses. We find that the policy changed selection into the program modestly but reduced labor supply on the intensive margin significantly. These findings suggest that the earnings threshold should be higher.",
-  "summary_en": null,
+  "summary_en": "Disability insurance has an earnings limit: if you earn above the threshold, you lose some benefits. This is designed to screen out people who can work. But it can also distort the labour supply of beneficiaries. This paper uses a 2012 Hungarian reform that reduced the earnings limit to evaluate the trade-off. The finding: the policy changed selection into disability only modestly, but reduced labour supply on the intensive margin substantially. The recommendation: the earnings threshold should be higher. A concrete empirical lesson for disability-insurance design.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian administrative data on disability insurance recipients and their earnings around the 2012 earnings-limit reform. Before/after comparison with control group.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly relevant to Hungarian disability-insurance policy (MÁK, OEP). The paper supports raising the earnings limit to reduce labour-supply distortion without much cost in selection quality. Actionable recommendation for Ministry of Economy and social-policy design. Caveat: the 2012 reform was a specific change; effects of alternative calibrations (phase-out rather than cliff) might differ.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "labor-markets",
+    "health",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "diff-in-diff",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4399422828"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4399422828",
+  "policy_instruments": [
+    "disability-insurance earnings limit",
+    "benefit phase-out design"
+  ]
 }

@@ -16,19 +16,34 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "I document new facts about the relationship between flexible wage components and firm performance using a unique matched employer-employee database from Hungary. Firms providing flexible wage components adjust total wage compensation more to revenue shocks than firms without flexible wages. Nevertheless, employment responses to revenue shocks are the same at firms with and without flexible wage components. These findings also hold in the case of aggregate shocks and during the Great Recession. The results suggest that flexible wage components in their current magnitude do not attenuate employment responses to a negative revenue shock. Finally, I discuss the possible explanations for the empirical findings.",
-  "summary_en": null,
+  "summary_en": "Hungarian firms often pay flexible bonuses on top of fixed wages. Does this flexibility act as a shock absorber, letting firms avoid layoffs during bad times? This paper uses matched employer-employee data from Hungary to test the idea. Findings are mixed. Firms with flexible wage components do adjust total wage compensation more to revenue shocks than firms without. But employment responses are the same across firm types — flexibility in the wage doesn't shield jobs. This holds during the Great Recession. The conclusion: in their current magnitude, flexible wage components do not attenuate employment responses to negative shocks.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Matched employer-employee administrative data from Hungary, covering the 2000s through the Great Recession. Individual-level wage, bonus, and employment records linked to firm financials.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant to Hungarian labour-market flexibility debates (VKF social dialogue, Ministry of Finance). Conventional policy wisdom is that flexible wage components create shock-absorption; this paper shows they don't in the Hungarian context. Implications for minimum-wage design, Kurzarbeit-style short-time programmes, and employment-protection policy. Relevant to the Ministry of Economy. Caveat: data cover through 2010s; tighter labour markets post-2015 may have changed the flexibility-employment trade-off.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "labor-markets",
+    "firms-productivity"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm",
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4297833780"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4297833780",
+  "policy_instruments": [
+    "wage-flexibility regulation",
+    "short-time work programmes",
+    "minimum-wage component design"
+  ]
 }

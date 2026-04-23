@@ -17,19 +17,33 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "ABSTRACT We propose a new measure of private information in decentralized markets—connections—which exploits the time variation in the number of dealers with whom a client trades in a time period. Using trade‐level data for the U.K. government bond market, we show that clients perform better when having more connections as their trades predict future price movements. Time variation in market‐wide connections also helps explain yield dynamics. Given our novel measure, we present two applications suggesting that (i) dealers pass on information, acquired from their informed clients, to their affiliates, and (ii) informed clients better predict the orderflow intermediated by their dealers.",
-  "summary_en": null,
+  "summary_en": "When a client trades with dealers in a decentralised market (like bond or FX markets), does the number of dealers she uses reveal something? This paper argues yes. The authors propose a new measure — \"connections\" — that tracks how many dealers a client transacts with over time. Using UK government-bond trade data, they show clients with more connections earn higher returns and their trades predict future price movements. Two downstream findings: dealers pass on information learned from informed clients to affiliates; and informed clients better predict dealer-intermediated orderflow. A clean measure of private information in opaque decentralised markets.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Trade-level administrative data on the UK government-bond market, covering client-dealer pairs and trade outcomes over multiple years.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For MNB's monitoring of Hungarian government-debt and FX markets (AKK), the paper offers a usable metric — number of dealer connections per client — to detect asymmetric-information patterns. Also relevant to MNB supervision of major banks' client-facing trading desks. Caveat: the study uses UK gilt data; Hungarian market microstructure (smaller, less liquid) may produce different connection-quality relationships.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "methods"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "GB"
+  ],
+  "data_types": [
+    "admin-firm",
+    "digital-trace"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3131600200"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3131600200",
+  "policy_instruments": [
+    "OTC market monitoring",
+    "information-asymmetry surveillance"
+  ]
 }

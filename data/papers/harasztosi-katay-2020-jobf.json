@@ -17,19 +17,32 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "The paper investigates firms’ willingness to match the currency composition of their assets and liabilities. Using detailed information at the loan contract level for the Hungarian non-financial corporate sector, the paper provides strong evidence to support the theory that currency matching plays a role in exporters’ debt currency choices. However, natural hedging is not the primary motive for firms to choose a foreign currency: it explains only 3.8 per cent of the overall new corporate foreign currency loans contracted by exporters and 2.9 per cent of the aggregate new foreign currency bank loans. Besides hedging, our results suggest that both carry trade and diversification strategies are relevant factors in firms’ currency-of-denomination decisions. Supply side factors are also found to be responsible for the prevalence of foreign currency loans among Hungarian corporate borrowers.",
-  "summary_en": null,
+  "summary_en": "Do Hungarian non-financial corporations match foreign-currency borrowings to their foreign-currency revenues? This paper uses loan-contract-level data to test the hypothesis that firms engage in \"natural hedging.\" The main finding: currency matching does play a role in exporters' currency choices, but it's a minor factor. Only 3.8% of new exporter foreign-currency loans and 2.9% of aggregate new foreign-currency bank loans are explained by natural hedging. Carry-trade motivations, portfolio diversification, and bank supply-side factors dominate. A sobering empirical verdict on the size of hedging behaviour in practice.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Administrative loan-contract-level data for the Hungarian non-financial corporate sector: loan amounts, currency, firm exporter status, bank identity.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly relevant to MNB's foreign-exchange risk supervision and the aftermath of the Hungarian FX-mortgage and FX-corporate-debt crisis. The paper quantifies why Hungarian firms took on so much FX debt pre-2008: natural hedging was a small part; supply-side incentives and carry-trade motives were much bigger. Supports macroprudential rules that limit FX lending regardless of borrower exposure. Relevant to MNB's systemic-risk monitoring. Caveat: the data are from pre-2015; Hungarian FX-lending dynamics have changed since, and a re-run with current data would refresh the magnitudes.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "firms-productivity"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2999647795"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2999647795",
+  "policy_instruments": [
+    "FX-lending macroprudential rules",
+    "foreign-currency debt limits"
+  ]
 }

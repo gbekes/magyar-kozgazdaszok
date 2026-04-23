@@ -19,19 +19,34 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We study the effects of being born in a city with a neonatal intensive care unit (NICU) and in a city integrated into the newborn emergency transportation system (NETS) on neonatal and infant mortality and long-term impairments. We use administrative and census data covering the gradual expansion of the NICU and NETS systems between 1990 and 2015, and we identify the effects using the distance of residence to the nearest NICU/NETS hospital as an instrumental variable. Residence fixed effects control for all unobserved municipality-specific time-invariant determinants of newborns’ death and impairment. Being born in a city with a NICU decreases 0- to 6-day mortality by 153/1, 000 (birth weight less than 1, 500 grams) and 24/1, 000 (birth weight less than 2, 500 grams). NETS effects are positive, too, but they are substantially smaller (57/1, 000 and 9/1, 000, respectively). The effect estimates on long-term impairment are small in magnitude and are all statistically indistinguishable from zero. Access to NICUs and the NETS saves lives in the long run, without substantial overall effects on long-term impairments.",
-  "summary_en": null,
+  "summary_en": "Can intensive neonatal care save lives and improve long-run health? This paper uses the gradual rollout of neonatal intensive care units (NICUs) and newborn emergency transport systems (NETS) in Hungary from 1990–2015 to estimate causal effects. Using distance-to-hospital as an instrument and residence fixed effects, the authors find that being born in a city with a NICU reduces 0–6-day mortality by 153 per 1,000 for very-low-birth-weight babies and 24 per 1,000 for low-birth-weight babies. NETS effects are smaller. The paper quantifies the substantial life-saving value of investment in neonatal infrastructure.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian administrative birth records and census data 1990–2015. Distance-to-nearest NICU/NETS hospital serves as an instrumental variable; residence fixed effects control for time-invariant municipality characteristics.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct evidence for Hungarian healthcare-infrastructure investment. The paper quantifies that NICU access saves lives at a large scale for low-birth-weight babies, supporting further investment in and maintenance of neonatal intensive care in Hungary. Relevant to NEAK, BVOP, and the Ministry of Health. Also informs rural-vs-urban hospital-network planning. Caveat: uses data through 2015; current hospital network may differ, and effects for very rural areas may be larger or smaller than estimated.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "health",
+    "regional-urban"
+  ],
+  "methods": [
+    "iv",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4317233764"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4317233764",
+  "policy_instruments": [
+    "neonatal intensive care investment",
+    "emergency-transport infrastructure",
+    "hospital-network planning"
+  ]
 }

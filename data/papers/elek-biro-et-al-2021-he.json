@@ -18,19 +18,34 @@
   "url_pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hec.4378",
   "url_replication": null,
   "abstract": "We analyze the timing, magnitude, and income dependence of pharmaceutical panic buying around the outbreak of the COVID-19 pandemic in Hungary. We use district-level monthly and daily administrative data on detailed categories of pharmaceutical purchases, merge them to income statistics, and estimate multilevel panel models. Our main results are as follows. First, the days of therapy (DOT) of pharmaceutical purchases increased by more than 30% in March 2020, when major lockdown measures were announced. This pattern holds for almost all categories of pharmaceuticals. Second, shortly after the panic reactions, the aggregate amount of pharmaceutical purchases returned to their preshock levels; however, the frequency of pharmacy visits decreased. Third, the panic buying reaction was significantly stronger in richer geographical areas, where-according to the daily data-people also reacted earlier to the pandemic-related news. Overall, the results suggest that panic buying of pharmaceuticals can have detrimental effects on vulnerable populations.",
-  "summary_en": null,
+  "summary_en": "At the outset of the COVID-19 pandemic in March 2020, Hungarians panic-bought pharmaceuticals. This paper measures by how much, in what categories, and in which parts of the country. Daily administrative data on purchases show that days-of-therapy jumped by more than 30% in March 2020 across almost all drug categories. After the initial rush, aggregate levels returned to baseline, but pharmacy visits were less frequent. The panic response was significantly stronger in richer areas, where people also reacted earlier. A useful benchmark for assessing pandemic-preparedness heterogeneity across social strata.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "District-level monthly and daily administrative data on pharmaceutical purchases by detailed therapeutic category, merged with income statistics. Covers the onset of COVID-19 in Hungary.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungary's pandemic-response planning (EMMI, NEAK): the paper quantifies panic-buying, which matters for short-term pharmacy stock management, supply-chain resilience, and designing emergency-communications targeting lower-income populations who responded later. Relevant to OGYÉI (drug regulator) and pharmacy-distribution policy. Caveat: specific to the COVID-19 initial shock; preparedness for future pandemics would need to account for lessons learned.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "health",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "panel-data",
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3178858736"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3178858736",
+  "policy_instruments": [
+    "pandemic preparedness",
+    "pharmaceutical supply-chain management",
+    "emergency health communication"
+  ]
 }

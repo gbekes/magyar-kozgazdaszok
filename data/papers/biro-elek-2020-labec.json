@@ -17,19 +17,34 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We analyse the causal effect of job loss on disability insurance enrolment on a five-year horizon and the implications on health expenditure. Using administrative panel data from Hungary, we follow individuals displaced due to a mass lay-off and compare their labour force status to non-laid-off individuals with similar employment and health history. According to our estimates, being laid off increases the transition probability to disability 1.5-fold (or by 1.4% points) in four years, and half of the excess transitions occur within the first year. The four-year mortality rate increases 1.7-fold (or by 0.4% point). Total outpatient, inpatient and pharmaceutical expenditure increase threefold when a laid-off individual takes up disability benefit, and decrease slightly afterwards, but do not reach the pre-disability levels. The medium term increase in health expenditure corresponds to 20−25% of the additional disability payments. Detailed medication data show that physical health shocks, the diagnosis of chronic physical conditions, such as hypertension or diabetes, and the deterioration of mental health all contribute to the observed surge in health expenditure.",
-  "summary_en": null,
+  "summary_en": "What happens to people who lose their jobs in mass layoffs? This paper follows laid-off Hungarian workers for five years using administrative health and labour data. Key findings: being laid off increases the probability of transitioning to disability insurance 1.5-fold within four years, with half of the excess transitions occurring in the first year. Four-year mortality rises 1.7-fold. Health expenditure triples when a laid-off individual takes up disability benefit and only partially declines afterward. The paper quantifies a large and persistent health-and-welfare cost of job loss that operates through the disability-insurance channel.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian administrative panel data on individuals displaced in mass layoffs, linked to disability-insurance records, health expenditure, and mortality. Comparison group of non-laid-off workers with similar histories.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly relevant to Hungarian unemployment, disability, and active-labour-market policy. The paper quantifies that job loss has substantial spillovers into disability and health, which active-re-employment programmes (public works, retraining) should aim to prevent. Relevant to Ministry of Economy, BVOP, and ONYF (pension authority). Supports investment in quick re-employment services post-layoff. Caveat: the identification compares laid-off to similar workers; some selection on unobserved health may remain.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "labor-markets",
+    "health"
+  ],
+  "methods": [
+    "panel-data",
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2943626603"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2943626603",
+  "policy_instruments": [
+    "active labour-market policy",
+    "mass-layoff protection",
+    "disability-insurance eligibility"
+  ]
 }

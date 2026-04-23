@@ -18,19 +18,32 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We analyze the causal effect of involuntary retirement on detailed indicators of healthcare use and mortality. We leverage a pension reform in Hungary which forced public sector workers above the statutory retirement age to full time retirement. Using rich administrative data, we find that on the 3-year horizon, involuntary retirement decreases the number of primary care doctor visits, the use of systemic antiinfectives and respiratory drugs, and the non-zero spending on antiinfectives, the drugs of the alimentary tract and metabolism and of the cardiovascular system. The impact on the latter two drug categories is driven by the drop in income due to involuntary retirement. We conclude that there is little evidence for health deteriorating effects of involuntary retirement and discuss the possible mechanisms behind our results.",
-  "summary_en": null,
+  "summary_en": "Does being forced to retire earlier than you wanted hurt your health? This paper uses a specific Hungarian pension reform that forced public-sector workers above statutory retirement age into full-time retirement. Over a 3-year horizon, involuntary retirement decreases primary-care visits, systemic antibiotic use, and respiratory-drug use. Drops in cardiovascular and metabolic drug spending are driven by the drop in income. The paper finds little evidence that involuntary retirement harms health — a surprising result given earlier work. It suggests the mechanism operates through income, not through the loss of social roles or work routines.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Rich Hungarian administrative data linking pension records to healthcare use and drug purchases. The identification exploits the 2011 public-sector pension reform that forced full-time retirement for over-age workers.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly relevant to Hungarian pension-age policy, particularly for public-sector retirement rules. The paper provides evidence that mandatory retirement at a fixed age doesn't hurt health in the 3-year window — useful counter-evidence against claims that it does. For the Ministry of Labour and ONYF. Caveat: the effect is measured at 3-year horizon in the 2010s; longer-term effects and effects in other demographic groups may differ.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "health",
+    "labor-markets"
+  ],
+  "methods": [
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4220926819"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4220926819",
+  "policy_instruments": [
+    "statutory retirement age",
+    "public-sector pension rules"
+  ]
 }

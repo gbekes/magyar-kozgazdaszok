@@ -18,19 +18,33 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We study how lines form in front of banks. In our model, depositors choose first the level of effort to arrive early at the bank and then whether or not to withdraw their deposit. We argue that the informational environment (i.e., the possibility of observing the action of others) affects the emergence of bank runs and should, therefore, influence the line formation. We test this prediction experimentally. While the informational environment has no effect on the line formation when we look at the average level of effort, our findings suggest that the reasons to arrive early at the bank varies across informational environment. Thus, expectations on the occurrence of bank run are key to explain the level of effort when depositors cannot observe the action of others. In this setting, depositors who expect a run arrive early at the bank to withdraw their funds. If actions can be observed, however, those who expect a run arrive early at the bank to keep their funds deposited. Depending on the informational environment, there are other factors (e.g., irrationality of depositors or loss aversion) that also explain the behavior of depositors.",
-  "summary_en": null,
+  "summary_en": "Why do depositors line up at banks during rumoured runs? This paper models the effort depositors exert to arrive early, and links it to the informational environment (whether they can observe others' actions). Theoretical prediction: when depositors can't observe others, their effort depends on their expectation of whether a run will happen; when they can observe others, information spreads through observed behaviour. The authors test the predictions in a laboratory experiment. Results suggest that managing information flow during a perceived crisis — what rumours are visible, what actions are public — critically shapes queue dynamics at banks.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model of bank-run queuing; laboratory experiment with subjects choosing whether to withdraw early under different informational conditions.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For MNB's deposit-insurance and financial-stability communication during crisis episodes (e.g., 2008, 2011): the paper supports active management of visible information about bank-branch queues and of public communication during rumour outbreaks. Relevant to OBA (Hungarian deposit insurance) crisis-communication protocols. Caveat: based on laboratory experiments; real-world depositor behaviour in Hungary is influenced by history of the FX-mortgage crisis and specific trust in institutions.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "methods"
+  ],
+  "methods": [
+    "theory",
+    "rct"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
+  "data_types": [
+    "field-experiment"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3013520125"
+  "review_status": "ai-drafted",
+  "openalex_id": "W3013520125",
+  "policy_instruments": [
+    "deposit-insurance communication",
+    "crisis-information management"
+  ]
 }

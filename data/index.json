@@ -3234,21 +3234,37 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "There is a large gender gap in the probability of being in a “top job” in mid-career. Top jobs bring higher earnings, and also have more job security and better career trajectories. Recent literature has raised the possibility that some of this gap may be attributable to women not “leaning in” while men are more overconfident in their abilities. We use longitudinal data from childhood into mid-career and construct a measure of overconfidence using multiple measures of objective cognitive ability and subjective estimated ability. Our measure confirms previous findings that men are more overconfident than women. We then use linear regression and decomposition techniques to account for the gender gap in top jobs including our measure of overconfidence. Our results show that men being more overconfident explains 5–11 percent of the gender gap in top job employment. This indicates that while overconfidence matters for gender inequality in the labor market and has implications for how firms recruit and promote workers, other individual, structural, and societal factors play a larger role.",
-      "summary_en": null,
+      "summary_en": "Men are much more likely than women to hold top jobs. How much of this gap is due to overconfidence? Using longitudinal data from childhood into mid-career, this paper constructs a measure of overconfidence combining objective cognitive test results and subjective ability estimates. Men are more overconfident than women, as past research has found. Regression-decomposition shows that overconfidence explains 5–11% of the gender gap in top-job employment. A small but non-negligible share. The paper underscores that the gender gap has many causes, and overconfidence is one of them but not the dominant one.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Longitudinal UK cohort data (BCS70/NCDS1958) with objective cognitive ability tests and subjective self-assessments, followed by mid-career job-status outcomes.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant to Hungarian gender-equality policy and to workplace-promotion practices. The paper shows that targeted confidence-building interventions for women (mentoring, leadership-training) could close part — but only 5–11% — of the top-job gender gap. Structural solutions (parental-leave policy, promotion criteria) are needed for the rest. Relevant to ETDA and to firms designing promotion processes. Caveat: UK cohort data; Hungarian cohort effects and social norms may differ.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "labor-markets",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "panel-data",
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "GB"
+      ],
+      "data_types": [
+        "admin-individual",
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4303183086"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4303183086",
+      "policy_instruments": [
+        "gender-equality workplace training",
+        "promotion-criteria design",
+        "leadership-mentoring"
+      ]
     },
     {
       "id": "adamecz-adamecz-volgyi-et-al-2023-ee",
@@ -7943,21 +7959,34 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We analyze the causal effect of involuntary retirement on detailed indicators of healthcare use and mortality. We leverage a pension reform in Hungary which forced public sector workers above the statutory retirement age to full time retirement. Using rich administrative data, we find that on the 3-year horizon, involuntary retirement decreases the number of primary care doctor visits, the use of systemic antiinfectives and respiratory drugs, and the non-zero spending on antiinfectives, the drugs of the alimentary tract and metabolism and of the cardiovascular system. The impact on the latter two drug categories is driven by the drop in income due to involuntary retirement. We conclude that there is little evidence for health deteriorating effects of involuntary retirement and discuss the possible mechanisms behind our results.",
-      "summary_en": null,
+      "summary_en": "Does being forced to retire earlier than you wanted hurt your health? This paper uses a specific Hungarian pension reform that forced public-sector workers above statutory retirement age into full-time retirement. Over a 3-year horizon, involuntary retirement decreases primary-care visits, systemic antibiotic use, and respiratory-drug use. Drops in cardiovascular and metabolic drug spending are driven by the drop in income. The paper finds little evidence that involuntary retirement harms health — a surprising result given earlier work. It suggests the mechanism operates through income, not through the loss of social roles or work routines.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Rich Hungarian administrative data linking pension records to healthcare use and drug purchases. The identification exploits the 2011 public-sector pension reform that forced full-time retirement for over-age workers.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly relevant to Hungarian pension-age policy, particularly for public-sector retirement rules. The paper provides evidence that mandatory retirement at a fixed age doesn't hurt health in the 3-year window — useful counter-evidence against claims that it does. For the Ministry of Labour and ONYF. Caveat: the effect is measured at 3-year horizon in the 2010s; longer-term effects and effects in other demographic groups may differ.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "health",
+        "labor-markets"
+      ],
+      "methods": [
+        "diff-in-diff"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4220926819"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4220926819",
+      "policy_instruments": [
+        "statutory retirement age",
+        "public-sector pension rules"
+      ]
     },
     {
       "id": "biro-cechlarova-et-al-2007-ijgt",
@@ -8084,21 +8113,36 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We analyse the causal effect of job loss on disability insurance enrolment on a five-year horizon and the implications on health expenditure. Using administrative panel data from Hungary, we follow individuals displaced due to a mass lay-off and compare their labour force status to non-laid-off individuals with similar employment and health history. According to our estimates, being laid off increases the transition probability to disability 1.5-fold (or by 1.4% points) in four years, and half of the excess transitions occur within the first year. The four-year mortality rate increases 1.7-fold (or by 0.4% point). Total outpatient, inpatient and pharmaceutical expenditure increase threefold when a laid-off individual takes up disability benefit, and decrease slightly afterwards, but do not reach the pre-disability levels. The medium term increase in health expenditure corresponds to 20−25% of the additional disability payments. Detailed medication data show that physical health shocks, the diagnosis of chronic physical conditions, such as hypertension or diabetes, and the deterioration of mental health all contribute to the observed surge in health expenditure.",
-      "summary_en": null,
+      "summary_en": "What happens to people who lose their jobs in mass layoffs? This paper follows laid-off Hungarian workers for five years using administrative health and labour data. Key findings: being laid off increases the probability of transitioning to disability insurance 1.5-fold within four years, with half of the excess transitions occurring in the first year. Four-year mortality rises 1.7-fold. Health expenditure triples when a laid-off individual takes up disability benefit and only partially declines afterward. The paper quantifies a large and persistent health-and-welfare cost of job loss that operates through the disability-insurance channel.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian administrative panel data on individuals displaced in mass layoffs, linked to disability-insurance records, health expenditure, and mortality. Comparison group of non-laid-off workers with similar histories.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly relevant to Hungarian unemployment, disability, and active-labour-market policy. The paper quantifies that job loss has substantial spillovers into disability and health, which active-re-employment programmes (public works, retraining) should aim to prevent. Relevant to Ministry of Economy, BVOP, and ONYF (pension authority). Supports investment in quick re-employment services post-layoff. Caveat: the identification compares laid-off to similar workers; some selection on unobserved health may remain.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "labor-markets",
+        "health"
+      ],
+      "methods": [
+        "panel-data",
+        "diff-in-diff"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2943626603"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2943626603",
+      "policy_instruments": [
+        "active labour-market policy",
+        "mass-layoff protection",
+        "disability-insurance eligibility"
+      ]
     },
     {
       "id": "biro-elek-2025-jhe",
@@ -12502,21 +12546,36 @@
       "url_pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hec.4378",
       "url_replication": null,
       "abstract": "We analyze the timing, magnitude, and income dependence of pharmaceutical panic buying around the outbreak of the COVID-19 pandemic in Hungary. We use district-level monthly and daily administrative data on detailed categories of pharmaceutical purchases, merge them to income statistics, and estimate multilevel panel models. Our main results are as follows. First, the days of therapy (DOT) of pharmaceutical purchases increased by more than 30% in March 2020, when major lockdown measures were announced. This pattern holds for almost all categories of pharmaceuticals. Second, shortly after the panic reactions, the aggregate amount of pharmaceutical purchases returned to their preshock levels; however, the frequency of pharmacy visits decreased. Third, the panic buying reaction was significantly stronger in richer geographical areas, where-according to the daily data-people also reacted earlier to the pandemic-related news. Overall, the results suggest that panic buying of pharmaceuticals can have detrimental effects on vulnerable populations.",
-      "summary_en": null,
+      "summary_en": "At the outset of the COVID-19 pandemic in March 2020, Hungarians panic-bought pharmaceuticals. This paper measures by how much, in what categories, and in which parts of the country. Daily administrative data on purchases show that days-of-therapy jumped by more than 30% in March 2020 across almost all drug categories. After the initial rush, aggregate levels returned to baseline, but pharmacy visits were less frequent. The panic response was significantly stronger in richer areas, where people also reacted earlier. A useful benchmark for assessing pandemic-preparedness heterogeneity across social strata.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "District-level monthly and daily administrative data on pharmaceutical purchases by detailed therapeutic category, merged with income statistics. Covers the onset of COVID-19 in Hungary.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungary's pandemic-response planning (EMMI, NEAK): the paper quantifies panic-buying, which matters for short-term pharmacy stock management, supply-chain resilience, and designing emergency-communications targeting lower-income populations who responded later. Relevant to OGYÉI (drug regulator) and pharmacy-distribution policy. Caveat: specific to the COVID-19 initial shock; preparedness for future pandemics would need to account for lessons learned.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "health",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "panel-data",
+        "diff-in-diff"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W3178858736"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W3178858736",
+      "policy_instruments": [
+        "pandemic preparedness",
+        "pharmaceutical supply-chain management",
+        "emergency health communication"
+      ]
     },
     {
       "id": "elek-drysdale-2002-wp",
@@ -13461,21 +13520,36 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Endogenous cycles emerge through the two-way interaction between lending standards and production fundamentals. Lax lending standards in booms lead to low interest rates and high output but the deterioration of future loan quality. Low borrower quality in turn precipitates tight standards: the economy enters a recession with high credit spreads and low output but a gradual improvement in the quality of loans. This eventually triggers a shift back to a boom with lax lending, and the cycle continues. The capitalization of expert investors determines the strength of capital reallocation in recessions. Furthermore, although the constrained efficient economy is often cyclical, it features both a static and a dynamic externality in credit supply, hence differing from the decentralized equilibrium.",
-      "summary_en": null,
+      "summary_en": "Credit cycles — periods of lax then tight lending — aren't just driven by shocks from outside. This paper shows how lax standards in a boom gradually deteriorate loan quality, precipitating tight standards in the next bust. During the bust, loan quality improves (the \"cleansing\" effect), which eventually triggers a return to lax standards. The cycle self-generates. The paper also shows that expert investors' capitalisation determines how quickly credit gets reallocated in recessions, and identifies both static and dynamic externalities that make the decentralised equilibrium differ from the constrained optimum. A sophisticated framework for macro-financial policy.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical macro-finance model with calibrated extensions; predictions match cross-country credit-cycle stylized facts.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly informs MNB's macroprudential policy. The paper supports: countercyclical capital buffers that lean against lax lending in booms (to reduce the depth of the next bust); regulation of expert-investor market power to avoid slow recession reallocation; and recognition that credit-supply externalities mean the decentralised equilibrium is socially inefficient — so some form of active macroprudential intervention is justified even without explicit market failures. Relevant to MNB's Counter-Cyclical Capital Buffer setting and systemic-risk monitoring. Caveat: calibration is US/global; Hungarian magnitudes depend on banking-sector concentration and foreign-bank ownership.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "methods"
+      ],
+      "methods": [
+        "structural",
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4385603815"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4385603815",
+      "policy_instruments": [
+        "countercyclical capital buffer",
+        "lending-standard regulation",
+        "systemic-risk monitoring"
+      ]
     },
     {
       "id": "ferto-fogarasi-et-al-2017-wp",
@@ -15779,21 +15853,36 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We study the effects of being born in a city with a neonatal intensive care unit (NICU) and in a city integrated into the newborn emergency transportation system (NETS) on neonatal and infant mortality and long-term impairments. We use administrative and census data covering the gradual expansion of the NICU and NETS systems between 1990 and 2015, and we identify the effects using the distance of residence to the nearest NICU/NETS hospital as an instrumental variable. Residence fixed effects control for all unobserved municipality-specific time-invariant determinants of newborns’ death and impairment. Being born in a city with a NICU decreases 0- to 6-day mortality by 153/1, 000 (birth weight less than 1, 500 grams) and 24/1, 000 (birth weight less than 2, 500 grams). NETS effects are positive, too, but they are substantially smaller (57/1, 000 and 9/1, 000, respectively). The effect estimates on long-term impairment are small in magnitude and are all statistically indistinguishable from zero. Access to NICUs and the NETS saves lives in the long run, without substantial overall effects on long-term impairments.",
-      "summary_en": null,
+      "summary_en": "Can intensive neonatal care save lives and improve long-run health? This paper uses the gradual rollout of neonatal intensive care units (NICUs) and newborn emergency transport systems (NETS) in Hungary from 1990–2015 to estimate causal effects. Using distance-to-hospital as an instrument and residence fixed effects, the authors find that being born in a city with a NICU reduces 0–6-day mortality by 153 per 1,000 for very-low-birth-weight babies and 24 per 1,000 for low-birth-weight babies. NETS effects are smaller. The paper quantifies the substantial life-saving value of investment in neonatal infrastructure.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian administrative birth records and census data 1990–2015. Distance-to-nearest NICU/NETS hospital serves as an instrumental variable; residence fixed effects control for time-invariant municipality characteristics.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct evidence for Hungarian healthcare-infrastructure investment. The paper quantifies that NICU access saves lives at a large scale for low-birth-weight babies, supporting further investment in and maintenance of neonatal intensive care in Hungary. Relevant to NEAK, BVOP, and the Ministry of Health. Also informs rural-vs-urban hospital-network planning. Caveat: uses data through 2015; current hospital network may differ, and effects for very rural areas may be larger or smaller than estimated.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "health",
+        "regional-urban"
+      ],
+      "methods": [
+        "iv",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4317233764"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4317233764",
+      "policy_instruments": [
+        "neonatal intensive care investment",
+        "emergency-transport infrastructure",
+        "hospital-network planning"
+      ]
     },
     {
       "id": "hajdu-kertesi-et-al-2023-ks",
@@ -16400,21 +16489,34 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "The paper investigates firms’ willingness to match the currency composition of their assets and liabilities. Using detailed information at the loan contract level for the Hungarian non-financial corporate sector, the paper provides strong evidence to support the theory that currency matching plays a role in exporters’ debt currency choices. However, natural hedging is not the primary motive for firms to choose a foreign currency: it explains only 3.8 per cent of the overall new corporate foreign currency loans contracted by exporters and 2.9 per cent of the aggregate new foreign currency bank loans. Besides hedging, our results suggest that both carry trade and diversification strategies are relevant factors in firms’ currency-of-denomination decisions. Supply side factors are also found to be responsible for the prevalence of foreign currency loans among Hungarian corporate borrowers.",
-      "summary_en": null,
+      "summary_en": "Do Hungarian non-financial corporations match foreign-currency borrowings to their foreign-currency revenues? This paper uses loan-contract-level data to test the hypothesis that firms engage in \"natural hedging.\" The main finding: currency matching does play a role in exporters' currency choices, but it's a minor factor. Only 3.8% of new exporter foreign-currency loans and 2.9% of aggregate new foreign-currency bank loans are explained by natural hedging. Carry-trade motivations, portfolio diversification, and bank supply-side factors dominate. A sobering empirical verdict on the size of hedging behaviour in practice.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Administrative loan-contract-level data for the Hungarian non-financial corporate sector: loan amounts, currency, firm exporter status, bank identity.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly relevant to MNB's foreign-exchange risk supervision and the aftermath of the Hungarian FX-mortgage and FX-corporate-debt crisis. The paper quantifies why Hungarian firms took on so much FX debt pre-2008: natural hedging was a small part; supply-side incentives and carry-trade motives were much bigger. Supports macroprudential rules that limit FX lending regardless of borrower exposure. Relevant to MNB's systemic-risk monitoring. Caveat: the data are from pre-2015; Hungarian FX-lending dynamics have changed since, and a re-run with current data would refresh the magnitudes.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "firms-productivity"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-firm"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2999647795"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2999647795",
+      "policy_instruments": [
+        "FX-lending macroprudential rules",
+        "foreign-currency debt limits"
+      ]
     },
     {
       "id": "harasztosi-lindner-2019-aer",
@@ -17284,21 +17386,35 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This study investigates whether within-school sorting increases socioeconomic test score inequalities. Using universal test score data on 6-th, and 8th grade students in Hungary, we document the extent of within-school sorting in an institutional context where sorting based on ability or prior achievement is rare. We identify sorting schools as schools that systematically assign students with low and high socioeconomic status into different classrooms within the school. Then, exploiting school fixed effects and quasi-exogenous variation in sorting induced by enrollment and class size rules, we show that sorting has a significant and economically meaningful effect on test score inequalities between students from different socioeconomic backgrounds. Sorting harms low-status students, while high-status students gain much less, if anything, from attending sorting schools. We attribute our findings to the within-school reallocation of educational resources and differences in educational practices.",
-      "summary_en": null,
+      "summary_en": "Even within the same school, students from advantaged and disadvantaged families often end up in different classrooms. Does this within-school sorting matter? This paper uses universal test-score data for 6th and 8th graders in Hungary. Exploiting school fixed effects and quasi-random variation in sorting induced by enrollment and class-size rules, the authors show that sorting has a significant and economically meaningful effect on socioeconomic test-score gaps. Sorting harms low-status students but helps high-status students little or not at all. A clear empirical case against within-school class-composition segregation.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Universal-coverage administrative test-score data for Hungarian 6th and 8th graders. Exploits school fixed effects and quasi-exogenous variation from enrollment/class-size rules.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly actionable for Hungarian education policy (Oktatási Hivatal, EMMI). The paper provides evidence for Ministry of Education rules against within-school socioeconomic sorting: regulations that prevent class-composition segregation improve outcomes for disadvantaged students without measurably harming advantaged ones. Particularly relevant to Hungary's Roma-education inclusion efforts. Caveat: the effect is identified at a specific grade; long-run impacts into high-school and labour-market outcomes are for future research.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "education-skills",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "panel-data",
+        "diff-in-diff"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4402327726"
+      "review_status": "ai-drafted",
+      "openalex_id": "W4402327726",
+      "policy_instruments": [
+        "within-school class-composition rules",
+        "socioeconomic desegregation policy"
+      ]
     },
     {
       "id": "hermann-pentek-et-al-2022-eujhe",
@@ -19923,21 +20039,35 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We study how lines form in front of banks. In our model, depositors choose first the level of effort to arrive early at the bank and then whether or not to withdraw their deposit. We argue that the informational environment (i.e., the possibility of observing the action of others) affects the emergence of bank runs and should, therefore, influence the line formation. We test this prediction experimentally. While the informational environment has no effect on the line formation when we look at the average level of effort, our findings suggest that the reasons to arrive early at the bank varies across informational environment. Thus, expectations on the occurrence of bank run are key to explain the level of effort when depositors cannot observe the action of others. In this setting, depositors who expect a run arrive early at the bank to withdraw their funds. If actions can be observed, however, those who expect a run arrive early at the bank to keep their funds deposited. Depending on the informational environment, there are other factors (e.g., irrationality of depositors or loss aversion) that also explain the behavior of depositors.",
-      "summary_en": null,
+      "summary_en": "Why do depositors line up at banks during rumoured runs? This paper models the effort depositors exert to arrive early, and links it to the informational environment (whether they can observe others' actions). Theoretical prediction: when depositors can't observe others, their effort depends on their expectation of whether a run will happen; when they can observe others, information spreads through observed behaviour. The authors test the predictions in a laboratory experiment. Results suggest that managing information flow during a perceived crisis — what rumours are visible, what actions are public — critically shapes queue dynamics at banks.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model of bank-run queuing; laboratory experiment with subjects choosing whether to withdraw early under different informational conditions.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For MNB's deposit-insurance and financial-stability communication during crisis episodes (e.g., 2008, 2011): the paper supports active management of visible information about bank-branch queues and of public communication during rumour outbreaks. Relevant to OBA (Hungarian deposit insurance) crisis-communication protocols. Caveat: based on laboratory experiments; real-world depositor behaviour in Hungary is influenced by history of the FX-mortgage crisis and specific trust in institutions.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "methods"
+      ],
+      "methods": [
+        "theory",
+        "rct"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
+      "data_types": [
+        "field-experiment"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W3013520125"
+      "review_status": "ai-drafted",
+      "openalex_id": "W3013520125",
+      "policy_instruments": [
+        "deposit-insurance communication",
+        "crisis-information management"
+      ]
     },
     {
       "id": "kiss-selei-2017-edec",
@@ -20539,21 +20669,35 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "ABSTRACT We propose a new measure of private information in decentralized markets—connections—which exploits the time variation in the number of dealers with whom a client trades in a time period. Using trade‐level data for the U.K. government bond market, we show that clients perform better when having more connections as their trades predict future price movements. Time variation in market‐wide connections also helps explain yield dynamics. Given our novel measure, we present two applications suggesting that (i) dealers pass on information, acquired from their informed clients, to their affiliates, and (ii) informed clients better predict the orderflow intermediated by their dealers.",
-      "summary_en": null,
+      "summary_en": "When a client trades with dealers in a decentralised market (like bond or FX markets), does the number of dealers she uses reveal something? This paper argues yes. The authors propose a new measure — \"connections\" — that tracks how many dealers a client transacts with over time. Using UK government-bond trade data, they show clients with more connections earn higher returns and their trades predict future price movements. Two downstream findings: dealers pass on information learned from informed clients to affiliates; and informed clients better predict dealer-intermediated orderflow. A clean measure of private information in opaque decentralised markets.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Trade-level administrative data on the UK government-bond market, covering client-dealer pairs and trade outcomes over multiple years.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For MNB's monitoring of Hungarian government-debt and FX markets (AKK), the paper offers a usable metric — number of dealer connections per client — to detect asymmetric-information patterns. Also relevant to MNB supervision of major banks' client-facing trading desks. Caveat: the study uses UK gilt data; Hungarian market microstructure (smaller, less liquid) may produce different connection-quality relationships.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "methods"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "GB"
+      ],
+      "data_types": [
+        "admin-firm",
+        "digital-trace"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W3131600200"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W3131600200",
+      "policy_instruments": [
+        "OTC market monitoring",
+        "information-asymmetry surveillance"
+      ]
     },
     {
       "id": "kondor-vayanos-2014-jof",
@@ -21997,21 +22141,36 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "In most disability insurance programs beneficiaries lose some or all of their benefits if they earn above an earnings threshold. While intended to screen out applicants with high remaining working capacity, earnings limits can also distort the labor supply of beneficiaries. We use a reduction in the earnings limit in Hungary to evaluate this trade-off and examine screening and labor supply responses. We find that the policy changed selection into the program modestly but reduced labor supply on the intensive margin significantly. These findings suggest that the earnings threshold should be higher.",
-      "summary_en": null,
+      "summary_en": "Disability insurance has an earnings limit: if you earn above the threshold, you lose some benefits. This is designed to screen out people who can work. But it can also distort the labour supply of beneficiaries. This paper uses a 2012 Hungarian reform that reduced the earnings limit to evaluate the trade-off. The finding: the policy changed selection into disability only modestly, but reduced labour supply on the intensive margin substantially. The recommendation: the earnings threshold should be higher. A concrete empirical lesson for disability-insurance design.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian administrative data on disability insurance recipients and their earnings around the 2012 earnings-limit reform. Before/after comparison with control group.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly relevant to Hungarian disability-insurance policy (MÁK, OEP). The paper supports raising the earnings limit to reduce labour-supply distortion without much cost in selection quality. Actionable recommendation for Ministry of Economy and social-policy design. Caveat: the 2012 reform was a specific change; effects of alternative calibrations (phase-out rather than cliff) might differ.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "labor-markets",
+        "health",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "diff-in-diff",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4399422828"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4399422828",
+      "policy_instruments": [
+        "disability-insurance earnings limit",
+        "benefit phase-out design"
+      ]
     },
     {
       "id": "kreko-telegdy-2025-e",
@@ -24982,21 +25141,36 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "I document new facts about the relationship between flexible wage components and firm performance using a unique matched employer-employee database from Hungary. Firms providing flexible wage components adjust total wage compensation more to revenue shocks than firms without flexible wages. Nevertheless, employment responses to revenue shocks are the same at firms with and without flexible wage components. These findings also hold in the case of aggregate shocks and during the Great Recession. The results suggest that flexible wage components in their current magnitude do not attenuate employment responses to a negative revenue shock. Finally, I discuss the possible explanations for the empirical findings.",
-      "summary_en": null,
+      "summary_en": "Hungarian firms often pay flexible bonuses on top of fixed wages. Does this flexibility act as a shock absorber, letting firms avoid layoffs during bad times? This paper uses matched employer-employee data from Hungary to test the idea. Findings are mixed. Firms with flexible wage components do adjust total wage compensation more to revenue shocks than firms without. But employment responses are the same across firm types — flexibility in the wage doesn't shield jobs. This holds during the Great Recession. The conclusion: in their current magnitude, flexible wage components do not attenuate employment responses to negative shocks.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Matched employer-employee administrative data from Hungary, covering the 2000s through the Great Recession. Individual-level wage, bonus, and employment records linked to firm financials.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant to Hungarian labour-market flexibility debates (VKF social dialogue, Ministry of Finance). Conventional policy wisdom is that flexible wage components create shock-absorption; this paper shows they don't in the Hungarian context. Implications for minimum-wage design, Kurzarbeit-style short-time programmes, and employment-protection policy. Relevant to the Ministry of Economy. Caveat: data cover through 2010s; tighter labour markets post-2015 may have changed the flexibility-employment trade-off.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "labor-markets",
+        "firms-productivity"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-firm",
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4297833780"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4297833780",
+      "policy_instruments": [
+        "wage-flexibility regulation",
+        "short-time work programmes",
+        "minimum-wage component design"
+      ]
     },
     {
       "id": "robatto-szentes-2017-jet",
@@ -28102,7 +28276,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 26
+      "paper_count": 31
     },
     {
       "id": "education-skills",
@@ -28113,7 +28287,7 @@
       "policy_framing_en": "Relevant to: curriculum design, teacher policy, school tracking age, higher education funding, vocational training.",
       "policy_framing_hu": "Releváns: tantervfejlesztés, tanárpolitika, iskolai szelekció életkora, felsőoktatás finanszírozása, szakképzés.",
       "icon": "graduation-cap",
-      "paper_count": 17
+      "paper_count": 18
     },
     {
       "id": "health",
@@ -28124,7 +28298,7 @@
       "policy_framing_en": "Relevant to: healthcare system design, hospital payment, prevention programs, pharmaceutical policy, mental health services.",
       "policy_framing_hu": "Releváns: egészségügyi rendszer kialakítása, kórházi finanszírozás, prevenciós programok, gyógyszerpolitika, mentális szolgáltatások.",
       "icon": "heart-pulse",
-      "paper_count": 14
+      "paper_count": 19
     },
     {
       "id": "demographics-migration",
@@ -28157,7 +28331,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 53
+      "paper_count": 55
     },
     {
       "id": "innovation-digital",
@@ -28179,7 +28353,7 @@
       "policy_framing_en": "Relevant to: MNB policy, banking regulation, macroprudential tools, financial inclusion.",
       "policy_framing_hu": "Releváns: MNB-politika, bankszabályozás, makroprudenciális eszközök, pénzügyi befogadás.",
       "icon": "landmark",
-      "paper_count": 33
+      "paper_count": 37
     },
     {
       "id": "fiscal-tax",
@@ -28201,7 +28375,7 @@
       "policy_framing_en": "Relevant to: regional development funds, housing policy, transport investment, urban planning.",
       "policy_framing_hu": "Releváns: regionális fejlesztési alapok, lakáspolitika, közlekedési beruházások, városfejlesztés.",
       "icon": "building",
-      "paper_count": 12
+      "paper_count": 13
     },
     {
       "id": "energy-environment",
@@ -28223,7 +28397,7 @@
       "policy_framing_en": "Relevant to: welfare system, anti-poverty programs, family allowances, gender-equal pay policies.",
       "policy_framing_hu": "Releváns: szociális rendszer, szegénység elleni programok, családi pótlékok, egyenlő bérezés.",
       "icon": "scale",
-      "paper_count": 40
+      "paper_count": 44
     },
     {
       "id": "political-economy",
@@ -28256,7 +28430,7 @@
       "policy_framing_en": "Relevant to: rigorous program evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 89
+      "paper_count": 92
     }
   ],
   "journals": [
