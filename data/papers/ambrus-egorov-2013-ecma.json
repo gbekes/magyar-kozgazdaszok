@@ -17,19 +17,26 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This comment corrects two results in the 2006 Econometrica paper by Amador, Werning, and Angeletos (AWA), that features a model in which individuals face a trade-off between flexibility and commitment. First, in contrast to Proposition 1 in AWA, we show that money-burning can be part of the ex ante optimal contract when there are two states. Second, in contrast to Proposition 2 in AWA, we show that money-burning can be imposed at the top (in the highest liquidity shock state), even when there is a continuum of states. We provide corrected versions of the above results. [PUBLICATION ABSTRACT]",
-  "summary_en": null,
+  "summary_en": "A short technical comment in Econometrica. The paper corrects two results in the influential Amador-Werning-Angeletos (2006) paper on the trade-off between commitment and flexibility in optimal contracts. Specifically, it shows that \"money-burning\" (deliberately wasteful transfers used to discipline behaviour) can optimally appear when there are two states (contrary to AWA's Proposition 1), and can be imposed at the very top of the distribution even with a continuum of states (contrary to AWA's Proposition 2). Corrected versions of the original results are provided. A pure technical note with implications for the commitment-flexibility literature.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Primarily academic. The commitment-flexibility framework underlies analysis of rule-based vs discretionary policy (central-bank mandates, fiscal rules). This comment tightens the theoretical prediction about when rigid rules are optimal. Indirect implication: even well-designed flexible rules may need explicit waste/penalty clauses at extreme outcomes, which has always been part of real-world constitutional and fiscal-rule design. Caveat: highly abstract; no direct Hungarian policy mapping.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "methods",
+    "fiscal-tax"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
   "openalex_id": "W2133168816"
 }

@@ -17,19 +17,35 @@
   "url_pdf": "https://www.aeaweb.org/articles/pdf/doi/10.1257/aer.20171445",
   "url_replication": null,
   "abstract": "This paper provides a comprehensive assessment of the margins along which firms responded to a large and persistent minimum wage increase in Hungary. We show that employment elasticities are negative but small even four years after the reform; that around 75 percent of the minimum wage increase was paid by consumers and 25 percent by firm owners; that firms responded to the minimum wage by substituting labor with capital; and that disemployment effects were greater in industries where passing the wage costs to consumers is more difficult. We estimate a model with monopolistic competition to explain these findings. (JEL J23, J24, J31, J38, L13)",
-  "summary_en": null,
+  "summary_en": "Hungary nearly doubled its minimum wage in 2000–2002. Four years later, where did the money come from? This paper uses comprehensive Hungarian firm-level data to trace the entire adjustment. Headline result: employment fell only modestly (elasticities are negative but small). About 75% of the cost was passed on to consumers in higher prices, and 25% was absorbed by firm profits. Firms substituted labour with capital. Disemployment effects were larger in industries where passing costs to consumers was difficult (mainly tradeables facing foreign competition). The paper estimates a monopolistic-competition model to explain these margins jointly. A benchmark study for minimum-wage policy design in emerging economies.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Linked Hungarian administrative firm-level and employer-employee data covering the 2000–2002 minimum-wage reform and four years post-reform. Micro-data on wages, employment, prices, capital stock, and industry composition.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Essential reading for the Hungarian minimum-wage debate (minimálbér negotiations, VKF). Concrete implications: a substantial minimum-wage increase can be absorbed mostly through prices with small employment costs if most covered workers are in non-tradeable sectors; but in tradeable sectors facing international competition, disemployment effects are larger and should be expected. For the ministry and employer/union social dialogue, the paper is a quantitative anchor. Caveat: evidence is from the 2000s Hungarian economy; the current labour-market environment (tight, inflation-adjusted, EU-integrated) differs, and magnitudes would need re-estimation with more recent data.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "labor-markets",
+    "firms-productivity"
+  ],
+  "methods": [
+    "diff-in-diff",
+    "structural"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm",
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2188881060"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2188881060",
+  "policy_instruments": [
+    "minimálbér (minimum wage)",
+    "minimum-wage compliance enforcement",
+    "sector-specific wage floors"
+  ]
 }

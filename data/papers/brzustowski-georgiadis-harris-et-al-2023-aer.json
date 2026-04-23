@@ -18,19 +18,30 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This paper reconsiders the problem of a durable-good monopolist who cannot make intertemporal commitments. The buyer’s valuation is binary and his private information. The seller has access to dynamic contracts and, in each period, decides whether to deploy the previous period’s contract or to replace it with a new one. The main result of the paper is that the Coase conjecture fails: the monopo-list’s payoff is bounded away from the low valuation irrespective of the discount factor. (JEL D42, D82, D86, L12)",
-  "summary_en": null,
+  "summary_en": "A classic puzzle in economics: a monopolist selling a durable good (say, a rare painting) should, in theory, rapidly cut the price once sales slow — anticipating this, buyers wait, and the monopolist's market power collapses. This is the Coase conjecture. The paper reopens the question for a setting where the seller can use \"smart contracts\" — dynamic contracts that can be rewritten each period. Surprisingly, with smart contracts the Coase conjecture fails: the monopolist can sustain prices well above the buyer's lowest possible valuation, no matter how patient buyers are. The result reframes a foundational prediction of durable-goods theory.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant to Hungarian competition policy (GVH) and digital-platform regulation. Smart contracts on blockchains and dynamic pricing algorithms on e-commerce platforms give durable-goods sellers tools that existed only in theory a decade ago. The paper implies that market power in durable-goods and digital-service markets may be more durable than classical Coase-conjecture arguments suggested, and that the advent of automated contract enforcement is itself a market-structure change. Caveat: the result is theoretical and assumes commitment-preserving contracts — in practice, enforcement and consumer awareness vary, and the effect size in specific Hungarian markets would require case-by-case assessment.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4367321980"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4367321980",
+  "policy_instruments": [
+    "durable-goods pricing regulation",
+    "smart-contract regulation",
+    "platform competition policy"
+  ]
 }

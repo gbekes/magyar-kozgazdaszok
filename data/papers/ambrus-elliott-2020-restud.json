@@ -17,19 +17,26 @@
   "url_pdf": "https://academic.oup.com/restud/article-pdf/88/4/1624/41163921/rdaa073.pdf",
   "url_replication": null,
   "abstract": "Abstract This article investigates stable and efficient networks in the context of risk sharing, when it is costly to establish and maintain relationships that facilitate risk sharing. We find a novel trade-off between efficiency and equality: the most stable efficient networks also generate the most inequality. We then suppose that individuals can be split into groups, assuming that incomes across groups are less correlated than within a group but relationships across groups are more costly to form. The tension between efficiency and equality extends to these correlated income structures. More-central agents have stronger incentives to form across-group links, reaffirming the efficiency benefits of having highly central agents. Our results are robust to many extensions. In general, endogenously formed networks in the risk-sharing context tend to exhibit highly asymmetric structures, which can lead to stark inequalities in consumption levels.",
-  "summary_en": null,
+  "summary_en": "When it's costly to maintain a social tie, what does the network of mutual support end up looking like? This paper shows there's an inherent tension between efficiency and equality: the networks that deliver the most efficient risk-sharing also generate the most inequality among members. Central agents (who insure others) bear more volatility but extract compensation; peripheral agents get more stable consumption but less autonomy. When the population splits into groups with within-group correlated incomes, the trade-off persists. Endogenous risk-sharing networks are highly asymmetric — which matters for how development-economics interventions should be designed.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Mostly of academic relevance for the Hungarian context. Potentially relevant to welfare-system design in communities where informal transfers complement formal welfare (Roma households, remote rural settlements): interventions that shift the informal network may have unintended distributional effects. For KRTK research on household risk management and poverty in Hungary. Caveat: the model is highly stylised; empirical applications in Hungary would require detailed network and transfer data.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "inequality-welfare",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
   "openalex_id": "W3123549902"
 }

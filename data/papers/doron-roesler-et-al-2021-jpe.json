@@ -18,19 +18,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This paper analyzes a bilateral trade model in which the buyer’s valuation for the object is uncertain and she can privately purchase any signal about her valuation. The seller makes a take-it-or-leave-it offer to the buyer. The cost of a signal is smooth and increasing in informativeness. We characterize the set of equilibria when learning is free and show that they are strongly Pareto ranked. Our main result is that when learning is costly but the cost of information goes to zero, equilibria converge to the worst free-learning equilibrium.",
-  "summary_en": null,
+  "summary_en": "Before buying something important, a buyer can often learn more about the good — a car test drive, due diligence on a property, a health check. This paper asks: when information is costless, what happens to bilateral trade? The seller makes a take-it-or-leave-it offer; the buyer decides how much to learn. Surprisingly, as the cost of learning goes to zero, equilibrium converges to the worst possible free-learning outcome. Learning more is not always welfare-improving — it can change the strategic landscape in ways that hurt everyone. The result has implications for how we think about regulation of information in trade.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant to consumer protection and disclosure policy in Hungary. The paper suggests that simply making more information available to buyers (mandatory disclosures, easier product comparisons) can backfire when sellers anticipate the resulting behaviour. Important for GVH's consumer-protection stance and for the regulation of investor-information platforms overseen by MNB. Caveat: the model is stylised; effects in practice depend on how \"close to free\" information acquisition really is, and mandatory disclosure still remains welfare-improving in many specific settings where the extreme free-learning limit is not reached.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4225712810"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4225712810",
+  "policy_instruments": [
+    "consumer-disclosure rules",
+    "information-regulation policy"
+  ]
 }

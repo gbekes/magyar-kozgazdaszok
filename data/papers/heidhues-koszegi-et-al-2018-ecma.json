@@ -18,19 +18,30 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We explore the learning process and behavior of an individual with unrealistically high expectations (overconfidence) when outcomes also depend on an external fundamental that affects the optimal action. Moving beyond existing results in the literature, we show that the agent's beliefs regarding the fundamental converge under weak conditions. Furthermore, we identify a broad class of situations in which “learning” about the fundamental is self‐defeating: it leads the individual systematically away from the correct belief and toward lower performance. Due to his overconfidence, the agent—even if initially correct—becomes too pessimistic about the fundamental. As he adjusts his behavior in response, he lowers outcomes and hence becomes even more pessimistic about the fundamental, perpetuating the misdirected learning. The greater is the loss from choosing a suboptimal action, the further the agent's action ends up from optimal. We partially characterize environments in which self‐defeating learning occurs, and show that the decisionmaker learns to take the optimal action if, and in a sense only if, a specific non‐identifiability condition is satisfied. In contrast to an overconfident agent, an underconfident agent's misdirected learning is self‐limiting and therefore not very harmful. We argue that the decision situations in question are common in economic settings, including delegation, organizational, effort, and public‐policy choices.",
-  "summary_en": null,
+  "summary_en": "What happens when an overconfident person tries to learn from experience? This paper shows that learning can be actively self-defeating. Overconfident agents systematically misinterpret outcomes: when things go badly, they blame external factors rather than their own choices, becoming too pessimistic about those factors. They then adjust their behaviour in ways that lower future outcomes and reinforce the misguided belief. The greater the cost of the wrong action, the further astray learning goes. The result is a new mechanism by which overconfident individuals (leaders, investors, entrepreneurs) can get stuck in self-confirming mistakes.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant to any policy area where overconfident decision-makers act on feedback — financial regulation (retail investors), management training, entrepreneurship support. The paper suggests that feedback-based \"learning\" interventions have limited corrective power when overconfidence is present; more effective to structure decisions so correct information is implied by the action. For Hungary's financial-consumer education and SME-support programmes, this implies designing defaults and limits rather than relying on experience-based learning. Caveat: the model is theoretical, applicability depends on whether and how a given group is overconfident.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "methods",
+    "banking-finance"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3123740870"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3123740870",
+  "policy_instruments": [
+    "financial-consumer education design",
+    "entrepreneurship training programmes"
+  ]
 }

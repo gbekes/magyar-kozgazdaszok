@@ -18,19 +18,31 @@
   "url_pdf": "https://academic.oup.com/restud/article-pdf/88/2/708/36667471/rdaa056.pdf",
   "url_replication": null,
   "abstract": "Abstract We identify a competition-policy-based argument for regulating the secondary features of complex or complexly priced products when consumers have limited attention. Limited attention implies that consumers can only “study” a small number of complex products in full, while—by failing to check secondary features—they can superficially “browse” more. Interventions limiting ex post consumer harm through safety regulations, caps on certain fees, or other methods induce consumers to do more or more meaningful browsing, enhancing competition. We show that for a pro-competitive effect to obtain, the regulation must apply to the secondary features, and not to the total price or value of the product. As an auxiliary positive prediction, we establish that because low-value consumers are often more likely to study—and therefore less likely to browse—than high-value consumers, the average price consumers pay can be increasing in the share of low-value consumers. We discuss applications of our insights to health-insurance choice, the European Union’s principle on unfair contract terms, food safety in developing countries, and the shopping behaviour of (and prices paid by) low-income and high-income consumers.",
-  "summary_en": null,
+  "summary_en": "When products have complicated pricing (airline tickets, phone plans, financial products), consumers often \"browse\" many options superficially and \"study\" few in detail. This paper shows that simple ex-post consumer protections — caps on secondary fees, safety regulations on hidden features — can actually intensify competition. When consumers know that hidden features are less bad, they browse more, which makes price competition tougher. Importantly, the regulation must target the secondary features (hidden costs), not the headline price. A pro-market rationale for specific types of consumer protection, grounded in realistic cognition.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct implications for Hungarian consumer-protection regulation (MNB in finance, NFH in telecoms, GVH in general). The paper supports caps on hidden fees and overdraft charges, penalty-feature regulation, and disclosure standards for secondary features — not as a second-best protection, but as competition-enhancing. Relevant to the ongoing implementation of EU consumer-protection directives. Caveat: the theory assumes a specific cognitive structure; ex-ante effectiveness of any specific Hungarian regulation depends on whether the targeted fees fit the \"secondary feature\" mould.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "methods",
+    "banking-finance"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3098142622"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3098142622",
+  "policy_instruments": [
+    "hidden-fee caps",
+    "safety-feature regulation",
+    "secondary-feature disclosure rules"
+  ]
 }

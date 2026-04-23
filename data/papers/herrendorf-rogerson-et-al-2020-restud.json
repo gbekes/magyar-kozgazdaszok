@@ -18,19 +18,33 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Abstract The structural-change literature typically assumes that investment is produced in manufacturing. We establish that this assumption is counterfactual: in the postwar U.S., the share of services value added in investment expenditure has been steadily growing. We develop a new model that features structural change in investment and consumption, characterize its equilibrium properties, and provide empirical support for it. We establish that modelling structural change in investment leads to three novel insights: constant TFP growth in all sectors is inconsistent with the existence of aggregate balanced growth with structural change; the sector with the slowest TFP growth absorbs all resources asymptotically; technical change is endogenously investment-biased.",
-  "summary_en": null,
+  "summary_en": "The long-standing story of structural change — labour moving from agriculture to manufacturing to services — has mostly focused on consumption. This paper adds the missing piece: structural change in investment. Using post-war US data, the authors show that services' share of investment expenditure has been steadily growing. They then build and empirically support a unified model of structural change in both consumption and investment. Three new lessons: balanced growth with structural change requires different TFP growth rates across sectors; the slowest-growing sector absorbs all resources asymptotically; and technical change turns out to be endogenously biased toward investment-goods sectors. A conceptually important reframing of growth accounting.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Post-war US sectoral data: value-added and investment-expenditure shares across goods and services sectors, TFP growth by sector.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian long-run productivity accounting and GDP-growth projections (MNB, PM), the paper reshapes how to think about which sectors drive growth. Services now matter for investment, not just for consumption. Directly relevant to fiscal-space projections and to whether industrial-policy emphasis on manufacturing investment still makes sense. Caveat: the empirical basis is US; Hungarian structural-change paths differ (still more industrial than comparable Western economies), so the quantitative story would need Hungarian calibration before informing specific policy.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "firms-productivity",
+    "regional-urban"
+  ],
+  "methods": [
+    "structural",
+    "theory"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3013834488"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3013834488",
+  "policy_instruments": [
+    "long-run productivity forecasting",
+    "sectoral investment policy"
+  ]
 }

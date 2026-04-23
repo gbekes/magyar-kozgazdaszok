@@ -17,19 +17,31 @@
   "url_pdf": "https://academic.oup.com/qje/article-pdf/132/2/1019/30637477/qjw042.pdf",
   "url_replication": null,
   "abstract": "Abstract We initiate the study of naïveté-based discrimination, the practice of conditioning offers on external information about consumers’ naïveté. Knowing that a consumer is naive increases a monopolistic or competitive firm's willingness to generate inefficiency to exploit the consumer's mistakes, so naïveté-based discrimination is not Pareto-improving, can be Pareto-damaging, and often lowers total welfare when classical preference-based discrimination does not. Moreover, the effect on total welfare depends on a hitherto unemphasized market feature: the extent to which the exploitation of naive consumers distorts trade with different types of consumers. If the distortion is homogeneous across naive and sophisticated consumers, then under an arguably weak and empirically testable condition, naïveté-based discrimination lowers total welfare. In contrast, if the distortion arises only for trades with sophisticated consumers, then perfect naïveté-based discrimination maximizes social welfare, although imperfect discrimination often lowers welfare. If the distortion arises only for trades with naive consumers, then naïveté-based discrimination has no effect on welfare. We identify applications for each of these cases. In our primary example, a credit market with present-biased borrowers, firms lend more than is socially optimal to increase the amount of interest naive borrowers unexpectedly pay, creating a homogeneous distortion. The condition for naïveté-based discrimination to lower welfare is then weaker than prudence.",
-  "summary_en": null,
+  "summary_en": "Firms sometimes know which customers are \"naive\" — prone to underestimating fees, penalties, or add-on costs. This paper studies what happens when firms condition their offers on this information. The result: naïveté-based discrimination is never Pareto-improving, and often lowers total welfare, even in cases where ordinary (preference-based) price discrimination would be harmless. The reason is that firms have a stronger incentive to engineer inefficiency to exploit naive consumers than to simply extract surplus. The paper formalises a distinct welfare concern for the regulation of behaviourally-sensitive markets like credit, mortgages, and overdraft fees.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For MNB and GVH in Hungary, the paper provides a clean welfare rationale for consumer-protection rules targeted specifically at exploitative-pricing practices (hidden fees, punitive penalties, deferred charges) — as distinct from general price-discrimination regulation. Particularly relevant for consumer credit, payment-card regulation, and overdraft/ATM-fee rules. Caveat: the paper is theoretical; identifying \"naïveté-based discrimination\" empirically in Hungarian retail-finance or credit-card markets requires detailed product-design and consumer-vulnerability data not typically available in aggregate statistics.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "banking-finance",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2556555712"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2556555712",
+  "policy_instruments": [
+    "credit-card fee regulation",
+    "overdraft fee caps",
+    "mandatory disclosure of penalty terms"
+  ]
 }

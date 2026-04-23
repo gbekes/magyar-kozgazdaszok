@@ -20,19 +20,34 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Abstract Many countries base college admissions on a centrally administered test. Students invest a great deal of resources to improve their performance on the test, and there is growing concern about the high costs associated with these activities. We consider modifying the test by introducing performance-disclosure policies that pool intervals of performance rankings. Pooling affects the equilibrium allocation of students to colleges, which hurts some students and benefits others, but also affects students’ effort. We investigate how such policies can improve students’ welfare in a Pareto sense, study the Pareto frontier of pooling policies, and identify improvements that are robust to the distribution of college seats. We illustrate the potential applicability of our results with an empirical estimation that uses data on college admissions in Turkey. We find that a policy that pools a large fraction of the lowest-performing students leads to a Pareto improvement in a contest based on the estimated parameters. A laboratory experiment based on the estimated parameters generally supports our theoretical predictions.",
-  "summary_en": null,
+  "summary_en": "Many countries rank students for university admission using a single centrally-administered exam. Students invest heavily in test preparation, and there is growing concern about the private cost. This paper asks whether the \"rat race\" can be reduced without hurting anyone. The authors design pooling policies — a scoring scheme that lumps some performance brackets together — and show that these can make every student better off in equilibrium (a Pareto improvement). Illustrated with data from Turkey's centralised college-admissions exam: pooling the lowest-scoring group is the kind of change that would reduce private tutoring effort without degrading who goes to which university.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical contest model with pooling policies, calibrated to illustrative data from Turkey's centralised university-admission exam (the OSYM/ÖSYM system): score distributions and seat allocations across universities.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungary's érettségi-based university admission is a high-stakes exam that drives heavy private investment in tutoring — a well-known source of inequality in who prepares and who does not. The paper offers a concrete design lever: pool performance brackets at the low end rather than publishing fine-grained rankings. This can reduce private tutoring effort without visibly changing who gets into top programmes. Relevant for Oktatási Hivatal (Education Office) and the ministry running the felsőoktatási felvételi. Caveat: the Turkish calibration is structure-specific; a Hungarian reform should be evaluated with Hungarian exam-score and choice data before roll-out.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "education-skills",
+    "methods"
+  ],
+  "methods": [
+    "theory",
+    "structural"
+  ],
+  "countries_studied": [
+    "TR"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-21",
-  "last_reviewed_at": "2026-04-21",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4410312096"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4410312096",
+  "policy_instruments": [
+    "university admission exam design",
+    "performance-disclosure pooling",
+    "private tutoring reduction"
+  ]
 }

@@ -17,19 +17,30 @@
   "url_pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1468-0262.2004.00478.x",
   "url_replication": null,
   "abstract": "We analyze bidding behavior in auctions when risk-averse bidders bid for an object whose value is risky. We show that, as risk increases, decreasingly risk-averse bidders will reduce their bids by more than the risk premium. Ceteris paribus, bidders will be better off bidding for a more risky object in first-price, second-price, English, and allpay auctions with affiliated private values. We then extend the results to common value settings. This 'precautionary bidding' effect arises because the expected marginal utility of income increases with risk, so bidders are reluctant to bid so highly. We show that precautionary bidding also arises in response to common values risk. This precautionary bidding behavior can make decreasingly risk-averse bidders better off when they face a 'winner's curse' than when they do not.",
-  "summary_en": null,
+  "summary_en": "What happens in auctions when the object being sold has uncertain value and bidders are risk-averse? Conventional wisdom says bidders will bid lower to compensate for the risk premium. This paper shows they go further: \"precautionary bidding\" means bidders reduce their bids by more than the risk premium, because the expected marginal utility of income rises when income is riskier. Counter-intuitively, bidders are better off bidding for a riskier object — in first-price, second-price, English, and all-pay auctions. The effect also arises in common-value settings and can make risk-averse bidders better off in winner's-curse environments. A foundational contribution to auction theory.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant to Hungarian government-auction design (privatisations, spectrum auctions, treasury-bond auctions). The result implies that when valuing something is uncertain (resource rights, new spectrum licences), bidders with risk aversion bid more cautiously than a naive risk-premium adjustment suggests; auction revenue estimates should account for this. Relevant to MNB debt-auction design and to GVH/EU-compatible infrastructure auctions. Caveat: theoretical; the quantitative size of precautionary bidding depends on bidders' risk attitudes, which must be estimated separately.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "methods",
+    "fiscal-tax"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2135053375"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2135053375",
+  "policy_instruments": [
+    "auction design (spectrum, privatisations, debt)",
+    "treasury-bond auction rules"
+  ]
 }

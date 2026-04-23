@@ -18,19 +18,26 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Abstract This article considers the effect of contracting limitations in risk-sharing networks, arising for example from observability, verifiability, complexity, or cultural constraints. We derive necessary and sufficient conditions for Pareto efficiency under these constraints in a general setting, and we provide an explicit characterization of Pareto efficient bilateral transfer profiles under CARA utility and normally distributed endowments. Our model predicts that network centrality is positively correlated with consumption volatility, as more central agents become quasi-insurance providers to more peripheral agents. The proposed framework has important implications for the empirical specification of risk-sharing tests, allowing for local risk-sharing groups that overlap within the village network.",
-  "summary_en": null,
+  "summary_en": "Informal insurance — households helping each other through bad times — is ubiquitous in developing countries and still matters in richer ones. When villagers can't observe or verify every neighbour's income, what's the best insurance arrangement? This paper analyses Pareto-efficient risk-sharing networks under limited observability, derives conditions for efficiency with CARA preferences and normal shocks, and delivers a clean prediction: more \"central\" agents in the network end up as partial insurance providers to more peripheral ones, and consequently face higher consumption volatility. The framework reshapes how empirical studies of risk-sharing should be specified.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper on risk-sharing networks; predictions are cast in a form directly usable in empirical tests on village/social-network risk-sharing data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Less directly relevant to current Hungarian policy than to empirical work on household-level risk sharing in Hungary's lower-income regions, Roma communities, or in cross-border Hungarian communities where informal transfers matter. Relevant to KRTK research on informal financial arrangements. Caveat: the model's predictions hinge on specific informational and preference assumptions; the Hungarian institutional context (formal welfare system, bank access) means informal insurance is a smaller but non-trivial part of household risk management.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "inequality-welfare",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
   "openalex_id": "W4206204398"
 }

@@ -18,19 +18,25 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This paper considers a moral hazard problem where the agent can choose any output distribution with a support in a given compact set. The agent's effort‐cost is smooth and increasing in first‐order stochastic dominance. To analyze this model, we develop a generalized notion of the first‐order approach applicable to optimization problems over measures. We demonstrate each output distribution can be implemented and identify those contracts that implement that distribution. These contracts are characterized by a simple first‐order condition for each output that equates the agent's marginal cost of changing the implemented distribution around that output with its marginal benefit. Furthermore, the agent's wage is shown to be increasing in output. Finally, we consider the problem of a profit‐maximizing principal and provide a first‐order characterization of principal‐optimal distributions.",
-  "summary_en": null,
+  "summary_en": "Standard moral-hazard models restrict the worker to pick an effort level from a line (e.g., hours worked). What if the worker can choose any probability distribution over outcomes? This paper cracks that much more general problem. It develops a technique (generalised first-order approach for optimisation over measures) that shows any target distribution can be implemented, and characterises the contracts that do it: a simple first-order condition at each output level. The worker's wage is always increasing in output. The paper also characterises the principal's optimal distributions. A technical foundation stone for modern contract theory.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Primarily theoretical and of interest for academic and contract-design research. Indirect policy relevance: frameworks of this richness underlie modern regulation-of-CEO-compensation analysis and performance-pay design in principal-agent settings (public enterprises, contractor agreements). Caveat: abstract; no direct Hungarian policy recommendation.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
   "openalex_id": "W4392848381"
 }

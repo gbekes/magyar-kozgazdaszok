@@ -19,19 +19,31 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We show how frictions and continuous transfers jointly affect equilibria in a model of matching in trading networks. Our model incorporates distortionary frictions such as transaction taxes and commissions. When contracts are fully substitutable for firms, competitive equilibria exist and coincide with outcomes that satisfy a cooperative solution concept called trail stability . However, competitive equilibria are generally neither stable nor Pareto‐efficient.",
-  "summary_en": null,
+  "summary_en": "Trading networks (think: supply chains or financial markets) involve many firms exchanging contracts with continuous monetary transfers. What happens when transactions are also taxed or commissioned? This paper builds a matching-with-frictions model that handles this case. When contracts are \"substitutable\" for firms, competitive equilibria exist and coincide with \"trail-stable\" outcomes. A sobering finding, though: competitive equilibria with frictions are typically neither stable in the usual matching-theory sense nor Pareto-efficient. This characterises when pricing distortions damage network outcomes and how deep that damage goes.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant to any Hungarian market with many-to-many contracting under taxation (supply chains facing VAT or excise taxes; financial intermediation under transaction taxes). The paper formalises why transaction taxes can cause network rearrangements that depart from efficient matching — a concern for the EU digital-services tax and financial transaction tax debates. Caveat: the model's substitutability assumption is strong and must be verified in real markets before concluding a specific Hungarian tax has these distorting effects.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "methods",
+    "fiscal-tax"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2973605867"
+  "review_status": "ai-drafted",
+  "openalex_id": "W2973605867",
+  "policy_instruments": [
+    "transaction taxes",
+    "financial-transaction tax",
+    "digital services tax"
+  ]
 }

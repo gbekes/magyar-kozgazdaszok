@@ -18,19 +18,31 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Abstract We develop a model of policy making with an endogenous bureaucracy. Parties choose platforms and ideologically differentiated citizens decide whether to enter the public sector, anticipating the platforms that they may be asked to implement. Bureaucrats prefer to work on policies closer to their ideal, and voters judge the performance of an administration taking both politicians’ and bureaucrats’ actions into account. The model provides an equilibrium framework to study the emergence of partisan or neutral bureaucracies and their consequences for government performance. It shows how bureaucratic partisanship can develop in modern civil service systems; why political polarization and bureaucratic partisanship reinforce each other; why bureaucratic neutrality is associated with competitive elections; and why partisanship lowers government efficiency and increases output fluctuations. Our results yield a number of policy implications regarding political appointments, public sector wages, seniority benefits, and recruiting measures that raise the intrinsic motivation of bureaucrats.",
-  "summary_en": null,
+  "summary_en": "Why are some civil services neutral and professional, while others are openly partisan? This paper builds a model where parties choose platforms, ideologically-motivated citizens decide whether to work in the public sector, and voters evaluate the resulting administration. The model explains several stylised facts: partisan bureaucracies emerge under polarised politics; neutral bureaucracies are associated with competitive elections; partisan civil services lower government efficiency and produce larger swings in policy output. It yields predictions for when political appointments should be extensive versus limited, and for how civil-service rules interact with electoral competition.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Very direct for Hungary. The model links political polarisation, bureaucratic partisanship, and government efficiency — a frame that maps onto ongoing debates about Hungarian civil-service reform, political appointments, and the tenure security of senior officials. Relevant to MTA/HUN-REN governance debates, public-administration reform discussions, and to any future civil-service law revision. Caveat: the model is stylised; applying it to a specific country requires mapping its parameters (polarisation, monitoring technology) to local institutions, which is an empirical project not undertaken in the paper.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "political-economy",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4294770377"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4294770377",
+  "policy_instruments": [
+    "civil service tenure rules",
+    "political-appointment scope",
+    "public-administration reform"
+  ]
 }

@@ -17,19 +17,34 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We investigate the heterogeneous boom and bust patterns across countries that emerge as a result of global shocks. Our analysis sheds light on the emergence of core and periphery countries, and the joint determination of the depth of recessions and tightness of credit markets across countries. The model implies that interest rates are similar across core and periphery countries in booms, with larger credit and output growth in periphery countries. However, a common global shock that leads to a credit crunch across the globe gives rise to a sharper spike in interest rates and a deeper recession in periphery countries, while a credit flight to the core alleviates the adverse consequences in these countries. We explore the implication of the model about credit spreads, portfolio rebalancing, investment, non-performing debt and concentration of debt ownership during booms and busts, both in the time series and in the cross-section, and connect them to existing stylized facts. We further demonstrate how the anatomy of the global economy evolves as a result of aggregate demand and supply shocks to financing, such as a global saving glut.Institutional subscribers to the NBER working paper series, and residents of developing countries may download this paper without additional charge at www.nber.org.",
-  "summary_en": null,
+  "summary_en": "Why do some countries experience deeper recessions and sharper credit crunches during global busts? This paper builds a model where global financial shocks hit differently in \"core\" and \"periphery\" economies. During booms, interest rates look similar across countries but credit and output grow faster in the periphery. During busts, a common global shock produces a sharper rate spike and deeper recession in the periphery, while a \"flight to core\" alleviates the core's pain. The paper matches a wide range of cross-country facts about credit spreads, portfolio rebalancing, investment, and debt concentration over the global business cycle.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model calibrated to cross-country macro-financial data: credit spreads, output, investment, non-performing loans, debt ownership concentration, over global booms and busts.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungary is a textbook \"periphery\" economy in this model — exposed to global credit cycles with potentially sharp recessions when flight-to-quality episodes occur (2008–09, COVID-19). Directly relevant to MNB's macroprudential policy, foreign-currency debt exposure management, and the case for capital buffers. The paper supports a systematic precautionary stance: even if a Hungarian recession is caused by a global shock, the amplitude depends on buffers built in good times. Caveat: the calibration is cross-country; Hungary-specific parameters (banking-system openness, forint regime) would change the exact quantitative prescriptions.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "methods"
+  ],
+  "methods": [
+    "structural",
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3164510034"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3164510034",
+  "policy_instruments": [
+    "macroprudential capital buffers",
+    "foreign-currency debt limits",
+    "countercyclical capital buffer"
+  ]
 }

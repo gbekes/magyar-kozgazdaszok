@@ -18,19 +18,35 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "New technologies tend to be adopted slowly and – even after being adopted – take time to be reflected in higher aggregate productivity. One prominent explanation for these patterns is the need to reorganize production, which often goes hand-in-hand with major technological breakthroughs. We study a unique setting that allows us to examine the empirical relevance of this explanation: the adoption of mechanized cotton spinning during the First Industrial Revolution in France. The new technology required reorganizing production by moving workers from their homes to the newly-formed factories. Using a novel hand-collected plant-level dataset from French archival sources, we show that productivity growth in mechanized cotton spinning was driven by the disappearance of plants in the lower tail – in contrast to other sectors that did not need to reorganize when new technologies were introduced. We provide evidence that this was driven by organizational challenges such as developing optimal plant layout. A process of ‘trial and error’ led to initially low and widely dispersed productivity, and – in the subsequent decades – to high productivity growth as knowledge diffused through the economy and new entrants adopted improved methods of organizing production.",
-  "summary_en": null,
+  "summary_en": "New technologies often take years to show up in aggregate productivity. Why? This paper shows that realising the gains usually requires reorganising production — a slow, costly transition. The empirical setting is the First Industrial Revolution in France: mechanised cotton spinning required moving workers out of their homes into the newly-formed factories. With a hand-collected plant-level dataset from French archives, the authors show that in cotton spinning, productivity growth came from the exit of low-productivity plants rather than improvements within plants. In other sectors where reorganisation was not needed, the pattern is different. Takeaway: technological breakthroughs and organisational change are inseparable.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hand-collected plant-level historical data from French archival sources during the First Industrial Revolution (early 1800s). Covers mechanised cotton spinning plus comparison sectors that did not require organisational reconfiguration. Plant-level outputs, inputs, and entry/exit.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly relevant to Hungary's productivity-catch-up strategy and AI/digitalisation policy. The paper is a warning to expect quick productivity payoffs from General Purpose Technologies (AI, Industry 4.0): the gains show up as laggard firms exit, not as broad-based improvement, and the transition takes time. For the Ministry of Economic Development, SzéChenyi programmes, and EU funds earmarked for digitalisation, this implies patience in evaluation, complementary investment in management practices and reallocation support, and not expecting technology subsidies alone to raise measured productivity quickly. Caveat: the historical French case speaks to the mechanism, not to precise Hungarian magnitudes.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "firms-productivity",
+    "innovation-digital"
+  ],
+  "methods": [
+    "panel-data",
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "FR"
+  ],
+  "data_types": [
+    "firm-level-dataset",
+    "historical"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3142620845"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3142620845",
+  "policy_instruments": [
+    "technology-adoption subsidies",
+    "Industry 4.0 programmes",
+    "reallocation and transition support"
+  ]
 }

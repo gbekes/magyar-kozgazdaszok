@@ -17,19 +17,29 @@
   "url_pdf": "https://www.econometricsociety.org/sites/default/files/ecta200180-sup-0001-onlineappendix.pdf",
   "url_replication": null,
   "abstract": "This paper considers a Principal–Agent model with hidden action in which the Principal can monitor the Agent by acquiring independent signals conditional on effort at a constant marginal cost. The Principal aims to implement a target effort level at minimal cost. The main result of the paper is that the optimal information‐acquisition strategy is a two‐threshold policy and, consequently, the equilibrium contract specifies two possible wages for the Agent. This result provides a rationale for the frequently observed single‐bonus wage contracts .",
-  "summary_en": null,
+  "summary_en": "A firm (the principal) wants to motivate a worker (the agent) to exert effort but cannot directly observe effort. It can, however, buy information (monitoring signals) at a constant marginal cost. What's the best monitoring strategy? The paper's clean answer: a two-threshold policy is optimal — gather information until it crosses one threshold, wage the agent one of two amounts depending on which side of the threshold the signal falls. Consequently, the optimal contract specifies just two possible wages — explaining why single-bonus wage contracts (hit target, get bonus; miss, don't) are so common in practice.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Primarily a foundational contribution to contract theory. Relevant to how public-sector performance-pay schemes are designed (Magyar Posta, MÁV, public-administration bonuses) and to firm compensation policy. The result rationalises simple pass/fail bonus contracts over complex performance-sensitive schemes. Caveat: the model assumes a clean effort-monitoring technology; real-world performance evaluation has idiosyncrasies, political interference, and gaming concerns that the model does not address.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3088173592"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3088173592",
+  "policy_instruments": [
+    "performance-pay design",
+    "public-sector bonus schemes"
+  ]
 }

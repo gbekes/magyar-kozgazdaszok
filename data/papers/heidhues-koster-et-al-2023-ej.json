@@ -18,19 +18,32 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Abstract Online intermediaries with information about a consumer’s tendencies often ‘steer’ her toward products she is more likely to purchase. We analyse the welfare implications of this practice for ‘fallible’ consumers, who make statistical and strategic mistakes in evaluating offers. The welfare effects depend on the nature and quality of the intermediary’s information and on properties of the consumer’s mistakes. In particular, steering based on high-quality information about the consumer’s mistakes is typically harmful, sometimes extremely so. We argue that much real-life steering is of this type, raising the scope for a broader regulation of steering practices.",
-  "summary_en": null,
+  "summary_en": "Online platforms know a lot about their users and often \"steer\" them toward certain products. When does this help consumers and when does it hurt? This paper analyses consumer welfare when consumers are \"fallible\" — they make statistical and strategic mistakes. The key insight: steering based on the platform's superior information about the consumer's mistakes (rather than about product fit) is typically harmful, sometimes extremely so. Since in practice much real-world steering uses exactly this kind of information — i.e., exploits errors rather than corrects them — the paper makes a strong theoretical case for regulation of algorithmic recommendation and personalised pricing.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Highly relevant to Hungary's implementation of the EU Digital Services Act and Digital Markets Act. The paper provides a foundation for GVH and NMHH to differentiate between \"helpful\" personalisation (recommending a product the consumer would actually like) and \"harmful\" steering (exploiting a known consumer error). Policy implication: tighter rules on steering that is information-asymmetric against the consumer — e.g. dark patterns, default-setting, price discrimination on known biases. Caveat: the paper is theoretical; empirically distinguishing the two types of steering in real Hungarian online markets is non-trivial and would require access to platform algorithms.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "innovation-digital",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL",
+    "EU"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4320886430"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4320886430",
+  "policy_instruments": [
+    "algorithmic recommendation regulation",
+    "Digital Services Act enforcement",
+    "dark-pattern rules"
+  ]
 }

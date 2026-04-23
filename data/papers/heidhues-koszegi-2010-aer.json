@@ -17,19 +17,32 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We analyze contract choices, loan-repayment behavior, and welfare in a model of a competitive credit market when borrowers have a taste for immediate gratification. Consistent with many credit cards and subprime mortgages, for most types of nonsophisticated borrowers the baseline repayment terms are cheap, but they are also inefficiently front loaded and delays require paying large penalties. Although credit is for future consumption, nonsophisticated consumers overborrow, pay the penalties, and back load repayment, suffering large welfare losses. Prohibiting large penalties for deferring small amounts of repayment—akin to recent regulations in the US credit-card and mortgage markets—can raise welfare. (JEL D14, D18, D49, D86)",
-  "summary_en": null,
+  "summary_en": "Credit cards and subprime mortgages often have cheap baseline terms but hefty penalties for late payments or missed deadlines. Why is this the equilibrium contract? This paper models a competitive credit market where some borrowers are \"naive\" about their own self-control problems. The prediction is stark: contracts offered to naive borrowers look exactly like observed real-world products — cheap front-loaded baseline rates combined with harsh penalties. Naive borrowers overborrow, get hit with penalties, and end up worse off. The paper shows that regulation capping the size of penalties for small delays (similar to recent US credit-card and mortgage reforms) can raise welfare.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data. Predictions are illustrated against features of US credit-card and subprime-mortgage contracts.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For the Hungarian retail-credit market (consumer lending, mortgage lending) and MNB consumer protection: the paper provides a welfare rationale for caps on penalty fees, late-payment surcharges, and deferred-interest traps. Particularly relevant to the Hungarian mortgage history (FX-mortgage crisis) and to ongoing supervision of retail consumer credit. Caveat: the evidence is US-based; Hungarian contract structures differ, and the behavioural prevalence of self-control problems in Hungarian consumer-credit populations should be measured empirically before calibrating caps.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "banking-finance",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "US",
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W1975296756"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W1975296756",
+  "policy_instruments": [
+    "penalty-fee caps",
+    "credit-card fee regulation",
+    "mortgage late-charge caps"
+  ]
 }

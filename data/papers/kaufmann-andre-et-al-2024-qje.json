@@ -18,19 +18,35 @@
   "url_pdf": "https://academic.oup.com/qje/advance-article-pdf/doi/10.1093/qje/qjae009/57008669/qjae009.pdf",
   "url_replication": null,
   "abstract": "Abstract Many consumers care about climate change and other externalities associated with their purchases. We analyze the behavior and market effects of such “socially responsible consumers” in three parts. First, we develop a flexible theoretical framework to study competitive equilibria with rational consequentialist consumers. In violation of price taking, equilibrium feedback nontrivially dampens the impact of a person’s consumption on aggregate consumption, undermining the motive to mitigate. This leads to a new type of market failure, where even consumers who fully “internalize the externality” overconsume externality-generating goods. At the same time, socially responsible consumers change the relative effectiveness of taxes, caps, and other policies in lowering the externality. Second, since consumer beliefs about and preferences over their market impacts play a crucial role in our framework, we investigate them empirically via a tailored survey. Consistent with our model, consumers are often consequentialist, and many believe that they have a dampened impact on aggregate consumption. Inconsistent with our model, however, we also find many respondents who expect to have a one-to-one impact on aggregate consumption. Third, therefore, we analyze how such “naive” consumers modify our theoretical conclusions. They consume less than rational consumers in a single-good economy, but may consume more in a multigood economy with cross-market spillovers. A mix of naive and rational consumers may yield the worst outcomes.",
-  "summary_en": null,
+  "summary_en": "When consumers care about climate change or other externalities their purchases cause, do markets work better? This paper argues the answer is nuanced. Even consumers who fully \"internalise the externality\" end up consuming too much, because equilibrium price feedback dampens each person's perceived impact on the aggregate — a new type of market failure the authors call equilibrium dampening. A tailored consumer survey confirms that real consumers form beliefs consistent with the model. The result: ethical consumption helps, but it changes (does not substitute for) the role of carbon taxes and caps. In particular, the relative effectiveness of tax-based versus quantity-based instruments shifts.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical framework of competitive equilibrium with rational-consequentialist consumers, plus a tailored survey of consumer beliefs about their personal impact on aggregate externalities and preferences over that impact.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungary's climate policy (EU ETS, carbon-intensive sector regulation, energy taxes) the paper cautions against over-reliance on voluntary green consumption — even well-intentioned consumers will systematically under-abate once market feedback is accounted for. Relevant to ITM's climate strategy and policy mix choice: the socially-responsible share of consumers makes the choice between carbon taxes and emission caps non-trivial. Caveat: magnitudes come from a US survey; Hungarian consumer preferences about climate responsibility likely differ and would need their own elicitation before quantitative policy calibration.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "energy-environment",
+    "methods"
+  ],
+  "methods": [
+    "theory",
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
+  "data_types": [
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4392934796"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4392934796",
+  "policy_instruments": [
+    "carbon tax",
+    "emission caps",
+    "green labelling",
+    "climate policy mix"
+  ]
 }
