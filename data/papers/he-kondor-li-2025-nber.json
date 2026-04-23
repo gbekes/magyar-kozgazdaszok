@@ -1,0 +1,49 @@
+{
+  "id": "he-kondor-li-2025-nber",
+  "title": "Demand Elasticity in Dynamic Asset Pricing",
+  "authors": [
+    "Zhiguo He",
+    "kondor-peter",
+    "Jessica Li"
+  ],
+  "publication_type": "working_paper",
+  "journal": null,
+  "year": 2025,
+  "volume": null,
+  "issue": null,
+  "pages": null,
+  "doi": "10.3386/w34450",
+  "working_paper_series": "NBER",
+  "url_published": "https://doi.org/10.3386/w34450",
+  "url_pdf": "https://www.nber.org/papers/w34450",
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "How much does investor demand move asset prices? Recent work has argued that demand elasticities are surprisingly low, implying that small shifts in who wants to hold what can cause large price movements. This paper embeds demand-elasticity estimation in a dynamic model of asset pricing and asks what it means for inferring the structure of financial markets. The key insight: once dynamics are handled correctly, demand elasticity becomes a time- and state-dependent object, not a single number. The paper develops identification arguments and illustrates with US stock-market data, showing the dynamic framework reconciles several puzzling empirical findings from the static literature.",
+  "data_used": "Theoretical dynamic model of asset pricing with investor demand. Illustrative empirical application to US stock-market data.",
+  "policy_relevance": "Directly relevant to MNB financial-stability analysis and to Hungarian pension-fund / insurance-company asset-allocation regulation. The paper's key insight — that demand elasticities move over time — means that static estimates of 'price impact' of forced liquidations (e.g., in a bank resolution or pension reform) can be misleading. Supports dynamic stress-testing frameworks and careful analysis of how forced-trading regulation interacts with market liquidity. Caveat: theoretical/US-data paper; operational Hungarian applications would require domestic-market calibration.",
+  "topics": [
+    "banking-finance",
+    "macroeconomics",
+    "methods"
+  ],
+  "methods": [
+    "structural",
+    "theory"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "policy_instruments": [
+    "macroprudential stress testing",
+    "forced-trading regulation",
+    "pension-fund regulation"
+  ],
+  "featured": false,
+  "added_at": "2026-04-23",
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": null
+}

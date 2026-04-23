@@ -199,7 +199,7 @@
       "qualifying_publication": null,
       "review_status": "confident",
       "openalex_id": "A5017880363",
-      "paper_count": 15
+      "paper_count": 17
     },
     {
       "id": "bencsik-panka",
@@ -1363,7 +1363,7 @@
       "qualifying_publication": null,
       "review_status": "confident",
       "openalex_id": "A5005619956",
-      "paper_count": 14
+      "paper_count": 15
     },
     {
       "id": "konya-istvan",
@@ -1439,7 +1439,7 @@
       "qualifying_publication": null,
       "review_status": "confident",
       "openalex_id": "A5066597415",
-      "paper_count": 12
+      "paper_count": 14
     },
     {
       "id": "kornai-janos",
@@ -2300,7 +2300,7 @@
       "qualifying_publication": null,
       "review_status": "confident",
       "openalex_id": "A5042196310",
-      "paper_count": 18
+      "paper_count": 19
     },
     {
       "id": "tobias-aron",
@@ -6362,6 +6362,55 @@
       ]
     },
     {
+      "id": "bekes-bonfiglioli-et-al-2025-cepr-integrators",
+      "title": "Integrators and Robot Adoption: Facts from Hungary",
+      "authors": [
+        "bekes-gabor",
+        "Alessandra Bonfiglioli",
+        "Rosario Crinò",
+        "Gino Gancia"
+      ],
+      "publication_type": "working_paper",
+      "journal": null,
+      "year": 2025,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": null,
+      "working_paper_series": "CEPR",
+      "url_published": "https://cepr.org/publications/dp20026",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "Industrial robot adoption among firms is uneven and often depends on intermediaries ('integrators') who handle configuration, installation, and maintenance. Using Hungarian firm-level administrative data on robot adoption and buyer-supplier networks, the paper documents a set of empirical facts about integrators: who they are, which firms they serve, and how integrators' capabilities map to their clients' adoption patterns. The facts help explain why robot adoption in Hungary is concentrated in firms with particular supply-chain positions and suggest that the 'integrator' layer is an under-appreciated margin for industrial-policy design.",
+      "summary_en": "Industrial robots don't spread randomly across firms — the adoption process depends crucially on intermediaries called \"integrators\" who install, configure, and maintain them. This paper uses Hungarian firm-level administrative data to document empirical facts about the integrator layer: who plays the role, which firms get served, and how integrators' capabilities map to their clients' robot-adoption patterns. The result is a cleaner empirical picture of why robot adoption is concentrated in particular firm segments — and why industrial policy aiming at robotisation should pay attention to the integrator ecosystem, not just to robot-buying firms.",
+      "data_used": "Hungarian administrative firm-level data on robot purchases and installation services. Buyer-supplier network data linking adopters to integrator firms. Multiple years of recent data.",
+      "policy_relevance": "Directly relevant to Hungarian industrial-policy design (NGM, Ministry of Economy) and to robot-adoption subsidy programmes (e.g., GINOP / EU cohesion fund schemes). The paper suggests that policy should support integrators as the bottleneck, not only robot-buying firms. Relevant to Ministry of Economy, regional-development agencies, and the evaluation of existing robot-subsidy programmes. Caveat: Hungarian-specific evidence; the exact integrator-ecosystem structure may differ in other EU countries.",
+      "topics": [
+        "innovation-digital",
+        "firms-productivity",
+        "industrial-organization"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "data_types": [
+        "admin-firm"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "policy_instruments": [
+        "robot-adoption subsidies",
+        "industrial-policy design for integrators",
+        "GINOP programme targeting"
+      ],
+      "featured": false,
+      "added_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": null
+    },
+    {
       "id": "bekes-borza-et-al-2024-ei",
       "title": "Favoritism under multiple sources of social pressure",
       "authors": [
@@ -6652,6 +6701,56 @@
         "HIPA támogatások",
         "absorptive capacity subsidies"
       ]
+    },
+    {
+      "id": "bekes-koren-et-al-2025-cepr-vibecoding",
+      "title": "Vibe Coding Kills Open Source",
+      "authors": [
+        "bekes-gabor",
+        "koren-miklos",
+        "Julian Hinz",
+        "Aaron Lohmann"
+      ],
+      "publication_type": "working_paper",
+      "journal": null,
+      "year": 2025,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": "10.48550/arxiv.2601.15494",
+      "working_paper_series": "CEPR",
+      "url_published": "https://cepr.org/publications/dp21145",
+      "url_pdf": "https://arxiv.org/abs/2601.15494",
+      "url_replication": null,
+      "abstract": "Generative AI coding tools (\"vibe coding\") produce working software faster than humans — but are the resulting code contributions of the same kind, and do they feed back into the open-source ecosystem the way human-written code does? Using large-scale GitHub data, the paper analyses how AI-assisted coding affects open-source sustainability: who contributes, what code looks like, and whether maintenance and community dynamics change. The authors argue that heavy reliance on generative coding tools undermines the human-capital flows that have kept the open-source commons productive, with implications for the AI / software ecosystem going forward.",
+      "summary_en": "Generative AI code assistants are rapidly changing how software gets written. This paper asks whether the shift is compatible with the ongoing vitality of the open-source software ecosystem. Using large-scale GitHub data, the authors show that \"vibe coding\" — using AI tools to produce working code quickly — is distinct in contribution patterns, code structure, and community dynamics from traditionally human-written code. The worry is that heavy reliance on AI coding tools starves open source of the human-capital flows (apprenticeship, mentorship, iterative review) that have historically kept it productive. A timely empirical contribution to the economics of AI and the digital commons.",
+      "data_used": "GitHub commit and contribution data at large scale, covering the period of generative-AI coding-tool adoption. Likely tens of millions of commits across many repositories.",
+      "policy_relevance": "Directly relevant to Hungarian AI and digital-economy policy (NGM, NRDI Office, Ministry of Innovation): if AI tools are substituting for — rather than complementing — human contributors in open-source, then policies that simply subsidise AI adoption risk long-run damage to the software-commons. Relevant to Hungarian open-source strategy, CS education planning, and evaluation of AI-productivity claims. Caveat: early evidence; longer-run ecosystem response may differ from what current GitHub traces show.",
+      "topics": [
+        "innovation-digital",
+        "firms-productivity",
+        "behavioral"
+      ],
+      "methods": [
+        "panel-data",
+        "ml-text"
+      ],
+      "data_types": [
+        "digital-trace"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
+      "policy_instruments": [
+        "AI-policy and commons sustainability",
+        "open-source strategy",
+        "CS education planning"
+      ],
+      "featured": false,
+      "added_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": null
     },
     {
       "id": "bekes-murakozy-2012-jie",
@@ -17352,6 +17451,55 @@
       ]
     },
     {
+      "id": "he-kondor-li-2025-nber",
+      "title": "Demand Elasticity in Dynamic Asset Pricing",
+      "authors": [
+        "Zhiguo He",
+        "kondor-peter",
+        "Jessica Li"
+      ],
+      "publication_type": "working_paper",
+      "journal": null,
+      "year": 2025,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": "10.3386/w34450",
+      "working_paper_series": "NBER",
+      "url_published": "https://doi.org/10.3386/w34450",
+      "url_pdf": "https://www.nber.org/papers/w34450",
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "How much does investor demand move asset prices? Recent work has argued that demand elasticities are surprisingly low, implying that small shifts in who wants to hold what can cause large price movements. This paper embeds demand-elasticity estimation in a dynamic model of asset pricing and asks what it means for inferring the structure of financial markets. The key insight: once dynamics are handled correctly, demand elasticity becomes a time- and state-dependent object, not a single number. The paper develops identification arguments and illustrates with US stock-market data, showing the dynamic framework reconciles several puzzling empirical findings from the static literature.",
+      "data_used": "Theoretical dynamic model of asset pricing with investor demand. Illustrative empirical application to US stock-market data.",
+      "policy_relevance": "Directly relevant to MNB financial-stability analysis and to Hungarian pension-fund / insurance-company asset-allocation regulation. The paper's key insight — that demand elasticities move over time — means that static estimates of 'price impact' of forced liquidations (e.g., in a bank resolution or pension reform) can be misleading. Supports dynamic stress-testing frameworks and careful analysis of how forced-trading regulation interacts with market liquidity. Caveat: theoretical/US-data paper; operational Hungarian applications would require domestic-market calibration.",
+      "topics": [
+        "banking-finance",
+        "macroeconomics",
+        "methods"
+      ],
+      "methods": [
+        "structural",
+        "theory"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "policy_instruments": [
+        "macroprudential stress testing",
+        "forced-trading regulation",
+        "pension-fund regulation"
+      ],
+      "featured": false,
+      "added_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": null
+    },
+    {
       "id": "heidhues-johnen-et-al-2020-restud",
       "title": "Browsing versus Studying: A Pro-market Case for Regulation",
       "authors": [
@@ -22334,6 +22482,55 @@
       "last_reviewed_at": "2026-04-22",
       "review_status": "metadata-fetched",
       "openalex_id": "W4399366508"
+    },
+    {
+      "id": "koren-telegdy-2024-cesifo",
+      "title": "Expatriate Managers: Effects on Firm Performance",
+      "authors": [
+        "koren-miklos",
+        "telegdy-almos"
+      ],
+      "publication_type": "working_paper",
+      "journal": null,
+      "year": 2024,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": null,
+      "working_paper_series": "CESifo",
+      "url_published": "https://www.ifo.de/DocDL/cesifo1_wp11164.pdf",
+      "url_pdf": "https://www.ifo.de/DocDL/cesifo1_wp11164.pdf",
+      "url_replication": null,
+      "abstract": "Analyses the effect of hiring expatriate CEOs on Hungarian firm performance. By using foreign acquisitions where new owners replaced incumbent CEOs with either expatriate or local leaders, the authors address selection bias in both acquisition and hiring decisions. Firms led by expatriate CEOs show 13% TFP growth and 95% sales growth, boosting both export and domestic sales. Suggests expatriate CEOs carry managerial capabilities that matter for firm performance, beyond what foreign ownership alone contributes.",
+      "summary_en": "When a foreign firm acquires a Hungarian company, does it matter whether they send an expatriate CEO or hire a Hungarian one? This paper uses Hungarian administrative data on foreign acquisitions to estimate the causal effect of expatriate versus local CEO hires. The identification exploits that acquisition decisions and CEO choices are joint — comparing firms with similar pre-acquisition trajectories, differing only in CEO nationality. Result: firms led by expatriate CEOs show 13% higher TFP growth and 95% higher sales growth over the post-acquisition window. The expatriate advantage holds for both export and domestic sales. Managerial capability, not just foreign ownership per se, appears to be the binding constraint.",
+      "data_used": "Hungarian administrative firm-level data on foreign acquisitions, matched with CEO identity (expatriate versus local). Covers multiple acquisition years. Outcome variables: TFP, sales, exports, employment.",
+      "policy_relevance": "Directly relevant to Hungarian FDI-attraction and labour-mobility policy (HEPA, ITM). If the value of FDI comes substantially through expatriate managerial capability, then policies should recognise and not inadvertently restrict expatriate-executive mobility (work permits, tax treatment). Relevant to discussions of 'skilled-worker' immigration policy and to evaluation of foreign-ownership productivity claims. Caveat: identification compares acquisitions with different CEO choices; some selection on unobserved firm characteristics may remain.",
+      "topics": [
+        "trade-fdi",
+        "firms-productivity",
+        "labor-markets"
+      ],
+      "methods": [
+        "diff-in-diff",
+        "panel-data"
+      ],
+      "data_types": [
+        "admin-firm",
+        "admin-individual"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "policy_instruments": [
+        "skilled-worker immigration policy",
+        "expatriate work-permit rules",
+        "FDI-attraction strategy"
+      ],
+      "featured": false,
+      "added_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": null
     },
     {
       "id": "koren-tenreyro-2007-qje",
@@ -29250,7 +29447,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 49
+      "paper_count": 50
     },
     {
       "id": "education-skills",
@@ -29294,7 +29491,7 @@
       "policy_framing_en": "Relevant to: EU trade policy, FDI promotion, export promotion, supply chain resilience, industrial policy.",
       "policy_framing_hu": "Releváns: EU kereskedelempolitika, FDI ösztönzés, exporttámogatás, ellátási láncok rugalmassága, iparpolitika.",
       "icon": "globe",
-      "paper_count": 38
+      "paper_count": 39
     },
     {
       "id": "firms-productivity",
@@ -29305,7 +29502,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 70
+      "paper_count": 73
     },
     {
       "id": "innovation-digital",
@@ -29316,7 +29513,7 @@
       "policy_framing_en": "Relevant to: R&D tax credits, digital strategy, AI policy, innovation agency design, university–industry linkages.",
       "policy_framing_hu": "Releváns: K+F adókedvezmények, digitális stratégia, MI-politika, innovációs ügynökségek, egyetem–ipar kapcsolatok.",
       "icon": "cpu",
-      "paper_count": 26
+      "paper_count": 28
     },
     {
       "id": "banking-finance",
@@ -29327,7 +29524,7 @@
       "policy_framing_en": "Relevant to: MNB policy, banking regulation, macroprudential tools, financial inclusion.",
       "policy_framing_hu": "Releváns: MNB-politika, bankszabályozás, makroprudenciális eszközök, pénzügyi befogadás.",
       "icon": "landmark",
-      "paper_count": 52
+      "paper_count": 53
     },
     {
       "id": "fiscal-tax",
@@ -29404,7 +29601,7 @@
       "policy_framing_en": "Relevant to: consumer protection, pension-default design, nudging, financial-education regulation, addictive-product regulation.",
       "policy_framing_hu": "Releváns: fogyasztóvédelem, nyugdíjalap-alapbeállítások, döntéslendítés (nudge), pénzügyi edukáció szabályozása, függőséget okozó termékek szabályozása.",
       "icon": "brain",
-      "paper_count": 43
+      "paper_count": 44
     },
     {
       "id": "industrial-organization",
@@ -29415,7 +29612,7 @@
       "policy_framing_en": "Relevant to: competition policy (GVH), merger review, platform regulation, auction design, sector-specific regulation.",
       "policy_framing_hu": "Releváns: versenypolitika (GVH), fúziókontroll, platformszabályozás, aukciótervezés, ágazati szabályozás.",
       "icon": "network",
-      "paper_count": 27
+      "paper_count": 28
     },
     {
       "id": "macroeconomics",
@@ -29426,7 +29623,7 @@
       "policy_framing_en": "Relevant to: long-run growth forecasting, macroeconomic modelling, sovereign-debt management, stabilisation policy design.",
       "policy_framing_hu": "Releváns: hosszú távú növekedés előrejelzés, makroökonómiai modellek, államadósság-kezelés, stabilizációs politika.",
       "icon": "line-chart",
-      "paper_count": 23
+      "paper_count": 24
     },
     {
       "id": "agriculture-food",
@@ -29448,7 +29645,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 87
+      "paper_count": 88
     }
   ],
   "journals": [
@@ -30571,7 +30768,7 @@
   ],
   "counts": {
     "authors": 76,
-    "papers": 635,
+    "papers": 639,
     "topics": 19
   }
 }

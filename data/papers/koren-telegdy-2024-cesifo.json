@@ -1,0 +1,49 @@
+{
+  "id": "koren-telegdy-2024-cesifo",
+  "title": "Expatriate Managers: Effects on Firm Performance",
+  "authors": [
+    "koren-miklos",
+    "telegdy-almos"
+  ],
+  "publication_type": "working_paper",
+  "journal": null,
+  "year": 2024,
+  "volume": null,
+  "issue": null,
+  "pages": null,
+  "doi": null,
+  "working_paper_series": "CESifo",
+  "url_published": "https://www.ifo.de/DocDL/cesifo1_wp11164.pdf",
+  "url_pdf": "https://www.ifo.de/DocDL/cesifo1_wp11164.pdf",
+  "url_replication": null,
+  "abstract": "Analyses the effect of hiring expatriate CEOs on Hungarian firm performance. By using foreign acquisitions where new owners replaced incumbent CEOs with either expatriate or local leaders, the authors address selection bias in both acquisition and hiring decisions. Firms led by expatriate CEOs show 13% TFP growth and 95% sales growth, boosting both export and domestic sales. Suggests expatriate CEOs carry managerial capabilities that matter for firm performance, beyond what foreign ownership alone contributes.",
+  "summary_en": "When a foreign firm acquires a Hungarian company, does it matter whether they send an expatriate CEO or hire a Hungarian one? This paper uses Hungarian administrative data on foreign acquisitions to estimate the causal effect of expatriate versus local CEO hires. The identification exploits that acquisition decisions and CEO choices are joint — comparing firms with similar pre-acquisition trajectories, differing only in CEO nationality. Result: firms led by expatriate CEOs show 13% higher TFP growth and 95% higher sales growth over the post-acquisition window. The expatriate advantage holds for both export and domestic sales. Managerial capability, not just foreign ownership per se, appears to be the binding constraint.",
+  "data_used": "Hungarian administrative firm-level data on foreign acquisitions, matched with CEO identity (expatriate versus local). Covers multiple acquisition years. Outcome variables: TFP, sales, exports, employment.",
+  "policy_relevance": "Directly relevant to Hungarian FDI-attraction and labour-mobility policy (HEPA, ITM). If the value of FDI comes substantially through expatriate managerial capability, then policies should recognise and not inadvertently restrict expatriate-executive mobility (work permits, tax treatment). Relevant to discussions of 'skilled-worker' immigration policy and to evaluation of foreign-ownership productivity claims. Caveat: identification compares acquisitions with different CEO choices; some selection on unobserved firm characteristics may remain.",
+  "topics": [
+    "trade-fdi",
+    "firms-productivity",
+    "labor-markets"
+  ],
+  "methods": [
+    "diff-in-diff",
+    "panel-data"
+  ],
+  "data_types": [
+    "admin-firm",
+    "admin-individual"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "policy_instruments": [
+    "skilled-worker immigration policy",
+    "expatriate work-permit rules",
+    "FDI-attraction strategy"
+  ],
+  "featured": false,
+  "added_at": "2026-04-23",
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": null
+}

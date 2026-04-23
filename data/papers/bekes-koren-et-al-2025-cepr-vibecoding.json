@@ -1,0 +1,50 @@
+{
+  "id": "bekes-koren-et-al-2025-cepr-vibecoding",
+  "title": "Vibe Coding Kills Open Source",
+  "authors": [
+    "bekes-gabor",
+    "koren-miklos",
+    "Julian Hinz",
+    "Aaron Lohmann"
+  ],
+  "publication_type": "working_paper",
+  "journal": null,
+  "year": 2025,
+  "volume": null,
+  "issue": null,
+  "pages": null,
+  "doi": "10.48550/arxiv.2601.15494",
+  "working_paper_series": "CEPR",
+  "url_published": "https://cepr.org/publications/dp21145",
+  "url_pdf": "https://arxiv.org/abs/2601.15494",
+  "url_replication": null,
+  "abstract": "Generative AI coding tools (\"vibe coding\") produce working software faster than humans — but are the resulting code contributions of the same kind, and do they feed back into the open-source ecosystem the way human-written code does? Using large-scale GitHub data, the paper analyses how AI-assisted coding affects open-source sustainability: who contributes, what code looks like, and whether maintenance and community dynamics change. The authors argue that heavy reliance on generative coding tools undermines the human-capital flows that have kept the open-source commons productive, with implications for the AI / software ecosystem going forward.",
+  "summary_en": "Generative AI code assistants are rapidly changing how software gets written. This paper asks whether the shift is compatible with the ongoing vitality of the open-source software ecosystem. Using large-scale GitHub data, the authors show that \"vibe coding\" — using AI tools to produce working code quickly — is distinct in contribution patterns, code structure, and community dynamics from traditionally human-written code. The worry is that heavy reliance on AI coding tools starves open source of the human-capital flows (apprenticeship, mentorship, iterative review) that have historically kept it productive. A timely empirical contribution to the economics of AI and the digital commons.",
+  "data_used": "GitHub commit and contribution data at large scale, covering the period of generative-AI coding-tool adoption. Likely tens of millions of commits across many repositories.",
+  "policy_relevance": "Directly relevant to Hungarian AI and digital-economy policy (NGM, NRDI Office, Ministry of Innovation): if AI tools are substituting for — rather than complementing — human contributors in open-source, then policies that simply subsidise AI adoption risk long-run damage to the software-commons. Relevant to Hungarian open-source strategy, CS education planning, and evaluation of AI-productivity claims. Caveat: early evidence; longer-run ecosystem response may differ from what current GitHub traces show.",
+  "topics": [
+    "innovation-digital",
+    "firms-productivity",
+    "behavioral"
+  ],
+  "methods": [
+    "panel-data",
+    "ml-text"
+  ],
+  "data_types": [
+    "digital-trace"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
+  "policy_instruments": [
+    "AI-policy and commons sustainability",
+    "open-source strategy",
+    "CS education planning"
+  ],
+  "featured": false,
+  "added_at": "2026-04-23",
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": null
+}
