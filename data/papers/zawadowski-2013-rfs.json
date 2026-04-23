@@ -16,19 +16,32 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "I model an entangled financial system in which banks hedge their portfolio risks using over-the-counter (OTC) contracts. However, banks choose not to hedge counterparty risk, and thus the idiosyncratic failure of a bank can lead to a systemic run of lenders. An inefficiency arises because banks engage in a version of risk shifting through the network externalities created by OTC contracts. Banks do not take into account that the costly hedging of low-probability counterparty risk also benefits other banks. In the model, it is welfare improving to tax OTC contracts to finance a bailout fund. The Author 2013. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please e-mail: journals.permissions@oup.com., Oxford University Press.",
-  "summary_en": null,
+  "summary_en": "When banks use over-the-counter (OTC) derivatives to hedge portfolio risks, they create a dense web of counterparty exposures. This paper shows that even if each bank hedges its own portfolio, banks choose not to hedge counterparty risk — leading to systemic vulnerability. The idiosyncratic failure of one bank can trigger a lender run that sweeps through the network. An inefficiency arises because banks don't internalise the externality that costly counterparty hedging benefits others. The paper shows that taxing OTC contracts to finance a bailout fund is welfare-improving. A compact theoretical foundation for post-2008 macroprudential regulation.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data. Directly motivated by 2008 financial-crisis OTC counterparty-risk patterns.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Foundational for Hungarian macroprudential policy (MNB). The paper's welfare case for OTC derivative taxation and explicit bailout-fund pre-financing maps directly onto EU regulation (EMIR, BRRD, resolution funds). Supports MNB's stance on concentrated counterparty risk and on pre-funded resolution mechanisms. Caveat: the model is stylised; Hungarian banking concentration and EU resolution-fund design set the quantitative context.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "banking-finance",
+    "methods",
+    "macroeconomics"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-21",
-  "last_reviewed_at": "2026-04-21",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3122202772"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3122202772",
+  "policy_instruments": [
+    "OTC derivative taxation",
+    "bank-resolution fund pre-financing",
+    "counterparty-risk capital surcharge"
+  ]
 }

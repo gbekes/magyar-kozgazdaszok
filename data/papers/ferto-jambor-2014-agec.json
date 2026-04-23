@@ -17,19 +17,33 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This article investigates the drivers of vertical intra-industry trade (VIIT) in Hungarian agri-food trade with the European Union (EU). It identifies three possible ways to measure intra-industry trade (IIT) flows (GHM, FF, and N methods) and defines six hypotheses to test for the drivers of VIIT with three panel data models (static, dynamic, and FEVD). The results suggest that factor endowments are negatively, while economic size is positively and significantly related to VIIT. Distance and VIIT were found to be negatively related as is commonly the case in the standard gravity model. It was also found that VIIT is greater if a New Member State (NMS) is exporting agri-food produce to an NMS, while EU accession has ambiguously influenced the share of VIIT. In general, it seems that our results are independent from model estimations and interestingly they do not differ considerably as we a priori expected. Moreover, our results seem surprisingly robust across various measurements of ITT.",
-  "summary_en": null,
+  "summary_en": "Vertical intra-industry trade (exporting and importing goods of different quality within the same product category) is economically informative: it reflects product differentiation and specialisation. This paper asks what drives vertical IIT in Hungarian agri-food trade with the EU. Three drivers matter: factor endowments (negative), economic size (positive), and distance (negative — consistent with gravity-model intuitions). New-member-state exports to other new-member-states show higher vertical IIT shares, and EU accession had an ambiguous effect. A careful empirical portrait of trade-in-variety in Hungarian agri-food.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian agri-food trade data with EU partners. Multiple IIT measurement methods (GHM, FF, N) tested. Panel-data models (static, dynamic, FEVD).",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant to Hungarian agri-food export policy and to EU new-member-state trade-policy debates. The paper's message: trade in differentiated agri-food products is sensitive to distance and partner-country size — supporting Hungary's focus on regional markets (V4, Balkans) for specialised exports. Relevant to HEPA and NAK export strategy. Caveat: pre-2014 data; product differentiation and quality upgrading have continued.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "agriculture-food",
+    "trade-fdi"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU",
+    "EU"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W1988094262"
+  "review_status": "ai-drafted",
+  "openalex_id": "W1988094262",
+  "policy_instruments": [
+    "product-quality upgrading",
+    "V4 regional trade strategy"
+  ]
 }

@@ -17,19 +17,30 @@
   "url_pdf": "https://www.tandfonline.com/doi/pdf/10.1080/00036846.2022.2039370?needAccess=true",
   "url_replication": null,
   "abstract": "The aim of this article is to examine the factors that determine the durability of Olympic success at seven consecutive Summer Games between 1996 and 2021, employing survival analysis. It is assumed that factors similar to those that influence the durability of Olympic success also influence the likelihood of winning Olympic medals. We examine the durability of Olympic success at the level of sports for all medals, and for each type of medal. Our results suggest that a country can maintain its performance in a sport for an average of 2.1 Olympic Games. The Kaplan-Meier survival function shows that about 85% of spells fail after a single Games The GDP, host country, Communist past, the number of medals in a sport and the duration of preceding medal winning period are associated with successive medal-winning. Population size and the number of previous discontinuous medal wins decrease duration of Olympic success.",
-  "summary_en": null,
+  "summary_en": "How long does a country's success in an Olympic sport last? This paper applies survival analysis to Olympic medals across the seven Summer Games 1996–2021 to answer the question. Average spell: 2.1 Olympic Games; 85% of spells fail after a single Games. Factors that lengthen success: GDP, host-country advantage, communist past, number of medals in the sport, and duration of the preceding medal streak. A nice methodological application of hazard analysis to sports economics.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Olympic medals data across seven Summer Games 1996–2021 by country and sport. Survival analysis (Kaplan-Meier and Cox proportional hazards).",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Indirect policy relevance — to Hungarian sports-funding policy (EMMI) and Olympic-preparation strategy. The paper suggests that investing in sports where Hungary has established medal streaks is more likely to yield sustained success than diversifying across sports. Caveat: sports-economics paper; policy implications are narrow.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "time-series"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4221094049"
+  "review_status": "ai-drafted",
+  "openalex_id": "W4221094049",
+  "policy_instruments": [
+    "Olympic-sport funding concentration"
+  ]
 }

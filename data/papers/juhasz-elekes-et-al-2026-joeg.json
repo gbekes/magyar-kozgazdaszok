@@ -19,19 +19,34 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Abstract Firms in industry clusters benefit from locating close to suppliers and customers. However, the pervasiveness of global value chains questions the need for co-location in buyer–supplier relationships. We propose that supply-chain partners are more likely to co-locate if they exchange not only goods but also know-how, implying superadditivity of Marshallian agglomeration channels. We test this in a coagglomeration framework using microdata for Hungary—a small, open economy deeply embedded in global value chains—examining co-location, labor flows, and value chains between firms and industries. We find that supply chains foster co-location primarily among firms in skill-related industries.",
-  "summary_en": null,
+  "summary_en": "Why do firms in industry clusters benefit from being near their suppliers and customers? The textbook answer points to goods flows. This paper argues it's also about know-how flows. If supply-chain partners exchange not just inputs but tacit knowledge, their benefits from co-locating should be larger than Marshallian theory suggests. Using Hungarian microdata on co-location, labour flows, and firm-to-firm value chains, the authors test the prediction. Finding: supply chains foster co-location primarily among firms in skill-related industries — confirming the know-how channel. A cleaner empirical framework for thinking about industrial-cluster policy.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian administrative microdata on firms: inter-firm value-chain relationships, labour mobility between firms, firm-level co-location. Covers firms across all industries in Hungary.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly relevant to Hungarian regional-development and industrial-policy design (ITM, local governments). The paper supports cluster-support policies that prioritize skill-related industries and recognise know-how transfer as a distinct benefit of co-location. Relevant to EU cohesion-fund targeting and to Hungarian special-economic-zone policy. Caveat: the data are recent and Hungarian; the skill-relatedness channel's strength in other settings may vary.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "regional-urban",
+    "firms-productivity",
+    "innovation-digital"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W7129109926"
+  "review_status": "ai-drafted",
+  "openalex_id": "W7129109926",
+  "policy_instruments": [
+    "industrial-cluster policy",
+    "special-economic-zone design",
+    "EU cohesion targeting"
+  ]
 }

@@ -17,19 +17,30 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This paper extends the model of risk sharing with limited commitment to feature separation. Partners face idiosyncratic income and match quality shocks, share risk subject to limited commitment, and separate whenever they are better off doing so. We characterise analytically the sets of shock realisations where constrained-efficient separations occur and the dynamics of consumption while the risk-sharing partnership continues. The separation probability typically jumps as parameter values change continuously, and an additional inefficient equilibrium emerges. A key reason is complementarity between risk sharing and staying together today and in the future. Income inequality affects consumption inequality via its effect on separations, and consumption inequality can optimally exceed income inequality for any history of income realisations. Both partial risk sharing and separation are relevant for many applications, including the interaction between partners in a household and countries in an economic union.",
-  "summary_en": null,
+  "summary_en": "When couples share risk but can also separate, the decision to stay together shapes consumption outcomes. This paper extends risk-sharing-with-limited-commitment models to include separation. Partners face income and match-quality shocks, share risk under limited commitment, and separate when it's mutually better. The paper characterises where constrained-efficient separations occur and shows the separation probability can jump discontinuously with small parameter changes — an inefficient equilibrium emerges. Key insight: complementarity between risk sharing and continuing the partnership makes income inequality translate into consumption inequality through the separation channel.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant to Hungarian family-policy and pension-design analysis: the paper formalises how household-level risk-sharing arrangements matter for consumption inequality. Relevant to family-tax design (családi adókedvezmény) and to divorce-law implications for consumption inequality. Caveat: theoretical; specific Hungarian policy calibration would need empirical parameterisation of household shocks and match quality.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "inequality-welfare",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4396974321"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4396974321",
+  "policy_instruments": [
+    "family-tax policy",
+    "divorce-law economic provisions"
+  ]
 }

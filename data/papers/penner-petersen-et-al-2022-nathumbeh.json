@@ -44,19 +44,38 @@
   "url_pdf": "https://www.nature.com/articles/s41562-022-01470-z.pdf",
   "url_replication": null,
   "abstract": "Extant research on the gender pay gap suggests that men and women who do the same work for the same employer receive similar pay, so that processes sorting people into jobs are thought to account for the vast majority of the pay gap. Data that can identify women and men who do the same work for the same employer are rare, and research informing this crucial aspect of gender differences in pay is several decades old and from a limited number of countries. Here, using recent linked employer-employee data from 15 countries, we show that the processes sorting people into different jobs account for substantially less of the gender pay differences than was previously believed and that within-job pay differences remain consequential.",
-  "summary_en": null,
+  "summary_en": "The standard story about the gender pay gap has been: within the same job, men and women are paid similarly; the gap comes from sorting women into lower-paying jobs. This paper uses recent linked employer-employee data from 15 countries to challenge that story. The finding: job sorting accounts for less of the gap than previously believed, and within-job pay differences remain substantial. Policy implications flip — equal-pay enforcement (within-job) matters more than previously thought. An empirical update that should reshape how governments and firms design gender-equality policies.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Linked employer-employee administrative data from 15 countries (including Hungary, via Boza and Hajdu). Covers within-job versus between-job pay decomposition.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Central for Hungarian gender-equality policy (ETDA, Ministry of Labour). The paper supports strengthened within-job pay-transparency and equal-pay-enforcement mechanisms, including audits of pay bands within firms. Relevant to implementation of the EU Pay Transparency Directive. Caveat: countries differ; Hungarian magnitudes are embedded in the sample via Hungarian data contributors, but full domestic estimates with more recent micro-data would be complementary.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "labor-markets",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "panel-data",
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "HU",
+    "EU",
+    "US",
+    "GLOBAL"
+  ],
+  "data_types": [
+    "admin-firm",
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4225927390"
+  "review_status": "ai-drafted",
+  "openalex_id": "W4225927390",
+  "policy_instruments": [
+    "EU Pay Transparency Directive",
+    "pay-band auditing",
+    "within-job pay-equality enforcement"
+  ]
 }

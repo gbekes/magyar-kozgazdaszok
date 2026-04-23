@@ -42,19 +42,38 @@
   "url_pdf": "https://www.pnas.org/content/pnas/117/17/9277.full.pdf",
   "url_replication": null,
   "abstract": "It is well documented that earnings inequalities have risen in many high-income countries. Less clear are the linkages between rising income inequality and workplace dynamics, how within- and between-workplace inequality varies across countries, and to what extent these inequalities are moderated by national labor market institutions. In order to describe changes in the initial between- and within-firm market income distribution we analyze administrative records for 2,000,000,000+ job years nested within 50,000,000+ workplace years for 14 high-income countries in North America, Scandinavia, Continental and Eastern Europe, the Middle East, and East Asia. We find that countries vary a great deal in their levels and trends in earnings inequality but that the between-workplace share of wage inequality is growing in almost all countries examined and is in no country declining. We also find that earnings inequalities and the share of between-workplace inequalities are lower and grew less strongly in countries with stronger institutional employment protections and rose faster when these labor market protections weakened. Our findings suggest that firm-level restructuring and increasing wage inequalities between workplaces are more central contributors to rising income inequality than previously recognized.",
-  "summary_en": null,
+  "summary_en": "When inequality rises, where does it come from — within-firm differences (top managers versus rank-and-file) or between-firm differences (some companies pay more than others)? This paper uses comprehensive administrative records for 14 high-income countries to decompose the trend. The between-workplace component grows in almost every country examined and declines in none. Within-workplace inequality's trend varies. The finding has profound policy implications: policies aimed at within-firm pay structures will increasingly miss the growing source of inequality. Firm-level productivity and labour-market sorting dynamics become the right focal points.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Administrative linked employer-employee records for 14 high-income countries covering 2 billion+ job-years and 50 million+ workplaces. Hungary included via Boza and Hajdu contributions.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Central for understanding Hungarian wage-inequality trends and for policy design. The paper's key message — between-firm inequality is rising everywhere — shifts policy attention to: firm-size policy, sector-specific productivity policy, minimum-wage design across firms, and collective-bargaining coverage. Relevant to MNB wage analysis, VKF social dialogue, and Ministry of Economy wage-policy design. Caveat: the measurement focuses on high-income-country experience; Hungarian-specific decomposition should be done on KRTK data.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "labor-markets",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "panel-data",
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "HU",
+    "EU",
+    "US",
+    "GLOBAL"
+  ],
+  "data_types": [
+    "admin-firm",
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3016010946"
+  "review_status": "ai-drafted",
+  "openalex_id": "W3016010946",
+  "policy_instruments": [
+    "firm-size inequality policy",
+    "minimum-wage design",
+    "collective-bargaining coverage"
+  ]
 }

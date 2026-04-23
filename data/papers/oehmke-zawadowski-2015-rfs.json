@@ -17,19 +17,31 @@
   "url_pdf": "https://academic.oup.com/rfs/article-pdf/28/12/3303/24449968/hhv047.pdf",
   "url_replication": null,
   "abstract": "We provide a model of nonredundant credit default swaps (CDSs), building on the observation that CDSs have lower trading costs than bonds. CDS introduction involves a trade-off: it crowds out existing demand for the bond, but improves the bond allocation by allowing long-term investors to become levered basis traders and absorb more of the bond supply. We characterize conditions under which CDS introduction raises bond prices. The model predicts a negative CDS-bond basis, as well as turnover and price impact patterns that are consistent with empirical evidence. We also show that a ban on naked CDSs can raise borrowing costs.",
-  "summary_en": null,
+  "summary_en": "Credit Default Swaps (CDSs) let investors take positions on corporate default risk without holding the bond. Are CDSs just redundant with bonds, or do they add something? This paper models the answer: CDSs are non-redundant because they have lower trading costs than bonds. Introducing a CDS crowds out some bond demand but lets long-term investors become levered basis-traders and absorb more bond supply. The paper derives conditions under which CDS introduction raises bond prices (i.e., lowers borrowing costs for firms). It shows a ban on naked CDSs can raise borrowing costs — a cautionary result for derivative regulation.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper with predictions matching empirical CDS-bond market patterns (negative CDS-bond basis, turnover, price impact).",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian financial-market regulation (MNB) and EU-level CDS regulation (MiFID II, SSR): the paper supports retaining CDS markets — including naked positions — as they can lower borrowing costs for firms. Relevant to ongoing EU Short Selling Regulation debates and to Hungarian corporate-bond market development. Caveat: the model's conditions for CDS benefits matter; empirical verification of non-redundancy in specific Hungarian corporate-bond markets would strengthen the policy argument.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "banking-finance",
+    "industrial-organization"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-21",
-  "last_reviewed_at": "2026-04-21",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3123993474"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3123993474",
+  "policy_instruments": [
+    "CDS market regulation",
+    "naked CDS ban",
+    "short-selling rules"
+  ]
 }

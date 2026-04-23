@@ -17,19 +17,32 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We examine the competitiveness of Hungarian agriculture and food processing, in relation to that of the EU, based on four indices of revealed comparative advantage, using highly disaggregate data for the period 1992 to 1998. Consistency tests suggest that the indices are less satisfactory as cardinal measures, but are useful in identifying the demarcation between comparative advantage and comparative disadvantage. Hungary is shown to have a comparative advantage in a range of agri‐food products, including animals and meat. This complements the findings of those studies that have used price and cost based approaches in identifying competitiveness in cereals and crops. Results indicate that the RCA indices, when interpreted as a binary measure, have remained surprisingly stable during the period of transition, although there is evidence of a weakening in the level of comparative advantage as revealed in the Balassa index.",
-  "summary_en": null,
+  "summary_en": "How competitive is Hungarian agriculture compared to the rest of the EU? This paper uses four different indices of revealed comparative advantage on 1992–1998 data, asking whether Hungary has a persistent advantage in particular products. Findings: Hungary has comparative advantage in a range of agri-food products, notably animals and meat. The RCA indices work better as binary indicators than as precise cardinal measures, but the underlying competitive position is stable over the 1990s. A foundational analysis for understanding Hungary's agricultural-export portfolio.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Highly disaggregated Hungarian agri-food trade data, 1992–1998. Four revealed comparative advantage indices compared.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Foundational for Hungarian CAP-implementation and agricultural-export strategy. The paper identifies livestock and meat as Hungary's comparative-advantage areas — a position that has since shifted. Relevant to historical context for agricultural-policy reform. Caveat: 1990s data; the Hungarian agricultural sector has undergone substantial structural change since, and current comparative advantages may be quite different.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "agriculture-food",
+    "trade-fdi"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2022129229"
+  "review_status": "ai-drafted",
+  "openalex_id": "W2022129229",
+  "policy_instruments": [
+    "CAP implementation",
+    "agricultural comparative-advantage strategy"
+  ]
 }

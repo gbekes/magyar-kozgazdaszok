@@ -17,19 +17,33 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Abstract This paper examines the impact of EU enlargement on agro‐food export performance across 12 new EU member states and five newly independent states in the EU markets covering the period 1999 to 2007. The performance is examined by duration of export and hazard model. We find larger duration for the agro‐food exports from the new EU member states. The results confirm gains from the eastward EU enlargement and governance on export increases and longer duration for exporting higher value‐added specialized consumer‐ready food and more competitive niche agro‐food products.",
-  "summary_en": null,
+  "summary_en": "Did EU enlargement affect how long agro-food export relationships last? This paper examines export duration for 12 new EU member states and 5 newly independent states in EU markets over 1999–2007. Duration is longer for new-EU-member-state exports — consistent with gains from EU enlargement. Longer duration concentrates in higher value-added, specialised consumer-ready food and competitive niche products. A clean empirical result showing EU enlargement strengthened trade relationships, particularly for differentiated agro-food products.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Annual export data 1999–2007 for 12 new EU member states and 5 newly independent states. Hazard-model analysis of trade-relationship duration.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant to Hungarian export-strategy and EU-integration policy: the paper's finding that EU membership extends agri-food export duration supports continued EU integration and quality-focused agri-food export strategy. Caveat: data end 2007; post-2008 crisis and Brexit have changed trade-relationship dynamics; a re-run with updated data would refresh magnitudes.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "agriculture-food",
+    "trade-fdi"
+  ],
+  "methods": [
+    "time-series"
+  ],
+  "countries_studied": [
+    "EU",
+    "HU"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W1801572829"
+  "review_status": "ai-drafted",
+  "openalex_id": "W1801572829",
+  "policy_instruments": [
+    "EU trade integration",
+    "agricultural-export quality policy"
+  ]
 }

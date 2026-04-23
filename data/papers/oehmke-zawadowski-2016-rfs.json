@@ -17,19 +17,33 @@
   "url_pdf": "https://academic.oup.com/rfs/article-pdf/30/1/80/8601289/hhw068.pdf",
   "url_replication": null,
   "abstract": "Using novel position and trading data for single-name corporate credit default swaps (CDSs), we provide evidence that CDS markets emerge as “alternative trading venues” serving a standardization and liquidity role. CDS positions and trading volume are larger for firms with bonds fragmented into many separate issues and with heterogeneous contractual terms. Whereas hedging motives are associated with trading volume in the bond and CDS markets, speculative trading concentrates in the CDS. Cross-market arbitrage links the CDS and bond market via the basis trade, compressing the negative CDS-bond basis and reducing price impact in the bond market. Received September 24, 2014; accepted January 17, 2016 by Editor Andrew Karolyi.",
-  "summary_en": null,
+  "summary_en": "Who actually uses the single-name corporate CDS market, and why? This paper uses novel position and trading data to answer the question empirically. Key findings: CDS positions and trading volume are larger for firms whose bonds are fragmented across many issues with heterogeneous terms — i.e., CDSs serve as a \"standardised alternative trading venue.\" Hedging motives drive bond market volume; speculation concentrates in CDS markets. The negative CDS-bond basis is compressed by cross-market arbitrage. A detailed empirical portrait of how credit-derivative markets interact with underlying bond markets.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Novel position and trading data on single-name corporate credit default swaps, combined with corresponding bond-market data. Coverage of US corporate bonds and their CDS counterparts.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian financial-supervision (MNB) and for EU capital-markets-union policy: the paper shows CDSs fulfil a standardisation role; policies fragmenting or restricting CDS markets would push speculation into less-transparent venues without eliminating it. Relevant to Hungarian sovereign-CDS market analysis and to EU derivatives regulation. Caveat: US evidence; Hungarian sovereign and corporate CDS markets are thinner, and standardisation effects would be of different magnitude.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "industrial-organization"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
   "featured": false,
   "added_at": "2026-04-21",
-  "last_reviewed_at": "2026-04-21",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3023171695"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3023171695",
+  "policy_instruments": [
+    "CDS market regulation",
+    "derivative-market transparency",
+    "capital markets union"
+  ]
 }

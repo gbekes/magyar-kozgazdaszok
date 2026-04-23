@@ -16,19 +16,32 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "I analyse intertemporal decisions on undertaking breast cancer screening by women aged 50-64 years in the UK and provide estimates of the rate of discounting potential future benefits of screening. I also analyse education differences in mammography decisions and examine the underlying mechanisms by which education influences breast cancer screening attendance. I estimate a structural model, which reveals that although there are differences in the disutility of breast cancer screening between education groups, there is no difference in the estimated discount factor. These results suggest that the observed education gradient is mainly due to differences in health behaviours and healthcare attitudes.",
-  "summary_en": null,
+  "summary_en": "Why do more-educated women attend breast-cancer screening more than less-educated women? Is it because they value the future more (lower discount rates)? Or because they know more about screening? This paper uses data on UK women 50–64 and estimates a structural intertemporal-decision model of mammography. The finding: educated and less-educated women have the same discount factors. The education gradient in mammography attendance is driven by differences in health behaviours and attitudes, not by differences in how they value future benefits. A clean identification of where the policy lever should be.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "UK health-survey data on breast-cancer screening attendance for women aged 50–64; structural discrete-choice model of intertemporal decisions.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian health-policy (NEAK, EMMI): the paper supports health-information and trust-building interventions for less-educated women rather than financial-incentive redesign. Relevant to NEAK screening-program design and to public-health campaigns. Caveat: UK data; Hungarian education-gradient in screening may have different mechanisms.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "health",
+    "education-skills"
+  ],
+  "methods": [
+    "structural"
+  ],
+  "countries_studied": [
+    "GB"
+  ],
+  "data_types": [
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W1928898742"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W1928898742",
+  "policy_instruments": [
+    "health-information campaigns",
+    "breast-cancer screening programmes"
+  ]
 }

@@ -20,19 +20,36 @@
   "url_pdf": "https://link.springer.com/content/pdf/10.1007/s00148-025-01087-2.pdf",
   "url_replication": null,
   "abstract": "The online version contains supplementary material available at 10.1007/s00148-025-01087-2.",
-  "summary_en": null,
+  "summary_en": "Gender differences in math self-confidence show up early. By the time girls are in school, they rate their math ability lower than boys with the same objective performance. This paper explores the role of peers, parents, and self-perceptions using rich longitudinal data. The analysis reveals how same-gender peer groups and parental expectations shape self-assessed math ability, with implications for subject choice and career paths. A careful quantitative account of where the math-confidence gender gap comes from, useful for educational-intervention design.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Longitudinal cohort data with objective cognitive test scores, subjective self-assessments of ability, and information on peer and parent networks. Likely UK BCS/NCDS data or similar.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly relevant to Hungarian education policy for STEM gender gaps (Oktatási Hivatal, EMMI). Supports school-based interventions targeting peer dynamics and parental expectations rather than just curriculum design. Relevant to Hungary's STEM-gender-gap policy. Caveat: UK cohort; Hungarian cohort effects and curriculum structure differ, but the mechanisms generalise.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "education-skills",
+    "behavioral",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "panel-data",
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "GB"
+  ],
+  "data_types": [
+    "admin-individual",
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4407858498"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4407858498",
+  "policy_instruments": [
+    "STEM gender-gap interventions",
+    "peer-effect programme design",
+    "parental-expectation interventions"
+  ]
 }

@@ -19,19 +19,36 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We document a sharp rise in gunshots coupled with declining 911 call volume across 13 major US cities in the aftermath of the murder of George Floyd. National survey data also indicate that victims of crime became less likely to report their victimization to law enforcement due to mistrust of police. Our results suggest that high-profile acts of police violence may erode community engagement with law enforcement and highlight the call-to-shot ratio as a natural measure of attitudes toward the police. (JEL H76, K42)",
-  "summary_en": null,
+  "summary_en": "After the murder of George Floyd in 2020, something unusual happened in many US cities: gunshots went up but 911 call volume went down. This paper documents that pattern across 13 major cities and complements it with national survey data showing that crime victims became less willing to report their victimization because of mistrust of police. The \"call-to-shot ratio\" emerges as a natural quantitative measure of community attitudes toward law enforcement. A stark demonstration that high-profile acts of police violence erode the everyday cooperation between communities and police that crime control depends on.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Daily gunshot-detection data and 911 call volumes from 13 major US cities, combined with national survey data on victimization reporting behaviour. Identification exploits the sharp break at the date of George Floyd's murder in May 2020.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian law-enforcement policy (BM, ORFK) and community-policing design. The paper quantifies how a single high-profile incident can undermine the operational cooperation between police and community — a universal mechanism not specific to US race relations. Relevant to oversight of police conduct, transparent investigation of excessive force, and community-trust measurement. Caveat: the US racial context is specific; Hungarian dynamics around trust in police (e.g., Roma communities) would require domestic-data replication.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "political-economy",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "diff-in-diff",
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "admin-individual",
+    "survey",
+    "digital-trace"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4408019136"
+  "review_status": "ai-drafted",
+  "openalex_id": "W4408019136",
+  "policy_instruments": [
+    "police-community relations",
+    "oversight of police conduct",
+    "community-trust measurement"
+  ]
 }

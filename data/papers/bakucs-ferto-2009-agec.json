@@ -17,19 +17,33 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Abstract The article investigates the validity of Gibrat's Law for Hungarian family farms using FADN data collected between 2001 and 2007. Gibrat's Law states that the growth rate of firms will be independent of their initial size. Regression results allow us to reject Gibrat's Law for all quantiles. Evidence suggests that smaller farms tend to grow faster than larger ones. Results do not support the hypothesis of “disappearing middle” in Hungarian agriculture. We study a number of socio‐economic factors that can help to explain farm growth. We find that total subsidies received by a farm and the farm operator's age are the most significant factors correlated with farm growth.",
-  "summary_en": null,
+  "summary_en": "Do Hungarian family farms follow \"Gibrat's Law\" — the idea that growth is independent of initial firm size? This paper uses Farm Accountancy Data Network (FADN) data for Hungary 2001–2007 and says no. Smaller farms grow faster than larger ones, and there's no \"disappearing middle\" in Hungarian agriculture. Total subsidies received and the operator's age are the most significant correlates of farm growth. A useful empirical result for understanding farm-size dynamics and the effect of EU agricultural support on Hungarian farm structure.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Farm Accountancy Data Network (FADN) panel data for Hungarian family farms, 2001–2007.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance to Hungarian CAP-implementation policy (NAK, Ministry of Agriculture). The paper shows smaller farms benefit more from subsidies in growth terms — relevant to ongoing debates about CAP-payment capping and redistribution. Also speaks to farm-structural-change policy in rural regions. Caveat: pre-EU-membership-era data; policy environment has shifted since.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "agriculture-food",
+    "firms-productivity"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2128233693"
+  "review_status": "ai-drafted",
+  "openalex_id": "W2128233693",
+  "policy_instruments": [
+    "CAP direct payments",
+    "farm-size policy",
+    "subsidy capping"
+  ]
 }

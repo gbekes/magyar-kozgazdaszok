@@ -30,19 +30,39 @@
   "url_pdf": "https://www.nature.com/articles/s41586-025-09259-6.pdf",
   "url_replication": null,
   "abstract": "Immigrants to high-income countries often face considerable and persistent difficulties in the labour market<sup>1-6</sup>, whereas their native-born children typically experience economic progress<sup>6-9</sup>. However, little is known about the extent to which these immigrant-native earnings differences stem from unequal pay when doing the same work for the same employer versus labour market processes that sort immigrants into lower-paid jobs. Here, using data from nine European and North American countries, we show that the segregation of workers with immigrant backgrounds into lower-paying jobs accounts for about three-quarters of overall immigrant-native earnings differences. Although within-job pay inequality remains notable for immigrants in several countries, our results demonstrate that unequal access to higher-paying jobs is the primary driver of the immigrant-native pay gap across a range of institutionally and demographically diverse contexts. These findings highlight the importance of policies aimed at reducing between-job segregation, such as language training<sup>10-13</sup>, job training<sup>13-15</sup>, job search assistance programmes<sup>13,15</sup>, improving access to domestic education<sup>13,16,17</sup>, recognizing foreign qualifications<sup>18,19</sup>, and settlement programmes aimed at enhancing access to job-relevant information and networks<sup>13,20,21</sup>. Policies that target employer bias in hiring and promotion decisions are also likely to be effective, whereas measures aimed at ensuring equal pay for equal work may have more limited scope for further progress in closing the immigrant-native pay gap<sup>22-28</sup>.",
-  "summary_en": null,
+  "summary_en": "Why do immigrants earn less than natives in rich countries? This paper uses linked employer-employee data from nine European and North American countries to separate two channels: (a) unequal pay for the same work at the same employer, and (b) immigrants being sorted into lower-paying jobs. The striking result: job sorting accounts for about three-quarters of the immigrant-native earnings gap. Within-job pay inequality exists and matters, but unequal access to higher-paying employers and positions is the dominant driver. Policy implications shift accordingly: addressing hiring and promotion barriers matters more than equal-pay enforcement.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Linked employer-employee administrative data from 9 countries (including Hungary, via boza-istvan). Covers 2 billion+ job-years nested within 50 million+ workplace-years. Enables decomposition of earnings gaps into within-job and between-job components.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Highly relevant for Hungarian integration policy. The paper shows that closing immigrant-native pay gaps requires tackling job-access barriers — credential recognition, language programs, occupation licensing, network-based hiring — more than wage-discrimination enforcement. Relevant to ETDA, BM migration policy, and employer-level diversity efforts. Hungary-specific estimates (via Boza's KRTK work) are embedded in the sample. Caveat: sample is 9 countries; Hungarian context includes specific Roma-employment barriers that are a different case from typical immigrant-native dynamics.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "labor-markets",
+    "demographics-migration",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "panel-data",
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "HU",
+    "US",
+    "EU"
+  ],
+  "data_types": [
+    "admin-firm",
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4412478879"
+  "review_status": "ai-drafted",
+  "openalex_id": "W4412478879",
+  "policy_instruments": [
+    "credential recognition",
+    "language integration programmes",
+    "job-access policy",
+    "diversity hiring standards"
+  ]
 }

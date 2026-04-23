@@ -18,19 +18,32 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Abstract This article investigates farm technical efficiency (TE) and the effect of heterogeneity on production among farms using the Slovenian Farm Accountancy Data Network sample of farms in the period 2007–2013. We model production technology with a random parameter model that allows us to examine both the direct effect of heterogeneity on production and the indirect effect through the interaction of unobserved heterogeneity with time and input variables. Additionally, we consider intersectoral heterogeneity among types of farming. Results confirm the importance of all these sources of heterogeneity. The second contribution of the article is that, in addition to using conventional statistical methods, we examine the differences between less favored area (LFA) and non‐LFA farms using matching techniques. Results indicate that there is only a minor and statistically nonsignificant difference in TE between these groups. However, the difference is highly significant in terms of heterogeneity and technology. In other words, results show that farms in LFAs are not more inefficient but rather use different, production–environment‐specific technologies. These findings call attention to the fact that omitting the effect of heterogeneity on production technology leads to biased TE estimates and, in turn, leads to potentially imperfect policy choices.",
-  "summary_en": null,
+  "summary_en": "Some land is less favourable for farming — poor soils, difficult terrain. Are farms in such \"Less Favoured Areas\" less efficient? This paper uses Slovenian FADN data 2007–2013 and a random-parameter model to separate the direct effect of land quality from indirect effects that operate through input choice and farm type. The result: heterogeneity matters at multiple levels, and LFA farms do show different technical-efficiency patterns — though matching methods suggest the gap is smaller than naive comparisons imply. A methodologically careful analysis with implications for CAP's LFA-compensation payments.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Slovenian Farm Accountancy Data Network panel, 2007–2013. Farm-level inputs, outputs, location, and sector. Matching methods used to compare LFA and non-LFA farms.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance to Hungarian CAP policy: the paper supports the existence of LFA compensation, but also suggests efficient LFA farms exist and can be supported differentially. Relevant to Hungary's kedvezőtlen adottságú terület (KAT) payments and to the next CAP programming period's LFA rules. Caveat: Slovenian data; Hungarian LFA regions differ in specifics.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "agriculture-food",
+    "firms-productivity"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "SI"
+  ],
+  "data_types": [
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2474808157"
+  "review_status": "ai-drafted",
+  "openalex_id": "W2474808157",
+  "policy_instruments": [
+    "LFA compensation payments",
+    "CAP targeting"
+  ]
 }

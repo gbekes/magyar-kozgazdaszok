@@ -2792,21 +2792,32 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This paper extends the model of risk sharing with limited commitment to feature separation. Partners face idiosyncratic income and match quality shocks, share risk subject to limited commitment, and separate whenever they are better off doing so. We characterise analytically the sets of shock realisations where constrained-efficient separations occur and the dynamics of consumption while the risk-sharing partnership continues. The separation probability typically jumps as parameter values change continuously, and an additional inefficient equilibrium emerges. A key reason is complementarity between risk sharing and staying together today and in the future. Income inequality affects consumption inequality via its effect on separations, and consumption inequality can optimally exceed income inequality for any history of income realisations. Both partial risk sharing and separation are relevant for many applications, including the interaction between partners in a household and countries in an economic union.",
-      "summary_en": null,
+      "summary_en": "When couples share risk but can also separate, the decision to stay together shapes consumption outcomes. This paper extends risk-sharing-with-limited-commitment models to include separation. Partners face income and match-quality shocks, share risk under limited commitment, and separate when it's mutually better. The paper characterises where constrained-efficient separations occur and shows the separation probability can jump discontinuously with small parameter changes — an inefficient equilibrium emerges. Key insight: complementarity between risk sharing and continuing the partnership makes income inequality translate into consumption inequality through the separation channel.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant to Hungarian family-policy and pension-design analysis: the paper formalises how household-level risk-sharing arrangements matter for consumption inequality. Relevant to family-tax design (családi adókedvezmény) and to divorce-law implications for consumption inequality. Caveat: theoretical; specific Hungarian policy calibration would need empirical parameterisation of household shocks and match quality.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "inequality-welfare",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4396974321"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4396974321",
+      "policy_instruments": [
+        "family-tax policy",
+        "divorce-law economic provisions"
+      ]
     },
     {
       "id": "abraham-pavoni-2005-jeea",
@@ -2910,21 +2921,36 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We study the welfare effects of both existing and counter-factual European unemployment insurance (UI) policies using a rich multi-country dynamic general equilibrium model with labour market frictions. The model successfully replicates several salient features of European labour markets, in particular the cross-country differences in the flows between employment, unemployment and inactivity, as a result of labour market and UI policy differences across euro area countries. We find that mechanisms like the recently introduced instrument for temporary support to mitigate unemployment risks in an emergency (SURE), which allows national governments to borrow at low interest rates to cover expenditures on unemployment risk, yield sizeable welfare gains. Furthermore, we find that, in spite of the calibrated heterogeneity across euro area countries, there is a common direction in which they can improve their UI policies; in particular, a harmonized benefit system that features a one-time payment of around three quarters of income upon separation is welfare improving in all euro area countries relative to the status quo.",
-      "summary_en": null,
+      "summary_en": "Europe has long debated whether to build a common unemployment-insurance system. This paper evaluates both existing policies and counterfactual designs using a rich multi-country general-equilibrium model with labour frictions. The model fits observed cross-country differences in employment/unemployment/inactivity flows, which reflect underlying UI-policy differences. Key finding: SURE-type instruments (emergency low-interest borrowing for UI during crises) yield sizeable welfare gains. A useful policy-evaluation framework for the EU fiscal-architecture debate.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Multi-country dynamic general equilibrium model with labour-market frictions, calibrated to Euro-area labour-market data: flows between employment, unemployment, and inactivity by country.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Very directly relevant to Hungarian EU-affairs and fiscal-policy stance. The paper supports EU-level UI arrangements (SURE and its successors) as welfare-improving, which matters for Hungarian positions in EU fiscal-integration debates. Relevant to Pénzügyminisztérium and MFM (Ministry of European Affairs). Caveat: Hungary is not in the euro area; SURE-type instruments still reach Hungary but the mechanism is different.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "labor-markets",
+        "macroeconomics",
+        "fiscal-tax"
+      ],
+      "methods": [
+        "structural"
+      ],
+      "countries_studied": [
+        "EU"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4376891590"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4376891590",
+      "policy_instruments": [
+        "EU unemployment insurance (SURE)",
+        "EU fiscal architecture",
+        "cross-border unemployment risk-sharing"
+      ]
     },
     {
       "id": "abrevaya-hsu-et-al-2014-jbes",
@@ -3364,21 +3390,38 @@
       "url_pdf": "https://link.springer.com/content/pdf/10.1007/s00148-025-01087-2.pdf",
       "url_replication": null,
       "abstract": "The online version contains supplementary material available at 10.1007/s00148-025-01087-2.",
-      "summary_en": null,
+      "summary_en": "Gender differences in math self-confidence show up early. By the time girls are in school, they rate their math ability lower than boys with the same objective performance. This paper explores the role of peers, parents, and self-perceptions using rich longitudinal data. The analysis reveals how same-gender peer groups and parental expectations shape self-assessed math ability, with implications for subject choice and career paths. A careful quantitative account of where the math-confidence gender gap comes from, useful for educational-intervention design.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Longitudinal cohort data with objective cognitive test scores, subjective self-assessments of ability, and information on peer and parent networks. Likely UK BCS/NCDS data or similar.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly relevant to Hungarian education policy for STEM gender gaps (Oktatási Hivatal, EMMI). Supports school-based interventions targeting peer dynamics and parental expectations rather than just curriculum design. Relevant to Hungary's STEM-gender-gap policy. Caveat: UK cohort; Hungarian cohort effects and curriculum structure differ, but the mechanisms generalise.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "education-skills",
+        "behavioral",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "panel-data",
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "GB"
+      ],
+      "data_types": [
+        "admin-individual",
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4407858498"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4407858498",
+      "policy_instruments": [
+        "STEM gender-gap interventions",
+        "peer-effect programme design",
+        "parental-expectation interventions"
+      ]
     },
     {
       "id": "adamecz-csillag-et-al-2022-wp",
@@ -3560,20 +3603,19 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Urban highways are common, especially in the United States, making cities more car-centric. They promise the annihilation of distance but obstruct pedestrian mobility, thus playing a key role in limiting social interactions locally. Although this limiting role is widely acknowledged in urban studies, the quantitative relationship between urban highways and social ties is barely tested. Here, we define a Barrier Score that relates massive, geolocated online social network data to highways in the 50 largest US cities. At the granularity of individual social ties, we show that urban highways are associated with decreased social connectivity. This barrier effect is especially strong for short distances and consistent with historical cases of highways that were built to purposefully disrupt or isolate Black neighborhoods. By combining spatial infrastructure with social tie data, our method adds a dimension to demographic studies of social segregation. Our study can inform reparative planning for an evidence-based reduction of spatial inequality, and more generally, support a better integration of the social fabric in urban planning.",
-      "summary_en": "Urban highways cut through cities — do they cut through neighbourhoods' social ties, too? Using geo-located online-social-network data from the 50 largest US cities, this paper builds a \"Barrier Score\" that quantifies how urban highways reduce social connectivity between places. Connections just across a highway are far weaker than those at the same physical distance without a highway between them. The effect is strongest at short distances and is especially pronounced in cases where highways were historically built to isolate Black neighbourhoods. The paper gives urban planners a quantitative tool for thinking about when road infrastructure causes persistent social segregation.",
+      "summary_en": "Urban highways are everywhere, especially in the US. They cut through cities, promising mobility but obstructing pedestrian connection. This paper quantifies how highways affect social ties using massive geolocated online social-network data for the 50 largest US cities. The authors define a \"Barrier Score\" that measures how much highways interrupt social ties relative to what geography alone would predict. Result: highways are associated with lower social connectivity, especially for short-distance ties. The effect aligns with historical cases where highways were built purposefully to separate Black neighbourhoods. Infrastructure has deep social consequences.",
       "summary_hu": "A városi autópályák átvágják a városokat — vajon a szomszédsági kapcsolatokat is átvágják? Az 50 legnagyobb amerikai város geolokalizált online-szocháló adatait használva a tanulmány egy „Gát-mutatót\" épít, amely számszerűsíti, mennyivel csökkentik a városi autópályák a társadalmi kapcsolódást egyes helyek között. A kapcsolatok közvetlenül egy autópálya két oldalán lényegesen gyengébbek, mint ugyanakkora fizikai távolságon autópálya nélkül. A hatás a rövid távolságoknál a legerősebb, és különösen kifejezett azokban az esetekben, amikor az autópályákat történelmileg fekete környékek elszigetelésére építették. A munka kvantitatív eszközt ad a várostervezőknek annak megítéléséhez, mikor okoz egy úthálózat tartós társadalmi szegregációt.",
-      "data_used": "Anonymised geo-located Twitter data for the 50 largest US metropolitan areas, combined with OpenStreetMap road-network data and US Census demographic information; millions of social-tie observations.",
+      "data_used": "Geolocated online social-network data for the 50 largest US cities, combined with detailed spatial data on urban highways. Covers millions of individual social ties.",
       "data_used_hu": "Az 50 legnagyobb amerikai metropolisz anonimizált, geolokalizált Twitter-adatai, kombinálva OpenStreetMap úthálózati adatokkal és USA-demográfiai adatokkal; milliós nagyságrendű társadalmi kapcsolati megfigyelés.",
-      "policy_relevance": "Directly applicable to Hungarian urban-planning debates (Ministry of Construction and Transport, Budapest Municipality): major road infrastructure doesn't just affect mobility, it reshapes long-run social ties and spatial inequality. Relevant for ring-road extensions, river crossings, and urban-highway reconfigurations in Budapest, Szeged, and Pécs. Setting is US; the mechanism — physical barriers limit social ties — is general, though the historical racial dimension is US-specific.",
+      "policy_relevance": "For Hungarian urban-planning and transport policy (Budapest, large-city governments): the paper provides a quantitative tool (Barrier Score) for assessing how urban transport infrastructure affects social cohesion. Relevant to Budapest M0 ring-road and major-road-infrastructure planning, and to urban-regeneration investments. Caveat: US cities and their car-centric urbanism differ from Hungarian settings; magnitudes would need localisation.",
       "policy_relevance_hu": "Közvetlenül alkalmazható a magyar várostervezési vitákra (Építési és Közlekedési Minisztérium, Budapest Önkormányzat): a nagy úthálózati infrastruktúra nem csak a mobilitást befolyásolja, hanem hosszú távon átrajzolja a társadalmi kapcsolatokat és a térbeli egyenlőtlenséget. Releváns Budapest körgyűrű-bővítései, Duna-hidak és városi gyorsforgalmi átrendezések esetében; alkalmazható Szegedre és Pécsre is. A környezet amerikai; a mechanizmus — fizikai akadályok korlátozzák a társadalmi kapcsolatokat — általános, bár a történelmi faji dimenzió amerikai-specifikus.",
       "topics": [
         "regional-urban",
-        "inequality-welfare",
-        "demographics-migration"
+        "inequality-welfare"
       ],
       "methods": [
-        "descriptive-survey",
-        "panel-data"
+        "panel-data",
+        "descriptive-survey"
       ],
       "countries_studied": [
         "US"
@@ -3583,13 +3625,12 @@
       ],
       "featured": false,
       "added_at": "2026-04-20",
-      "last_reviewed_at": "2026-04-20",
+      "last_reviewed_at": "2026-04-23",
       "review_status": "ai-drafted",
       "openalex_id": "W4408150733",
       "policy_instruments": [
-        "urban highway planning",
-        "gyalogos átjárók",
-        "pedestrian bridges"
+        "urban-highway planning",
+        "transport-infrastructure social-impact assessment"
       ]
     },
     {
@@ -4710,21 +4751,38 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We document a sharp rise in gunshots coupled with declining 911 call volume across 13 major US cities in the aftermath of the murder of George Floyd. National survey data also indicate that victims of crime became less likely to report their victimization to law enforcement due to mistrust of police. Our results suggest that high-profile acts of police violence may erode community engagement with law enforcement and highlight the call-to-shot ratio as a natural measure of attitudes toward the police. (JEL H76, K42)",
-      "summary_en": null,
+      "summary_en": "After the murder of George Floyd in 2020, something unusual happened in many US cities: gunshots went up but 911 call volume went down. This paper documents that pattern across 13 major cities and complements it with national survey data showing that crime victims became less willing to report their victimization because of mistrust of police. The \"call-to-shot ratio\" emerges as a natural quantitative measure of community attitudes toward law enforcement. A stark demonstration that high-profile acts of police violence erode the everyday cooperation between communities and police that crime control depends on.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Daily gunshot-detection data and 911 call volumes from 13 major US cities, combined with national survey data on victimization reporting behaviour. Identification exploits the sharp break at the date of George Floyd's murder in May 2020.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian law-enforcement policy (BM, ORFK) and community-policing design. The paper quantifies how a single high-profile incident can undermine the operational cooperation between police and community — a universal mechanism not specific to US race relations. Relevant to oversight of police conduct, transparent investigation of excessive force, and community-trust measurement. Caveat: the US racial context is specific; Hungarian dynamics around trust in police (e.g., Roma communities) would require domestic-data replication.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "political-economy",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "diff-in-diff",
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "admin-individual",
+        "survey",
+        "digital-trace"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4408019136"
+      "review_status": "ai-drafted",
+      "openalex_id": "W4408019136",
+      "policy_instruments": [
+        "police-community relations",
+        "oversight of police conduct",
+        "community-trust measurement"
+      ]
     },
     {
       "id": "anjomshoaa-schuster-et-al-2023-lnibi",
@@ -5426,21 +5484,35 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Abstract The article investigates the validity of Gibrat's Law for Hungarian family farms using FADN data collected between 2001 and 2007. Gibrat's Law states that the growth rate of firms will be independent of their initial size. Regression results allow us to reject Gibrat's Law for all quantiles. Evidence suggests that smaller farms tend to grow faster than larger ones. Results do not support the hypothesis of “disappearing middle” in Hungarian agriculture. We study a number of socio‐economic factors that can help to explain farm growth. We find that total subsidies received by a farm and the farm operator's age are the most significant factors correlated with farm growth.",
-      "summary_en": null,
+      "summary_en": "Do Hungarian family farms follow \"Gibrat's Law\" — the idea that growth is independent of initial firm size? This paper uses Farm Accountancy Data Network (FADN) data for Hungary 2001–2007 and says no. Smaller farms grow faster than larger ones, and there's no \"disappearing middle\" in Hungarian agriculture. Total subsidies received and the operator's age are the most significant correlates of farm growth. A useful empirical result for understanding farm-size dynamics and the effect of EU agricultural support on Hungarian farm structure.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Farm Accountancy Data Network (FADN) panel data for Hungarian family farms, 2001–2007.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance to Hungarian CAP-implementation policy (NAK, Ministry of Agriculture). The paper shows smaller farms benefit more from subsidies in growth terms — relevant to ongoing debates about CAP-payment capping and redistribution. Also speaks to farm-structural-change policy in rural regions. Caveat: pre-EU-membership-era data; policy environment has shifted since.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "agriculture-food",
+        "firms-productivity"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2128233693"
+      "review_status": "ai-drafted",
+      "openalex_id": "W2128233693",
+      "policy_instruments": [
+        "CAP direct payments",
+        "farm-size policy",
+        "subsidy capping"
+      ]
     },
     {
       "id": "bakucs-ferto-et-al-2009-eclett",
@@ -5462,21 +5534,34 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": null,
-      "summary_en": null,
+      "summary_en": "Do financial constraints affect investment decisions in Hungarian agriculture? This short paper provides empirical evidence on the question using firm-level data. Investment-cash-flow sensitivity is a standard tool for detecting financial constraints, and the authors apply it to Hungarian farms. Short format, clear result — a straightforward contribution showing that capital market frictions matter for agricultural investment decisions in Central Europe.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian agricultural firm-level data with investment and cash-flow records.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant to Hungarian agricultural-finance policy: the paper supports targeted credit-guarantee or subsidised-lending programmes for Hungarian farms. Relevant to MFB agricultural lending and to EAFRD (EU rural-development fund) credit facilities. Caveat: short paper with limited data; quantitative magnitudes should be cross-checked with more recent research.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "agriculture-food",
+        "banking-finance"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2007742899"
+      "review_status": "ai-drafted",
+      "openalex_id": "W2007742899",
+      "policy_instruments": [
+        "agricultural credit-guarantee schemes",
+        "subsidised farm lending"
+      ]
     },
     {
       "id": "balog-batyi-et-al-2016-ejoor",
@@ -5535,21 +5620,34 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Abstract This article investigates farm technical efficiency (TE) and the effect of heterogeneity on production among farms using the Slovenian Farm Accountancy Data Network sample of farms in the period 2007–2013. We model production technology with a random parameter model that allows us to examine both the direct effect of heterogeneity on production and the indirect effect through the interaction of unobserved heterogeneity with time and input variables. Additionally, we consider intersectoral heterogeneity among types of farming. Results confirm the importance of all these sources of heterogeneity. The second contribution of the article is that, in addition to using conventional statistical methods, we examine the differences between less favored area (LFA) and non‐LFA farms using matching techniques. Results indicate that there is only a minor and statistically nonsignificant difference in TE between these groups. However, the difference is highly significant in terms of heterogeneity and technology. In other words, results show that farms in LFAs are not more inefficient but rather use different, production–environment‐specific technologies. These findings call attention to the fact that omitting the effect of heterogeneity on production technology leads to biased TE estimates and, in turn, leads to potentially imperfect policy choices.",
-      "summary_en": null,
+      "summary_en": "Some land is less favourable for farming — poor soils, difficult terrain. Are farms in such \"Less Favoured Areas\" less efficient? This paper uses Slovenian FADN data 2007–2013 and a random-parameter model to separate the direct effect of land quality from indirect effects that operate through input choice and farm type. The result: heterogeneity matters at multiple levels, and LFA farms do show different technical-efficiency patterns — though matching methods suggest the gap is smaller than naive comparisons imply. A methodologically careful analysis with implications for CAP's LFA-compensation payments.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Slovenian Farm Accountancy Data Network panel, 2007–2013. Farm-level inputs, outputs, location, and sector. Matching methods used to compare LFA and non-LFA farms.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance to Hungarian CAP policy: the paper supports the existence of LFA compensation, but also suggests efficient LFA farms exist and can be supported differentially. Relevant to Hungary's kedvezőtlen adottságú terület (KAT) payments and to the next CAP programming period's LFA rules. Caveat: Slovenian data; Hungarian LFA regions differ in specifics.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "agriculture-food",
+        "firms-productivity"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "SI"
+      ],
+      "data_types": [
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2474808157"
+      "review_status": "ai-drafted",
+      "openalex_id": "W2474808157",
+      "policy_instruments": [
+        "LFA compensation payments",
+        "CAP targeting"
+      ]
     },
     {
       "id": "bardits-biro-et-al-2025-ksz",
@@ -5783,11 +5881,11 @@
       "url_pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ecin.13245",
       "url_replication": null,
       "abstract": "Abstract When social pressure leads to favoritism, policies might aim to reduce the bias by affecting its source. This paper shows that multiple sources may be present and telling them apart is important. We build a novel and granular dataset on European football games and revisit the view that supporting crowds make referees help the host team. We find this bias to remain unchanged even in stadiums closed due to Covid‐19. Instead, influential host organizations emerge as the source of social pressure. This has an adverse effect on maintaining the ranking of influential teams and hindering the progress of smaller teams.",
-      "summary_en": "When referees appear to favour the home team in football, is it because the crowd pressures them? This paper builds a granular dataset of European football matches and separates out the sources of referee bias. Using the unique natural experiment of COVID-era empty stadiums — where the crowd simply wasn't there — the authors show that referee favouritism did not disappear. Instead, the bias persists and tracks the influence of host organisations themselves (clubs with stronger institutional clout). The effect helps entrench established big clubs and slows the upward mobility of smaller teams.",
+      "summary_en": "Referees sometimes favour the home team. Is this just because of loud crowds, or do deeper pressures operate? This paper uses a novel dataset on European football games — including games played in empty stadiums during COVID-19 — to distinguish among sources. The surprising finding: favoritism toward home teams did not disappear when crowds were absent. Instead, influential host organisations emerge as the persistent source of bias. The result: closed-stadium experiments separate one bias source from another, and the remaining bias suggests institutional-pressure channels (beyond simple crowd noise) deserve regulatory attention.",
       "summary_hu": "Amikor a bírók látszólag hátrányos döntést hoznak a vendégcsapat ellen a futballban, a tömeg nyomása miatt? A tanulmány európai futballmeccsek részletes adatbázisát építi, és szétválasztja a bírói elfogultság forrásait. A COVID-időszak üres stadionjainak egyedülálló természetes kísérletét használva — ahol egyszerűen nem volt ott a tömeg —, a szerzők megmutatják, hogy a bírói favoritizmus nem tűnt el. Helyette az elfogultság megmarad és a befogadó szervezetek befolyását követi (intézményi súlyukkal rendelkező klubok). A hatás segít a meglévő nagy klubok rögzítésében és a kisebb csapatok felemelkedésének lassításában.",
-      "data_used": "Original match-by-match panel of European professional football matches spanning pre-COVID, during-COVID closed-stadium, and post-COVID periods; referee decisions, match outcomes, and team-level institutional-influence measures; tens of thousands of matches across major European leagues.",
+      "data_used": "Granular dataset on European football games 2010–2021, including the COVID-19 closed-stadium period. Referee-level decisions, crowd size, team characteristics, organisational affiliations.",
       "data_used_hu": "Eredeti mérkőzésenkénti panel európai profi futballmeccsekről a COVID előtti, COVID alatti zárt stadionos és COVID utáni időszakokra; bírói döntések, mérkőzéseredmények és csapatszintű intézményi-befolyás-mérőszámok; tízezrek a nagy európai ligákból.",
-      "policy_relevance": "Applies beyond football to any system where rankings are determined by officials who face informal pressure from powerful parties — academic peer review, procurement evaluation, antitrust decisions. For Hungarian competition authority (GVH) and public procurement: if evaluators are insulated from direct \"crowd\" pressure but still connected to influential institutions, bias persists. Suggests that rotating reviewers and limiting institutional ties matters more than simply reducing visible observer influence. Setting is European football; the mechanism generalises to expert-judgement contexts.",
+      "policy_relevance": "Relevant to Hungarian sports-governance (MLSZ) and more broadly to institutional-bias regulation in any setting with home/host dynamics — arbitration, civil-service hiring, etc. The paper's method — exploiting a natural experiment (closed stadiums) to separate sources — is generalisable. Relevant to integrity mechanisms in Hungarian sport. Caveat: the specific finding about referees may not generalise to other institutional contexts without replication.",
       "policy_relevance_hu": "A futballon túl is alkalmazható minden olyan rendszerre, ahol a rangsorokat informális nyomást elszenvedő tisztviselők határozzák meg — akadémiai peer review, közbeszerzés-értékelés, versenyhivatali döntések. A magyar versenyhivatalhoz (GVH) és közbeszerzéshez: ha az értékelők közvetlen „tömeg\" nyomástól el vannak szigetelve, de még mindig befolyásos intézményekhez kötődnek, az elfogultság megmarad. A rotáló értékelés és az intézményi kötődések korlátozása fontosabb lehet, mint a látható megfigyelő-befolyás egyszerű csökkentése. A környezet európai futball; a mechanizmus általánosítható szakértői ítélet-kontextusokra.",
       "topics": [
         "political-economy",
@@ -5801,16 +5899,16 @@
         "EU"
       ],
       "data_types": [
-        "digital-trace"
+        "admin-individual"
       ],
       "featured": false,
       "added_at": "2026-04-19",
-      "last_reviewed_at": "2026-04-19",
+      "last_reviewed_at": "2026-04-23",
       "review_status": "ai-drafted",
       "openalex_id": "W4400697291",
       "policy_instruments": [
-        "evaluator rotation rules",
-        "arm's-length review processes"
+        "sports-governance integrity",
+        "institutional-bias disclosure"
       ]
     },
     {
@@ -5939,21 +6037,35 @@
       "url_pdf": "https://link.springer.com/content/pdf/10.1007/s10290-019-00365-y.pdf",
       "url_replication": null,
       "abstract": "Abstract In developing economies import can be the primary source of adopting new technologies and modern production equipment. Using a uniquely compiled Hungarian firm-level dataset, we investigated whether firms’ decision to import a specific machine is influenced by the local accumulation of experience in that same imported machine. Our results suggested that an additional local importer in the firm’s vicinity increases the probability of importing that particular machine considerably. Distance plays a key mediating role as firms, especially in small cities, learned mostly from neighboring peers. We also found that even within a type of imported machine, the source country of the product matters a great deal. Finally, the extent of spillover effects was found to vary a great deal both with respect to the importing firm as well as the composition of peers. Larger, foreign owned and internationalized firms are the ones that benefit from having importing firms in their vicinity, while small and domestically owned firms could actually be adversely affected by peer effects. Our results could be indicative for policy-makers interested in indirect impact of technology upgrade subsidy programs. We found that such indirect effects do exist. However, they are centered on large to large firm interactions. As smaller sized firms producing for the domestic market do not benefit much from import spillovers, policies aimed at helping such firms may not rely on these indirect effects.",
-      "summary_en": null,
+      "summary_en": "In developing economies, one of the most direct ways to adopt modern production technology is to import a machine. This paper asks: do firms learn from their neighbours' import decisions? Using Hungarian firm-level data, the authors find a clear answer: yes. Having an additional local importer of the same machine increases your probability of importing it. The effect is strongest in small cities and depends on the source country of the machine. A clean empirical result showing technology-adoption spillovers are local and mediated by distance.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Compiled Hungarian firm-level administrative data: firm-level machine-import records matched with location, source country, and industry. Multiple years.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance to Hungarian industrial-policy design (ITM, regional development). The paper supports regional clustering for capital-goods adoption: subsidies and programs that encourage machine imports in existing adopter clusters will be more effective. Relevant to EU structural funds targeting capital investment, especially in smaller cities. Caveat: uses pre-2015 data; modern digital tools may have changed how geography mediates information spillover.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "innovation-digital",
+        "firms-productivity",
+        "trade-fdi"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-firm"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2946702469"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2946702469",
+      "policy_instruments": [
+        "machine-import subsidies",
+        "regional technology-adoption clusters"
+      ]
     },
     {
       "id": "bekes-horvath-et-al-2016-ks",
@@ -6236,38 +6348,34 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "One may reasonably think that cultural homophily, defined as the tendency to associate with others of similar culture, affects collaboration in multinational teams in general but not in superstar teams of professionals at the top of their industry. The analysis of an exhaustive data set on the passes made by professional European football players in the top five men’s leagues reveals that on the contrary, cultural homophily is persistent, pervasive, and consequential, even in superstar multinational teams of very-high-skill individuals with clear common objectives and aligned incentives who are involved in interactive tasks that are well defined and not particularly culture intensive. This paper was accepted by Olav Sorenson, organizations. Funding: G. Békés thanks the Hungarian Academy of Sciences [Grant “Firms, Strategy and Performance” Lendület] for support. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.01799 .",
-      "summary_en": "Does culture still matter when the team is elite? Cultural homophily — the pull toward collaborating with people who share your background — is usually thought of as a feature of regular workplaces, not of top professionals whose incentives are sharply aligned. This paper tests that hunch on an unusual dataset: every pass made by players in the top five European men's football leagues. Even in these ultra-high-skill teams, players pass disproportionately to teammates from a similar cultural background, and this measurably affects team performance. The effect is persistent and pervasive. Culture is not just friction at the margin — it shapes production even at the top.",
+      "summary_en": "Does cultural background matter when professionals collaborate at the top of their game? It's tempting to think that superstar teams — multinational, highly-skilled, well-aligned — transcend cultural barriers. This paper says they don't. Using an exhaustive dataset on passes among professional European football players in the top five men's leagues, the authors show cultural homophily is \"persistent, pervasive, and consequential\" even in elite multinational teams. If culture matters when outcomes are easily measurable and task structure is clear, it presumably matters even more in less-structured collaboration.",
       "summary_hu": "Még a csúcsteljesítményű csapatokban is számít a kultúra? A kulturális homofília — az azonos kultúrájú emberekkel való együttműködés hajlama — általában a hétköznapi munkahelyek sajátosságának tartott, nem a csúcsszakmabelieké, akiknek ösztönzői élesen összehangoltak. A tanulmány egy szokatlan adatbázison teszteli ezt: minden passzra, amit az öt legjobb európai férfi futballiga játékosai adtak. Még ezekben a szuper-magas-képzettségű csapatokban is a játékosok aránytalanul sokat passzolnak hasonló kulturális háttérből érkező csapattársaknak, és ez mérhetően befolyásolja a csapat teljesítményét. A hatás tartós és átfogó. A kultúra nem csak peremsúrlódás — a termelést a csúcson is formálja.",
-      "data_used": "Near-universe of passes in the five top European men's football leagues (England Premier League, Spain La Liga, Germany Bundesliga, Italy Serie A, France Ligue 1), spanning multiple seasons; player-level data on nationality, club, and performance merged with pass-by-pass event data.",
+      "data_used": "Pass-level data from professional European football: top-five leagues, multiple seasons, player cultural background classification. Millions of on-pitch interactions.",
       "data_used_hu": "Az öt legjobb európai férfi futballiga (Premier League, La Liga, Bundesliga, Serie A, Ligue 1) majdnem-univerzuma a passzok szintjén, több szezonon át; játékosszintű adat nemzetiségről, klubról és teljesítményről, passzonkénti eseményadatokkal összekapcsolva.",
-      "policy_relevance": "For Hungarian diversity and talent policy (Ministry of Culture, universities, R&D-intensive firms): cultural homophily hurts team productivity even when incentives are otherwise well-aligned. Relevant for policies that shape the cultural diversity of Hungarian research teams, multinational firms operating in Hungary, and cross-border EU collaboration grants. Setting is football, but the authors argue the mechanism generalises. Suggests diversity interventions matter even at the very top of skill distributions, not just at entry level.",
+      "policy_relevance": "Relevant to Hungarian multinational-team policy (universities, R&D labs, government committees with international members). The paper supports investment in cross-cultural team infrastructure (language support, cultural-integration programs) even in elite settings where cultural barriers might seem to have been overcome. Relevant to KRTK, HUN-REN, and to corporate HR policy for MNCs operating in Hungary. Caveat: football is one domain; magnitudes in other team settings likely differ.",
       "policy_relevance_hu": "Magyar sokszínűség- és tehetségpolitikához (Kulturális Minisztérium, egyetemek, K+F-intenzív vállalatok): a kulturális homofília még akkor is csökkenti a csapat termelékenységét, amikor az ösztönzők egyébként jól összehangoltak. Releváns olyan politikákhoz, amelyek a magyar kutatócsoportok, a Magyarországon működő multinacionális vállalatok és a határokon átnyúló EU-együttműködési ösztöndíjak kulturális sokszínűségét alakítják. A környezet futball, de a szerzők szerint a mechanizmus általánosítható. A sokszínűségi beavatkozások a készségeloszlás legtetején is számítanak, nem csak belépési szinten.",
       "topics": [
         "labor-markets",
-        "firms-productivity",
-        "innovation-digital"
+        "demographics-migration",
+        "firms-productivity"
       ],
       "methods": [
         "panel-data"
       ],
       "countries_studied": [
-        "GB",
-        "ES",
-        "DE",
-        "IT",
-        "FR"
+        "EU"
       ],
       "data_types": [
         "digital-trace"
       ],
       "featured": false,
       "added_at": "2026-04-19",
-      "last_reviewed_at": "2026-04-19",
+      "last_reviewed_at": "2026-04-23",
       "review_status": "ai-drafted",
       "openalex_id": "W4406619252",
       "policy_instruments": [
-        "diversity hiring policies",
-        "research team formation"
+        "cross-cultural team infrastructure",
+        "multinational research-team support"
       ]
     },
     {
@@ -6432,21 +6540,37 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Abstract Crime leads to a range of adverse outcomes for those who live nearby, and a common hypothesis is that this relationship is mediated by mental health. However, little is known about how the mental health of local residents is affected when an incident of violent crime occurs in their vicinity. To address this question, we pair granular crime data with uniquely detailed panel data on individual stress levels, both from one of England's largest police force areas during the years 2010–2017. We find that local violent crime leads to an immediate and significant increase in residents' stress levels. We observe that this effect is strongest when the respondent is at home, and lasts approximately one week. Effects are predominantly driven by female respondents and those who live in urban areas. We conclude that policies considering the total cost of crime—and conversely, crime prevention—should consider the adverse local mental health impacts of violent crime.",
-      "summary_en": null,
+      "summary_en": "Local crime does more than hurt its direct victims — it has ripples through everyone who lives nearby. This paper combines granular crime incident data with uniquely detailed panel data on individual stress levels from one of England's largest police-force areas (2010–2017). Result: local violent crime leads to an immediate, significant increase in residents' stress levels. The effect is strongest when the respondent is at home and lasts about a week. Female respondents and urban residents show the largest effects. An important extension of crime-cost accounting: policies should reflect the mental-health costs of crime, not just direct victim damages.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Panel data from a large English police-force area (2010–2017) linking granular crime-incident records to individual-level self-reported stress measurements (daily, via smartphone app).",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian law-enforcement and urban-safety policy: the paper strengthens the case for community-level crime-prevention investment, beyond direct crime-reduction economics. Relevant to BM crime-strategy and Budapest district-level safety planning. Caveat: UK data and context; Hungarian crime rates, demographics, and self-reporting differ.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "health",
+        "political-economy",
+        "regional-urban"
+      ],
+      "methods": [
+        "panel-data",
+        "diff-in-diff"
+      ],
+      "countries_studied": [
+        "GB"
+      ],
+      "data_types": [
+        "admin-individual",
+        "digital-trace"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W7144164172"
+      "review_status": "ai-drafted",
+      "openalex_id": "W7144164172",
+      "policy_instruments": [
+        "community crime prevention",
+        "neighbourhood safety investment"
+      ]
     },
     {
       "id": "bencsik-lusher-et-al-2025-jue",
@@ -6468,21 +6592,36 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Time scarcity is one of the strongest correlates of fast food consumption. To estimate the causal effect of time lost on food choice, we match daily store-specific foot traffic data traced via smartphones to plausibly exogenous shocks in highway traffic congestion in Los Angeles County. We find that on days when highways are more congested, individuals are more likely to frequent fast food restaurants and less likely to grocery shop. In our main model, a one standard deviation increase in traffic delay leads to a 1% increase in fast food visits, equivalent to 1.2 million more fast food visits in Los Angeles County per year. The effects are particularly pronounced for afternoon rush hour traffic. Our results imply a net reduction in healthy food store choice due to time lost.",
-      "summary_en": null,
+      "summary_en": "Time scarcity makes people pick convenience food. This paper shows it causally. Using granular smartphone-based foot-traffic data for Los Angeles County matched to highway-congestion shocks, the authors show that on more congested days, people are more likely to visit fast-food restaurants and less likely to grocery-shop. A one-standard-deviation increase in traffic delay raises fast-food visits by 1%, equivalent to 1.2 million more fast-food visits in LA per year. Afternoon rush-hour traffic drives most of the effect. Traffic policy has health consequences that cost-benefit analyses typically ignore.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Daily store-specific foot-traffic data from smartphone traces, matched to highway congestion data in Los Angeles County. Identification exploits exogenous day-to-day variation in traffic caused by random events.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant to Hungarian urban and transport policy (ITM, Budapest urban planning). The paper quantifies a health externality of traffic congestion: policies that reduce congestion (congestion pricing, public-transport investment) likely have under-counted health co-benefits through healthier food choices. Relevant to Budapest's traffic-management strategy and to evaluation of rush-hour pricing policies. Caveat: LA data; Budapest has shorter commutes and different food-retail landscape, so Hungarian magnitudes would differ.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "regional-urban",
+        "health"
+      ],
+      "methods": [
+        "panel-data",
+        "iv"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "digital-trace"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4406630098"
+      "review_status": "ai-drafted",
+      "openalex_id": "W4406630098",
+      "policy_instruments": [
+        "traffic congestion pricing",
+        "public-transport investment",
+        "urban food-retail planning"
+      ]
     },
     {
       "id": "benczur-2005-e",
@@ -7456,21 +7595,35 @@
       "url_pdf": "https://www.nature.com/articles/s41467-025-59031-7.pdf",
       "url_replication": null,
       "abstract": "From science to industry, teamwork plays a crucial role in knowledge production and innovation. Most studies consider teams as static groups of individuals, thereby failing to capture how the micro-dynamics of collaborative processes and organizational changes determine team success. Here, we leverage fine-grained temporal data on software development teams from three software ecosystems - Rust, JavaScript, and Python - to gain insights into the dynamics of online collaborative projects. Our analysis reveals an uneven workload distribution in teams, with stronger heterogeneity correlated with higher success, and the early emergence of a lead developer carrying out the majority of work. Moreover, we find that a sizeable fraction of projects experience a change of lead developer, with such a transition being more likely in projects led by inexperienced users. Finally, we show that leadership change is associated with faster success growth. Our work contributes to a deeper understanding of the link between team evolution and success in collaborative processes.",
-      "summary_en": null,
+      "summary_en": "Open-source software projects are built by teams — but the teams change, and leadership within them isn't stable. This paper uses fine-grained commit data from three major software ecosystems (Rust, JavaScript, Python) to study how team dynamics determine project success. Key findings: workloads within teams are unevenly distributed, and stronger heterogeneity correlates with higher success; a single lead developer emerges early and does most of the work; a substantial fraction of projects experience lead-developer transitions, more often in projects led by less-experienced users. Leadership heterogeneity and instability are empirical facts that matter for innovation-policy design.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Temporal commit data on software development teams in Rust, JavaScript, and Python ecosystems, obtained from GitHub repositories. Covers thousands of projects and millions of commits over multiple years.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian digital-economy and innovation policy (NGM, NRDI Office): the paper supports innovation-support programs that fund individual lead developers rather than uniform team-level grants. Relevant to Hungarian open-source adoption strategy and IT-sector digital-commons funding. Caveat: the software-sector pattern may not generalise directly to other R&D-intensive activities with different team structures (e.g., experimental science labs).",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "innovation-digital",
+        "firms-productivity"
+      ],
+      "methods": [
+        "panel-data",
+        "ml-text"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
+      "data_types": [
+        "digital-trace"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4409851640"
+      "review_status": "ai-drafted",
+      "openalex_id": "W4409851640",
+      "policy_instruments": [
+        "innovation-grant design",
+        "open-source commons funding"
+      ]
     },
     {
       "id": "bihary-csoka-et-al-2018-ks",
@@ -7630,21 +7783,34 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "I analyse intertemporal decisions on undertaking breast cancer screening by women aged 50-64 years in the UK and provide estimates of the rate of discounting potential future benefits of screening. I also analyse education differences in mammography decisions and examine the underlying mechanisms by which education influences breast cancer screening attendance. I estimate a structural model, which reveals that although there are differences in the disutility of breast cancer screening between education groups, there is no difference in the estimated discount factor. These results suggest that the observed education gradient is mainly due to differences in health behaviours and healthcare attitudes.",
-      "summary_en": null,
+      "summary_en": "Why do more-educated women attend breast-cancer screening more than less-educated women? Is it because they value the future more (lower discount rates)? Or because they know more about screening? This paper uses data on UK women 50–64 and estimates a structural intertemporal-decision model of mammography. The finding: educated and less-educated women have the same discount factors. The education gradient in mammography attendance is driven by differences in health behaviours and attitudes, not by differences in how they value future benefits. A clean identification of where the policy lever should be.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "UK health-survey data on breast-cancer screening attendance for women aged 50–64; structural discrete-choice model of intertemporal decisions.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian health-policy (NEAK, EMMI): the paper supports health-information and trust-building interventions for less-educated women rather than financial-incentive redesign. Relevant to NEAK screening-program design and to public-health campaigns. Caveat: UK data; Hungarian education-gradient in screening may have different mechanisms.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "health",
+        "education-skills"
+      ],
+      "methods": [
+        "structural"
+      ],
+      "countries_studied": [
+        "GB"
+      ],
+      "data_types": [
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W1928898742"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W1928898742",
+      "policy_instruments": [
+        "health-information campaigns",
+        "breast-cancer screening programmes"
+      ]
     },
     {
       "id": "biro-2013-hp",
@@ -7698,21 +7864,36 @@
       "url_pdf": "https://link.springer.com/content/pdf/10.1007%2Fs10754-016-9191-7.pdf",
       "url_replication": null,
       "abstract": "I conduct an empirical analysis of the relation between retirement and outpatient care use in Europe and the US, and investigate the potential driving factors of that. I link the empirical analysis to a theoretical model of medical care demand. I document that pensioners tend to visit a doctor with higher probability and more often than the rest of the 50+ population. Ceteris paribus, being retired implies 3-10 % more outpatient visits in Europe. The estimates are of similar magnitude in the US. The paper contributes to the understanding of how population ageing plays a part in the rising health care expenditures. I find evidence that retirement related individual characteristics, increasing leisure time and stronger health preferences all contribute to the positive relation between retirement and outpatient care use, which is mainly driven by the healthier individuals. The gatekeeper role of general practitioners can mitigate the increased demand for outpatient care services after retirement.",
-      "summary_en": null,
+      "summary_en": "Why do retired people see doctors more often? Is it just that they have more free time, or are there deeper explanations? This paper examines the retirement-outpatient-care relationship using data from Europe and the US, linking the empirical analysis to a theoretical model of medical-care demand. Retired people visit doctors with higher probability and more often — an effect of 3–10% more visits in Europe, similar in the US. Multiple drivers contribute: retirement-related health changes, increased leisure time, and stronger health preferences. Useful for understanding healthcare-demand implications of population ageing.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "SHARE (Survey of Health, Ageing and Retirement in Europe) and US Health and Retirement Study data for people 50+. Theoretical model of medical-care demand.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly relevant to Hungarian ageing-and-health-policy projections (NEAK, EMMI, ONYF). The paper quantifies that retired people consume 3–10% more outpatient services — a relevant factor for healthcare-budget projections as Hungary ages. Relevant to healthcare-system planning and budget forecasting. Caveat: cross-country evidence; Hungarian-specific retirement-health gradient should be verified with KRTK administrative data.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "health",
+        "demographics-migration"
+      ],
+      "methods": [
+        "panel-data",
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "EU",
+        "US"
+      ],
+      "data_types": [
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2467671719"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2467671719",
+      "policy_instruments": [
+        "ageing-population healthcare planning",
+        "retirement-age policy implications"
+      ]
     },
     {
       "id": "biro-2016-tbejo",
@@ -7800,21 +7981,36 @@
       "url_pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/agec.12634",
       "url_replication": null,
       "abstract": "Abstract Since 2011, a wide range of unhealthy food and drink are subject to a specific excise tax in Hungary. We analyze how this tax affected the revenue, sales volume, personnel costs, and size of sweet food producers, and compare these results to estimated effects on household spending on sugary food. We base our analysis on administrative data sets of firm level indicators, and survey data on household spending. We apply the estimation method of difference‐in‐differences, where firms producing untaxed processed food (in the firm level analysis) and household spending on food categories directly not affected by the tax (in the household level analysis) serve as control groups. Our results suggest strong negative short‐run effects of the unhealthy food tax on firms’ inland sales volume, and moderate effects on inland sales revenue and personnel costs. These results correspond to the moderate estimated effects on household spending on sugary food. The reducing effects diminish in about 3 years after the introduction of the tax—overlapping with the recovery of the Hungarian economy from recession. Our findings suggest that the impacts of an unhealthy food tax strongly depend on the economic conditions.",
-      "summary_en": null,
+      "summary_en": "In 2011, Hungary introduced an excise tax on unhealthy food (\"sugar tax\"). Who actually bore the cost, and did it change household spending? This paper uses firm-level and household-level difference-in-differences to answer. Results: strong short-run negative effects on sweet-food producers' sales volumes, revenues, personnel costs, and firm size. Household spending on sugary food also declined. A textbook empirical evaluation of Pigouvian-tax effectiveness, with clean identification via untaxed processed-food firms and non-sugary spending as control groups.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Administrative Hungarian firm-level data for sweet-food producers before/after 2011 tax, matched with household-spending survey data. Difference-in-differences with untaxed-processed-food firms and non-sugary-food spending as controls.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly informs ongoing Hungarian public-health-taxation policy (EMMI, NEAK) and international debates on sugar/fat taxes. The paper shows the 2011 Hungarian \"chip tax\" actually did reduce consumption and had real effects on producers — useful evidence for both expansion and refinement of unhealthy-food taxes in Hungary and abroad. Relevant to ongoing tax-policy reviews. Caveat: focused on short-run effects; longer-run adaptation by consumers and producers likely differs.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "health",
+        "agriculture-food",
+        "fiscal-tax"
+      ],
+      "methods": [
+        "diff-in-diff"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-firm",
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W3169933646"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W3169933646",
+      "policy_instruments": [
+        "sugar/fat tax (NETA in Hungary)",
+        "public-health excise policy"
+      ]
     },
     {
       "id": "biro-bisztray-et-al-2025-jole",
@@ -8613,21 +8809,36 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "The complementarities of trade advantage and trade competitiveness measures for agro food trade of five Central European (CE-5) countries with the European Union are analysed. The stability and duration of the trade measures over time is investigated by the survival analysis using the nonparametric Kaplan–Meier product limit estimator, and the consistency test between the trade measures is conducted by the stratified Cox proportional hazard model. The CE-5 countries experienced a greater number of products with relative trade disadvantages and greater significance of one way imports. Unlike the Czech Republic, Poland, Slovakia and Slovenia, Hungary experienced Relative Trade Advantages (RTAs) for bulk raw commodities, processed intermediates and horticulture, with the greatest significance of successful quality competition and one-way exports, and the lowest significance of unsuccessful price and unsuccessful quality competition. The duration of RTAs is longer than the duration for the successful trade competition categories. Our results confirm that the RTA is consistent with the one way export and the successful price and successful quality competition categories in two way trade on one side, and the relative trade disadvantage with the one way import and the unsuccessful price and unsuccessful quality competition on the other.",
-      "summary_en": null,
+      "summary_en": "Central European countries show varying patterns of agricultural-trade performance with the EU. This paper analyses the stability and duration of trade advantages for CE-5 countries (Czech Republic, Hungary, Poland, Slovakia, Slovenia) using survival analysis on agro-food trade data. Hungary stands out as the only CE-5 country maintaining relative trade advantage in bulk raw commodities, processed intermediates, and horticulture. The paper provides a differentiated picture of post-EU-accession agricultural adjustment, with Hungary's specific comparative advantages visible in the data.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "CE-5 country agro-food trade data with EU, using nonparametric Kaplan-Meier survival analysis and stratified Cox proportional hazard model.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant to Hungarian agricultural trade strategy (NAK, HEPA). The paper identifies Hungary's distinctive export strengths in bulk commodities and horticulture — areas where targeted export promotion and quality branding could be most effective. Relevant to the Hungarian agricultural-export-promotion strategy. Caveat: pre-2011 data; trade patterns have shifted with global supply chain changes.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "agriculture-food",
+        "trade-fdi"
+      ],
+      "methods": [
+        "time-series",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU",
+        "EU"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2052837055"
+      "review_status": "ai-drafted",
+      "openalex_id": "W2052837055",
+      "policy_instruments": [
+        "agricultural export promotion",
+        "quality-branding policy"
+      ]
     },
     {
       "id": "bojnec-ferto-2012-worldecon",
@@ -8648,21 +8859,35 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Abstract This paper examines the impact of EU enlargement on agro‐food export performance across 12 new EU member states and five newly independent states in the EU markets covering the period 1999 to 2007. The performance is examined by duration of export and hazard model. We find larger duration for the agro‐food exports from the new EU member states. The results confirm gains from the eastward EU enlargement and governance on export increases and longer duration for exporting higher value‐added specialized consumer‐ready food and more competitive niche agro‐food products.",
-      "summary_en": null,
+      "summary_en": "Did EU enlargement affect how long agro-food export relationships last? This paper examines export duration for 12 new EU member states and 5 newly independent states in EU markets over 1999–2007. Duration is longer for new-EU-member-state exports — consistent with gains from EU enlargement. Longer duration concentrates in higher value-added, specialised consumer-ready food and competitive niche products. A clean empirical result showing EU enlargement strengthened trade relationships, particularly for differentiated agro-food products.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Annual export data 1999–2007 for 12 new EU member states and 5 newly independent states. Hazard-model analysis of trade-relationship duration.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant to Hungarian export-strategy and EU-integration policy: the paper's finding that EU membership extends agri-food export duration supports continued EU integration and quality-focused agri-food export strategy. Caveat: data end 2007; post-2008 crisis and Brexit have changed trade-relationship dynamics; a re-run with updated data would refresh magnitudes.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "agriculture-food",
+        "trade-fdi"
+      ],
+      "methods": [
+        "time-series"
+      ],
+      "countries_studied": [
+        "EU",
+        "HU"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W1801572829"
+      "review_status": "ai-drafted",
+      "openalex_id": "W1801572829",
+      "policy_instruments": [
+        "EU trade integration",
+        "agricultural-export quality policy"
+      ]
     },
     {
       "id": "bojnec-ferto-2016-emfat",
@@ -9410,21 +9635,38 @@
       "url_pdf": "https://link.springer.com/content/pdf/10.1007/s00148-021-00875-w.pdf",
       "url_replication": null,
       "abstract": "This paper measures social mobility rates in Hungary during the period 1949 to 2017, using surnames to measure social status. In those years, there were two very different social regimes. The first was the Hungarian People's Republic (1949-1989), which was a communist regime with an avowed aim of favouring the working class. The second is the modern liberal democracy (1989-2017), which is a free-market economy. We find five surprising things. First, social mobility rates were low for both upper- and lower-class families during 1949-2017, with an underlying intergenerational status correlation of 0.6-0.8. Second, social mobility rates under communism were the same as in the subsequent capitalist regime. Third, the Romani minority throughout both periods showed even lower social mobility rates. Fourth, the descendants of the eighteenth-century noble class in Hungary were still significantly privileged in 1949 and later. And fifth, although social mobility rates did not change measurably during the transition, the composition of the political elite changed rapidly and sharply.",
-      "summary_en": null,
+      "summary_en": "Did communist Hungary actually increase social mobility, as its ideology promised? This paper uses surnames to measure social status and compares intergenerational mobility across two political regimes: the Hungarian People's Republic (1949–1989) and modern liberal democracy (1989–2017). Five surprises: (1) mobility was low in both periods (intergenerational correlation 0.6–0.8); (2) mobility under communism was the same as under capitalism; (3) Hungarian Romani showed even lower mobility throughout; (4) eighteenth-century noble descendants remained advantaged; (5) the underlying rate of status persistence is remarkably stable across regimes. Institutional change did less than expected; deep social structure matters more.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Surname-based intergenerational mobility analysis for Hungary 1949–2017. Historical registries, census data, and modern administrative records. Status measured via occupational and educational attainment by surname group.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly relevant to Hungarian social-mobility policy and to historical institutional analysis. The paper's message: top-down regime change (even communist equality policy) doesn't easily raise mobility rates. Relevant to current educational and anti-poverty programmes aiming to break intergenerational transmission of disadvantage. Hungarian Roma mobility emerges as a persistent, distinctive challenge requiring targeted intervention. Caveat: surname-based measurement has known limitations; concordance with individual-level mobility estimates varies.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "inequality-welfare",
+        "transition-postcommunist",
+        "political-economy"
+      ],
+      "methods": [
+        "panel-data",
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "historical",
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W3092913333"
+      "review_status": "ai-drafted",
+      "openalex_id": "W3092913333",
+      "policy_instruments": [
+        "social-mobility programmes",
+        "Roma-inclusion policy",
+        "intergenerational-poverty interventions"
+      ]
     },
     {
       "id": "cai-szeidl-2017-qje",
@@ -11358,21 +11600,32 @@
       "url_pdf": "https://www.tandfonline.com/doi/pdf/10.1080/00036846.2022.2039370?needAccess=true",
       "url_replication": null,
       "abstract": "The aim of this article is to examine the factors that determine the durability of Olympic success at seven consecutive Summer Games between 1996 and 2021, employing survival analysis. It is assumed that factors similar to those that influence the durability of Olympic success also influence the likelihood of winning Olympic medals. We examine the durability of Olympic success at the level of sports for all medals, and for each type of medal. Our results suggest that a country can maintain its performance in a sport for an average of 2.1 Olympic Games. The Kaplan-Meier survival function shows that about 85% of spells fail after a single Games The GDP, host country, Communist past, the number of medals in a sport and the duration of preceding medal winning period are associated with successive medal-winning. Population size and the number of previous discontinuous medal wins decrease duration of Olympic success.",
-      "summary_en": null,
+      "summary_en": "How long does a country's success in an Olympic sport last? This paper applies survival analysis to Olympic medals across the seven Summer Games 1996–2021 to answer the question. Average spell: 2.1 Olympic Games; 85% of spells fail after a single Games. Factors that lengthen success: GDP, host-country advantage, communist past, number of medals in the sport, and duration of the preceding medal streak. A nice methodological application of hazard analysis to sports economics.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Olympic medals data across seven Summer Games 1996–2021 by country and sport. Survival analysis (Kaplan-Meier and Cox proportional hazards).",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Indirect policy relevance — to Hungarian sports-funding policy (EMMI) and Olympic-preparation strategy. The paper suggests that investing in sports where Hungary has established medal streaks is more likely to yield sustained success than diversifying across sports. Caveat: sports-economics paper; policy implications are narrow.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "methods"
+      ],
+      "methods": [
+        "time-series"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4221094049"
+      "review_status": "ai-drafted",
+      "openalex_id": "W4221094049",
+      "policy_instruments": [
+        "Olympic-sport funding concentration"
+      ]
     },
     {
       "id": "cumbul-virag-2018-gaeb",
@@ -11584,21 +11837,38 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Generative coding tools promise big productivity gains, but uneven uptake could widen skill and income gaps. We train a neural classifier to spot artificial intelligence (AI)-generated Python functions in more than 30 million GitHub commits by 160,097 software developers, tracking how fast, and where, these tools take hold. Currently, AI writes an estimated 29% of Python functions in the US-a shrinking lead over other countries. We estimate that quarterly output, measured in online code contributions, consequently increased by 3.6%. AI seems to benefit experienced, senior-level developers: They increased productivity and more readily expanded into new domains of software development. By contrast, early-career developers showed no significant benefits from AI adoption. This may widen skill gaps and reshape future career ladders in software development.",
-      "summary_en": null,
+      "summary_en": "Who actually uses AI to code? This paper trains a neural classifier to detect AI-generated Python functions across 30 million+ GitHub commits by 160,000+ developers, and estimates global AI-coding diffusion. Key findings: AI currently writes about 29% of Python functions in the US, a shrinking lead over other countries. Quarterly output (measured in online code contributions) rose by 3.6% from AI adoption. But: AI benefits experienced, senior developers — they increased productivity and expanded into new domains. Early-career developers showed no significant benefits. The paper warns this may widen skill gaps and reshape software-engineering career ladders.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "GitHub commit data from 30+ million commits by 160,097 developers across multiple programming languages. Neural classifier trained on labelled human-AI code pairs to detect AI-generated functions.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly relevant to Hungarian IT-sector policy, digital-skills training, and Industry 4.0 programs. The paper implies that AI-productivity support should target junior developers explicitly (who are not currently benefiting); and that GDP measurement based on IT-sector output understates actual productivity gains. Relevant to NGM digital-strategy design, ITM training programs, and university CS-curriculum reform. Caveat: Python-only measurement; broader software-development patterns may differ.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "innovation-digital",
+        "labor-markets",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "ml-text",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "US",
+        "GLOBAL"
+      ],
+      "data_types": [
+        "digital-trace"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W7125518225"
+      "review_status": "ai-drafted",
+      "openalex_id": "W7125518225",
+      "policy_instruments": [
+        "AI-skills training for juniors",
+        "digital-strategy measurement",
+        "CS-curriculum reform"
+      ]
     },
     {
       "id": "das-krishna-et-al-2013-aejae",
@@ -13610,21 +13880,34 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We examine the competitiveness of Hungarian agriculture and food processing, in relation to that of the EU, based on four indices of revealed comparative advantage, using highly disaggregate data for the period 1992 to 1998. Consistency tests suggest that the indices are less satisfactory as cardinal measures, but are useful in identifying the demarcation between comparative advantage and comparative disadvantage. Hungary is shown to have a comparative advantage in a range of agri‐food products, including animals and meat. This complements the findings of those studies that have used price and cost based approaches in identifying competitiveness in cereals and crops. Results indicate that the RCA indices, when interpreted as a binary measure, have remained surprisingly stable during the period of transition, although there is evidence of a weakening in the level of comparative advantage as revealed in the Balassa index.",
-      "summary_en": null,
+      "summary_en": "How competitive is Hungarian agriculture compared to the rest of the EU? This paper uses four different indices of revealed comparative advantage on 1992–1998 data, asking whether Hungary has a persistent advantage in particular products. Findings: Hungary has comparative advantage in a range of agri-food products, notably animals and meat. The RCA indices work better as binary indicators than as precise cardinal measures, but the underlying competitive position is stable over the 1990s. A foundational analysis for understanding Hungary's agricultural-export portfolio.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Highly disaggregated Hungarian agri-food trade data, 1992–1998. Four revealed comparative advantage indices compared.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Foundational for Hungarian CAP-implementation and agricultural-export strategy. The paper identifies livestock and meat as Hungary's comparative-advantage areas — a position that has since shifted. Relevant to historical context for agricultural-policy reform. Caveat: 1990s data; the Hungarian agricultural sector has undergone substantial structural change since, and current comparative advantages may be quite different.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "agriculture-food",
+        "trade-fdi"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2022129229"
+      "review_status": "ai-drafted",
+      "openalex_id": "W2022129229",
+      "policy_instruments": [
+        "CAP implementation",
+        "agricultural comparative-advantage strategy"
+      ]
     },
     {
       "id": "ferto-jambor-2014-agec",
@@ -13645,21 +13928,35 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This article investigates the drivers of vertical intra-industry trade (VIIT) in Hungarian agri-food trade with the European Union (EU). It identifies three possible ways to measure intra-industry trade (IIT) flows (GHM, FF, and N methods) and defines six hypotheses to test for the drivers of VIIT with three panel data models (static, dynamic, and FEVD). The results suggest that factor endowments are negatively, while economic size is positively and significantly related to VIIT. Distance and VIIT were found to be negatively related as is commonly the case in the standard gravity model. It was also found that VIIT is greater if a New Member State (NMS) is exporting agri-food produce to an NMS, while EU accession has ambiguously influenced the share of VIIT. In general, it seems that our results are independent from model estimations and interestingly they do not differ considerably as we a priori expected. Moreover, our results seem surprisingly robust across various measurements of ITT.",
-      "summary_en": null,
+      "summary_en": "Vertical intra-industry trade (exporting and importing goods of different quality within the same product category) is economically informative: it reflects product differentiation and specialisation. This paper asks what drives vertical IIT in Hungarian agri-food trade with the EU. Three drivers matter: factor endowments (negative), economic size (positive), and distance (negative — consistent with gravity-model intuitions). New-member-state exports to other new-member-states show higher vertical IIT shares, and EU accession had an ambiguous effect. A careful empirical portrait of trade-in-variety in Hungarian agri-food.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian agri-food trade data with EU partners. Multiple IIT measurement methods (GHM, FF, N) tested. Panel-data models (static, dynamic, FEVD).",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant to Hungarian agri-food export policy and to EU new-member-state trade-policy debates. The paper's message: trade in differentiated agri-food products is sensitive to distance and partner-country size — supporting Hungary's focus on regional markets (V4, Balkans) for specialised exports. Relevant to HEPA and NAK export strategy. Caveat: pre-2014 data; product differentiation and quality upgrading have continued.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "agriculture-food",
+        "trade-fdi"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU",
+        "EU"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W1988094262"
+      "review_status": "ai-drafted",
+      "openalex_id": "W1988094262",
+      "policy_instruments": [
+        "product-quality upgrading",
+        "V4 regional trade strategy"
+      ]
     },
     {
       "id": "ferto-koczy-et-al-2020-eroae",
@@ -13719,21 +14016,35 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Abstract We aim to identify the most influential members of the Agricultural Committee of the European Parliament (COMAGRI). Unlike previous studies that were based on case studies or interviews with stakeholders, we analyse the voting power of MEPs using a spatial Banzhaf power index. We identify critical members: members whose votes are necessary to form winning coalitions. We found that rapporteurs, EP group coordinators and MEPs from countries with high relative Committee representations, such as Ireland, Poland or Romania are powerful actors. Italy emerges as the most influential member state, while France seems surprisingly weak.",
-      "summary_en": null,
+      "summary_en": "Who are the most influential MEPs on EU agricultural policy? This paper uses formal voting-power analysis (spatial Banzhaf index) to rank members of the European Parliament's Agricultural Committee. It identifies \"critical members\" whose votes are necessary to form winning coalitions. Findings: rapporteurs, EP group coordinators, and MEPs from countries with disproportionate committee representation (Ireland, Poland, Romania) are the most powerful. Italy emerges as the most influential member state; France is surprisingly weak. A quantitative complement to previous case-study work on EU agricultural lobbying.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Voting records and coalition structures of the European Parliament's Agricultural Committee (COMAGRI), multiple years. Spatial Banzhaf power index calculation.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly relevant to Hungarian EU-affairs strategy (MFM, NAK). The paper shows which MEP positions (rapporteur, EP group coordinator) are genuinely powerful — a guide for Hungarian political investment in securing key committee appointments. Relevant to EU agricultural-policy advocacy. Caveat: voting-power indices have well-known limitations; actual influence depends on issue salience and political context not captured in the index.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "agriculture-food",
+        "political-economy"
+      ],
+      "methods": [
+        "theory",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "EU"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W3046402491"
+      "review_status": "ai-drafted",
+      "openalex_id": "W3046402491",
+      "policy_instruments": [
+        "EU lobbying strategy",
+        "MEP-committee assignment strategy"
+      ]
     },
     {
       "id": "ferto-podruzsik-2016-pmue",
@@ -17561,21 +17872,41 @@
       "url_pdf": "https://www.nature.com/articles/s41586-025-09259-6.pdf",
       "url_replication": null,
       "abstract": "Immigrants to high-income countries often face considerable and persistent difficulties in the labour market<sup>1-6</sup>, whereas their native-born children typically experience economic progress<sup>6-9</sup>. However, little is known about the extent to which these immigrant-native earnings differences stem from unequal pay when doing the same work for the same employer versus labour market processes that sort immigrants into lower-paid jobs. Here, using data from nine European and North American countries, we show that the segregation of workers with immigrant backgrounds into lower-paying jobs accounts for about three-quarters of overall immigrant-native earnings differences. Although within-job pay inequality remains notable for immigrants in several countries, our results demonstrate that unequal access to higher-paying jobs is the primary driver of the immigrant-native pay gap across a range of institutionally and demographically diverse contexts. These findings highlight the importance of policies aimed at reducing between-job segregation, such as language training<sup>10-13</sup>, job training<sup>13-15</sup>, job search assistance programmes<sup>13,15</sup>, improving access to domestic education<sup>13,16,17</sup>, recognizing foreign qualifications<sup>18,19</sup>, and settlement programmes aimed at enhancing access to job-relevant information and networks<sup>13,20,21</sup>. Policies that target employer bias in hiring and promotion decisions are also likely to be effective, whereas measures aimed at ensuring equal pay for equal work may have more limited scope for further progress in closing the immigrant-native pay gap<sup>22-28</sup>.",
-      "summary_en": null,
+      "summary_en": "Why do immigrants earn less than natives in rich countries? This paper uses linked employer-employee data from nine European and North American countries to separate two channels: (a) unequal pay for the same work at the same employer, and (b) immigrants being sorted into lower-paying jobs. The striking result: job sorting accounts for about three-quarters of the immigrant-native earnings gap. Within-job pay inequality exists and matters, but unequal access to higher-paying employers and positions is the dominant driver. Policy implications shift accordingly: addressing hiring and promotion barriers matters more than equal-pay enforcement.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Linked employer-employee administrative data from 9 countries (including Hungary, via boza-istvan). Covers 2 billion+ job-years nested within 50 million+ workplace-years. Enables decomposition of earnings gaps into within-job and between-job components.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Highly relevant for Hungarian integration policy. The paper shows that closing immigrant-native pay gaps requires tackling job-access barriers — credential recognition, language programs, occupation licensing, network-based hiring — more than wage-discrimination enforcement. Relevant to ETDA, BM migration policy, and employer-level diversity efforts. Hungary-specific estimates (via Boza's KRTK work) are embedded in the sample. Caveat: sample is 9 countries; Hungarian context includes specific Roma-employment barriers that are a different case from typical immigrant-native dynamics.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "labor-markets",
+        "demographics-migration",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "panel-data",
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "HU",
+        "US",
+        "EU"
+      ],
+      "data_types": [
+        "admin-firm",
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4412478879"
+      "review_status": "ai-drafted",
+      "openalex_id": "W4412478879",
+      "policy_instruments": [
+        "credential recognition",
+        "language integration programmes",
+        "job-access policy",
+        "diversity hiring standards"
+      ]
     },
     {
       "id": "herrendorf-herrington-et-al-2015-aejm",
@@ -18794,21 +19125,36 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Abstract Firms in industry clusters benefit from locating close to suppliers and customers. However, the pervasiveness of global value chains questions the need for co-location in buyer–supplier relationships. We propose that supply-chain partners are more likely to co-locate if they exchange not only goods but also know-how, implying superadditivity of Marshallian agglomeration channels. We test this in a coagglomeration framework using microdata for Hungary—a small, open economy deeply embedded in global value chains—examining co-location, labor flows, and value chains between firms and industries. We find that supply chains foster co-location primarily among firms in skill-related industries.",
-      "summary_en": null,
+      "summary_en": "Why do firms in industry clusters benefit from being near their suppliers and customers? The textbook answer points to goods flows. This paper argues it's also about know-how flows. If supply-chain partners exchange not just inputs but tacit knowledge, their benefits from co-locating should be larger than Marshallian theory suggests. Using Hungarian microdata on co-location, labour flows, and firm-to-firm value chains, the authors test the prediction. Finding: supply chains foster co-location primarily among firms in skill-related industries — confirming the know-how channel. A cleaner empirical framework for thinking about industrial-cluster policy.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian administrative microdata on firms: inter-firm value-chain relationships, labour mobility between firms, firm-level co-location. Covers firms across all industries in Hungary.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly relevant to Hungarian regional-development and industrial-policy design (ITM, local governments). The paper supports cluster-support policies that prioritize skill-related industries and recognise know-how transfer as a distinct benefit of co-location. Relevant to EU cohesion-fund targeting and to Hungarian special-economic-zone policy. Caveat: the data are recent and Hungarian; the skill-relatedness channel's strength in other settings may vary.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "regional-urban",
+        "firms-productivity",
+        "innovation-digital"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-firm"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W7129109926"
+      "review_status": "ai-drafted",
+      "openalex_id": "W7129109926",
+      "policy_instruments": [
+        "industrial-cluster policy",
+        "special-economic-zone design",
+        "EU cohesion targeting"
+      ]
     },
     {
       "id": "juhasz-lengyel-2017-joeg",
@@ -22229,21 +22575,36 @@
       "url_pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ecca.12568",
       "url_replication": null,
       "abstract": "Abstract This paper evaluates the effects of the Hungarian disability employment quota, which requires firms over a size threshold to employ individuals with disabilities or pay a non‐compliance tax. In 2010, the tax was raised from very low levels to 170% of the minimum wage cost associated with meeting the quota. We employ a regression discontinuity design on firm‐level data to estimate the effects of the policy and provide a lower‐bound estimate to account for the potential bias resulting from firms bunching below the threshold. Firms respond to the quota by hiring 0.24–0.29 additional workers with disabilities, with a lower bound estimate of 0.12–0.17. However, about two‐thirds of the quota is not fulfilled, which is puzzling as the tax is higher than the minimum wage cost of a worker with disabilities. Our model shows that high hiring costs associated with employing individuals with disabilities might be an important factor behind this anomaly. We test this hypothesis by showing that the effect is weaker in regions with a low share of individuals with disabilities, implying that without adequate policies targeting the removal of supply‐side barriers to the employment of people with disabilities, even strong demand‐side financial incentives cannot achieve their goals.",
-      "summary_en": null,
+      "summary_en": "Hungary's disability employment quota requires firms above a size threshold to employ disabled workers or pay a non-compliance tax. In 2010, this tax was raised dramatically (to 170% of minimum-wage cost). This paper uses a regression discontinuity around the size threshold to evaluate the policy. Firms do hire more disabled workers (0.24–0.29 additional, lower bound 0.12–0.17), but two-thirds of the quota is still not fulfilled. The puzzle: the tax is higher than the wage cost. The authors' model suggests high non-wage hiring costs (accommodation, compliance) explain why firms pay the tax rather than hire. The policy is a textbook example of unintended limits.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian firm-level administrative data covering the 2010 disability-employment-quota tax increase. Regression-discontinuity design exploiting the firm-size threshold above which the quota applies.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly relevant to Hungarian disability-policy design (EMMI, Ministry of Economy). The paper quantifies why the quota is under-complied-with: non-wage hiring costs are high. Policy implication: raising the tax alone is ineffective; complementary policies (subsidised accommodations, dedicated matching services, employer information) are needed. Relevant to continuing reform debates. Caveat: identified from 2010 reform; labour-market conditions have since tightened, which may have changed the trade-off.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "labor-markets",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "rd",
+        "structural"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-firm"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4406807793"
+      "review_status": "ai-drafted",
+      "openalex_id": "W4406807793",
+      "policy_instruments": [
+        "disability employment quota",
+        "accommodation subsidies",
+        "compliance tax calibration"
+      ]
     },
     {
       "id": "krishna-lychagin-et-al-2018-ier",
@@ -22786,15 +23147,14 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Social networks may help individuals maintain their mental health. Most empirical work based on small-scale surveys finds that cohesive social networks are critical for mental well-being, while diverse networks are considered less important. Here, we link data on antidepressant use of 277,344 small-town residents to a nationwide online social network. The data enable us to examine how individuals' mental health care is related to the spatial characteristics of their social networks including their ties in the local community and connections to distant communities. We find that, besides the cohesion of social networks around home, the diversity of connections to distant places is negatively correlated with the probability of antidepressant use. Spatial diversity of social networks is also associated with decreasing dosage in subsequent years. This relationship is independent from the local access to antidepressants and is more prevalent for young individuals. Structural features of spatial social networks are prospectively associated with depression treatment.",
-      "summary_en": "Does your social network affect your mental health? Linking antidepressant-use data for 277,000 Hungarians in small towns to a nationwide online social network, this paper finds that social-network diversity — not just local cohesion — matters. People with social ties reaching distant communities are less likely to start antidepressants and more likely to decrease dosage over time. The effect is independent of local pharmacy access and strongest among young people. The paper challenges the conventional view that only close, cohesive networks support mental well-being — \"bridging\" ties to distant places matter too.",
+      "summary_en": "Do your social networks protect your mental health? Small-scale surveys say yes — but only in narrow ways. This paper uses a nationwide dataset linking antidepressant purchases of 277,344 Hungarian small-town residents to the Hungarian online social-network structure. Beyond the standard finding that cohesive local networks matter, the authors show that spatial diversity in one's network (connections to distant places) is negatively correlated with antidepressant use and with dosage increases in subsequent years. The result is independent of local factors. A striking empirical connection between social-network geography and mental-health outcomes.",
       "summary_hu": "Befolyásolja-e a szociális hálózatod a mentális egészségedet? 277 000 kisvárosi magyar lakos antidepresszáns-használatára vonatkozó adatokat egy országos online közösségi hálózattal összekapcsolva a tanulmány azt találja, hogy a szociális-hálózati diverzitás — nem csak a helyi kohézió — számít. Azok, akiknek távoli közösségekbe nyúló szociális kapcsolatai vannak, kevésbé valószínűen kezdenek antidepresszánst szedni és valószínűbben csökkentik az adagolást idővel. A hatás független a helyi gyógyszertári hozzáféréstől és legerősebb fiatalok körében. A tanulmány kihívást intéz a hagyományos nézettel szemben, miszerint csak a szoros, kohezív hálózatok támogatják a mentális jólétet — a távoli helyek felé nyúló „áthidaló\" kapcsolatok is számítanak.",
-      "data_used": "Hungarian prescription-drug (antidepressant) records for 277,344 residents of small Hungarian towns, linked to an anonymised nationwide online social network with measured geographic spread of ties; multi-year panel.",
+      "data_used": "Hungarian administrative data on antidepressant prescriptions (277,344 small-town residents) linked to a nationwide online social-network dataset. Individual-level analysis with spatial and network controls.",
       "data_used_hu": "Magyar receptgyógyszer-(antidepresszáns-)rekordok 277 344 magyar kisvárosi lakosra, anonimizált országos online közösségi hálózattal összekapcsolva a kapcsolatok földrajzi kiterjedésével mért; többéves panel.",
-      "policy_relevance": "For the Ministry of Interior mental-health portfolio and public-health agencies: supports place-based mental-health strategies that promote connectivity to other communities — e.g., through youth exchange programmes, migration-support, or regional mobility policies. Concrete evidence that geographic isolation has mental-health costs on top of traditional determinants. Hungarian data; immediately applicable. Caveat: correlational — causal direction is plausible but not definitively established.",
+      "policy_relevance": "For Hungarian mental-health policy (EMMI, NEAK): the paper suggests that policies increasing rural-urban connectivity and mobility could have mental-health co-benefits. Relevant to regional-development programs with social-integration components. Caveat: correlation, not causation — unobserved selection (personality, life circumstances) may drive both network diversity and mental health. Cautious interpretation warranted.",
       "policy_relevance_hu": "A Belügyminisztérium mentális egészségügyi portfóliójához és közegészségügyi ügynökségekhez: támogatja a hely-alapú mentális egészségügyi stratégiákat, amelyek a más közösségekbe való kapcsolódást mozdítják elő — pl. ifjúsági csereprogramokkal, migráció-támogatással vagy regionális mobilitási politikákkal. Konkrét bizonyíték arra, hogy a földrajzi elszigeteltségnek mentális egészségi költsége van a hagyományos meghatározókon túl. Magyar adat; azonnal alkalmazható. Figyelmeztetés: korrelációs — az oksági irány plauzibilis, de nem végérvényesen megállapított.",
       "topics": [
         "health",
-        "demographics-migration",
         "regional-urban"
       ],
       "methods": [
@@ -22810,13 +23170,12 @@
       ],
       "featured": false,
       "added_at": "2026-04-20",
-      "last_reviewed_at": "2026-04-20",
+      "last_reviewed_at": "2026-04-23",
       "review_status": "ai-drafted",
       "openalex_id": "W4405103176",
       "policy_instruments": [
-        "community mental health programs",
-        "regional mobility policies",
-        "mentálhigiénés közegészség"
+        "regional-mobility programmes",
+        "mental-health community infrastructure"
       ]
     },
     {
@@ -23833,21 +24192,36 @@
       "url_pdf": "https://www.pnas.org/doi/pdf/10.1073/pnas.2504632123",
       "url_replication": null,
       "abstract": "Collective action problems emerge when individual incentives and group interests are misaligned, as in the case of climate change. Individuals involved in these problems are generally considered to have two options: contribute toward public solutions such as global warming mitigation or free ride. However, many collective action problems today involve a third option of investing in a \"private solution\" such as local adaptation. The availability of this third option can lead to a private solution trap whereby private solutions are adopted, collectively optimal public solutions are not provided, and existing inequalities are exacerbated. We investigated the private solution trap with a collective action game featuring private and public solutions, wealth inequality determined by luck or merit, and participants from 34 countries. We found that the joint existence of private solutions and wealth inequality had a consistent effect across countries: Participants given a higher endowment adopted private solutions almost twice as often as those given a lower endowment, regardless of whether it was determined by luck or merit, and contributed proportionally less toward public solutions. Wealth inequality increased in every country and those given lower endowments were often left unprotected as public solutions were not provided. Across countries, cultural values of hierarchy and harmony were associated with preferences for private and public solutions, respectively. We also identified two universal pathways toward public solution provision: early contributions and conditional cooperation. Our findings highlight the ubiquity of the private solution trap, its cultural underpinnings, and its potential consequences for global collective action problems.",
-      "summary_en": null,
+      "summary_en": "Climate change is the classic collective-action problem: everyone benefits from mitigation, but no individual has strong incentives to pay. Traditionally, the choice is between contributing to a public solution and free-riding. But modern collective-action problems often have a third option: a \"private solution\" like adaptation or local self-protection. This paper runs a game with private + public options across 34 countries and shows that the mere availability of a private solution crowds out the public one, traps collective action in under-provision, and exacerbates inequality when wealth is unequal. A warning for climate-adaptation policy.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Collective-action lab experiment with 34-country participation, incorporating private/public solution options and wealth inequality determined by luck or merit.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian climate policy: the paper warns that promoting private adaptation (better insulation, personal AC, private insurance) can crowd out support for public mitigation (emissions regulation, renewable-energy infrastructure). Also warns that private-solution pathways amplify inequality — richer households can afford adaptation; poorer cannot. Relevant to MBKIK, BVOP climate-strategy, and inequality-sensitive climate-policy design. Caveat: lab-experimental findings; real-world salience of private-solution options varies by policy area.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "energy-environment",
+        "behavioral",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "rct"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
+      "data_types": [
+        "field-experiment"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W7139953906"
+      "review_status": "ai-drafted",
+      "openalex_id": "W7139953906",
+      "policy_instruments": [
+        "climate-adaptation policy mix",
+        "carbon mitigation subsidies",
+        "inequality-sensitive climate policy"
+      ]
     },
     {
       "id": "manchin-2006-we",
@@ -24649,21 +25023,33 @@
       "url_pdf": "https://academic.oup.com/rfs/article-pdf/28/12/3303/24449968/hhv047.pdf",
       "url_replication": null,
       "abstract": "We provide a model of nonredundant credit default swaps (CDSs), building on the observation that CDSs have lower trading costs than bonds. CDS introduction involves a trade-off: it crowds out existing demand for the bond, but improves the bond allocation by allowing long-term investors to become levered basis traders and absorb more of the bond supply. We characterize conditions under which CDS introduction raises bond prices. The model predicts a negative CDS-bond basis, as well as turnover and price impact patterns that are consistent with empirical evidence. We also show that a ban on naked CDSs can raise borrowing costs.",
-      "summary_en": null,
+      "summary_en": "Credit Default Swaps (CDSs) let investors take positions on corporate default risk without holding the bond. Are CDSs just redundant with bonds, or do they add something? This paper models the answer: CDSs are non-redundant because they have lower trading costs than bonds. Introducing a CDS crowds out some bond demand but lets long-term investors become levered basis-traders and absorb more bond supply. The paper derives conditions under which CDS introduction raises bond prices (i.e., lowers borrowing costs for firms). It shows a ban on naked CDSs can raise borrowing costs — a cautionary result for derivative regulation.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper with predictions matching empirical CDS-bond market patterns (negative CDS-bond basis, turnover, price impact).",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian financial-market regulation (MNB) and EU-level CDS regulation (MiFID II, SSR): the paper supports retaining CDS markets — including naked positions — as they can lower borrowing costs for firms. Relevant to ongoing EU Short Selling Regulation debates and to Hungarian corporate-bond market development. Caveat: the model's conditions for CDS benefits matter; empirical verification of non-redundancy in specific Hungarian corporate-bond markets would strengthen the policy argument.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "banking-finance",
+        "industrial-organization"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-21",
-      "last_reviewed_at": "2026-04-21",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W3123993474"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W3123993474",
+      "policy_instruments": [
+        "CDS market regulation",
+        "naked CDS ban",
+        "short-selling rules"
+      ]
     },
     {
       "id": "oehmke-zawadowski-2016-rfs",
@@ -24684,21 +25070,35 @@
       "url_pdf": "https://academic.oup.com/rfs/article-pdf/30/1/80/8601289/hhw068.pdf",
       "url_replication": null,
       "abstract": "Using novel position and trading data for single-name corporate credit default swaps (CDSs), we provide evidence that CDS markets emerge as “alternative trading venues” serving a standardization and liquidity role. CDS positions and trading volume are larger for firms with bonds fragmented into many separate issues and with heterogeneous contractual terms. Whereas hedging motives are associated with trading volume in the bond and CDS markets, speculative trading concentrates in the CDS. Cross-market arbitrage links the CDS and bond market via the basis trade, compressing the negative CDS-bond basis and reducing price impact in the bond market. Received September 24, 2014; accepted January 17, 2016 by Editor Andrew Karolyi.",
-      "summary_en": null,
+      "summary_en": "Who actually uses the single-name corporate CDS market, and why? This paper uses novel position and trading data to answer the question empirically. Key findings: CDS positions and trading volume are larger for firms whose bonds are fragmented across many issues with heterogeneous terms — i.e., CDSs serve as a \"standardised alternative trading venue.\" Hedging motives drive bond market volume; speculation concentrates in CDS markets. The negative CDS-bond basis is compressed by cross-market arbitrage. A detailed empirical portrait of how credit-derivative markets interact with underlying bond markets.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Novel position and trading data on single-name corporate credit default swaps, combined with corresponding bond-market data. Coverage of US corporate bonds and their CDS counterparts.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian financial-supervision (MNB) and for EU capital-markets-union policy: the paper shows CDSs fulfil a standardisation role; policies fragmenting or restricting CDS markets would push speculation into less-transparent venues without eliminating it. Relevant to Hungarian sovereign-CDS market analysis and to EU derivatives regulation. Caveat: US evidence; Hungarian sovereign and corporate CDS markets are thinner, and standardisation effects would be of different magnitude.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "industrial-organization"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "admin-firm"
+      ],
       "featured": false,
       "added_at": "2026-04-21",
-      "last_reviewed_at": "2026-04-21",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W3023171695"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W3023171695",
+      "policy_instruments": [
+        "CDS market regulation",
+        "derivative-market transparency",
+        "capital markets union"
+      ]
     },
     {
       "id": "paradi-dolgos-bareith-et-al-2022-wp",
@@ -24785,21 +25185,40 @@
       "url_pdf": "https://www.nature.com/articles/s41562-022-01470-z.pdf",
       "url_replication": null,
       "abstract": "Extant research on the gender pay gap suggests that men and women who do the same work for the same employer receive similar pay, so that processes sorting people into jobs are thought to account for the vast majority of the pay gap. Data that can identify women and men who do the same work for the same employer are rare, and research informing this crucial aspect of gender differences in pay is several decades old and from a limited number of countries. Here, using recent linked employer-employee data from 15 countries, we show that the processes sorting people into different jobs account for substantially less of the gender pay differences than was previously believed and that within-job pay differences remain consequential.",
-      "summary_en": null,
+      "summary_en": "The standard story about the gender pay gap has been: within the same job, men and women are paid similarly; the gap comes from sorting women into lower-paying jobs. This paper uses recent linked employer-employee data from 15 countries to challenge that story. The finding: job sorting accounts for less of the gap than previously believed, and within-job pay differences remain substantial. Policy implications flip — equal-pay enforcement (within-job) matters more than previously thought. An empirical update that should reshape how governments and firms design gender-equality policies.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Linked employer-employee administrative data from 15 countries (including Hungary, via Boza and Hajdu). Covers within-job versus between-job pay decomposition.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Central for Hungarian gender-equality policy (ETDA, Ministry of Labour). The paper supports strengthened within-job pay-transparency and equal-pay-enforcement mechanisms, including audits of pay bands within firms. Relevant to implementation of the EU Pay Transparency Directive. Caveat: countries differ; Hungarian magnitudes are embedded in the sample via Hungarian data contributors, but full domestic estimates with more recent micro-data would be complementary.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "labor-markets",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "panel-data",
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "HU",
+        "EU",
+        "US",
+        "GLOBAL"
+      ],
+      "data_types": [
+        "admin-firm",
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4225927390"
+      "review_status": "ai-drafted",
+      "openalex_id": "W4225927390",
+      "policy_instruments": [
+        "EU Pay Transparency Directive",
+        "pay-band auditing",
+        "within-job pay-equality enforcement"
+      ]
     },
     {
       "id": "peters-szentes-2012-ecma",
@@ -25710,21 +26129,32 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This paper endogenizes the decision whether to post a mechanism or to participate in another trader's mechanism in a competing mechanisms environment. With a population of heterogeneous buyers and sellers facing standard search frictions, each trader in our market has to decide whether to post a mechanism or to visit a mechanism posted by a trader on the other side of the market. We show that the equilibrium in this market is unique and is constrained efficient. Inefficient traders (low-value buyers and high-cost sellers) choose to visit with probability one, while more efficient traders randomize between posting and visiting. The resulting allocation differs substantially from the equilibrium allocation in the market where only one side can post mechanisms, especially when trader heterogeneity is significant. This suggests that decentralized marketplaces should allow participating buyers and sellers to self-select into making or receiving offers. We also provide conditions under which posting decisions are monotone, so that more efficient types post with higher probabilities than less efficient types.",
-      "summary_en": null,
+      "summary_en": "In many real markets, the same person can act as either a seller (posting prices/auctions) or a buyer (visiting posted mechanisms). This paper asks: who chooses which role? Using a model with heterogeneous buyers and sellers and search frictions, the authors show the equilibrium is unique and constrained-efficient. Inefficient traders (low-value buyers, high-cost sellers) always choose to visit rather than post; efficient traders randomise between posting and visiting. The allocation is substantially different from what you get in markets where only one side can post — a cleaner characterisation of endogenous market-maker selection.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant to Hungarian market-design contexts where the distinction between \"platform\" and \"user\" is fluid — online marketplaces, employment agencies, procurement. The paper provides a theoretical baseline for evaluating who becomes a mechanism-poster versus participant and what efficiency properties to expect. Relevant to platform-regulation debates. Caveat: theoretical; specific Hungarian policy applications depend on institutional features of the relevant market.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "industrial-organization",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4392303222"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4392303222",
+      "policy_instruments": [
+        "platform market design",
+        "matching-mechanism regulation"
+      ]
     },
     {
       "id": "simone-manchin-2012-rie",
@@ -25958,21 +26388,32 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "There is ample empirical evidence documenting that large firms set significantly lower prices than smaller, capacity-constrained, firms. This is paradoxical in light of the standard theoretical result that large firms charge higher prices than small firms in models of price competition with capacity constraints. We argue that private information about capacity constraints can account for this puzzle. We provide concavity conditions on the demand and on the type distribution under which there exists a unique, monotone decreasing price equilibrium. Solving the model requires a novel approach of studying several different regions of pricing incentives depending on the realized capacity levels. We show that firms with intermediate capacities compete in an auction type interaction, while firms with low or high capacity levels compete less vigorously on the margin.",
-      "summary_en": null,
+      "summary_en": "An empirical puzzle: across many industries, larger firms charge lower prices than smaller, capacity-constrained ones. Standard price-competition theory with capacity constraints predicts the opposite. This paper resolves the puzzle: private information about capacity makes small firms bid more cautiously because they know they'd \"feast on leftovers\" after larger competitors sell out. The authors characterise when a unique equilibrium with monotonically decreasing prices exists, showing intermediate-capacity firms compete in auction-like interactions. A clean theoretical rationalisation of a stylised fact.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data. Motivating facts from industry pricing literature.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian competition policy (GVH), the paper changes how capacity-size-price relationships should be interpreted. Large firms charging lower prices is not automatic evidence of market power or predation — it can be a natural outcome of private information. Relevant to merger reviews involving size-asymmetric firms and to regulated-industry pricing analysis. Caveat: the model is stylised; empirical verification of private-information assumptions in specific markets is needed.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "industrial-organization",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4360841405"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4360841405",
+      "policy_instruments": [
+        "merger review with asymmetric capacity",
+        "capacity-disclosure rules"
+      ]
     },
     {
       "id": "somogyi-vincze-2012-ige",
@@ -27335,21 +27776,40 @@
       "url_pdf": "https://www.pnas.org/content/pnas/117/17/9277.full.pdf",
       "url_replication": null,
       "abstract": "It is well documented that earnings inequalities have risen in many high-income countries. Less clear are the linkages between rising income inequality and workplace dynamics, how within- and between-workplace inequality varies across countries, and to what extent these inequalities are moderated by national labor market institutions. In order to describe changes in the initial between- and within-firm market income distribution we analyze administrative records for 2,000,000,000+ job years nested within 50,000,000+ workplace years for 14 high-income countries in North America, Scandinavia, Continental and Eastern Europe, the Middle East, and East Asia. We find that countries vary a great deal in their levels and trends in earnings inequality but that the between-workplace share of wage inequality is growing in almost all countries examined and is in no country declining. We also find that earnings inequalities and the share of between-workplace inequalities are lower and grew less strongly in countries with stronger institutional employment protections and rose faster when these labor market protections weakened. Our findings suggest that firm-level restructuring and increasing wage inequalities between workplaces are more central contributors to rising income inequality than previously recognized.",
-      "summary_en": null,
+      "summary_en": "When inequality rises, where does it come from — within-firm differences (top managers versus rank-and-file) or between-firm differences (some companies pay more than others)? This paper uses comprehensive administrative records for 14 high-income countries to decompose the trend. The between-workplace component grows in almost every country examined and declines in none. Within-workplace inequality's trend varies. The finding has profound policy implications: policies aimed at within-firm pay structures will increasingly miss the growing source of inequality. Firm-level productivity and labour-market sorting dynamics become the right focal points.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Administrative linked employer-employee records for 14 high-income countries covering 2 billion+ job-years and 50 million+ workplaces. Hungary included via Boza and Hajdu contributions.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Central for understanding Hungarian wage-inequality trends and for policy design. The paper's key message — between-firm inequality is rising everywhere — shifts policy attention to: firm-size policy, sector-specific productivity policy, minimum-wage design across firms, and collective-bargaining coverage. Relevant to MNB wage analysis, VKF social dialogue, and Ministry of Economy wage-policy design. Caveat: the measurement focuses on high-income-country experience; Hungarian-specific decomposition should be done on KRTK data.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "labor-markets",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "panel-data",
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "HU",
+        "EU",
+        "US",
+        "GLOBAL"
+      ],
+      "data_types": [
+        "admin-firm",
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W3016010946"
+      "review_status": "ai-drafted",
+      "openalex_id": "W3016010946",
+      "policy_instruments": [
+        "firm-size inequality policy",
+        "minimum-wage design",
+        "collective-bargaining coverage"
+      ]
     },
     {
       "id": "toth-arvai-et-al-2002-cte",
@@ -28136,21 +28596,34 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "I model an entangled financial system in which banks hedge their portfolio risks using over-the-counter (OTC) contracts. However, banks choose not to hedge counterparty risk, and thus the idiosyncratic failure of a bank can lead to a systemic run of lenders. An inefficiency arises because banks engage in a version of risk shifting through the network externalities created by OTC contracts. Banks do not take into account that the costly hedging of low-probability counterparty risk also benefits other banks. In the model, it is welfare improving to tax OTC contracts to finance a bailout fund. The Author 2013. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please e-mail: journals.permissions@oup.com., Oxford University Press.",
-      "summary_en": null,
+      "summary_en": "When banks use over-the-counter (OTC) derivatives to hedge portfolio risks, they create a dense web of counterparty exposures. This paper shows that even if each bank hedges its own portfolio, banks choose not to hedge counterparty risk — leading to systemic vulnerability. The idiosyncratic failure of one bank can trigger a lender run that sweeps through the network. An inefficiency arises because banks don't internalise the externality that costly counterparty hedging benefits others. The paper shows that taxing OTC contracts to finance a bailout fund is welfare-improving. A compact theoretical foundation for post-2008 macroprudential regulation.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data. Directly motivated by 2008 financial-crisis OTC counterparty-risk patterns.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Foundational for Hungarian macroprudential policy (MNB). The paper's welfare case for OTC derivative taxation and explicit bailout-fund pre-financing maps directly onto EU regulation (EMIR, BRRD, resolution funds). Supports MNB's stance on concentrated counterparty risk and on pre-funded resolution mechanisms. Caveat: the model is stylised; Hungarian banking concentration and EU resolution-fund design set the quantitative context.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "banking-finance",
+        "methods",
+        "macroeconomics"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-21",
-      "last_reviewed_at": "2026-04-21",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W3122202772"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W3122202772",
+      "policy_instruments": [
+        "OTC derivative taxation",
+        "bank-resolution fund pre-financing",
+        "counterparty-risk capital surcharge"
+      ]
     },
     {
       "id": "zawadowski-2017-ks",
@@ -28279,7 +28752,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 30
+      "paper_count": 36
     },
     {
       "id": "education-skills",
@@ -28290,7 +28763,7 @@
       "policy_framing_en": "Relevant to: curriculum design, teacher policy, school tracking age, higher education funding, vocational training.",
       "policy_framing_hu": "Releváns: tantervfejlesztés, tanárpolitika, iskolai szelekció életkora, felsőoktatás finanszírozása, szakképzés.",
       "icon": "graduation-cap",
-      "paper_count": 18
+      "paper_count": 20
     },
     {
       "id": "health",
@@ -28301,7 +28774,7 @@
       "policy_framing_en": "Relevant to: healthcare system design, hospital payment, prevention programs, pharmaceutical policy, mental health services.",
       "policy_framing_hu": "Releváns: egészségügyi rendszer kialakítása, kórházi finanszírozás, prevenciós programok, gyógyszerpolitika, mentális szolgáltatások.",
       "icon": "heart-pulse",
-      "paper_count": 19
+      "paper_count": 24
     },
     {
       "id": "demographics-migration",
@@ -28312,7 +28785,7 @@
       "policy_framing_en": "Relevant to: family policy, pension system, immigration policy, retention of skilled workers.",
       "policy_framing_hu": "Releváns: családpolitika, nyugdíjrendszer, bevándorláspolitika, szakemberek megtartása.",
       "icon": "users",
-      "paper_count": 11
+      "paper_count": 12
     },
     {
       "id": "trade-fdi",
@@ -28323,7 +28796,7 @@
       "policy_framing_en": "Relevant to: EU trade policy, FDI promotion, export promotion, supply chain resilience, industrial policy.",
       "policy_framing_hu": "Releváns: EU kereskedelempolitika, FDI ösztönzés, exporttámogatás, ellátási láncok rugalmassága, iparpolitika.",
       "icon": "globe",
-      "paper_count": 26
+      "paper_count": 31
     },
     {
       "id": "firms-productivity",
@@ -28334,7 +28807,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 51
+      "paper_count": 56
     },
     {
       "id": "innovation-digital",
@@ -28345,7 +28818,7 @@
       "policy_framing_en": "Relevant to: R&D tax credits, digital strategy, AI policy, innovation agency design, university–industry linkages.",
       "policy_framing_hu": "Releváns: K+F adókedvezmények, digitális stratégia, MI-politika, innovációs ügynökségek, egyetem–ipar kapcsolatok.",
       "icon": "cpu",
-      "paper_count": 13
+      "paper_count": 16
     },
     {
       "id": "banking-finance",
@@ -28356,7 +28829,7 @@
       "policy_framing_en": "Relevant to: MNB policy, banking regulation, macroprudential tools, financial inclusion.",
       "policy_framing_hu": "Releváns: MNB-politika, bankszabályozás, makroprudenciális eszközök, pénzügyi befogadás.",
       "icon": "landmark",
-      "paper_count": 33
+      "paper_count": 37
     },
     {
       "id": "fiscal-tax",
@@ -28367,7 +28840,7 @@
       "policy_framing_en": "Relevant to: tax reform, budget planning, public debt management, compliance policy.",
       "policy_framing_hu": "Releváns: adóreform, költségvetés-tervezés, államadósság-kezelés, adócompliance.",
       "icon": "coins",
-      "paper_count": 16
+      "paper_count": 18
     },
     {
       "id": "regional-urban",
@@ -28378,7 +28851,7 @@
       "policy_framing_en": "Relevant to: regional development funds, housing policy, transport investment, urban planning.",
       "policy_framing_hu": "Releváns: regionális fejlesztési alapok, lakáspolitika, közlekedési beruházások, városfejlesztés.",
       "icon": "building",
-      "paper_count": 12
+      "paper_count": 15
     },
     {
       "id": "energy-environment",
@@ -28389,7 +28862,7 @@
       "policy_framing_en": "Relevant to: energy transition, carbon pricing, renewable support, environmental standards.",
       "policy_framing_hu": "Releváns: energiaátmenet, szén-dioxid árazás, megújulók támogatása, környezeti szabványok.",
       "icon": "leaf",
-      "paper_count": 4
+      "paper_count": 5
     },
     {
       "id": "inequality-welfare",
@@ -28400,7 +28873,7 @@
       "policy_framing_en": "Relevant to: welfare system, anti-poverty programs, family allowances, gender-equal pay policies.",
       "policy_framing_hu": "Releváns: szociális rendszer, szegénység elleni programok, családi pótlékok, egyenlő bérezés.",
       "icon": "scale",
-      "paper_count": 44
+      "paper_count": 54
     },
     {
       "id": "political-economy",
@@ -28411,7 +28884,7 @@
       "policy_framing_en": "Relevant to: anti-corruption policy, public administration reform, EU affairs, electoral system design.",
       "policy_framing_hu": "Releváns: korrupcióellenes politika, közigazgatási reform, EU-ügyek, választási rendszer.",
       "icon": "building-2",
-      "paper_count": 22
+      "paper_count": 26
     },
     {
       "id": "transition-postcommunist",
@@ -28422,7 +28895,7 @@
       "policy_framing_en": "Relevant to: long-run diagnoses of the Hungarian and CEE economy, lessons from 30+ years of transition, institutional path dependence.",
       "policy_framing_hu": "Releváns: a magyar és KKE gazdaság hosszú távú diagnózisa, 30+ év rendszerváltásának tanulságai, intézményi útfüggőség.",
       "icon": "flag",
-      "paper_count": 9
+      "paper_count": 10
     },
     {
       "id": "behavioral",
@@ -28433,7 +28906,7 @@
       "policy_framing_en": "Relevant to: consumer protection, pension-default design, nudging, financial-education regulation, addictive-product regulation.",
       "policy_framing_hu": "Releváns: fogyasztóvédelem, nyugdíjalap-alapbeállítások, döntéslendítés (nudge), pénzügyi edukáció szabályozása, függőséget okozó termékek szabályozása.",
       "icon": "brain",
-      "paper_count": 24
+      "paper_count": 26
     },
     {
       "id": "industrial-organization",
@@ -28444,7 +28917,7 @@
       "policy_framing_en": "Relevant to: competition policy (GVH), merger review, platform regulation, auction design, sector-specific regulation.",
       "policy_framing_hu": "Releváns: versenypolitika (GVH), fúziókontroll, platformszabályozás, aukciótervezés, ágazati szabályozás.",
       "icon": "network",
-      "paper_count": 20
+      "paper_count": 24
     },
     {
       "id": "macroeconomics",
@@ -28455,7 +28928,7 @@
       "policy_framing_en": "Relevant to: long-run growth forecasting, macroeconomic modelling, sovereign-debt management, stabilisation policy design.",
       "policy_framing_hu": "Releváns: hosszú távú növekedés előrejelzés, makroökonómiai modellek, államadósság-kezelés, stabilizációs politika.",
       "icon": "line-chart",
-      "paper_count": 12
+      "paper_count": 14
     },
     {
       "id": "agriculture-food",
@@ -28466,7 +28939,7 @@
       "policy_framing_en": "Relevant to: EU Common Agricultural Policy (CAP), food-safety regulation, rural development programmes, land-use policy.",
       "policy_framing_hu": "Releváns: EU Közös Agrárpolitika (KAP), élelmiszer-biztonsági szabályozás, vidékfejlesztési programok, földhasználati szabályozás.",
       "icon": "wheat",
-      "paper_count": 0
+      "paper_count": 9
     },
     {
       "id": "methods",
@@ -28477,7 +28950,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 51
+      "paper_count": 56
     }
   ],
   "journals": [

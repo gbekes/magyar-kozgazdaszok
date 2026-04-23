@@ -87,19 +87,34 @@
   "url_pdf": "https://www.pnas.org/doi/pdf/10.1073/pnas.2504632123",
   "url_replication": null,
   "abstract": "Collective action problems emerge when individual incentives and group interests are misaligned, as in the case of climate change. Individuals involved in these problems are generally considered to have two options: contribute toward public solutions such as global warming mitigation or free ride. However, many collective action problems today involve a third option of investing in a \"private solution\" such as local adaptation. The availability of this third option can lead to a private solution trap whereby private solutions are adopted, collectively optimal public solutions are not provided, and existing inequalities are exacerbated. We investigated the private solution trap with a collective action game featuring private and public solutions, wealth inequality determined by luck or merit, and participants from 34 countries. We found that the joint existence of private solutions and wealth inequality had a consistent effect across countries: Participants given a higher endowment adopted private solutions almost twice as often as those given a lower endowment, regardless of whether it was determined by luck or merit, and contributed proportionally less toward public solutions. Wealth inequality increased in every country and those given lower endowments were often left unprotected as public solutions were not provided. Across countries, cultural values of hierarchy and harmony were associated with preferences for private and public solutions, respectively. We also identified two universal pathways toward public solution provision: early contributions and conditional cooperation. Our findings highlight the ubiquity of the private solution trap, its cultural underpinnings, and its potential consequences for global collective action problems.",
-  "summary_en": null,
+  "summary_en": "Climate change is the classic collective-action problem: everyone benefits from mitigation, but no individual has strong incentives to pay. Traditionally, the choice is between contributing to a public solution and free-riding. But modern collective-action problems often have a third option: a \"private solution\" like adaptation or local self-protection. This paper runs a game with private + public options across 34 countries and shows that the mere availability of a private solution crowds out the public one, traps collective action in under-provision, and exacerbates inequality when wealth is unequal. A warning for climate-adaptation policy.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Collective-action lab experiment with 34-country participation, incorporating private/public solution options and wealth inequality determined by luck or merit.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian climate policy: the paper warns that promoting private adaptation (better insulation, personal AC, private insurance) can crowd out support for public mitigation (emissions regulation, renewable-energy infrastructure). Also warns that private-solution pathways amplify inequality — richer households can afford adaptation; poorer cannot. Relevant to MBKIK, BVOP climate-strategy, and inequality-sensitive climate-policy design. Caveat: lab-experimental findings; real-world salience of private-solution options varies by policy area.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "energy-environment",
+    "behavioral",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "rct"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
+  "data_types": [
+    "field-experiment"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W7139953906"
+  "review_status": "ai-drafted",
+  "openalex_id": "W7139953906",
+  "policy_instruments": [
+    "climate-adaptation policy mix",
+    "carbon mitigation subsidies",
+    "inequality-sensitive climate policy"
+  ]
 }

@@ -17,19 +17,30 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This paper endogenizes the decision whether to post a mechanism or to participate in another trader's mechanism in a competing mechanisms environment. With a population of heterogeneous buyers and sellers facing standard search frictions, each trader in our market has to decide whether to post a mechanism or to visit a mechanism posted by a trader on the other side of the market. We show that the equilibrium in this market is unique and is constrained efficient. Inefficient traders (low-value buyers and high-cost sellers) choose to visit with probability one, while more efficient traders randomize between posting and visiting. The resulting allocation differs substantially from the equilibrium allocation in the market where only one side can post mechanisms, especially when trader heterogeneity is significant. This suggests that decentralized marketplaces should allow participating buyers and sellers to self-select into making or receiving offers. We also provide conditions under which posting decisions are monotone, so that more efficient types post with higher probabilities than less efficient types.",
-  "summary_en": null,
+  "summary_en": "In many real markets, the same person can act as either a seller (posting prices/auctions) or a buyer (visiting posted mechanisms). This paper asks: who chooses which role? Using a model with heterogeneous buyers and sellers and search frictions, the authors show the equilibrium is unique and constrained-efficient. Inefficient traders (low-value buyers, high-cost sellers) always choose to visit rather than post; efficient traders randomise between posting and visiting. The allocation is substantially different from what you get in markets where only one side can post — a cleaner characterisation of endogenous market-maker selection.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant to Hungarian market-design contexts where the distinction between \"platform\" and \"user\" is fluid — online marketplaces, employment agencies, procurement. The paper provides a theoretical baseline for evaluating who becomes a mechanism-poster versus participant and what efficiency properties to expect. Relevant to platform-regulation debates. Caveat: theoretical; specific Hungarian policy applications depend on institutional features of the relevant market.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "industrial-organization",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4392303222"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4392303222",
+  "policy_instruments": [
+    "platform market design",
+    "matching-mechanism regulation"
+  ]
 }

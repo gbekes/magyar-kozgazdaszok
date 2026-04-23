@@ -16,19 +16,34 @@
   "url_pdf": "https://link.springer.com/content/pdf/10.1007%2Fs10754-016-9191-7.pdf",
   "url_replication": null,
   "abstract": "I conduct an empirical analysis of the relation between retirement and outpatient care use in Europe and the US, and investigate the potential driving factors of that. I link the empirical analysis to a theoretical model of medical care demand. I document that pensioners tend to visit a doctor with higher probability and more often than the rest of the 50+ population. Ceteris paribus, being retired implies 3-10 % more outpatient visits in Europe. The estimates are of similar magnitude in the US. The paper contributes to the understanding of how population ageing plays a part in the rising health care expenditures. I find evidence that retirement related individual characteristics, increasing leisure time and stronger health preferences all contribute to the positive relation between retirement and outpatient care use, which is mainly driven by the healthier individuals. The gatekeeper role of general practitioners can mitigate the increased demand for outpatient care services after retirement.",
-  "summary_en": null,
+  "summary_en": "Why do retired people see doctors more often? Is it just that they have more free time, or are there deeper explanations? This paper examines the retirement-outpatient-care relationship using data from Europe and the US, linking the empirical analysis to a theoretical model of medical-care demand. Retired people visit doctors with higher probability and more often — an effect of 3–10% more visits in Europe, similar in the US. Multiple drivers contribute: retirement-related health changes, increased leisure time, and stronger health preferences. Useful for understanding healthcare-demand implications of population ageing.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "SHARE (Survey of Health, Ageing and Retirement in Europe) and US Health and Retirement Study data for people 50+. Theoretical model of medical-care demand.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly relevant to Hungarian ageing-and-health-policy projections (NEAK, EMMI, ONYF). The paper quantifies that retired people consume 3–10% more outpatient services — a relevant factor for healthcare-budget projections as Hungary ages. Relevant to healthcare-system planning and budget forecasting. Caveat: cross-country evidence; Hungarian-specific retirement-health gradient should be verified with KRTK administrative data.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "health",
+    "demographics-migration"
+  ],
+  "methods": [
+    "panel-data",
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "EU",
+    "US"
+  ],
+  "data_types": [
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2467671719"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2467671719",
+  "policy_instruments": [
+    "ageing-population healthcare planning",
+    "retirement-age policy implications"
+  ]
 }

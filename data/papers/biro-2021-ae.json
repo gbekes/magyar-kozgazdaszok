@@ -16,19 +16,34 @@
   "url_pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/agec.12634",
   "url_replication": null,
   "abstract": "Abstract Since 2011, a wide range of unhealthy food and drink are subject to a specific excise tax in Hungary. We analyze how this tax affected the revenue, sales volume, personnel costs, and size of sweet food producers, and compare these results to estimated effects on household spending on sugary food. We base our analysis on administrative data sets of firm level indicators, and survey data on household spending. We apply the estimation method of difference‐in‐differences, where firms producing untaxed processed food (in the firm level analysis) and household spending on food categories directly not affected by the tax (in the household level analysis) serve as control groups. Our results suggest strong negative short‐run effects of the unhealthy food tax on firms’ inland sales volume, and moderate effects on inland sales revenue and personnel costs. These results correspond to the moderate estimated effects on household spending on sugary food. The reducing effects diminish in about 3 years after the introduction of the tax—overlapping with the recovery of the Hungarian economy from recession. Our findings suggest that the impacts of an unhealthy food tax strongly depend on the economic conditions.",
-  "summary_en": null,
+  "summary_en": "In 2011, Hungary introduced an excise tax on unhealthy food (\"sugar tax\"). Who actually bore the cost, and did it change household spending? This paper uses firm-level and household-level difference-in-differences to answer. Results: strong short-run negative effects on sweet-food producers' sales volumes, revenues, personnel costs, and firm size. Household spending on sugary food also declined. A textbook empirical evaluation of Pigouvian-tax effectiveness, with clean identification via untaxed processed-food firms and non-sugary spending as control groups.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Administrative Hungarian firm-level data for sweet-food producers before/after 2011 tax, matched with household-spending survey data. Difference-in-differences with untaxed-processed-food firms and non-sugary-food spending as controls.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly informs ongoing Hungarian public-health-taxation policy (EMMI, NEAK) and international debates on sugar/fat taxes. The paper shows the 2011 Hungarian \"chip tax\" actually did reduce consumption and had real effects on producers — useful evidence for both expansion and refinement of unhealthy-food taxes in Hungary and abroad. Relevant to ongoing tax-policy reviews. Caveat: focused on short-run effects; longer-run adaptation by consumers and producers likely differs.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "health",
+    "agriculture-food",
+    "fiscal-tax"
+  ],
+  "methods": [
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm",
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3169933646"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3169933646",
+  "policy_instruments": [
+    "sugar/fat tax (NETA in Hungary)",
+    "public-health excise policy"
+  ]
 }

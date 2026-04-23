@@ -19,19 +19,36 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Generative coding tools promise big productivity gains, but uneven uptake could widen skill and income gaps. We train a neural classifier to spot artificial intelligence (AI)-generated Python functions in more than 30 million GitHub commits by 160,097 software developers, tracking how fast, and where, these tools take hold. Currently, AI writes an estimated 29% of Python functions in the US-a shrinking lead over other countries. We estimate that quarterly output, measured in online code contributions, consequently increased by 3.6%. AI seems to benefit experienced, senior-level developers: They increased productivity and more readily expanded into new domains of software development. By contrast, early-career developers showed no significant benefits from AI adoption. This may widen skill gaps and reshape future career ladders in software development.",
-  "summary_en": null,
+  "summary_en": "Who actually uses AI to code? This paper trains a neural classifier to detect AI-generated Python functions across 30 million+ GitHub commits by 160,000+ developers, and estimates global AI-coding diffusion. Key findings: AI currently writes about 29% of Python functions in the US, a shrinking lead over other countries. Quarterly output (measured in online code contributions) rose by 3.6% from AI adoption. But: AI benefits experienced, senior developers — they increased productivity and expanded into new domains. Early-career developers showed no significant benefits. The paper warns this may widen skill gaps and reshape software-engineering career ladders.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "GitHub commit data from 30+ million commits by 160,097 developers across multiple programming languages. Neural classifier trained on labelled human-AI code pairs to detect AI-generated functions.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly relevant to Hungarian IT-sector policy, digital-skills training, and Industry 4.0 programs. The paper implies that AI-productivity support should target junior developers explicitly (who are not currently benefiting); and that GDP measurement based on IT-sector output understates actual productivity gains. Relevant to NGM digital-strategy design, ITM training programs, and university CS-curriculum reform. Caveat: Python-only measurement; broader software-development patterns may differ.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "innovation-digital",
+    "labor-markets",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "ml-text",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "US",
+    "GLOBAL"
+  ],
+  "data_types": [
+    "digital-trace"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W7125518225"
+  "review_status": "ai-drafted",
+  "openalex_id": "W7125518225",
+  "policy_instruments": [
+    "AI-skills training for juniors",
+    "digital-strategy measurement",
+    "CS-curriculum reform"
+  ]
 }

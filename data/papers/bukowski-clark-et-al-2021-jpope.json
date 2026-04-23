@@ -19,19 +19,36 @@
   "url_pdf": "https://link.springer.com/content/pdf/10.1007/s00148-021-00875-w.pdf",
   "url_replication": null,
   "abstract": "This paper measures social mobility rates in Hungary during the period 1949 to 2017, using surnames to measure social status. In those years, there were two very different social regimes. The first was the Hungarian People's Republic (1949-1989), which was a communist regime with an avowed aim of favouring the working class. The second is the modern liberal democracy (1989-2017), which is a free-market economy. We find five surprising things. First, social mobility rates were low for both upper- and lower-class families during 1949-2017, with an underlying intergenerational status correlation of 0.6-0.8. Second, social mobility rates under communism were the same as in the subsequent capitalist regime. Third, the Romani minority throughout both periods showed even lower social mobility rates. Fourth, the descendants of the eighteenth-century noble class in Hungary were still significantly privileged in 1949 and later. And fifth, although social mobility rates did not change measurably during the transition, the composition of the political elite changed rapidly and sharply.",
-  "summary_en": null,
+  "summary_en": "Did communist Hungary actually increase social mobility, as its ideology promised? This paper uses surnames to measure social status and compares intergenerational mobility across two political regimes: the Hungarian People's Republic (1949–1989) and modern liberal democracy (1989–2017). Five surprises: (1) mobility was low in both periods (intergenerational correlation 0.6–0.8); (2) mobility under communism was the same as under capitalism; (3) Hungarian Romani showed even lower mobility throughout; (4) eighteenth-century noble descendants remained advantaged; (5) the underlying rate of status persistence is remarkably stable across regimes. Institutional change did less than expected; deep social structure matters more.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Surname-based intergenerational mobility analysis for Hungary 1949–2017. Historical registries, census data, and modern administrative records. Status measured via occupational and educational attainment by surname group.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly relevant to Hungarian social-mobility policy and to historical institutional analysis. The paper's message: top-down regime change (even communist equality policy) doesn't easily raise mobility rates. Relevant to current educational and anti-poverty programmes aiming to break intergenerational transmission of disadvantage. Hungarian Roma mobility emerges as a persistent, distinctive challenge requiring targeted intervention. Caveat: surname-based measurement has known limitations; concordance with individual-level mobility estimates varies.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "inequality-welfare",
+    "transition-postcommunist",
+    "political-economy"
+  ],
+  "methods": [
+    "panel-data",
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "historical",
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3092913333"
+  "review_status": "ai-drafted",
+  "openalex_id": "W3092913333",
+  "policy_instruments": [
+    "social-mobility programmes",
+    "Roma-inclusion policy",
+    "intergenerational-poverty interventions"
+  ]
 }

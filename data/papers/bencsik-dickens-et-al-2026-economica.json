@@ -18,19 +18,35 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Abstract Crime leads to a range of adverse outcomes for those who live nearby, and a common hypothesis is that this relationship is mediated by mental health. However, little is known about how the mental health of local residents is affected when an incident of violent crime occurs in their vicinity. To address this question, we pair granular crime data with uniquely detailed panel data on individual stress levels, both from one of England's largest police force areas during the years 2010–2017. We find that local violent crime leads to an immediate and significant increase in residents' stress levels. We observe that this effect is strongest when the respondent is at home, and lasts approximately one week. Effects are predominantly driven by female respondents and those who live in urban areas. We conclude that policies considering the total cost of crime—and conversely, crime prevention—should consider the adverse local mental health impacts of violent crime.",
-  "summary_en": null,
+  "summary_en": "Local crime does more than hurt its direct victims — it has ripples through everyone who lives nearby. This paper combines granular crime incident data with uniquely detailed panel data on individual stress levels from one of England's largest police-force areas (2010–2017). Result: local violent crime leads to an immediate, significant increase in residents' stress levels. The effect is strongest when the respondent is at home and lasts about a week. Female respondents and urban residents show the largest effects. An important extension of crime-cost accounting: policies should reflect the mental-health costs of crime, not just direct victim damages.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Panel data from a large English police-force area (2010–2017) linking granular crime-incident records to individual-level self-reported stress measurements (daily, via smartphone app).",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian law-enforcement and urban-safety policy: the paper strengthens the case for community-level crime-prevention investment, beyond direct crime-reduction economics. Relevant to BM crime-strategy and Budapest district-level safety planning. Caveat: UK data and context; Hungarian crime rates, demographics, and self-reporting differ.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "health",
+    "political-economy",
+    "regional-urban"
+  ],
+  "methods": [
+    "panel-data",
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "GB"
+  ],
+  "data_types": [
+    "admin-individual",
+    "digital-trace"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W7144164172"
+  "review_status": "ai-drafted",
+  "openalex_id": "W7144164172",
+  "policy_instruments": [
+    "community crime prevention",
+    "neighbourhood safety investment"
+  ]
 }

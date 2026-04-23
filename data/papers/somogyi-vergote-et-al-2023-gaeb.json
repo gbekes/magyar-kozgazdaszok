@@ -18,19 +18,30 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "There is ample empirical evidence documenting that large firms set significantly lower prices than smaller, capacity-constrained, firms. This is paradoxical in light of the standard theoretical result that large firms charge higher prices than small firms in models of price competition with capacity constraints. We argue that private information about capacity constraints can account for this puzzle. We provide concavity conditions on the demand and on the type distribution under which there exists a unique, monotone decreasing price equilibrium. Solving the model requires a novel approach of studying several different regions of pricing incentives depending on the realized capacity levels. We show that firms with intermediate capacities compete in an auction type interaction, while firms with low or high capacity levels compete less vigorously on the margin.",
-  "summary_en": null,
+  "summary_en": "An empirical puzzle: across many industries, larger firms charge lower prices than smaller, capacity-constrained ones. Standard price-competition theory with capacity constraints predicts the opposite. This paper resolves the puzzle: private information about capacity makes small firms bid more cautiously because they know they'd \"feast on leftovers\" after larger competitors sell out. The authors characterise when a unique equilibrium with monotonically decreasing prices exists, showing intermediate-capacity firms compete in auction-like interactions. A clean theoretical rationalisation of a stylised fact.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data. Motivating facts from industry pricing literature.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian competition policy (GVH), the paper changes how capacity-size-price relationships should be interpreted. Large firms charging lower prices is not automatic evidence of market power or predation — it can be a natural outcome of private information. Relevant to merger reviews involving size-asymmetric firms and to regulated-industry pricing analysis. Caveat: the model is stylised; empirical verification of private-information assumptions in specific markets is needed.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "industrial-organization",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4360841405"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4360841405",
+  "policy_instruments": [
+    "merger review with asymmetric capacity",
+    "capacity-disclosure rules"
+  ]
 }

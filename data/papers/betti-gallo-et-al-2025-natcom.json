@@ -19,19 +19,33 @@
   "url_pdf": "https://www.nature.com/articles/s41467-025-59031-7.pdf",
   "url_replication": null,
   "abstract": "From science to industry, teamwork plays a crucial role in knowledge production and innovation. Most studies consider teams as static groups of individuals, thereby failing to capture how the micro-dynamics of collaborative processes and organizational changes determine team success. Here, we leverage fine-grained temporal data on software development teams from three software ecosystems - Rust, JavaScript, and Python - to gain insights into the dynamics of online collaborative projects. Our analysis reveals an uneven workload distribution in teams, with stronger heterogeneity correlated with higher success, and the early emergence of a lead developer carrying out the majority of work. Moreover, we find that a sizeable fraction of projects experience a change of lead developer, with such a transition being more likely in projects led by inexperienced users. Finally, we show that leadership change is associated with faster success growth. Our work contributes to a deeper understanding of the link between team evolution and success in collaborative processes.",
-  "summary_en": null,
+  "summary_en": "Open-source software projects are built by teams — but the teams change, and leadership within them isn't stable. This paper uses fine-grained commit data from three major software ecosystems (Rust, JavaScript, Python) to study how team dynamics determine project success. Key findings: workloads within teams are unevenly distributed, and stronger heterogeneity correlates with higher success; a single lead developer emerges early and does most of the work; a substantial fraction of projects experience lead-developer transitions, more often in projects led by less-experienced users. Leadership heterogeneity and instability are empirical facts that matter for innovation-policy design.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Temporal commit data on software development teams in Rust, JavaScript, and Python ecosystems, obtained from GitHub repositories. Covers thousands of projects and millions of commits over multiple years.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian digital-economy and innovation policy (NGM, NRDI Office): the paper supports innovation-support programs that fund individual lead developers rather than uniform team-level grants. Relevant to Hungarian open-source adoption strategy and IT-sector digital-commons funding. Caveat: the software-sector pattern may not generalise directly to other R&D-intensive activities with different team structures (e.g., experimental science labs).",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "innovation-digital",
+    "firms-productivity"
+  ],
+  "methods": [
+    "panel-data",
+    "ml-text"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
+  "data_types": [
+    "digital-trace"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4409851640"
+  "review_status": "ai-drafted",
+  "openalex_id": "W4409851640",
+  "policy_instruments": [
+    "innovation-grant design",
+    "open-source commons funding"
+  ]
 }

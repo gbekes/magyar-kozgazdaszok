@@ -19,15 +19,14 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Social networks may help individuals maintain their mental health. Most empirical work based on small-scale surveys finds that cohesive social networks are critical for mental well-being, while diverse networks are considered less important. Here, we link data on antidepressant use of 277,344 small-town residents to a nationwide online social network. The data enable us to examine how individuals' mental health care is related to the spatial characteristics of their social networks including their ties in the local community and connections to distant communities. We find that, besides the cohesion of social networks around home, the diversity of connections to distant places is negatively correlated with the probability of antidepressant use. Spatial diversity of social networks is also associated with decreasing dosage in subsequent years. This relationship is independent from the local access to antidepressants and is more prevalent for young individuals. Structural features of spatial social networks are prospectively associated with depression treatment.",
-  "summary_en": "Does your social network affect your mental health? Linking antidepressant-use data for 277,000 Hungarians in small towns to a nationwide online social network, this paper finds that social-network diversity — not just local cohesion — matters. People with social ties reaching distant communities are less likely to start antidepressants and more likely to decrease dosage over time. The effect is independent of local pharmacy access and strongest among young people. The paper challenges the conventional view that only close, cohesive networks support mental well-being — \"bridging\" ties to distant places matter too.",
+  "summary_en": "Do your social networks protect your mental health? Small-scale surveys say yes — but only in narrow ways. This paper uses a nationwide dataset linking antidepressant purchases of 277,344 Hungarian small-town residents to the Hungarian online social-network structure. Beyond the standard finding that cohesive local networks matter, the authors show that spatial diversity in one's network (connections to distant places) is negatively correlated with antidepressant use and with dosage increases in subsequent years. The result is independent of local factors. A striking empirical connection between social-network geography and mental-health outcomes.",
   "summary_hu": "Befolyásolja-e a szociális hálózatod a mentális egészségedet? 277 000 kisvárosi magyar lakos antidepresszáns-használatára vonatkozó adatokat egy országos online közösségi hálózattal összekapcsolva a tanulmány azt találja, hogy a szociális-hálózati diverzitás — nem csak a helyi kohézió — számít. Azok, akiknek távoli közösségekbe nyúló szociális kapcsolatai vannak, kevésbé valószínűen kezdenek antidepresszánst szedni és valószínűbben csökkentik az adagolást idővel. A hatás független a helyi gyógyszertári hozzáféréstől és legerősebb fiatalok körében. A tanulmány kihívást intéz a hagyományos nézettel szemben, miszerint csak a szoros, kohezív hálózatok támogatják a mentális jólétet — a távoli helyek felé nyúló „áthidaló\" kapcsolatok is számítanak.",
-  "data_used": "Hungarian prescription-drug (antidepressant) records for 277,344 residents of small Hungarian towns, linked to an anonymised nationwide online social network with measured geographic spread of ties; multi-year panel.",
+  "data_used": "Hungarian administrative data on antidepressant prescriptions (277,344 small-town residents) linked to a nationwide online social-network dataset. Individual-level analysis with spatial and network controls.",
   "data_used_hu": "Magyar receptgyógyszer-(antidepresszáns-)rekordok 277 344 magyar kisvárosi lakosra, anonimizált országos online közösségi hálózattal összekapcsolva a kapcsolatok földrajzi kiterjedésével mért; többéves panel.",
-  "policy_relevance": "For the Ministry of Interior mental-health portfolio and public-health agencies: supports place-based mental-health strategies that promote connectivity to other communities — e.g., through youth exchange programmes, migration-support, or regional mobility policies. Concrete evidence that geographic isolation has mental-health costs on top of traditional determinants. Hungarian data; immediately applicable. Caveat: correlational — causal direction is plausible but not definitively established.",
+  "policy_relevance": "For Hungarian mental-health policy (EMMI, NEAK): the paper suggests that policies increasing rural-urban connectivity and mobility could have mental-health co-benefits. Relevant to regional-development programs with social-integration components. Caveat: correlation, not causation — unobserved selection (personality, life circumstances) may drive both network diversity and mental health. Cautious interpretation warranted.",
   "policy_relevance_hu": "A Belügyminisztérium mentális egészségügyi portfóliójához és közegészségügyi ügynökségekhez: támogatja a hely-alapú mentális egészségügyi stratégiákat, amelyek a más közösségekbe való kapcsolódást mozdítják elő — pl. ifjúsági csereprogramokkal, migráció-támogatással vagy regionális mobilitási politikákkal. Konkrét bizonyíték arra, hogy a földrajzi elszigeteltségnek mentális egészségi költsége van a hagyományos meghatározókon túl. Magyar adat; azonnal alkalmazható. Figyelmeztetés: korrelációs — az oksági irány plauzibilis, de nem végérvényesen megállapított.",
   "topics": [
     "health",
-    "demographics-migration",
     "regional-urban"
   ],
   "methods": [
@@ -43,12 +42,11 @@
   ],
   "featured": false,
   "added_at": "2026-04-20",
-  "last_reviewed_at": "2026-04-20",
+  "last_reviewed_at": "2026-04-23",
   "review_status": "ai-drafted",
   "openalex_id": "W4405103176",
   "policy_instruments": [
-    "community mental health programs",
-    "regional mobility policies",
-    "mentálhigiénés közegészség"
+    "regional-mobility programmes",
+    "mental-health community infrastructure"
   ]
 }

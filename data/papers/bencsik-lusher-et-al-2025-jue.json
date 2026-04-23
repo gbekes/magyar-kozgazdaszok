@@ -18,19 +18,34 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Time scarcity is one of the strongest correlates of fast food consumption. To estimate the causal effect of time lost on food choice, we match daily store-specific foot traffic data traced via smartphones to plausibly exogenous shocks in highway traffic congestion in Los Angeles County. We find that on days when highways are more congested, individuals are more likely to frequent fast food restaurants and less likely to grocery shop. In our main model, a one standard deviation increase in traffic delay leads to a 1% increase in fast food visits, equivalent to 1.2 million more fast food visits in Los Angeles County per year. The effects are particularly pronounced for afternoon rush hour traffic. Our results imply a net reduction in healthy food store choice due to time lost.",
-  "summary_en": null,
+  "summary_en": "Time scarcity makes people pick convenience food. This paper shows it causally. Using granular smartphone-based foot-traffic data for Los Angeles County matched to highway-congestion shocks, the authors show that on more congested days, people are more likely to visit fast-food restaurants and less likely to grocery-shop. A one-standard-deviation increase in traffic delay raises fast-food visits by 1%, equivalent to 1.2 million more fast-food visits in LA per year. Afternoon rush-hour traffic drives most of the effect. Traffic policy has health consequences that cost-benefit analyses typically ignore.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Daily store-specific foot-traffic data from smartphone traces, matched to highway congestion data in Los Angeles County. Identification exploits exogenous day-to-day variation in traffic caused by random events.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant to Hungarian urban and transport policy (ITM, Budapest urban planning). The paper quantifies a health externality of traffic congestion: policies that reduce congestion (congestion pricing, public-transport investment) likely have under-counted health co-benefits through healthier food choices. Relevant to Budapest's traffic-management strategy and to evaluation of rush-hour pricing policies. Caveat: LA data; Budapest has shorter commutes and different food-retail landscape, so Hungarian magnitudes would differ.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "regional-urban",
+    "health"
+  ],
+  "methods": [
+    "panel-data",
+    "iv"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "digital-trace"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4406630098"
+  "review_status": "ai-drafted",
+  "openalex_id": "W4406630098",
+  "policy_instruments": [
+    "traffic congestion pricing",
+    "public-transport investment",
+    "urban food-retail planning"
+  ]
 }
