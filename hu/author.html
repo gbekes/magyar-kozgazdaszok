@@ -35,9 +35,11 @@
     document.title = `${displayName} — Magyar Közgazdászok`;
 
     const affils = (a.affiliations || []).map(x => {
-      const role = x.role ? `, ${x.role}` : '';
+      const name = x.name_hu || x.name;
+      const role = x.role_hu || x.role;
+      const roleStr = role ? `, ${role}` : '';
       const since = x.start ? ` (${x.start}-tól)` : '';
-      return `<li>${EFH.esc(x.name + role)}${since}</li>`;
+      return `<li>${EFH.esc(name + roleStr)}${since}</li>`;
     }).join('');
 
     const fields = (a.primary_fields || []).map(f =>
