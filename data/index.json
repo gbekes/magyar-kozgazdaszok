@@ -2382,21 +2382,35 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This article analyzes the impact of stochastic skill-biased technological change on earnings inequality in a general equilibrium OLG model. Wage dispersion is determined by the heterogeneity of skills by allowing for productivity differences due to education, ability, and age. The model performs well in reproducing stylized facts on the time pattern of the U.S. wage distribution and human capital accumulation. In particular, it shows that slow adjustment of the supply of educated labor can itself explain the nonmonotonic time pattern of the college premium.",
-      "summary_en": null,
+      "summary_en": "Why has the college wage premium in the US risen and then levelled off over recent decades? This paper argues it reflects the interplay between skill-biased technological change (raising the demand for skilled workers) and slow adjustment of educational supply. The model — an overlapping-generations general-equilibrium framework with heterogeneity in ability, age, and education — reproduces the observed non-monotonic time path of the college premium. The key insight: when skill demand rises faster than the educational sector can produce graduates, the premium spikes; as supply catches up, it eases. A clean quantitative explanation for a major empirical puzzle.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Quantitative OLG model calibrated to US time-series data on wages, education attainment, and the college premium across cohorts.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungary faces similar supply-side questions: the returns to higher education, the capacity of the tertiary system, and the lag with which new fields (IT, data science) can train workers. For Oktatási Hivatal and the ministry setting student-quota caps, the paper's lesson is that rapid technology shocks (AI) may widen wage differentials for several years before supply adjusts. Caveat: US-calibrated; Hungarian demographics, migration patterns, and education-policy constraints change the quantitative dynamics.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "labor-markets",
+        "education-skills"
+      ],
+      "methods": [
+        "structural"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2135909147"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2135909147",
+      "policy_instruments": [
+        "tertiary-education quotas",
+        "skills-supply planning",
+        "technical-education investment"
+      ]
     },
     {
       "id": "abraham-brendler-et-al-2023-ier",
@@ -2418,21 +2432,35 @@
       "url_pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/iere.12664",
       "url_replication": null,
       "abstract": "Abstract One important feature of capital tax reforms is the uncertainty regarding their duration. In a standard heterogeneous firm framework with financial frictions, we model policy uncertainty by assuming that reforms may be either repealed or maintained with some probability every period. We illustrate the effects of policy uncertainty in the context of the 2003 Bush tax cuts (2003 Job Growth Tax Relief Reconciliation Act), which lowered shareholder taxes. We show that policy uncertainty regarding dividend and capital gains taxes can explain why the Bush tax cuts had no statistically significant effect on investment, in line with the empirical evidence.",
-      "summary_en": null,
+      "summary_en": "When a tax reform is passed, how much do businesses actually invest in response? This paper argues that one big factor has been overlooked: policy uncertainty. Firms don't know if the reform will last. The authors build a heterogeneous-firm model where reforms may be repealed or maintained each period and apply it to the 2003 Bush shareholder-tax cuts in the US. The result helps resolve a long-standing puzzle: despite substantial tax cuts on dividends and capital gains, investment barely moved. Firms didn't treat the cut as permanent, so they didn't respond strongly. Tax reforms need durability — or at least credible commitment — to actually drive investment.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Structural heterogeneous-firm model with financial frictions, calibrated and applied to the 2003 Bush dividend/capital-gains tax cut using US firm-investment data pre- and post-reform.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Very relevant to Hungarian fiscal policy design. Politically-driven tax reforms (corporate-tax rate changes, KATA revisions, etc.) are unlikely to trigger the investment response policymakers hope for if firms believe the reform might be rolled back. Relevant to the Pénzügyminisztérium, MNB analysis of investment response to tax changes, and to the design of Hungary's corporate-tax sunset clauses and multi-year commitments. Caveat: the calibration is US-based; for Hungary, the specific magnitude of uncertainty effects depends on recent policy-reversal frequency, which could be estimated from the 2010+ period.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "fiscal-tax",
+        "firms-productivity"
+      ],
+      "methods": [
+        "structural"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4386392940"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4386392940",
+      "policy_instruments": [
+        "corporate-tax reform durability",
+        "sunset clauses",
+        "tax-policy commitment mechanisms"
+      ]
     },
     {
       "id": "abraham-carceles-poveda-2009-jet",
@@ -2582,21 +2610,35 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We revisit the classical result that in a closed economy the incidence of corporate taxes on labor is approximately zero. We consider a rich general equilibrium framework, where agents differ in the level of their wealth as well as in their managerial and working ability. Potential entrepreneurs go through all the key decisions affected by corporate tax changes: the choice of (i) occupation, (ii) organizational form, (iii) investment, and (iv) financing structure. We allow both for the presence of financial frictions and the traditional tax advantage of debt over corporate equity, which jointly generate misallocation of capital and talent. In this environment we characterize the effects of increasing corporate taxes both analytically and for a calibrated version of the model. We show that this tax increase reallocates production from C corporations to pass-through businesses. Since, due to distorted prices, the latter have higher capital-labor ratios, this reallocation generates a reduction in labor productivity and wages. Furthermore, the corporate tax increase induces some C corporations to reorganize as pass-throughs, which implies more restricted access to external funds and thus a socially inefficient downsizing of production in these firms. Finally, the tax increase causes further misallocation of talent by inducing agents with low wealth relative to their managerial talent to switch from entrepreneurship to being workers, while the reverse happens for agents with higher wealth and lower managerial skills. Overall, we find that both labor and capital bear a large share of the corporate tax incidence, while entrepreneurs are net beneficiaries of the tax change.",
-      "summary_en": null,
+      "summary_en": "The old conclusion that corporate taxes have negligible incidence on workers rested on simple models. This paper revisits it in a much richer setting: people differ in wealth and in managerial/working ability; entrepreneurs decide whether to start a business, what organisational form to use (C-corp vs pass-through), how much to invest, and how to finance it. Financial frictions and the traditional debt-over-equity tax advantage create misallocation. In this world, a corporate-tax increase reallocates activity from C-corporations to pass-through businesses, and the usual \"no wage incidence\" result breaks. A more faithful framework for evaluating corporate-tax reforms.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "General-equilibrium structural model calibrated to US firm and entrepreneur micro-data on occupational choice, organisational form, investment, and financing decisions.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly relevant to Hungary's corporate-tax debates and to the interaction between KATA, KIVA, and the standard corporate income tax. The paper shows that headline corporate-tax rates interact with pass-through taxation in ways that affect occupational choice and firm size distribution. Relevant to ongoing reforms of small-business taxation. Caveat: the calibration is US-based; Hungarian magnitudes depend on the relative tax wedge between corporate and pass-through forms, which differs.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "fiscal-tax",
+        "firms-productivity"
+      ],
+      "methods": [
+        "structural"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4387229381"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4387229381",
+      "policy_instruments": [
+        "corporate-tax reform",
+        "pass-through taxation (KATA, KIVA)",
+        "organisational-form tax equalisation"
+      ]
     },
     {
       "id": "abraham-koehne-et-al-2011-jet",
@@ -2654,21 +2696,33 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": null,
-      "summary_en": null,
+      "summary_en": "A classic question in public finance: when government can't tax accumulated wealth directly, how should it tax income? This paper works out the answer in a general dynamic setting where the household cares about consumption smoothing but the government cannot observe or tax assets. The resulting optimal income-tax schedule differs from the textbook benchmarks — the inability to tax assets forces the income tax to do more work. The paper provides a tractable characterisation and relates the optimal design to observable features of household preferences and asset-return distributions. A foundational result for optimal-taxation theory in practically-constrained settings.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data (some illustrative calibrations).",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant to Hungary's tax-policy design, especially where asset taxation is politically or administratively limited. The paper provides a rigorous foundation for how to set the income-tax schedule when wealth-tax alternatives are limited — a frequent constraint in real-world reform design. Relevant to Pénzügyminisztérium tax-design debates. Caveat: the framework is general but requires empirical parameterisation before generating specific Hungarian policy numbers.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "fiscal-tax",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "theory",
+        "structural"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2290636653"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2290636653",
+      "policy_instruments": [
+        "optimal income tax design",
+        "asset-taxation constraints"
+      ]
     },
     {
       "id": "abraham-laczo-2017-restud",
@@ -2772,21 +2826,32 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": null,
-      "summary_en": null,
+      "summary_en": "Insurance contracts work differently when the insured person can also borrow privately without the insurer knowing. This paper characterises efficient risk-sharing contracts when there are both moral hazard (the insured takes unobservable actions) and hidden access to credit markets. The hidden-credit-market feature tightens what the insurer can achieve: the optimal contract must be robust to the insured smuggling consumption forward using private borrowing. The paper derives the efficient allocation and shows how classical results change. A technical contribution to contract theory with applications to health insurance, unemployment insurance, and pension design.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant to any Hungarian social-insurance design where private credit access is a real margin: unemployment insurance (where beneficiaries can borrow), health insurance out-of-pocket coverage, retirement savings. Implication: optimal contract design must account for this hidden channel, and standard rule-of-thumb designs may be suboptimal. Caveat: theoretical; specific Hungarian implications require empirical estimates of the extent of private-credit substitution in each social-insurance program.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "methods",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4255709985"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4255709985",
+      "policy_instruments": [
+        "unemployment insurance design",
+        "health-insurance contract design"
+      ]
     },
     {
       "id": "abraham-pavoni-2008-roed",
@@ -3701,20 +3766,26 @@
       "url_pdf": "https://academic.oup.com/qje/article-pdf/121/3/903/5408998/121-3-903.pdf",
       "url_replication": null,
       "abstract": "This paper investigates how groups or coalitions of players can act in their collective interest in non-cooperative normal form games even if equilibrium play is not assumed. The main idea is that each member of a coalition will confine play to a subset of their strategies if it is in their mutual interest to do so. An iterative procedure of restrictions is used to define a non-cooperative solution concept, the set of coalitionally rationalizable strategies. The procedure is analogous to iterative deletion of never best response strategies, but operates on implicit agreements by different coalitions. The solution set is a nonempty subset of the rationalizable strategies. I thank Dilip Abreu for support and extremely valuable comments at all stages of",
-      "summary_en": null,
+      "summary_en": "In game theory, players often end up in bad outcomes despite all being rational. Coordination failures are widespread. This paper introduces a solution concept — coalitional rationalisability — where groups of players can agree to restrict play to subsets of their strategies if it's in their mutual interest. Unlike cooperative game theory, no enforceable agreements are assumed; the restrictions are implicit. An iterative procedure refines the strategy set. The resulting solution is a non-empty subset of rationalisable strategies and captures a natural notion of self-enforcing group-level coordination in non-cooperative settings.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Foundational game-theoretic contribution. Indirectly relevant to Hungarian competition-policy analysis (when firms might tacitly coordinate without explicit agreement) and to international negotiations where enforcement is limited (EU multilateral agreements). Caveat: theoretical; applying the concept empirically in specific Hungarian contexts is non-trivial.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
       "openalex_id": "W4245259249"
     },
     {
@@ -3957,20 +4028,28 @@
       "url_pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.3982/QE655",
       "url_replication": null,
       "abstract": "We investigate the effect of delay on prices in bargaining situations using a data set containing thousands of captives ransomed from Barbary pirates between 1575 and 1692. Plausibly exogenous variation in the delay in ransoming provides evidence that negotiating delays decreased the size of ransom payments, and that much of the effect stems from the signalling value of strategic delay, in accordance with theoretical predictions. We also structurally estimate a version of the screening type bargaining model, adjusted to our context, and find that the model fits both the observed prices and acceptance probabilities well.",
-      "summary_en": null,
+      "summary_en": "How does delay affect the outcome of a negotiation? This paper uses a delightfully unusual data source — thousands of Christian captives ransomed from Barbary pirates between 1575 and 1692 — to study bargaining. Plausibly-exogenous variation in how long the ransom took provides causal evidence that delay lowered ransom payments. Much of the effect comes from the signalling value of strategic delay, consistent with screening-type bargaining models. The authors structurally estimate the model and show it fits both observed prices and acceptance rates. A rare quantitative test of classic bargaining theory using historical micro-data.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Historical dataset of thousands of captive-ransom negotiations between Christian Europeans and Barbary pirates, 1575–1692. Includes ransom amounts, delay from capture to release, captive characteristics, and release outcomes.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct Hungarian policy relevance is limited. The paper is of methodological interest for how bargaining models can be tested on historical or contemporary administrative data (for example, tax-debt settlements, litigation delays). Caveat: the historical context is specific; modern bargaining (labour negotiations, procurement) involves more commitment technologies than pirate ransoms.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "methods"
+      ],
+      "methods": [
+        "structural"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
+      "data_types": [
+        "historical"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
       "openalex_id": "W2132369922"
     },
     {
@@ -4112,21 +4191,35 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We explain trends in dowry levels in Bangladesh by drawing attention to an institutional feature of marriage contracts previously ignored in the literature: mehr or traditional Islamic bride-price. We develop a model of marriage contracts in which mehr serves as a barrier to husbands exiting marriage and a component of dowry as an amount that ex ante compensates the groom for the cost of mehr. We investigate how mehr and dowry respond to exogenous changes in the costs of polygamy and divorce, and show that our model gives a different set of predictions than traditional models. We show that major changes in dowry levels took place precisely after the legal changes, corresponding to simultaneous changes in levels of mehr.",
-      "summary_en": null,
+      "summary_en": "Bangladesh has seen dowry (payments from bride's family to groom) rise sharply. Why? Earlier explanations pointed to marriage-market imbalances. This paper offers a different mechanism: mehr, the traditional Islamic bride-price that a husband is obliged to pay if he divorces his wife. Dowry emerges partly as ex-ante compensation to the groom for the mehr obligation. The model predicts specific responses of dowry and mehr to changes in divorce and polygamy laws — and the authors show that observed dowry shifts in Bangladesh tracked such legal changes closely. A clean example of how customs adapt to legal reform.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Marriage-contract and dowry data from Bangladesh across periods of legal reform; mehr and dowry levels tracked against changes in divorce and polygamy legislation.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Limited direct relevance to Hungarian policy. Relevant to CEU/KRTK research on marriage, family law, and customary institutions in developing countries. Offers a methodological template for how legal reforms ripple through informal marriage institutions. Caveat: this is a case study of a specific legal-cultural context; policy implications are for development settings rather than Hungary.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "demographics-migration",
+        "political-economy"
+      ],
+      "methods": [
+        "structural"
+      ],
+      "countries_studied": [
+        "BD"
+      ],
+      "data_types": [
+        "survey",
+        "historical"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2166543278"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2166543278",
+      "policy_instruments": [
+        "family-law reform",
+        "marriage-contract regulation"
+      ]
     },
     {
       "id": "ambrus-field-et-al-2020-aer",
@@ -4422,20 +4515,28 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We develop a model in which connections between individuals serve as social collateral to enforce informal insurance payments. We show that: (i) The degree of insurance is governed by the expansiveness of the network, measured with the per capita number of connections that groups have with the rest of the community. “Two-dimensional” networks—like real-world networks in Peruvian villages—are sufficiently expansive to allow very good risk-sharing. (ii) In second-best arrangements, insurance is local: agents fully share shocks within, but imperfectly between endogenously emerging risk-sharing groups. We also discuss how endogenous social collateral affects our results. (JEL D85, G22, O15, O17, Z13)",
-      "summary_en": null,
+      "summary_en": "Rural households without formal insurance rely on each other for help during shocks. This paper asks: what makes such informal insurance work? The answer: the structure of the social network. \"Two-dimensional\" networks — like those documented in Peruvian villages, where people have many overlapping ties — offer enough expansiveness to sustain very good risk-sharing. But the insurance is \"local\": shocks are fully shared within endogenously-formed groups, only imperfectly between them. The paper shows how the community's structure of relationships functions as social collateral that enforces informal-insurance commitments, and how that structure determines equilibrium welfare.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model of informal risk-sharing, illustrated with social-network patterns documented in Peruvian villages.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian policy, the paper speaks most directly to rural-development and poverty research: interventions that accidentally disrupt community network structures (migration programs, housing relocation) can undermine informal insurance, hurting vulnerable households. Relevant to KRTK rural and poverty research. Caveat: the main empirical illustration is from Peru; Hungarian rural communities have both formal social-protection systems and different network structures, so the magnitudes won't translate directly.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "inequality-welfare",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "PE",
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
       "openalex_id": "W2155538473"
     },
     {
@@ -4492,21 +4593,31 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Journal Article Rationalising Choice with Multi‐Self Models Get access Attila Ambrus, Attila Ambrus Duke University Search for other works by this author on: Oxford Academic Google Scholar Kareen Rozen Kareen Rozen Yale University Search for other works by this author on: Oxford Academic Google Scholar The Economic Journal, Volume 125, Issue 585, 1 June 2015, Pages 1136–1156, https://doi.org/10.1111/ecoj.12103 Published: 14 March 2014 Article history Received: 15 March 2013 Accepted: 04 September 2013 Published: 14 March 2014",
-      "summary_en": null,
+      "summary_en": "People sometimes make choices that look inconsistent across decisions — preferring A over B in one setting and B over A in another. Classical theory treats this as irrational. This paper offers a richer framework: the individual can be represented as a consistent aggregator of multiple \"selves\" with different preferences. The authors characterise which observed choice patterns are rationalisable by multi-self models and which are not. A technical contribution that gives behavioural economics a cleaner foundation for thinking about internal conflict and inconsistency.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Foundational for behavioural consumer-protection analysis. Indirectly relevant to Hungarian retail-finance regulation and default design: if consumer inconsistency comes from multi-self conflict, then policies that commit consumers to their \"long-run self\" (automatic enrolment in savings, pre-commitment devices) can be welfare-improving. Caveat: the paper is theoretical; concrete Hungarian policy implications depend on empirical identification of which domain-specific multi-self conflicts matter most.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2153262031"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2153262031",
+      "policy_instruments": [
+        "commitment-device savings products",
+        "default-enrolment design"
+      ]
     },
     {
       "id": "ameriks-kezdi-et-al-2019-jbes",
@@ -4735,21 +4846,34 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "How important are economies of scale in exporting? We argue that firm size cannot be the main determinant of export status if a model is to be consistent with the observed number and size of exporters. Instead, we need a lot of variation independent of firm size to reconcile the model with the data. We show that the augmented model also has markedly different implications regarding the margin of adjustment in the event of a trade liberalization: most of the adjustment is through the intensive margin and productivity gains due to reallocation are halved. (JEL: F12) 1.",
-      "summary_en": null,
+      "summary_en": "A common intuition says: bigger firms are more likely to export because of economies of scale. This paper shows that intuition is, on its own, inconsistent with the data. If firm size were the main determinant of exporting, models would predict far too few or too many exporters. A lot of the variation in export status must come from factors independent of size. Once this is recognised, the response of trade to liberalisation looks different — most adjustment is along the intensive margin (existing exporters exporting more), and productivity gains from reallocation are about half the common estimates.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical framework with empirical comparison against standard firm-level export-status data across multiple countries.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Important for Hungarian trade-policy evaluation. The paper implies that policies targeting export entry (first-time exporter subsidies, export-promotion agencies) may be less effective than policies supporting the intensive margin (enabling existing exporters to grow their export share). Relevant to HEPA (Hungarian Export Promotion Agency) and to EU export-support program evaluation. Caveat: the model is general; Hungarian estimates of the size-independent determinants of exporting would require cross-sectional Hungarian firm data.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "trade-fdi",
+        "firms-productivity"
+      ],
+      "methods": [
+        "structural"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
+      "data_types": [
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2169091923"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2169091923",
+      "policy_instruments": [
+        "export-promotion agencies",
+        "intensive-margin export support"
+      ]
     },
     {
       "id": "armenter-koren-2016-aer",
@@ -4770,20 +4894,29 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Blum, Claro, and Horstmann (2016) make two statements about the balls-and-bins model of Armenter and Koren (2014). First, that using firm-level shipment data changes some of our results. Second, that the balls-and-bins model is not an appropriate statistical method. We respond to the first statement and argue that the second statement is unfounded and unrelated to the first. Indeed, the work of Blum, Claro, and Horstmann (2016) is a perfect example of how to use balls-and-bins in a rich dataset to spot interesting data patterns. (JEL F11, F14)",
-      "summary_en": null,
+      "summary_en": "A short scholarly reply. The authors defend their \"balls-and-bins\" statistical framework for thinking about firm-level trade against a critique by Blum, Claro, and Horstmann (2016). They address the substantive point about firm-level shipment data and argue that the critique's second claim — that balls-and-bins is an inappropriate statistical method — is unfounded. The reply engages respectfully and shows how balls-and-bins can be used productively with rich firm-level data. A useful methodological dialogue for researchers working with heavy-tailed trade distributions.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical/methodological paper; no new empirical data (re-uses firm-level trade data from the original Armenter-Koren 2014 paper).",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Primarily academic. Indirectly relevant: the balls-and-bins framework is a statistical baseline that any analysis of Hungarian firm-level trade should consider. No direct policy mapping. Caveat: this is a scholarly reply, not a standalone substantive contribution.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "trade-fdi",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
+      "data_types": [
+        "admin-firm"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
       "openalex_id": "W2334243228"
     },
     {
@@ -6426,21 +6559,35 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This paper presents direct evidence for relational contracts in sovereign bank lending. Unlike the existing empirical literature, its instrumental variables method allows for distinguishing a direct influence of past repayment problems on current spreads (a “punishment” effect in prices) from an indirect effect through higher expected future default probabilities (“loss of reputation”). Such a punishment provides positive surplus to lenders after a default and decreases the borrower's present discounted value of the net benefits of future borrowing, which create dynamic incentives. Using data on bank loans to developing countries for 1973–1981 and constructing continuous variables for credit history, we find evidence that most of the influence of past repayment problems is through the direct, punishment channel.",
-      "summary_en": null,
+      "summary_en": "When a country defaults on its debt, banks charge it higher interest on future loans. Is that because past repayment failures \"punish\" the borrower directly, or because they signal higher future default risk? Separating the two matters for policy. This paper uses an instrumental-variables approach on 1973–1981 bank loans to developing countries to decompose the effect. The finding: most of the influence of past repayment problems is through direct \"punishment\" — relational-contract enforcement — rather than through updated reputation. A finding that supports a relational-contracting view of sovereign-debt markets.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Bank-loan data on sovereign lending to developing countries, 1973–1981. Continuous credit-history variables constructed from loan-by-loan records. IV strategy separating direct effect of past problems from updated default probabilities.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant to Hungary's sovereign-debt management (AKK, MNB). The paper's punishment-versus-reputation decomposition matters: if markets are dominated by relational enforcement, the cost of a technical default or restructuring is a persistent premium; if reputation dominates, good post-default behaviour can repair credibility faster. Informs debt-management strategy and interaction with international lenders. Caveat: the data are pre-1981 and pre-ECB; today's sovereign-debt markets are more integrated and have formal restructuring mechanisms.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "fiscal-tax"
+      ],
+      "methods": [
+        "iv",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W3096331461"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W3096331461",
+      "policy_instruments": [
+        "sovereign-debt management",
+        "default-restructuring strategy"
+      ]
     },
     {
       "id": "benczur-joossens-et-al-2020-eepe",
@@ -9387,21 +9534,34 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "A widely held view is that openness to international trade leads to higher GDP volatility, as trade increases specialization and hence exposure to sector-specific shocks. We revisit the common wisdom and argue that when country-wide shocks are important, openness to international trade can lower GDP volatility by reducing exposure to domestic shocks and allowing countries to diversify the sources of demand and supply across countries. Using a quantitative model of trade, we assess the importance of the two mechanisms (sectoral specialization and cross-country diversification) and provide a new answer to the question of whether and how international trade affects economic volatility.",
-      "summary_en": null,
+      "summary_en": "Conventional wisdom says that opening to trade makes a country more volatile: specialisation raises exposure to sector-specific shocks. This paper revisits that claim and finds it can be wrong. When country-wide shocks dominate sector-specific ones, trade openness actually lowers volatility by letting a country diversify across global supply and demand. Using a quantitative trade model, the authors show which mechanism dominates in which settings. The result restores trade openness as a volatility-reducer, not amplifier, for small open economies exposed to domestic shocks — a reframing with direct macro policy implications.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Quantitative trade model calibrated to cross-country data on sectoral specialisation, country-level volatility, and trade shares. Empirical estimates of the relative importance of country versus sector shocks.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly relevant to Hungary as a small, very open economy (trade-to-GDP ~160%+). The paper supports the view that integration with the EU single market is volatility-reducing in normal times, not amplifying. Helpful for MNB analysis of how Hungarian business cycles relate to EU ones and for long-run stabilisation-policy design. Caveat: the model assumes shocks are exogenous; in recent crises (energy shock, supply chain disruptions), shock origin matters, and diversification benefits can vanish when the shock is common to all partners.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "trade-fdi",
+        "firms-productivity"
+      ],
+      "methods": [
+        "structural"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2118569455"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2118569455",
+      "policy_instruments": [
+        "trade-openness policy",
+        "economic-diversification strategy"
+      ]
     },
     {
       "id": "castiglionesi-feriozzi-et-al-2014-jomca",
@@ -9945,21 +10105,31 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We characterize equilibria of oligopolistic markets where identical firms with constant marginal cost compete à la Cournot. For given maximal willingness to pay and maximal total demand, we first identify all combinations of equilibrium consumer surplus and industry profit that can arise from arbitrary demand functions. Then, as a further restriction, we fix the average willingness to pay above marginal cost (i.e., first‐best surplus) and identify all possible triples of consumer surplus, industry profit, and deadweight loss.",
-      "summary_en": null,
+      "summary_en": "In the textbook Cournot model, n firms produce a homogenous good and the demand curve is given. But what if we don't want to commit to a specific demand curve and instead ask: across all possible demand curves (holding some moments fixed), what range of market outcomes is possible? This paper maps the full surplus-sharing frontier in a Cournot oligopoly. For given maximum willingness to pay, the authors identify all possible combinations of consumer surplus and industry profits, then tighten the characterisation by also fixing the first-best surplus. A sharp technical contribution to market-structure analysis.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For competition policy and merger review in Hungary (GVH), the paper provides upper and lower bounds on the distribution of welfare gains/losses as market-structure parameters change. Directly useful as a worst-case/best-case check when evaluating merger-efficiency claims. Caveat: the Cournot framework is stylised; real-world oligopolies have product differentiation, dynamic pricing, and entry considerations the paper does not address.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W3197494020"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W3197494020",
+      "policy_instruments": [
+        "merger review welfare bounds",
+        "market-structure analysis"
+      ]
     },
     {
       "id": "conte-desmet-et-al-2021-joeg",
@@ -12722,21 +12892,32 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "&lt;p&gt;We analyze a situation where a monopolist is selling an indivisible good to risk neutral buyers who only have an estimate of their private valuations. The seller can release, without observing, certain additional signals that affect the buyers’ valuations. Our main result is that in the expected revenue maximizing mechanism, the seller makes available all the information that she can, and her expected revenue is the same as it would be if she could observe the part of the information that is “new” to the buyers. We also show that this mechanism can be implemented by what we call a &lt;em&gt;handicap auction&lt;/em&gt; in interesting applications. In the first round of this auction, each buyer picks a price premium from a menu offered by the seller (a smaller premium costs more). Then the seller releases the additional signals. In the second round, the buyers bid in a second-price auction where the winner pays the sum of his premium and the second highest non-negative bid. In the case of a single buyer, this mechanism simplifies to a menu of European call options.&lt;/p&gt;",
-      "summary_en": null,
+      "summary_en": "A seller with an indivisible good faces risk-neutral buyers who only have rough estimates of their own valuations. Can the seller do better by releasing additional information? Yes — and strikingly, in the revenue-maximising mechanism the seller releases all the information she can. The paper shows this can be implemented through a \"handicap auction\" with two rounds: first, each buyer picks a premium from a menu (smaller premium costs more); then, a second-round auction with the premium reflected in bids. A new mechanism-design result with elegant implementation and practical appeal.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant to Hungarian auction design for government assets (spectrum, real estate, privatisations) where bidders have uncertain valuations and the seller has information that could help them. The \"handicap auction\" format is implementable and offers revenue gains. Relevant to the Ministry of Development and Hungarian privatisation agency. Caveat: theoretical; implementation in practice requires careful menu design and clear disclosure rules.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "methods",
+        "fiscal-tax"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2160062365"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2160062365",
+      "policy_instruments": [
+        "handicap auction design",
+        "spectrum-auction information release"
+      ]
     },
     {
       "id": "eso-2004-jet",
@@ -13093,21 +13274,31 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Abstract This article studies how the presence of concealable hard evidence affects the timing of agreement and the size and distribution of surplus in bargaining. A buyer and a seller receive randomly arriving, verifiable, but concealable evidence about the value of a tradable good. Each party discloses individually favourable information but conceals signals that benefit the other side, giving rise to mutual suspicion; the seller repeatedly posts prices valid for one period. In the leading case of interest with a finite horizon and sufficiently patient players, the equilibrium is characterised by an interval of skimming (a sequence of prices acceptable only to a buyer who has learned that the good’s value is high) concluded by a single settlement period in which agreement is reached for sure. The length of delay until agreement and the corresponding efficiency loss are decreasing in the time horizon and in the abilities of the trading parties to identify the good’s value, but increasing in impatience. An arbitrarily long time horizon leads to immediate agreement if the parties are even slightly impatient and interaction is frequent enough; if the parties are perfectly patient, there is no trade without evidence disclosure.",
-      "summary_en": null,
+      "summary_en": "In many negotiations, both sides can acquire private, verifiable information they can choose to reveal or conceal. Each party reveals info favourable to themselves and hides info favourable to the other — generating mutual suspicion. This paper analyses the bargaining outcome. In the main case (finite horizon, patient players), equilibrium has a \"skimming\" phase — a sequence of progressively lower prices accepted only by buyers who have learned the good is high-value — followed by a single settlement period in which agreement is reached for sure. Delay and its efficiency loss fall as info-acquisition costs fall. A clean model of how hard evidence shapes real bargaining.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant to Hungarian contract-dispute, procurement, and merger-negotiation contexts where both parties can credibly signal private information. The paper supports procedural rules that reduce the cost of information disclosure (for example, structured due diligence in public procurement). Relevant to Közbeszerzési Hatóság (Public Procurement Office). Caveat: theoretical; identifying the \"hard evidence\" dimension empirically in Hungarian procurement is non-trivial.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2806783410"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2806783410",
+      "policy_instruments": [
+        "procurement disclosure rules",
+        "due-diligence standards"
+      ]
     },
     {
       "id": "eso-white-2003-ecma",
@@ -13521,21 +13712,34 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This paper provides empirical evidence of the influence of adolescent marriage opportunities on female schooling attainment and gives predictions of the impact of imposing universal age-of-consent laws. Using data from rural Bangladesh, we explore the commonly cited hypotheses that women attain less schooling as a result of marrying young. We isolate the causal effect of marriage timing by exploiting variation in the timing of menarche as an instrumental variable for age of first marriage. Our results indicate that marriage age matters: Each additional year that marriage is delayed is associated with 0.30 additional years of schooling and 6.5% higher probability of literacy. Delayed marriage is also associated with a significant increase in use of preventive health care services, some of which appears to be independent of the change in schooling, indicating separate “age effects” of delaying marriage. In the context of competitive marriage markets we show that the above results can be used to obtain estimates of the change in equilibrium female education that would arise from introducing a minimum legal age of marriage. The resulting analysis implies that, under reasonable assumptions, enforcing universal age of consent laws would have a strong positive impact on female schooling. JEL Classification: I32, I12, J12, J13, J16, O12",
-      "summary_en": null,
+      "summary_en": "Girls in rural Bangladesh who marry young get less education. Is this just because school drop-outs marry sooner, or does early marriage actually cause lower schooling? This paper uses variation in the timing of menarche (puberty) as an instrumental variable for age of first marriage, isolating the causal effect. Result: each additional year of marriage delay raises schooling by 0.30 years and literacy probability by 6.5 percentage points. Delayed marriage also improves use of preventive health care. A pivotal result for global campaigns to raise the legal age of marriage.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Survey data from rural Bangladesh; instrumental-variable strategy using exogenous variation in age of menarche as instrument for age of first marriage.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Limited direct policy relevance in Hungary (legal marriage age is already 18 and early marriage is uncommon). The paper is relevant to Hungary's international development assistance and to EU external cooperation on gender equality. Methodologically useful for any research on age-related policy effects (school-entry age, compulsory-schooling age) using biomedical instruments. Caveat: the Bangladesh context is specific; the quantitative magnitudes won't apply elsewhere.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "education-skills",
+        "demographics-migration"
+      ],
+      "methods": [
+        "iv"
+      ],
+      "countries_studied": [
+        "BD"
+      ],
+      "data_types": [
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W121952757"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W121952757",
+      "policy_instruments": [
+        "age-of-consent laws",
+        "education and gender-policy aid"
+      ]
     },
     {
       "id": "field-ambrus-2008-jpe",
@@ -14657,21 +14861,32 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We build a theoretical model to study the welfare effects and policy implications of firms’ market power in a frictional labor market. The main characteristics of our environment are that wages play a role in allocating labor across firms and the number of agents is finite. The decentralized equilibrium is inefficient and the firms’ market power results in the misallocation of workers from the high to the low productivity firms. A minimum wage exacerbates the inefficiencies by forcing the low-productivity firms to increase their wage. Moderate unemployment benefits can increase welfare by improving the workers’ outside option.",
-      "summary_en": null,
+      "summary_en": "Classical labour search models assume wages are determined by bargaining. But if firms post wages to compete for workers, how do market power and inefficiency interact? This paper builds a search model where wages play a role in allocating workers across firms and there's a finite number of agents. The decentralised equilibrium is inefficient: firms with market power misallocate workers from high-productivity to low-productivity firms. A binding minimum wage makes things worse by forcing low-productivity firms up. Moderate unemployment benefits can improve welfare by strengthening workers' outside option. Nuanced implications for labour-market policy.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance to the minimum-wage debate and unemployment-benefit generosity in Hungary. The paper supports the view that minimum wages can reduce efficiency by compressing market-allocative wage differentials — but also supports moderate UI generosity as a complementary tool. For the Hungarian Ministry of Economy and VKF social dialogue on wage floors, the paper offers a balanced theoretical framing. Caveat: theoretical; the model omits some realistic frictions (union bargaining, industry-specific wage floors) relevant in Hungary.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "labor-markets",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W1866558544"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W1866558544",
+      "policy_instruments": [
+        "minimum wage",
+        "unemployment benefit generosity"
+      ]
     },
     {
       "id": "garrett-georgiadis-et-al-2023-jet",
@@ -16271,21 +16486,33 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We propose a dynamic model of investment and trade in a market of a specialized technology subject to two main frictions. First, agents cannot raise outside capital. Second, a random group of agents will have the opportunity to invest in new technology and these opportunities are not contractible. The first friction implies the presence of invesment cycles with abundant invesment and low returns in booms and little invesment and high returns in recessions. Only when the second friction is present invesment cycles are constrained inefficient. Often the inefficiency is two-sided with too much invesment in booms and too little in recessions from a social point of view. Interventions targetting only the underinvesment in recessions might make all agents worse off. Also, the two-sided inefficiency typically implies too volatile prices and too frequent realizations of abnormally low prices compared to fundamentals.",
-      "summary_en": null,
+      "summary_en": "Why do industries repeatedly cycle through overinvestment booms and underinvestment busts? This paper builds a dynamic model with two frictions: firms can't raise outside capital, and investment opportunities are not contractible. Under these conditions, investment is too high in booms and too low in busts, from a social perspective. Importantly, policies that only address the underinvestment problem (subsidising investment in recessions) can make things worse. Prices are too volatile and abnormally-low-price episodes are too frequent. The paper provides a coherent framework for thinking about cyclical policy interventions in capital-intensive industries.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant to Hungarian industrial-policy and state-aid design in capital-intensive sectors (energy, automotive, semiconductors). Key warning: counter-cyclical investment subsidies that only ease the bust can amplify the boom-side overinvestment. Policies that smooth both ends of the cycle do better. Relevant to Ministry of Economic Development and EU state-aid notifications. Caveat: the model is stylised; specific policy calibration requires sectoral frictions to be identified empirically.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "firms-productivity",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W3122711830"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W3122711830",
+      "policy_instruments": [
+        "counter-cyclical investment subsidies",
+        "capacity expansion regulation",
+        "state-aid rules"
+      ]
     },
     {
       "id": "heidhues-johnen-et-al-2020-restud",
@@ -16448,21 +16675,33 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We investigate costly yet futile attempts at self-control when consumption of a harmful product has a binary breakdown/no-breakdown nature and individuals tend to underestimate their need for self-control. Considering time-inconsistent preferences as well as temptation disutility, we show that becoming more sophisticated can decrease welfare and investigate what kind of mistaken beliefs lead to low welfare. With time-inconsistent preferences, being close to perfectly understanding one’s preferences but assigning zero probability to true preferences induces the worst outcome. (JEL: D03, D11, D91) 1.",
-      "summary_en": null,
+      "summary_en": "When someone wants to quit smoking, limit drinking, or stop gambling, the pattern is often: they try, fail, and try again. This paper shows that people who partially understand their self-control problem can end up with worse welfare than those who don't understand it at all. The reason: partially sophisticated agents exert costly effort at control that ultimately fails — futile attempts. A little self-awareness is dangerous if it's incomplete. The paper identifies the specific belief patterns that lead to the worst outcomes. A cautionary framework for designing health and consumer-protection interventions around self-control problems.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Highly relevant to Hungarian public-health policy (smoking, alcohol, gambling) and consumer-protection in addiction-related markets. Message: \"raising awareness\" interventions that educate people about their self-control problems can backfire unless they deliver full and accurate information. Supports commitment-device based policies (e.g., mandatory cooling-off periods, betting self-exclusion registers) over awareness-only approaches. Caveat: theoretical; specific design of Hungarian interventions requires empirical research on how much self-awareness is realistic.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "health",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W1981082779"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W1981082779",
+      "policy_instruments": [
+        "gambling self-exclusion",
+        "smoking-cessation commitment",
+        "consumer cooling-off periods"
+      ]
     },
     {
       "id": "heidhues-koszegi-2010-aer",
@@ -16531,21 +16770,31 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "It is widely known that loss aversion leads individuals to dislike risk, and as has been argued by many researchers, in many instances this creates an incentive for firms to shield consumers and employees against economic risks. Complementing previous research, we show that consumer loss aversion can also have the opposite effect: it can lead a firm to optimally introduce risk into an otherwise deterministic environment. We consider a profit-maximizing monopolist selling to a loss-averse consumer, where (following \\\\citeasnoun{koszegirabin}) we assume that the consumer's reference point is her recent rational expectations about the purchase. We establish that for any degree of consumer loss aversion, the monopolist's optimal price distribution consists of low and variable ``sale'' prices and a high and atomic ``regular'' price. Realizing that she will buy at the sale prices and hence that she will purchase with positive probability, the consumer chooses to avoid the painful uncertainty in whether she will get the product by buying also at the regular price. This pricing pattern is consistent with several recently documented facts regarding retailer pricing. We show that market power is crucial for this result: when firms compete ex ante for consumers, they choose deterministic prices.",
-      "summary_en": null,
+      "summary_en": "Supermarkets typically have a stable \"regular price\" with occasional \"sales\" at lower prices. Why? This paper offers a behavioural explanation. A monopolist selling to loss-averse consumers (with rational-expectations reference points) finds it optimal to deliberately introduce price volatility. The optimal price distribution has low, variable sale prices and a high, atomic \"regular\" price. The consumer anticipates buying at sale prices, lowering her reference point; the monopolist exploits the flexibility. The paper shows that loss aversion — typically thought to make firms shield consumers from risk — can lead firms to introduce risk instead.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data. Predictions match stylised facts of retail price-setting.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian retail-sector regulation and the CPI-measurement challenge (KSH): the paper explains why observed prices look like \"regular\" and \"sale\" two-point distributions, with implications for inflation measurement and price-comparison regulation. Relevant to GVH's sense of normal versus anti-competitive pricing. Caveat: the model is stylised; real retail pricing also reflects many other factors (inventory costs, supplier pressure, advertising).",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W1586481044"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W1586481044",
+      "policy_instruments": [
+        "retail-price regulation",
+        "CPI measurement design"
+      ]
     },
     {
       "id": "heidhues-koszegi-2015-roio",
@@ -16720,21 +16969,33 @@
       "url_pdf": "https://academic.oup.com/restud/article-pdf/84/1/323/8783803/rdw037.pdf",
       "url_replication": null,
       "abstract": "We analyse conditions facilitating profitable deception in a simple model of a competitive retail market. Firms selling homogenous products set anticipated prices that consumers understand and additional prices that naive consumers ignore unless revealed to them by a firm, where we assume that there is a binding floor on the anticipated prices. Our main results establish that \"bad\" products (those with lower social surplus than an alternative) tend to be more reliably profitable than \"good\" products. Specifically, (1) in a market with a single socially valuable product and sufficiently many firms, a deceptive equilibrium-in which firms hide additional prices-does not exist and firms make zero profits. But perversely, (2) if the product is socially wasteful, then a profitable deceptive equilibrium always exists. Furthermore, (3) in a market with multiple products, since a superior product both diverts sophisticated consumers and renders an inferior product socially wasteful in comparison, it guarantees that firms can profitably sell the inferior product by deceiving consumers. We apply our framework to the mutual fund and credit card markets, arguing that it explains a number of empirical findings regarding these industries.",
-      "summary_en": null,
+      "summary_en": "Some products are \"inferior\" — lower social surplus than a better alternative. Are they more profitable than good products? This paper says yes, counter-intuitively. In a model where firms can \"hide\" additional fees that naive consumers miss, good products can't sustain deceptive pricing when there are enough firms: competition drives profits to zero. But for inferior/wasteful products, a profitable deceptive equilibrium always exists. When good and bad products coexist, the bad one can crowd out the good by relying on hidden charges. A sharp result with implications for consumer-protection design.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly relevant to MNB consumer protection and GVH competition policy. The paper supports tighter regulation of hidden fees and unfair-product rules, particularly in retail credit and consumer contracts, because bad products thrive in deceptive equilibria. Relevant to transposing EU Consumer Rights Directive and to the design of mandatory-disclosure rules that make hidden charges visible. Caveat: theoretical; identifying which real-world products fall into the \"socially wasteful\" category requires case-by-case assessment.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "methods",
+        "banking-finance"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2487003007"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2487003007",
+      "policy_instruments": [
+        "hidden-fee disclosure rules",
+        "consumer-deception regulation",
+        "retail-credit standards"
+      ]
     },
     {
       "id": "heidhues-koszegi-et-al-2018-ecma",
@@ -16803,20 +17064,26 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We establish convergence of beliefs and actions in a class of one‐dimensional learning settings in which the agent's model is misspecified, she chooses actions endogenously, and the actions affect how she misinterprets information. Our stochastic‐approximation‐based methods rely on two crucial features: that the state and action spaces are continuous, and that the agent's posterior admits a one‐dimensional summary statistic. Through a basic model with a normal–normal updating structure and a generalization in which the agent's misinterpretation of information can depend on her current beliefs in a flexible way, we show that these features are compatible with a number of specifications of how exactly the agent updates. Applications of our framework include learning by a person who has an incorrect model of a technology she uses or is overconfident about herself, learning by a representative agent who may misunderstand macroeconomic outcomes, and learning by a firm that has an incorrect parametric model of demand.",
-      "summary_en": null,
+      "summary_en": "People learn from what they do, but if their model of the world is wrong, the learning itself can go astray. This paper establishes precise convergence results for such \"misspecified learning\" settings: the agent picks actions, sees outcomes, and updates. Even when the updating rule is correct given her (wrong) model, beliefs converge — often to systematically wrong conclusions. The framework covers examples like overconfident learners and people with incorrect mental models of technology. A technical foundation-building contribution that unifies several previous results in behavioural economics.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Foundational for behavioural-economics models that inform Hungarian policy (consumer protection, financial education, public-health communication). Caveat: highly abstract. Specific Hungarian applications require mapping the model's components (agent's mental model, observable outcomes) to concrete decision contexts.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
       "openalex_id": "W3124212446"
     },
     {
@@ -17722,21 +17989,36 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Using detailed U.S. and Spanish export data, we document that trade costs of a per-shipment nature are associated with less frequent and larger shipments (i.e., more lumpiness) in international trade. This finding is pervasive across broad product categories, but most apparent for industrial supplies, parts and accessories, and food products.",
-      "summary_en": null,
+      "summary_en": "International trade happens in lumps, not smoothly: a firm exports to a country, then pauses, then exports again. This paper shows why. Using detailed US and Spanish customs data, the authors show that when per-shipment costs are higher, shipments are larger but less frequent (more lumpy). The relationship holds across all broad product categories — but is strongest for industrial supplies, parts/accessories, and food products. A clean empirical grounding for an important but underappreciated source of trade costs: the fixed cost of each individual shipment.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Administrative customs data from US and Spain: shipment-level records of exports with product, destination, weight, and value. Covers the full set of export shipments over multiple years.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant to Hungarian trade-facilitation policy (customs, logistics, port infrastructure). The paper supports measures that reduce per-shipment costs (digital customs, border-crossing speed): their effect is to make trade less lumpy and more frequent, which improves buyer flexibility. Specifically relevant to EU customs harmonisation and to ITM infrastructure investments in transport corridors. Caveat: the evidence is from US and Spain; Hungary's role in EU supply chains differs, but the mechanism (per-shipment fixed costs) is general.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "trade-fdi",
+        "firms-productivity"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "US",
+        "ES"
+      ],
+      "data_types": [
+        "admin-firm"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2115590887"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2115590887",
+      "policy_instruments": [
+        "customs-process digitalisation",
+        "border-crossing facilitation",
+        "trade-logistics investment"
+      ]
     },
     {
       "id": "hornok-koren-2015-jie",
@@ -18214,21 +18496,35 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We propose a theory of the market for venture capital that links the excess return to venture equity to the scarcity of venture capitalists (VCs). High returns make the VCs more selective and eager to terminate nonperforming ventures because they can move on to new ones. The scarcity of VCs enables them to internalize their social value, and the competitive equilibrium is socially optimal. Moreover, the bilaterally efficient contract is a simple equity contract. We estimate the model for the period 1989–2001 and compute the excess return to venture capital, which turns out to be 8.6 percent. Finally, we back out the return of solo entrepreneurs, which is increasing in their wealth and ranges between zero and 3.5 percent.",
-      "summary_en": null,
+      "summary_en": "Venture capital (VC) firms consistently earn excess returns. Is that due to exceptional skill? This paper argues: no, it's because venture capitalists are scarce. In equilibrium, high returns make VCs more selective and more willing to end underperforming ventures (since they can move on to new ones). The scarcity lets VCs internalise their own social value, and the competitive equilibrium is socially efficient. Simple equity contracts emerge as the bilaterally-efficient arrangement. The authors estimate the model on 1989–2001 data and find excess VC returns of 8.6%, with solo-entrepreneur returns ranging from zero to 3.5% depending on wealth.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Quantitative model estimated on US VC and startup data 1989–2001. Returns data on venture-backed companies and solo entrepreneurs.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant to Hungary's startup-support ecosystem (Design Terminal, Hiventures, EU structural funds for VC). Implication: crowd-in public VC can raise entrepreneurial activity but will tend to lower returns; scarcity of skilled VC is a binding constraint, and capital alone is insufficient without the screening and monitoring that VCs provide. Relevant to evaluation of the MFB/state-backed VC programmes. Caveat: the model is calibrated to US data; Hungarian VC-market depth and the role of state intervention are different.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "innovation-digital",
+        "firms-productivity",
+        "banking-finance"
+      ],
+      "methods": [
+        "structural"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2173055794"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2173055794",
+      "policy_instruments": [
+        "state-backed venture-capital programmes",
+        "startup-ecosystem subsidies"
+      ]
     },
     {
       "id": "juhasz-2018-aer",
@@ -20278,21 +20574,33 @@
       "url_pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jofi.12757",
       "url_replication": null,
       "abstract": "ABSTRACT We develop a continuous‐time model of liquidity provision in which hedgers can trade multiple risky assets with arbitrageurs. Arbitrageurs have constant relative risk‐aversion (CRRA) utility, while hedgers' asset demand is independent of wealth. An increase in hedgers' risk aversion can make arbitrageurs endogenously more risk‐averse. Because arbitrageurs generate endogenous risk, an increase in their wealth or a reduction in their CRRA coefficient can raise risk premia despite Sharpe ratios declining. Arbitrageur wealth is a priced risk factor because assets held by arbitrageurs offer high expected returns but suffer the most when wealth drops. Aggregate illiquidity, which declines in wealth, captures that factor.",
-      "summary_en": null,
+      "summary_en": "In many financial markets, arbitrageurs provide liquidity by taking the other side of trades that \"hedgers\" want to make. This paper shows how limits on arbitrageur wealth generate price dynamics that look like aggregate risk factors. Higher hedger risk aversion endogenously makes arbitrageurs more risk-averse too. When arbitrageur wealth drops (e.g., during stress), prices of assets they hold drop disproportionately, making arbitrageur wealth itself a priced risk factor. Aggregate illiquidity — which declines when wealth is low — captures that factor. A foundational explanation for why liquidity shocks propagate across markets and show up as systematic risk.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical continuous-time model of liquidity provision. Predictions are cross-referenced against empirical asset-pricing regularities.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Central to MNB's financial-stability framework. During market stress (COVID-19, 2022 energy crisis), arbitrageur wealth constraints propagate shocks widely. The paper supports: stress tests that include arbitrageur-capital shocks; macroprudential liquidity buffers for broker-dealers and major intermediaries; close monitoring of concentration in arbitrage capital. Relevant to MNB's systemic-risk monitoring and to EU banking-sector regulation implementation. Caveat: the model is highly stylised and doesn't capture specific micro-structural frictions of Hungarian markets.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "banking-finance",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2105414487"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2105414487",
+      "policy_instruments": [
+        "market-liquidity stress tests",
+        "intermediary capital buffers",
+        "concentration monitoring"
+      ]
     },
     {
       "id": "kondor-zawadowski-2019-jet",
@@ -21151,21 +21459,31 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This paper models interactions between a party with anticipatory emotions and a party who responds strategically to those emotions, a situation that is common in many health, political, employment, and personal settings. An \"agent\" has information with both decision-making value and emotional implications for an uninformed \"principal\" whose utility she wants to maximize. If she cannot directly reveal her information, to increase the principal's anticipatory utility she distorts instrumental decisions toward the action associated with good news. But because anticipatory utility derives from beliefs about instrumental outcomes, undistorted actions would yield higher ex ante total and anticipatory utility. If the agent can certifiably convey her information, she does so for good news, but unless this leads the principal to make a very costly mistake, to shelter his feelings she pretends to be uninformed when the news is bad.",
-      "summary_en": null,
+      "summary_en": "A doctor decides whether to tell a patient bad news. A manager decides whether to hide a company problem from the board. In each case, a better-informed \"agent\" chooses what to do on behalf of a \"principal\" whose feelings the agent cares about. This paper models how the agent's desire to protect the principal's anticipatory utility distorts her decisions — she shifts instrumental choices toward actions associated with good news. When she can certify good news she does so; for bad news, she pretends. But the equilibrium outcome is inefficient: undistorted action would yield higher total utility. A clean framework for analysing paternalism and information disclosure.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Indirect but broad relevance to Hungarian public-sector communication and political economy. The model rationalises why policymakers systematically underweight bad news, why doctors soften medical disclosures, and why organisations filter internal information. Relevant to debates about informational transparency (e.g., disclosing full macroeconomic projections, auditing public projects). Caveat: theoretical; does not prescribe specific Hungarian interventions.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "methods",
+        "political-economy"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4246742252"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4246742252",
+      "policy_instruments": [
+        "public-information disclosure rules"
+      ]
     },
     {
       "id": "koszegi-2009-ecth",
@@ -21219,20 +21537,27 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This review provides a critical survey of psychology-and-economics (“behavioral-economics”) research in contract theory. First, I introduce the theories of individual decision making most frequently used in behavioral contract theory, and formally illustrate some of their implications in contracting settings. Second, I provide a more comprehensive (but informal) survey of the psychology-and-economics work on classical contract-theoretic topics: moral hazard, screening, mechanism design, and incomplete contracts. I also summarize research on a new topic spawned by psychology and economics, exploitative contracting, that studies contracts designed primarily to take advantage of agent mistakes. (JEL A12, D03, D82, D86)",
-      "summary_en": null,
+      "summary_en": "A survey article that maps how psychology-and-economics ideas have entered contract theory. It covers standard topics (moral hazard, screening, mechanism design, incomplete contracts) and one new one: \"exploitative contracting\" — contracts designed to exploit predictable consumer mistakes. The review synthesises two decades of behavioural contract theory and identifies the most robust empirical patterns. It's the standard reference for anyone teaching or extending behavioural contract theory and for policymakers who want a textbook-style overview of the field.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Survey paper; no original empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "A foundational survey rather than a new policy analysis. Useful for Hungarian consumer-protection and financial-regulation policymakers as a framework for identifying which specific market practices are likely to be exploitative versus merely inefficient. Relevant to GVH, MNB, and NFH staff. Caveat: a survey synthesises; specific policy design requires turning its ideas into testable interventions for specific Hungarian markets.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "methods",
+        "banking-finance"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
       "openalex_id": "W2145283456"
     },
     {
@@ -21254,20 +21579,27 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Journal Article Drive and Talent Get access Botond Kőszegi, Botond Kőszegi 1University of California, Berkeley Search for other works by this author on: Oxford Academic Google Scholar Wei Li Wei Li 2University of California, Riverside Search for other works by this author on: Oxford Academic Google Scholar Journal of the European Economic Association, Volume 6, Issue 1, 1 March 2008, Pages 210–236, https://doi.org/10.1162/JEEA.2008.6.1.210 Published: 01 March 2008",
-      "summary_en": null,
+      "summary_en": "Why do some talented people underperform and less-talented ones overperform? This paper models the interaction between \"drive\" (effort motivation) and \"talent\" (ability). When talent is uncertain, feedback-inducing investments reveal it, and agents with different motivational structures react differently. The result: drive and talent act as substitutes in some settings but complements in others. The paper helps explain when self-selection of the driven into demanding jobs leads to positive or negative correlation with observed ability. A contribution to the economics of career choice and motivation.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian career-counselling policy, talent-management HR practice, and public-sector hiring. The paper highlights that selection based on past achievement aggregates drive and talent in complex ways; simple meritocratic rules can have unintended effects. Caveat: theoretical and somewhat abstract; operational Hungarian applications require empirical measurement of the drive-talent correlation in specific occupations.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "labor-markets",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
       "openalex_id": "W2077073190"
     },
     {
@@ -21290,21 +21622,33 @@
       "url_pdf": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdab060/42504664/rdab060.pdf",
       "url_replication": null,
       "abstract": "Abstract We develop a model of fragile self-esteem—self-esteem that is vulnerable to objectively unjustified swings—and study its implications for choices that depend on, or are aimed at enhancing or protecting, one’s self-view. In our framework, a person’s self-esteem is determined by sampling his memories of ego-relevant outcomes in a fashion that in turn depends on how he feels about himself, potentially creating multiple fragile “self-esteem personal equilibria.” Self-esteem is especially likely to be fragile, as well as unrealistic in either the positive or the negative direction, if being successful is important to the agent. A person with a low self-view might exert less effort when success is more important. An individual with a high self-view, in contrast, might distort his choices to prevent a collapse in self-esteem, with the distortion being greater if his true ability is lower. We discuss the implications of our results for mental well-being, education, job search, workaholism, and aggression.",
-      "summary_en": null,
+      "summary_en": "Some people have \"fragile self-esteem\" that swings on small cues — successes make them feel briefly great, failures lead to crashes. This paper models how fragile self-esteem arises. A person samples memories of ego-relevant outcomes, and how they sample depends on how they feel about themselves, creating multiple self-esteem equilibria. Self-esteem is especially fragile when success is important. The paper shows how fragile self-esteem distorts behaviour: low-esteem people exert less effort when success matters more; high-esteem people may distort choices to protect their self-view. A new framework for motivation, procrastination, and self-defeating behaviour.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant to Hungarian educational policy and labour-market interventions for disadvantaged youth. The paper's implication: interventions for students or job-seekers with low self-confidence need to build resilient self-esteem, not just deliver information or opportunities. Relevant to KRTK research on Roma youth, to early-childhood education policy, and to adult re-training programs. Caveat: theoretical; specific programme design would need to be grounded in empirical measurement of which Hungarian populations have fragile self-esteem.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "education-skills",
+        "labor-markets",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W3204081008"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W3204081008",
+      "policy_instruments": [
+        "youth-training psychological components",
+        "early-childhood intervention design"
+      ]
     },
     {
       "id": "koszegi-matejka-2019-qje",
@@ -21603,21 +21947,35 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This paper analyzes Markov equilibria in a model of strategic lending in which (i) agents cannot commit to long‐term contracts, (ii) contracts are incomplete, and (iii) incumbent lenders can coordinate their actions. Default cycles occur endogenously over time along every equilibrium path. After a sequence of bad shocks, the borrower in a competitive market accumulates debt so large that the incumbent lenders exercise monopoly power. Even though the incumbents could maintain this power forever, they find it profitable to let the borrower regain access to the competitive market after a sequence of good shocks. Equilibria are computed numerically, and their attributes are qualitatively consistent with numerous known empirical facts on sovereign lending. In addition, the model predicts that a borrower who accumulates debt overhang will regain access to the competitive credit market only after good shocks. This prediction is shown to be consistent with data on emerging market economies.",
-      "summary_en": null,
+      "summary_en": "Sovereign-debt markets go through cycles of easy access and tight credit. This paper builds a model where the cycles are endogenous. Lenders can't commit to long-term contracts, contracts are incomplete, and incumbent lenders can coordinate among themselves. After bad shocks, the borrower's debt rises to the point where incumbents exercise monopoly power; after good shocks, incumbents let the borrower back into competitive markets because it pays to do so. Default cycles emerge without any exogenous shock to preferences or institutions. The model's implications match many known facts about sovereign-debt markets.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model calibrated and compared against empirical facts on sovereign-lending markets (spreads, debt concentration, default frequency).",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian sovereign-debt management (AKK, MNB): the paper supports active monitoring of incumbent-lender concentration during stress episodes. Diversification across lender types (retail domestic bonds, FX bonds, syndicated loans) is valuable precisely because it reduces incumbents' coordinated monopoly power. Relevant to Hungarian debt-management strategy. Caveat: the model is about developing-country sovereign lending in the 1970s-80s; Hungarian debt is issued largely in EU markets with different institutional features.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "fiscal-tax"
+      ],
+      "methods": [
+        "structural",
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2155712237"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2155712237",
+      "policy_instruments": [
+        "sovereign-debt lender diversification",
+        "debt-maturity management"
+      ]
     },
     {
       "id": "kreko-prinz-et-al-2024-labec",
@@ -21745,21 +22103,34 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Abstract Placement, both in university and in the civil service, according to performance in competitive exams is the norm in much of the world. Repeat taking of such exams is common despite the private and social costs it imposes. We develop and estimate a structural model of exam retaking using data from Turkey's university placement exam. Limiting retaking results in all agents gaining ex ante and most gaining ex post. This result comes from a general equilibrium effect: Retakers crowd the market and impose negative spillovers on others by raising acceptance cutoffs.",
-      "summary_en": null,
+      "summary_en": "High-stakes university-placement exams often let students retake them. Retaking is costly privately and imposes costs on other students via general-equilibrium effects: retakers crowd the market and raise acceptance cutoffs for everyone. This paper builds and structurally estimates a model of exam retaking using Turkey's university placement data. The key finding: limiting retaking makes all students better off ex ante, and most better off ex post. The gain comes from the general-equilibrium spillover, not from protecting individual students from their own choices. A case where less choice can be welfare-improving through network effects.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Structural model estimated on Turkey's centralised university-placement exam micro-data: exam scores, retake decisions, placement outcomes.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance to Hungarian university admission (felvételi). Retakes of érettségi are allowed with limited constraints; the paper suggests tighter caps could be Pareto-improving via the same spillover mechanism. Relevant to Oktatási Hivatal and to policy debates on exam-retake fees. Caveat: Turkey-calibrated; Hungarian quantitative effects would depend on the share of retakers and alternative options (rolling-entry universities, online programmes) available to students.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "education-skills",
+        "methods"
+      ],
+      "methods": [
+        "structural"
+      ],
+      "countries_studied": [
+        "TR"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-21",
-      "last_reviewed_at": "2026-04-21",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2119976303"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2119976303",
+      "policy_instruments": [
+        "exam-retake caps",
+        "retake fee structure"
+      ]
     },
     {
       "id": "krishna-lychagin-et-al-2025-restud",
@@ -21834,20 +22205,26 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We introduce learning into an otherwise standard two-sided search-and-bargaining market. There is uncertainty about the price distribution due to uncertainty about an underlying exogenous state of relative demand: in the high state, buyers are on the long side; otherwise, they are on the short side. In equilibrium, prices are on average higher in the high state. Individual agents learn about the distribution while searching. Agents typically start out by experimenting with a tough bargaining position—buyers may initially insist on a low price and sellers on a high price. After successive failures to trade, agents become increasingly pessimistic about the market conditions and soften their bargaining stance. When frictions are small, equilibrium transaction prices are approximately market clearing, despite aggregate demand being unknown. Thus, the search-and-bargaining procedure enables price discovery in a decentralized market.",
-      "summary_en": null,
+      "summary_en": "When you go to a market uncertain about whether you're on the long or short side, what price do you ask or offer? This paper introduces learning into a classic two-sided search-and-bargaining market. Agents don't know aggregate demand conditions and start out bargaining tough — buyers demanding low prices, sellers high. As trades fail, they soften their positions. When frictions are small, the market ultimately converges close to market-clearing prices even though nobody knows the aggregate state. A clean demonstration that decentralised bargaining can aggregate information about market fundamentals.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Foundational for market-design questions — when can decentralised trading aggregate information efficiently? Indirect policy relevance for Hungarian market-design contexts (energy markets, labour markets with tightness uncertainty). Caveat: theoretical; specific applications require mapping the model to institutional features of particular Hungarian markets.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
       "openalex_id": "W3122795208"
     },
     {
@@ -22299,20 +22676,27 @@
       "url_pdf": "https://www.aeaweb.org/articles/pdf/doi/10.1257/mic.20150116",
       "url_replication": null,
       "abstract": "This paper analyzes a labor market, where: workers can acquire an observable skill at no cost, firms differ in unobserved productivity, workers' skill and firms' productivity are substitutes, and firms' search is directed. The main result is that, if the entry cost of firms is small, no worker acquires the skill in the unique equilibrium. For intermediate entry costs, a positive measure of workers obtain the skill, and the number of skilled workers goes to one as entry costs become large. Welfare is highest when the entry cost is high. (JEL D21, D24, D82, D83, J24)",
-      "summary_en": null,
+      "summary_en": "Classical models argue education is valuable to workers partly as a costless signal of ability. This paper offers a different mechanism without signalling. Workers can observably acquire a skill; firms differ in unobserved productivity and search directedly; skill and firm productivity are substitutes. The main finding is that if firm entry is cheap, nobody acquires the skill in equilibrium. At intermediate entry costs, some workers acquire it; as entry costs rise, nearly all do. Welfare is highest when entry costs are high. The paper reframes when human-capital investment is socially valuable.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Offers a theoretical lens on Hungarian labour-market mismatch and the economics of adult-education/requalification programmes. Caveat: theoretical; concrete Hungarian policy recommendations depend on empirical identification of the substitutability assumption between worker skill and firm productivity, which varies by sector.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "labor-markets",
+        "education-skills"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
       "openalex_id": "W2335862325"
     },
     {
@@ -22405,21 +22789,32 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Abstract We study the existence of equilibria and the information content of prices in futures markets where the probability of future payoffs can be altered by an intervening agent who acts in response to the market price, hence creating a feedback effect. We focus on the market with the simplest possible structure: traders betting on the occurrence of a future event by buying or selling Arrow-Debreu securities (one dollar claims contingent on a binary outcome). We find that in the presence of feedback: (i) a rational expectations equilibrium may not exist; (ii) the market price may decline in response to information that is ex-ante more favorable to the occurrence of the underlying event; (iii) an equilibrium that reveals no information may obtain. Thus, feedback from an intervening agent materially alters the way in which price responds to information, and potentially undermines the viability of the market itself.",
-      "summary_en": null,
+      "summary_en": "Futures markets are supposed to aggregate information — predicting elections, rainfall, or sport outcomes. But what if the outcome depends on an intervening agent (a central bank, a regulator) who watches the futures price and acts on it? That creates a feedback loop. This paper studies how feedback affects equilibria. Three surprising results: rational-expectations equilibria may not exist; the price can fall in response to ex-ante favourable news; a no-information-revealing equilibrium can arise. A caution that information-aggregation through prediction markets breaks when the outcome is endogenous to the price.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant to debates about prediction markets as information tools for policy (election markets, climate markets, monetary-policy expectations). For MNB's use of market-implied policy expectations as a gauge of its own future actions: the paper warns that this signal can be degraded when the central bank reacts to it, a classic Goodhart problem dressed up as feedback. Caveat: theoretical, with clean cases; empirically the degree of feedback and how much it degrades information varies by setting.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "banking-finance",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2943636582"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2943636582",
+      "policy_instruments": [
+        "prediction-market information use",
+        "monetary-policy expectations management"
+      ]
     },
     {
       "id": "lieli-springborn-2012-restat",
@@ -22440,21 +22835,35 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This paper examines the implications of a binary action, binary outcome decision problem for estimating risk. We use data on the invasiveness of biological imports to develop the first comparison of two classical methods—maximum likelihood and Bayesian—against a third, the recently developed maximum utility (MU) approach. MU estimation uniquely takes advantage of the structure of the decision problem, which depends on a local rather than global fit to the model. Extending methods to account for an endogenously stratified sample, we show that the MU approach is less sensitive to specification error and can offer significant economic gains under model uncertainty.",
-      "summary_en": null,
+      "summary_en": "When we estimate a risk model to inform a binary decision (accept/reject a biological import for risk of invasiveness), how should we estimate the model? This paper argues: not by maximum likelihood, which minimises global error. Instead, a \"maximum utility\" (MU) approach that focuses on the local region of the model most relevant to the decision can do much better — less sensitive to specification error and significantly higher economic gains under model uncertainty. Applied to biological-import data on invasive species. A valuable methodological contribution to decision-focused statistical estimation.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Data on biological imports and their invasiveness outcomes. Comparison of MLE, Bayesian, and maximum-utility estimation approaches.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant to Hungarian risk-assessment policy in any binary-decision context: environmental impact assessments, food-safety screening, biosecurity (agricultural-import controls, EU phytosanitary compliance). The methodological message — estimate for the decision, not the model — generalises well. Relevant to NAK (chamber of agriculture), NÉBIH (food safety authority). Caveat: the MU approach requires specifying the decision-utility structure carefully; it's not a drop-in replacement for MLE without thoughtful problem framing.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "methods",
+        "energy-environment"
+      ],
+      "methods": [
+        "theory",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
+      "data_types": [
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2032621240"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2032621240",
+      "policy_instruments": [
+        "biosecurity import screening",
+        "food-safety risk assessment"
+      ]
     },
     {
       "id": "lieli-stinchcombe-2012-et",
@@ -23873,21 +24282,37 @@
       "url_pdf": "https://www.aeaweb.org/articles/pdf/doi/10.1257/mic.20180270",
       "url_replication": null,
       "abstract": "I study how trade affects urbanization and real income. To this end, I exploit large-scale exogenous changes in trade stemming from the redrawing of Hungary’s borders after the First World War. I show that urbanization in counties near the new border decreased significantly relative to counties farther away. I rationalize this reduced-form finding in a spatial model in which benefits from trading drive agglomeration around locations where trading activity takes place. Structurally estimating the model, I find a 15.55 percent decrease in Hungarian residents’ average real income after the redrawing of borders, with the largest losses concentrated in border regions. (JEL F11, F14, N34, N74, N94, R12)",
-      "summary_en": null,
+      "summary_en": "When Hungary's borders were redrawn after the First World War (Treaty of Trianon, 1920), the country lost two-thirds of its territory and population. This paper asks what that did to the surviving country. Using the sharp, exogenous border changes, the author shows that counties now near the new border saw much less urbanisation than counties farther away. A structural spatial-economy model rationalises the finding: trading activity drives urban agglomeration, and the border blocked trade. The model implies Hungary's average real income fell 15.55% from the border redrawing, with losses concentrated in border regions.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Historical Hungarian micro-data on urban population, counties, and trade, spanning pre- and post-1920 borders. Spatial data on the location of the new border relative to pre-war towns and trade routes.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Highly relevant to Hungarian regional-development policy and to any discussion of border-effect on economic geography. For current policy (EU cohesion funds, regional development, cross-border cooperation with Romania, Slovakia, Ukraine), the paper provides the quantitative benchmark: borders are expensive, and integration (Schengen, EU cross-border programmes) have real welfare consequences. Caveat: the identification is historical and the magnitudes reflect a 1920s context; current EU integration is a different kind of border removal.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "regional-urban",
+        "trade-fdi",
+        "transition-postcommunist"
+      ],
+      "methods": [
+        "structural",
+        "diff-in-diff"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "historical"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4288033031"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4288033031",
+      "policy_instruments": [
+        "cross-border regional development",
+        "EU cohesion funds",
+        "Schengen integration"
+      ]
     },
     {
       "id": "nagy-2023-restud",
@@ -24233,20 +24658,26 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This paper analyzes Bayesian normal form games in which players write contracts that condition their actions on the contracts of other players. These contracts are required to be representable in a formal language. This is accomplished by constructing contracts which are definable functions of the Godel code of every other player's contract. We provide a complete characterization of the set of allocations supportable as pure-strategy Bayesian equilibria of this contracting game. When information is complete, this characterization provides a folk theorem. In general, the set of supportable allocations is smaller than the set supportable by a centralized mechanism designer.",
-      "summary_en": null,
+      "summary_en": "In many real strategic settings, players write contracts that condition their own behaviour on what other players are doing — essentially, contracts about contracts. This paper makes that idea mathematically precise: it requires contracts to be writable in a formal language, using Gödel codes of other players' contracts. The authors fully characterise which allocations can be supported as pure-strategy Bayesian equilibria of this \"contracting game.\" Under complete information, they establish a folk theorem. In general, fewer allocations are supportable than under a centralised mechanism designer. A foundational technical contribution to mechanism design.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Primarily academic. The decentralised contracting framework underlies analysis of smart-contract networks, blockchain coordination, and self-enforcing agreements — increasingly policy-relevant areas. Caveat: the result is abstract; implementation in specific Hungarian regulatory contexts (e.g., Web3 policy) requires domain-specific mapping.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
       "openalex_id": "W2124566008"
     },
     {
@@ -24621,20 +25052,26 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We reexamine Alan R. Rogers' (1994) analysis of the biological basis of the rate of time preference. Although his basic insight concerning the derivation of the utility function holds up, the functional form he uses does not generate equilibrium evolutionary behavior. Moreover, Rogers relies upon an interior solution for a particular kind of intergenerational transfer. We show such interior solutions need not generally arise. Hence Rogers most striking prediction, namely that the real interest rate should be about 2 percent per annum, does not follow. (JEL D11, D91)",
-      "summary_en": null,
+      "summary_en": "A short comment on an influential earlier paper. Rogers (1994) derived a biological basis for the rate of time preference — famously predicting that the real interest rate should be about 2% per year. This paper re-examines Rogers' analysis and shows that while his core insight about the utility function is correct, the specific functional form he uses doesn't generate equilibrium evolutionary behaviour. Moreover, his striking quantitative prediction about 2% interest rates doesn't follow because his interior-solution assumptions may not hold. A technically important correction to the biological foundations of the rate of time preference.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical re-examination of Rogers (1994); no original empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Primarily academic. Tangentially relevant to the social-discount-rate debate in Hungarian public project appraisal (cost-benefit analysis). The corrective here suggests the biologically-grounded 2% benchmark is weaker than originally claimed. Caveat: highly theoretical; no direct policy prescriptions.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
       "openalex_id": "W1965222161"
     },
     {
@@ -24656,21 +25093,34 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We consider a growth model in which intergenerational transfers are made via stocks of private and public capital. Private capital is the outcome of individuals' private savings while decisions regarding public capital are made collectively. We hypothesize that private saving choices evolve through individual selection while public saving decisions are the result of group selection. The main result of the paper is that the equilibrium rate of return to private capital is at least 2–3 percent more than the rate of return to public capital. In other words, social choices involving intertemporal trade-offs exhibit much more patience than individual choices do. (JEL D11, D71, D91, H43)",
-      "summary_en": null,
+      "summary_en": "Why does society as a whole seem more patient than individuals? Individual time preferences (how much people discount future consumption) are typically steeper than the rate of return on social (public) capital. This paper offers an evolutionary explanation. Private saving evolves through individual selection; public saving decisions evolve through group selection (societies that save for public capital outlast those that don't). The model yields a testable prediction: the return to private capital is 2–3 percentage points higher than the return to public capital. A new angle on the equity premium and the social discount rate.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model; empirical comparison of private versus public rates of return in post-war data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant to Hungarian public-investment and social-discount-rate policy. For the Ministry of Finance and infrastructure-project cost-benefit analysis, the paper suggests that public projects should be evaluated at a lower discount rate than private ones — a principle already reflected in many EU project-appraisal guidelines. The paper grounds that difference in evolutionary logic. Caveat: the evolutionary framework is speculative; the quantitative 2–3pp differential is a macro pattern, not a precise calibration tool.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "methods",
+        "fiscal-tax"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2120720535"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2120720535",
+      "policy_instruments": [
+        "social discount rate for infrastructure",
+        "cost-benefit analysis framework"
+      ]
     },
     {
       "id": "robson-szentes-et-al-2012-aejm",
@@ -25204,21 +25654,33 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We consider a dynamic economy in which agents are repeatedly matched and decide whether or not to form profitable partnerships. Each agent has a physical color and a social color. An agent's social color acts as a signal, conveying information about the physical color of agents in his partnership history. Before an agent makes a decision, he observes his match's physical and social colors. Neither the physical color nor the social color is payoff relevant. We identify environments where equilibria arise in which agents condition their decisions on the physical and social colors of their potential partners. That is, they discriminate. (JEL C78, D82, J15, J71, Z13)",
-      "summary_en": null,
+      "summary_en": "Why does discrimination persist even when race or skin colour is genuinely uninformative about productivity? This paper offers an elegant answer: history creates signals. In a dynamic economy, each agent has a \"physical colour\" (observable, payoff-irrelevant) and a \"social colour\" (observable, reflects the partnership history). A person's social colour becomes correlated with her physical colour through past partnership choices, even though neither actually matters for payoffs. This generates spontaneous-discrimination equilibria where people rationally condition on irrelevant attributes. A new mechanism for understanding persistent labour-market discrimination.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct implications for Hungarian anti-discrimination policy (ETDA, workplace-discrimination law). The model shows that discriminatory outcomes can arise without any actual information-value of protected characteristics — so pure information-provision interventions (\"here is data showing these groups are equally capable\") may not break the equilibrium. Relevant to Roma labour-market integration efforts. Caveat: theoretical; specific policy design needs to target the information-flow channels that sustain the equilibrium.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "labor-markets",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4236794818"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4236794818",
+      "policy_instruments": [
+        "anti-discrimination enforcement",
+        "blind-evaluation hiring",
+        "affirmative action"
+      ]
     },
     {
       "id": "solymosi-sziklai-2016-orl",
@@ -25937,21 +26399,31 @@
       "url_pdf": "https://academic.oup.com/restud/article-pdf/82/1/391/5252560/rdu025.pdf",
       "url_replication": null,
       "abstract": "This article analyses contractual situations between many principals and many agents. The agents have private information, and the principals take actions. Principals have the ability to contract not only on the reports of the agents but also on the contracts offered by other principals. Contracts are required to be representable in a formal language. The main result of the article is a characterization of the allocations that can be implemented as equilibria in our contracting game. We then restrict attention to exclusive-contracting environments, in which the agent may select the contract of at most one principal. In this setting, our characterization result implies that principals can collude to implement the monopolist outcome. Finally, in general, equilibrium contracts turn out to be incomplete. That is, a contract will restrict the action space of a principal but will not necessarily determine a single action.",
-      "summary_en": null,
+      "summary_en": "Real-world contracts often specify conditions on what other parties do. Common-agency problems — where multiple principals write contracts with multiple agents — are particularly rich. This paper formalises contracts that can condition on each other and fully characterises which allocations can be implemented. A striking result: in exclusive-contracting settings (the agent picks one principal), principals can collude to implement the monopolistic outcome. The paper solves a long-standing question in mechanism design: what's achievable when principals' contracts can reference each other.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Foundational contribution; indirectly relevant to Hungarian platform-competition and telecom-regulation debates. The result that exclusive-contracting environments can sustain monopoly outcomes is a technical foundation for concerns about exclusive-dealing clauses, which GVH and sectoral regulators regularly examine. Caveat: theoretical; empirical detection of such collusive equilibria in Hungarian markets is challenging.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W1975601871"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W1975601871",
+      "policy_instruments": [
+        "exclusive-dealing regulation",
+        "platform-contract restrictions"
+      ]
     },
     {
       "id": "szentes-rosenthal-2003-gaeb",
@@ -27124,21 +27596,34 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We analyze wage inequality, extending the Burdett and Mortensen ( International Economic Review 39 (1998), 257–73) model by incorporating worker heterogeneity through skill requirements. We provide sufficient conditions for existence of an equilibrium where more productive firms offer higher wages. The unique such equilibrium is characterized in a closed form solution. Both within‐ and between‐group inequality are explicitly calculated. We then calibrate the model to explain the joint movement of both within‐ and between‐group inequality in the late 1980s and 1990s, an explanation that has been elusive in the literature so far.",
-      "summary_en": null,
+      "summary_en": "Why did wage inequality rise so much within education groups and between education groups in the US during the 1980s-90s? This paper extends the classic Burdett-Mortensen search-model framework to include heterogeneous workers with different skill requirements. The authors derive a closed-form characterisation of the equilibrium and calibrate it to explain joint movements in within-group and between-group wage inequality — a puzzle previous literature had struggled with. A productive blend of labour-search theory and empirical calibration.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical search model calibrated to US wage-distribution data, 1980s-90s. Uses standard CPS or equivalent wage micro-data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian labour-market analysis, the model offers a framework to explain how minimum-wage compression and search frictions jointly shape the wage distribution. Relevant to MNB labour-market analysis and to KRTK wage-inequality research. Caveat: US-calibrated; Hungarian institutional features (strong collective-bargaining coverage, sector-specific wage floors) would shift the quantitative predictions.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "labor-markets",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "structural"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2140769313"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2140769313",
+      "policy_instruments": [
+        "minimum wage",
+        "job-search assistance"
+      ]
     },
     {
       "id": "valentinyi-herrendorf-2008-roed",
@@ -27617,7 +28102,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 19
+      "paper_count": 26
     },
     {
       "id": "education-skills",
@@ -27628,7 +28113,7 @@
       "policy_framing_en": "Relevant to: curriculum design, teacher policy, school tracking age, higher education funding, vocational training.",
       "policy_framing_hu": "Releváns: tantervfejlesztés, tanárpolitika, iskolai szelekció életkora, felsőoktatás finanszírozása, szakképzés.",
       "icon": "graduation-cap",
-      "paper_count": 12
+      "paper_count": 17
     },
     {
       "id": "health",
@@ -27639,7 +28124,7 @@
       "policy_framing_en": "Relevant to: healthcare system design, hospital payment, prevention programs, pharmaceutical policy, mental health services.",
       "policy_framing_hu": "Releváns: egészségügyi rendszer kialakítása, kórházi finanszírozás, prevenciós programok, gyógyszerpolitika, mentális szolgáltatások.",
       "icon": "heart-pulse",
-      "paper_count": 13
+      "paper_count": 14
     },
     {
       "id": "demographics-migration",
@@ -27650,7 +28135,7 @@
       "policy_framing_en": "Relevant to: family policy, pension system, immigration policy, retention of skilled workers.",
       "policy_framing_hu": "Releváns: családpolitika, nyugdíjrendszer, bevándorláspolitika, szakemberek megtartása.",
       "icon": "users",
-      "paper_count": 9
+      "paper_count": 11
     },
     {
       "id": "trade-fdi",
@@ -27661,7 +28146,7 @@
       "policy_framing_en": "Relevant to: EU trade policy, FDI promotion, export promotion, supply chain resilience, industrial policy.",
       "policy_framing_hu": "Releváns: EU kereskedelempolitika, FDI ösztönzés, exporttámogatás, ellátási láncok rugalmassága, iparpolitika.",
       "icon": "globe",
-      "paper_count": 21
+      "paper_count": 26
     },
     {
       "id": "firms-productivity",
@@ -27672,7 +28157,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 46
+      "paper_count": 53
     },
     {
       "id": "innovation-digital",
@@ -27683,7 +28168,7 @@
       "policy_framing_en": "Relevant to: R&D tax credits, digital strategy, AI policy, innovation agency design, university–industry linkages.",
       "policy_framing_hu": "Releváns: K+F adókedvezmények, digitális stratégia, MI-politika, innovációs ügynökségek, egyetem–ipar kapcsolatok.",
       "icon": "cpu",
-      "paper_count": 12
+      "paper_count": 13
     },
     {
       "id": "banking-finance",
@@ -27694,7 +28179,7 @@
       "policy_framing_en": "Relevant to: MNB policy, banking regulation, macroprudential tools, financial inclusion.",
       "policy_framing_hu": "Releváns: MNB-politika, bankszabályozás, makroprudenciális eszközök, pénzügyi befogadás.",
       "icon": "landmark",
-      "paper_count": 26
+      "paper_count": 33
     },
     {
       "id": "fiscal-tax",
@@ -27705,7 +28190,7 @@
       "policy_framing_en": "Relevant to: tax reform, budget planning, public debt management, compliance policy.",
       "policy_framing_hu": "Releváns: adóreform, költségvetés-tervezés, államadósság-kezelés, adócompliance.",
       "icon": "coins",
-      "paper_count": 11
+      "paper_count": 18
     },
     {
       "id": "regional-urban",
@@ -27716,7 +28201,7 @@
       "policy_framing_en": "Relevant to: regional development funds, housing policy, transport investment, urban planning.",
       "policy_framing_hu": "Releváns: regionális fejlesztési alapok, lakáspolitika, közlekedési beruházások, városfejlesztés.",
       "icon": "building",
-      "paper_count": 11
+      "paper_count": 12
     },
     {
       "id": "energy-environment",
@@ -27727,7 +28212,7 @@
       "policy_framing_en": "Relevant to: energy transition, carbon pricing, renewable support, environmental standards.",
       "policy_framing_hu": "Releváns: energiaátmenet, szén-dioxid árazás, megújulók támogatása, környezeti szabványok.",
       "icon": "leaf",
-      "paper_count": 3
+      "paper_count": 4
     },
     {
       "id": "inequality-welfare",
@@ -27738,7 +28223,7 @@
       "policy_framing_en": "Relevant to: welfare system, anti-poverty programs, family allowances, gender-equal pay policies.",
       "policy_framing_hu": "Releváns: szociális rendszer, szegénység elleni programok, családi pótlékok, egyenlő bérezés.",
       "icon": "scale",
-      "paper_count": 34
+      "paper_count": 40
     },
     {
       "id": "political-economy",
@@ -27749,7 +28234,7 @@
       "policy_framing_en": "Relevant to: anti-corruption policy, public administration reform, EU affairs, electoral system design.",
       "policy_framing_hu": "Releváns: korrupcióellenes politika, közigazgatási reform, EU-ügyek, választási rendszer.",
       "icon": "building-2",
-      "paper_count": 20
+      "paper_count": 22
     },
     {
       "id": "transition-postcommunist",
@@ -27760,7 +28245,7 @@
       "policy_framing_en": "Relevant to: long-run diagnoses of the Hungarian and CEE economy, lessons from 30+ years of transition, institutional path dependence.",
       "policy_framing_hu": "Releváns: a magyar és KKE gazdaság hosszú távú diagnózisa, 30+ év rendszerváltásának tanulságai, intézményi útfüggőség.",
       "icon": "flag",
-      "paper_count": 8
+      "paper_count": 9
     },
     {
       "id": "methods",
@@ -27771,7 +28256,7 @@
       "policy_framing_en": "Relevant to: rigorous program evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 62
+      "paper_count": 89
     }
   ],
   "journals": [

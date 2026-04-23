@@ -17,19 +17,33 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This paper presents direct evidence for relational contracts in sovereign bank lending. Unlike the existing empirical literature, its instrumental variables method allows for distinguishing a direct influence of past repayment problems on current spreads (a “punishment” effect in prices) from an indirect effect through higher expected future default probabilities (“loss of reputation”). Such a punishment provides positive surplus to lenders after a default and decreases the borrower's present discounted value of the net benefits of future borrowing, which create dynamic incentives. Using data on bank loans to developing countries for 1973–1981 and constructing continuous variables for credit history, we find evidence that most of the influence of past repayment problems is through the direct, punishment channel.",
-  "summary_en": null,
+  "summary_en": "When a country defaults on its debt, banks charge it higher interest on future loans. Is that because past repayment failures \"punish\" the borrower directly, or because they signal higher future default risk? Separating the two matters for policy. This paper uses an instrumental-variables approach on 1973–1981 bank loans to developing countries to decompose the effect. The finding: most of the influence of past repayment problems is through direct \"punishment\" — relational-contract enforcement — rather than through updated reputation. A finding that supports a relational-contracting view of sovereign-debt markets.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Bank-loan data on sovereign lending to developing countries, 1973–1981. Continuous credit-history variables constructed from loan-by-loan records. IV strategy separating direct effect of past problems from updated default probabilities.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant to Hungary's sovereign-debt management (AKK, MNB). The paper's punishment-versus-reputation decomposition matters: if markets are dominated by relational enforcement, the cost of a technical default or restructuring is a persistent premium; if reputation dominates, good post-default behaviour can repair credibility faster. Informs debt-management strategy and interaction with international lenders. Caveat: the data are pre-1981 and pre-ECB; today's sovereign-debt markets are more integrated and have formal restructuring mechanisms.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "fiscal-tax"
+  ],
+  "methods": [
+    "iv",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3096331461"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3096331461",
+  "policy_instruments": [
+    "sovereign-debt management",
+    "default-restructuring strategy"
+  ]
 }

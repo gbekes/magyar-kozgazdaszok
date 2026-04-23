@@ -17,19 +17,32 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This paper provides empirical evidence of the influence of adolescent marriage opportunities on female schooling attainment and gives predictions of the impact of imposing universal age-of-consent laws. Using data from rural Bangladesh, we explore the commonly cited hypotheses that women attain less schooling as a result of marrying young. We isolate the causal effect of marriage timing by exploiting variation in the timing of menarche as an instrumental variable for age of first marriage. Our results indicate that marriage age matters: Each additional year that marriage is delayed is associated with 0.30 additional years of schooling and 6.5% higher probability of literacy. Delayed marriage is also associated with a significant increase in use of preventive health care services, some of which appears to be independent of the change in schooling, indicating separate “age effects” of delaying marriage. In the context of competitive marriage markets we show that the above results can be used to obtain estimates of the change in equilibrium female education that would arise from introducing a minimum legal age of marriage. The resulting analysis implies that, under reasonable assumptions, enforcing universal age of consent laws would have a strong positive impact on female schooling. JEL Classification: I32, I12, J12, J13, J16, O12",
-  "summary_en": null,
+  "summary_en": "Girls in rural Bangladesh who marry young get less education. Is this just because school drop-outs marry sooner, or does early marriage actually cause lower schooling? This paper uses variation in the timing of menarche (puberty) as an instrumental variable for age of first marriage, isolating the causal effect. Result: each additional year of marriage delay raises schooling by 0.30 years and literacy probability by 6.5 percentage points. Delayed marriage also improves use of preventive health care. A pivotal result for global campaigns to raise the legal age of marriage.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Survey data from rural Bangladesh; instrumental-variable strategy using exogenous variation in age of menarche as instrument for age of first marriage.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Limited direct policy relevance in Hungary (legal marriage age is already 18 and early marriage is uncommon). The paper is relevant to Hungary's international development assistance and to EU external cooperation on gender equality. Methodologically useful for any research on age-related policy effects (school-entry age, compulsory-schooling age) using biomedical instruments. Caveat: the Bangladesh context is specific; the quantitative magnitudes won't apply elsewhere.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "education-skills",
+    "demographics-migration"
+  ],
+  "methods": [
+    "iv"
+  ],
+  "countries_studied": [
+    "BD"
+  ],
+  "data_types": [
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W121952757"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W121952757",
+  "policy_instruments": [
+    "age-of-consent laws",
+    "education and gender-policy aid"
+  ]
 }

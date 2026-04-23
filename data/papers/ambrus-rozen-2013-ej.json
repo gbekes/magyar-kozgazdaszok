@@ -17,19 +17,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Journal Article Rationalising Choice with Multi‐Self Models Get access Attila Ambrus, Attila Ambrus Duke University Search for other works by this author on: Oxford Academic Google Scholar Kareen Rozen Kareen Rozen Yale University Search for other works by this author on: Oxford Academic Google Scholar The Economic Journal, Volume 125, Issue 585, 1 June 2015, Pages 1136–1156, https://doi.org/10.1111/ecoj.12103 Published: 14 March 2014 Article history Received: 15 March 2013 Accepted: 04 September 2013 Published: 14 March 2014",
-  "summary_en": null,
+  "summary_en": "People sometimes make choices that look inconsistent across decisions — preferring A over B in one setting and B over A in another. Classical theory treats this as irrational. This paper offers a richer framework: the individual can be represented as a consistent aggregator of multiple \"selves\" with different preferences. The authors characterise which observed choice patterns are rationalisable by multi-self models and which are not. A technical contribution that gives behavioural economics a cleaner foundation for thinking about internal conflict and inconsistency.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Foundational for behavioural consumer-protection analysis. Indirectly relevant to Hungarian retail-finance regulation and default design: if consumer inconsistency comes from multi-self conflict, then policies that commit consumers to their \"long-run self\" (automatic enrolment in savings, pre-commitment devices) can be welfare-improving. Caveat: the paper is theoretical; concrete Hungarian policy implications depend on empirical identification of which domain-specific multi-self conflicts matter most.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2153262031"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2153262031",
+  "policy_instruments": [
+    "commitment-device savings products",
+    "default-enrolment design"
+  ]
 }

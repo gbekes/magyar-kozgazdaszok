@@ -16,19 +16,35 @@
   "url_pdf": "https://www.aeaweb.org/articles/pdf/doi/10.1257/mic.20180270",
   "url_replication": null,
   "abstract": "I study how trade affects urbanization and real income. To this end, I exploit large-scale exogenous changes in trade stemming from the redrawing of Hungary’s borders after the First World War. I show that urbanization in counties near the new border decreased significantly relative to counties farther away. I rationalize this reduced-form finding in a spatial model in which benefits from trading drive agglomeration around locations where trading activity takes place. Structurally estimating the model, I find a 15.55 percent decrease in Hungarian residents’ average real income after the redrawing of borders, with the largest losses concentrated in border regions. (JEL F11, F14, N34, N74, N94, R12)",
-  "summary_en": null,
+  "summary_en": "When Hungary's borders were redrawn after the First World War (Treaty of Trianon, 1920), the country lost two-thirds of its territory and population. This paper asks what that did to the surviving country. Using the sharp, exogenous border changes, the author shows that counties now near the new border saw much less urbanisation than counties farther away. A structural spatial-economy model rationalises the finding: trading activity drives urban agglomeration, and the border blocked trade. The model implies Hungary's average real income fell 15.55% from the border redrawing, with losses concentrated in border regions.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Historical Hungarian micro-data on urban population, counties, and trade, spanning pre- and post-1920 borders. Spatial data on the location of the new border relative to pre-war towns and trade routes.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Highly relevant to Hungarian regional-development policy and to any discussion of border-effect on economic geography. For current policy (EU cohesion funds, regional development, cross-border cooperation with Romania, Slovakia, Ukraine), the paper provides the quantitative benchmark: borders are expensive, and integration (Schengen, EU cross-border programmes) have real welfare consequences. Caveat: the identification is historical and the magnitudes reflect a 1920s context; current EU integration is a different kind of border removal.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "regional-urban",
+    "trade-fdi",
+    "transition-postcommunist"
+  ],
+  "methods": [
+    "structural",
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "historical"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4288033031"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4288033031",
+  "policy_instruments": [
+    "cross-border regional development",
+    "EU cohesion funds",
+    "Schengen integration"
+  ]
 }

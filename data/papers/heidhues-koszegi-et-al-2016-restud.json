@@ -18,19 +18,31 @@
   "url_pdf": "https://academic.oup.com/restud/article-pdf/84/1/323/8783803/rdw037.pdf",
   "url_replication": null,
   "abstract": "We analyse conditions facilitating profitable deception in a simple model of a competitive retail market. Firms selling homogenous products set anticipated prices that consumers understand and additional prices that naive consumers ignore unless revealed to them by a firm, where we assume that there is a binding floor on the anticipated prices. Our main results establish that \"bad\" products (those with lower social surplus than an alternative) tend to be more reliably profitable than \"good\" products. Specifically, (1) in a market with a single socially valuable product and sufficiently many firms, a deceptive equilibrium-in which firms hide additional prices-does not exist and firms make zero profits. But perversely, (2) if the product is socially wasteful, then a profitable deceptive equilibrium always exists. Furthermore, (3) in a market with multiple products, since a superior product both diverts sophisticated consumers and renders an inferior product socially wasteful in comparison, it guarantees that firms can profitably sell the inferior product by deceiving consumers. We apply our framework to the mutual fund and credit card markets, arguing that it explains a number of empirical findings regarding these industries.",
-  "summary_en": null,
+  "summary_en": "Some products are \"inferior\" — lower social surplus than a better alternative. Are they more profitable than good products? This paper says yes, counter-intuitively. In a model where firms can \"hide\" additional fees that naive consumers miss, good products can't sustain deceptive pricing when there are enough firms: competition drives profits to zero. But for inferior/wasteful products, a profitable deceptive equilibrium always exists. When good and bad products coexist, the bad one can crowd out the good by relying on hidden charges. A sharp result with implications for consumer-protection design.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly relevant to MNB consumer protection and GVH competition policy. The paper supports tighter regulation of hidden fees and unfair-product rules, particularly in retail credit and consumer contracts, because bad products thrive in deceptive equilibria. Relevant to transposing EU Consumer Rights Directive and to the design of mandatory-disclosure rules that make hidden charges visible. Caveat: theoretical; identifying which real-world products fall into the \"socially wasteful\" category requires case-by-case assessment.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "methods",
+    "banking-finance"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2487003007"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2487003007",
+  "policy_instruments": [
+    "hidden-fee disclosure rules",
+    "consumer-deception regulation",
+    "retail-credit standards"
+  ]
 }

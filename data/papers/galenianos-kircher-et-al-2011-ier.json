@@ -18,19 +18,30 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We build a theoretical model to study the welfare effects and policy implications of firms’ market power in a frictional labor market. The main characteristics of our environment are that wages play a role in allocating labor across firms and the number of agents is finite. The decentralized equilibrium is inefficient and the firms’ market power results in the misallocation of workers from the high to the low productivity firms. A minimum wage exacerbates the inefficiencies by forcing the low-productivity firms to increase their wage. Moderate unemployment benefits can increase welfare by improving the workers’ outside option.",
-  "summary_en": null,
+  "summary_en": "Classical labour search models assume wages are determined by bargaining. But if firms post wages to compete for workers, how do market power and inefficiency interact? This paper builds a search model where wages play a role in allocating workers across firms and there's a finite number of agents. The decentralised equilibrium is inefficient: firms with market power misallocate workers from high-productivity to low-productivity firms. A binding minimum wage makes things worse by forcing low-productivity firms up. Moderate unemployment benefits can improve welfare by strengthening workers' outside option. Nuanced implications for labour-market policy.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance to the minimum-wage debate and unemployment-benefit generosity in Hungary. The paper supports the view that minimum wages can reduce efficiency by compressing market-allocative wage differentials — but also supports moderate UI generosity as a complementary tool. For the Hungarian Ministry of Economy and VKF social dialogue on wage floors, the paper offers a balanced theoretical framing. Caveat: theoretical; the model omits some realistic frictions (union bargaining, industry-specific wage floors) relevant in Hungary.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "labor-markets",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W1866558544"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W1866558544",
+  "policy_instruments": [
+    "minimum wage",
+    "unemployment benefit generosity"
+  ]
 }

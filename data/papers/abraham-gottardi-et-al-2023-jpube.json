@@ -19,19 +19,33 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We revisit the classical result that in a closed economy the incidence of corporate taxes on labor is approximately zero. We consider a rich general equilibrium framework, where agents differ in the level of their wealth as well as in their managerial and working ability. Potential entrepreneurs go through all the key decisions affected by corporate tax changes: the choice of (i) occupation, (ii) organizational form, (iii) investment, and (iv) financing structure. We allow both for the presence of financial frictions and the traditional tax advantage of debt over corporate equity, which jointly generate misallocation of capital and talent. In this environment we characterize the effects of increasing corporate taxes both analytically and for a calibrated version of the model. We show that this tax increase reallocates production from C corporations to pass-through businesses. Since, due to distorted prices, the latter have higher capital-labor ratios, this reallocation generates a reduction in labor productivity and wages. Furthermore, the corporate tax increase induces some C corporations to reorganize as pass-throughs, which implies more restricted access to external funds and thus a socially inefficient downsizing of production in these firms. Finally, the tax increase causes further misallocation of talent by inducing agents with low wealth relative to their managerial talent to switch from entrepreneurship to being workers, while the reverse happens for agents with higher wealth and lower managerial skills. Overall, we find that both labor and capital bear a large share of the corporate tax incidence, while entrepreneurs are net beneficiaries of the tax change.",
-  "summary_en": null,
+  "summary_en": "The old conclusion that corporate taxes have negligible incidence on workers rested on simple models. This paper revisits it in a much richer setting: people differ in wealth and in managerial/working ability; entrepreneurs decide whether to start a business, what organisational form to use (C-corp vs pass-through), how much to invest, and how to finance it. Financial frictions and the traditional debt-over-equity tax advantage create misallocation. In this world, a corporate-tax increase reallocates activity from C-corporations to pass-through businesses, and the usual \"no wage incidence\" result breaks. A more faithful framework for evaluating corporate-tax reforms.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "General-equilibrium structural model calibrated to US firm and entrepreneur micro-data on occupational choice, organisational form, investment, and financing decisions.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly relevant to Hungary's corporate-tax debates and to the interaction between KATA, KIVA, and the standard corporate income tax. The paper shows that headline corporate-tax rates interact with pass-through taxation in ways that affect occupational choice and firm size distribution. Relevant to ongoing reforms of small-business taxation. Caveat: the calibration is US-based; Hungarian magnitudes depend on the relative tax wedge between corporate and pass-through forms, which differs.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "fiscal-tax",
+    "firms-productivity"
+  ],
+  "methods": [
+    "structural"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4387229381"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4387229381",
+  "policy_instruments": [
+    "corporate-tax reform",
+    "pass-through taxation (KATA, KIVA)",
+    "organisational-form tax equalisation"
+  ]
 }

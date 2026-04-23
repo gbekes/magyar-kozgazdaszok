@@ -18,19 +18,25 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We introduce learning into an otherwise standard two-sided search-and-bargaining market. There is uncertainty about the price distribution due to uncertainty about an underlying exogenous state of relative demand: in the high state, buyers are on the long side; otherwise, they are on the short side. In equilibrium, prices are on average higher in the high state. Individual agents learn about the distribution while searching. Agents typically start out by experimenting with a tough bargaining position—buyers may initially insist on a low price and sellers on a high price. After successive failures to trade, agents become increasingly pessimistic about the market conditions and soften their bargaining stance. When frictions are small, equilibrium transaction prices are approximately market clearing, despite aggregate demand being unknown. Thus, the search-and-bargaining procedure enables price discovery in a decentralized market.",
-  "summary_en": null,
+  "summary_en": "When you go to a market uncertain about whether you're on the long or short side, what price do you ask or offer? This paper introduces learning into a classic two-sided search-and-bargaining market. Agents don't know aggregate demand conditions and start out bargaining tough — buyers demanding low prices, sellers high. As trades fail, they soften their positions. When frictions are small, the market ultimately converges close to market-clearing prices even though nobody knows the aggregate state. A clean demonstration that decentralised bargaining can aggregate information about market fundamentals.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Foundational for market-design questions — when can decentralised trading aggregate information efficiently? Indirect policy relevance for Hungarian market-design contexts (energy markets, labour markets with tightness uncertainty). Caveat: theoretical; specific applications require mapping the model to institutional features of particular Hungarian markets.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
   "openalex_id": "W3122795208"
 }

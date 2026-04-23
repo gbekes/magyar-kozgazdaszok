@@ -18,19 +18,25 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We establish convergence of beliefs and actions in a class of one‐dimensional learning settings in which the agent's model is misspecified, she chooses actions endogenously, and the actions affect how she misinterprets information. Our stochastic‐approximation‐based methods rely on two crucial features: that the state and action spaces are continuous, and that the agent's posterior admits a one‐dimensional summary statistic. Through a basic model with a normal–normal updating structure and a generalization in which the agent's misinterpretation of information can depend on her current beliefs in a flexible way, we show that these features are compatible with a number of specifications of how exactly the agent updates. Applications of our framework include learning by a person who has an incorrect model of a technology she uses or is overconfident about herself, learning by a representative agent who may misunderstand macroeconomic outcomes, and learning by a firm that has an incorrect parametric model of demand.",
-  "summary_en": null,
+  "summary_en": "People learn from what they do, but if their model of the world is wrong, the learning itself can go astray. This paper establishes precise convergence results for such \"misspecified learning\" settings: the agent picks actions, sees outcomes, and updates. Even when the updating rule is correct given her (wrong) model, beliefs converge — often to systematically wrong conclusions. The framework covers examples like overconfident learners and people with incorrect mental models of technology. A technical foundation-building contribution that unifies several previous results in behavioural economics.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Foundational for behavioural-economics models that inform Hungarian policy (consumer protection, financial education, public-health communication). Caveat: highly abstract. Specific Hungarian applications require mapping the model's components (agent's mental model, observable outcomes) to concrete decision contexts.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
   "openalex_id": "W3124212446"
 }

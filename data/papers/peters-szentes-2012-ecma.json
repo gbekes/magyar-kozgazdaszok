@@ -17,19 +17,25 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This paper analyzes Bayesian normal form games in which players write contracts that condition their actions on the contracts of other players. These contracts are required to be representable in a formal language. This is accomplished by constructing contracts which are definable functions of the Godel code of every other player's contract. We provide a complete characterization of the set of allocations supportable as pure-strategy Bayesian equilibria of this contracting game. When information is complete, this characterization provides a folk theorem. In general, the set of supportable allocations is smaller than the set supportable by a centralized mechanism designer.",
-  "summary_en": null,
+  "summary_en": "In many real strategic settings, players write contracts that condition their own behaviour on what other players are doing — essentially, contracts about contracts. This paper makes that idea mathematically precise: it requires contracts to be writable in a formal language, using Gödel codes of other players' contracts. The authors fully characterise which allocations can be supported as pure-strategy Bayesian equilibria of this \"contracting game.\" Under complete information, they establish a folk theorem. In general, fewer allocations are supportable than under a centralised mechanism designer. A foundational technical contribution to mechanism design.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Primarily academic. The decentralised contracting framework underlies analysis of smart-contract networks, blockchain coordination, and self-enforcing agreements — increasingly policy-relevant areas. Caveat: the result is abstract; implementation in specific Hungarian regulatory contexts (e.g., Web3 policy) requires domain-specific mapping.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
   "openalex_id": "W2124566008"
 }

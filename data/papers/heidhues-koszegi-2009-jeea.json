@@ -17,19 +17,31 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We investigate costly yet futile attempts at self-control when consumption of a harmful product has a binary breakdown/no-breakdown nature and individuals tend to underestimate their need for self-control. Considering time-inconsistent preferences as well as temptation disutility, we show that becoming more sophisticated can decrease welfare and investigate what kind of mistaken beliefs lead to low welfare. With time-inconsistent preferences, being close to perfectly understanding one’s preferences but assigning zero probability to true preferences induces the worst outcome. (JEL: D03, D11, D91) 1.",
-  "summary_en": null,
+  "summary_en": "When someone wants to quit smoking, limit drinking, or stop gambling, the pattern is often: they try, fail, and try again. This paper shows that people who partially understand their self-control problem can end up with worse welfare than those who don't understand it at all. The reason: partially sophisticated agents exert costly effort at control that ultimately fails — futile attempts. A little self-awareness is dangerous if it's incomplete. The paper identifies the specific belief patterns that lead to the worst outcomes. A cautionary framework for designing health and consumer-protection interventions around self-control problems.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Highly relevant to Hungarian public-health policy (smoking, alcohol, gambling) and consumer-protection in addiction-related markets. Message: \"raising awareness\" interventions that educate people about their self-control problems can backfire unless they deliver full and accurate information. Supports commitment-device based policies (e.g., mandatory cooling-off periods, betting self-exclusion registers) over awareness-only approaches. Caveat: theoretical; specific design of Hungarian interventions requires empirical research on how much self-awareness is realistic.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "health",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W1981082779"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W1981082779",
+  "policy_instruments": [
+    "gambling self-exclusion",
+    "smoking-cessation commitment",
+    "consumer cooling-off periods"
+  ]
 }

@@ -16,19 +16,26 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This review provides a critical survey of psychology-and-economics (“behavioral-economics”) research in contract theory. First, I introduce the theories of individual decision making most frequently used in behavioral contract theory, and formally illustrate some of their implications in contracting settings. Second, I provide a more comprehensive (but informal) survey of the psychology-and-economics work on classical contract-theoretic topics: moral hazard, screening, mechanism design, and incomplete contracts. I also summarize research on a new topic spawned by psychology and economics, exploitative contracting, that studies contracts designed primarily to take advantage of agent mistakes. (JEL A12, D03, D82, D86)",
-  "summary_en": null,
+  "summary_en": "A survey article that maps how psychology-and-economics ideas have entered contract theory. It covers standard topics (moral hazard, screening, mechanism design, incomplete contracts) and one new one: \"exploitative contracting\" — contracts designed to exploit predictable consumer mistakes. The review synthesises two decades of behavioural contract theory and identifies the most robust empirical patterns. It's the standard reference for anyone teaching or extending behavioural contract theory and for policymakers who want a textbook-style overview of the field.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Survey paper; no original empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "A foundational survey rather than a new policy analysis. Useful for Hungarian consumer-protection and financial-regulation policymakers as a framework for identifying which specific market practices are likely to be exploitative versus merely inefficient. Relevant to GVH, MNB, and NFH staff. Caveat: a survey synthesises; specific policy design requires turning its ideas into testable interventions for specific Hungarian markets.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "methods",
+    "banking-finance"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
   "openalex_id": "W2145283456"
 }

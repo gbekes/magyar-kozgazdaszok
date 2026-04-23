@@ -17,19 +17,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Abstract This article studies how the presence of concealable hard evidence affects the timing of agreement and the size and distribution of surplus in bargaining. A buyer and a seller receive randomly arriving, verifiable, but concealable evidence about the value of a tradable good. Each party discloses individually favourable information but conceals signals that benefit the other side, giving rise to mutual suspicion; the seller repeatedly posts prices valid for one period. In the leading case of interest with a finite horizon and sufficiently patient players, the equilibrium is characterised by an interval of skimming (a sequence of prices acceptable only to a buyer who has learned that the good’s value is high) concluded by a single settlement period in which agreement is reached for sure. The length of delay until agreement and the corresponding efficiency loss are decreasing in the time horizon and in the abilities of the trading parties to identify the good’s value, but increasing in impatience. An arbitrarily long time horizon leads to immediate agreement if the parties are even slightly impatient and interaction is frequent enough; if the parties are perfectly patient, there is no trade without evidence disclosure.",
-  "summary_en": null,
+  "summary_en": "In many negotiations, both sides can acquire private, verifiable information they can choose to reveal or conceal. Each party reveals info favourable to themselves and hides info favourable to the other — generating mutual suspicion. This paper analyses the bargaining outcome. In the main case (finite horizon, patient players), equilibrium has a \"skimming\" phase — a sequence of progressively lower prices accepted only by buyers who have learned the good is high-value — followed by a single settlement period in which agreement is reached for sure. Delay and its efficiency loss fall as info-acquisition costs fall. A clean model of how hard evidence shapes real bargaining.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant to Hungarian contract-dispute, procurement, and merger-negotiation contexts where both parties can credibly signal private information. The paper supports procedural rules that reduce the cost of information disclosure (for example, structured due diligence in public procurement). Relevant to Közbeszerzési Hatóság (Public Procurement Office). Caveat: theoretical; identifying the \"hard evidence\" dimension empirically in Hungarian procurement is non-trivial.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2806783410"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2806783410",
+  "policy_instruments": [
+    "procurement disclosure rules",
+    "due-diligence standards"
+  ]
 }

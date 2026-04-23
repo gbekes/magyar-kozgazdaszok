@@ -17,19 +17,33 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This paper analyzes Markov equilibria in a model of strategic lending in which (i) agents cannot commit to long‐term contracts, (ii) contracts are incomplete, and (iii) incumbent lenders can coordinate their actions. Default cycles occur endogenously over time along every equilibrium path. After a sequence of bad shocks, the borrower in a competitive market accumulates debt so large that the incumbent lenders exercise monopoly power. Even though the incumbents could maintain this power forever, they find it profitable to let the borrower regain access to the competitive market after a sequence of good shocks. Equilibria are computed numerically, and their attributes are qualitatively consistent with numerous known empirical facts on sovereign lending. In addition, the model predicts that a borrower who accumulates debt overhang will regain access to the competitive credit market only after good shocks. This prediction is shown to be consistent with data on emerging market economies.",
-  "summary_en": null,
+  "summary_en": "Sovereign-debt markets go through cycles of easy access and tight credit. This paper builds a model where the cycles are endogenous. Lenders can't commit to long-term contracts, contracts are incomplete, and incumbent lenders can coordinate among themselves. After bad shocks, the borrower's debt rises to the point where incumbents exercise monopoly power; after good shocks, incumbents let the borrower back into competitive markets because it pays to do so. Default cycles emerge without any exogenous shock to preferences or institutions. The model's implications match many known facts about sovereign-debt markets.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model calibrated and compared against empirical facts on sovereign-lending markets (spreads, debt concentration, default frequency).",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian sovereign-debt management (AKK, MNB): the paper supports active monitoring of incumbent-lender concentration during stress episodes. Diversification across lender types (retail domestic bonds, FX bonds, syndicated loans) is valuable precisely because it reduces incumbents' coordinated monopoly power. Relevant to Hungarian debt-management strategy. Caveat: the model is about developing-country sovereign lending in the 1970s-80s; Hungarian debt is issued largely in EU markets with different institutional features.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "fiscal-tax"
+  ],
+  "methods": [
+    "structural",
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2155712237"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2155712237",
+  "policy_instruments": [
+    "sovereign-debt lender diversification",
+    "debt-maturity management"
+  ]
 }

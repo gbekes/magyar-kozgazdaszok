@@ -17,19 +17,26 @@
   "url_pdf": "https://www.aeaweb.org/articles/pdf/doi/10.1257/mic.20150116",
   "url_replication": null,
   "abstract": "This paper analyzes a labor market, where: workers can acquire an observable skill at no cost, firms differ in unobserved productivity, workers' skill and firms' productivity are substitutes, and firms' search is directed. The main result is that, if the entry cost of firms is small, no worker acquires the skill in the unique equilibrium. For intermediate entry costs, a positive measure of workers obtain the skill, and the number of skilled workers goes to one as entry costs become large. Welfare is highest when the entry cost is high. (JEL D21, D24, D82, D83, J24)",
-  "summary_en": null,
+  "summary_en": "Classical models argue education is valuable to workers partly as a costless signal of ability. This paper offers a different mechanism without signalling. Workers can observably acquire a skill; firms differ in unobserved productivity and search directedly; skill and firm productivity are substitutes. The main finding is that if firm entry is cheap, nobody acquires the skill in equilibrium. At intermediate entry costs, some workers acquire it; as entry costs rise, nearly all do. Welfare is highest when entry costs are high. The paper reframes when human-capital investment is socially valuable.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Offers a theoretical lens on Hungarian labour-market mismatch and the economics of adult-education/requalification programmes. Caveat: theoretical; concrete Hungarian policy recommendations depend on empirical identification of the substitutability assumption between worker skill and firm productivity, which varies by sector.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "labor-markets",
+    "education-skills"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
   "openalex_id": "W2335862325"
 }

@@ -18,19 +18,33 @@
   "url_pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/iere.12664",
   "url_replication": null,
   "abstract": "Abstract One important feature of capital tax reforms is the uncertainty regarding their duration. In a standard heterogeneous firm framework with financial frictions, we model policy uncertainty by assuming that reforms may be either repealed or maintained with some probability every period. We illustrate the effects of policy uncertainty in the context of the 2003 Bush tax cuts (2003 Job Growth Tax Relief Reconciliation Act), which lowered shareholder taxes. We show that policy uncertainty regarding dividend and capital gains taxes can explain why the Bush tax cuts had no statistically significant effect on investment, in line with the empirical evidence.",
-  "summary_en": null,
+  "summary_en": "When a tax reform is passed, how much do businesses actually invest in response? This paper argues that one big factor has been overlooked: policy uncertainty. Firms don't know if the reform will last. The authors build a heterogeneous-firm model where reforms may be repealed or maintained each period and apply it to the 2003 Bush shareholder-tax cuts in the US. The result helps resolve a long-standing puzzle: despite substantial tax cuts on dividends and capital gains, investment barely moved. Firms didn't treat the cut as permanent, so they didn't respond strongly. Tax reforms need durability — or at least credible commitment — to actually drive investment.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Structural heterogeneous-firm model with financial frictions, calibrated and applied to the 2003 Bush dividend/capital-gains tax cut using US firm-investment data pre- and post-reform.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Very relevant to Hungarian fiscal policy design. Politically-driven tax reforms (corporate-tax rate changes, KATA revisions, etc.) are unlikely to trigger the investment response policymakers hope for if firms believe the reform might be rolled back. Relevant to the Pénzügyminisztérium, MNB analysis of investment response to tax changes, and to the design of Hungary's corporate-tax sunset clauses and multi-year commitments. Caveat: the calibration is US-based; for Hungary, the specific magnitude of uncertainty effects depends on recent policy-reversal frequency, which could be estimated from the 2010+ period.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "fiscal-tax",
+    "firms-productivity"
+  ],
+  "methods": [
+    "structural"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4386392940"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4386392940",
+  "policy_instruments": [
+    "corporate-tax reform durability",
+    "sunset clauses",
+    "tax-policy commitment mechanisms"
+  ]
 }

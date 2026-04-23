@@ -18,19 +18,32 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Abstract Placement, both in university and in the civil service, according to performance in competitive exams is the norm in much of the world. Repeat taking of such exams is common despite the private and social costs it imposes. We develop and estimate a structural model of exam retaking using data from Turkey's university placement exam. Limiting retaking results in all agents gaining ex ante and most gaining ex post. This result comes from a general equilibrium effect: Retakers crowd the market and impose negative spillovers on others by raising acceptance cutoffs.",
-  "summary_en": null,
+  "summary_en": "High-stakes university-placement exams often let students retake them. Retaking is costly privately and imposes costs on other students via general-equilibrium effects: retakers crowd the market and raise acceptance cutoffs for everyone. This paper builds and structurally estimates a model of exam retaking using Turkey's university placement data. The key finding: limiting retaking makes all students better off ex ante, and most better off ex post. The gain comes from the general-equilibrium spillover, not from protecting individual students from their own choices. A case where less choice can be welfare-improving through network effects.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Structural model estimated on Turkey's centralised university-placement exam micro-data: exam scores, retake decisions, placement outcomes.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance to Hungarian university admission (felvételi). Retakes of érettségi are allowed with limited constraints; the paper suggests tighter caps could be Pareto-improving via the same spillover mechanism. Relevant to Oktatási Hivatal and to policy debates on exam-retake fees. Caveat: Turkey-calibrated; Hungarian quantitative effects would depend on the share of retakers and alternative options (rolling-entry universities, online programmes) available to students.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "education-skills",
+    "methods"
+  ],
+  "methods": [
+    "structural"
+  ],
+  "countries_studied": [
+    "TR"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-21",
-  "last_reviewed_at": "2026-04-21",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2119976303"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2119976303",
+  "policy_instruments": [
+    "exam-retake caps",
+    "retake fee structure"
+  ]
 }

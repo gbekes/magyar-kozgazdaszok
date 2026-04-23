@@ -17,19 +17,32 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "How important are economies of scale in exporting? We argue that firm size cannot be the main determinant of export status if a model is to be consistent with the observed number and size of exporters. Instead, we need a lot of variation independent of firm size to reconcile the model with the data. We show that the augmented model also has markedly different implications regarding the margin of adjustment in the event of a trade liberalization: most of the adjustment is through the intensive margin and productivity gains due to reallocation are halved. (JEL: F12) 1.",
-  "summary_en": null,
+  "summary_en": "A common intuition says: bigger firms are more likely to export because of economies of scale. This paper shows that intuition is, on its own, inconsistent with the data. If firm size were the main determinant of exporting, models would predict far too few or too many exporters. A lot of the variation in export status must come from factors independent of size. Once this is recognised, the response of trade to liberalisation looks different — most adjustment is along the intensive margin (existing exporters exporting more), and productivity gains from reallocation are about half the common estimates.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical framework with empirical comparison against standard firm-level export-status data across multiple countries.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Important for Hungarian trade-policy evaluation. The paper implies that policies targeting export entry (first-time exporter subsidies, export-promotion agencies) may be less effective than policies supporting the intensive margin (enabling existing exporters to grow their export share). Relevant to HEPA (Hungarian Export Promotion Agency) and to EU export-support program evaluation. Caveat: the model is general; Hungarian estimates of the size-independent determinants of exporting would require cross-sectional Hungarian firm data.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "trade-fdi",
+    "firms-productivity"
+  ],
+  "methods": [
+    "structural"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
+  "data_types": [
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2169091923"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2169091923",
+  "policy_instruments": [
+    "export-promotion agencies",
+    "intensive-margin export support"
+  ]
 }

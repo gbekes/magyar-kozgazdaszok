@@ -16,19 +16,33 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This article analyzes the impact of stochastic skill-biased technological change on earnings inequality in a general equilibrium OLG model. Wage dispersion is determined by the heterogeneity of skills by allowing for productivity differences due to education, ability, and age. The model performs well in reproducing stylized facts on the time pattern of the U.S. wage distribution and human capital accumulation. In particular, it shows that slow adjustment of the supply of educated labor can itself explain the nonmonotonic time pattern of the college premium.",
-  "summary_en": null,
+  "summary_en": "Why has the college wage premium in the US risen and then levelled off over recent decades? This paper argues it reflects the interplay between skill-biased technological change (raising the demand for skilled workers) and slow adjustment of educational supply. The model — an overlapping-generations general-equilibrium framework with heterogeneity in ability, age, and education — reproduces the observed non-monotonic time path of the college premium. The key insight: when skill demand rises faster than the educational sector can produce graduates, the premium spikes; as supply catches up, it eases. A clean quantitative explanation for a major empirical puzzle.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Quantitative OLG model calibrated to US time-series data on wages, education attainment, and the college premium across cohorts.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungary faces similar supply-side questions: the returns to higher education, the capacity of the tertiary system, and the lag with which new fields (IT, data science) can train workers. For Oktatási Hivatal and the ministry setting student-quota caps, the paper's lesson is that rapid technology shocks (AI) may widen wage differentials for several years before supply adjusts. Caveat: US-calibrated; Hungarian demographics, migration patterns, and education-policy constraints change the quantitative dynamics.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "labor-markets",
+    "education-skills"
+  ],
+  "methods": [
+    "structural"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2135909147"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2135909147",
+  "policy_instruments": [
+    "tertiary-education quotas",
+    "skills-supply planning",
+    "technical-education investment"
+  ]
 }

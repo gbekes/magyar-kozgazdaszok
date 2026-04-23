@@ -18,19 +18,27 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We develop a model in which connections between individuals serve as social collateral to enforce informal insurance payments. We show that: (i) The degree of insurance is governed by the expansiveness of the network, measured with the per capita number of connections that groups have with the rest of the community. “Two-dimensional” networks—like real-world networks in Peruvian villages—are sufficiently expansive to allow very good risk-sharing. (ii) In second-best arrangements, insurance is local: agents fully share shocks within, but imperfectly between endogenously emerging risk-sharing groups. We also discuss how endogenous social collateral affects our results. (JEL D85, G22, O15, O17, Z13)",
-  "summary_en": null,
+  "summary_en": "Rural households without formal insurance rely on each other for help during shocks. This paper asks: what makes such informal insurance work? The answer: the structure of the social network. \"Two-dimensional\" networks — like those documented in Peruvian villages, where people have many overlapping ties — offer enough expansiveness to sustain very good risk-sharing. But the insurance is \"local\": shocks are fully shared within endogenously-formed groups, only imperfectly between them. The paper shows how the community's structure of relationships functions as social collateral that enforces informal-insurance commitments, and how that structure determines equilibrium welfare.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model of informal risk-sharing, illustrated with social-network patterns documented in Peruvian villages.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian policy, the paper speaks most directly to rural-development and poverty research: interventions that accidentally disrupt community network structures (migration programs, housing relocation) can undermine informal insurance, hurting vulnerable households. Relevant to KRTK rural and poverty research. Caveat: the main empirical illustration is from Peru; Hungarian rural communities have both formal social-protection systems and different network structures, so the magnitudes won't translate directly.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "inequality-welfare",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "PE",
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
   "openalex_id": "W2155538473"
 }

@@ -19,19 +19,32 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "A widely held view is that openness to international trade leads to higher GDP volatility, as trade increases specialization and hence exposure to sector-specific shocks. We revisit the common wisdom and argue that when country-wide shocks are important, openness to international trade can lower GDP volatility by reducing exposure to domestic shocks and allowing countries to diversify the sources of demand and supply across countries. Using a quantitative model of trade, we assess the importance of the two mechanisms (sectoral specialization and cross-country diversification) and provide a new answer to the question of whether and how international trade affects economic volatility.",
-  "summary_en": null,
+  "summary_en": "Conventional wisdom says that opening to trade makes a country more volatile: specialisation raises exposure to sector-specific shocks. This paper revisits that claim and finds it can be wrong. When country-wide shocks dominate sector-specific ones, trade openness actually lowers volatility by letting a country diversify across global supply and demand. Using a quantitative trade model, the authors show which mechanism dominates in which settings. The result restores trade openness as a volatility-reducer, not amplifier, for small open economies exposed to domestic shocks — a reframing with direct macro policy implications.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Quantitative trade model calibrated to cross-country data on sectoral specialisation, country-level volatility, and trade shares. Empirical estimates of the relative importance of country versus sector shocks.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly relevant to Hungary as a small, very open economy (trade-to-GDP ~160%+). The paper supports the view that integration with the EU single market is volatility-reducing in normal times, not amplifying. Helpful for MNB analysis of how Hungarian business cycles relate to EU ones and for long-run stabilisation-policy design. Caveat: the model assumes shocks are exogenous; in recent crises (energy shock, supply chain disruptions), shock origin matters, and diversification benefits can vanish when the shock is common to all partners.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "trade-fdi",
+    "firms-productivity"
+  ],
+  "methods": [
+    "structural"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2118569455"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2118569455",
+  "policy_instruments": [
+    "trade-openness policy",
+    "economic-diversification strategy"
+  ]
 }

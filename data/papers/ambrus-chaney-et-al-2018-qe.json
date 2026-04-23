@@ -18,19 +18,27 @@
   "url_pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.3982/QE655",
   "url_replication": null,
   "abstract": "We investigate the effect of delay on prices in bargaining situations using a data set containing thousands of captives ransomed from Barbary pirates between 1575 and 1692. Plausibly exogenous variation in the delay in ransoming provides evidence that negotiating delays decreased the size of ransom payments, and that much of the effect stems from the signalling value of strategic delay, in accordance with theoretical predictions. We also structurally estimate a version of the screening type bargaining model, adjusted to our context, and find that the model fits both the observed prices and acceptance probabilities well.",
-  "summary_en": null,
+  "summary_en": "How does delay affect the outcome of a negotiation? This paper uses a delightfully unusual data source — thousands of Christian captives ransomed from Barbary pirates between 1575 and 1692 — to study bargaining. Plausibly-exogenous variation in how long the ransom took provides causal evidence that delay lowered ransom payments. Much of the effect comes from the signalling value of strategic delay, consistent with screening-type bargaining models. The authors structurally estimate the model and show it fits both observed prices and acceptance rates. A rare quantitative test of classic bargaining theory using historical micro-data.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Historical dataset of thousands of captive-ransom negotiations between Christian Europeans and Barbary pirates, 1575–1692. Includes ransom amounts, delay from capture to release, captive characteristics, and release outcomes.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct Hungarian policy relevance is limited. The paper is of methodological interest for how bargaining models can be tested on historical or contemporary administrative data (for example, tax-debt settlements, litigation delays). Caveat: the historical context is specific; modern bargaining (labour negotiations, procurement) involves more commitment technologies than pirate ransoms.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "structural"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
+  "data_types": [
+    "historical"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
   "openalex_id": "W2132369922"
 }

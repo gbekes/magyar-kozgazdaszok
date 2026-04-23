@@ -16,19 +16,25 @@
   "url_pdf": "https://academic.oup.com/qje/article-pdf/121/3/903/5408998/121-3-903.pdf",
   "url_replication": null,
   "abstract": "This paper investigates how groups or coalitions of players can act in their collective interest in non-cooperative normal form games even if equilibrium play is not assumed. The main idea is that each member of a coalition will confine play to a subset of their strategies if it is in their mutual interest to do so. An iterative procedure of restrictions is used to define a non-cooperative solution concept, the set of coalitionally rationalizable strategies. The procedure is analogous to iterative deletion of never best response strategies, but operates on implicit agreements by different coalitions. The solution set is a nonempty subset of the rationalizable strategies. I thank Dilip Abreu for support and extremely valuable comments at all stages of",
-  "summary_en": null,
+  "summary_en": "In game theory, players often end up in bad outcomes despite all being rational. Coordination failures are widespread. This paper introduces a solution concept — coalitional rationalisability — where groups of players can agree to restrict play to subsets of their strategies if it's in their mutual interest. Unlike cooperative game theory, no enforceable agreements are assumed; the restrictions are implicit. An iterative procedure refines the strategy set. The resulting solution is a non-empty subset of rationalisable strategies and captures a natural notion of self-enforcing group-level coordination in non-cooperative settings.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Foundational game-theoretic contribution. Indirectly relevant to Hungarian competition-policy analysis (when firms might tacitly coordinate without explicit agreement) and to international negotiations where enforcement is limited (EU multilateral agreements). Caveat: theoretical; applying the concept empirically in specific Hungarian contexts is non-trivial.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
   "openalex_id": "W4245259249"
 }

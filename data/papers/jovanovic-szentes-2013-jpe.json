@@ -17,19 +17,33 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We propose a theory of the market for venture capital that links the excess return to venture equity to the scarcity of venture capitalists (VCs). High returns make the VCs more selective and eager to terminate nonperforming ventures because they can move on to new ones. The scarcity of VCs enables them to internalize their social value, and the competitive equilibrium is socially optimal. Moreover, the bilaterally efficient contract is a simple equity contract. We estimate the model for the period 1989–2001 and compute the excess return to venture capital, which turns out to be 8.6 percent. Finally, we back out the return of solo entrepreneurs, which is increasing in their wealth and ranges between zero and 3.5 percent.",
-  "summary_en": null,
+  "summary_en": "Venture capital (VC) firms consistently earn excess returns. Is that due to exceptional skill? This paper argues: no, it's because venture capitalists are scarce. In equilibrium, high returns make VCs more selective and more willing to end underperforming ventures (since they can move on to new ones). The scarcity lets VCs internalise their own social value, and the competitive equilibrium is socially efficient. Simple equity contracts emerge as the bilaterally-efficient arrangement. The authors estimate the model on 1989–2001 data and find excess VC returns of 8.6%, with solo-entrepreneur returns ranging from zero to 3.5% depending on wealth.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Quantitative model estimated on US VC and startup data 1989–2001. Returns data on venture-backed companies and solo entrepreneurs.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant to Hungary's startup-support ecosystem (Design Terminal, Hiventures, EU structural funds for VC). Implication: crowd-in public VC can raise entrepreneurial activity but will tend to lower returns; scarcity of skilled VC is a binding constraint, and capital alone is insufficient without the screening and monitoring that VCs provide. Relevant to evaluation of the MFB/state-backed VC programmes. Caveat: the model is calibrated to US data; Hungarian VC-market depth and the role of state intervention are different.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "innovation-digital",
+    "firms-productivity",
+    "banking-finance"
+  ],
+  "methods": [
+    "structural"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2173055794"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2173055794",
+  "policy_instruments": [
+    "state-backed venture-capital programmes",
+    "startup-ecosystem subsidies"
+  ]
 }

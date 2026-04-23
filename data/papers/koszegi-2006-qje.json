@@ -16,19 +16,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This paper models interactions between a party with anticipatory emotions and a party who responds strategically to those emotions, a situation that is common in many health, political, employment, and personal settings. An \"agent\" has information with both decision-making value and emotional implications for an uninformed \"principal\" whose utility she wants to maximize. If she cannot directly reveal her information, to increase the principal's anticipatory utility she distorts instrumental decisions toward the action associated with good news. But because anticipatory utility derives from beliefs about instrumental outcomes, undistorted actions would yield higher ex ante total and anticipatory utility. If the agent can certifiably convey her information, she does so for good news, but unless this leads the principal to make a very costly mistake, to shelter his feelings she pretends to be uninformed when the news is bad.",
-  "summary_en": null,
+  "summary_en": "A doctor decides whether to tell a patient bad news. A manager decides whether to hide a company problem from the board. In each case, a better-informed \"agent\" chooses what to do on behalf of a \"principal\" whose feelings the agent cares about. This paper models how the agent's desire to protect the principal's anticipatory utility distorts her decisions — she shifts instrumental choices toward actions associated with good news. When she can certify good news she does so; for bad news, she pretends. But the equilibrium outcome is inefficient: undistorted action would yield higher total utility. A clean framework for analysing paternalism and information disclosure.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Indirect but broad relevance to Hungarian public-sector communication and political economy. The model rationalises why policymakers systematically underweight bad news, why doctors soften medical disclosures, and why organisations filter internal information. Relevant to debates about informational transparency (e.g., disclosing full macroeconomic projections, auditing public projects). Caveat: theoretical; does not prescribe specific Hungarian interventions.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "methods",
+    "political-economy"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4246742252"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4246742252",
+  "policy_instruments": [
+    "public-information disclosure rules"
+  ]
 }

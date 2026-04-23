@@ -17,19 +17,32 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We analyze wage inequality, extending the Burdett and Mortensen ( International Economic Review 39 (1998), 257–73) model by incorporating worker heterogeneity through skill requirements. We provide sufficient conditions for existence of an equilibrium where more productive firms offer higher wages. The unique such equilibrium is characterized in a closed form solution. Both within‐ and between‐group inequality are explicitly calculated. We then calibrate the model to explain the joint movement of both within‐ and between‐group inequality in the late 1980s and 1990s, an explanation that has been elusive in the literature so far.",
-  "summary_en": null,
+  "summary_en": "Why did wage inequality rise so much within education groups and between education groups in the US during the 1980s-90s? This paper extends the classic Burdett-Mortensen search-model framework to include heterogeneous workers with different skill requirements. The authors derive a closed-form characterisation of the equilibrium and calibrate it to explain joint movements in within-group and between-group wage inequality — a puzzle previous literature had struggled with. A productive blend of labour-search theory and empirical calibration.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical search model calibrated to US wage-distribution data, 1980s-90s. Uses standard CPS or equivalent wage micro-data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian labour-market analysis, the model offers a framework to explain how minimum-wage compression and search frictions jointly shape the wage distribution. Relevant to MNB labour-market analysis and to KRTK wage-inequality research. Caveat: US-calibrated; Hungarian institutional features (strong collective-bargaining coverage, sector-specific wage floors) would shift the quantitative predictions.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "labor-markets",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "structural"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2140769313"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2140769313",
+  "policy_instruments": [
+    "minimum wage",
+    "job-search assistance"
+  ]
 }

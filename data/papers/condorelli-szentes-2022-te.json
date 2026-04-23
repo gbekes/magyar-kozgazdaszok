@@ -17,19 +17,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We characterize equilibria of oligopolistic markets where identical firms with constant marginal cost compete à la Cournot. For given maximal willingness to pay and maximal total demand, we first identify all combinations of equilibrium consumer surplus and industry profit that can arise from arbitrary demand functions. Then, as a further restriction, we fix the average willingness to pay above marginal cost (i.e., first‐best surplus) and identify all possible triples of consumer surplus, industry profit, and deadweight loss.",
-  "summary_en": null,
+  "summary_en": "In the textbook Cournot model, n firms produce a homogenous good and the demand curve is given. But what if we don't want to commit to a specific demand curve and instead ask: across all possible demand curves (holding some moments fixed), what range of market outcomes is possible? This paper maps the full surplus-sharing frontier in a Cournot oligopoly. For given maximum willingness to pay, the authors identify all possible combinations of consumer surplus and industry profits, then tighten the characterisation by also fixing the first-best surplus. A sharp technical contribution to market-structure analysis.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For competition policy and merger review in Hungary (GVH), the paper provides upper and lower bounds on the distribution of welfare gains/losses as market-structure parameters change. Directly useful as a worst-case/best-case check when evaluating merger-efficiency claims. Caveat: the Cournot framework is stylised; real-world oligopolies have product differentiation, dynamic pricing, and entry considerations the paper does not address.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3197494020"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3197494020",
+  "policy_instruments": [
+    "merger review welfare bounds",
+    "market-structure analysis"
+  ]
 }

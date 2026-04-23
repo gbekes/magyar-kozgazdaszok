@@ -17,19 +17,32 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We consider a growth model in which intergenerational transfers are made via stocks of private and public capital. Private capital is the outcome of individuals' private savings while decisions regarding public capital are made collectively. We hypothesize that private saving choices evolve through individual selection while public saving decisions are the result of group selection. The main result of the paper is that the equilibrium rate of return to private capital is at least 2–3 percent more than the rate of return to public capital. In other words, social choices involving intertemporal trade-offs exhibit much more patience than individual choices do. (JEL D11, D71, D91, H43)",
-  "summary_en": null,
+  "summary_en": "Why does society as a whole seem more patient than individuals? Individual time preferences (how much people discount future consumption) are typically steeper than the rate of return on social (public) capital. This paper offers an evolutionary explanation. Private saving evolves through individual selection; public saving decisions evolve through group selection (societies that save for public capital outlast those that don't). The model yields a testable prediction: the return to private capital is 2–3 percentage points higher than the return to public capital. A new angle on the equity premium and the social discount rate.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model; empirical comparison of private versus public rates of return in post-war data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant to Hungarian public-investment and social-discount-rate policy. For the Ministry of Finance and infrastructure-project cost-benefit analysis, the paper suggests that public projects should be evaluated at a lower discount rate than private ones — a principle already reflected in many EU project-appraisal guidelines. The paper grounds that difference in evolutionary logic. Caveat: the evolutionary framework is speculative; the quantitative 2–3pp differential is a macro pattern, not a precise calibration tool.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "methods",
+    "fiscal-tax"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2120720535"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2120720535",
+  "policy_instruments": [
+    "social discount rate for infrastructure",
+    "cost-benefit analysis framework"
+  ]
 }

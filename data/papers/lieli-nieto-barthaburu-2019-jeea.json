@@ -17,19 +17,30 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Abstract We study the existence of equilibria and the information content of prices in futures markets where the probability of future payoffs can be altered by an intervening agent who acts in response to the market price, hence creating a feedback effect. We focus on the market with the simplest possible structure: traders betting on the occurrence of a future event by buying or selling Arrow-Debreu securities (one dollar claims contingent on a binary outcome). We find that in the presence of feedback: (i) a rational expectations equilibrium may not exist; (ii) the market price may decline in response to information that is ex-ante more favorable to the occurrence of the underlying event; (iii) an equilibrium that reveals no information may obtain. Thus, feedback from an intervening agent materially alters the way in which price responds to information, and potentially undermines the viability of the market itself.",
-  "summary_en": null,
+  "summary_en": "Futures markets are supposed to aggregate information — predicting elections, rainfall, or sport outcomes. But what if the outcome depends on an intervening agent (a central bank, a regulator) who watches the futures price and acts on it? That creates a feedback loop. This paper studies how feedback affects equilibria. Three surprising results: rational-expectations equilibria may not exist; the price can fall in response to ex-ante favourable news; a no-information-revealing equilibrium can arise. A caution that information-aggregation through prediction markets breaks when the outcome is endogenous to the price.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant to debates about prediction markets as information tools for policy (election markets, climate markets, monetary-policy expectations). For MNB's use of market-implied policy expectations as a gauge of its own future actions: the paper warns that this signal can be degraded when the central bank reacts to it, a classic Goodhart problem dressed up as feedback. Caveat: theoretical, with clean cases; empirically the degree of feedback and how much it degrades information varies by setting.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "banking-finance",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2943636582"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2943636582",
+  "policy_instruments": [
+    "prediction-market information use",
+    "monetary-policy expectations management"
+  ]
 }

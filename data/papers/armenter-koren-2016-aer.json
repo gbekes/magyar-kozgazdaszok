@@ -17,19 +17,28 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Blum, Claro, and Horstmann (2016) make two statements about the balls-and-bins model of Armenter and Koren (2014). First, that using firm-level shipment data changes some of our results. Second, that the balls-and-bins model is not an appropriate statistical method. We respond to the first statement and argue that the second statement is unfounded and unrelated to the first. Indeed, the work of Blum, Claro, and Horstmann (2016) is a perfect example of how to use balls-and-bins in a rich dataset to spot interesting data patterns. (JEL F11, F14)",
-  "summary_en": null,
+  "summary_en": "A short scholarly reply. The authors defend their \"balls-and-bins\" statistical framework for thinking about firm-level trade against a critique by Blum, Claro, and Horstmann (2016). They address the substantive point about firm-level shipment data and argue that the critique's second claim — that balls-and-bins is an inappropriate statistical method — is unfounded. The reply engages respectfully and shows how balls-and-bins can be used productively with rich firm-level data. A useful methodological dialogue for researchers working with heavy-tailed trade distributions.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical/methodological paper; no new empirical data (re-uses firm-level trade data from the original Armenter-Koren 2014 paper).",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Primarily academic. Indirectly relevant: the balls-and-bins framework is a statistical baseline that any analysis of Hungarian firm-level trade should consider. No direct policy mapping. Caveat: this is a scholarly reply, not a standalone substantive contribution.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "trade-fdi",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
   "openalex_id": "W2334243228"
 }

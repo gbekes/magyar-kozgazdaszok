@@ -16,19 +16,29 @@
   "url_pdf": "https://academic.oup.com/restud/article-pdf/82/1/391/5252560/rdu025.pdf",
   "url_replication": null,
   "abstract": "This article analyses contractual situations between many principals and many agents. The agents have private information, and the principals take actions. Principals have the ability to contract not only on the reports of the agents but also on the contracts offered by other principals. Contracts are required to be representable in a formal language. The main result of the article is a characterization of the allocations that can be implemented as equilibria in our contracting game. We then restrict attention to exclusive-contracting environments, in which the agent may select the contract of at most one principal. In this setting, our characterization result implies that principals can collude to implement the monopolist outcome. Finally, in general, equilibrium contracts turn out to be incomplete. That is, a contract will restrict the action space of a principal but will not necessarily determine a single action.",
-  "summary_en": null,
+  "summary_en": "Real-world contracts often specify conditions on what other parties do. Common-agency problems — where multiple principals write contracts with multiple agents — are particularly rich. This paper formalises contracts that can condition on each other and fully characterises which allocations can be implemented. A striking result: in exclusive-contracting settings (the agent picks one principal), principals can collude to implement the monopolistic outcome. The paper solves a long-standing question in mechanism design: what's achievable when principals' contracts can reference each other.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Foundational contribution; indirectly relevant to Hungarian platform-competition and telecom-regulation debates. The result that exclusive-contracting environments can sustain monopoly outcomes is a technical foundation for concerns about exclusive-dealing clauses, which GVH and sectoral regulators regularly examine. Caveat: theoretical; empirical detection of such collusive equilibria in Hungarian markets is challenging.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W1975601871"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W1975601871",
+  "policy_instruments": [
+    "exclusive-dealing regulation",
+    "platform-contract restrictions"
+  ]
 }

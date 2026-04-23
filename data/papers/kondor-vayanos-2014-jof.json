@@ -17,19 +17,31 @@
   "url_pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jofi.12757",
   "url_replication": null,
   "abstract": "ABSTRACT We develop a continuous‐time model of liquidity provision in which hedgers can trade multiple risky assets with arbitrageurs. Arbitrageurs have constant relative risk‐aversion (CRRA) utility, while hedgers' asset demand is independent of wealth. An increase in hedgers' risk aversion can make arbitrageurs endogenously more risk‐averse. Because arbitrageurs generate endogenous risk, an increase in their wealth or a reduction in their CRRA coefficient can raise risk premia despite Sharpe ratios declining. Arbitrageur wealth is a priced risk factor because assets held by arbitrageurs offer high expected returns but suffer the most when wealth drops. Aggregate illiquidity, which declines in wealth, captures that factor.",
-  "summary_en": null,
+  "summary_en": "In many financial markets, arbitrageurs provide liquidity by taking the other side of trades that \"hedgers\" want to make. This paper shows how limits on arbitrageur wealth generate price dynamics that look like aggregate risk factors. Higher hedger risk aversion endogenously makes arbitrageurs more risk-averse too. When arbitrageur wealth drops (e.g., during stress), prices of assets they hold drop disproportionately, making arbitrageur wealth itself a priced risk factor. Aggregate illiquidity — which declines when wealth is low — captures that factor. A foundational explanation for why liquidity shocks propagate across markets and show up as systematic risk.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical continuous-time model of liquidity provision. Predictions are cross-referenced against empirical asset-pricing regularities.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Central to MNB's financial-stability framework. During market stress (COVID-19, 2022 energy crisis), arbitrageur wealth constraints propagate shocks widely. The paper supports: stress tests that include arbitrageur-capital shocks; macroprudential liquidity buffers for broker-dealers and major intermediaries; close monitoring of concentration in arbitrage capital. Relevant to MNB's systemic-risk monitoring and to EU banking-sector regulation implementation. Caveat: the model is highly stylised and doesn't capture specific micro-structural frictions of Hungarian markets.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "banking-finance",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2105414487"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2105414487",
+  "policy_instruments": [
+    "market-liquidity stress tests",
+    "intermediary capital buffers",
+    "concentration monitoring"
+  ]
 }

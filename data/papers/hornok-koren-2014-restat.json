@@ -17,19 +17,34 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Using detailed U.S. and Spanish export data, we document that trade costs of a per-shipment nature are associated with less frequent and larger shipments (i.e., more lumpiness) in international trade. This finding is pervasive across broad product categories, but most apparent for industrial supplies, parts and accessories, and food products.",
-  "summary_en": null,
+  "summary_en": "International trade happens in lumps, not smoothly: a firm exports to a country, then pauses, then exports again. This paper shows why. Using detailed US and Spanish customs data, the authors show that when per-shipment costs are higher, shipments are larger but less frequent (more lumpy). The relationship holds across all broad product categories — but is strongest for industrial supplies, parts/accessories, and food products. A clean empirical grounding for an important but underappreciated source of trade costs: the fixed cost of each individual shipment.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Administrative customs data from US and Spain: shipment-level records of exports with product, destination, weight, and value. Covers the full set of export shipments over multiple years.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant to Hungarian trade-facilitation policy (customs, logistics, port infrastructure). The paper supports measures that reduce per-shipment costs (digital customs, border-crossing speed): their effect is to make trade less lumpy and more frequent, which improves buyer flexibility. Specifically relevant to EU customs harmonisation and to ITM infrastructure investments in transport corridors. Caveat: the evidence is from US and Spain; Hungary's role in EU supply chains differs, but the mechanism (per-shipment fixed costs) is general.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "trade-fdi",
+    "firms-productivity"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "US",
+    "ES"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2115590887"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2115590887",
+  "policy_instruments": [
+    "customs-process digitalisation",
+    "border-crossing facilitation",
+    "trade-logistics investment"
+  ]
 }

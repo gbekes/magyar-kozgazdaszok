@@ -17,19 +17,31 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We consider a dynamic economy in which agents are repeatedly matched and decide whether or not to form profitable partnerships. Each agent has a physical color and a social color. An agent's social color acts as a signal, conveying information about the physical color of agents in his partnership history. Before an agent makes a decision, he observes his match's physical and social colors. Neither the physical color nor the social color is payoff relevant. We identify environments where equilibria arise in which agents condition their decisions on the physical and social colors of their potential partners. That is, they discriminate. (JEL C78, D82, J15, J71, Z13)",
-  "summary_en": null,
+  "summary_en": "Why does discrimination persist even when race or skin colour is genuinely uninformative about productivity? This paper offers an elegant answer: history creates signals. In a dynamic economy, each agent has a \"physical colour\" (observable, payoff-irrelevant) and a \"social colour\" (observable, reflects the partnership history). A person's social colour becomes correlated with her physical colour through past partnership choices, even though neither actually matters for payoffs. This generates spontaneous-discrimination equilibria where people rationally condition on irrelevant attributes. A new mechanism for understanding persistent labour-market discrimination.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct implications for Hungarian anti-discrimination policy (ETDA, workplace-discrimination law). The model shows that discriminatory outcomes can arise without any actual information-value of protected characteristics — so pure information-provision interventions (\"here is data showing these groups are equally capable\") may not break the equilibrium. Relevant to Roma labour-market integration efforts. Caveat: theoretical; specific policy design needs to target the information-flow channels that sustain the equilibrium.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "labor-markets",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4236794818"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4236794818",
+  "policy_instruments": [
+    "anti-discrimination enforcement",
+    "blind-evaluation hiring",
+    "affirmative action"
+  ]
 }

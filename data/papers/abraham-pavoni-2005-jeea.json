@@ -17,19 +17,30 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "Insurance contracts work differently when the insured person can also borrow privately without the insurer knowing. This paper characterises efficient risk-sharing contracts when there are both moral hazard (the insured takes unobservable actions) and hidden access to credit markets. The hidden-credit-market feature tightens what the insurer can achieve: the optimal contract must be robust to the insured smuggling consumption forward using private borrowing. The paper derives the efficient allocation and shows how classical results change. A technical contribution to contract theory with applications to health insurance, unemployment insurance, and pension design.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant to any Hungarian social-insurance design where private credit access is a real margin: unemployment insurance (where beneficiaries can borrow), health insurance out-of-pocket coverage, retirement savings. Implication: optimal contract design must account for this hidden channel, and standard rule-of-thumb designs may be suboptimal. Caveat: theoretical; specific Hungarian implications require empirical estimates of the extent of private-credit substitution in each social-insurance program.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "methods",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4255709985"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4255709985",
+  "policy_instruments": [
+    "unemployment insurance design",
+    "health-insurance contract design"
+  ]
 }

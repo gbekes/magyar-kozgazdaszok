@@ -17,19 +17,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "It is widely known that loss aversion leads individuals to dislike risk, and as has been argued by many researchers, in many instances this creates an incentive for firms to shield consumers and employees against economic risks. Complementing previous research, we show that consumer loss aversion can also have the opposite effect: it can lead a firm to optimally introduce risk into an otherwise deterministic environment. We consider a profit-maximizing monopolist selling to a loss-averse consumer, where (following \\\\citeasnoun{koszegirabin}) we assume that the consumer's reference point is her recent rational expectations about the purchase. We establish that for any degree of consumer loss aversion, the monopolist's optimal price distribution consists of low and variable ``sale'' prices and a high and atomic ``regular'' price. Realizing that she will buy at the sale prices and hence that she will purchase with positive probability, the consumer chooses to avoid the painful uncertainty in whether she will get the product by buying also at the regular price. This pricing pattern is consistent with several recently documented facts regarding retailer pricing. We show that market power is crucial for this result: when firms compete ex ante for consumers, they choose deterministic prices.",
-  "summary_en": null,
+  "summary_en": "Supermarkets typically have a stable \"regular price\" with occasional \"sales\" at lower prices. Why? This paper offers a behavioural explanation. A monopolist selling to loss-averse consumers (with rational-expectations reference points) finds it optimal to deliberately introduce price volatility. The optimal price distribution has low, variable sale prices and a high, atomic \"regular\" price. The consumer anticipates buying at sale prices, lowering her reference point; the monopolist exploits the flexibility. The paper shows that loss aversion — typically thought to make firms shield consumers from risk — can lead firms to introduce risk instead.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data. Predictions match stylised facts of retail price-setting.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian retail-sector regulation and the CPI-measurement challenge (KSH): the paper explains why observed prices look like \"regular\" and \"sale\" two-point distributions, with implications for inflation measurement and price-comparison regulation. Relevant to GVH's sense of normal versus anti-competitive pricing. Caveat: the model is stylised; real retail pricing also reflects many other factors (inventory costs, supplier pressure, advertising).",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W1586481044"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W1586481044",
+  "policy_instruments": [
+    "retail-price regulation",
+    "CPI measurement design"
+  ]
 }

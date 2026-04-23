@@ -17,19 +17,33 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This paper examines the implications of a binary action, binary outcome decision problem for estimating risk. We use data on the invasiveness of biological imports to develop the first comparison of two classical methods—maximum likelihood and Bayesian—against a third, the recently developed maximum utility (MU) approach. MU estimation uniquely takes advantage of the structure of the decision problem, which depends on a local rather than global fit to the model. Extending methods to account for an endogenously stratified sample, we show that the MU approach is less sensitive to specification error and can offer significant economic gains under model uncertainty.",
-  "summary_en": null,
+  "summary_en": "When we estimate a risk model to inform a binary decision (accept/reject a biological import for risk of invasiveness), how should we estimate the model? This paper argues: not by maximum likelihood, which minimises global error. Instead, a \"maximum utility\" (MU) approach that focuses on the local region of the model most relevant to the decision can do much better — less sensitive to specification error and significantly higher economic gains under model uncertainty. Applied to biological-import data on invasive species. A valuable methodological contribution to decision-focused statistical estimation.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Data on biological imports and their invasiveness outcomes. Comparison of MLE, Bayesian, and maximum-utility estimation approaches.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant to Hungarian risk-assessment policy in any binary-decision context: environmental impact assessments, food-safety screening, biosecurity (agricultural-import controls, EU phytosanitary compliance). The methodological message — estimate for the decision, not the model — generalises well. Relevant to NAK (chamber of agriculture), NÉBIH (food safety authority). Caveat: the MU approach requires specifying the decision-utility structure carefully; it's not a drop-in replacement for MLE without thoughtful problem framing.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "methods",
+    "energy-environment"
+  ],
+  "methods": [
+    "theory",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
+  "data_types": [
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2032621240"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2032621240",
+  "policy_instruments": [
+    "biosecurity import screening",
+    "food-safety risk assessment"
+  ]
 }
