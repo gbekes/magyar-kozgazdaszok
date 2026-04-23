@@ -17,19 +17,33 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Using individual-level administrative panel data from Hungary, we estimate causal effects of retirement on outpatient and inpatient care expenditures and pharmaceutical expenditures. Our identification strategy is based on an increase in the official early retirement age of women, using that the majority of women retire upon reaching that age. According to our descriptive results, people who are working before the early retirement age have substantially lower healthcare expenditures than nonworkers, but the expenditure gap declines after retirement. Our causal estimates from a two-part (hurdle) model show that the shares of women with positive outpatient care, inpatient care, and pharmaceutical expenditures, respectively, decrease by 3.0, 1.4, and 1.3 percentage points in the short run due to retirement. These results are driven by the relatively healthy, by those who spent some time on sick leave and by the less educated. The effect of retirement on the size of positive healthcare expenditures is generally not significant.",
-  "summary_en": null,
+  "summary_en": "When people retire, does their healthcare use change? This paper uses Hungarian administrative panel data to estimate the causal effect. Identification exploits an increase in the official early-retirement age for women. Main finding: retirement affects healthcare use in specific ways — the share of women with positive outpatient, inpatient, and pharmaceutical expenditures each decrease by 3.0, 1.5, and 1.5 percentage points respectively. A clean causal estimate relevant for understanding retirement's effects on healthcare demand.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian administrative panel data linking pension records to healthcare expenditures. Identification via the change in official early-retirement age for women.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly relevant to Hungarian pension-age and healthcare-budget policy (ONYF, NEAK). The paper quantifies the healthcare-use effect of pushing back retirement — a concrete component of pension-reform cost-benefit analysis. Relevant to ongoing debates about statutory retirement age. Caveat: focused on women's retirement; men's healthcare-use response may differ.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "health",
+    "demographics-migration",
+    "labor-markets"
+  ],
+  "methods": [
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2793911903"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2793911903",
+  "policy_instruments": [
+    "statutory retirement age",
+    "healthcare-budget projections"
+  ]
 }

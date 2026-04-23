@@ -16,19 +16,33 @@
   "url_pdf": "https://www.degruyter.com/document/doi/10.1515/bejeap-2015-0154/pdf",
   "url_replication": null,
   "abstract": "Abstract I analyse how differences between subjective and predicted survival probabilities are related to preventive healthcare use. Based on the Health and Retirement Study, I find that private information inherent in subjective survival probability affects the decisions on preventive care use: positive and negative deviations between the subjective and predicted survival probabilities both imply lower likelihood of use, the relations with negative deviations being stronger. These results are driven by perceptions verified by later survival and health outcomes. A theoretical model provides explanation for the empirical results, in which preventive care increases the chances of survival, but the benefits of preventive care also vary with the survival probability.",
-  "summary_en": null,
+  "summary_en": "Do people who feel they'll live longer use more preventive healthcare? This paper analyses the relationship between subjective-minus-predicted survival probability (a measure of private information about one's own future) and preventive-care use. Key finding: both positive and negative deviations between subjective and predicted survival predict lower preventive-care use, with negative deviations having stronger effects. The pattern is driven by people whose subjective assessments are later verified by survival outcomes. A theoretical model explains the apparent puzzle.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "US Health and Retirement Study longitudinal data on subjective and predicted survival probabilities, linked to preventive-care use.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian preventive-health-policy analysis (NEAK, EMMI). The paper suggests that preventive-care uptake varies substantially based on individual subjective expectations — which argues for targeting communication to people whose subjective assessments differ from objective risks. Caveat: US data; Hungarian risk-perception patterns may differ.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "health",
+    "behavioral"
+  ],
+  "methods": [
+    "panel-data",
+    "structural"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2319090434"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2319090434",
+  "policy_instruments": [
+    "preventive-care communication",
+    "screening-programme targeting"
+  ]
 }

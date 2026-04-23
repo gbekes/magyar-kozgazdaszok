@@ -21,19 +21,33 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "In response to the economic and financial crisis, the EU has adopted a new regulatory framework of the banking sector. Its central elements consist of new capital requirements, the single rulebook, and rules for bank recovery and resolution. These legislations have been adopted to reduce the call for government bail-out of distressed banks in future crises. The present study performs a detailed quantitative assessment of the reduction in public finance costs brought about by the introduction of these rules. We use a microsimulation portfolio model, which implements the Basel risk assessment framework, to estimate the joint distribution of bank losses at EU level. The approach incorporates the complete safety-net set up in EU legislation to absorb these losses, explicitly modelling enhanced Basel III capital rules, the bail-in tool and the resolution funds. Using a near-full sample of commercial, cooperative and savings banks in the EU, we quantify the cumulative effects of this safety-net and the contribution of each individual tool to the total effect. Considering a crisis of a similar magnitude as the recent one, our results show that potential costs for public finances decrease from roughly 3.7% of EU GDP (before the introduction of any new tool) to 1.4% with bail-in, and finally to 0.5% when all the elements we model are in place. This latter amount is very close to our estimate of leftover resolution funds and the size of the Deposit Guarantee Scheme. This exercise extends the quantitative analyses performed by the European Commission in its Economic Review of the Financial Regulation Agenda by developing additional scenarios, crucial robustness checks, simulations for different annual data vintages, and by implementing some methodological improvements.",
-  "summary_en": null,
+  "summary_en": "After the 2008 financial crisis, the EU adopted new banking regulations (capital requirements, single rulebook, bank recovery and resolution rules) aimed at reducing the need for government bail-outs in future crises. Did they succeed? This paper performs a detailed quantitative assessment using a microsimulation portfolio model implementing the Basel risk-assessment framework. The result quantifies how much public-finance cost the new rules actually prevent — a useful benchmark for evaluating the post-crisis EU regulatory reform package.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "EU-level banking data; microsimulation portfolio model implementing Basel risk-assessment framework.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly relevant to Hungarian banking supervision (MNB) and EU banking-union policy. The paper quantifies the bail-out-avoidance value of the new EU regulatory package — useful for continuing calibration of EU bank regulation and for understanding systemic-risk reduction. Caveat: model-based quantification; uncertain whether real crises would unfold as modelled.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "fiscal-tax"
+  ],
+  "methods": [
+    "structural"
+  ],
+  "countries_studied": [
+    "EU"
+  ],
+  "data_types": [
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2303443131"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2303443131",
+  "policy_instruments": [
+    "bank recovery and resolution rules",
+    "capital-requirements regulation",
+    "banking union"
+  ]
 }

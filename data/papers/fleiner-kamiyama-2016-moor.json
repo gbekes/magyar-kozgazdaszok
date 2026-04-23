@@ -17,19 +17,28 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "In 2010, Huang introduced the laminar classified stable matching problem (lcsm for short) that is motivated by academic hiring. This problem is an extension of the well-known hospitals/residents problem in which a hospital has laminar classes of residents and it sets lower and upper bounds on the number of residents that it can hire in each class. Against the intuition that variations of the stable matching problem with lower quotas are difficult in general, Huang proved that lcsm can be solved in polynomial time. In this paper, we present a matroid-based approach to lcsm and we obtain the following results. (i) We solve a generalization of lcsm in which both sides have quotas. (ii) Huang raised a question about a polyhedral description of the set of stable assignments in lcsm. We give a positive answer for this question by exhibiting a polyhedral description of the set of stable assignments in a generalization of lcsm. (iii) We prove that the set of stable assignments in a generalization of lcsm has a lattice structure that is similar to the (ordinary) stable matching problem.",
-  "summary_en": null,
+  "summary_en": "Matching problems often have lower quotas (minimum numbers) for certain categories — like academic hiring requiring at least some junior faculty. Huang (2010) showed this \"laminar classified stable matching\" problem is polynomial-time solvable despite lower quotas usually making things hard. This paper presents a matroid-based approach and extends Huang's result to (i) generalisations where both sides have quotas and (ii) polyhedral descriptions of stable matchings under these conditions. A significant theoretical extension of a practically important matching problem.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper; no empirical data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Foundational for Hungarian matching-market design with lower quotas (academic hiring, university admissions with diversity quotas, hospital-doctor matching with regional caps). Relevant to Bíró-group KRTK market-design work. Caveat: theoretical; operational use requires problem-specific tuning.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2255996700"
+  "review_status": "ai-drafted",
+  "openalex_id": "W2255996700",
+  "policy_instruments": [
+    "lower-quota matching design"
+  ]
 }

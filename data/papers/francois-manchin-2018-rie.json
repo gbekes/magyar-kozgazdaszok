@@ -17,19 +17,34 @@
   "url_pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/roie.12376",
   "url_replication": null,
   "abstract": "Abstract We examine the differential pass‐through of import prices into consumer and producer prices. We develop a framework with distribution costs and distribution market power. We then examine pass‐through from import prices to consumer and producer prices in the euro area using the U.S. import price as instrument. We find that pass‐through rates to producer prices are more sensitive to changes in distribution margins than pass‐through to consumer prices. Furthermore, only a portion of import price changes translate into domestic price changes limiting potential consumer benefits from tariff liberalization, with market power in distribution services being one important factor reducing pass‐through.",
-  "summary_en": null,
+  "summary_en": "When import prices change, how much does that translate into consumer and producer prices? This paper develops a framework with distribution costs and distribution market power to study the differential pass-through. Using euro-area data and US import price as instrument, the authors find: pass-through to producer prices is more sensitive to distribution margins than pass-through to consumer prices; only a portion of import-price changes reach domestic prices. Market power in distribution services is an important factor reducing consumer benefits from tariff liberalization.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Euro-area import, consumer, and producer price data. US import price used as instrument for euro-area import prices.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian inflation analysis and trade-policy evaluation (MNB, ITM). The paper shows that tariff cuts and import-price changes don't pass through fully to Hungarian consumers — distribution-sector market power intercepts part of the benefit. Relevant to competition policy for retail distribution (GVH) and to trade-policy impact-assessment. Caveat: euro-area data; Hungarian-specific distribution-margin dynamics differ.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "trade-fdi",
+    "industrial-organization",
+    "macroeconomics"
+  ],
+  "methods": [
+    "iv",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "EU"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2895645646"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2895645646",
+  "policy_instruments": [
+    "retail competition policy",
+    "tariff pass-through analysis"
+  ]
 }

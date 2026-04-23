@@ -17,19 +17,32 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This article builds and estimates a medium scale, small open economy DSGE model augmented with search-and-matching frictions in the labor market, and different wage setting behavior in new and existing jobs. The model is estimated using Hungarian data between 2001–2008. We find that: (i) the inclusion of matching frictions significantly improves the model’s empirical fit; (ii) the extent of new hires wage rigidity is quantitatively important for key macro variables; (iii) labor market shocks do not play an important role in inflation dynamics, but the structure of the labor market influences the monetary transmission mechanism.",
-  "summary_en": null,
+  "summary_en": "How well do Hungarian business-cycle dynamics fit a medium-scale DSGE model augmented with labour-market search and matching? This paper builds and estimates such a model with different wage-setting for new and existing jobs. Using Hungarian data 2001–2008, three findings: (i) matching frictions significantly improve the model's fit; (ii) rigidity in new-hire wages quantitatively matters for macro variables; (iii) labour-market shocks don't drive inflation but labour-market structure shapes the monetary-transmission mechanism. A key reference for Hungarian DSGE modelling.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian macroeconomic and labour-market data 2001–2008. Medium-scale open-economy DSGE model with search-and-matching frictions.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Foundational for MNB monetary-policy modelling and analysis. The paper shows why labour-market structure matters for Hungarian monetary-transmission — supporting careful modelling of new-hire wage dynamics and matching frictions in macro forecasts. Caveat: data end pre-2008 crisis; post-crisis Hungarian labour market dynamics differ.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "macroeconomics",
+    "labor-markets"
+  ],
+  "methods": [
+    "structural"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2468485931"
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2468485931",
+  "policy_instruments": [
+    "monetary-policy modelling",
+    "DSGE model calibration"
+  ]
 }

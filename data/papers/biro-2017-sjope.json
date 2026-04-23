@@ -16,19 +16,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Abstract I analyse how ageing affects the demand for non‐housing durable goods. Based on the English Longitudinal Study of Ageing, individual characteristics, cohort and time effects can explain most of the age variation in the ownership and purchase of durable goods. A life‐cycle model is derived to capture the complex relation between ageing and the demand for non‐housing durable goods. Decreasing survival probability, deteriorating health and changing preferences are jointly reflected in the age gradient of demand. Simulations indicate that higher chances of survival increase the ownership ratio of the durable items.",
-  "summary_en": null,
+  "summary_en": "Older people own fewer durable goods — but why? This paper analyses how ageing affects demand for non-housing durable goods using the English Longitudinal Study of Ageing. It derives a life-cycle model and shows that decreasing survival probability, deteriorating health, and changing preferences jointly explain the age gradient. Cohort and time effects explain most of the age variation. Simulations show that higher survival chances increase ownership of durable items. A clean empirical quantification of what ageing does to household asset demand.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "English Longitudinal Study of Ageing longitudinal data on household durable-goods ownership and purchase across ages and cohorts.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian retail-and-consumer-policy analysis and population-ageing projections (KSH, MNB). The paper suggests ageing-related demand declines are partly cohort-specific and partly life-cycle. Relevant to long-run GDP-composition forecasting under population ageing. Caveat: UK data; Hungarian ageing-demand elasticities would need domestic estimation.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "demographics-migration",
+    "behavioral"
+  ],
+  "methods": [
+    "panel-data",
+    "structural"
+  ],
+  "countries_studied": [
+    "GB"
+  ],
+  "data_types": [
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-23",
+  "review_status": "ai-drafted",
   "openalex_id": "W2605796550"
 }

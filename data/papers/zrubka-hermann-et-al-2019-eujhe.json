@@ -21,19 +21,31 @@
   "url_pdf": "https://link.springer.com/content/pdf/10.1007/s10198-019-01060-3.pdf",
   "url_replication": null,
   "abstract": "When measured with the EQ VAS, health problems were increasingly acceptable with age. Capturing well the individual variability in the assessment of acceptable health states at different ages, the EQ VAS is a useful addition to EQ-5D-3L descriptive system-based measures of acceptable health.",
-  "summary_en": null,
+  "summary_en": "Ageing changes what health problems people find acceptable — older people often accept worse health than younger ones. This paper explores the EQ-VAS (visual-analogue-scale) for measuring the acceptability of health problems across ages. Results: health problems are increasingly acceptable with age, and the EQ VAS captures individual variability well. A methodological contribution to health-state measurement useful for health-policy resource allocation when age-acceptability patterns matter.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Survey data on health-state acceptability across ages using the EQ VAS.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian health-technology assessment (GYEMSZI, NEAK) and for age-differentiated healthcare-resource decisions. Relevant to discussions about age-adjusted quality-adjusted life years (QALYs) in cost-effectiveness analysis. Caveat: methodology paper; applied implications depend on whether Hungarian HTA adopts age-weighted QALYs.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "health",
+    "methods"
+  ],
+  "methods": [
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
+  "data_types": [
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2946281877"
+  "review_status": "ai-drafted",
+  "openalex_id": "W2946281877",
+  "policy_instruments": [
+    "age-weighted QALY assessment"
+  ]
 }

@@ -5252,21 +5252,34 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "In this paper, we analyse the effect of an onset of a health shock on subjective survival probability and compare it with objective survival probability and self-reported health measures. In particular, we are interested in whether expectations of people respond to health shocks and whether these follow the evolution of objective life expectations and self-reported health measures over time. Using longitudinal data from the Health and Retirement Study, we estimate fixed effects models of adaptation for the objective and subjective survival probabilities and for some self-reported health measures. The results show that after cancer diagnosis, conditional on surviving, both the objective and subjective longevity and self-reported health measures drift back to the before diagnosis trajectories. For stroke and heart attack, in spite of their persistent negative effect on survival, subjective life expectations and self-reported health measures seem to indicate only a transient effect of the health shock. The differences between the objective and subjective measures are in line with the concept of adaptation. We discuss the policy implications of our results.",
-      "summary_en": null,
+      "summary_en": "When people experience a health shock (cancer diagnosis), do their expectations about how long they'll live adjust appropriately? This paper uses the US Health and Retirement Study to compare subjective survival probabilities with objective survival probabilities after cancer diagnosis. Key finding: expectations respond to health shocks, and the response follows the evolution of objective life expectations and self-reported health measures over time. People update appropriately. A clean empirical account of how people cope with and adapt to major health events.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "US Health and Retirement Study longitudinal data. Subjective and objective survival probabilities pre- and post-cancer diagnosis.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian health-policy analysis and patient-information practice (EMMI, NEAK). The paper supports confidence that patients update survival expectations appropriately with health-information provision — relevant to end-of-life care communication and advance-care planning. Caveat: US data; Hungarian patient communication patterns may differ.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "health",
+        "behavioral"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2790108453"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2790108453",
+      "policy_instruments": [
+        "patient-communication practice",
+        "advance-care planning"
+      ]
     },
     {
       "id": "bako-berezvai-et-al-2019-ksz",
@@ -6861,21 +6874,35 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "In response to the economic and financial crisis, the EU has adopted a new regulatory framework of the banking sector. Its central elements consist of new capital requirements, the single rulebook, and rules for bank recovery and resolution. These legislations have been adopted to reduce the call for government bail-out of distressed banks in future crises. The present study performs a detailed quantitative assessment of the reduction in public finance costs brought about by the introduction of these rules. We use a microsimulation portfolio model, which implements the Basel risk assessment framework, to estimate the joint distribution of bank losses at EU level. The approach incorporates the complete safety-net set up in EU legislation to absorb these losses, explicitly modelling enhanced Basel III capital rules, the bail-in tool and the resolution funds. Using a near-full sample of commercial, cooperative and savings banks in the EU, we quantify the cumulative effects of this safety-net and the contribution of each individual tool to the total effect. Considering a crisis of a similar magnitude as the recent one, our results show that potential costs for public finances decrease from roughly 3.7% of EU GDP (before the introduction of any new tool) to 1.4% with bail-in, and finally to 0.5% when all the elements we model are in place. This latter amount is very close to our estimate of leftover resolution funds and the size of the Deposit Guarantee Scheme. This exercise extends the quantitative analyses performed by the European Commission in its Economic Review of the Financial Regulation Agenda by developing additional scenarios, crucial robustness checks, simulations for different annual data vintages, and by implementing some methodological improvements.",
-      "summary_en": null,
+      "summary_en": "After the 2008 financial crisis, the EU adopted new banking regulations (capital requirements, single rulebook, bank recovery and resolution rules) aimed at reducing the need for government bail-outs in future crises. Did they succeed? This paper performs a detailed quantitative assessment using a microsimulation portfolio model implementing the Basel risk-assessment framework. The result quantifies how much public-finance cost the new rules actually prevent — a useful benchmark for evaluating the post-crisis EU regulatory reform package.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "EU-level banking data; microsimulation portfolio model implementing Basel risk-assessment framework.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly relevant to Hungarian banking supervision (MNB) and EU banking-union policy. The paper quantifies the bail-out-avoidance value of the new EU regulatory package — useful for continuing calibration of EU bank regulation and for understanding systemic-risk reduction. Caveat: model-based quantification; uncertain whether real crises would unfold as modelled.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "fiscal-tax"
+      ],
+      "methods": [
+        "structural"
+      ],
+      "countries_studied": [
+        "EU"
+      ],
+      "data_types": [
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2303443131"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2303443131",
+      "policy_instruments": [
+        "bank recovery and resolution rules",
+        "capital-requirements regulation",
+        "banking union"
+      ]
     },
     {
       "id": "benczur-ilut-2015-jeea",
@@ -8214,21 +8241,35 @@
       "url_pdf": "https://www.degruyter.com/document/doi/10.1515/bejeap-2015-0154/pdf",
       "url_replication": null,
       "abstract": "Abstract I analyse how differences between subjective and predicted survival probabilities are related to preventive healthcare use. Based on the Health and Retirement Study, I find that private information inherent in subjective survival probability affects the decisions on preventive care use: positive and negative deviations between the subjective and predicted survival probabilities both imply lower likelihood of use, the relations with negative deviations being stronger. These results are driven by perceptions verified by later survival and health outcomes. A theoretical model provides explanation for the empirical results, in which preventive care increases the chances of survival, but the benefits of preventive care also vary with the survival probability.",
-      "summary_en": null,
+      "summary_en": "Do people who feel they'll live longer use more preventive healthcare? This paper analyses the relationship between subjective-minus-predicted survival probability (a measure of private information about one's own future) and preventive-care use. Key finding: both positive and negative deviations between subjective and predicted survival predict lower preventive-care use, with negative deviations having stronger effects. The pattern is driven by people whose subjective assessments are later verified by survival outcomes. A theoretical model explains the apparent puzzle.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "US Health and Retirement Study longitudinal data on subjective and predicted survival probabilities, linked to preventive-care use.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian preventive-health-policy analysis (NEAK, EMMI). The paper suggests that preventive-care uptake varies substantially based on individual subjective expectations — which argues for targeting communication to people whose subjective assessments differ from objective risks. Caveat: US data; Hungarian risk-perception patterns may differ.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "health",
+        "behavioral"
+      ],
+      "methods": [
+        "panel-data",
+        "structural"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2319090434"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2319090434",
+      "policy_instruments": [
+        "preventive-care communication",
+        "screening-programme targeting"
+      ]
     },
     {
       "id": "biro-2017-sjope",
@@ -8248,20 +8289,30 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Abstract I analyse how ageing affects the demand for non‐housing durable goods. Based on the English Longitudinal Study of Ageing, individual characteristics, cohort and time effects can explain most of the age variation in the ownership and purchase of durable goods. A life‐cycle model is derived to capture the complex relation between ageing and the demand for non‐housing durable goods. Decreasing survival probability, deteriorating health and changing preferences are jointly reflected in the age gradient of demand. Simulations indicate that higher chances of survival increase the ownership ratio of the durable items.",
-      "summary_en": null,
+      "summary_en": "Older people own fewer durable goods — but why? This paper analyses how ageing affects demand for non-housing durable goods using the English Longitudinal Study of Ageing. It derives a life-cycle model and shows that decreasing survival probability, deteriorating health, and changing preferences jointly explain the age gradient. Cohort and time effects explain most of the age variation. Simulations show that higher survival chances increase ownership of durable items. A clean empirical quantification of what ageing does to household asset demand.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "English Longitudinal Study of Ageing longitudinal data on household durable-goods ownership and purchase across ages and cohorts.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian retail-and-consumer-policy analysis and population-ageing projections (KSH, MNB). The paper suggests ageing-related demand declines are partly cohort-specific and partly life-cycle. Relevant to long-run GDP-composition forecasting under population ageing. Caveat: UK data; Hungarian ageing-demand elasticities would need domestic estimation.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "demographics-migration",
+        "behavioral"
+      ],
+      "methods": [
+        "panel-data",
+        "structural"
+      ],
+      "countries_studied": [
+        "GB"
+      ],
+      "data_types": [
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
       "openalex_id": "W2605796550"
     },
     {
@@ -8587,21 +8638,35 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Using individual-level administrative panel data from Hungary, we estimate causal effects of retirement on outpatient and inpatient care expenditures and pharmaceutical expenditures. Our identification strategy is based on an increase in the official early retirement age of women, using that the majority of women retire upon reaching that age. According to our descriptive results, people who are working before the early retirement age have substantially lower healthcare expenditures than nonworkers, but the expenditure gap declines after retirement. Our causal estimates from a two-part (hurdle) model show that the shares of women with positive outpatient care, inpatient care, and pharmaceutical expenditures, respectively, decrease by 3.0, 1.4, and 1.3 percentage points in the short run due to retirement. These results are driven by the relatively healthy, by those who spent some time on sick leave and by the less educated. The effect of retirement on the size of positive healthcare expenditures is generally not significant.",
-      "summary_en": null,
+      "summary_en": "When people retire, does their healthcare use change? This paper uses Hungarian administrative panel data to estimate the causal effect. Identification exploits an increase in the official early-retirement age for women. Main finding: retirement affects healthcare use in specific ways — the share of women with positive outpatient, inpatient, and pharmaceutical expenditures each decrease by 3.0, 1.5, and 1.5 percentage points respectively. A clean causal estimate relevant for understanding retirement's effects on healthcare demand.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian administrative panel data linking pension records to healthcare expenditures. Identification via the change in official early-retirement age for women.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly relevant to Hungarian pension-age and healthcare-budget policy (ONYF, NEAK). The paper quantifies the healthcare-use effect of pushing back retirement — a concrete component of pension-reform cost-benefit analysis. Relevant to ongoing debates about statutory retirement age. Caveat: focused on women's retirement; men's healthcare-use response may differ.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "health",
+        "demographics-migration",
+        "labor-markets"
+      ],
+      "methods": [
+        "diff-in-diff"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2793911903"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2793911903",
+      "policy_instruments": [
+        "statutory retirement age",
+        "healthcare-budget projections"
+      ]
     },
     {
       "id": "biro-elek-2020-labec",
@@ -14982,21 +15047,30 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "In 2010, Huang introduced the laminar classified stable matching problem (lcsm for short) that is motivated by academic hiring. This problem is an extension of the well-known hospitals/residents problem in which a hospital has laminar classes of residents and it sets lower and upper bounds on the number of residents that it can hire in each class. Against the intuition that variations of the stable matching problem with lower quotas are difficult in general, Huang proved that lcsm can be solved in polynomial time. In this paper, we present a matroid-based approach to lcsm and we obtain the following results. (i) We solve a generalization of lcsm in which both sides have quotas. (ii) Huang raised a question about a polyhedral description of the set of stable assignments in lcsm. We give a positive answer for this question by exhibiting a polyhedral description of the set of stable assignments in a generalization of lcsm. (iii) We prove that the set of stable assignments in a generalization of lcsm has a lattice structure that is similar to the (ordinary) stable matching problem.",
-      "summary_en": null,
+      "summary_en": "Matching problems often have lower quotas (minimum numbers) for certain categories — like academic hiring requiring at least some junior faculty. Huang (2010) showed this \"laminar classified stable matching\" problem is polynomial-time solvable despite lower quotas usually making things hard. This paper presents a matroid-based approach and extends Huang's result to (i) generalisations where both sides have quotas and (ii) polyhedral descriptions of stable matchings under these conditions. A significant theoretical extension of a practically important matching problem.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Foundational for Hungarian matching-market design with lower quotas (academic hiring, university admissions with diversity quotas, hospital-doctor matching with regional caps). Relevant to Bíró-group KRTK market-design work. Caveat: theoretical; operational use requires problem-specific tuning.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2255996700"
+      "review_status": "ai-drafted",
+      "openalex_id": "W2255996700",
+      "policy_instruments": [
+        "lower-quota matching design"
+      ]
     },
     {
       "id": "fleiner-sziklai-2012-igtr",
@@ -15285,21 +15359,36 @@
       "url_pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/roie.12376",
       "url_replication": null,
       "abstract": "Abstract We examine the differential pass‐through of import prices into consumer and producer prices. We develop a framework with distribution costs and distribution market power. We then examine pass‐through from import prices to consumer and producer prices in the euro area using the U.S. import price as instrument. We find that pass‐through rates to producer prices are more sensitive to changes in distribution margins than pass‐through to consumer prices. Furthermore, only a portion of import price changes translate into domestic price changes limiting potential consumer benefits from tariff liberalization, with market power in distribution services being one important factor reducing pass‐through.",
-      "summary_en": null,
+      "summary_en": "When import prices change, how much does that translate into consumer and producer prices? This paper develops a framework with distribution costs and distribution market power to study the differential pass-through. Using euro-area data and US import price as instrument, the authors find: pass-through to producer prices is more sensitive to distribution margins than pass-through to consumer prices; only a portion of import-price changes reach domestic prices. Market power in distribution services is an important factor reducing consumer benefits from tariff liberalization.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Euro-area import, consumer, and producer price data. US import price used as instrument for euro-area import prices.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian inflation analysis and trade-policy evaluation (MNB, ITM). The paper shows that tariff cuts and import-price changes don't pass through fully to Hungarian consumers — distribution-sector market power intercepts part of the benefit. Relevant to competition policy for retail distribution (GVH) and to trade-policy impact-assessment. Caveat: euro-area data; Hungarian-specific distribution-margin dynamics differ.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "trade-fdi",
+        "industrial-organization",
+        "macroeconomics"
+      ],
+      "methods": [
+        "iv",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "EU"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2895645646"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2895645646",
+      "policy_instruments": [
+        "retail competition policy",
+        "tariff pass-through analysis"
+      ]
     },
     {
       "id": "francois-manchin-et-al-2009-pmue",
@@ -16645,21 +16734,35 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Abstract This study examines friendship and hostility relations between Roma students and the ethnically homogeneous non-Roma majority in Hungarian schools. Using data on friendship and hostility relations of 15-year-old students from 82 schools, the study focuses on the interaction between exposure to the other ethnic group and academic achievement of Roma students. High-achieving Roma students are shown to have significantly more friends and fewer adversaries than low-achieving ones, due to better inter-ethnic relations while having similar within-ethnic group relations. As a result, higher exposure to Roma students translates to more friendship and less hostility from non-Roma students in environments where more of the Roma students have higher achievement. Therefore, policies helping the achievement of Roma students can have immediate as well as long-term positive effects. Simulations suggest that a mixed policy of desegregation and closing the achievement gap may best foster positive inter-ethnic relations.",
-      "summary_en": null,
+      "summary_en": "Can integrated classrooms improve ethnic relations, or does exposure alone not change hostility? This paper studies Roma and non-Roma 15-year-old students in 82 Hungarian schools, examining friendship and hostility relations. Key finding: high-achieving Roma students have significantly more friends and fewer adversaries than low-achieving ones — within-ethnic-group relations are similar, but inter-ethnic relations differ. Higher exposure to Roma students translates to more friendship and less hostility from non-Roma students, but only when more of the Roma students have high academic achievement. Academic success mediates the exposure-integration relationship.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Survey data on friendship and hostility relations of 15-year-old students from 82 Hungarian schools, with ethnic-identity and academic-achievement measures.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly relevant to Hungarian school-integration policy (EMMI, Oktatási Hivatal). The paper supports the view that Roma integration requires both exposure (desegregation) and academic support — mere physical integration without academic success does not improve inter-ethnic relations. Relevant to school-integration strategy design. Caveat: cross-sectional; causal identification of the exposure-achievement-relations mechanism is harder.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "education-skills",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "panel-data",
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2896197417"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2896197417",
+      "policy_instruments": [
+        "school-integration policy",
+        "Roma academic-support programmes"
+      ]
     },
     {
       "id": "hajdu-kertesi-et-al-2022-ks",
@@ -19400,21 +19503,34 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This article builds and estimates a medium scale, small open economy DSGE model augmented with search-and-matching frictions in the labor market, and different wage setting behavior in new and existing jobs. The model is estimated using Hungarian data between 2001–2008. We find that: (i) the inclusion of matching frictions significantly improves the model’s empirical fit; (ii) the extent of new hires wage rigidity is quantitatively important for key macro variables; (iii) labor market shocks do not play an important role in inflation dynamics, but the structure of the labor market influences the monetary transmission mechanism.",
-      "summary_en": null,
+      "summary_en": "How well do Hungarian business-cycle dynamics fit a medium-scale DSGE model augmented with labour-market search and matching? This paper builds and estimates such a model with different wage-setting for new and existing jobs. Using Hungarian data 2001–2008, three findings: (i) matching frictions significantly improve the model's fit; (ii) rigidity in new-hire wages quantitatively matters for macro variables; (iii) labour-market shocks don't drive inflation but labour-market structure shapes the monetary-transmission mechanism. A key reference for Hungarian DSGE modelling.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian macroeconomic and labour-market data 2001–2008. Medium-scale open-economy DSGE model with search-and-matching frictions.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Foundational for MNB monetary-policy modelling and analysis. The paper shows why labour-market structure matters for Hungarian monetary-transmission — supporting careful modelling of new-hire wage dynamics and matching frictions in macro forecasts. Caveat: data end pre-2008 crisis; post-crisis Hungarian labour market dynamics differ.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "macroeconomics",
+        "labor-markets"
+      ],
+      "methods": [
+        "structural"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2468485931"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2468485931",
+      "policy_instruments": [
+        "monetary-policy modelling",
+        "DSGE model calibration"
+      ]
     },
     {
       "id": "janko-joo-et-al-2024-fiaia",
@@ -21089,21 +21205,34 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We provide experimental evidence that panic bank runs occur in the absence of problems with fundamentals and coordination failures among depositors, the two main culprits identified in the literature. Depositors withdraw when they observe that others do so, even when theoretically they should not. Our findings suggest that panic also manifests itself in the beliefs of depositors, who overestimate the probability that a bank run is underway. Loss-aversion has a predictive power on panic behavior, while risk or ambiguity aversion do not.",
-      "summary_en": null,
+      "summary_en": "Bank runs are typically explained by fundamental problems or coordination failures. This paper provides experimental evidence of a third cause: panic. Even when fundamentals are fine and no coordination failure should occur, depositors withdraw when they observe others withdrawing. The paper argues panic manifests in beliefs: depositors overestimate the probability a bank run is underway. Loss aversion predicts panic behavior; risk and ambiguity aversion do not. A clean identification of panic as a distinct driver of bank runs.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Laboratory experiment with depositors making withdrawal decisions under various information conditions.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant to Hungarian financial-stability policy (MNB, OBA). The paper identifies panic as a behavioral mechanism distinct from fundamentals — meaning information management during financial stress matters not just for coordination but for preventing loss-aversion-driven overreaction. Relevant to crisis-communication design. Caveat: laboratory evidence; real-world panic dynamics may include additional factors.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "behavioral"
+      ],
+      "methods": [
+        "rct"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
+      "data_types": [
+        "field-experiment"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2619514320"
+      "review_status": "ai-drafted",
+      "openalex_id": "W2619514320",
+      "policy_instruments": [
+        "crisis-communication design",
+        "deposit-insurance information policy"
+      ]
     },
     {
       "id": "kiss-rodriguez-lara-et-al-2022-jbf",
@@ -23645,21 +23774,33 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We study the effect that internal information systems have on a firm’s leverage and corporate governance choices. Information systems lower governance costs by facilitating more targeted interventions. But they also generate asymmetric information between firms and their investors. As a result, firms may attempt to signal their superior quality by assuming more leverage. In some circumstances, this can reduce governance incentives and result in inferior outcomes. Investors anticipate this effect, and it renders information systems inefficient. The online appendix is available at https://doi.org/10.1287/mnsc.2016.2599 . This paper was accepted by Amit Seru, finance.",
-      "summary_en": null,
+      "summary_en": "Internal information systems help firms make better governance decisions — or do they? This paper shows an unexpected dark side. Information systems lower governance costs (targeted interventions become easier) but generate asymmetric information between firms and investors. Firms may attempt to signal quality by taking on more leverage, which can reduce governance incentives. Investors anticipate this, rendering the information system itself inefficient in equilibrium. A subtle but important corrective to naive \"more information is always better\" views.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian corporate-governance and financial-regulation debates (MNB, GVH). The paper provides a theoretical foundation for scepticism about certain voluntary-disclosure regimes and for understanding why firms choose certain capital structures. Relevant to SME-disclosure policy and to financial-reporting standards. Caveat: theoretical; empirically identifying the mechanism in specific firms requires detailed information-system and leverage data.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "banking-finance",
+        "firms-productivity",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2471704593"
+      "last_reviewed_at": "2026-04-23",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2471704593",
+      "policy_instruments": [
+        "voluntary-disclosure regulation",
+        "capital-structure rules"
+      ]
     },
     {
       "id": "layton-maestas-et-al-2022-aejep",
@@ -29762,21 +29903,33 @@
       "url_pdf": "https://link.springer.com/content/pdf/10.1007/s10198-019-01060-3.pdf",
       "url_replication": null,
       "abstract": "When measured with the EQ VAS, health problems were increasingly acceptable with age. Capturing well the individual variability in the assessment of acceptable health states at different ages, the EQ VAS is a useful addition to EQ-5D-3L descriptive system-based measures of acceptable health.",
-      "summary_en": null,
+      "summary_en": "Ageing changes what health problems people find acceptable — older people often accept worse health than younger ones. This paper explores the EQ-VAS (visual-analogue-scale) for measuring the acceptability of health problems across ages. Results: health problems are increasingly acceptable with age, and the EQ VAS captures individual variability well. A methodological contribution to health-state measurement useful for health-policy resource allocation when age-acceptability patterns matter.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Survey data on health-state acceptability across ages using the EQ VAS.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian health-technology assessment (GYEMSZI, NEAK) and for age-differentiated healthcare-resource decisions. Relevant to discussions about age-adjusted quality-adjusted life years (QALYs) in cost-effectiveness analysis. Caveat: methodology paper; applied implications depend on whether Hungarian HTA adopts age-weighted QALYs.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "health",
+        "methods"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
+      "data_types": [
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2946281877"
+      "review_status": "ai-drafted",
+      "openalex_id": "W2946281877",
+      "policy_instruments": [
+        "age-weighted QALY assessment"
+      ]
     }
   ],
   "topics": [
@@ -29789,7 +29942,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 50
+      "paper_count": 52
     },
     {
       "id": "education-skills",
@@ -29800,7 +29953,7 @@
       "policy_framing_en": "Relevant to: curriculum design, teacher policy, school tracking age, higher education funding, vocational training.",
       "policy_framing_hu": "Releváns: tantervfejlesztés, tanárpolitika, iskolai szelekció életkora, felsőoktatás finanszírozása, szakképzés.",
       "icon": "graduation-cap",
-      "paper_count": 35
+      "paper_count": 36
     },
     {
       "id": "health",
@@ -29811,7 +29964,7 @@
       "policy_framing_en": "Relevant to: healthcare system design, hospital payment, prevention programs, pharmaceutical policy, mental health services.",
       "policy_framing_hu": "Releváns: egészségügyi rendszer kialakítása, kórházi finanszírozás, prevenciós programok, gyógyszerpolitika, mentális szolgáltatások.",
       "icon": "heart-pulse",
-      "paper_count": 30
+      "paper_count": 34
     },
     {
       "id": "demographics-migration",
@@ -29822,7 +29975,7 @@
       "policy_framing_en": "Relevant to: family policy, pension system, immigration policy, retention of skilled workers.",
       "policy_framing_hu": "Releváns: családpolitika, nyugdíjrendszer, bevándorláspolitika, szakemberek megtartása.",
       "icon": "users",
-      "paper_count": 16
+      "paper_count": 18
     },
     {
       "id": "trade-fdi",
@@ -29833,7 +29986,7 @@
       "policy_framing_en": "Relevant to: EU trade policy, FDI promotion, export promotion, supply chain resilience, industrial policy.",
       "policy_framing_hu": "Releváns: EU kereskedelempolitika, FDI ösztönzés, exporttámogatás, ellátási láncok rugalmassága, iparpolitika.",
       "icon": "globe",
-      "paper_count": 37
+      "paper_count": 38
     },
     {
       "id": "firms-productivity",
@@ -29844,7 +29997,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 71
+      "paper_count": 72
     },
     {
       "id": "innovation-digital",
@@ -29866,7 +30019,7 @@
       "policy_framing_en": "Relevant to: MNB policy, banking regulation, macroprudential tools, financial inclusion.",
       "policy_framing_hu": "Releváns: MNB-politika, bankszabályozás, makroprudenciális eszközök, pénzügyi befogadás.",
       "icon": "landmark",
-      "paper_count": 50
+      "paper_count": 53
     },
     {
       "id": "fiscal-tax",
@@ -29877,7 +30030,7 @@
       "policy_framing_en": "Relevant to: tax reform, budget planning, public debt management, compliance policy.",
       "policy_framing_hu": "Releváns: adóreform, költségvetés-tervezés, államadósság-kezelés, adócompliance.",
       "icon": "coins",
-      "paper_count": 21
+      "paper_count": 22
     },
     {
       "id": "regional-urban",
@@ -29910,7 +30063,7 @@
       "policy_framing_en": "Relevant to: welfare system, anti-poverty programs, family allowances, gender-equal pay policies.",
       "policy_framing_hu": "Releváns: szociális rendszer, szegénység elleni programok, családi pótlékok, egyenlő bérezés.",
       "icon": "scale",
-      "paper_count": 67
+      "paper_count": 68
     },
     {
       "id": "political-economy",
@@ -29943,7 +30096,7 @@
       "policy_framing_en": "Relevant to: consumer protection, pension-default design, nudging, financial-education regulation, addictive-product regulation.",
       "policy_framing_hu": "Releváns: fogyasztóvédelem, nyugdíjalap-alapbeállítások, döntéslendítés (nudge), pénzügyi edukáció szabályozása, függőséget okozó termékek szabályozása.",
       "icon": "brain",
-      "paper_count": 41
+      "paper_count": 45
     },
     {
       "id": "industrial-organization",
@@ -29954,7 +30107,7 @@
       "policy_framing_en": "Relevant to: competition policy (GVH), merger review, platform regulation, auction design, sector-specific regulation.",
       "policy_framing_hu": "Releváns: versenypolitika (GVH), fúziókontroll, platformszabályozás, aukciótervezés, ágazati szabályozás.",
       "icon": "network",
-      "paper_count": 27
+      "paper_count": 28
     },
     {
       "id": "macroeconomics",
@@ -29965,7 +30118,7 @@
       "policy_framing_en": "Relevant to: long-run growth forecasting, macroeconomic modelling, sovereign-debt management, stabilisation policy design.",
       "policy_framing_hu": "Releváns: hosszú távú növekedés előrejelzés, makroökonómiai modellek, államadósság-kezelés, stabilizációs politika.",
       "icon": "line-chart",
-      "paper_count": 21
+      "paper_count": 23
     },
     {
       "id": "agriculture-food",
@@ -29987,7 +30140,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 82
+      "paper_count": 85
     }
   ],
   "journals": [

@@ -18,19 +18,32 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We provide experimental evidence that panic bank runs occur in the absence of problems with fundamentals and coordination failures among depositors, the two main culprits identified in the literature. Depositors withdraw when they observe that others do so, even when theoretically they should not. Our findings suggest that panic also manifests itself in the beliefs of depositors, who overestimate the probability that a bank run is underway. Loss-aversion has a predictive power on panic behavior, while risk or ambiguity aversion do not.",
-  "summary_en": null,
+  "summary_en": "Bank runs are typically explained by fundamental problems or coordination failures. This paper provides experimental evidence of a third cause: panic. Even when fundamentals are fine and no coordination failure should occur, depositors withdraw when they observe others withdrawing. The paper argues panic manifests in beliefs: depositors overestimate the probability a bank run is underway. Loss aversion predicts panic behavior; risk and ambiguity aversion do not. A clean identification of panic as a distinct driver of bank runs.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Laboratory experiment with depositors making withdrawal decisions under various information conditions.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant to Hungarian financial-stability policy (MNB, OBA). The paper identifies panic as a behavioral mechanism distinct from fundamentals — meaning information management during financial stress matters not just for coordination but for preventing loss-aversion-driven overreaction. Relevant to crisis-communication design. Caveat: laboratory evidence; real-world panic dynamics may include additional factors.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "behavioral"
+  ],
+  "methods": [
+    "rct"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
+  "data_types": [
+    "field-experiment"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2619514320"
+  "review_status": "ai-drafted",
+  "openalex_id": "W2619514320",
+  "policy_instruments": [
+    "crisis-communication design",
+    "deposit-insurance information policy"
+  ]
 }
