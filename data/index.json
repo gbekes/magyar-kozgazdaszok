@@ -728,6 +728,43 @@
       "paper_count": 6
     },
     {
+      "id": "domotor-barbara",
+      "name_en": "Barbara Dömötör",
+      "name_hu": "Dömötör Barbara",
+      "affiliations": [
+        {
+          "name": "Corvinus University of Budapest",
+          "name_hu": "Budapesti Corvinus Egyetem",
+          "role": "Associate Professor of Finance",
+          "role_hu": "egyetemi docens (pénzügy)",
+          "start": null
+        }
+      ],
+      "website": null,
+      "email": null,
+      "repec_id": null,
+      "scholar_id": null,
+      "orcid": null,
+      "primary_fields": [
+        "banking-finance"
+      ],
+      "bio_en": "Barbara Dömötör is Associate Professor at the Corvinus University of Budapest (Department of Finance). She works on corporate risk management, central-counterparty margining, and peer-to-peer lending.",
+      "bio_hu": "Dömötör Barbara a Budapesti Corvinus Egyetem Befektetések és Vállalati Pénzügy Tanszékének egyetemi docense. Kutatási területei: vállalati kockázatkezelés, központi szerződő fél és margólás, közösségi hitelezés.",
+      "photo_url": null,
+      "qualifying_publication": {
+        "title": "Optimal margin requirement",
+        "journal": "Finance Research Letters",
+        "year": 2018
+      },
+      "deceased": false,
+      "died": null,
+      "open_to_media": false,
+      "media_note": null,
+      "review_status": "needs-verification",
+      "openalex_id": "A5027893126",
+      "paper_count": 10
+    },
+    {
       "id": "elek-peter",
       "name_en": "Péter Elek",
       "name_hu": "Elek Péter",
@@ -2039,6 +2076,51 @@
       "review_status": "stub",
       "openalex_id": "A5038649935",
       "paper_count": 2
+    },
+    {
+      "id": "neszveda-gabor",
+      "name_en": "Gábor Neszveda",
+      "name_hu": "Neszveda Gábor",
+      "affiliations": [
+        {
+          "name": "John von Neumann University",
+          "name_hu": "Neumann János Egyetem",
+          "role": "Associate Professor",
+          "role_hu": "egyetemi docens",
+          "start": null
+        },
+        {
+          "name": "Magyar Nemzeti Bank",
+          "name_hu": "Magyar Nemzeti Bank",
+          "role": "Senior Researcher",
+          "role_hu": "vezető kutató",
+          "start": null
+        }
+      ],
+      "website": null,
+      "email": null,
+      "repec_id": null,
+      "scholar_id": null,
+      "orcid": null,
+      "primary_fields": [
+        "banking-finance",
+        "behavioral"
+      ],
+      "bio_en": "Gábor Neszveda is Associate Professor at John von Neumann University and Senior Researcher at the Magyar Nemzeti Bank (MNB). His research focuses on asset pricing, behavioral finance, salience theory, ESG investing, and financial-market responses to geopolitical and environmental events.",
+      "bio_hu": "Neszveda Gábor a Neumann János Egyetem egyetemi docense és a Magyar Nemzeti Bank vezető kutatója. Kutatási területei: eszközárazás, viselkedési pénzügy, saliencia-elmélet, ESG-befektetések, valamint pénzügyi piacok reakciói geopolitikai és környezeti eseményekre.",
+      "photo_url": null,
+      "qualifying_publication": {
+        "title": "Expect the unexpected: Did the equity markets anticipate the Russo-Ukrainian war?",
+        "journal": "Finance Research Letters",
+        "year": 2023
+      },
+      "deceased": false,
+      "died": null,
+      "open_to_media": false,
+      "media_note": null,
+      "review_status": "needs-verification",
+      "openalex_id": "A5010524876",
+      "paper_count": 11
     },
     {
       "id": "peto-rita",
@@ -6219,7 +6301,7 @@
       "title": "The Achilles’ heel of Salience theory and a way to fix it",
       "authors": [
         "bako-barna",
-        "Gábor Neszveda"
+        "neszveda-gabor"
       ],
       "publication_type": "article",
       "journal": "Economics Letters",
@@ -6261,7 +6343,7 @@
       "title": "An aspirational perspective on the negative risk-return relationship",
       "authors": [
         "bako-barna",
-        "Gábor Neszveda"
+        "neszveda-gabor"
       ],
       "publication_type": "article",
       "journal": "Finance research letters",
@@ -6307,7 +6389,7 @@
       "title": "When irrelevant alternatives do matter. The effect of focusing on loan decisions",
       "authors": [
         "bako-barna",
-        "Gábor Neszveda",
+        "neszveda-gabor",
         "Linda Dezső"
       ],
       "publication_type": "article",
@@ -9036,7 +9118,7 @@
       "authors": [
         "berlinger-edina",
         "Zsolt Bihary",
-        "Barbara Dömötör"
+        "domotor-barbara"
       ],
       "publication_type": "article",
       "journal": "Finance Research Letters",
@@ -9072,7 +9154,7 @@
       "authors": [
         "berlinger-edina",
         "Gergely Daróczi",
-        "Barbara Dömötör",
+        "domotor-barbara",
         "Tamás Vadász"
       ],
       "publication_type": "article",
@@ -9144,7 +9226,7 @@
       "title": "A tőzsdei elszámolóházak vesztesége",
       "authors": [
         "berlinger-edina",
-        "Barbara Dömötör",
+        "domotor-barbara",
         "Ferenc Illés",
         "Kata Váradi"
       ],
@@ -9181,7 +9263,7 @@
       "title": "Optimal margin requirement",
       "authors": [
         "berlinger-edina",
-        "Barbara Dömötör",
+        "domotor-barbara",
         "Ferenc Illés"
       ],
       "publication_type": "article",
@@ -9217,7 +9299,7 @@
       "title": "Anti-cyclical versus risk-sensitive margin strategies in central clearing",
       "authors": [
         "berlinger-edina",
-        "Barbara Dömötör",
+        "domotor-barbara",
         "Ferenc Illés"
       ],
       "publication_type": "article",
@@ -9541,6 +9623,41 @@
         "pension-fund asset-allocation regulation",
         "long-horizon investment product rules"
       ]
+    },
+    {
+      "id": "bihary-domotor-2018-ksz",
+      "title": "Menedzserösztönzők hatása a vállalati fedezésre",
+      "authors": [
+        "Zsolt Bihary",
+        "domotor-barbara"
+      ],
+      "publication_type": "article",
+      "journal": "Közgazdasági Szemle",
+      "year": 2018,
+      "volume": "65",
+      "issue": "7-8",
+      "pages": "701-710",
+      "doi": "10.18414/ksz.2018.7-8.701",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.18414/ksz.2018.7-8.701",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "A vállalati fedezési szokások magyarázatára szolgáló modellünkben az optimális fedezeti arány egy kétkomponensű hasznosság maximalizálásából vezethető le. A teljes vállalati hasznosság mellett a célfüggvényben megjelenik a pénzügyi vezető azon várakozása is, hogy fedezeti döntését utólagosan nem a teljes, hanem csak a pénzügyi eredmény alapján ítélik meg. Ha a menedzser biztos lehet abban, hogy bónusza a teljes vállalati eredménytől függ, akkor más ösztönzők hiányában a modellünkből levezethető optimális fedezeti arány megegyezik a szakirodalom klasszikus modelljeinek eredményével. Ha viszont a pénzügyi vezető arra számít, hogy fedezési döntésének utólagos megítélése kizárólag a pénzügyi eredményen alapul, az optimális kockázatkerülő döntése az lesz, hogy egyáltalán nem fedez. E két, ellentétes irányú komponens súlyának függvényében alakul az optimális fedezeti arány. Elméleti modellünk empirikus megerősítéséhez a magyar nagyvállalatok fedezési gyakorlatát vizsgáltuk. A rendelkezésre álló minta kis mérete miatt az eredmény nem lett szignifikáns, azonban megfelel az elméleti modell alapján vártnak.*&#13;\\nJournal of Economic Literature (JEL) kód: G13, G32, G34.",
+      "summary_en": null,
+      "summary_hu": null,
+      "data_used": null,
+      "data_used_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "methods": [],
+      "countries_studied": [],
+      "data_types": [],
+      "featured": false,
+      "added_at": "2026-04-24",
+      "last_reviewed_at": "2026-04-24",
+      "review_status": "metadata-fetched",
+      "openalex_id": "W2885042615"
     },
     {
       "id": "biro-2012-jope",
@@ -12356,6 +12473,76 @@
       "openalex_id": "W2291852363"
     },
     {
+      "id": "csillag-neszveda-2020-ksz",
+      "title": "A gazdasági várakozások hatása a tőzsdei momentumstratégiára",
+      "authors": [
+        "Balázs Csillag",
+        "neszveda-gabor"
+      ],
+      "publication_type": "article",
+      "journal": "Közgazdasági Szemle",
+      "year": 2020,
+      "volume": "67",
+      "issue": "11",
+      "pages": "1093-1111",
+      "doi": "10.18414/ksz.2020.11.1093",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.18414/ksz.2020.11.1093",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "A momentumstratégia az egyik legelterjedtebb és leggyakrabban vizsgált tőzsdei stratégia. A nemzetközi és a magyar piacokon elvégzett kutatások eredményei megmutatták, hogy a momentum - azaz a részvények múltbeli teljesítménye - szignifikánsan képes előre jelezni a következő időszak várható hozamát. Számos lehetséges magyarázat között a momentumstratégia jövedelmezőségének egyik jelentős magyarázata a viselkedési tudományokra épít. A tanulmány célja a részvények hozamának előrejelzésére használt momentumstratégia vizsgálata a magyar tőkepiacon a gazdasági várakozások alakulásának függvényében. Ha a momentumstratégia jövedelmezősége valóban az emberi viselkedés miatt van jelen, akkor a túlzottan pozitív gazdasági várakozások esetén erősebb hatás várható a stratégiától.* Journal of Economic Literature (JEL) kód: G11, G12.",
+      "summary_en": null,
+      "summary_hu": null,
+      "data_used": null,
+      "data_used_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "methods": [],
+      "countries_studied": [],
+      "data_types": [],
+      "featured": false,
+      "added_at": "2026-04-24",
+      "last_reviewed_at": "2026-04-24",
+      "review_status": "metadata-fetched",
+      "openalex_id": "W3103992514"
+    },
+    {
+      "id": "csillag-neszveda-2022-ksz",
+      "title": "Gyorsjelentés – lassú árfolyam? A gyorsjelentés utáni árfolyamsodródás vizsgálata a magyar részvénypiacon",
+      "authors": [
+        "Balázs Csillag",
+        "neszveda-gabor"
+      ],
+      "publication_type": "article",
+      "journal": "Közgazdasági Szemle",
+      "year": 2022,
+      "volume": "69",
+      "issue": "7-8",
+      "pages": "801-824",
+      "doi": "10.18414/ksz.2022.7-8.801",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.18414/ksz.2022.7-8.801",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "A hatékony piacok elmélete szerint egy adott részvény árfolyama tartalmazza az összes piacon elérhető információt, az empirikus kutatások azonban megmutatták, hogy a piacok gyakran nem felelnek meg az információs hatékonyság kritériumának. Az árfolyamsodródás szerint a gyorsjelentésekben közzétett információk nem azonnal épülnek be a részvényárfolyamokba, hanem a közzététel után még hetekig kifejtik hatásukat. Tanulmányunkban megvizsgáljuk, hogy a gyorsjelentés utáni árfolyamsodródás megfigyelhető-e a magyar piacon a 2009–2019 közötti időszakban. Az erre a stratégiára épülő portfóliók átlagos havi hozama a vizsgált időszakban 2,04 százalék. A kiugró (outlier) értékek kezelése után a Fama–MacBeth-féle regressziókban az árfolyamsodródást megragadó változó együtthatója, egyedül szerepeltetve, nullától különböző hozamot eredményez. A mögöttes befektetői viselkedés feltárásához megvizsgáljuk, hogy a hatás mennyire köszönhető a befektetők korlátozott figyelmének. Abban az esetben, ha a pénteki napokon nem valósítjuk meg a kereskedést, nagymértékben csökken a stratégiával elérhető hozam mértéke, azonban továbbra is szignifikáns marad. Ez azt sugallja, hogy ugyan nem a korlátozott figyelem hajtja teljes mértékben az árfolyamsodródást, azonban nagymértékben hat rá, hiszen pénteken a befektetők a heti határidők betartása és a hétvége közelsége miatt valószínűbb, hogy lemaradnak egy-egy jelentésről, így ez az információ hosszabb idő alatt épülhet be az árfolyamokba.&#13;\\nJournal of Economic Literature (JEL) kód: G11, G12.",
+      "summary_en": null,
+      "summary_hu": null,
+      "data_used": null,
+      "data_used_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "methods": [],
+      "countries_studied": [],
+      "data_types": [],
+      "featured": false,
+      "added_at": "2026-04-24",
+      "last_reviewed_at": "2026-04-24",
+      "review_status": "metadata-fetched",
+      "openalex_id": "W4289921093"
+    },
+    {
       "id": "csoka-2016-frl",
       "title": "Fair risk allocation in illiquid markets",
       "authors": [
@@ -13022,6 +13209,42 @@
       "openalex_id": "W2965600328"
     },
     {
+      "id": "csoka-neszveda-et-al-2019-ksz",
+      "title": "Tudományos teljesítmény mérése a magyar felsőoktatás gazdasági képzéseiben",
+      "authors": [
+        "Imola Csóka",
+        "neszveda-gabor",
+        "Géza Sebestyén"
+      ],
+      "publication_type": "article",
+      "journal": "Közgazdasági Szemle",
+      "year": 2019,
+      "volume": "66",
+      "issue": "7-8",
+      "pages": "751-770",
+      "doi": "10.18414/ksz.2019.7-8.751",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.18414/ksz.2019.7-8.751",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "A nemzetközi egyetemi rangsorokban a tudományos teljesítmény mérése kap nagy hangsúlyt, míg a magyar egyetemi rangsorolási gyakorlat kisebb mértékben jeleníti meg ezt, és a nemzetközi irodalomtól eltérően nem a publikációs teljesítmény alapján számolja. Tanulmányunk a Magyar Tudományos Művek Tárhelyén (MTMT) alapuló egyedi adatok segítségével arra ad több lehetséges példát, hogyan lehetne egy fontos szempontot a tudományos publikációk alapján beépíteni a magyar egyetemi rangsorokba. Azt is megmutatjuk, hogy számos megközelítés alkalmazható, de ezek nagyon hasonló következtetésre jutnak. Tehát a tudományos publikáción alapuló új szempont robusztus eredményt ad.* &#13;\\nJournal of Economic Literature (JEL) kód: I23.",
+      "summary_en": null,
+      "summary_hu": null,
+      "data_used": null,
+      "data_used_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "methods": [],
+      "countries_studied": [],
+      "data_types": [],
+      "featured": false,
+      "added_at": "2026-04-24",
+      "last_reviewed_at": "2026-04-24",
+      "review_status": "metadata-fetched",
+      "openalex_id": "W2964368019"
+    },
+    {
       "id": "csoka-pinter-2015-tbejo",
       "title": "On the Impossibility of Fair Risk Allocation",
       "authors": [
@@ -13679,6 +13902,44 @@
       ]
     },
     {
+      "id": "dezso-loewenstein-et-al-2015-jebo",
+      "title": "The pernicious role of asymmetric history in negotiations",
+      "authors": [
+        "Linda Dezső",
+        "George Loewenstein",
+        "Jonathan Steinhart",
+        "neszveda-gabor",
+        "Barnabás Szászi"
+      ],
+      "publication_type": "article",
+      "journal": "Journal of Economic Behavior and Organization",
+      "year": 2015,
+      "volume": "116",
+      "issue": null,
+      "pages": "430-438",
+      "doi": "10.1016/j.jebo.2015.05.016",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1016/j.jebo.2015.05.016",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "data_used": null,
+      "data_used_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "methods": [],
+      "countries_studied": [],
+      "data_types": [],
+      "featured": false,
+      "added_at": "2026-04-24",
+      "last_reviewed_at": "2026-04-24",
+      "review_status": "metadata-fetched",
+      "openalex_id": "W1843245541"
+    },
+    {
       "id": "dia-mond-koszegi-2002-jpube",
       "title": "Quasi-hyperbolic discounting and retirement",
       "authors": [
@@ -13749,6 +14010,111 @@
       "last_reviewed_at": "2026-04-22",
       "review_status": "metadata-fetched",
       "openalex_id": "W3123301472"
+    },
+    {
+      "id": "domotor-2016-frl",
+      "title": "Optimal hedge ratio in a biased forward market under liquidity constraints",
+      "authors": [
+        "domotor-barbara"
+      ],
+      "publication_type": "article",
+      "journal": "Finance Research Letters",
+      "year": 2016,
+      "volume": "21",
+      "issue": null,
+      "pages": "259-263",
+      "doi": "10.1016/j.frl.2016.11.009",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1016/j.frl.2016.11.009",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "data_used": null,
+      "data_used_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "methods": [],
+      "countries_studied": [],
+      "data_types": [],
+      "featured": false,
+      "added_at": "2026-04-24",
+      "last_reviewed_at": "2026-04-24",
+      "review_status": "metadata-fetched",
+      "openalex_id": "W2555537012"
+    },
+    {
+      "id": "domotor-illes-et-al-2023-jifmim",
+      "title": "Peer-to-peer lending: Legal loan sharking or altruistic investment? Analyzing platform investments from a credit risk perspective",
+      "authors": [
+        "domotor-barbara",
+        "Ferenc Illés",
+        "Tímea Ölvedi"
+      ],
+      "publication_type": "article",
+      "journal": "Journal of International Financial Markets, Institutions & Money",
+      "year": 2023,
+      "volume": "86",
+      "issue": null,
+      "pages": "101801-101801",
+      "doi": "10.1016/j.intfin.2023.101801",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1016/j.intfin.2023.101801",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "This paper analyzes the performance of peer-to-peer investments, the potential benefits of their information processing and the investor returns, based on the entire portfolio of the Estonian platform Bondora. We found that the platform's scoring model relies on different default probabilities across countries and is weak at predicting default within countries. Alternative information could improve the models, but our analysis could not confirm this benefit of the platform. The average internal rate of return on closed transactions was –4.17%, and 42% of the loans end with a negative IRR. We concluded that P2P borrowers in the European market are mainly high-risk, bank ineligible clients, accepting even loan-sharking level interest rates, which excludes altruistic motives of investors. Even so, investors are not compensated for the credit risk.",
+      "summary_en": null,
+      "summary_hu": null,
+      "data_used": null,
+      "data_used_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "methods": [],
+      "countries_studied": [],
+      "data_types": [],
+      "featured": false,
+      "added_at": "2026-04-24",
+      "last_reviewed_at": "2026-04-24",
+      "review_status": "metadata-fetched",
+      "openalex_id": "W4383559188"
+    },
+    {
+      "id": "domotor-olvedi-2021-ksz",
+      "title": "A személyközi hitelezés létjogosultsága a pénzügyi közvetítésben",
+      "authors": [
+        "domotor-barbara",
+        "Tímea Ölvedi"
+      ],
+      "publication_type": "article",
+      "journal": "Közgazdasági Szemle",
+      "year": 2021,
+      "volume": "68",
+      "issue": "7-8",
+      "pages": "773-793",
+      "doi": "10.18414/ksz.2021.7-8.773",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.18414/ksz.2021.7-8.773",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "Az elmúlt években a gazdaság számos területén elindult az a folyamat, amelynek eredményeként az egyes termékek és szolgáltatások vevői és eladói közvetlenül, a közvetítői szegmens kiiktatásával találnak egymásra. Ezt a folyamatot a digitalizáció és az egyre innovatívabb technológiai megoldások is segítik. A hagyományos pénzügyi közvetítők mellett sorra jelennek meg azok az új közvetítők, amelyek digitális megoldást kínálnak nemcsak a kiegészítő banki szolgáltatások, hanem a bankok fő tevékenységének számító hitelezés területén is. A személyközi hitelezés keretében egy online platform közvetlenül köti össze a hitelt kereső ügyfeleket a befektetőkkel, azzal a céllal, hogy a közvetítői szegmens kiiktatásával költséghatékonyabb megoldást kínáljon. Tanulmányunkban a személyközi hitelezés jellemzőit vizsgáljuk, összehasonlítjuk az online platformot üzemeltető közvetítőt a hagyományos pénzügyi közvetítőkkel. Azt vizsgáljuk, hogy ez a fajta közvetítés mennyiben valóságos alternatívája a banki hitelezésnek, illetve mi adhatja a platformok létjogosultságát. A vizsgált közvetítők pénzügyi adatai és legújabb eseményei alapján úgy tűnik, hogy az online hitelközvetítők egy bizonyos méret felett szükségszerűen bankká válnak, vagyis a platformok leginkább egy kedvező belépési lehetőséget biztosítanak a pénzügyi közvetítői piacra.*&#13;\\nJournal of Economic Literature (JEL) kód: G20, G21, G29, G50",
+      "summary_en": null,
+      "summary_hu": null,
+      "data_used": null,
+      "data_used_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "methods": [],
+      "countries_studied": [],
+      "data_types": [],
+      "featured": false,
+      "added_at": "2026-04-24",
+      "last_reviewed_at": "2026-04-24",
+      "review_status": "metadata-fetched",
+      "openalex_id": "W3192292311"
     },
     {
       "id": "donald-hsu-et-al-2014-jbes",
@@ -17182,6 +17548,43 @@
       ]
     },
     {
+      "id": "granat-lehmann-et-al-2023-frl",
+      "title": "Expect the unexpected: Did the equity markets anticipate the Russo-Ukrainian war?",
+      "authors": [
+        "Marcell Péter Granát",
+        "Kristóf Lehmann",
+        "Olivér Nagy",
+        "neszveda-gabor"
+      ],
+      "publication_type": "article",
+      "journal": "Finance Research Letters",
+      "year": 2023,
+      "volume": "58",
+      "issue": null,
+      "pages": "104301-104301",
+      "doi": "10.1016/j.frl.2023.104301",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1016/j.frl.2023.104301",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "In 2022, Russian military operations began in Ukraine, which surprised some, while others might have expected it. We investigate whether the expectations began to be priced in the equity markets before the operations. To estimate the start of information incorporation, we use the adjusted returns of 62 country-level stock market data assuming informed traders using a non-linear model and rolling-window regressions. We find that the equity markets started to price the conflict at least 50 days before the invasion, and approximately one-third of the information was incorporated on the event day.",
+      "summary_en": null,
+      "summary_hu": null,
+      "data_used": null,
+      "data_used_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "methods": [],
+      "countries_studied": [],
+      "data_types": [],
+      "featured": false,
+      "added_at": "2026-04-24",
+      "last_reviewed_at": "2026-04-24",
+      "review_status": "metadata-fetched",
+      "openalex_id": "W4385617684"
+    },
+    {
       "id": "gross-layton-et-al-2022-aeri",
       "title": "The Liquidity Sensitivity of Healthcare Consumption: Evidence from Social Security Payments",
       "authors": [
@@ -17396,6 +17799,42 @@
       "last_reviewed_at": "2026-04-19",
       "review_status": "ai-drafted",
       "openalex_id": "W3123709942"
+    },
+    {
+      "id": "gunay-domotor-et-al-2025-emr",
+      "title": "Investigation of emerging market stress under various frequency bands: Evidence from FX market uncertainty and liquidity",
+      "authors": [
+        "Samet Günay",
+        "domotor-barbara",
+        "Attila András Víg"
+      ],
+      "publication_type": "article",
+      "journal": "Emerging Markets Review",
+      "year": 2025,
+      "volume": "65",
+      "issue": null,
+      "pages": "101262-101262",
+      "doi": "10.1016/j.ememar.2025.101262",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1016/j.ememar.2025.101262",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "This study investigates the relationship between Emerging Markets Financial Stress Index (EMFSI) and currency returns, uncertainty and liquidity of eight emerging economies, using MODWT, Wavelet Coherence, TVP-VAR analyses. The results indicate that interactions become more pronounced during political events rather than economic developments. Energy market developments also appear to be significant periods for the interaction of variables, especially for Saudi Arabia and the UAE. Finally, the findings related to investment horizon suggest that short-term spillovers may be linked to medium- to long-term correlations between the EMFSI and currency pairs. This could serve as an early warning for policymakers and investors. • Financial stress is investigated using MODWT, Wavelet Coherence, TVP-VAR. • EMFSI emerges as a valuable tool for tracking political risks in emerging economies. • Energy market developments appear to be significant periods for the interactions of currency markets and the EMFSI. • Associations between the EMFSI and currency market variables strengthen with increasing frequency bands.",
+      "summary_en": null,
+      "summary_hu": null,
+      "data_used": null,
+      "data_used_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "methods": [],
+      "countries_studied": [],
+      "data_types": [],
+      "featured": false,
+      "added_at": "2026-04-24",
+      "last_reviewed_at": "2026-04-24",
+      "review_status": "metadata-fetched",
+      "openalex_id": "W4407270108"
     },
     {
       "id": "hajdu-kertesi-et-al-2018-tbejo",
@@ -19857,6 +20296,41 @@
       "policy_instruments": [
         "trade-policy overview framework"
       ]
+    },
+    {
+      "id": "horvath-neszveda-2024-ksz",
+      "title": "Új szempont a magyar felsőoktatási intézmények teljesítményének mérésében – az egyetemek online láthatósága",
+      "authors": [
+        "Zsófia Horváth",
+        "neszveda-gabor"
+      ],
+      "publication_type": "article",
+      "journal": "Közgazdasági Szemle",
+      "year": 2024,
+      "volume": "71",
+      "issue": "7-8",
+      "pages": "755-790",
+      "doi": "10.18414/ksz.2024.7-8.755",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.18414/ksz.2024.7-8.755",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "In recent years, the role of the online presence of higher education institutions has greatly increased, since a huge part of their target audience is an active user of various web interfaces. As a result, measuring online institutional performance has become increasingly popular in the international literature and in higher education rankings as well. The purpose of this paper is to comprehensively describe the performance of the online platforms of Hungarian higher education institutions and to present a system of criteria for measuring institutional performance based on international literature. We analysed the traffic and backlinks of university websites, as well as their performance on social media platforms. Based on the data from 10 indicators, we created an index capturing overall online performance and a positioning index using principal component analysis. Our results show that there is a strong correlation between the indicators capturing online performance and traditional university rankings. Furthermore, we found that institutions with a higher number of students perform orders of magnitude better according to the measured indicators, suggesting their strong size dependence.",
+      "summary_en": null,
+      "summary_hu": null,
+      "data_used": null,
+      "data_used_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "methods": [],
+      "countries_studied": [],
+      "data_types": [],
+      "featured": false,
+      "added_at": "2026-04-24",
+      "last_reviewed_at": "2026-04-24",
+      "review_status": "metadata-fetched",
+      "openalex_id": "W4401209219"
     },
     {
       "id": "hsu-lai-et-al-2020-er",
@@ -26414,6 +26888,78 @@
       ]
     },
     {
+      "id": "neszveda-till-et-al-2022-frl",
+      "title": "Is short-term reversal driven by liquidity provision in emerging markets? Evidence from China",
+      "authors": [
+        "neszveda-gabor",
+        "Gábor Till",
+        "Barnabás Timár",
+        "Marcell Varga"
+      ],
+      "publication_type": "article",
+      "journal": "Finance Research Letters",
+      "year": 2022,
+      "volume": "50",
+      "issue": null,
+      "pages": "103220-103220",
+      "doi": "10.1016/j.frl.2022.103220",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1016/j.frl.2022.103220",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "Studies focusing on the U.S. stock markets argue that the short-term reversal is related to liquidity provision. We test the implications of the theory of liquidity provision to investigate the profitability of reversal trading strategies in the Chinese markets. We find highly robust and puzzling patterns that are mainly inconsistent with findings in the U.S. markets and liquidity provision. There is a momentum based on the most recent day instead of reversal, only few specific days drive the profitability of the reversal strategies, and even these profits do not depend on liquidity constraints as liquidity provision theory implies.",
+      "summary_en": null,
+      "summary_hu": null,
+      "data_used": null,
+      "data_used_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "methods": [],
+      "countries_studied": [],
+      "data_types": [],
+      "featured": false,
+      "added_at": "2026-04-24",
+      "last_reviewed_at": "2026-04-24",
+      "review_status": "metadata-fetched",
+      "openalex_id": "W4289527158"
+    },
+    {
+      "id": "neszveda-vago-2021-ksz",
+      "title": "A likviditásnyújtás kereskedési stratégiájának hozamvizsgálata a magyar részvénypiacon",
+      "authors": [
+        "neszveda-gabor",
+        "Ákos Vágó"
+      ],
+      "publication_type": "article",
+      "journal": "Közgazdasági Szemle",
+      "year": 2021,
+      "volume": "68",
+      "issue": "7-8",
+      "pages": "794-814",
+      "doi": "10.18414/ksz.2021.7-8.794",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.18414/ksz.2021.7-8.794",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "A tanulmányban kétféle megközelítéssel vizsgáljuk azt, hogy lehetett-e a likviditásnyújtás stratégiáját alkalmazva szignifikánsan pozitív hozamot elérni a magyar részvénypiacon. Az első esetben portfóliókat képezünk, a másodikban speciálisan a likviditásnyújtásra vonatkozó stratégiát vizsgálunk. Mindkét megközelítés lényege, hogy a rövid távon magas hozamú részvényeket eladni, a nagy veszteseket pedig megvenni érdemes. A likviditásnyújtás mindkét értelmezésével a nemzetközi irodalom alapján várt eredményt kapjuk. Likviditásszűkében csak magas hozam mellett valósul meg likviditásnyújtás, s ez még a kisebb magyar tőzsdén is statisztikailag szignifikáns eredményt ad.&#13;\\nJournal of Economic Literature (JEL) kód: G11, G12.",
+      "summary_en": null,
+      "summary_hu": null,
+      "data_used": null,
+      "data_used_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "methods": [],
+      "countries_studied": [],
+      "data_types": [],
+      "featured": false,
+      "added_at": "2026-04-24",
+      "last_reviewed_at": "2026-04-24",
+      "review_status": "metadata-fetched",
+      "openalex_id": "W3189937188"
+    },
+    {
       "id": "oehmke-zawadowski-2015-rfs",
       "title": "Synthetic or Real? The Equilibrium Effects of Credit Default Swaps on Bond Markets",
       "authors": [
@@ -32265,8 +32811,8 @@
     }
   ],
   "counts": {
-    "authors": 82,
-    "papers": 675,
+    "authors": 84,
+    "papers": 688,
     "topics": 19
   }
 }
