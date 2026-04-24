@@ -40,7 +40,7 @@ An author is admitted if they have **at least one publication** in any journal o
 **Tier B — top field journals:**
 - _Labor_: Journal of Labor Economics, Labour Economics, Journal of Human Resources
 - _Trade / international_: Journal of International Economics, Review of International Economics
-- _Finance_: Journal of Finance, Review of Financial Studies, Journal of Financial Economics, Review of Finance, Journal of International Money and Finance
+- _Finance_: Journal of Finance, Review of Financial Studies, Journal of Financial Economics, Review of Finance, Journal of International Money and Finance, Finance Research Letters, Journal of International Financial Markets Institutions & Money, Emerging Markets Review
 - _Macro / monetary_: Journal of Monetary Economics, Journal of Money, Credit and Banking
 - _IO_: RAND Journal of Economics, International Journal of Industrial Organization
 - _Public_: Journal of Public Economics

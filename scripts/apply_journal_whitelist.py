@@ -73,6 +73,11 @@ ALIASES = {
     "the b e journal of theoretical economics": "The B.E. Journal of Theoretical Economics",
     "b e journal of theoretical economics": "The B.E. Journal of Theoretical Economics",
     "finance research letters": "Finance Research Letters",
+    "journal of international financial markets institutions & money": "Journal of International Financial Markets, Institutions & Money",
+    "journal of international financial markets institutions and money": "Journal of International Financial Markets, Institutions & Money",
+    "journal of international financial markets, institutions & money": "Journal of International Financial Markets, Institutions & Money",
+    "journal of international financial markets institutions &amp; money": "Journal of International Financial Markets, Institutions & Money",
+    "emerging markets review": "Emerging Markets Review",
     "the journal of business": None,  # defunct / not flagship
     "journal of business finance &amp accounting": None,  # not listed
     "journal of business finance & accounting": None,
