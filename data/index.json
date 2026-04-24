@@ -136,8 +136,10 @@
       "name_hu": "Bárány Zsófia",
       "affiliations": [
         {
-          "name": "Sciences Po Paris, Department of Economics",
-          "role": null,
+          "name": "Central European University",
+          "name_hu": "Közép-európai Egyetem",
+          "role": "Associate Professor of Economics",
+          "role_hu": "közgazdaságtudomány docens",
           "start": null
         }
       ],
@@ -151,8 +153,8 @@
         "macroeconomics",
         "inequality-welfare"
       ],
-      "bio_en": "Zsófia L. Bárány is Associate Professor at the Department of Economics, Sciences Po Paris. Her research is in macroeconomics and labor economics, with a focus on job polarisation, structural change, and the sectoral sources of labor-productivity growth. Her work has appeared in the American Economic Journal: Macroeconomics, the Journal of Labor Economics, and the Review of Economic Dynamics.",
-      "bio_hu": "Bárány Zsófia a Sciences Po Paris Közgazdaságtani Tanszékének docense. Kutatási területe a makroökonómia és a munkaerőpiac, különös tekintettel a foglalkozási polarizációra, a szerkezeti átalakulásra és a munkatermelékenység-növekedés ágazati forrásaira. Munkái megjelentek az American Economic Journal: Macroeconomicsban, a Journal of Labor Economicsban és a Review of Economic Dynamicsban.",
+      "bio_en": "Zsófia L. Bárány is Associate Professor of Economics at Central European University. Her research is in macroeconomics and labor economics, with a focus on job polarisation, structural change, and the sectoral sources of labor-productivity growth. Her work has appeared in the American Economic Journal: Macroeconomics, the Journal of Labor Economics, and the Review of Economic Dynamics.",
+      "bio_hu": "Bárány Zsófia a Közép-európai Egyetem közgazdaságtani docense. Kutatási területe a makroökonómia és a munkaerőpiac, különös tekintettel a foglalkozási polarizációra, a szerkezeti átalakulásra és a munkatermelékenység-növekedés ágazati forrásaira. Munkái megjelentek az American Economic Journal: Macroeconomicsban, a Journal of Labor Economicsban és a Review of Economic Dynamicsban.",
       "photo_url": null,
       "qualifying_publication": null,
       "deceased": false,
@@ -161,6 +163,7 @@
       "media_note": null,
       "review_status": "needs-verification",
       "openalex_id": "A5043232246",
+      "bio_review": "confident",
       "paper_count": 7
     },
     {
@@ -1343,12 +1346,15 @@
         "health",
         "demographics-migration"
       ],
-      "bio_en": "Gábor Kézdi is Research Professor at the University of Michigan's Institute for Social Research, where he works on the Health and Retirement Study. Previously at CEU, his research spans labor economics, health and ageing, education, and the economics of the Roma minority. He is co-author of the textbook Data Analysis for Business, Economics, and Policy (Cambridge University Press).",
-      "bio_hu": "Kézdi Gábor a University of Michigan Institute for Social Researchben kutatóprofesszor, ahol a Health and Retirement Study munkatársa. Korábban a CEU-n tanított; kutatási területe a munkagazdaságtan, az egészség és az öregedés, az oktatás, valamint a roma kisebbség közgazdaságtana. Társszerzője a Data Analysis for Business, Economics, and Policy tankönyvnek (Cambridge University Press).",
+      "bio_en": "Gábor Kézdi (1970–2023) was Research Professor at the University of Michigan's Institute for Social Research, where he worked on the Health and Retirement Study. Previously at CEU, his research spanned labor economics, health and ageing, education, and the economics of the Roma minority. He was co-author of the textbook Data Analysis for Business, Economics, and Policy (Cambridge University Press).",
+      "bio_hu": "Kézdi Gábor (1970–2023) a Michigani Egyetem Institute for Social Research kutatóprofesszora volt, ahol a Health and Retirement Study-n dolgozott. Korábban a CEU-n tanított; kutatási területe a munkagazdaságtan, az idősödés és egészség, az oktatás, valamint a roma kisebbség gazdaságtana volt. Társszerzője a Data Analysis for Business, Economics, and Policy című tankönyvnek (Cambridge University Press).",
       "photo_url": null,
       "qualifying_publication": null,
       "review_status": "confident",
       "openalex_id": "A5085764702",
+      "deceased": true,
+      "died": null,
+      "bio_review": "needs-verification",
       "paper_count": 11
     },
     {
@@ -2348,16 +2354,17 @@
         "innovation-digital",
         "regional-urban"
       ],
-      "bio_en": "László A. Szerb is Professor at the Faculty of Business and Economics, University of Pécs. His research is in entrepreneurship and firm dynamics, with a particular focus on national systems of entrepreneurship and cross-country measurement of the entrepreneurial ecosystem. His work has appeared in Research Policy and Small Business Economics.",
-      "bio_hu": "Szerb László a Pécsi Tudományegyetem Közgazdaságtudományi Karának professzora. Kutatási területe a vállalkozás és vállalati dinamika, különös tekintettel a vállalkozói nemzeti rendszerekre és a vállalkozói ökoszisztéma országok közötti mérésére. Munkái megjelentek a Research Policyban és a Small Business Economicsban.",
+      "bio_en": "László A. Szerb (1955–2024) was Professor at the Faculty of Business and Economics, University of Pécs. His research was in entrepreneurship and firm dynamics, with a particular focus on national systems of entrepreneurship and cross-country measurement of the entrepreneurial ecosystem. His work appeared in Research Policy and Small Business Economics.",
+      "bio_hu": "Szerb László (1955–2024) a Pécsi Tudományegyetem Közgazdaságtudományi Karának professzora volt. Kutatási területe a vállalkozás és vállalati dinamika, különös tekintettel a vállalkozói nemzeti rendszerekre és a vállalkozói ökoszisztéma országok közötti mérésére. Munkái megjelentek a Research Policyban és a Small Business Economicsban.",
       "photo_url": null,
       "qualifying_publication": null,
-      "deceased": false,
+      "deceased": true,
       "died": null,
       "open_to_media": false,
       "media_note": null,
       "review_status": "needs-verification",
       "openalex_id": "A5075440998",
+      "bio_review": "needs-verification",
       "paper_count": 17
     },
     {
@@ -2722,8 +2729,10 @@
       "name_hu": "Vonyó Tamás",
       "affiliations": [
         {
-          "name": "IMT School for Advanced Studies Lucca",
-          "role": null,
+          "name": "Bocconi University",
+          "name_hu": "Bocconi Egyetem",
+          "role": "Associate Professor of Economic History",
+          "role_hu": "gazdaságtörténet docens",
           "start": null
         }
       ],
@@ -2737,8 +2746,8 @@
         "macroeconomics",
         "firms-productivity"
       ],
-      "bio_en": "Tamás Vonyó is an economic historian at IMT School for Advanced Studies Lucca. His research covers postwar European reconstruction, the economic history of state-socialism, and the long-run factors behind the post-1945 divergence between Eastern and Western Europe. His work has appeared regularly in the European Review of Economic History and the Economic History Review.",
-      "bio_hu": "Vonyó Tamás gazdaságtörténész az IMT School for Advanced Studies Lucca intézményben. Kutatási területe a második világháború utáni európai újjáépítés, az államszocialista gazdaságok gazdaságtörténete, valamint Kelet- és Nyugat-Európa 1945 utáni divergenciájának hosszú távú okai. Munkái rendszeresen megjelennek a European Review of Economic Historyben és az Economic History Review-ban.",
+      "bio_en": "Tamás Vonyó is Associate Professor of Economic History at Bocconi University. His research covers postwar European reconstruction, the economic history of state-socialism, and the long-run factors behind the post-1945 divergence between Eastern and Western Europe. His work has appeared regularly in the European Review of Economic History and the Economic History Review.",
+      "bio_hu": "Vonyó Tamás a Bocconi Egyetem gazdaságtörténet docense. Kutatási területe a második világháború utáni európai újjáépítés, az államszocialista gazdaságok gazdaságtörténete, valamint Kelet- és Nyugat-Európa 1945 utáni divergenciájának hosszú távú okai. Munkái rendszeresen megjelennek a European Review of Economic Historyben és az Economic History Review-ban.",
       "photo_url": null,
       "qualifying_publication": null,
       "deceased": false,
@@ -2747,6 +2756,7 @@
       "media_note": null,
       "review_status": "needs-verification",
       "openalex_id": "A5020209163",
+      "bio_review": "confident",
       "paper_count": 13
     },
     {
