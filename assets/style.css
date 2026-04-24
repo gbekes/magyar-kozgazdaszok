@@ -553,3 +553,39 @@ footer.site a { color: var(--ink-2); }
 
 details > summary { cursor: pointer; font-weight: 600; color: var(--v-3); }
 details[open] > summary { margin-bottom: 0.5rem; }
+
+/* Author page: "Open to media" row in the sidebar (below Links) */
+.media-row {
+  display: flex; align-items: center; gap: 0.35rem;
+  margin-top: 0.9rem;
+  font-size: 0.85rem;
+}
+.media-row .media-label {
+  color: var(--ink-2);
+  margin-right: 0.15rem;
+}
+.media-pill {
+  display: inline-block;
+  padding: 0.1rem 0.45rem;
+  border-radius: 999px;
+  font-weight: 600;
+  font-size: 0.75rem;
+  letter-spacing: 0.02em;
+  line-height: 1.5;
+  border: 1px solid transparent;
+}
+.media-pill.on.media-en {
+  background: var(--v-3);
+  color: #fff;
+  border-color: var(--v-3);
+}
+.media-pill.on.media-hu {
+  background: var(--v-5);
+  color: #fff;
+  border-color: var(--v-5);
+}
+.media-pill.off {
+  background: transparent;
+  color: var(--rule-strong);
+  border-color: var(--rule);
+}

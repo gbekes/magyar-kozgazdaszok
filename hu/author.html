@@ -74,11 +74,17 @@
       ? `<span class="deceased-note" title="elhunyt">† ${a.died ? EFH.esc(String(a.died)) : ''}</span>`
       : '';
 
-    const mediaBlock = a.open_to_media ? `
-      <section class="media-slot">
-        <h3>Média-felkérések</h3>
-        <p>Nyitott interjúkra, véleménycikkekre, szakpolitikai konzultációra.${a.media_note ? ` ${EFH.esc(a.media_note)}` : ''}</p>
-      </section>` : '';
+    const mediaEnOn = !!a.open_to_media_en;
+    const mediaHuOn = !!a.open_to_media_hu;
+    const mediaNote = (mediaEnOn || mediaHuOn) && a.media_note
+      ? `<p class="small muted" style="margin:0.3rem 0 0;">${EFH.esc(a.media_note)}</p>` : '';
+    const mediaBlock = `
+      <div class="media-row">
+        <span class="media-label">Média-felkérésekre nyitott:</span>
+        <span class="media-pill media-en ${mediaEnOn ? 'on' : 'off'}" title="angol nyelven">EN</span>
+        <span class="media-pill media-hu ${mediaHuOn ? 'on' : 'off'}" title="magyar nyelven">HU</span>
+      </div>
+      ${mediaNote}`;
 
     root.innerHTML = `
       <header class="entity-header">

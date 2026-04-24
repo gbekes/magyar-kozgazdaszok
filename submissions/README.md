@@ -43,10 +43,11 @@ Things the author can change (non-exhaustive):
   strukturális alapok", "NAV adóellenőrzés"). 0–5 entries. Authors can say
   "please add 'roma oktatási integráció' to the instruments" or "drop the
   'public procurement' tag, that's not what this paper is about."
-- **`open_to_media`** — turn on the "Open to media" slot on the author page,
-  optionally with a scoping note (`media_note`), e.g. "interviews on labor
-  economics in HU/EN; op-eds in Telex, Portfolio, HVG". Opt-in only —
-  default is off.
+- **`open_to_media_en` / `open_to_media_hu`** — per-language opt-in for
+  the "Open to media" pills on the author page. Authors can say e.g.
+  "yes in English, no in Hungarian" or both. Optionally add a
+  `media_note` scoping what they're open to (e.g. "interviews on labor
+  economics; op-eds in Telex, Portfolio, HVG"). Default for both is off.
 
 Example:
 

@@ -159,7 +159,8 @@ Not a replacement for `topics` — it's additive.
   },
   "deceased": false,
   "died": null,
-  "open_to_media": false,
+  "open_to_media_en": false,
+  "open_to_media_hu": false,
   "media_note": null
 }
 ```
@@ -167,12 +168,15 @@ Not a replacement for `topics` — it's additive.
 - `deceased` / `died`: gentle denote. When `deceased: true`, the author's
   name on the listing gets a small † and the detail header shows "(deceased YYYY)".
   `died` is the four-digit year; optional.
-- `open_to_media` / `media_note`: authors can opt in to signal they're open
-  to interviews, op-eds, policy briefings, etc. Default is off (empty slot).
-  When `open_to_media: true`, the author page shows a distinct "Open to
-  media" section with the email address and any `media_note` scoping it
-  (e.g., "interviews on labor economics, op-eds in HVG / Telex / Portfolio").
-  Only changed via a submission from the author.
+- `open_to_media_en` / `open_to_media_hu` / `media_note`: authors can opt
+  in per language to signal they're open to interviews, op-eds, policy
+  briefings. Default is off for both. The author page always shows a
+  small "Open to media: EN · HU" row below Links; each language pill is
+  bright/coloured when opted in and a thin grey when off. `media_note`
+  is an optional scoping note (e.g., "interviews on labor economics,
+  op-eds in HVG / Telex / Portfolio") and is shown under the row when
+  at least one language is on. Only changed via a submission from the
+  author.
 
 ### 2.3 Topic schema (static, curated — see `TAXONOMY.md`)
 

@@ -54,7 +54,8 @@ def expand_seed_authors() -> int:
             "qualifying_publication": None,
             "deceased": s.get("deceased", False),
             "died": s.get("died"),
-            "open_to_media": s.get("open_to_media", False),
+            "open_to_media_en": s.get("open_to_media_en", False),
+            "open_to_media_hu": s.get("open_to_media_hu", False),
             "media_note": s.get("media_note"),
             "review_status": s.get("bio_review", "stub"),
         }
