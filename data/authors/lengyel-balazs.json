@@ -4,17 +4,17 @@
   "name_hu": "Lengyel Balázs",
   "affiliations": [
     {
-      "name": "HUN-REN KRTK Institute of Economics",
-      "name_hu": "HUN-REN KRTK Közgazdaság-tudományi Intézet",
-      "role": "Senior Research Fellow, ANETI Lab",
-      "role_hu": "vezető kutató, ANETI Lab",
-      "start": null
-    },
-    {
       "name": "Corvinus University of Budapest",
       "name_hu": "Budapesti Corvinus Egyetem",
       "role": "Professor",
       "role_hu": "egyetemi tanár",
+      "start": null
+    },
+    {
+      "name": "KRTK Institute of Economics",
+      "name_hu": "KRTK Közgazdaság-tudományi Intézet",
+      "role": "Senior Research Fellow, head of ANETI Lab",
+      "role_hu": "vezető kutató, ANETI Lab vezetője",
       "start": null
     }
   ],
@@ -33,5 +33,6 @@
   "photo_url": null,
   "qualifying_publication": null,
   "review_status": "confident",
-  "openalex_id": "A5005839111"
+  "openalex_id": "A5005839111",
+  "bio_review": "confident"
 }

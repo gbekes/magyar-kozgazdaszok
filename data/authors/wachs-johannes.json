@@ -4,21 +4,28 @@
   "name_hu": "Wachs Johannes",
   "affiliations": [
     {
-      "name": "Vienna University of Economics and Business (WU)",
-      "name_hu": "Bécsi Gazdasági Egyetem (WU)",
-      "role": "Assistant Professor",
-      "role_hu": "adjunktus",
+      "name": "Corvinus University of Budapest",
+      "name_hu": "Budapesti Corvinus Egyetem",
+      "role": "Associate Professor; Director, Center for Collective Learning (Corvinus Institute of Advanced Study)",
+      "role_hu": "docens; igazgató, Center for Collective Learning (Corvinus Institute of Advanced Study)",
       "start": null
     },
     {
-      "name": "HUN-REN KRTK Institute of Economics",
-      "name_hu": "HUN-REN KRTK Közgazdaság-tudományi Intézet",
-      "role": "External Fellow",
-      "role_hu": "külső munkatárs",
+      "name": "KRTK Institute of Economics",
+      "name_hu": "KRTK Közgazdaság-tudományi Intézet",
+      "role": "Senior Research Fellow",
+      "role_hu": "vezető kutató",
+      "start": null
+    },
+    {
+      "name": "Complexity Science Hub Vienna",
+      "name_hu": "Complexity Science Hub Vienna",
+      "role": "Faculty",
+      "role_hu": "kutató",
       "start": null
     }
   ],
-  "website": null,
+  "website": "https://www.johanneswachs.com/",
   "email": null,
   "repec_id": null,
   "scholar_id": null,
@@ -27,8 +34,8 @@
     "innovation-digital",
     "regional-urban"
   ],
-  "bio_en": "Johannes Wachs is an assistant professor at the Vienna University of Economics and Business and affiliated researcher at the KRTK Institute of Economics. His work uses network science and computational methods to study innovation, collaboration, and the geography of economic activity.",
-  "bio_hu": "Wachs Johannes a Bécsi Gazdasági Egyetem (WU) adjunktusa és a KRTK Közgazdaság-tudományi Intézet külső munkatársa. Hálózatkutatási és számítástudományi módszerekkel vizsgálja az innovációt, az együttműködést és a gazdasági tevékenységek földrajzát.",
+  "bio_en": "Johannes Wachs is Associate Professor at Corvinus University of Budapest and Director of the Center for Collective Learning at the Corvinus Institute of Advanced Study, Senior Research Fellow at KRTK Institute of Economics, and faculty at the Complexity Science Hub Vienna. His research uses network science and computational methods to study innovation, collaboration in software development, and the geography of economic activity.",
+  "bio_hu": "Wachs Johannes a Budapesti Corvinus Egyetem docense, a Corvinus Institute of Advanced Study Center for Collective Learning igazgatója, a KRTK Közgazdaság-tudományi Intézet vezető kutatója, valamint a bécsi Complexity Science Hub munkatársa. Kutatási módszerei a hálózatkutatás és a számításos társadalomtudomány; területei az innováció, a szoftverfejlesztési együttműködés és a gazdasági tevékenységek földrajzi mintázata.",
   "photo_url": null,
   "qualifying_publication": null,
   "deceased": false,
@@ -36,5 +43,6 @@
   "open_to_media": false,
   "media_note": null,
   "review_status": "needs-verification",
-  "openalex_id": "A5070274437"
+  "openalex_id": "A5070274437",
+  "bio_review": "confident"
 }
