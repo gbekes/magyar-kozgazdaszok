@@ -19,19 +19,33 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Folytonos és aszimmetrikus mag-periféria modellt illesztünk a magyar bankközi fedezetlen hitelek piacának havi hálózataira 2003 és 2012 között. Meghatározzuk az egyes bankok magsági mutatóinak időbeli alakulását, és megvizsgáljuk, hogy mi a kapcsolat ezen mutatók és a bank nettó hitelpozíciója, kamatkülönbözete, illetve a banknak nyújtott hitelek kondíciói (hitelösszeg, kamatláb, futamidő) között. Azt kapjuk, hogy a hiteloldali magsági mutatók legszorosabban az implicit partnerlimitekkel korrelálnak. Tehát nem feltétlenül a nagy bankok vannak a magban, hanem inkább azok, amelyeket a többi szereplő a legkevésbé kockázatosnak ítél meg. Ez segítheti a szabályozót, hiszen ezek szerint a legfontosabb bankok valószínűleg egyben a legbiztonságosabbak is.* Journal of Economic Literature (JEL) kód: G1, G2.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "Who sits at the centre of the Hungarian unsecured interbank lending market — the biggest banks, or the least risky ones? The authors fit a continuous, asymmetric core–periphery model to the monthly network of interbank loans from 2003 to 2012 and track how each bank's 'coreness' evolves. They then link coreness to each bank's net lending position, interest-rate margin, and loan conditions (size, rate, tenor). Borrowing-side coreness correlates most strongly with implicit counterparty limits: the core is populated not by the largest banks but by those others judge least risky. The important banks are also likely the safest — a useful fact for supervisors.",
+  "summary_hu": "A magyar fedezetlen bankközi hitelezési piac magjában valóban a legnagyobb bankok ülnek, vagy inkább a legkevésbé kockázatosak? A szerzők folytonos, aszimmetrikus mag–periféria modellt illesztenek a 2003 és 2012 közötti havi bankközi hitelezési hálózatokra, és nyomon követik minden bank magsági mutatójának időbeli alakulását. A hiteloldali magsági mutató legszorosabban az implicit partnerlimitekkel korrelál: nem feltétlenül a nagy bankok vannak a magban, hanem azokat rakják oda a többiek, akiket a legkevésbé tartanak kockázatosnak. A rendszer szempontjából fontos bankok így egyben valószínűleg a legbiztonságosabbak is.",
+  "data_used": "Monthly networks of Hungarian unsecured interbank loans, 2003–2012 (KELER / MNB reporting). Loan-level: counterparties, amount, tenor, interest rate; bank-level: net position, interest margin.",
+  "data_used_hu": "A magyar fedezetlen bankközi hitelek havi hálózatai, 2003–2012 (KELER / MNB jelentések). Ügyletszinten: partnerek, összeg, futamidő, kamatláb; bank szinten: nettó pozíció, kamatmarzs.",
+  "policy_relevance": "Helpful for MNB systemic-risk identification. It suggests that identifying systemically important banks (SIBs) in Hungary should lean on network centrality, not only size, because the centrality signal loads on the 'safe counterparty' dimension that actually matters for contagion paths. Caveat: pre-2013 data; post-banking-union regime has shifted both participation and risk transmission, so the quantitative coreness metrics would need re-estimation on newer data.",
+  "policy_relevance_hu": "Hasznos az MNB rendszerkockázati azonosításához. A szisztemikusan fontos bankok (SIB) kijelölését érdemes nem csak méretre, hanem hálózati centralitásra is alapozni, mivel ez utóbbi éppen a valóban érdekes 'biztonságos partner' dimenziót ragadja meg. Korlát: 2013 előtti adatok; a bankunió óta a résztvevők köre és a kockázatok továbbítása is megváltozott, így az aktuális magsági mutatókat friss adatokon újra kellene becsülni.",
+  "topics": [
+    "banking-finance"
+  ],
+  "methods": [
+    "panel-data",
+    "time-series"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
   "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2767802413"
+  "review_status": "ai-drafted",
+  "openalex_id": "W2767802413",
+  "policy_instruments": [
+    "SIB identification (MNB)",
+    "macroprudential interbank monitoring",
+    "systemic-risk buffer"
+  ]
 }

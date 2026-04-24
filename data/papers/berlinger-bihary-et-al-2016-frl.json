@@ -18,19 +18,31 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "Many multi-entity corporate groups pool cash across subsidiaries so that one firm's temporary surplus funds another's shortfall. This paper derives a closed-form valuation for such a cash pool under realistic conditions (asymmetric transfer costs, credit lines). The value of pooling scales with the cross-subsidiary correlation of cash flows — lower correlation means larger savings on external financing. The formula turns what was previously a simulation exercise into a tool treasurers and bank analysts can apply on a spreadsheet to price intra-group liquidity structures.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical / analytical paper. No empirical dataset; calibration examples use stylised cash-flow parameters.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant to MNB and NAV treatment of intra-group cash-pool arrangements (transfer pricing and consolidated capital adequacy). The closed-form shows that the fair valuation of a cash pool is not zero — implying taxable benefit allocation between subsidiaries. Caveat: theoretical, assumes idealised capital-market access within the group; frictions specific to Hungarian group taxation may change the quantitative picture.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "global"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
   "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2325127886"
+  "review_status": "ai-drafted",
+  "openalex_id": "W2325127886",
+  "policy_instruments": [
+    "cash-pool transfer pricing (NAV)",
+    "group capital adequacy"
+  ]
 }

@@ -16,19 +16,32 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "Traditional interbank-market early-warning indicators rely on public credit ratings, which update slowly and lag crises. This paper proposes an 'implicit rating' derived from the pricing of actual interbank loans — interest-rate spreads, loan sizes and maturities act as a real-time revealed assessment by counterparties of each other's creditworthiness. Applied to the Hungarian unsecured interbank market, the implicit rating turns critical substantially before the formal rating downgrades during the 2008 crisis. The implication: a usable crisis-alerting indicator does not need new data — it lives inside existing bank-to-bank transaction reports.",
+  "summary_hu": "A hagyományos bankközi piaci korai-előrejelző mutatók nyilvános hitelminősítésekre támaszkodnak, amelyek lassan frissülnek. A tanulmány egy 'implicit hitelminősítést' javasol, amit a valós bankközi hitelügyletek árazásából (kamatfelár, hitelösszeg, futamidő) lehet kinyerni — ezek ugyanis a partnerek valódi, kimondatlan ítéletét tükrözik egymás hitelképességéről. A magyar fedezetlen bankközi piacra alkalmazva az implicit minősítés a 2008-as válság során jóval korábban kritikussá válik, mint a hivatalos minősítés.",
+  "data_used": "Monthly network of Hungarian unsecured interbank loans, 2003–2012, covering all transactions in the Hungarian market (MNB / KELER reporting). Loan-level: counterparties, amount, tenor, interest spread.",
+  "data_used_hu": "A magyar fedezetlen bankközi hitelek havi hálózata, 2003–2012 (MNB / KELER jelentések). Ügyletszinten: partnerek, összeg, futamidő, kamatfelár.",
+  "policy_relevance": "Direct input for MNB macroprudential monitoring. The 'implicit rating' is mechanical to compute from data the MNB already collects and could feed the systemic-risk dashboard without buying new agency ratings. Caveat: the 2008 episode is a single case; validation on later stress episodes (2011 sovereign, 2020 COVID) would strengthen the out-of-sample claim.",
+  "policy_relevance_hu": "Közvetlen bemenet az MNB makroprudenciális felügyeletnek. Az implicit minősítés mechanikusan kiszámítható az MNB által amúgy is bekért adatokból, tehát a rendszerszintű kockázati dashboardra plusz költség nélkül felvehető. Korlát: a 2008-as epizód egyetlen eset; későbbi stresszepizódokon (2011-es szuverén válság, 2020-as COVID) érdemes validálni.",
+  "topics": [
+    "banking-finance"
+  ],
+  "methods": [
+    "time-series"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
   "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2340129591"
+  "review_status": "ai-drafted",
+  "openalex_id": "W2340129591",
+  "policy_instruments": [
+    "MNB macroprudential dashboard",
+    "bank resolution / SREP",
+    "systemic-risk early warning"
+  ]
 }

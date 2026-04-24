@@ -17,19 +17,32 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "In recent years, the role of the online presence of higher education institutions has greatly increased, since a huge part of their target audience is an active user of various web interfaces. As a result, measuring online institutional performance has become increasingly popular in the international literature and in higher education rankings as well. The purpose of this paper is to comprehensively describe the performance of the online platforms of Hungarian higher education institutions and to present a system of criteria for measuring institutional performance based on international literature. We analysed the traffic and backlinks of university websites, as well as their performance on social media platforms. Based on the data from 10 indicators, we created an index capturing overall online performance and a positioning index using principal component analysis. Our results show that there is a strong correlation between the indicators capturing online performance and traditional university rankings. Furthermore, we found that institutions with a higher number of students perform orders of magnitude better according to the measured indicators, suggesting their strong size dependence.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "How visible are Hungarian universities online, and does it track their traditional ranking? The authors construct an online-performance index for Hungarian higher-education institutions using 10 indicators — website traffic, backlinks, and social-media footprint. The index correlates strongly with traditional rankings, but also shows a pronounced size effect: institutions with more students dominate the online-visibility measures by orders of magnitude. Principal-component analysis separates 'overall performance' from 'positioning,' producing two useful axes for ranking.",
+  "summary_hu": "Mennyire láthatóak online a magyar felsőoktatási intézmények, és mennyire követi ez a hagyományos rangsorokat? A szerzők tíz mutatóból állítanak össze egy online-teljesítmény indexet: weboldal-forgalom, backlinkek, közösségi média-jelenlét. Az index erősen korrelál a hagyományos rangsorokkal, de jelentős méretfüggést is mutat: a több hallgatós intézmények nagyságrendekkel jobbak az online láthatóságban. Főkomponens-elemzéssel elválasztják az 'általános teljesítmény' és a 'pozicionálás' dimenziókat.",
+  "data_used": "Hungarian higher-education institutions: website traffic and backlinks from SimilarWeb / Ahrefs-style sources; social-media follower counts, post counts and engagement across major platforms. 10 constructed indicators.",
+  "data_used_hu": "Magyar felsőoktatási intézmények adatai: weboldal-forgalom és backlinkek SimilarWeb / Ahrefs-szerű forrásokból; közösségimédia-követőszám, posztolási gyakoriság, elköteleződés. Tíz összeállított mutató.",
+  "policy_relevance": "Input for the OH / Innovation and Technology Ministry (ITM) ranking methodology and for individual universities' communications strategy. Caveat: online visibility heavily reflects institution size — using the raw index as a ranking input would entrench size advantages, so size-adjusted versions should be preferred for policy use.",
+  "policy_relevance_hu": "Bemenet az OH / KIM rangsor-módszertannak és az intézmények kommunikációs stratégiájának. Korlát: az online láthatóság erősen méretfüggő — a nyers index használata rangsorolásra betonozná a méret előnyét, ezért érdemes méret-korrigált változatokat használni szakpolitikai célra.",
+  "topics": [
+    "education-skills",
+    "methods"
+  ],
+  "methods": [
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "digital-trace"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
   "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4401209219"
+  "review_status": "ai-drafted",
+  "openalex_id": "W4401209219",
+  "policy_instruments": [
+    "felsőoktatási rangsor (OH/KIM)",
+    "intézményi kommunikációs stratégia"
+  ]
 }

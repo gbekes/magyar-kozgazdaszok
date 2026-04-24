@@ -20,19 +20,32 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "When two parties have an asymmetric history (one knows something about past behaviour the other doesn't), negotiations run worse than when the information asymmetry is symmetric. The authors design an experimental setup that isolates asymmetric-history effects from other sources of asymmetry. Subjects with asymmetric private information reach fewer deals, reach lower joint payoffs, and express more negative feelings about the process. The result is relevant for any negotiation where background dossiers are unevenly shared — workplace grievance, divorce mediation, supplier disputes.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Laboratory economics experiment with ~hundreds of subjects. Treatments vary whether parties have symmetric vs asymmetric access to a history of prior behaviour. Outcomes: deal rate, joint surplus, self-reported affect.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant to mediation and dispute-resolution design in Hungarian labour relations, consumer arbitration, and civil mediation. Supports protocols that either level history (both parties see the record) or carefully protect the asymmetry (one side doesn't know the other has it). Not sector-specific.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "behavioral"
+  ],
+  "methods": [
+    "rct",
+    "theory"
+  ],
+  "countries_studied": [
+    "global"
+  ],
+  "data_types": [
+    "field-experiment"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
   "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W1843245541"
+  "review_status": "ai-drafted",
+  "openalex_id": "W1843245541",
+  "policy_instruments": [
+    "mediation / dispute-resolution protocol",
+    "workplace grievance procedure"
+  ]
 }

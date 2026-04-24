@@ -18,19 +18,33 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "In response to the Global Financial Crisis of 2007–2009, by now, most of the financial transactions must be cleared through central counterparties operating a dynamic margin setting mechanism. High margin calls can reduce counterparty risk in a turbulent market, but at the same time, increase liquidity risk and escalate systemic risk. In this paper, we construct a theoretical model to address this challenge, deriving an optimal margin setting policy framed as a stochastic control problem. Our analysis reveals that an adaptive, countercyclical approach is superior to a purely risk-sensitive strategy, primarily by minimizing the expected loss for the clearing institution.",
-  "summary_en": null,
+  "summary_en": "A follow-up to the authors' central-counterparty margining work. Post-crisis regulation pushes most derivatives through CCPs that reset margin dynamically. High margin calls lower counterparty risk but raise liquidity risk and — in stress — systemic risk. This paper derives the optimal margin-setting rule as the solution to a stochastic-control problem and shows that an adaptive, counter-cyclical margin beats a pure risk-sensitive one: the CCP's expected loss is lower. The intuition is that raising margins in a stressed market forces members to sell, deepening the stress, which eventually hits the CCP itself via fire-sale losses on its cover waterfall.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical stochastic-control model; no single dataset. Calibration draws on post-2008 CCP margin practice and on standard Geometric Brownian Motion assumptions for asset prices.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly informs KELER KSZF (Hungary's CCP) and MNB supervision under EMIR. Supports an explicit counter-cyclical margin buffer rather than floor-only rules. Relevant input for the ESMA review of margin add-ons. Caveat: all conclusions are model-based; empirical validation against live CCP margin calls during March 2020 or the 2022 commodity stress would strengthen the case.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance"
+  ],
+  "methods": [
+    "structural",
+    "theory"
+  ],
+  "countries_studied": [
+    "global"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
   "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4401851807"
+  "review_status": "ai-drafted",
+  "openalex_id": "W4401851807",
+  "policy_instruments": [
+    "CCP anti-procyclical margin (EMIR)",
+    "KELER KSZF margin policy",
+    "systemic liquidity buffer"
+  ]
 }

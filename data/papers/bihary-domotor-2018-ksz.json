@@ -17,19 +17,33 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "A vállalati fedezési szokások magyarázatára szolgáló modellünkben az optimális fedezeti arány egy kétkomponensű hasznosság maximalizálásából vezethető le. A teljes vállalati hasznosság mellett a célfüggvényben megjelenik a pénzügyi vezető azon várakozása is, hogy fedezeti döntését utólagosan nem a teljes, hanem csak a pénzügyi eredmény alapján ítélik meg. Ha a menedzser biztos lehet abban, hogy bónusza a teljes vállalati eredménytől függ, akkor más ösztönzők hiányában a modellünkből levezethető optimális fedezeti arány megegyezik a szakirodalom klasszikus modelljeinek eredményével. Ha viszont a pénzügyi vezető arra számít, hogy fedezési döntésének utólagos megítélése kizárólag a pénzügyi eredményen alapul, az optimális kockázatkerülő döntése az lesz, hogy egyáltalán nem fedez. E két, ellentétes irányú komponens súlyának függvényében alakul az optimális fedezeti arány. Elméleti modellünk empirikus megerősítéséhez a magyar nagyvállalatok fedezési gyakorlatát vizsgáltuk. A rendelkezésre álló minta kis mérete miatt az eredmény nem lett szignifikáns, azonban megfelel az elméleti modell alapján vártnak.*&#13;\\nJournal of Economic Literature (JEL) kód: G13, G32, G34.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "A theoretical model of corporate hedging that asks: what do we get when the CFO's bonus depends only on the financial (not operating) result? The optimal hedge ratio becomes a weighted average of two extremes — full textbook minimum-variance hedging (if the bonus is tied to the full firm P&L) and zero hedging (if only financial P&L matters, because hedging then looks like a pure speculative bet after the fact). Survey of Hungarian large-firm hedging practice is consistent with the model direction but sample size is too small for statistical significance.",
+  "summary_hu": "Vállalati fedezési modell, amely azt vizsgálja: mi lesz az optimális fedezeti arány, ha a pénzügyi vezető bónusza csak a pénzügyi (nem a teljes) eredménytől függ? Az optimális fedezeti arány két szélsőérték súlyozott átlaga lesz: teljes tankönyvi minimum-variancia fedezés (ha a bónusz a teljes vállalati eredményhez kötődik), és nulla fedezés (ha csak a pénzügyi eredmény számít, mert ilyenkor a fedezés utólag spekulatív fogadásnak tűnik). A magyar nagyvállalati fedezési gyakorlat kérdőíves felmérése a modell irányával összhangban van, de a mintaméret kicsi a szignifikanciához.",
+  "data_used": "Theoretical model plus a small survey of Hungarian large-firm FX hedging practice. Survey captures hedging ratios, bonus structure, and firm FX exposure.",
+  "data_used_hu": "Elméleti modell és egy kis méretű kérdőíves felmérés a magyar nagyvállalati devizaárfolyam-fedezési gyakorlatról. A felmérés tartalmazza a fedezeti arányokat, a bónuszstruktúrát és a cég devizakitettségét.",
+  "policy_relevance": "Useful input for MNB and Corvinus / Budapest Business School education on corporate risk management. Suggests that changes in managerial incentive design (linking bonuses to full, not partial, P&L) can have real effects on corporate FX-hedging activity. Caveat: survey is small, statistically non-significant; interpret the model as a framework rather than a tested empirical claim.",
+  "policy_relevance_hu": "Hasznos bemenet az MNB-nek és a Corvinus / BGE vállalati kockázatkezelési oktatásának. A modell szerint a menedzseri ösztönzők tervezése (bónusz a teljes, nem a részleges P&L-hez kötve) érzékelhető hatással van a vállalati fedezési tevékenységre. Korlát: a felmérés kis mintás, statisztikailag nem szignifikáns; a modellt inkább keretként, mint bizonyított állításként érdemes kezelni.",
+  "topics": [
+    "banking-finance",
+    "firms-productivity"
+  ],
+  "methods": [
+    "theory",
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
   "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2885042615"
+  "review_status": "ai-drafted",
+  "openalex_id": "W2885042615",
+  "policy_instruments": [
+    "vállalati kockázatkezelési szabályozás",
+    "menedzseri ösztönzőrendszer"
+  ]
 }

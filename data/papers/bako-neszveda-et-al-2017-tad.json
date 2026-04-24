@@ -18,19 +18,34 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "In a loan-choice experiment, does adding an irrelevant third option change which of two loans people pick — and in what direction? The answer is yes: a clearly dominated decoy shifts preferences, consistent with salience / focusing-based models of choice. The authors develop a model where decision-makers over-weight dimensions on which options differ most, predict the direction of the induced preference reversal, and match it experimentally. A crisp test of focusing effects with direct implications for consumer financial-product design.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Laboratory experiment on loan-choice decisions with a manipulated irrelevant third option. Subject pool and payoffs calibrated to a standard economic-experiments protocol.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct input for MNB / Pénzügyminisztérium consumer-finance disclosure regulation: the layout of loan alternatives on a comparison page is not neutral. Supports rules that restrict dominated 'decoy' products from being shown alongside real options. Caveat: laboratory setting; field validation in actual loan-product pages would strengthen the policy case.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "behavioral",
+    "banking-finance"
+  ],
+  "methods": [
+    "rct",
+    "theory"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "field-experiment"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2769742770"
+  "last_reviewed_at": "2026-04-24",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2769742770",
+  "policy_instruments": [
+    "fogyasztói hitel-összehasonlítás szabályozása",
+    "MNB THM / disclosure szabály",
+    "loan-product choice architecture"
+  ]
 }

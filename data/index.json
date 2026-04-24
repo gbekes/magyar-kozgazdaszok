@@ -1172,7 +1172,7 @@
       "media_note": null,
       "review_status": "confident",
       "openalex_id": "A5025200634",
-      "paper_count": 13
+      "paper_count": 14
     },
     {
       "id": "hermann-zoltan",
@@ -1666,7 +1666,7 @@
       "media_note": null,
       "review_status": "confident",
       "openalex_id": "A5060516887",
-      "paper_count": 17
+      "paper_count": 18
     },
     {
       "id": "koren-miklos",
@@ -6572,21 +6572,36 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": null,
-      "summary_en": null,
+      "summary_en": "In a loan-choice experiment, does adding an irrelevant third option change which of two loans people pick — and in what direction? The answer is yes: a clearly dominated decoy shifts preferences, consistent with salience / focusing-based models of choice. The authors develop a model where decision-makers over-weight dimensions on which options differ most, predict the direction of the induced preference reversal, and match it experimentally. A crisp test of focusing effects with direct implications for consumer financial-product design.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Laboratory experiment on loan-choice decisions with a manipulated irrelevant third option. Subject pool and payoffs calibrated to a standard economic-experiments protocol.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct input for MNB / Pénzügyminisztérium consumer-finance disclosure regulation: the layout of loan alternatives on a comparison page is not neutral. Supports rules that restrict dominated 'decoy' products from being shown alongside real options. Caveat: laboratory setting; field validation in actual loan-product pages would strengthen the policy case.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "behavioral",
+        "banking-finance"
+      ],
+      "methods": [
+        "rct",
+        "theory"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "field-experiment"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2769742770"
+      "last_reviewed_at": "2026-04-24",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2769742770",
+      "policy_instruments": [
+        "fogyasztói hitel-összehasonlítás szabályozása",
+        "MNB THM / disclosure szabály",
+        "loan-product choice architecture"
+      ]
     },
     {
       "id": "baksa-konya-2021-ms",
@@ -9194,21 +9209,34 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": null,
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "Traditional interbank-market early-warning indicators rely on public credit ratings, which update slowly and lag crises. This paper proposes an 'implicit rating' derived from the pricing of actual interbank loans — interest-rate spreads, loan sizes and maturities act as a real-time revealed assessment by counterparties of each other's creditworthiness. Applied to the Hungarian unsecured interbank market, the implicit rating turns critical substantially before the formal rating downgrades during the 2008 crisis. The implication: a usable crisis-alerting indicator does not need new data — it lives inside existing bank-to-bank transaction reports.",
+      "summary_hu": "A hagyományos bankközi piaci korai-előrejelző mutatók nyilvános hitelminősítésekre támaszkodnak, amelyek lassan frissülnek. A tanulmány egy 'implicit hitelminősítést' javasol, amit a valós bankközi hitelügyletek árazásából (kamatfelár, hitelösszeg, futamidő) lehet kinyerni — ezek ugyanis a partnerek valódi, kimondatlan ítéletét tükrözik egymás hitelképességéről. A magyar fedezetlen bankközi piacra alkalmazva az implicit minősítés a 2008-as válság során jóval korábban kritikussá válik, mint a hivatalos minősítés.",
+      "data_used": "Monthly network of Hungarian unsecured interbank loans, 2003–2012, covering all transactions in the Hungarian market (MNB / KELER reporting). Loan-level: counterparties, amount, tenor, interest spread.",
+      "data_used_hu": "A magyar fedezetlen bankközi hitelek havi hálózata, 2003–2012 (MNB / KELER jelentések). Ügyletszinten: partnerek, összeg, futamidő, kamatfelár.",
+      "policy_relevance": "Direct input for MNB macroprudential monitoring. The 'implicit rating' is mechanical to compute from data the MNB already collects and could feed the systemic-risk dashboard without buying new agency ratings. Caveat: the 2008 episode is a single case; validation on later stress episodes (2011 sovereign, 2020 COVID) would strengthen the out-of-sample claim.",
+      "policy_relevance_hu": "Közvetlen bemenet az MNB makroprudenciális felügyeletnek. Az implicit minősítés mechanikusan kiszámítható az MNB által amúgy is bekért adatokból, tehát a rendszerszintű kockázati dashboardra plusz költség nélkül felvehető. Korlát: a 2008-as epizód egyetlen eset; későbbi stresszepizódokon (2011-es szuverén válság, 2020-as COVID) érdemes validálni.",
+      "topics": [
+        "banking-finance"
+      ],
+      "methods": [
+        "time-series"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-firm"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
       "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2340129591"
+      "review_status": "ai-drafted",
+      "openalex_id": "W2340129591",
+      "policy_instruments": [
+        "MNB macroprudential dashboard",
+        "bank resolution / SREP",
+        "systemic-risk early warning"
+      ]
     },
     {
       "id": "berlinger-2017-ksz",
@@ -9228,21 +9256,33 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Ebben az írásban az innováció szemszögéből vizsgálom a piac és az állam szerepét, és két kiemelkedő közgazdász, Kornai János és Joseph Stiglitz nézeteit hasonlítom össze, különös tekintettel Kornai János 2011-ben megjelent, Gondolatok a kapitalizmusról című, illetve Joseph Stiglitz és Bruce Greenwald 2014-ben megjelent, Creating a Learning Society című könyvére. A szerzők egészen mást gondolnak arról, hogy mi a piaci és a bürokratikus koordináció kívánatos súlya, mi a kapcsolat az innováció és a munkanélküliség között, mennyire hatékony a szabadalmi rendszer - és általában, hogy mi jellemzi az ideális, innovációt támogató gazdaságpolitikát. A mélyebb összehasonlításból azonban az is kitűnik, hogy sokkal több dologban értenek egyet, mint az első pillantásra látszik.* Journal of Economic Literature (JEL) kód: D61, H54, Z23.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "summary_en": "A comparative essay on two major economists' views of innovation, the state, and the market: János Kornai (Thoughts on Capitalism, 2011) and Joseph Stiglitz & Bruce Greenwald (Creating a Learning Society, 2014). On first reading they appear to disagree: on the right weight of market vs. bureaucratic coordination, the employment–innovation trade-off, and the efficiency of the patent system. Closer reading reveals substantially more common ground — both argue for state involvement in correcting innovation-relevant market failures, though from different theoretical starting points. The piece is a policy-oriented synthesis rather than an empirical paper.",
+      "summary_hu": "Összehasonlító esszé Kornai János (Gondolatok a kapitalizmusról, 2011) és Joseph Stiglitz – Bruce Greenwald (Creating a Learning Society, 2014) innovációról, államról és piacról alkotott nézeteiről. Első olvasatra ellentéteseknek tűnnek: a piaci és a bürokratikus koordináció arányát, az innováció és a munkanélküliség kapcsolatát, a szabadalmi rendszer hatékonyságát illetően. Mélyebb olvasatban viszont sokkal több a közös alap, mint amennyi elsőre látszik — mindketten érvelnek a piaci kudarcok állami korrekciója mellett, csak más elméleti alapokról indulnak.",
+      "data_used": "Conceptual / review essay. Primary sources: Kornai (2011) and Stiglitz-Greenwald (2014); supporting literature on innovation economics.",
+      "data_used_hu": "Fogalmi / áttekintő esszé. Elsődleges források: Kornai (2011) és Stiglitz–Greenwald (2014); kiegészítő innovációközgazdasági irodalom.",
+      "policy_relevance": "Useful for Hungarian innovation-policy debate (Ministry of Economic Development, NKFI) as a clear-headed framing of where free-market and state-led innovation views actually agree. Less a direct policy recommendation, more a high-quality briefing document for senior policymakers.",
+      "policy_relevance_hu": "Hasznos a magyar innovációpolitikai vitához (Gazdaságfejlesztési Minisztérium, NKFIH): tiszta keret ahhoz, hogy lássuk, hol értenek ténylegesen egyet a szabadpiaci és az államvezérelt innovációfelfogás képviselői. Nem közvetlen szakpolitikai ajánlás, inkább magas színvonalú háttéranyag vezető döntéshozóknak.",
+      "topics": [
+        "innovation-digital",
+        "political-economy"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "HU",
+        "global"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-24",
       "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2604292330"
+      "review_status": "ai-drafted",
+      "openalex_id": "W2604292330",
+      "policy_instruments": [
+        "innováció-politikai keretrendszer (NKFIH)",
+        "szabadalmi rendszer"
+      ]
     },
     {
       "id": "berlinger-bihary-et-al-2016-frl",
@@ -9264,21 +9304,33 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": null,
-      "summary_en": null,
+      "summary_en": "Many multi-entity corporate groups pool cash across subsidiaries so that one firm's temporary surplus funds another's shortfall. This paper derives a closed-form valuation for such a cash pool under realistic conditions (asymmetric transfer costs, credit lines). The value of pooling scales with the cross-subsidiary correlation of cash flows — lower correlation means larger savings on external financing. The formula turns what was previously a simulation exercise into a tool treasurers and bank analysts can apply on a spreadsheet to price intra-group liquidity structures.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical / analytical paper. No empirical dataset; calibration examples use stylised cash-flow parameters.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant to MNB and NAV treatment of intra-group cash-pool arrangements (transfer pricing and consolidated capital adequacy). The closed-form shows that the fair valuation of a cash pool is not zero — implying taxable benefit allocation between subsidiaries. Caveat: theoretical, assumes idealised capital-market access within the group; frictions specific to Hungarian group taxation may change the quantitative picture.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "global"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
       "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2325127886"
+      "review_status": "ai-drafted",
+      "openalex_id": "W2325127886",
+      "policy_instruments": [
+        "cash-pool transfer pricing (NAV)",
+        "group capital adequacy"
+      ]
     },
     {
       "id": "berlinger-bihary-et-al-2024-frl",
@@ -9300,21 +9352,35 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "In response to the Global Financial Crisis of 2007–2009, by now, most of the financial transactions must be cleared through central counterparties operating a dynamic margin setting mechanism. High margin calls can reduce counterparty risk in a turbulent market, but at the same time, increase liquidity risk and escalate systemic risk. In this paper, we construct a theoretical model to address this challenge, deriving an optimal margin setting policy framed as a stochastic control problem. Our analysis reveals that an adaptive, countercyclical approach is superior to a purely risk-sensitive strategy, primarily by minimizing the expected loss for the clearing institution.",
-      "summary_en": null,
+      "summary_en": "A follow-up to the authors' central-counterparty margining work. Post-crisis regulation pushes most derivatives through CCPs that reset margin dynamically. High margin calls lower counterparty risk but raise liquidity risk and — in stress — systemic risk. This paper derives the optimal margin-setting rule as the solution to a stochastic-control problem and shows that an adaptive, counter-cyclical margin beats a pure risk-sensitive one: the CCP's expected loss is lower. The intuition is that raising margins in a stressed market forces members to sell, deepening the stress, which eventually hits the CCP itself via fire-sale losses on its cover waterfall.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical stochastic-control model; no single dataset. Calibration draws on post-2008 CCP margin practice and on standard Geometric Brownian Motion assumptions for asset prices.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly informs KELER KSZF (Hungary's CCP) and MNB supervision under EMIR. Supports an explicit counter-cyclical margin buffer rather than floor-only rules. Relevant input for the ESMA review of margin add-ons. Caveat: all conclusions are model-based; empirical validation against live CCP margin calls during March 2020 or the 2022 commodity stress would strengthen the case.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance"
+      ],
+      "methods": [
+        "structural",
+        "theory"
+      ],
+      "countries_studied": [
+        "global"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
       "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4401851807"
+      "review_status": "ai-drafted",
+      "openalex_id": "W4401851807",
+      "policy_instruments": [
+        "CCP anti-procyclical margin (EMIR)",
+        "KELER KSZF margin policy",
+        "systemic liquidity buffer"
+      ]
     },
     {
       "id": "berlinger-daroczi-et-al-2017-ksz",
@@ -9337,21 +9403,35 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Folytonos és aszimmetrikus mag-periféria modellt illesztünk a magyar bankközi fedezetlen hitelek piacának havi hálózataira 2003 és 2012 között. Meghatározzuk az egyes bankok magsági mutatóinak időbeli alakulását, és megvizsgáljuk, hogy mi a kapcsolat ezen mutatók és a bank nettó hitelpozíciója, kamatkülönbözete, illetve a banknak nyújtott hitelek kondíciói (hitelösszeg, kamatláb, futamidő) között. Azt kapjuk, hogy a hiteloldali magsági mutatók legszorosabban az implicit partnerlimitekkel korrelálnak. Tehát nem feltétlenül a nagy bankok vannak a magban, hanem inkább azok, amelyeket a többi szereplő a legkevésbé kockázatosnak ítél meg. Ez segítheti a szabályozót, hiszen ezek szerint a legfontosabb bankok valószínűleg egyben a legbiztonságosabbak is.* Journal of Economic Literature (JEL) kód: G1, G2.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "Who sits at the centre of the Hungarian unsecured interbank lending market — the biggest banks, or the least risky ones? The authors fit a continuous, asymmetric core–periphery model to the monthly network of interbank loans from 2003 to 2012 and track how each bank's 'coreness' evolves. They then link coreness to each bank's net lending position, interest-rate margin, and loan conditions (size, rate, tenor). Borrowing-side coreness correlates most strongly with implicit counterparty limits: the core is populated not by the largest banks but by those others judge least risky. The important banks are also likely the safest — a useful fact for supervisors.",
+      "summary_hu": "A magyar fedezetlen bankközi hitelezési piac magjában valóban a legnagyobb bankok ülnek, vagy inkább a legkevésbé kockázatosak? A szerzők folytonos, aszimmetrikus mag–periféria modellt illesztenek a 2003 és 2012 közötti havi bankközi hitelezési hálózatokra, és nyomon követik minden bank magsági mutatójának időbeli alakulását. A hiteloldali magsági mutató legszorosabban az implicit partnerlimitekkel korrelál: nem feltétlenül a nagy bankok vannak a magban, hanem azokat rakják oda a többiek, akiket a legkevésbé tartanak kockázatosnak. A rendszer szempontjából fontos bankok így egyben valószínűleg a legbiztonságosabbak is.",
+      "data_used": "Monthly networks of Hungarian unsecured interbank loans, 2003–2012 (KELER / MNB reporting). Loan-level: counterparties, amount, tenor, interest rate; bank-level: net position, interest margin.",
+      "data_used_hu": "A magyar fedezetlen bankközi hitelek havi hálózatai, 2003–2012 (KELER / MNB jelentések). Ügyletszinten: partnerek, összeg, futamidő, kamatláb; bank szinten: nettó pozíció, kamatmarzs.",
+      "policy_relevance": "Helpful for MNB systemic-risk identification. It suggests that identifying systemically important banks (SIBs) in Hungary should lean on network centrality, not only size, because the centrality signal loads on the 'safe counterparty' dimension that actually matters for contagion paths. Caveat: pre-2013 data; post-banking-union regime has shifted both participation and risk transmission, so the quantitative coreness metrics would need re-estimation on newer data.",
+      "policy_relevance_hu": "Hasznos az MNB rendszerkockázati azonosításához. A szisztemikusan fontos bankok (SIB) kijelölését érdemes nem csak méretre, hanem hálózati centralitásra is alapozni, mivel ez utóbbi éppen a valóban érdekes 'biztonságos partner' dimenziót ragadja meg. Korlát: 2013 előtti adatok; a bankunió óta a résztvevők köre és a kockázatok továbbítása is megváltozott, így az aktuális magsági mutatókat friss adatokon újra kellene becsülni.",
+      "topics": [
+        "banking-finance"
+      ],
+      "methods": [
+        "panel-data",
+        "time-series"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-firm"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
       "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2767802413"
+      "review_status": "ai-drafted",
+      "openalex_id": "W2767802413",
+      "policy_instruments": [
+        "SIB identification (MNB)",
+        "macroprudential interbank monitoring",
+        "systemic-risk buffer"
+      ]
     },
     {
       "id": "berlinger-dobranszky-bartus-et-al-2021-ksz",
@@ -9373,21 +9453,35 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Mélyinterjúkkal és célzott kérdőíves felméréssel vizsgáltuk, hogyan hatnak a lejárt tartozások a munkavállalásra, a bankszámlahasználatra és az egészségi állapotra Magyarország egyik legelmaradottabb térségében, ahol még a Covid-válságot megelőző, prosperáló időszakban is sokan éltek pénzügyi kirekesztettségben. Azt találtuk, hogy a büntetőkamatokkal megnövelt, reménytelen nagyságúvá eszkalálódott tartozások miatt sokan arra rendezkedtek be, hogy bujkálnak a behajtás elől: nem vállalnak bejelentett munkát, nem nyitnak bankszámlát, és emiatt folyamatos stresszel kénytelenek együtt élni. A lejárt tartozások így egyfajta szegénységicsapda-­mechanizmust hoznak létre, és számottevő jóléti veszteségeket okoznak egyéni és társadalmi szinten egyaránt. A döntéshozóknak nagyobb figyelmet kellene fordítaniuk a hitelciklusok tompítására, illetve a kialakult nemteljesítő adósságok rendezésére, különösen ebben a törékeny társadalmi csoportban.*&#13;\\nJournal of Economic Literature (JEL) kód: G51, G53, I38.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "What happens when unpaid debts escalate with penalty interest into amounts that can never be repaid? The authors conduct deep interviews and a targeted survey in one of Hungary's most deprived regions, where many households already lived in financial exclusion before COVID-19. The result is a behavioural trap: rather than declare bankruptcy or default formally, people choose to disappear — avoiding official employment, not opening bank accounts, living under chronic stress to evade collection. Overdue debts become a poverty-trap mechanism with substantial individual and social welfare costs. Policy-makers should pay more attention to credit-cycle smoothing and to the workout of non-performing household debt, especially for this fragile group.",
+      "summary_hu": "Mi történik, ha a lejárt tartozások büntetőkamatokkal olyan méretűre nőnek, hogy már visszafizethetetlenek? A szerzők mélyinterjúkkal és célzott felméréssel vizsgálták Magyarország egyik legelmaradottabb térségét, ahol már a COVID előtt is sokan éltek pénzügyi kirekesztettségben. Az eredmény egy viselkedési csapda: az érintettek nem csődöt jelentenek, hanem bujkálnak — nem vállalnak bejelentett munkát, nem nyitnak bankszámlát, és folyamatos stressz alatt élnek, hogy elkerüljék a behajtást. A lejárt tartozások így szegénységicsapda-mechanizmust hoznak létre, és jelentős jóléti veszteséget okoznak egyéni és társadalmi szinten is.",
+      "data_used": "Depth interviews and a targeted survey in a disadvantaged Hungarian region. Households with overdue debt, in and out of formal employment and formal banking. Combined qualitative and quantitative analysis.",
+      "data_used_hu": "Mélyinterjúk és célzott kérdőíves felmérés egy hátrányos helyzetű magyar régióban. Lejárt tartozású háztartások, be- és bejelentetlen foglalkoztatással, bankszámlával vagy nélküle. Kvalitatív és kvantitatív elemzés kombinálása.",
+      "policy_relevance": "Directly relevant to MNB's household-debt monitoring and to the Ministry of Finance / Ministry of Interior work on financial inclusion. The paper argues for more aggressive NPL workout rules in fragile regions — ability-to-pay caps on collection enforcement, write-down protocols for un-repayable penalty-accrued balances. Caveat: one region; mechanisms likely generalise, but magnitudes may not.",
+      "policy_relevance_hu": "Közvetlenül releváns az MNB háztartási hitel-monitoringjához, valamint a Pénzügyminisztérium és Belügyminisztérium pénzügyi bevonódási munkájához. A tanulmány érvel erősebb NPL-rendezési szabályok mellett a sérülékeny térségekben — fizetési képesség alapján meghatározott behajtási korlátok, leírási protokollok a visszafizethetetlen büntetőkamatokra. Korlát: egyetlen régió; a mechanizmus valószínűleg általánosítható, a nagyságrendek nem biztosan.",
+      "topics": [
+        "banking-finance",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
       "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W3187870304"
+      "review_status": "ai-drafted",
+      "openalex_id": "W3187870304",
+      "policy_instruments": [
+        "személyi csőd / household bankruptcy reform",
+        "behajtási szabályozás (MNB)",
+        "pénzügyi bevonódási program"
+      ]
     },
     {
       "id": "berlinger-domotor-et-al-2016-ksz",
@@ -9410,21 +9504,36 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "A válságot követő új szabályozás a tőzsdén kívüli piacokon is egyre inkább megköveteli a kereskedés központi elszámolását, ezért rendszerkockázati szempontból kiemelt kérdés a tőzsdei elszámolóházak kockázatkezelése és azon belül a veszteségek vizsgálata. Ebben a cikkben az elszámolóházak általános működését modellezzük, majd az amerikai határidős részvénypiac elmúlt nyolcévi adatai alapján szimuláljuk az alapletét elégtelenségéből adódó veszteségeket. Végül megvizsgáljuk az elszámolóház veszteségei és egyes külső stressztényezők, például egy amerikai általános stresszindex (CFSI) komponensei közötti kapcsolatot. Fő megállapításunk, hogy egy általános stresszindex kevésbé alkalmas az el szá moló ház veszteségeinek előrejelzésére, mint egy saját fejlesztésű, testre szabott modell, aminek fő oka az lehet, hogy az elszámolóházak számos speciális tulajdonsággal - magas fokú specializáció, szimmetrikus kitettségek, letéti számlák útvonalfüggősége stb. - rendelkeznek. Journal of Economic Literature (JEL) kód: G15; G23; G28",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "After the 2008 crisis, more OTC derivatives are required to clear centrally — raising the stakes of clearinghouse risk management. This paper models CCP operations generally and then simulates losses from insufficient initial margin on the US equity-index futures market over eight years. The authors examine how CCP losses correlate with broad market-stress measures (CFSI) and find that a generic stress index is a poor predictor of CCP-specific losses. CCP-specific features — high member specialisation, symmetric exposures, path-dependence of margin accounts — create idiosyncratic risk that off-the-shelf stress indicators miss.",
+      "summary_hu": "A 2008 utáni szabályozás egyre több tőzsdén kívüli ügyletet terel központi elszámolóházakba, ami a CCP-k kockázatkezelését rendszerszintű kérdéssé teszi. A tanulmány általánosan modellezi a CCP-k működését, majd szimulálja az alapletét elégtelenségéből adódó veszteségeket az amerikai határidős részvénypiacon nyolc év adatain. Fő eredmény: egy általános pénzügyi stresszindex (CFSI) kevésbé alkalmas a CCP-veszteségek előrejelzésére, mint egy saját, testreszabott modell. A CCP-specifikus tulajdonságok (magas szakosodás, szimmetrikus kitettségek, letéti számla útvonalfüggősége) olyan egyedi kockázatokat hoznak létre, amiket az általános mutatók nem látnak.",
+      "data_used": "US equity-index futures transaction and margin data over ~8 years; Cleveland Fed Financial Stress Index (CFSI) components and subindices for the stress-indicator comparison.",
+      "data_used_hu": "Amerikai határidős részvénypiaci ügylet- és letéti adatok mintegy 8 éven át; Cleveland Fed pénzügyi stresszindexe (CFSI) komponensei az összehasonlításhoz.",
+      "policy_relevance": "Direct input for MNB oversight of KELER KSZF: relying on generic stress indicators to trigger elevated supervisory attention understates tail risks. CCP-specific, bespoke stress dashboards are required. Caveat: US data; Hungarian CCP exposure structure is less diversified, so the qualitative result is likely stronger at KELER than the US case the paper simulates.",
+      "policy_relevance_hu": "Közvetlen bemenet az MNB KELER KSZF felügyeletére: egy általános stresszindexre hagyatkozva alulbecsüljük a farok-kockázatot. CCP-specifikus, egyedi stresszmutatók szükségesek. Korlát: US-adatokon futtatott szimuláció; a KELER kitettsége kevésbé diverzifikált, ezért a kvalitatív eredmény valószínűleg még erősebb.",
+      "topics": [
+        "banking-finance"
+      ],
+      "methods": [
+        "structural",
+        "time-series"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "macro-aggregate",
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
       "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2510980133"
+      "review_status": "ai-drafted",
+      "openalex_id": "W2510980133",
+      "policy_instruments": [
+        "KELER KSZF stress monitoring",
+        "CCP supervision (MNB)",
+        "systemic-risk dashboard"
+      ]
     },
     {
       "id": "berlinger-domotor-et-al-2018-frl",
@@ -9446,21 +9555,34 @@
       "url_pdf": "https://www.sciencedirect.com/science/article/pii/S1544612318307165",
       "url_replication": null,
       "abstract": null,
-      "summary_en": null,
+      "summary_en": "What is the 'right' margin a clearing house should demand from its members? This paper formalises the trade-off between counterparty risk (lower when margins are high) and liquidity risk (higher when margins are high, because members must suddenly post more collateral in stress). Using a stylised market model, the authors derive an optimal margin requirement that internalises both. The optimum is not the VaR-based regulatory minimum — it is higher in calm markets (to create buffer) and flatter across volatility regimes, so members are not forced to fire-sell collateral exactly when markets need liquidity.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model with numerical examples calibrated to equity-index futures-market-like parameters. No empirical panel.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Precursor to the 2019 JIFMIM and 2024 FRL papers by the same group; directly relevant for KELER KSZF margin-policy design under EMIR. Supports explicit margin floors combined with counter-cyclical buffers over pure VaR rules. Caveat: the framework is single-asset; multi-asset clearinghouses face additional cross-margining concerns the model does not capture.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance"
+      ],
+      "methods": [
+        "theory",
+        "structural"
+      ],
+      "countries_studied": [
+        "global"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
       "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2900601104"
+      "review_status": "ai-drafted",
+      "openalex_id": "W2900601104",
+      "policy_instruments": [
+        "CCP margin rule (EMIR, KELER KSZF)",
+        "systemic liquidity buffer"
+      ]
     },
     {
       "id": "berlinger-domotor-et-al-2019-jifmim",
@@ -9482,21 +9604,35 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": null,
-      "summary_en": null,
+      "summary_en": "Central counterparties (CCPs) have become systemically important since the 2009 reforms, but their margin models can make crises worse if they demand more collateral exactly when markets are stressed. This paper compares a purely risk-sensitive margin strategy (more collateral when volatility rises) with an anti-cyclical one (smoothing the collateral requirement over the cycle). A stochastic-control framework shows that the anti-cyclical rule reduces the expected loss for the clearing institution itself, without materially increasing counterparty-default exposure. The implication: what looks like the conservative choice (higher margins in bad times) is actually the more dangerous one for systemic stability.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical / stochastic-control model calibrated against stylised facts about margin dynamics and default probabilities from post-2008 equity-index futures markets. No single empirical dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct input for MNB and BSE (Budapest Stock Exchange) CCP oversight and for ESMA-level EMIR Refit debates on counter-cyclical margining. The paper supports margin-floor or stress-period damping rules that prevent mechanical procyclicality. Caveat: the optimum depends on assumed distribution of shocks; stress scenarios where the tail is fatter than modelled would favour somewhat higher margins than the paper's central calibration.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance"
+      ],
+      "methods": [
+        "structural",
+        "theory"
+      ],
+      "countries_studied": [
+        "global"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
       "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2675002205"
+      "review_status": "ai-drafted",
+      "openalex_id": "W2675002205",
+      "policy_instruments": [
+        "CCP margin counter-cyclicality (EMIR / MNB)",
+        "KELER margin methodology",
+        "systemic-risk buffer design"
+      ]
     },
     {
       "id": "berlinger-gosztonyi-et-al-2022-emr",
@@ -9519,21 +9655,37 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Analyzing the interpersonal lending network of a Hungarian village in a disadvantaged region, we find strong intermediary activity and a tiered core-periphery structure. We show that the main motive behind lending is not altruism or profit-seeking, but risk-sharing which is the most accentuated in poor-to-poor and Roma-to-Roma relations. Comparing this informal lending market to a formal interbank market, we find more similarities than differences. In both markets, intermediation is a key element in risk-sharing and an effective tool to cope with liquidity risk. Regulatory and development policies should respect the existing institutions of risk-sharing.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "Does a village's informal lending network look more like a charity or a bank? This paper maps the interpersonal lending network of a Hungarian village in a deprived region and compares it to a regulated interbank market. Core-periphery structure and active intermediation show up in both. The dominant motive in the village is not altruism and not profit-seeking, but risk-sharing — most pronounced in poor-to-poor and Roma-to-Roma ties. Informal intermediation is a way to cope with liquidity shocks in the absence of bank access. The policy-facing conclusion: financial-inclusion programmes that ignore these existing institutions risk destroying them.",
+      "summary_hu": "Úgy néz ki egy falusi személyközi hitelezési hálózat, mint egy jótékonysági szervezet, vagy mint egy bank? A szerzők egy hátrányos helyzetű régióban fekvő magyar falu teljes személyközi hitelezési hálózatát térképezték fel, és a szabályozott bankközi piaccal hasonlították össze. Mindkettőben mag–periféria szerkezet és aktív közvetítés figyelhető meg. A faluban a fő motiváció nem altruizmus és nem profitszerzés, hanem kockázatmegosztás — a legerősebb a szegény–szegény és a roma–roma kapcsolatokban. Az informális közvetítés a banki hozzáférés hiányát pótolja likviditási sokkok idején.",
+      "data_used": "Complete interpersonal-lending network survey of a Hungarian village in a disadvantaged region, including loan amounts, durations, repayment status, ethnicity (Roma / non-Roma), income category. Comparison benchmark: Hungarian interbank unsecured loan market 2003–2012.",
+      "data_used_hu": "Egy hátrányos helyzetű régióban fekvő magyar falu teljes személyközi hitelezési hálózatának kérdőíves felmérése: hitelösszegek, futamidők, visszafizetési státusz, etnikai hovatartozás, jövedelmi kategória. Összehasonlítási alap: a magyar bankközi fedezetlen hitelek piaca, 2003–2012.",
+      "policy_relevance": "For the Hungarian financial-inclusion agenda (MNB, Ministry of Interior rural programmes, EU Cohesion-funded projects), the key takeaway is that forcibly formalising poor communities' credit risks dismantling a functioning risk-sharing institution. Microfinance programmes should layer on top of existing ties, not replace them. Caveat: single village, so external validity is limited; structure may differ by region.",
+      "policy_relevance_hu": "A magyar pénzügyi bevonódási programok (MNB, Belügyminisztérium vidékfejlesztés, EU kohéziós programok) szempontjából a fő üzenet: ha formalizálni próbáljuk a szegény közösségek hitelezési kapcsolatait anélkül, hogy figyelembe vennénk a működő kockázatmegosztási intézményeket, inkább rombolunk, mint építünk. A mikrofinanszírozási programok ezekre az informális kapcsolatokra épüljenek, ne helyettesítsék. Korlát: egy faluról van szó, így a kép nem feltétlenül általánosítható más régiókra.",
+      "topics": [
+        "banking-finance",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "panel-data",
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "survey",
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
       "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4311257613"
+      "review_status": "ai-drafted",
+      "openalex_id": "W4311257613",
+      "policy_instruments": [
+        "financial inclusion / bevonódási programok",
+        "rural microfinance",
+        "MNB consumer-credit policy"
+      ]
     },
     {
       "id": "berlinger-gramlich-et-al-2024-ecsys",
@@ -9556,21 +9708,37 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": null,
-      "summary_en": null,
+      "summary_en": "During COVID-19 governments launched unprecedented firm-support programmes (wage subsidies, tax deferrals, loan guarantees). This paper asks whether their effectiveness at preserving firm resilience depended on a country's culture and political institutions. Using cross-country firm-level data, the authors show that the returns to generous government responses were larger in countries with high interpersonal trust and stronger political institutions — and near-zero in low-trust, weakly-governed settings. Same euro of support, very different outcome. The implication is that firm-support design cannot be imported wholesale; it interacts with institutional quality.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Cross-country firm-level panel covering the pandemic period (2020–2022). Merges firm financials (Orbis / Compustat-type sources) with Oxford Government Response Tracker measures, Hofstede-style cultural dimensions, and Worldwide Governance Indicators.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian fiscal-crisis response design: a 'copy Germany's Kurzarbeit' reflex overstates the gain. Cultural / institutional complementarities matter, so Hungarian-calibrated crisis instruments will out-perform direct copies of Northern European schemes. Caveat: the paper uses broad national aggregates (trust, governance); within-country heterogeneity is likely just as important but not captured here.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "macroeconomics",
+        "firms-productivity",
+        "political-economy"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "global"
+      ],
+      "data_types": [
+        "firm-level-dataset",
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
       "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4392115780"
+      "review_status": "ai-drafted",
+      "openalex_id": "W4392115780",
+      "policy_instruments": [
+        "wage-subsidy design (Kurzarbeit / bértámogatás)",
+        "fiscal crisis response",
+        "loan-guarantee schemes"
+      ]
     },
     {
       "id": "berlinger-kereszturi-et-al-2021-jifmim",
@@ -9593,21 +9761,38 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We investigate the monitoring role of the media, its detection and deterrence effects in corporate operational losses. Relying on our theoretical model, we analyze 8,144 loss events from 132 countries between 2008 and 2019. Controlling for factors related to governance, living standards, business cycles, and firm size, we find that press freedom has a significant positive effect both on the frequency and severity of the observed operational losses. An improvement of one standard deviation in press freedom yields around 43% more and 71% higher public losses. Our estimations on hidden losses indicate that the worldwide detection rate of operational losses might be smaller than 53% and 13% in terms of number and value, respectively. Furthermore, in countries with a tightly controlled media, hidden operational risks might be tremendous. We suggest using public databases more carefully, adjusting operational risk models for the reporting bias, and promoting press freedom to improve corporate governance structures.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "Do free media actually catch more corporate fraud, or do they just amplify what regulators already know? This paper studies 8,144 operational-loss events from 132 countries between 2008 and 2019. After controlling for governance, GDP per capita, business cycles and firm size, a one-standard-deviation improvement in press freedom is associated with about 43% more reported operational loss events and 71% higher reported losses — consistent with media playing a genuine monitoring role, not just a reporting one. Simulation of hidden losses suggests the worldwide detection rate might be below 53% in count terms and 13% in value. In media-repressed countries the invisible iceberg is much larger.",
+      "summary_hu": "Valóban több vállalati csalást lepleznek le a szabad sajtóval rendelkező országokban, vagy csak hangosabban beszélnek arról, amit a szabályozók amúgy is tudnak? A tanulmány 8 144 vállalati működési kockázati veszteségeseményt vizsgál 132 országból 2008 és 2019 között. Az irányítási, jövedelmi, konjunkturális és vállalatméret-kontrollok mellett a sajtószabadság egy szórásnyi javulása körülbelül 43%-kal több regisztrált veszteségeseménnyel és 71%-kal magasabb bejelentett veszteséggel jár együtt — ami arra utal, hogy a média valódi felügyeleti szerepet tölt be. A rejtett veszteségeket modellező becslés szerint a világszintű feltárási arány darabszámban 53, értékben 13 százalék alatt lehet.",
+      "data_used": "8,144 corporate operational-loss events from 132 countries, 2008–2019 (Operational Riskdata eXchange Association / ORX News). Merged with country-level controls on governance, income, business cycle, firm size, and the World Press Freedom Index.",
+      "data_used_hu": "8 144 vállalati működési-kockázati veszteségesemény 132 országból, 2008–2019 (ORX News adatbázis). Ország szintű kontrollok: kormányzás, egy főre jutó GDP, konjunktúra, vállalatméret, World Press Freedom Index.",
+      "policy_relevance": "For Hungary and comparable countries, the finding has two direct implications. First, MNB supervision and audit rules that rely on publicly reported operational-loss data understate risk where the press is constrained — operational-risk capital requirements should adjust for this reporting bias. Second, press freedom itself is a governance instrument, not just a political one. Caveat: the detection-rate estimates come from a structural model with strong parametric assumptions; the qualitative result (more press → more detection) is more robust than the exact 43%/71% numbers.",
+      "policy_relevance_hu": "Két szakpolitikai következmény. Egyrészt az MNB felügyelet és az auditszabályok által használt nyilvános veszteségadatok torzítottak ott, ahol a sajtó kötött — a működési-kockázati tőkekövetelmények kalibrálásakor ezt a bejelentési torzítást figyelembe kell venni. Másrészt a sajtószabadság nemcsak politikai, hanem vállalatirányítási eszköz is. Korlát: a rejtett-veszteség becslések parametrikus feltevésekre épülnek; a kvalitatív eredmény robusztusabb, mint a konkrét 43/71 százalékos pontbecslés.",
+      "topics": [
+        "banking-finance",
+        "political-economy"
+      ],
+      "methods": [
+        "panel-data",
+        "structural"
+      ],
+      "countries_studied": [
+        "global",
+        "HU"
+      ],
+      "data_types": [
+        "firm-level-dataset",
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
       "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4200493131"
+      "review_status": "ai-drafted",
+      "openalex_id": "W4200493131",
+      "policy_instruments": [
+        "operational risk capital calibration (MNB)",
+        "press freedom as governance input",
+        "Pillar-2 supervisory review"
+      ]
     },
     {
       "id": "berlinger-kiss-et-al-2022-frl",
@@ -9650,7 +9835,7 @@
       ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-24",
       "review_status": "ai-drafted",
       "openalex_id": "W4292086410",
       "policy_instruments": [
@@ -9811,21 +9996,35 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "A vállalati fedezési szokások magyarázatára szolgáló modellünkben az optimális fedezeti arány egy kétkomponensű hasznosság maximalizálásából vezethető le. A teljes vállalati hasznosság mellett a célfüggvényben megjelenik a pénzügyi vezető azon várakozása is, hogy fedezeti döntését utólagosan nem a teljes, hanem csak a pénzügyi eredmény alapján ítélik meg. Ha a menedzser biztos lehet abban, hogy bónusza a teljes vállalati eredménytől függ, akkor más ösztönzők hiányában a modellünkből levezethető optimális fedezeti arány megegyezik a szakirodalom klasszikus modelljeinek eredményével. Ha viszont a pénzügyi vezető arra számít, hogy fedezési döntésének utólagos megítélése kizárólag a pénzügyi eredményen alapul, az optimális kockázatkerülő döntése az lesz, hogy egyáltalán nem fedez. E két, ellentétes irányú komponens súlyának függvényében alakul az optimális fedezeti arány. Elméleti modellünk empirikus megerősítéséhez a magyar nagyvállalatok fedezési gyakorlatát vizsgáltuk. A rendelkezésre álló minta kis mérete miatt az eredmény nem lett szignifikáns, azonban megfelel az elméleti modell alapján vártnak.*&#13;\\nJournal of Economic Literature (JEL) kód: G13, G32, G34.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "A theoretical model of corporate hedging that asks: what do we get when the CFO's bonus depends only on the financial (not operating) result? The optimal hedge ratio becomes a weighted average of two extremes — full textbook minimum-variance hedging (if the bonus is tied to the full firm P&L) and zero hedging (if only financial P&L matters, because hedging then looks like a pure speculative bet after the fact). Survey of Hungarian large-firm hedging practice is consistent with the model direction but sample size is too small for statistical significance.",
+      "summary_hu": "Vállalati fedezési modell, amely azt vizsgálja: mi lesz az optimális fedezeti arány, ha a pénzügyi vezető bónusza csak a pénzügyi (nem a teljes) eredménytől függ? Az optimális fedezeti arány két szélsőérték súlyozott átlaga lesz: teljes tankönyvi minimum-variancia fedezés (ha a bónusz a teljes vállalati eredményhez kötődik), és nulla fedezés (ha csak a pénzügyi eredmény számít, mert ilyenkor a fedezés utólag spekulatív fogadásnak tűnik). A magyar nagyvállalati fedezési gyakorlat kérdőíves felmérése a modell irányával összhangban van, de a mintaméret kicsi a szignifikanciához.",
+      "data_used": "Theoretical model plus a small survey of Hungarian large-firm FX hedging practice. Survey captures hedging ratios, bonus structure, and firm FX exposure.",
+      "data_used_hu": "Elméleti modell és egy kis méretű kérdőíves felmérés a magyar nagyvállalati devizaárfolyam-fedezési gyakorlatról. A felmérés tartalmazza a fedezeti arányokat, a bónuszstruktúrát és a cég devizakitettségét.",
+      "policy_relevance": "Useful input for MNB and Corvinus / Budapest Business School education on corporate risk management. Suggests that changes in managerial incentive design (linking bonuses to full, not partial, P&L) can have real effects on corporate FX-hedging activity. Caveat: survey is small, statistically non-significant; interpret the model as a framework rather than a tested empirical claim.",
+      "policy_relevance_hu": "Hasznos bemenet az MNB-nek és a Corvinus / BGE vállalati kockázatkezelési oktatásának. A modell szerint a menedzseri ösztönzők tervezése (bónusz a teljes, nem a részleges P&L-hez kötve) érzékelhető hatással van a vállalati fedezési tevékenységre. Korlát: a felmérés kis mintás, statisztikailag nem szignifikáns; a modellt inkább keretként, mint bizonyított állításként érdemes kezelni.",
+      "topics": [
+        "banking-finance",
+        "firms-productivity"
+      ],
+      "methods": [
+        "theory",
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
       "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2885042615"
+      "review_status": "ai-drafted",
+      "openalex_id": "W2885042615",
+      "policy_instruments": [
+        "vállalati kockázatkezelési szabályozás",
+        "menedzseri ösztönzőrendszer"
+      ]
     },
     {
       "id": "biro-2012-jope",
@@ -12659,21 +12858,35 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "A momentumstratégia az egyik legelterjedtebb és leggyakrabban vizsgált tőzsdei stratégia. A nemzetközi és a magyar piacokon elvégzett kutatások eredményei megmutatták, hogy a momentum - azaz a részvények múltbeli teljesítménye - szignifikánsan képes előre jelezni a következő időszak várható hozamát. Számos lehetséges magyarázat között a momentumstratégia jövedelmezőségének egyik jelentős magyarázata a viselkedési tudományokra épít. A tanulmány célja a részvények hozamának előrejelzésére használt momentumstratégia vizsgálata a magyar tőkepiacon a gazdasági várakozások alakulásának függvényében. Ha a momentumstratégia jövedelmezősége valóban az emberi viselkedés miatt van jelen, akkor a túlzottan pozitív gazdasági várakozások esetén erősebb hatás várható a stratégiától.* Journal of Economic Literature (JEL) kód: G11, G12.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "Can the textbook momentum strategy — buy past winners, sell past losers — make money on the Hungarian stock market, and does it depend on the state of economic expectations? Behavioral asset-pricing theory predicts that momentum profits should be larger when economic expectations are excessively positive (because investors over-react more in sentiment-heavy regimes). The authors test this on Hungarian stocks and find results consistent with the behavioral story: momentum earns higher returns when measured economic optimism is high. A rare direct test of behavioral momentum theory on Central European data.",
+      "summary_hu": "Működik-e a momentumstratégia a magyar tőzsdén — érdemes-e a múlt heti győzteseket venni és a veszteseket eladni —, és függ-e ez a gazdasági várakozások szintjétől? A viselkedésalapú eszközárazás szerint a momentum profit nagyobb, amikor a gazdasági várakozások túlzottan pozitívak, mert a túlreagálás ilyenkor erősebb. A szerzők a magyar részvénypiacra tesztelik ezt, és a viselkedési elmélettel összhangban azt találják, hogy a momentum hozama magas a gazdasági optimizmus időszakaiban.",
+      "data_used": "Hungarian stock-market daily/monthly returns plus a constructed measure of economic expectations (consumer / business-confidence indices) over the sample period.",
+      "data_used_hu": "Magyar részvénypiaci napi/havi hozamok; egy összeállított gazdasági-várakozás mérőszám (fogyasztói/üzleti konjunktúraindexek) a mintaperiódusban.",
+      "policy_relevance": "Less directly policy-relevant, more input for the MNB asset-pricing research team and for domestic institutional investors (pension funds, MNB reserves). Caveat: single market, limited sample; generalisation to other CEE markets would require replication.",
+      "policy_relevance_hu": "Kevésbé közvetlen szakpolitikai jelentőségű, inkább háttéranyag az MNB eszközárazási kutatásához és a hazai intézményi befektetőknek (nyugdíjalapok, MNB tartalékok). Korlát: egyetlen piac, korlátozott minta; más KKE piacokra replikálni kell.",
+      "topics": [
+        "banking-finance",
+        "behavioral"
+      ],
+      "methods": [
+        "time-series",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
       "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W3103992514"
+      "review_status": "ai-drafted",
+      "openalex_id": "W3103992514",
+      "policy_instruments": [
+        "MNB tartalékkezelés (háttér)",
+        "intézményi befektetői stratégia"
+      ]
     },
     {
       "id": "csillag-neszveda-2022-ksz",
@@ -12694,21 +12907,35 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "A hatékony piacok elmélete szerint egy adott részvény árfolyama tartalmazza az összes piacon elérhető információt, az empirikus kutatások azonban megmutatták, hogy a piacok gyakran nem felelnek meg az információs hatékonyság kritériumának. Az árfolyamsodródás szerint a gyorsjelentésekben közzétett információk nem azonnal épülnek be a részvényárfolyamokba, hanem a közzététel után még hetekig kifejtik hatásukat. Tanulmányunkban megvizsgáljuk, hogy a gyorsjelentés utáni árfolyamsodródás megfigyelhető-e a magyar piacon a 2009–2019 közötti időszakban. Az erre a stratégiára épülő portfóliók átlagos havi hozama a vizsgált időszakban 2,04 százalék. A kiugró (outlier) értékek kezelése után a Fama–MacBeth-féle regressziókban az árfolyamsodródást megragadó változó együtthatója, egyedül szerepeltetve, nullától különböző hozamot eredményez. A mögöttes befektetői viselkedés feltárásához megvizsgáljuk, hogy a hatás mennyire köszönhető a befektetők korlátozott figyelmének. Abban az esetben, ha a pénteki napokon nem valósítjuk meg a kereskedést, nagymértékben csökken a stratégiával elérhető hozam mértéke, azonban továbbra is szignifikáns marad. Ez azt sugallja, hogy ugyan nem a korlátozott figyelem hajtja teljes mértékben az árfolyamsodródást, azonban nagymértékben hat rá, hiszen pénteken a befektetők a heti határidők betartása és a hétvége közelsége miatt valószínűbb, hogy lemaradnak egy-egy jelentésről, így ez az információ hosszabb idő alatt épülhet be az árfolyamokba.&#13;\\nJournal of Economic Literature (JEL) kód: G11, G12.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "After a firm issues a surprising earnings announcement, its share price typically keeps drifting in the same direction for weeks — the 'post-earnings-announcement drift' (PEAD) anomaly, documented in the US since the 1980s and inconsistent with efficient markets. The authors test whether PEAD shows up on the Hungarian equity market, 2009–2019. The average monthly return on a PEAD-following portfolio is 2.04%. Removing Friday trading days (when investors are distracted and reports are less fully absorbed) substantially reduces the return, suggesting that limited attention is a partial but not complete driver.",
+      "summary_hu": "A tőzsdei gyorsjelentések utáni árfolyamsodródás (PEAD) egy jól ismert anomália: a részvényár a bejelentést követően még hetekig ugyanabban az irányban sodródik, ami ellentmond a piaci hatékonyságnak. A szerzők a magyar részvénypiacon tesztelik ezt 2009 és 2019 között. A stratégia átlagos havi hozama 2,04%. A pénteki napok kivétele (amikor a befektetők kevésbé figyelmesek) jelentősen csökkenti a hozamot, ami arra utal, hogy a korlátozott figyelem részben, de nem teljesen magyarázza a jelenséget.",
+      "data_used": "Hungarian Stock Exchange (BSE / BÉT) daily and monthly returns, 2009–2019, matched with firm earnings-announcement dates and surprises. Fama–MacBeth regressions after outlier treatment.",
+      "data_used_hu": "A BÉT napi és havi hozamai 2009 és 2019 között, bejelentési napokkal és gyorsjelentés-meglepetésekkel párosítva. Fama–MacBeth regressziók kiugróérték-kezelés után.",
+      "policy_relevance": "Relevant to the MNB's market-development agenda for the Hungarian stock market — PEAD strength indicates a relative lack of professional arbitrage activity on the BÉT. Market-making / liquidity incentives that increase professional attention could reduce PEAD and improve price efficiency. Caveat: limited stock universe on BÉT; the result is a revealed inefficiency, not necessarily an easily exploitable strategy net of costs.",
+      "policy_relevance_hu": "Releváns az MNB tőkepiaci fejlesztési programjához: a PEAD erőssége azt mutatja, hogy a BÉT-en viszonylag kevés a professzionális arbitrázstevékenység. A likviditás-szolgáltatási ösztönzők, amelyek több szakmai figyelmet vonzanak, csökkenthetik a PEAD-et és javíthatják az árazási hatékonyságot. Korlát: kicsi a BÉT részvényuniverzuma; költségek nélkül kihasználható stratégiát nem feltétlenül jelent.",
+      "topics": [
+        "banking-finance",
+        "behavioral"
+      ],
+      "methods": [
+        "panel-data",
+        "time-series"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
       "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4289921093"
+      "review_status": "ai-drafted",
+      "openalex_id": "W4289921093",
+      "policy_instruments": [
+        "tőkepiaci likviditás-fejlesztés (MNB / BÉT)",
+        "árjegyzői rendszer"
+      ]
     },
     {
       "id": "csoka-2016-frl",
@@ -13396,21 +13623,34 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "A nemzetközi egyetemi rangsorokban a tudományos teljesítmény mérése kap nagy hangsúlyt, míg a magyar egyetemi rangsorolási gyakorlat kisebb mértékben jeleníti meg ezt, és a nemzetközi irodalomtól eltérően nem a publikációs teljesítmény alapján számolja. Tanulmányunk a Magyar Tudományos Művek Tárhelyén (MTMT) alapuló egyedi adatok segítségével arra ad több lehetséges példát, hogyan lehetne egy fontos szempontot a tudományos publikációk alapján beépíteni a magyar egyetemi rangsorokba. Azt is megmutatjuk, hogy számos megközelítés alkalmazható, de ezek nagyon hasonló következtetésre jutnak. Tehát a tudományos publikáción alapuló új szempont robusztus eredményt ad.* &#13;\\nJournal of Economic Literature (JEL) kód: I23.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "How should Hungarian university rankings weight research performance? International rankings lean heavily on bibliometrics; Hungarian rankings much less so, and measure research less by publication output. Using individual-level data from MTMT (Hungarian Scientific Bibliography), the authors test several bibliometrics-based aggregation approaches and show that the rankings they produce are very similar to each other — i.e. the result is robust to methodological choice. The implication: adding a publication-based component to Hungarian rankings is methodologically easy and would reliably shift attention toward research performance.",
+      "summary_hu": "Hogyan érdemes a tudományos teljesítményt mérni a magyar gazdasági képzések rangsorában? A nemzetközi egyetemi rangsorok a bibliometriára építenek; a magyar gyakorlat kisebb súllyal és nem publikációs alapon. Az MTMT egyéni szintű adatait felhasználva a szerzők több bibliometria-alapú aggregációs módszert tesztelnek, és megmutatják, hogy a különböző megközelítések nagyon hasonló eredményre jutnak — a rangsorok módszertani választásra robusztusak. A publikációs komponens bevezetése tehát módszertani szempontból egyszerű és megbízható lenne.",
+      "data_used": "MTMT (Magyar Tudományos Művek Tára) individual-level publication and citation records for faculty at Hungarian economics programmes. Programme-level aggregation for ranking exercises.",
+      "data_used_hu": "MTMT (Magyar Tudományos Művek Tára) egyéni szintű publikációs és idézettségi adatok a magyar gazdasági képzések oktatóiról. Képzés szintű aggregálás rangsorokhoz.",
+      "policy_relevance": "Direct input for the Innovation and Technology Ministry / OH higher-education ranking methodology for economics programmes. Supports adding a publication-based weight without paralysis by methodological choice. Caveat: economics programmes only; field-specific adjustments would be needed for other disciplines.",
+      "policy_relevance_hu": "Közvetlen bemenet a KIM / OH felsőoktatási rangsor-módszertannak a gazdasági képzések esetében. Támogatja egy publikációs komponens bevezetését — a módszertani választás nem akadályozza érdemben a folyamatot. Korlát: csak a gazdasági képzésekre; más területekre szakági kalibrálás kell.",
+      "topics": [
+        "education-skills",
+        "methods"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
       "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2964368019"
+      "review_status": "ai-drafted",
+      "openalex_id": "W2964368019",
+      "policy_instruments": [
+        "felsőoktatási rangsor-módszertan (KIM/OH)",
+        "MTMT alapú értékelés"
+      ]
     },
     {
       "id": "csoka-pinter-2015-tbejo",
@@ -14091,21 +14331,34 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": null,
-      "summary_en": null,
+      "summary_en": "When two parties have an asymmetric history (one knows something about past behaviour the other doesn't), negotiations run worse than when the information asymmetry is symmetric. The authors design an experimental setup that isolates asymmetric-history effects from other sources of asymmetry. Subjects with asymmetric private information reach fewer deals, reach lower joint payoffs, and express more negative feelings about the process. The result is relevant for any negotiation where background dossiers are unevenly shared — workplace grievance, divorce mediation, supplier disputes.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Laboratory economics experiment with ~hundreds of subjects. Treatments vary whether parties have symmetric vs asymmetric access to a history of prior behaviour. Outcomes: deal rate, joint surplus, self-reported affect.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant to mediation and dispute-resolution design in Hungarian labour relations, consumer arbitration, and civil mediation. Supports protocols that either level history (both parties see the record) or carefully protect the asymmetry (one side doesn't know the other has it). Not sector-specific.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "behavioral"
+      ],
+      "methods": [
+        "rct",
+        "theory"
+      ],
+      "countries_studied": [
+        "global"
+      ],
+      "data_types": [
+        "field-experiment"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
       "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W1843245541"
+      "review_status": "ai-drafted",
+      "openalex_id": "W1843245541",
+      "policy_instruments": [
+        "mediation / dispute-resolution protocol",
+        "workplace grievance procedure"
+      ]
     },
     {
       "id": "dia-mond-koszegi-2002-jpube",
@@ -14197,21 +14450,34 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": null,
-      "summary_en": null,
+      "summary_en": "Classical hedging theory assumes a frictionless forward market and unlimited funding. Real firms face both a bias in the forward curve (hedge is costly on average) and a hard funding limit on the margin they can post. This paper derives the optimal hedge ratio for a risk-averse firm under both frictions together. The answer departs substantially from the textbook minimum-variance hedge: the liquidity constraint makes the firm hedge less as the bias grows, because expected funding-cost losses can outweigh variance reduction. Gives treasurers a sharper decision rule than one-factor models.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical / analytical paper. Calibration examples use standard foreign-exchange forward parameters for EUR/HUF-type markets.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant to Hungarian corporate treasury practice and indirectly to MNB supervision of large corporate FX exposures. Supports a more conservative view of hedging incentives for liquidity-constrained firms than the standard one-period variance-minimising rule. Caveat: single-period, one-asset; extension to multi-period dynamic hedging would be the natural next step.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "firms-productivity"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
       "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2555537012"
+      "review_status": "ai-drafted",
+      "openalex_id": "W2555537012",
+      "policy_instruments": [
+        "corporate FX hedging guidelines",
+        "MNB supervisory treatment of FX exposures"
+      ]
     },
     {
       "id": "domotor-illes-et-al-2023-jifmim",
@@ -14233,21 +14499,39 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This paper analyzes the performance of peer-to-peer investments, the potential benefits of their information processing and the investor returns, based on the entire portfolio of the Estonian platform Bondora. We found that the platform's scoring model relies on different default probabilities across countries and is weak at predicting default within countries. Alternative information could improve the models, but our analysis could not confirm this benefit of the platform. The average internal rate of return on closed transactions was –4.17%, and 42% of the loans end with a negative IRR. We concluded that P2P borrowers in the European market are mainly high-risk, bank ineligible clients, accepting even loan-sharking level interest rates, which excludes altruistic motives of investors. Even so, investors are not compensated for the credit risk.",
-      "summary_en": null,
+      "summary_en": "Peer-to-peer (P2P) lending platforms promise to cut out the bank — but do they deliver? Using the entire portfolio of the Estonian platform Bondora, the authors show that the platform's credit-scoring model relies on country dummies more than on genuine within-country default prediction. Average internal rate of return on closed loans is negative (−4.17%) and 42% of loans end with a negative IRR. European P2P borrowers look like high-risk, bank-ineligible customers paying loan-shark rates, so investors are not compensated for the default risk they take. The altruistic-investment narrative is not borne out in the data; nor is the 'better data, better pricing' narrative.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Full loan-level portfolio of the Estonian P2P platform Bondora, covering all loans across borrower countries (EE, FI, ES, others). Includes platform scoring, default realisations, loan terms and realised IRR. Closed-loan subset used for return computation.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly relevant to MNB / Pénzügyminisztérium consumer-protection policy around P2P lending platforms: the evidence says these platforms do not represent a credit-risk-free alternative, and retail investors are systematically underpaid for the risk. Disclosure rules should require platforms to show realised cohort-level IRR, not projected. Caveat: one platform, European context — generalisation to other platforms (LendingClub, Prosper) is not direct.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "behavioral"
+      ],
+      "methods": [
+        "panel-data",
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "EE",
+        "FI",
+        "ES",
+        "EU"
+      ],
+      "data_types": [
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
       "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4383559188"
+      "review_status": "ai-drafted",
+      "openalex_id": "W4383559188",
+      "policy_instruments": [
+        "P2P platform disclosure rules",
+        "retail-investor credit-risk warnings",
+        "consumer credit licensing"
+      ]
     },
     {
       "id": "domotor-olvedi-2021-ksz",
@@ -14268,21 +14552,35 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Az elmúlt években a gazdaság számos területén elindult az a folyamat, amelynek eredményeként az egyes termékek és szolgáltatások vevői és eladói közvetlenül, a közvetítői szegmens kiiktatásával találnak egymásra. Ezt a folyamatot a digitalizáció és az egyre innovatívabb technológiai megoldások is segítik. A hagyományos pénzügyi közvetítők mellett sorra jelennek meg azok az új közvetítők, amelyek digitális megoldást kínálnak nemcsak a kiegészítő banki szolgáltatások, hanem a bankok fő tevékenységének számító hitelezés területén is. A személyközi hitelezés keretében egy online platform közvetlenül köti össze a hitelt kereső ügyfeleket a befektetőkkel, azzal a céllal, hogy a közvetítői szegmens kiiktatásával költséghatékonyabb megoldást kínáljon. Tanulmányunkban a személyközi hitelezés jellemzőit vizsgáljuk, összehasonlítjuk az online platformot üzemeltető közvetítőt a hagyományos pénzügyi közvetítőkkel. Azt vizsgáljuk, hogy ez a fajta közvetítés mennyiben valóságos alternatívája a banki hitelezésnek, illetve mi adhatja a platformok létjogosultságát. A vizsgált közvetítők pénzügyi adatai és legújabb eseményei alapján úgy tűnik, hogy az online hitelközvetítők egy bizonyos méret felett szükségszerűen bankká válnak, vagyis a platformok leginkább egy kedvező belépési lehetőséget biztosítanak a pénzügyi közvetítői piacra.*&#13;\\nJournal of Economic Literature (JEL) kód: G20, G21, G29, G50",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "Do peer-to-peer (P2P) lending platforms actually replace banks, or do they end up becoming banks? This review paper compares major P2P platforms to traditional financial intermediaries on function, regulation, and economics. The picture that emerges is not a revolution: beyond a certain scale, platforms inevitably move towards bank-like activities (credit risk warehousing, maturity transformation). The real value of P2P platforms is as a low-cost entry channel into financial intermediation for new players, not as a structural alternative. The paper pre-figures the empirical 2023 JIFMIM analysis by the same author.",
+      "summary_hu": "A személyközi (P2P) hitelezési platformok valóban helyettesítik a bankokat, vagy maguk is bankokká válnak? Az áttekintő tanulmány összehasonlítja a főbb P2P platformokat a hagyományos pénzügyi közvetítőkkel funkció, szabályozás és gazdaságtan szempontjából. A kép nem forradalmi: egy bizonyos méret felett a platformok elkerülhetetlenül bankszerű tevékenységek felé mozdulnak el (hitelkockázat-raktározás, lejárati transzformáció). A P2P platformok tényleges értéke nem a strukturális alternatíva, hanem egy olcsó belépési csatorna új szereplők számára a pénzügyi közvetítői piacra.",
+      "data_used": "Review and comparative analysis of publicly available financial statements and regulatory filings of major P2P lending platforms (Bondora, LendingClub, Zopa) and of a set of traditional banks. Key recent events and platform pivots.",
+      "data_used_hu": "A főbb P2P hitelezési platformok (Bondora, LendingClub, Zopa) és hagyományos bankok nyilvános beszámolóinak és szabályozói adatszolgáltatásának összehasonlító elemzése. Platformok legújabb pivotjai és eseményei.",
+      "policy_relevance": "Relevant to MNB licensing policy and to the Ministry of Finance's debate on P2P-platform regulation. Suggests that platforms past a threshold size should be treated as credit institutions, closing a prudential gap. Caveat: analytical / descriptive, not causal.",
+      "policy_relevance_hu": "Releváns az MNB engedélyezési politikájához és a Pénzügyminisztérium P2P-szabályozási vitájához. Azt sugallja, hogy a küszöbméret feletti platformokat hitelintézetként kellene kezelni, így zárva egy prudenciális rést. Korlát: elemző / leíró, nem oksági.",
+      "topics": [
+        "banking-finance"
+      ],
+      "methods": [
+        "theory",
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "EU",
+        "HU"
+      ],
+      "data_types": [
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
       "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W3192292311"
+      "review_status": "ai-drafted",
+      "openalex_id": "W3192292311",
+      "policy_instruments": [
+        "P2P platform credit-institution licensing",
+        "fintech prudential regulation (MNB)"
+      ]
     },
     {
       "id": "donald-hsu-et-al-2014-jbes",
@@ -15097,6 +15395,57 @@
       "last_reviewed_at": "2026-04-22",
       "review_status": "metadata-fetched",
       "openalex_id": "W2114224640"
+    },
+    {
+      "id": "endresz-harasztosi-2014-emr",
+      "title": "Corporate foreign currency borrowing and investment: The case of Hungary",
+      "authors": [
+        "Marianna Endrész",
+        "harasztosi-peter"
+      ],
+      "publication_type": "article",
+      "journal": "Emerging Markets Review",
+      "year": 2014,
+      "volume": "21",
+      "issue": null,
+      "pages": "265-287",
+      "doi": "10.1016/j.ememar.2014.09.003",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1016/j.ememar.2014.09.003",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "Hungarian firms borrowed heavily in foreign currency before 2008. When the forint depreciated, the value of their FX liabilities jumped. Did this constrain investment? Using detailed firm-level data, the authors document a large negative effect of FX debt on corporate investment after the crisis: the more a firm was borrowed in FX at the start, the more its investment fell when the forint weakened. The channel is balance-sheet-mediated: FX-debt firms lose net worth on depreciation and cut capital expenditure. A textbook demonstration of the 'currency mismatch' balance-sheet channel in a CEE context.",
+      "summary_hu": "A magyar vállalatok 2008 előtt erősen deviza-hitelből finanszírozták magukat. A forint leértékelődésekor a devizakötelezettségek értéke megugrott. Korlátozta-e ez a beruházásokat? Részletes vállalati szintű adatokon a szerzők nagy negatív hatást mutatnak ki: minél jobban devizaadós volt egy cég a válság előtt, annál nagyobbat esett a beruházása a forint gyengülésekor. A csatorna mérlegalapú: a devizás vállalatok nettó vagyona csökken a leértékeléssel, és ezért csökkentik a beruházásokat. Tankönyvszerű példa a 'currency mismatch' mérleghatásra a KKE régióban.",
+      "data_used": "Hungarian firm-level financial and investment data for the years around 2008 (NAV tax filings / MNB balance-sheet data). Firms classified by share of FX liabilities pre-crisis. Panel estimation with firm fixed effects.",
+      "data_used_hu": "Magyar vállalati szintű pénzügyi és beruházási adatok a 2008 körüli évekből (NAV / MNB mérlegadatok). Vállalatok osztályozása a válság előtti devizahitel-arány szerint. Panelbecslés cég-fix hatásokkal.",
+      "policy_relevance": "Foundational evidence for MNB's post-crisis foreign-currency-lending regulation (forintosítás, limits on FX consumer lending, corporate FX rules). Supports the view that prudential limits on FX exposure are justified on real-economy grounds, not only on consumer-protection grounds. Caveat: the crisis was idiosyncratic; effect size is likely bounded to events with large HUF depreciation.",
+      "policy_relevance_hu": "Alapozó bizonyíték az MNB válság utáni deviza-hitelezési szabályozásához (forintosítás, lakossági és vállalati deviza-hitelezési korlátok). Támogatja azt az álláspontot, hogy a devizakitettségre vonatkozó prudenciális korlátok reálgazdasági alapon is indokoltak, nem csak fogyasztóvédelmi alapon. Korlát: idioszinkratikus válság; a hatás mérete valószínűleg nagy HUF-gyengülésekhez kötött.",
+      "topics": [
+        "banking-finance",
+        "firms-productivity",
+        "macroeconomics"
+      ],
+      "methods": [
+        "diff-in-diff",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-firm"
+      ],
+      "featured": false,
+      "added_at": "2026-04-24",
+      "last_reviewed_at": "2026-04-24",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2143162058",
+      "policy_instruments": [
+        "forintosítás",
+        "MNB devizakitettségi korlát",
+        "corporate FX prudenciális szabály"
+      ]
     },
     {
       "id": "eriksson-lengyel-2018-eg",
@@ -17736,21 +18085,36 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "In 2022, Russian military operations began in Ukraine, which surprised some, while others might have expected it. We investigate whether the expectations began to be priced in the equity markets before the operations. To estimate the start of information incorporation, we use the adjusted returns of 62 country-level stock market data assuming informed traders using a non-linear model and rolling-window regressions. We find that the equity markets started to price the conflict at least 50 days before the invasion, and approximately one-third of the information was incorporated on the event day.",
-      "summary_en": null,
+      "summary_en": "Did equity markets actually anticipate the February 2022 Russian invasion of Ukraine, or did it come as a surprise? The authors analyse adjusted returns of 62 country-level stock indices using a non-linear model and rolling-window regressions, allowing informed traders to anticipate the event. Evidence shows markets began pricing the conflict at least 50 days before the invasion, and roughly one-third of the eventual information content was incorporated into prices on the event day itself. Geopolitical risk was partially priced in well before Western intelligence publicly confirmed the invasion plan.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Daily equity-index returns for 62 countries over the period surrounding February 2022. Event-study design with non-linear anticipation windows and rolling regressions for detecting price-discovery onset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct input for the MNB geopolitical-risk framework and for Hungarian institutional-investor stress testing. Supports treating equity-market signals as a legitimate real-time geopolitical indicator alongside intelligence assessments. Caveat: detection relies on estimated structural breaks, which are inherently noisy; the 50-day figure is indicative, not precise.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "political-economy"
+      ],
+      "methods": [
+        "time-series",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "global"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
       "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4385617684"
+      "review_status": "ai-drafted",
+      "openalex_id": "W4385617684",
+      "policy_instruments": [
+        "MNB geopolitical-risk stress test",
+        "sovereign-CDS monitoring",
+        "reserve-asset allocation"
+      ]
     },
     {
       "id": "gross-layton-et-al-2022-aeri",
@@ -17988,21 +18352,34 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This study investigates the relationship between Emerging Markets Financial Stress Index (EMFSI) and currency returns, uncertainty and liquidity of eight emerging economies, using MODWT, Wavelet Coherence, TVP-VAR analyses. The results indicate that interactions become more pronounced during political events rather than economic developments. Energy market developments also appear to be significant periods for the interaction of variables, especially for Saudi Arabia and the UAE. Finally, the findings related to investment horizon suggest that short-term spillovers may be linked to medium- to long-term correlations between the EMFSI and currency pairs. This could serve as an early warning for policymakers and investors. • Financial stress is investigated using MODWT, Wavelet Coherence, TVP-VAR. • EMFSI emerges as a valuable tool for tracking political risks in emerging economies. • Energy market developments appear to be significant periods for the interactions of currency markets and the EMFSI. • Associations between the EMFSI and currency market variables strengthen with increasing frequency bands.",
-      "summary_en": null,
+      "summary_en": "Does emerging-market financial stress actually move with currency-market uncertainty, and at what horizon? Using MODWT, wavelet-coherence, and TVP-VAR tools on eight emerging economies (including Saudi Arabia and the UAE), the authors show that the Emerging Markets Financial Stress Index (EMFSI) co-moves much more with currency returns during political stress than during pure economic shocks. Energy-market episodes are also high-coherence windows. Short-term spillovers appear to run to medium/long-term correlations, offering a potential early-warning channel for policymakers and investors.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Daily data for 8 emerging economies (incl. Saudi Arabia, UAE, Brazil, Mexico, Turkey, South Africa, Russia, China) over ~2000–2023: currency returns, FX-market liquidity (bid-ask spreads), FX-market uncertainty, and the Emerging Markets Financial Stress Index (EMFSI).",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Useful for MNB reserve-management and FX-stress monitoring of the forint (as a non-G10 currency). Supports weighting political-risk news higher than pure macro news for stress-horizon calibration. Caveat: the 8-country sample does not include Hungary — transfer requires assuming similar transmission structure.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "macroeconomics"
+      ],
+      "methods": [
+        "time-series"
+      ],
+      "countries_studied": [
+        "global"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
       "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4407270108"
+      "review_status": "ai-drafted",
+      "openalex_id": "W4407270108",
+      "policy_instruments": [
+        "MNB FX-reserve stress testing",
+        "currency crisis early-warning"
+      ]
     },
     {
       "id": "hajdu-kertesi-et-al-2018-tbejo",
@@ -20484,21 +20861,34 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "In recent years, the role of the online presence of higher education institutions has greatly increased, since a huge part of their target audience is an active user of various web interfaces. As a result, measuring online institutional performance has become increasingly popular in the international literature and in higher education rankings as well. The purpose of this paper is to comprehensively describe the performance of the online platforms of Hungarian higher education institutions and to present a system of criteria for measuring institutional performance based on international literature. We analysed the traffic and backlinks of university websites, as well as their performance on social media platforms. Based on the data from 10 indicators, we created an index capturing overall online performance and a positioning index using principal component analysis. Our results show that there is a strong correlation between the indicators capturing online performance and traditional university rankings. Furthermore, we found that institutions with a higher number of students perform orders of magnitude better according to the measured indicators, suggesting their strong size dependence.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "How visible are Hungarian universities online, and does it track their traditional ranking? The authors construct an online-performance index for Hungarian higher-education institutions using 10 indicators — website traffic, backlinks, and social-media footprint. The index correlates strongly with traditional rankings, but also shows a pronounced size effect: institutions with more students dominate the online-visibility measures by orders of magnitude. Principal-component analysis separates 'overall performance' from 'positioning,' producing two useful axes for ranking.",
+      "summary_hu": "Mennyire láthatóak online a magyar felsőoktatási intézmények, és mennyire követi ez a hagyományos rangsorokat? A szerzők tíz mutatóból állítanak össze egy online-teljesítmény indexet: weboldal-forgalom, backlinkek, közösségi média-jelenlét. Az index erősen korrelál a hagyományos rangsorokkal, de jelentős méretfüggést is mutat: a több hallgatós intézmények nagyságrendekkel jobbak az online láthatóságban. Főkomponens-elemzéssel elválasztják az 'általános teljesítmény' és a 'pozicionálás' dimenziókat.",
+      "data_used": "Hungarian higher-education institutions: website traffic and backlinks from SimilarWeb / Ahrefs-style sources; social-media follower counts, post counts and engagement across major platforms. 10 constructed indicators.",
+      "data_used_hu": "Magyar felsőoktatási intézmények adatai: weboldal-forgalom és backlinkek SimilarWeb / Ahrefs-szerű forrásokból; közösségimédia-követőszám, posztolási gyakoriság, elköteleződés. Tíz összeállított mutató.",
+      "policy_relevance": "Input for the OH / Innovation and Technology Ministry (ITM) ranking methodology and for individual universities' communications strategy. Caveat: online visibility heavily reflects institution size — using the raw index as a ranking input would entrench size advantages, so size-adjusted versions should be preferred for policy use.",
+      "policy_relevance_hu": "Bemenet az OH / KIM rangsor-módszertannak és az intézmények kommunikációs stratégiájának. Korlát: az online láthatóság erősen méretfüggő — a nyers index használata rangsorolásra betonozná a méret előnyét, ezért érdemes méret-korrigált változatokat használni szakpolitikai célra.",
+      "topics": [
+        "education-skills",
+        "methods"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "digital-trace"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
       "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4401209219"
+      "review_status": "ai-drafted",
+      "openalex_id": "W4401209219",
+      "policy_instruments": [
+        "felsőoktatási rangsor (OH/KIM)",
+        "intézményi kommunikációs stratégia"
+      ]
     },
     {
       "id": "hsu-lai-et-al-2020-er",
@@ -21671,21 +22061,37 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We investigate the role of the regulatory environment and the press freedom in detecting corporate fraud. We study 1,242 internal frauds from 79 countries during the period of 2011–2019. The importance of regulation is assessed by splitting the sample into the highly regulated and monitored financial sector and the non-financial sector subject to less strict internal standards and industry-specific regulation. To examine the importance of journalists in fraud detection, we use the Word Press Freedom index and postulate that in countries with free media more internal frauds are detected. We find empirical evidence on a global sample that in the financial sector designated authorities (professional bank supervisors) play an important role in fraud detection. For the non-financial sector, we show that the media is crucial in detecting corporate fraud: the more freely journalists can write, the more events are detected.",
-      "summary_en": null,
+      "summary_en": "Who actually detects corporate fraud — regulators or journalists? Using 1,242 internal frauds from 79 countries (2011–2019), this paper splits the evidence by sector. In the financial sector, where banks are heavily supervised, designated prudential authorities drive fraud detection — and the detection rate barely moves with press freedom. In the less-regulated non-financial sector the pattern flips: countries with freer media detect substantially more fraud. The complementarity matters for the design of anti-fraud policy: sector-specific supervisors are crucial in finance, while in the rest of the economy, investigative journalism is structurally important.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "1,242 internal corporate-fraud events from 79 countries, 2011–2019, coded by sector (financial vs non-financial) and detection channel. Country-level controls including the World Press Freedom Index, rule-of-law indices, and financial-sector supervision intensity.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian policy: the balance between MNB / SZTFH supervisory capacity and the independence of investigative media is not a trade-off but a complementarity. Weakening either one reduces total fraud detection in its domain. Relevant to the debate on media pluralism and on regulatory-agency budgets. Caveat: detection is what's measured — actual fraud prevalence is hard to observe, so some of the result may reflect under-detection rather than under-incidence.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "political-economy"
+      ],
+      "methods": [
+        "panel-data",
+        "structural"
+      ],
+      "countries_studied": [
+        "global"
+      ],
+      "data_types": [
+        "firm-level-dataset",
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
       "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4285727487"
+      "review_status": "ai-drafted",
+      "openalex_id": "W4285727487",
+      "policy_instruments": [
+        "prudential supervision (MNB)",
+        "media pluralism policy",
+        "whistleblower protection"
+      ]
     },
     {
       "id": "kertesi-kezdi-2008-tbejo",
@@ -23605,6 +24011,57 @@
       "policy_instruments": [
         "bérterhek",
         "employer social security contributions"
+      ]
+    },
+    {
+      "id": "konya-maduko-2020-jifmim",
+      "title": "Interest premium and external position: A state dependent approach",
+      "authors": [
+        "konya-istvan",
+        "Franklin Maduko"
+      ],
+      "publication_type": "article",
+      "journal": "Journal of International Financial Markets, Institutions & Money",
+      "year": 2020,
+      "volume": "66",
+      "issue": null,
+      "pages": "101192-101192",
+      "doi": "10.1016/j.intfin.2020.101192",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1016/j.intfin.2020.101192",
+      "url_pdf": "https://www.sciencedirect.com/science/article/pii/S1042443120300767",
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "Countries with large external-debt positions have historically paid an interest premium on sovereign borrowing — but how strong is this effect, and does it depend on the macroeconomic state? The authors estimate the relationship in a state-dependent framework that lets the interest-premium–external-debt elasticity differ by regime (normal vs stressed). The premium is much steeper in stressed periods than in normal ones: a given increase in external liabilities costs much more when the economy is already fragile. A state-linear model understates crisis-time debt costs.",
+      "summary_hu": null,
+      "data_used": "Panel of sovereign interest spreads, external-debt positions, and macro controls for a set of advanced and emerging economies over roughly 1990–2018. State definition via macro stress indicators.",
+      "data_used_hu": null,
+      "policy_relevance": "Direct input for Hungarian fiscal-risk assessment (ÁKK, Pénzügyminisztérium) and for MNB FX-reserve adequacy. Supports state-contingent debt-sustainability frameworks: a debt-to-GDP ratio that is safe in a normal regime can be costly in a stressed one. Caveat: state-dependence is econometrically identified in-sample; out-of-sample stress regimes may differ.",
+      "policy_relevance_hu": null,
+      "topics": [
+        "macroeconomics",
+        "fiscal-tax"
+      ],
+      "methods": [
+        "panel-data",
+        "time-series"
+      ],
+      "countries_studied": [
+        "global",
+        "HU"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
+      "featured": false,
+      "added_at": "2026-04-24",
+      "last_reviewed_at": "2026-04-24",
+      "review_status": "ai-drafted",
+      "openalex_id": "W3015848863",
+      "policy_instruments": [
+        "ÁKK debt-issuance strategy",
+        "MNB FX-reserve adequacy",
+        "fiscal-risk stress testing"
       ]
     },
     {
@@ -27076,21 +27533,35 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Studies focusing on the U.S. stock markets argue that the short-term reversal is related to liquidity provision. We test the implications of the theory of liquidity provision to investigate the profitability of reversal trading strategies in the Chinese markets. We find highly robust and puzzling patterns that are mainly inconsistent with findings in the U.S. markets and liquidity provision. There is a momentum based on the most recent day instead of reversal, only few specific days drive the profitability of the reversal strategies, and even these profits do not depend on liquidity constraints as liquidity provision theory implies.",
-      "summary_en": null,
+      "summary_en": "In US equity markets, short-term reversal (buy past losers, sell past winners) is typically explained by liquidity provision — market-makers demand a return for taking the other side. This paper tests the theory on Chinese stock markets. The pattern is strikingly different: instead of reversal, the data show momentum based on the very most recent day. Only a handful of specific days drive reversal-strategy profits, and even those do not track liquidity constraints as the theory would predict. The theory of liquidity provision does not transfer mechanically to China.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Chinese A-share and H-share daily returns over ~10 years, matched with liquidity proxies (turnover, Amihud illiquidity, bid-ask spreads). Portfolio-sorted strategies on past returns at daily-to-weekly horizon.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Background reading for MNB reserves management and for Hungarian institutional investors considering China-equity exposure. The finding that US-derived asset-pricing anomalies don't transfer mechanically should push portfolio construction toward market-specific models. Not a direct Hungarian-policy paper.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "behavioral"
+      ],
+      "methods": [
+        "time-series",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "CN"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
       "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W4289527158"
+      "review_status": "ai-drafted",
+      "openalex_id": "W4289527158",
+      "policy_instruments": [
+        "MNB reserve allocation to emerging equities",
+        "cross-market asset-pricing modelling"
+      ]
     },
     {
       "id": "neszveda-vago-2021-ksz",
@@ -27111,21 +27582,33 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "A tanulmányban kétféle megközelítéssel vizsgáljuk azt, hogy lehetett-e a likviditásnyújtás stratégiáját alkalmazva szignifikánsan pozitív hozamot elérni a magyar részvénypiacon. Az első esetben portfóliókat képezünk, a másodikban speciálisan a likviditásnyújtásra vonatkozó stratégiát vizsgálunk. Mindkét megközelítés lényege, hogy a rövid távon magas hozamú részvényeket eladni, a nagy veszteseket pedig megvenni érdemes. A likviditásnyújtás mindkét értelmezésével a nemzetközi irodalom alapján várt eredményt kapjuk. Likviditásszűkében csak magas hozam mellett valósul meg likviditásnyújtás, s ez még a kisebb magyar tőzsdén is statisztikailag szignifikáns eredményt ad.&#13;\\nJournal of Economic Literature (JEL) kód: G11, G12.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "Does the classical short-term-reversal / liquidity-provision trading strategy make money on the Budapest Stock Exchange (BÉT)? Using two approaches — portfolio sorts on past returns and a targeted liquidity-provision strategy — the authors find that the pattern predicted by the US-centric literature (buy past losers, short past winners at short horizons) does show up on the BÉT. More importantly, liquidity provision is statistically significantly profitable, consistent with the international literature: when liquidity tightens, only a high expected return induces anyone to provide it.",
+      "summary_hu": "Működik-e a klasszikus rövid távú megfordulás / likviditásnyújtás stratégia a Budapesti Értéktőzsdén? A szerzők kétféle megközelítéssel — múltbeli hozam alapú portfóliósoroláson és célzott likviditásnyújtási stratégián — vizsgálják ezt. A BÉT-en is megjelenik a nemzetközi irodalomban ismert mintázat (a múltbeli veszteseket venni, a győzteseket eladni rövid távon), és a likviditásnyújtás statisztikailag szignifikánsan nyereséges. Az eredmény konzisztens azzal, hogy likviditásszűkében csak magas hozam mellett valósul meg likviditásnyújtás.",
+      "data_used": "Budapest Stock Exchange (BÉT) daily stock returns and transaction data. Portfolio construction on past-return quantiles and on an explicit liquidity-provision filter.",
+      "data_used_hu": "BÉT napi részvényhozamok és tranzakciós adatok. Portfóliószerkesztés múltbeli hozamok szerint és explicit likviditásnyújtási szűrő alapján.",
+      "policy_relevance": "Direct input for the MNB / BÉT market-development agenda: the liquidity premium is economically meaningful even on the small Hungarian market. Supports policies that widen market-making participation (tax relief, registration fee reduction). Caveat: the result is in-sample; transaction costs on BÉT may erode net profitability.",
+      "policy_relevance_hu": "Közvetlen bemenet az MNB / BÉT tőkepiac-fejlesztési programjának: a likviditási prémium még a kis magyar piacon is gazdaságilag érdemi. A piacjegyzői részvételt szélesítő szakpolitikák (adókedvezmény, regisztrációs díj csökkentése) indokoltak. Korlát: in-sample eredmény; a BÉT-es tranzakciós költségek elvihetik a nettó nyereséget.",
+      "topics": [
+        "banking-finance"
+      ],
+      "methods": [
+        "time-series"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
       "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W3189937188"
+      "review_status": "ai-drafted",
+      "openalex_id": "W3189937188",
+      "policy_instruments": [
+        "BÉT market-making ösztönző",
+        "tőkepiac-fejlesztési program (MNB)"
+      ]
     },
     {
       "id": "oehmke-zawadowski-2015-rfs",
@@ -31658,7 +32141,7 @@
       "policy_framing_en": "Relevant to: curriculum design, teacher policy, school tracking age, higher education funding, vocational training.",
       "policy_framing_hu": "Releváns: tantervfejlesztés, tanárpolitika, iskolai szelekció életkora, felsőoktatás finanszírozása, szakképzés.",
       "icon": "graduation-cap",
-      "paper_count": 35
+      "paper_count": 37
     },
     {
       "id": "health",
@@ -31702,7 +32185,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 73
+      "paper_count": 77
     },
     {
       "id": "innovation-digital",
@@ -31713,7 +32196,7 @@
       "policy_framing_en": "Relevant to: R&D tax credits, digital strategy, AI policy, innovation agency design, university–industry linkages.",
       "policy_framing_hu": "Releváns: K+F adókedvezmények, digitális stratégia, MI-politika, innovációs ügynökségek, egyetem–ipar kapcsolatok.",
       "icon": "cpu",
-      "paper_count": 28
+      "paper_count": 29
     },
     {
       "id": "banking-finance",
@@ -31724,7 +32207,7 @@
       "policy_framing_en": "Relevant to: MNB policy, banking regulation, macroprudential tools, financial inclusion.",
       "policy_framing_hu": "Releváns: MNB-politika, bankszabályozás, makroprudenciális eszközök, pénzügyi befogadás.",
       "icon": "landmark",
-      "paper_count": 53
+      "paper_count": 76
     },
     {
       "id": "fiscal-tax",
@@ -31735,7 +32218,7 @@
       "policy_framing_en": "Relevant to: tax reform, budget planning, public debt management, compliance policy.",
       "policy_framing_hu": "Releváns: adóreform, költségvetés-tervezés, államadósság-kezelés, adócompliance.",
       "icon": "coins",
-      "paper_count": 22
+      "paper_count": 23
     },
     {
       "id": "regional-urban",
@@ -31768,7 +32251,7 @@
       "policy_framing_en": "Relevant to: welfare system, anti-poverty programs, family allowances, gender-equal pay policies.",
       "policy_framing_hu": "Releváns: szociális rendszer, szegénység elleni programok, családi pótlékok, egyenlő bérezés.",
       "icon": "scale",
-      "paper_count": 67
+      "paper_count": 69
     },
     {
       "id": "political-economy",
@@ -31779,7 +32262,7 @@
       "policy_framing_en": "Relevant to: anti-corruption policy, public administration reform, EU affairs, electoral system design.",
       "policy_framing_hu": "Releváns: korrupcióellenes politika, közigazgatási reform, EU-ügyek, választási rendszer.",
       "icon": "building-2",
-      "paper_count": 36
+      "paper_count": 41
     },
     {
       "id": "transition-postcommunist",
@@ -31801,7 +32284,7 @@
       "policy_framing_en": "Relevant to: consumer protection, pension-default design, nudging, financial-education regulation, addictive-product regulation.",
       "policy_framing_hu": "Releváns: fogyasztóvédelem, nyugdíjalap-alapbeállítások, döntéslendítés (nudge), pénzügyi edukáció szabályozása, függőséget okozó termékek szabályozása.",
       "icon": "brain",
-      "paper_count": 44
+      "paper_count": 50
     },
     {
       "id": "industrial-organization",
@@ -31823,7 +32306,7 @@
       "policy_framing_en": "Relevant to: long-run growth forecasting, macroeconomic modelling, sovereign-debt management, stabilisation policy design.",
       "policy_framing_hu": "Releváns: hosszú távú növekedés előrejelzés, makroökonómiai modellek, államadósság-kezelés, stabilizációs politika.",
       "icon": "line-chart",
-      "paper_count": 24
+      "paper_count": 28
     },
     {
       "id": "agriculture-food",
@@ -31845,7 +32328,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 88
+      "paper_count": 90
     }
   ],
   "journals": [
@@ -32980,7 +33463,7 @@
   ],
   "counts": {
     "authors": 84,
-    "papers": 688,
+    "papers": 690,
     "topics": 19
   }
 }

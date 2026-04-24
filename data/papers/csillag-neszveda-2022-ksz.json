@@ -17,19 +17,33 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "A hatékony piacok elmélete szerint egy adott részvény árfolyama tartalmazza az összes piacon elérhető információt, az empirikus kutatások azonban megmutatták, hogy a piacok gyakran nem felelnek meg az információs hatékonyság kritériumának. Az árfolyamsodródás szerint a gyorsjelentésekben közzétett információk nem azonnal épülnek be a részvényárfolyamokba, hanem a közzététel után még hetekig kifejtik hatásukat. Tanulmányunkban megvizsgáljuk, hogy a gyorsjelentés utáni árfolyamsodródás megfigyelhető-e a magyar piacon a 2009–2019 közötti időszakban. Az erre a stratégiára épülő portfóliók átlagos havi hozama a vizsgált időszakban 2,04 százalék. A kiugró (outlier) értékek kezelése után a Fama–MacBeth-féle regressziókban az árfolyamsodródást megragadó változó együtthatója, egyedül szerepeltetve, nullától különböző hozamot eredményez. A mögöttes befektetői viselkedés feltárásához megvizsgáljuk, hogy a hatás mennyire köszönhető a befektetők korlátozott figyelmének. Abban az esetben, ha a pénteki napokon nem valósítjuk meg a kereskedést, nagymértékben csökken a stratégiával elérhető hozam mértéke, azonban továbbra is szignifikáns marad. Ez azt sugallja, hogy ugyan nem a korlátozott figyelem hajtja teljes mértékben az árfolyamsodródást, azonban nagymértékben hat rá, hiszen pénteken a befektetők a heti határidők betartása és a hétvége közelsége miatt valószínűbb, hogy lemaradnak egy-egy jelentésről, így ez az információ hosszabb idő alatt épülhet be az árfolyamokba.&#13;\\nJournal of Economic Literature (JEL) kód: G11, G12.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "After a firm issues a surprising earnings announcement, its share price typically keeps drifting in the same direction for weeks — the 'post-earnings-announcement drift' (PEAD) anomaly, documented in the US since the 1980s and inconsistent with efficient markets. The authors test whether PEAD shows up on the Hungarian equity market, 2009–2019. The average monthly return on a PEAD-following portfolio is 2.04%. Removing Friday trading days (when investors are distracted and reports are less fully absorbed) substantially reduces the return, suggesting that limited attention is a partial but not complete driver.",
+  "summary_hu": "A tőzsdei gyorsjelentések utáni árfolyamsodródás (PEAD) egy jól ismert anomália: a részvényár a bejelentést követően még hetekig ugyanabban az irányban sodródik, ami ellentmond a piaci hatékonyságnak. A szerzők a magyar részvénypiacon tesztelik ezt 2009 és 2019 között. A stratégia átlagos havi hozama 2,04%. A pénteki napok kivétele (amikor a befektetők kevésbé figyelmesek) jelentősen csökkenti a hozamot, ami arra utal, hogy a korlátozott figyelem részben, de nem teljesen magyarázza a jelenséget.",
+  "data_used": "Hungarian Stock Exchange (BSE / BÉT) daily and monthly returns, 2009–2019, matched with firm earnings-announcement dates and surprises. Fama–MacBeth regressions after outlier treatment.",
+  "data_used_hu": "A BÉT napi és havi hozamai 2009 és 2019 között, bejelentési napokkal és gyorsjelentés-meglepetésekkel párosítva. Fama–MacBeth regressziók kiugróérték-kezelés után.",
+  "policy_relevance": "Relevant to the MNB's market-development agenda for the Hungarian stock market — PEAD strength indicates a relative lack of professional arbitrage activity on the BÉT. Market-making / liquidity incentives that increase professional attention could reduce PEAD and improve price efficiency. Caveat: limited stock universe on BÉT; the result is a revealed inefficiency, not necessarily an easily exploitable strategy net of costs.",
+  "policy_relevance_hu": "Releváns az MNB tőkepiaci fejlesztési programjához: a PEAD erőssége azt mutatja, hogy a BÉT-en viszonylag kevés a professzionális arbitrázstevékenység. A likviditás-szolgáltatási ösztönzők, amelyek több szakmai figyelmet vonzanak, csökkenthetik a PEAD-et és javíthatják az árazási hatékonyságot. Korlát: kicsi a BÉT részvényuniverzuma; költségek nélkül kihasználható stratégiát nem feltétlenül jelent.",
+  "topics": [
+    "banking-finance",
+    "behavioral"
+  ],
+  "methods": [
+    "panel-data",
+    "time-series"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
   "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4289921093"
+  "review_status": "ai-drafted",
+  "openalex_id": "W4289921093",
+  "policy_instruments": [
+    "tőkepiaci likviditás-fejlesztés (MNB / BÉT)",
+    "árjegyzői rendszer"
+  ]
 }

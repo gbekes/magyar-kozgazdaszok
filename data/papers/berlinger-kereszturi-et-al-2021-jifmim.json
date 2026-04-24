@@ -19,19 +19,36 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We investigate the monitoring role of the media, its detection and deterrence effects in corporate operational losses. Relying on our theoretical model, we analyze 8,144 loss events from 132 countries between 2008 and 2019. Controlling for factors related to governance, living standards, business cycles, and firm size, we find that press freedom has a significant positive effect both on the frequency and severity of the observed operational losses. An improvement of one standard deviation in press freedom yields around 43% more and 71% higher public losses. Our estimations on hidden losses indicate that the worldwide detection rate of operational losses might be smaller than 53% and 13% in terms of number and value, respectively. Furthermore, in countries with a tightly controlled media, hidden operational risks might be tremendous. We suggest using public databases more carefully, adjusting operational risk models for the reporting bias, and promoting press freedom to improve corporate governance structures.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "Do free media actually catch more corporate fraud, or do they just amplify what regulators already know? This paper studies 8,144 operational-loss events from 132 countries between 2008 and 2019. After controlling for governance, GDP per capita, business cycles and firm size, a one-standard-deviation improvement in press freedom is associated with about 43% more reported operational loss events and 71% higher reported losses — consistent with media playing a genuine monitoring role, not just a reporting one. Simulation of hidden losses suggests the worldwide detection rate might be below 53% in count terms and 13% in value. In media-repressed countries the invisible iceberg is much larger.",
+  "summary_hu": "Valóban több vállalati csalást lepleznek le a szabad sajtóval rendelkező országokban, vagy csak hangosabban beszélnek arról, amit a szabályozók amúgy is tudnak? A tanulmány 8 144 vállalati működési kockázati veszteségeseményt vizsgál 132 országból 2008 és 2019 között. Az irányítási, jövedelmi, konjunkturális és vállalatméret-kontrollok mellett a sajtószabadság egy szórásnyi javulása körülbelül 43%-kal több regisztrált veszteségeseménnyel és 71%-kal magasabb bejelentett veszteséggel jár együtt — ami arra utal, hogy a média valódi felügyeleti szerepet tölt be. A rejtett veszteségeket modellező becslés szerint a világszintű feltárási arány darabszámban 53, értékben 13 százalék alatt lehet.",
+  "data_used": "8,144 corporate operational-loss events from 132 countries, 2008–2019 (Operational Riskdata eXchange Association / ORX News). Merged with country-level controls on governance, income, business cycle, firm size, and the World Press Freedom Index.",
+  "data_used_hu": "8 144 vállalati működési-kockázati veszteségesemény 132 országból, 2008–2019 (ORX News adatbázis). Ország szintű kontrollok: kormányzás, egy főre jutó GDP, konjunktúra, vállalatméret, World Press Freedom Index.",
+  "policy_relevance": "For Hungary and comparable countries, the finding has two direct implications. First, MNB supervision and audit rules that rely on publicly reported operational-loss data understate risk where the press is constrained — operational-risk capital requirements should adjust for this reporting bias. Second, press freedom itself is a governance instrument, not just a political one. Caveat: the detection-rate estimates come from a structural model with strong parametric assumptions; the qualitative result (more press → more detection) is more robust than the exact 43%/71% numbers.",
+  "policy_relevance_hu": "Két szakpolitikai következmény. Egyrészt az MNB felügyelet és az auditszabályok által használt nyilvános veszteségadatok torzítottak ott, ahol a sajtó kötött — a működési-kockázati tőkekövetelmények kalibrálásakor ezt a bejelentési torzítást figyelembe kell venni. Másrészt a sajtószabadság nemcsak politikai, hanem vállalatirányítási eszköz is. Korlát: a rejtett-veszteség becslések parametrikus feltevésekre épülnek; a kvalitatív eredmény robusztusabb, mint a konkrét 43/71 százalékos pontbecslés.",
+  "topics": [
+    "banking-finance",
+    "political-economy"
+  ],
+  "methods": [
+    "panel-data",
+    "structural"
+  ],
+  "countries_studied": [
+    "global",
+    "HU"
+  ],
+  "data_types": [
+    "firm-level-dataset",
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
   "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4200493131"
+  "review_status": "ai-drafted",
+  "openalex_id": "W4200493131",
+  "policy_instruments": [
+    "operational risk capital calibration (MNB)",
+    "press freedom as governance input",
+    "Pillar-2 supervisory review"
+  ]
 }

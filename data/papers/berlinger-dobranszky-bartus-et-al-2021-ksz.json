@@ -18,19 +18,33 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Mélyinterjúkkal és célzott kérdőíves felméréssel vizsgáltuk, hogyan hatnak a lejárt tartozások a munkavállalásra, a bankszámlahasználatra és az egészségi állapotra Magyarország egyik legelmaradottabb térségében, ahol még a Covid-válságot megelőző, prosperáló időszakban is sokan éltek pénzügyi kirekesztettségben. Azt találtuk, hogy a büntetőkamatokkal megnövelt, reménytelen nagyságúvá eszkalálódott tartozások miatt sokan arra rendezkedtek be, hogy bujkálnak a behajtás elől: nem vállalnak bejelentett munkát, nem nyitnak bankszámlát, és emiatt folyamatos stresszel kénytelenek együtt élni. A lejárt tartozások így egyfajta szegénységicsapda-­mechanizmust hoznak létre, és számottevő jóléti veszteségeket okoznak egyéni és társadalmi szinten egyaránt. A döntéshozóknak nagyobb figyelmet kellene fordítaniuk a hitelciklusok tompítására, illetve a kialakult nemteljesítő adósságok rendezésére, különösen ebben a törékeny társadalmi csoportban.*&#13;\\nJournal of Economic Literature (JEL) kód: G51, G53, I38.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "What happens when unpaid debts escalate with penalty interest into amounts that can never be repaid? The authors conduct deep interviews and a targeted survey in one of Hungary's most deprived regions, where many households already lived in financial exclusion before COVID-19. The result is a behavioural trap: rather than declare bankruptcy or default formally, people choose to disappear — avoiding official employment, not opening bank accounts, living under chronic stress to evade collection. Overdue debts become a poverty-trap mechanism with substantial individual and social welfare costs. Policy-makers should pay more attention to credit-cycle smoothing and to the workout of non-performing household debt, especially for this fragile group.",
+  "summary_hu": "Mi történik, ha a lejárt tartozások büntetőkamatokkal olyan méretűre nőnek, hogy már visszafizethetetlenek? A szerzők mélyinterjúkkal és célzott felméréssel vizsgálták Magyarország egyik legelmaradottabb térségét, ahol már a COVID előtt is sokan éltek pénzügyi kirekesztettségben. Az eredmény egy viselkedési csapda: az érintettek nem csődöt jelentenek, hanem bujkálnak — nem vállalnak bejelentett munkát, nem nyitnak bankszámlát, és folyamatos stressz alatt élnek, hogy elkerüljék a behajtást. A lejárt tartozások így szegénységicsapda-mechanizmust hoznak létre, és jelentős jóléti veszteséget okoznak egyéni és társadalmi szinten is.",
+  "data_used": "Depth interviews and a targeted survey in a disadvantaged Hungarian region. Households with overdue debt, in and out of formal employment and formal banking. Combined qualitative and quantitative analysis.",
+  "data_used_hu": "Mélyinterjúk és célzott kérdőíves felmérés egy hátrányos helyzetű magyar régióban. Lejárt tartozású háztartások, be- és bejelentetlen foglalkoztatással, bankszámlával vagy nélküle. Kvalitatív és kvantitatív elemzés kombinálása.",
+  "policy_relevance": "Directly relevant to MNB's household-debt monitoring and to the Ministry of Finance / Ministry of Interior work on financial inclusion. The paper argues for more aggressive NPL workout rules in fragile regions — ability-to-pay caps on collection enforcement, write-down protocols for un-repayable penalty-accrued balances. Caveat: one region; mechanisms likely generalise, but magnitudes may not.",
+  "policy_relevance_hu": "Közvetlenül releváns az MNB háztartási hitel-monitoringjához, valamint a Pénzügyminisztérium és Belügyminisztérium pénzügyi bevonódási munkájához. A tanulmány érvel erősebb NPL-rendezési szabályok mellett a sérülékeny térségekben — fizetési képesség alapján meghatározott behajtási korlátok, leírási protokollok a visszafizethetetlen büntetőkamatokra. Korlát: egyetlen régió; a mechanizmus valószínűleg általánosítható, a nagyságrendek nem biztosan.",
+  "topics": [
+    "banking-finance",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
   "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3187870304"
+  "review_status": "ai-drafted",
+  "openalex_id": "W3187870304",
+  "policy_instruments": [
+    "személyi csőd / household bankruptcy reform",
+    "behajtási szabályozás (MNB)",
+    "pénzügyi bevonódási program"
+  ]
 }

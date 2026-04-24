@@ -19,19 +19,35 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Analyzing the interpersonal lending network of a Hungarian village in a disadvantaged region, we find strong intermediary activity and a tiered core-periphery structure. We show that the main motive behind lending is not altruism or profit-seeking, but risk-sharing which is the most accentuated in poor-to-poor and Roma-to-Roma relations. Comparing this informal lending market to a formal interbank market, we find more similarities than differences. In both markets, intermediation is a key element in risk-sharing and an effective tool to cope with liquidity risk. Regulatory and development policies should respect the existing institutions of risk-sharing.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "Does a village's informal lending network look more like a charity or a bank? This paper maps the interpersonal lending network of a Hungarian village in a deprived region and compares it to a regulated interbank market. Core-periphery structure and active intermediation show up in both. The dominant motive in the village is not altruism and not profit-seeking, but risk-sharing — most pronounced in poor-to-poor and Roma-to-Roma ties. Informal intermediation is a way to cope with liquidity shocks in the absence of bank access. The policy-facing conclusion: financial-inclusion programmes that ignore these existing institutions risk destroying them.",
+  "summary_hu": "Úgy néz ki egy falusi személyközi hitelezési hálózat, mint egy jótékonysági szervezet, vagy mint egy bank? A szerzők egy hátrányos helyzetű régióban fekvő magyar falu teljes személyközi hitelezési hálózatát térképezték fel, és a szabályozott bankközi piaccal hasonlították össze. Mindkettőben mag–periféria szerkezet és aktív közvetítés figyelhető meg. A faluban a fő motiváció nem altruizmus és nem profitszerzés, hanem kockázatmegosztás — a legerősebb a szegény–szegény és a roma–roma kapcsolatokban. Az informális közvetítés a banki hozzáférés hiányát pótolja likviditási sokkok idején.",
+  "data_used": "Complete interpersonal-lending network survey of a Hungarian village in a disadvantaged region, including loan amounts, durations, repayment status, ethnicity (Roma / non-Roma), income category. Comparison benchmark: Hungarian interbank unsecured loan market 2003–2012.",
+  "data_used_hu": "Egy hátrányos helyzetű régióban fekvő magyar falu teljes személyközi hitelezési hálózatának kérdőíves felmérése: hitelösszegek, futamidők, visszafizetési státusz, etnikai hovatartozás, jövedelmi kategória. Összehasonlítási alap: a magyar bankközi fedezetlen hitelek piaca, 2003–2012.",
+  "policy_relevance": "For the Hungarian financial-inclusion agenda (MNB, Ministry of Interior rural programmes, EU Cohesion-funded projects), the key takeaway is that forcibly formalising poor communities' credit risks dismantling a functioning risk-sharing institution. Microfinance programmes should layer on top of existing ties, not replace them. Caveat: single village, so external validity is limited; structure may differ by region.",
+  "policy_relevance_hu": "A magyar pénzügyi bevonódási programok (MNB, Belügyminisztérium vidékfejlesztés, EU kohéziós programok) szempontjából a fő üzenet: ha formalizálni próbáljuk a szegény közösségek hitelezési kapcsolatait anélkül, hogy figyelembe vennénk a működő kockázatmegosztási intézményeket, inkább rombolunk, mint építünk. A mikrofinanszírozási programok ezekre az informális kapcsolatokra épüljenek, ne helyettesítsék. Korlát: egy faluról van szó, így a kép nem feltétlenül általánosítható más régiókra.",
+  "topics": [
+    "banking-finance",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "panel-data",
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "survey",
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
   "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4311257613"
+  "review_status": "ai-drafted",
+  "openalex_id": "W4311257613",
+  "policy_instruments": [
+    "financial inclusion / bevonódási programok",
+    "rural microfinance",
+    "MNB consumer-credit policy"
+  ]
 }

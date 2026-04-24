@@ -19,19 +19,34 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "A válságot követő új szabályozás a tőzsdén kívüli piacokon is egyre inkább megköveteli a kereskedés központi elszámolását, ezért rendszerkockázati szempontból kiemelt kérdés a tőzsdei elszámolóházak kockázatkezelése és azon belül a veszteségek vizsgálata. Ebben a cikkben az elszámolóházak általános működését modellezzük, majd az amerikai határidős részvénypiac elmúlt nyolcévi adatai alapján szimuláljuk az alapletét elégtelenségéből adódó veszteségeket. Végül megvizsgáljuk az elszámolóház veszteségei és egyes külső stressztényezők, például egy amerikai általános stresszindex (CFSI) komponensei közötti kapcsolatot. Fő megállapításunk, hogy egy általános stresszindex kevésbé alkalmas az el szá moló ház veszteségeinek előrejelzésére, mint egy saját fejlesztésű, testre szabott modell, aminek fő oka az lehet, hogy az elszámolóházak számos speciális tulajdonsággal - magas fokú specializáció, szimmetrikus kitettségek, letéti számlák útvonalfüggősége stb. - rendelkeznek. Journal of Economic Literature (JEL) kód: G15; G23; G28",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "After the 2008 crisis, more OTC derivatives are required to clear centrally — raising the stakes of clearinghouse risk management. This paper models CCP operations generally and then simulates losses from insufficient initial margin on the US equity-index futures market over eight years. The authors examine how CCP losses correlate with broad market-stress measures (CFSI) and find that a generic stress index is a poor predictor of CCP-specific losses. CCP-specific features — high member specialisation, symmetric exposures, path-dependence of margin accounts — create idiosyncratic risk that off-the-shelf stress indicators miss.",
+  "summary_hu": "A 2008 utáni szabályozás egyre több tőzsdén kívüli ügyletet terel központi elszámolóházakba, ami a CCP-k kockázatkezelését rendszerszintű kérdéssé teszi. A tanulmány általánosan modellezi a CCP-k működését, majd szimulálja az alapletét elégtelenségéből adódó veszteségeket az amerikai határidős részvénypiacon nyolc év adatain. Fő eredmény: egy általános pénzügyi stresszindex (CFSI) kevésbé alkalmas a CCP-veszteségek előrejelzésére, mint egy saját, testreszabott modell. A CCP-specifikus tulajdonságok (magas szakosodás, szimmetrikus kitettségek, letéti számla útvonalfüggősége) olyan egyedi kockázatokat hoznak létre, amiket az általános mutatók nem látnak.",
+  "data_used": "US equity-index futures transaction and margin data over ~8 years; Cleveland Fed Financial Stress Index (CFSI) components and subindices for the stress-indicator comparison.",
+  "data_used_hu": "Amerikai határidős részvénypiaci ügylet- és letéti adatok mintegy 8 éven át; Cleveland Fed pénzügyi stresszindexe (CFSI) komponensei az összehasonlításhoz.",
+  "policy_relevance": "Direct input for MNB oversight of KELER KSZF: relying on generic stress indicators to trigger elevated supervisory attention understates tail risks. CCP-specific, bespoke stress dashboards are required. Caveat: US data; Hungarian CCP exposure structure is less diversified, so the qualitative result is likely stronger at KELER than the US case the paper simulates.",
+  "policy_relevance_hu": "Közvetlen bemenet az MNB KELER KSZF felügyeletére: egy általános stresszindexre hagyatkozva alulbecsüljük a farok-kockázatot. CCP-specifikus, egyedi stresszmutatók szükségesek. Korlát: US-adatokon futtatott szimuláció; a KELER kitettsége kevésbé diverzifikált, ezért a kvalitatív eredmény valószínűleg még erősebb.",
+  "topics": [
+    "banking-finance"
+  ],
+  "methods": [
+    "structural",
+    "time-series"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "macro-aggregate",
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
   "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2510980133"
+  "review_status": "ai-drafted",
+  "openalex_id": "W2510980133",
+  "policy_instruments": [
+    "KELER KSZF stress monitoring",
+    "CCP supervision (MNB)",
+    "systemic-risk dashboard"
+  ]
 }

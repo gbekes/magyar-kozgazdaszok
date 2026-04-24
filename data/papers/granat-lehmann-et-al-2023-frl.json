@@ -19,19 +19,34 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "In 2022, Russian military operations began in Ukraine, which surprised some, while others might have expected it. We investigate whether the expectations began to be priced in the equity markets before the operations. To estimate the start of information incorporation, we use the adjusted returns of 62 country-level stock market data assuming informed traders using a non-linear model and rolling-window regressions. We find that the equity markets started to price the conflict at least 50 days before the invasion, and approximately one-third of the information was incorporated on the event day.",
-  "summary_en": null,
+  "summary_en": "Did equity markets actually anticipate the February 2022 Russian invasion of Ukraine, or did it come as a surprise? The authors analyse adjusted returns of 62 country-level stock indices using a non-linear model and rolling-window regressions, allowing informed traders to anticipate the event. Evidence shows markets began pricing the conflict at least 50 days before the invasion, and roughly one-third of the eventual information content was incorporated into prices on the event day itself. Geopolitical risk was partially priced in well before Western intelligence publicly confirmed the invasion plan.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Daily equity-index returns for 62 countries over the period surrounding February 2022. Event-study design with non-linear anticipation windows and rolling regressions for detecting price-discovery onset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct input for the MNB geopolitical-risk framework and for Hungarian institutional-investor stress testing. Supports treating equity-market signals as a legitimate real-time geopolitical indicator alongside intelligence assessments. Caveat: detection relies on estimated structural breaks, which are inherently noisy; the 50-day figure is indicative, not precise.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "political-economy"
+  ],
+  "methods": [
+    "time-series",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "global"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
   "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4385617684"
+  "review_status": "ai-drafted",
+  "openalex_id": "W4385617684",
+  "policy_instruments": [
+    "MNB geopolitical-risk stress test",
+    "sovereign-CDS monitoring",
+    "reserve-asset allocation"
+  ]
 }

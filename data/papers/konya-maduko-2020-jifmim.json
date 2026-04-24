@@ -1,0 +1,51 @@
+{
+  "id": "konya-maduko-2020-jifmim",
+  "title": "Interest premium and external position: A state dependent approach",
+  "authors": [
+    "konya-istvan",
+    "Franklin Maduko"
+  ],
+  "publication_type": "article",
+  "journal": "Journal of International Financial Markets, Institutions & Money",
+  "year": 2020,
+  "volume": "66",
+  "issue": null,
+  "pages": "101192-101192",
+  "doi": "10.1016/j.intfin.2020.101192",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1016/j.intfin.2020.101192",
+  "url_pdf": "https://www.sciencedirect.com/science/article/pii/S1042443120300767",
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Countries with large external-debt positions have historically paid an interest premium on sovereign borrowing — but how strong is this effect, and does it depend on the macroeconomic state? The authors estimate the relationship in a state-dependent framework that lets the interest-premium–external-debt elasticity differ by regime (normal vs stressed). The premium is much steeper in stressed periods than in normal ones: a given increase in external liabilities costs much more when the economy is already fragile. A state-linear model understates crisis-time debt costs.",
+  "summary_hu": null,
+  "data_used": "Panel of sovereign interest spreads, external-debt positions, and macro controls for a set of advanced and emerging economies over roughly 1990–2018. State definition via macro stress indicators.",
+  "data_used_hu": null,
+  "policy_relevance": "Direct input for Hungarian fiscal-risk assessment (ÁKK, Pénzügyminisztérium) and for MNB FX-reserve adequacy. Supports state-contingent debt-sustainability frameworks: a debt-to-GDP ratio that is safe in a normal regime can be costly in a stressed one. Caveat: state-dependence is econometrically identified in-sample; out-of-sample stress regimes may differ.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "macroeconomics",
+    "fiscal-tax"
+  ],
+  "methods": [
+    "panel-data",
+    "time-series"
+  ],
+  "countries_studied": [
+    "global",
+    "HU"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
+  "featured": false,
+  "added_at": "2026-04-24",
+  "last_reviewed_at": "2026-04-24",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3015848863",
+  "policy_instruments": [
+    "ÁKK debt-issuance strategy",
+    "MNB FX-reserve adequacy",
+    "fiscal-risk stress testing"
+  ]
+}

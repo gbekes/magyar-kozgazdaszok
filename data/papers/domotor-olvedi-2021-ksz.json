@@ -17,19 +17,33 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Az elmúlt években a gazdaság számos területén elindult az a folyamat, amelynek eredményeként az egyes termékek és szolgáltatások vevői és eladói közvetlenül, a közvetítői szegmens kiiktatásával találnak egymásra. Ezt a folyamatot a digitalizáció és az egyre innovatívabb technológiai megoldások is segítik. A hagyományos pénzügyi közvetítők mellett sorra jelennek meg azok az új közvetítők, amelyek digitális megoldást kínálnak nemcsak a kiegészítő banki szolgáltatások, hanem a bankok fő tevékenységének számító hitelezés területén is. A személyközi hitelezés keretében egy online platform közvetlenül köti össze a hitelt kereső ügyfeleket a befektetőkkel, azzal a céllal, hogy a közvetítői szegmens kiiktatásával költséghatékonyabb megoldást kínáljon. Tanulmányunkban a személyközi hitelezés jellemzőit vizsgáljuk, összehasonlítjuk az online platformot üzemeltető közvetítőt a hagyományos pénzügyi közvetítőkkel. Azt vizsgáljuk, hogy ez a fajta közvetítés mennyiben valóságos alternatívája a banki hitelezésnek, illetve mi adhatja a platformok létjogosultságát. A vizsgált közvetítők pénzügyi adatai és legújabb eseményei alapján úgy tűnik, hogy az online hitelközvetítők egy bizonyos méret felett szükségszerűen bankká válnak, vagyis a platformok leginkább egy kedvező belépési lehetőséget biztosítanak a pénzügyi közvetítői piacra.*&#13;\\nJournal of Economic Literature (JEL) kód: G20, G21, G29, G50",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "Do peer-to-peer (P2P) lending platforms actually replace banks, or do they end up becoming banks? This review paper compares major P2P platforms to traditional financial intermediaries on function, regulation, and economics. The picture that emerges is not a revolution: beyond a certain scale, platforms inevitably move towards bank-like activities (credit risk warehousing, maturity transformation). The real value of P2P platforms is as a low-cost entry channel into financial intermediation for new players, not as a structural alternative. The paper pre-figures the empirical 2023 JIFMIM analysis by the same author.",
+  "summary_hu": "A személyközi (P2P) hitelezési platformok valóban helyettesítik a bankokat, vagy maguk is bankokká válnak? Az áttekintő tanulmány összehasonlítja a főbb P2P platformokat a hagyományos pénzügyi közvetítőkkel funkció, szabályozás és gazdaságtan szempontjából. A kép nem forradalmi: egy bizonyos méret felett a platformok elkerülhetetlenül bankszerű tevékenységek felé mozdulnak el (hitelkockázat-raktározás, lejárati transzformáció). A P2P platformok tényleges értéke nem a strukturális alternatíva, hanem egy olcsó belépési csatorna új szereplők számára a pénzügyi közvetítői piacra.",
+  "data_used": "Review and comparative analysis of publicly available financial statements and regulatory filings of major P2P lending platforms (Bondora, LendingClub, Zopa) and of a set of traditional banks. Key recent events and platform pivots.",
+  "data_used_hu": "A főbb P2P hitelezési platformok (Bondora, LendingClub, Zopa) és hagyományos bankok nyilvános beszámolóinak és szabályozói adatszolgáltatásának összehasonlító elemzése. Platformok legújabb pivotjai és eseményei.",
+  "policy_relevance": "Relevant to MNB licensing policy and to the Ministry of Finance's debate on P2P-platform regulation. Suggests that platforms past a threshold size should be treated as credit institutions, closing a prudential gap. Caveat: analytical / descriptive, not causal.",
+  "policy_relevance_hu": "Releváns az MNB engedélyezési politikájához és a Pénzügyminisztérium P2P-szabályozási vitájához. Azt sugallja, hogy a küszöbméret feletti platformokat hitelintézetként kellene kezelni, így zárva egy prudenciális rést. Korlát: elemző / leíró, nem oksági.",
+  "topics": [
+    "banking-finance"
+  ],
+  "methods": [
+    "theory",
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "EU",
+    "HU"
+  ],
+  "data_types": [
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
   "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3192292311"
+  "review_status": "ai-drafted",
+  "openalex_id": "W3192292311",
+  "policy_instruments": [
+    "P2P platform credit-institution licensing",
+    "fintech prudential regulation (MNB)"
+  ]
 }

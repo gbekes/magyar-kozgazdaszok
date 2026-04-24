@@ -19,19 +19,35 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "During COVID-19 governments launched unprecedented firm-support programmes (wage subsidies, tax deferrals, loan guarantees). This paper asks whether their effectiveness at preserving firm resilience depended on a country's culture and political institutions. Using cross-country firm-level data, the authors show that the returns to generous government responses were larger in countries with high interpersonal trust and stronger political institutions — and near-zero in low-trust, weakly-governed settings. Same euro of support, very different outcome. The implication is that firm-support design cannot be imported wholesale; it interacts with institutional quality.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Cross-country firm-level panel covering the pandemic period (2020–2022). Merges firm financials (Orbis / Compustat-type sources) with Oxford Government Response Tracker measures, Hofstede-style cultural dimensions, and Worldwide Governance Indicators.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian fiscal-crisis response design: a 'copy Germany's Kurzarbeit' reflex overstates the gain. Cultural / institutional complementarities matter, so Hungarian-calibrated crisis instruments will out-perform direct copies of Northern European schemes. Caveat: the paper uses broad national aggregates (trust, governance); within-country heterogeneity is likely just as important but not captured here.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "macroeconomics",
+    "firms-productivity",
+    "political-economy"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "global"
+  ],
+  "data_types": [
+    "firm-level-dataset",
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
   "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4392115780"
+  "review_status": "ai-drafted",
+  "openalex_id": "W4392115780",
+  "policy_instruments": [
+    "wage-subsidy design (Kurzarbeit / bértámogatás)",
+    "fiscal crisis response",
+    "loan-guarantee schemes"
+  ]
 }

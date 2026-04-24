@@ -18,19 +18,32 @@
   "url_pdf": "https://www.sciencedirect.com/science/article/pii/S1544612318307165",
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "What is the 'right' margin a clearing house should demand from its members? This paper formalises the trade-off between counterparty risk (lower when margins are high) and liquidity risk (higher when margins are high, because members must suddenly post more collateral in stress). Using a stylised market model, the authors derive an optimal margin requirement that internalises both. The optimum is not the VaR-based regulatory minimum — it is higher in calm markets (to create buffer) and flatter across volatility regimes, so members are not forced to fire-sell collateral exactly when markets need liquidity.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model with numerical examples calibrated to equity-index futures-market-like parameters. No empirical panel.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Precursor to the 2019 JIFMIM and 2024 FRL papers by the same group; directly relevant for KELER KSZF margin-policy design under EMIR. Supports explicit margin floors combined with counter-cyclical buffers over pure VaR rules. Caveat: the framework is single-asset; multi-asset clearinghouses face additional cross-margining concerns the model does not capture.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance"
+  ],
+  "methods": [
+    "theory",
+    "structural"
+  ],
+  "countries_studied": [
+    "global"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
   "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2900601104"
+  "review_status": "ai-drafted",
+  "openalex_id": "W2900601104",
+  "policy_instruments": [
+    "CCP margin rule (EMIR, KELER KSZF)",
+    "systemic liquidity buffer"
+  ]
 }

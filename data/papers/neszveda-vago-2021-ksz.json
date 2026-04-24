@@ -17,19 +17,31 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "A tanulmányban kétféle megközelítéssel vizsgáljuk azt, hogy lehetett-e a likviditásnyújtás stratégiáját alkalmazva szignifikánsan pozitív hozamot elérni a magyar részvénypiacon. Az első esetben portfóliókat képezünk, a másodikban speciálisan a likviditásnyújtásra vonatkozó stratégiát vizsgálunk. Mindkét megközelítés lényege, hogy a rövid távon magas hozamú részvényeket eladni, a nagy veszteseket pedig megvenni érdemes. A likviditásnyújtás mindkét értelmezésével a nemzetközi irodalom alapján várt eredményt kapjuk. Likviditásszűkében csak magas hozam mellett valósul meg likviditásnyújtás, s ez még a kisebb magyar tőzsdén is statisztikailag szignifikáns eredményt ad.&#13;\\nJournal of Economic Literature (JEL) kód: G11, G12.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "Does the classical short-term-reversal / liquidity-provision trading strategy make money on the Budapest Stock Exchange (BÉT)? Using two approaches — portfolio sorts on past returns and a targeted liquidity-provision strategy — the authors find that the pattern predicted by the US-centric literature (buy past losers, short past winners at short horizons) does show up on the BÉT. More importantly, liquidity provision is statistically significantly profitable, consistent with the international literature: when liquidity tightens, only a high expected return induces anyone to provide it.",
+  "summary_hu": "Működik-e a klasszikus rövid távú megfordulás / likviditásnyújtás stratégia a Budapesti Értéktőzsdén? A szerzők kétféle megközelítéssel — múltbeli hozam alapú portfóliósoroláson és célzott likviditásnyújtási stratégián — vizsgálják ezt. A BÉT-en is megjelenik a nemzetközi irodalomban ismert mintázat (a múltbeli veszteseket venni, a győzteseket eladni rövid távon), és a likviditásnyújtás statisztikailag szignifikánsan nyereséges. Az eredmény konzisztens azzal, hogy likviditásszűkében csak magas hozam mellett valósul meg likviditásnyújtás.",
+  "data_used": "Budapest Stock Exchange (BÉT) daily stock returns and transaction data. Portfolio construction on past-return quantiles and on an explicit liquidity-provision filter.",
+  "data_used_hu": "BÉT napi részvényhozamok és tranzakciós adatok. Portfóliószerkesztés múltbeli hozamok szerint és explicit likviditásnyújtási szűrő alapján.",
+  "policy_relevance": "Direct input for the MNB / BÉT market-development agenda: the liquidity premium is economically meaningful even on the small Hungarian market. Supports policies that widen market-making participation (tax relief, registration fee reduction). Caveat: the result is in-sample; transaction costs on BÉT may erode net profitability.",
+  "policy_relevance_hu": "Közvetlen bemenet az MNB / BÉT tőkepiac-fejlesztési programjának: a likviditási prémium még a kis magyar piacon is gazdaságilag érdemi. A piacjegyzői részvételt szélesítő szakpolitikák (adókedvezmény, regisztrációs díj csökkentése) indokoltak. Korlát: in-sample eredmény; a BÉT-es tranzakciós költségek elvihetik a nettó nyereséget.",
+  "topics": [
+    "banking-finance"
+  ],
+  "methods": [
+    "time-series"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
   "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3189937188"
+  "review_status": "ai-drafted",
+  "openalex_id": "W3189937188",
+  "policy_instruments": [
+    "BÉT market-making ösztönző",
+    "tőkepiac-fejlesztési program (MNB)"
+  ]
 }

@@ -18,19 +18,32 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "A nemzetközi egyetemi rangsorokban a tudományos teljesítmény mérése kap nagy hangsúlyt, míg a magyar egyetemi rangsorolási gyakorlat kisebb mértékben jeleníti meg ezt, és a nemzetközi irodalomtól eltérően nem a publikációs teljesítmény alapján számolja. Tanulmányunk a Magyar Tudományos Művek Tárhelyén (MTMT) alapuló egyedi adatok segítségével arra ad több lehetséges példát, hogyan lehetne egy fontos szempontot a tudományos publikációk alapján beépíteni a magyar egyetemi rangsorokba. Azt is megmutatjuk, hogy számos megközelítés alkalmazható, de ezek nagyon hasonló következtetésre jutnak. Tehát a tudományos publikáción alapuló új szempont robusztus eredményt ad.* &#13;\\nJournal of Economic Literature (JEL) kód: I23.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "How should Hungarian university rankings weight research performance? International rankings lean heavily on bibliometrics; Hungarian rankings much less so, and measure research less by publication output. Using individual-level data from MTMT (Hungarian Scientific Bibliography), the authors test several bibliometrics-based aggregation approaches and show that the rankings they produce are very similar to each other — i.e. the result is robust to methodological choice. The implication: adding a publication-based component to Hungarian rankings is methodologically easy and would reliably shift attention toward research performance.",
+  "summary_hu": "Hogyan érdemes a tudományos teljesítményt mérni a magyar gazdasági képzések rangsorában? A nemzetközi egyetemi rangsorok a bibliometriára építenek; a magyar gyakorlat kisebb súllyal és nem publikációs alapon. Az MTMT egyéni szintű adatait felhasználva a szerzők több bibliometria-alapú aggregációs módszert tesztelnek, és megmutatják, hogy a különböző megközelítések nagyon hasonló eredményre jutnak — a rangsorok módszertani választásra robusztusak. A publikációs komponens bevezetése tehát módszertani szempontból egyszerű és megbízható lenne.",
+  "data_used": "MTMT (Magyar Tudományos Művek Tára) individual-level publication and citation records for faculty at Hungarian economics programmes. Programme-level aggregation for ranking exercises.",
+  "data_used_hu": "MTMT (Magyar Tudományos Művek Tára) egyéni szintű publikációs és idézettségi adatok a magyar gazdasági képzések oktatóiról. Képzés szintű aggregálás rangsorokhoz.",
+  "policy_relevance": "Direct input for the Innovation and Technology Ministry / OH higher-education ranking methodology for economics programmes. Supports adding a publication-based weight without paralysis by methodological choice. Caveat: economics programmes only; field-specific adjustments would be needed for other disciplines.",
+  "policy_relevance_hu": "Közvetlen bemenet a KIM / OH felsőoktatási rangsor-módszertannak a gazdasági képzések esetében. Támogatja egy publikációs komponens bevezetését — a módszertani választás nem akadályozza érdemben a folyamatot. Korlát: csak a gazdasági képzésekre; más területekre szakági kalibrálás kell.",
+  "topics": [
+    "education-skills",
+    "methods"
+  ],
+  "methods": [
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
   "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2964368019"
+  "review_status": "ai-drafted",
+  "openalex_id": "W2964368019",
+  "policy_instruments": [
+    "felsőoktatási rangsor-módszertan (KIM/OH)",
+    "MTMT alapú értékelés"
+  ]
 }

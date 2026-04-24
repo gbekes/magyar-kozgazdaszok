@@ -1,0 +1,51 @@
+{
+  "id": "endresz-harasztosi-2014-emr",
+  "title": "Corporate foreign currency borrowing and investment: The case of Hungary",
+  "authors": [
+    "Marianna Endrész",
+    "harasztosi-peter"
+  ],
+  "publication_type": "article",
+  "journal": "Emerging Markets Review",
+  "year": 2014,
+  "volume": "21",
+  "issue": null,
+  "pages": "265-287",
+  "doi": "10.1016/j.ememar.2014.09.003",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1016/j.ememar.2014.09.003",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Hungarian firms borrowed heavily in foreign currency before 2008. When the forint depreciated, the value of their FX liabilities jumped. Did this constrain investment? Using detailed firm-level data, the authors document a large negative effect of FX debt on corporate investment after the crisis: the more a firm was borrowed in FX at the start, the more its investment fell when the forint weakened. The channel is balance-sheet-mediated: FX-debt firms lose net worth on depreciation and cut capital expenditure. A textbook demonstration of the 'currency mismatch' balance-sheet channel in a CEE context.",
+  "summary_hu": "A magyar vállalatok 2008 előtt erősen deviza-hitelből finanszírozták magukat. A forint leértékelődésekor a devizakötelezettségek értéke megugrott. Korlátozta-e ez a beruházásokat? Részletes vállalati szintű adatokon a szerzők nagy negatív hatást mutatnak ki: minél jobban devizaadós volt egy cég a válság előtt, annál nagyobbat esett a beruházása a forint gyengülésekor. A csatorna mérlegalapú: a devizás vállalatok nettó vagyona csökken a leértékeléssel, és ezért csökkentik a beruházásokat. Tankönyvszerű példa a 'currency mismatch' mérleghatásra a KKE régióban.",
+  "data_used": "Hungarian firm-level financial and investment data for the years around 2008 (NAV tax filings / MNB balance-sheet data). Firms classified by share of FX liabilities pre-crisis. Panel estimation with firm fixed effects.",
+  "data_used_hu": "Magyar vállalati szintű pénzügyi és beruházási adatok a 2008 körüli évekből (NAV / MNB mérlegadatok). Vállalatok osztályozása a válság előtti devizahitel-arány szerint. Panelbecslés cég-fix hatásokkal.",
+  "policy_relevance": "Foundational evidence for MNB's post-crisis foreign-currency-lending regulation (forintosítás, limits on FX consumer lending, corporate FX rules). Supports the view that prudential limits on FX exposure are justified on real-economy grounds, not only on consumer-protection grounds. Caveat: the crisis was idiosyncratic; effect size is likely bounded to events with large HUF depreciation.",
+  "policy_relevance_hu": "Alapozó bizonyíték az MNB válság utáni deviza-hitelezési szabályozásához (forintosítás, lakossági és vállalati deviza-hitelezési korlátok). Támogatja azt az álláspontot, hogy a devizakitettségre vonatkozó prudenciális korlátok reálgazdasági alapon is indokoltak, nem csak fogyasztóvédelmi alapon. Korlát: idioszinkratikus válság; a hatás mérete valószínűleg nagy HUF-gyengülésekhez kötött.",
+  "topics": [
+    "banking-finance",
+    "firms-productivity",
+    "macroeconomics"
+  ],
+  "methods": [
+    "diff-in-diff",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
+  "featured": false,
+  "added_at": "2026-04-24",
+  "last_reviewed_at": "2026-04-24",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2143162058",
+  "policy_instruments": [
+    "forintosítás",
+    "MNB devizakitettségi korlát",
+    "corporate FX prudenciális szabály"
+  ]
+}

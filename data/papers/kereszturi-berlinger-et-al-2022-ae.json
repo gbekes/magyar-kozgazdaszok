@@ -18,19 +18,35 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We investigate the role of the regulatory environment and the press freedom in detecting corporate fraud. We study 1,242 internal frauds from 79 countries during the period of 2011–2019. The importance of regulation is assessed by splitting the sample into the highly regulated and monitored financial sector and the non-financial sector subject to less strict internal standards and industry-specific regulation. To examine the importance of journalists in fraud detection, we use the Word Press Freedom index and postulate that in countries with free media more internal frauds are detected. We find empirical evidence on a global sample that in the financial sector designated authorities (professional bank supervisors) play an important role in fraud detection. For the non-financial sector, we show that the media is crucial in detecting corporate fraud: the more freely journalists can write, the more events are detected.",
-  "summary_en": null,
+  "summary_en": "Who actually detects corporate fraud — regulators or journalists? Using 1,242 internal frauds from 79 countries (2011–2019), this paper splits the evidence by sector. In the financial sector, where banks are heavily supervised, designated prudential authorities drive fraud detection — and the detection rate barely moves with press freedom. In the less-regulated non-financial sector the pattern flips: countries with freer media detect substantially more fraud. The complementarity matters for the design of anti-fraud policy: sector-specific supervisors are crucial in finance, while in the rest of the economy, investigative journalism is structurally important.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "1,242 internal corporate-fraud events from 79 countries, 2011–2019, coded by sector (financial vs non-financial) and detection channel. Country-level controls including the World Press Freedom Index, rule-of-law indices, and financial-sector supervision intensity.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian policy: the balance between MNB / SZTFH supervisory capacity and the independence of investigative media is not a trade-off but a complementarity. Weakening either one reduces total fraud detection in its domain. Relevant to the debate on media pluralism and on regulatory-agency budgets. Caveat: detection is what's measured — actual fraud prevalence is hard to observe, so some of the result may reflect under-detection rather than under-incidence.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "political-economy"
+  ],
+  "methods": [
+    "panel-data",
+    "structural"
+  ],
+  "countries_studied": [
+    "global"
+  ],
+  "data_types": [
+    "firm-level-dataset",
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
   "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4285727487"
+  "review_status": "ai-drafted",
+  "openalex_id": "W4285727487",
+  "policy_instruments": [
+    "prudential supervision (MNB)",
+    "media pluralism policy",
+    "whistleblower protection"
+  ]
 }

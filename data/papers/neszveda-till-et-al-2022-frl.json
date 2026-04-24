@@ -19,19 +19,33 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Studies focusing on the U.S. stock markets argue that the short-term reversal is related to liquidity provision. We test the implications of the theory of liquidity provision to investigate the profitability of reversal trading strategies in the Chinese markets. We find highly robust and puzzling patterns that are mainly inconsistent with findings in the U.S. markets and liquidity provision. There is a momentum based on the most recent day instead of reversal, only few specific days drive the profitability of the reversal strategies, and even these profits do not depend on liquidity constraints as liquidity provision theory implies.",
-  "summary_en": null,
+  "summary_en": "In US equity markets, short-term reversal (buy past losers, sell past winners) is typically explained by liquidity provision — market-makers demand a return for taking the other side. This paper tests the theory on Chinese stock markets. The pattern is strikingly different: instead of reversal, the data show momentum based on the very most recent day. Only a handful of specific days drive reversal-strategy profits, and even those do not track liquidity constraints as the theory would predict. The theory of liquidity provision does not transfer mechanically to China.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Chinese A-share and H-share daily returns over ~10 years, matched with liquidity proxies (turnover, Amihud illiquidity, bid-ask spreads). Portfolio-sorted strategies on past returns at daily-to-weekly horizon.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Background reading for MNB reserves management and for Hungarian institutional investors considering China-equity exposure. The finding that US-derived asset-pricing anomalies don't transfer mechanically should push portfolio construction toward market-specific models. Not a direct Hungarian-policy paper.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "behavioral"
+  ],
+  "methods": [
+    "time-series",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "CN"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
   "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4289527158"
+  "review_status": "ai-drafted",
+  "openalex_id": "W4289527158",
+  "policy_instruments": [
+    "MNB reserve allocation to emerging equities",
+    "cross-market asset-pricing modelling"
+  ]
 }

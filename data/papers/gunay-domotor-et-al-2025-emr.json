@@ -18,19 +18,32 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This study investigates the relationship between Emerging Markets Financial Stress Index (EMFSI) and currency returns, uncertainty and liquidity of eight emerging economies, using MODWT, Wavelet Coherence, TVP-VAR analyses. The results indicate that interactions become more pronounced during political events rather than economic developments. Energy market developments also appear to be significant periods for the interaction of variables, especially for Saudi Arabia and the UAE. Finally, the findings related to investment horizon suggest that short-term spillovers may be linked to medium- to long-term correlations between the EMFSI and currency pairs. This could serve as an early warning for policymakers and investors. • Financial stress is investigated using MODWT, Wavelet Coherence, TVP-VAR. • EMFSI emerges as a valuable tool for tracking political risks in emerging economies. • Energy market developments appear to be significant periods for the interactions of currency markets and the EMFSI. • Associations between the EMFSI and currency market variables strengthen with increasing frequency bands.",
-  "summary_en": null,
+  "summary_en": "Does emerging-market financial stress actually move with currency-market uncertainty, and at what horizon? Using MODWT, wavelet-coherence, and TVP-VAR tools on eight emerging economies (including Saudi Arabia and the UAE), the authors show that the Emerging Markets Financial Stress Index (EMFSI) co-moves much more with currency returns during political stress than during pure economic shocks. Energy-market episodes are also high-coherence windows. Short-term spillovers appear to run to medium/long-term correlations, offering a potential early-warning channel for policymakers and investors.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Daily data for 8 emerging economies (incl. Saudi Arabia, UAE, Brazil, Mexico, Turkey, South Africa, Russia, China) over ~2000–2023: currency returns, FX-market liquidity (bid-ask spreads), FX-market uncertainty, and the Emerging Markets Financial Stress Index (EMFSI).",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Useful for MNB reserve-management and FX-stress monitoring of the forint (as a non-G10 currency). Supports weighting political-risk news higher than pure macro news for stress-horizon calibration. Caveat: the 8-country sample does not include Hungary — transfer requires assuming similar transmission structure.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "macroeconomics"
+  ],
+  "methods": [
+    "time-series"
+  ],
+  "countries_studied": [
+    "global"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
   "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4407270108"
+  "review_status": "ai-drafted",
+  "openalex_id": "W4407270108",
+  "policy_instruments": [
+    "MNB FX-reserve stress testing",
+    "currency crisis early-warning"
+  ]
 }
