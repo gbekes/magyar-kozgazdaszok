@@ -7,22 +7,33 @@
     "Carlo Altomonte"
   ],
   "outlet_kind": "report",
-  "outlet": "Bruegel (co-edited book)",
-  "outlet_issue": null,
-  "institution": null,
+  "outlet": "Bruegel Blueprint Series",
+  "outlet_issue": "#24",
+  "institution": "Bruegel",
   "year": 2016,
   "language": "en",
-  "url": "https://www.bruegel.org/...",
+  "url": "https://www.bruegel.org/sites/default/files/wp-content/uploads/2016/01/Blueprint-XXIV.pdf",
   "doi": null,
-  "summary_en": null,
+  "summary_en": "Co-edited Bruegel Blueprint XXIV synthesising the CompNet research network's findings on European competitiveness. Brings together micro-aggregated firm-level evidence on productivity dispersion, resource misallocation, granularity (big-firm dominance), and trade. Hungary appears throughout as one of the most-analysed CEE benchmarks.",
   "summary_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Frame document for the European Commission and ECB on competitiveness measurement: a single TFP number per country is not enough; misallocation and granularity matter. Hungarian policymakers (MNB, MGFM, NKFI) can use the framework to interpret why headline productivity gaps with the EU15 are not closing. Caveat: large multi-author synthesis; specific channels for Hungary need detail beyond the headline measures.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "countries_studied": [],
-  "policy_instruments": [],
+  "topics": [
+    "firms-productivity",
+    "trade-fdi",
+    "methods"
+  ],
+  "countries_studied": [
+    "EU",
+    "HU"
+  ],
+  "policy_instruments": [
+    "CompNet productivity dashboard",
+    "EU competitiveness framework",
+    "TFP measurement"
+  ],
   "linked_paper_id": null,
   "added_at": "2026-04-25",
   "last_reviewed_at": "2026-04-25",
-  "review_status": "metadata-fetched"
+  "review_status": "ai-drafted"
 }

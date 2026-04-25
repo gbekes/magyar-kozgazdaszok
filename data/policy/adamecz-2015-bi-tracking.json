@@ -6,22 +6,31 @@
     "adamecz-anna"
   ],
   "outlet_kind": "report",
-  "outlet": "Budapest Institute",
+  "outlet": "Budapest Institute Policy Brief",
   "outlet_issue": null,
-  "institution": null,
+  "institution": "Budapest Institute",
   "year": 2015,
   "language": "en",
   "url": "http://www.budapestinstitute.eu/uploads/BI_policy_brief_2015.1.pdf",
   "doi": null,
-  "summary_en": null,
+  "summary_en": "Policy brief on early educational tracking in Hungary. Reviews the international evidence that early sorting widens between-school inequality without raising mean achievement, and applies it to the Hungarian eight-year and six-year gimnázium system. Shows that early-tracking effects compound through the secondary cycle and contribute to the very high inter-school variance in Hungarian PISA scores.",
   "summary_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct input for the Hungarian Education Ministry / OH on secondary-school structure. Argues for delaying tracking and for stronger general-education content in the early secondary years. Politically charged in Hungary because it conflicts with the elite-gimnázium system. Caveat: the international evidence has heterogeneity that the Hungarian application doesn't fully reconcile.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "countries_studied": [],
-  "policy_instruments": [],
+  "topics": [
+    "education-skills",
+    "inequality-welfare"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "policy_instruments": [
+    "secondary-school tracking age",
+    "gimnázium 8-year cycle",
+    "PISA monitoring"
+  ],
   "linked_paper_id": null,
   "added_at": "2026-04-25",
   "last_reviewed_at": "2026-04-25",
-  "review_status": "metadata-fetched"
+  "review_status": "ai-drafted"
 }

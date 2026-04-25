@@ -6,22 +6,32 @@
     "adamecz-anna"
   ],
   "outlet_kind": "report",
-  "outlet": "Budapest Institute",
+  "outlet": "Budapest Institute Case Study",
   "outlet_issue": null,
-  "institution": null,
+  "institution": "Budapest Institute",
   "year": 2025,
   "language": "en",
   "url": "http://www.budapestinstitute.eu/uploads/Case_study_DisabilityReform_Hungary_07042025.pdf",
   "doi": null,
-  "summary_en": null,
+  "summary_en": "Case study of Hungary's 2011–2012 disability-insurance reform, which sharply tightened eligibility and re-assessed the incumbent disability-pension caseload. The fiscal saving was large, but documented human costs — re-assessed beneficiaries with worse health and lower earnings post-reform — were significant. The paper compiles the evidence and quantifies the trade-off.",
   "summary_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance to ongoing Hungarian disability and rehabilitation policy (KSH, Pénzügyminisztérium, NÉP). The central message: tightening eligibility delivers fiscal gains but transfers costs to a vulnerable group; pairing with rehabilitation services materially reduces the human cost. Useful for parliamentary testimony and EU-level disability policy reviews. Caveat: data limitations on long-run health outcomes.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "countries_studied": [],
-  "policy_instruments": [],
+  "topics": [
+    "inequality-welfare",
+    "health",
+    "fiscal-tax"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "policy_instruments": [
+    "disability eligibility criteria",
+    "rehabilitation services",
+    "reassessment process"
+  ],
   "linked_paper_id": null,
   "added_at": "2026-04-25",
   "last_reviewed_at": "2026-04-25",
-  "review_status": "metadata-fetched"
+  "review_status": "ai-drafted"
 }

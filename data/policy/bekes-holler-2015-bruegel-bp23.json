@@ -6,23 +6,33 @@
     "bekes-gabor",
     "Zsuzsa Holler"
   ],
-  "outlet_kind": "report",
-  "outlet": "Bruegel Blueprint #23 (Castellani & Koch eds.)",
-  "outlet_issue": null,
-  "institution": null,
+  "outlet_kind": "chapter",
+  "outlet": "Bruegel Blueprint Series",
+  "outlet_issue": "#23",
+  "institution": "Bruegel",
   "year": 2015,
   "language": "en",
-  "url": "https://www.bruegel.org/...",
+  "url": "https://www.bruegel.org/system/files/wp_attachments/Blueprint_XXIII_web.pdf",
   "doi": null,
-  "summary_en": null,
+  "summary_en": "Chapter in the Castellani-Koch volume *Mapping competitiveness with European data*. Surveys the European firm-level data landscape and documents the practical and legal barriers to linking national firm registers across countries. The Hungarian case is featured as one of the better-organised national datasets, but cross-border matching remains painful.",
   "summary_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Useful for KSH and Eurostat: the lack of linked firm data is a binding constraint on EU-wide competitiveness analysis. Supports the case for legal and technical investment in cross-border microdata access (CompNet, EuropeanDataLab). Caveat: written before GDPR, so the legal landscape has shifted.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "countries_studied": [],
-  "policy_instruments": [],
+  "topics": [
+    "firms-productivity",
+    "methods"
+  ],
+  "countries_studied": [
+    "EU",
+    "HU"
+  ],
+  "policy_instruments": [
+    "cross-border microdata access",
+    "CompNet",
+    "KSH register linkage"
+  ],
   "linked_paper_id": null,
   "added_at": "2026-04-25",
   "last_reviewed_at": "2026-04-25",
-  "review_status": "metadata-fetched"
+  "review_status": "ai-drafted"
 }

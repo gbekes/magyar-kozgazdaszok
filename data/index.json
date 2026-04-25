@@ -263,7 +263,7 @@
       "review_status": "confident",
       "openalex_id": "A5017880363",
       "paper_count": 17,
-      "policy_count": 8,
+      "policy_count": 11,
       "press_count": 23
     },
     {
@@ -580,7 +580,7 @@
       "openalex_id": "A5074279095",
       "paper_count": 3,
       "policy_count": 0,
-      "press_count": 0
+      "press_count": 1
     },
     {
       "id": "boza-istvan",
@@ -1199,7 +1199,7 @@
       "review_status": "confident",
       "openalex_id": "A5077870424",
       "paper_count": 15,
-      "policy_count": 2,
+      "policy_count": 5,
       "press_count": 0
     },
     {
@@ -1435,8 +1435,8 @@
       "openalex_id": "A5043150559",
       "bio_review": "confident",
       "paper_count": 5,
-      "policy_count": 0,
-      "press_count": 0
+      "policy_count": 2,
+      "press_count": 15
     },
     {
       "id": "juhasz-sandor",
@@ -1798,8 +1798,8 @@
       "review_status": "confident",
       "openalex_id": "A5066597415",
       "paper_count": 14,
-      "policy_count": 2,
-      "press_count": 0
+      "policy_count": 7,
+      "press_count": 4
     },
     {
       "id": "kornai-janos",
@@ -2223,7 +2223,7 @@
       "review_status": "confident",
       "openalex_id": "A5074785351",
       "paper_count": 15,
-      "policy_count": 2,
+      "policy_count": 8,
       "press_count": 0
     },
     {
@@ -2395,7 +2395,7 @@
       "openalex_id": "A5079422127",
       "paper_count": 3,
       "policy_count": 0,
-      "press_count": 0
+      "press_count": 1
     },
     {
       "id": "prinz-daniel",
@@ -2668,7 +2668,7 @@
       "openalex_id": "A5065432388",
       "paper_count": 12,
       "policy_count": 0,
-      "press_count": 0
+      "press_count": 1
     },
     {
       "id": "szentes-balazs",
@@ -32351,24 +32351,33 @@
         "adamecz-anna"
       ],
       "outlet_kind": "report",
-      "outlet": "Budapest Institute",
+      "outlet": "Budapest Institute Policy Brief",
       "outlet_issue": null,
-      "institution": null,
+      "institution": "Budapest Institute",
       "year": 2015,
       "language": "en",
       "url": "http://www.budapestinstitute.eu/uploads/BI_policy_brief_2015.1.pdf",
       "doi": null,
-      "summary_en": null,
+      "summary_en": "Policy brief on early educational tracking in Hungary. Reviews the international evidence that early sorting widens between-school inequality without raising mean achievement, and applies it to the Hungarian eight-year and six-year gimnázium system. Shows that early-tracking effects compound through the secondary cycle and contribute to the very high inter-school variance in Hungarian PISA scores.",
       "summary_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct input for the Hungarian Education Ministry / OH on secondary-school structure. Argues for delaying tracking and for stronger general-education content in the early secondary years. Politically charged in Hungary because it conflicts with the elite-gimnázium system. Caveat: the international evidence has heterogeneity that the Hungarian application doesn't fully reconcile.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "countries_studied": [],
-      "policy_instruments": [],
+      "topics": [
+        "education-skills",
+        "inequality-welfare"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "policy_instruments": [
+        "secondary-school tracking age",
+        "gimnázium 8-year cycle",
+        "PISA monitoring"
+      ],
       "linked_paper_id": null,
       "added_at": "2026-04-25",
       "last_reviewed_at": "2026-04-25",
-      "review_status": "metadata-fetched"
+      "review_status": "ai-drafted"
     },
     {
       "id": "adamecz-2018-bi-admindata",
@@ -32488,24 +32497,34 @@
         "Scharle"
       ],
       "outlet_kind": "working_paper",
-      "outlet": "Budapest Institute (IJSSP working paper)",
+      "outlet": "Budapest Institute / IJSSP working paper",
       "outlet_issue": null,
-      "institution": null,
+      "institution": "Budapest Institute",
       "year": 2023,
       "language": "en",
       "url": "http://www.budapestinstitute.eu/uploads/hajnal-scharle-whatworks-IJSSP2023_author_accepted.pdf",
       "doi": null,
-      "summary_en": null,
+      "summary_en": "Theory-led review asking which classes of anti-discrimination measures should work for which target groups. Distinguishes interventions targeted at employer perception (audit/testing, training) from those targeted at the employment process (blind CVs, structured interviews). Conclusion: which measure works depends on whether the discrimination is taste-based, statistical, or driven by network effects.",
       "summary_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Actionable framework for the Hungarian Equal Treatment Authority and EU equality bodies: the 'best' anti-discrimination intervention is conditional on the kind of discrimination. Helpful when designing pilot programmes. Caveat: theoretical synthesis with selective empirical evidence; mechanism identification on Hungarian data is rare.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "countries_studied": [],
-      "policy_instruments": [],
+      "topics": [
+        "labor-markets",
+        "inequality-welfare"
+      ],
+      "countries_studied": [
+        "HU",
+        "EU"
+      ],
+      "policy_instruments": [
+        "blind CVs",
+        "employer-audit programmes",
+        "EBH guidance"
+      ],
       "linked_paper_id": null,
       "added_at": "2026-04-25",
       "last_reviewed_at": "2026-04-25",
-      "review_status": "metadata-fetched"
+      "review_status": "ai-drafted"
     },
     {
       "id": "adamecz-2025-bi-disability",
@@ -32515,24 +32534,34 @@
         "adamecz-anna"
       ],
       "outlet_kind": "report",
-      "outlet": "Budapest Institute",
+      "outlet": "Budapest Institute Case Study",
       "outlet_issue": null,
-      "institution": null,
+      "institution": "Budapest Institute",
       "year": 2025,
       "language": "en",
       "url": "http://www.budapestinstitute.eu/uploads/Case_study_DisabilityReform_Hungary_07042025.pdf",
       "doi": null,
-      "summary_en": null,
+      "summary_en": "Case study of Hungary's 2011–2012 disability-insurance reform, which sharply tightened eligibility and re-assessed the incumbent disability-pension caseload. The fiscal saving was large, but documented human costs — re-assessed beneficiaries with worse health and lower earnings post-reform — were significant. The paper compiles the evidence and quantifies the trade-off.",
       "summary_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance to ongoing Hungarian disability and rehabilitation policy (KSH, Pénzügyminisztérium, NÉP). The central message: tightening eligibility delivers fiscal gains but transfers costs to a vulnerable group; pairing with rehabilitation services materially reduces the human cost. Useful for parliamentary testimony and EU-level disability policy reviews. Caveat: data limitations on long-run health outcomes.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "countries_studied": [],
-      "policy_instruments": [],
+      "topics": [
+        "inequality-welfare",
+        "health",
+        "fiscal-tax"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "policy_instruments": [
+        "disability eligibility criteria",
+        "rehabilitation services",
+        "reassessment process"
+      ],
       "linked_paper_id": null,
       "added_at": "2026-04-25",
       "last_reviewed_at": "2026-04-25",
-      "review_status": "metadata-fetched"
+      "review_status": "ai-drafted"
     },
     {
       "id": "adamecz-bi-homelessness-cee",
@@ -32651,24 +32680,34 @@
         "Carlo Altomonte"
       ],
       "outlet_kind": "working_paper",
-      "outlet": "MicroDyn Working Paper 6/2011",
-      "outlet_issue": null,
-      "institution": null,
+      "outlet": "MicroDyn Working Paper",
+      "outlet_issue": "6/2011",
+      "institution": "MicroDyn FP7 / wiiw",
       "year": 2011,
       "language": "en",
-      "url": null,
+      "url": "https://wiiw.ac.at/internationalisation-of-corporate-activity-and-competitiveness-of-the-european-economy-some-policy-implications-p-2105.html",
       "doi": null,
-      "summary_en": null,
+      "summary_en": "Final policy paper of the MicroDyn FP7 project. Synthesises the project's firm-level evidence on European internationalisation and competitiveness, with a particular focus on the productivity gains from FDI, importing, and exporting. Hungarian micro-data is used as one of the key empirical settings.",
       "summary_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Frame for European Commission Enterprise DG and for Hungarian FDI promotion (HIPA): the policy mix should target multiple internationalisation modes (import as well as export, FDI both in and out), not just headline export volumes. Caveat: an FP7 synthesis paper, so the specific recommendations are hedged.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "countries_studied": [],
-      "policy_instruments": [],
+      "topics": [
+        "trade-fdi",
+        "firms-productivity"
+      ],
+      "countries_studied": [
+        "EU",
+        "HU"
+      ],
+      "policy_instruments": [
+        "HIPA FDI promotion",
+        "import-credit support",
+        "EU enterprise policy"
+      ],
       "linked_paper_id": null,
       "added_at": "2026-04-25",
       "last_reviewed_at": "2026-04-25",
-      "review_status": "metadata-fetched"
+      "review_status": "ai-drafted"
     },
     {
       "id": "altomonte-bekes-2016-bruegel-book",
@@ -32679,24 +32718,35 @@
         "Carlo Altomonte"
       ],
       "outlet_kind": "report",
-      "outlet": "Bruegel (co-edited book)",
-      "outlet_issue": null,
-      "institution": null,
+      "outlet": "Bruegel Blueprint Series",
+      "outlet_issue": "#24",
+      "institution": "Bruegel",
       "year": 2016,
       "language": "en",
-      "url": "https://www.bruegel.org/...",
+      "url": "https://www.bruegel.org/sites/default/files/wp-content/uploads/2016/01/Blueprint-XXIV.pdf",
       "doi": null,
-      "summary_en": null,
+      "summary_en": "Co-edited Bruegel Blueprint XXIV synthesising the CompNet research network's findings on European competitiveness. Brings together micro-aggregated firm-level evidence on productivity dispersion, resource misallocation, granularity (big-firm dominance), and trade. Hungary appears throughout as one of the most-analysed CEE benchmarks.",
       "summary_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Frame document for the European Commission and ECB on competitiveness measurement: a single TFP number per country is not enough; misallocation and granularity matter. Hungarian policymakers (MNB, MGFM, NKFI) can use the framework to interpret why headline productivity gaps with the EU15 are not closing. Caveat: large multi-author synthesis; specific channels for Hungary need detail beyond the headline measures.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "countries_studied": [],
-      "policy_instruments": [],
+      "topics": [
+        "firms-productivity",
+        "trade-fdi",
+        "methods"
+      ],
+      "countries_studied": [
+        "EU",
+        "HU"
+      ],
+      "policy_instruments": [
+        "CompNet productivity dashboard",
+        "EU competitiveness framework",
+        "TFP measurement"
+      ],
       "linked_paper_id": null,
       "added_at": "2026-04-25",
       "last_reviewed_at": "2026-04-25",
-      "review_status": "metadata-fetched"
+      "review_status": "ai-drafted"
     },
     {
       "id": "altomonte-bekes-2016-bruegel-ch",
@@ -32706,25 +32756,34 @@
         "bekes-gabor",
         "Carlo Altomonte"
       ],
-      "outlet_kind": "report",
-      "outlet": "Bruegel — *Measuring competitiveness in Europe*",
+      "outlet_kind": "chapter",
+      "outlet": "Bruegel Blueprint #24 — Measuring competitiveness in Europe",
       "outlet_issue": null,
-      "institution": null,
+      "institution": "Bruegel",
       "year": 2016,
       "language": "en",
-      "url": "https://www.bruegel.org/...",
+      "url": "https://www.bruegel.org/sites/default/files/wp-content/uploads/2016/01/Blueprint-XXIV.pdf",
       "doi": null,
-      "summary_en": null,
+      "summary_en": "Opening chapter of Blueprint XXIV. Argues for a granular and global view of competitiveness: aggregate measures average over the relevant heterogeneity, and trade matters because it concentrates competitiveness pressure on specific firms and products. Lays the groundwork for the firm-level chapters that follow.",
       "summary_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Methodological frame for the European Commission's competitiveness scorecards and the MNB's productivity work: headline TFP and ULC numbers should be supplemented with within-country dispersion measures and trade-exposed-segment indicators. Caveat: a methodological piece, not a policy-recommendations chapter.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "countries_studied": [],
-      "policy_instruments": [],
+      "topics": [
+        "firms-productivity",
+        "trade-fdi",
+        "methods"
+      ],
+      "countries_studied": [
+        "EU"
+      ],
+      "policy_instruments": [
+        "EC competitiveness scorecard",
+        "TFP dispersion measures"
+      ],
       "linked_paper_id": null,
       "added_at": "2026-04-25",
       "last_reviewed_at": "2026-04-25",
-      "review_status": "metadata-fetched"
+      "review_status": "ai-drafted"
     },
     {
       "id": "bekes-2004-mt-location",
@@ -32733,13 +32792,13 @@
       "authors": [
         "bekes-gabor"
       ],
-      "outlet_kind": "report",
-      "outlet": "Hungarian Labour Market 2004 (K. Fazekas, J. Koltay, Zs. Cseres-Gergely eds.)",
+      "outlet_kind": "chapter",
+      "outlet": "The Hungarian Labour Market 2004 (Fazekas, Koltay, Cseres-Gergely eds.)",
       "outlet_issue": null,
-      "institution": null,
+      "institution": "KRTK / Munkaerőpiaci Tükör",
       "year": 2004,
       "language": "en",
-      "url": null,
+      "url": "https://kti.krtk.hu/wp-content/uploads/2018/12/munkero04_mt.pdf",
       "doi": null,
       "summary_en": null,
       "summary_hu": null,
@@ -32761,25 +32820,35 @@
         "bekes-gabor",
         "Zsuzsa Holler"
       ],
-      "outlet_kind": "report",
-      "outlet": "Bruegel Blueprint #23 (Castellani & Koch eds.)",
-      "outlet_issue": null,
-      "institution": null,
+      "outlet_kind": "chapter",
+      "outlet": "Bruegel Blueprint Series",
+      "outlet_issue": "#23",
+      "institution": "Bruegel",
       "year": 2015,
       "language": "en",
-      "url": "https://www.bruegel.org/...",
+      "url": "https://www.bruegel.org/system/files/wp_attachments/Blueprint_XXIII_web.pdf",
       "doi": null,
-      "summary_en": null,
+      "summary_en": "Chapter in the Castellani-Koch volume *Mapping competitiveness with European data*. Surveys the European firm-level data landscape and documents the practical and legal barriers to linking national firm registers across countries. The Hungarian case is featured as one of the better-organised national datasets, but cross-border matching remains painful.",
       "summary_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Useful for KSH and Eurostat: the lack of linked firm data is a binding constraint on EU-wide competitiveness analysis. Supports the case for legal and technical investment in cross-border microdata access (CompNet, EuropeanDataLab). Caveat: written before GDPR, so the legal landscape has shifted.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "countries_studied": [],
-      "policy_instruments": [],
+      "topics": [
+        "firms-productivity",
+        "methods"
+      ],
+      "countries_studied": [
+        "EU",
+        "HU"
+      ],
+      "policy_instruments": [
+        "cross-border microdata access",
+        "CompNet",
+        "KSH register linkage"
+      ],
       "linked_paper_id": null,
       "added_at": "2026-04-25",
       "last_reviewed_at": "2026-04-25",
-      "review_status": "metadata-fetched"
+      "review_status": "ai-drafted"
     },
     {
       "id": "bekes-koren-halpern-murakozy-2011-bruegel-bp15",
@@ -32792,12 +32861,91 @@
         "murakozy-balazs"
       ],
       "outlet_kind": "report",
-      "outlet": "Bruegel Blueprint Series #15",
-      "outlet_issue": null,
-      "institution": null,
+      "outlet": "Bruegel Blueprint Series",
+      "outlet_issue": "#15",
+      "institution": "Bruegel",
       "year": 2011,
       "language": "en",
-      "url": "https://www.bruegel.org/...",
+      "url": "https://bruegel.org/wp-content/uploads/2015/09/Blueprint-15-EFIGE.pdf",
+      "doi": null,
+      "summary_en": "European firms weathered the 2008–9 crisis better than the macro data alone would suggest. Using the EFIGE survey of about 14,000 firms across seven EU countries (incl. Hungary), the report documents that exporters and multi-product firms were systematically more resilient. Hungarian results echo the European pattern: firms with stronger international links pre-crisis lost fewer workers and recovered faster.",
+      "summary_hu": null,
+      "policy_relevance": "Direct input for Hungarian export-promotion (HIPA) and SME-finance policy. Argues that firm-level internationalisation is itself a stabiliser, so the policy levers worth using during a downturn are export-credit access, trade finance, and FDI promotion — not blanket bailouts. Caveat: a single cross-section, so the resilience pattern may not generalise to demand-driven crises (e.g. COVID-19).",
+      "policy_relevance_hu": null,
+      "topics": [
+        "trade-fdi",
+        "firms-productivity"
+      ],
+      "countries_studied": [
+        "EU",
+        "HU"
+      ],
+      "policy_instruments": [
+        "export-promotion (HIPA)",
+        "trade finance",
+        "FDI promotion"
+      ],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "ai-drafted"
+    },
+    {
+      "id": "bekes-koren-halpern-murakozy-2011-efige",
+      "title": "How did exporting firms cope with the crisis? — EFIGE Country Report: Hungary",
+      "title_hu": null,
+      "authors": [
+        "bekes-gabor",
+        "koren-miklos",
+        "halpern-laszlo",
+        "murakozy-balazs"
+      ],
+      "outlet_kind": "report",
+      "outlet": "EFIGE Country Report",
+      "outlet_issue": "Hungary",
+      "institution": "Bruegel (EFIGE)",
+      "year": 2012,
+      "language": "en",
+      "url": "https://bruegel.org/wp-content/uploads/2015/09/Hungary-rpt.pdf",
+      "doi": null,
+      "summary_en": "Hungary-specific country report from the EFIGE project. Documents how Hungarian exporting firms coped with the 2008–9 crisis: exporters did not exit at higher rates than non-exporters, but their export volumes contracted sharply, especially for single-product firms. Trade-credit constraints and demand shocks dominate the explanation; productivity differences alone cannot account for the patterns.",
+      "summary_hu": null,
+      "policy_relevance": "Crisis-time policy lessons for the Hungarian government and EU institutions: trade finance and export-credit insurance matter more than corporate income tax or labour-market policy in stabilising the export base. Supports the case for the Eximbank and EU-level crisis trade-credit facilities. Caveat: the report is descriptive; causal identification of the channels would need follow-up work.",
+      "policy_relevance_hu": null,
+      "topics": [
+        "trade-fdi",
+        "firms-productivity"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "policy_instruments": [
+        "Eximbank",
+        "export-credit insurance",
+        "EU trade-credit facility"
+      ],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "ai-drafted"
+    },
+    {
+      "id": "bekes-koren-halpern-murakozy-2012-efige-wp53",
+      "title": "Margins of Hungarian exports during the crisis",
+      "title_hu": null,
+      "authors": [
+        "bekes-gabor",
+        "koren-miklos",
+        "halpern-laszlo",
+        "murakozy-balazs"
+      ],
+      "outlet_kind": "working_paper",
+      "outlet": "EFIGE Working Paper",
+      "outlet_issue": "53",
+      "institution": "Bruegel (EFIGE)",
+      "year": 2012,
+      "language": "en",
+      "url": "https://bruegel.org/wp-content/uploads/2015/09/efige_wp53_1309121.pdf",
       "doi": null,
       "summary_en": null,
       "summary_hu": null,
@@ -32812,22 +32960,48 @@
       "review_status": "metadata-fetched"
     },
     {
-      "id": "bekes-koren-halpern-murakozy-2011-efige",
-      "title": "How did exporting firms cope with the crisis? — EFIGE Country Report: Hungary",
+      "id": "bekes-murakozy-2009-efige-wp4",
+      "title": "Temporary trade",
+      "title_hu": null,
+      "authors": [
+        "murakozy-balazs",
+        "bekes-gabor"
+      ],
+      "outlet_kind": "working_paper",
+      "outlet": "EFIGE Working Paper",
+      "outlet_issue": "4",
+      "institution": "Bruegel (EFIGE)",
+      "year": 2009,
+      "language": "en",
+      "url": "https://bruegel.org/wp-content/uploads/2015/09/EFIGEWP4.pdf",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": "bekes-murakozy-2012-jie",
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "bekes-murakozy-2012-efige-wp52",
+      "title": "Internationalisation modes of European firms",
       "title_hu": null,
       "authors": [
         "bekes-gabor",
-        "koren-miklos",
-        "halpern-laszlo",
         "murakozy-balazs"
       ],
-      "outlet_kind": "report",
-      "outlet": "Bruegel (EFIGE)",
-      "outlet_issue": null,
-      "institution": null,
-      "year": 2011,
+      "outlet_kind": "working_paper",
+      "outlet": "EFIGE Working Paper",
+      "outlet_issue": "52",
+      "institution": "Bruegel (EFIGE)",
+      "year": 2012,
       "language": "en",
-      "url": "https://www.bruegel.org/...",
+      "url": "https://bruegel.org/wp-content/uploads/2015/09/efige_wp52_0708121.pdf",
       "doi": null,
       "summary_en": null,
       "summary_hu": null,
@@ -32849,13 +33023,199 @@
         "bekes-gabor",
         "Gianmarco I.P. Ottaviano"
       ],
-      "outlet_kind": "report",
-      "outlet": "Bruegel — *Measuring competitiveness in Europe*",
+      "outlet_kind": "chapter",
+      "outlet": "Bruegel Blueprint #24 — Measuring competitiveness in Europe",
       "outlet_issue": null,
-      "institution": null,
+      "institution": "Bruegel",
       "year": 2016,
       "language": "en",
-      "url": "https://www.bruegel.org/...",
+      "url": "https://www.bruegel.org/sites/default/files/wp-content/uploads/2016/01/Blueprint-XXIV.pdf",
+      "doi": null,
+      "summary_en": "Chapter in Blueprint XXIV. Builds a micro-founded measure of regional competitiveness in Europe by aggregating firm-level productivity data within NUTS-2 regions. Shows that headline regional rankings move substantially when using micro-foundations vs. simple GVA-per-worker, and identifies which Hungarian and CEE regions are systematically over- or under-rated by the standard approach.",
+      "summary_hu": null,
+      "policy_relevance": "Direct input for EU Cohesion Policy targeting and for the Hungarian RPM (regional development) strategy. The micro-founded ranking would change which regions appear 'competitive' on the EU dashboard, with consequences for how Cohesion funds are allocated. Caveat: depends on the availability of harmonised firm data — Hungarian regions are well-covered, but smaller member states are not.",
+      "policy_relevance_hu": null,
+      "topics": [
+        "regional-urban",
+        "firms-productivity"
+      ],
+      "countries_studied": [
+        "EU"
+      ],
+      "policy_instruments": [
+        "EU Cohesion Policy targeting",
+        "NUTS-2 productivity ranking"
+      ],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "ai-drafted"
+    },
+    {
+      "id": "halpern-murakozy-2009-efige-wp15",
+      "title": "Price dispersion in trade with EU countries",
+      "title_hu": null,
+      "authors": [
+        "halpern-laszlo",
+        "murakozy-balazs"
+      ],
+      "outlet_kind": "working_paper",
+      "outlet": "EFIGE Working Paper",
+      "outlet_issue": "15",
+      "institution": "Bruegel (EFIGE)",
+      "year": 2009,
+      "language": "en",
+      "url": "https://bruegel.org/wp-content/uploads/2015/09/EFIGEWP15.pdf",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "halpern-murakozy-2010-efige-wp26",
+      "title": "Firm size and the extensive margin",
+      "title_hu": null,
+      "authors": [
+        "halpern-laszlo",
+        "murakozy-balazs"
+      ],
+      "outlet_kind": "working_paper",
+      "outlet": "EFIGE Working Paper",
+      "outlet_issue": "26",
+      "institution": "Bruegel (EFIGE)",
+      "year": 2010,
+      "language": "en",
+      "url": "https://bruegel.org/wp-content/uploads/2015/09/EFIGEWP26.pdf",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "hornok-koren-2011-efige-wp36",
+      "title": "Administrative barriers and the lumpiness of trade",
+      "title_hu": null,
+      "authors": [
+        "koren-miklos",
+        "Cecília Hornok"
+      ],
+      "outlet_kind": "working_paper",
+      "outlet": "EFIGE Working Paper",
+      "outlet_issue": "36",
+      "institution": "Bruegel (EFIGE)",
+      "year": 2011,
+      "language": "en",
+      "url": "https://bruegel.org/wp-content/uploads/2015/09/efige_wp36_2410111.pdf",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": "hornok-koren-2015-jie",
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "hornok-koren-2012-efige-wp51",
+      "title": "Welfare effects of administrative barriers to trade",
+      "title_hu": null,
+      "authors": [
+        "koren-miklos",
+        "Cecília Hornok"
+      ],
+      "outlet_kind": "working_paper",
+      "outlet": "EFIGE Working Paper",
+      "outlet_issue": "51",
+      "institution": "Bruegel (EFIGE)",
+      "year": 2012,
+      "language": "en",
+      "url": "https://bruegel.org/wp-content/uploads/2015/09/efige_wp51_0708121.pdf",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": "hornok-koren-2014-restat",
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "juhasz-lane-2024-imf-fandd",
+      "title": "Successful industrial policy must account for political economy",
+      "title_hu": null,
+      "authors": [
+        "juhasz-reka",
+        "Nathan Lane"
+      ],
+      "outlet_kind": "report",
+      "outlet": "IMF Finance & Development",
+      "outlet_issue": null,
+      "institution": "International Monetary Fund",
+      "year": 2024,
+      "language": "en",
+      "url": "https://www.imf.org/en/Publications/fandd/issues/2024/06/A-New-Economics-of-Industrial-Policy-Reka-Juhasz-and-Nathan-Lane",
+      "doi": null,
+      "summary_en": "Plain-language synthesis of the new industrial-policy research for IMF Finance & Development. Argues that industrial policy is back on the global agenda — IRA, EU Green Deal, China's Made-in-China 2025 — and that successful design depends less on the choice of instruments and more on the political economy of the implementing state: capacity, accountability, and resistance to capture.",
+      "summary_hu": null,
+      "policy_relevance": "Reading-list item for any Hungarian ministry contemplating sectoral subsidies (battery, automotive, semiconductor). The framework's central warning — that capture risk dominates instrument choice — is directly relevant to the political economy of Hungarian industrial policy. Caveat: high-level synthesis, not a country case.",
+      "policy_relevance_hu": null,
+      "topics": [
+        "firms-productivity",
+        "political-economy",
+        "innovation-digital"
+      ],
+      "countries_studied": [
+        "global"
+      ],
+      "policy_instruments": [
+        "IRA-style sectoral subsidies",
+        "industrial-policy capacity",
+        "capture mitigation"
+      ],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "ai-drafted"
+    },
+    {
+      "id": "juhasz-steinwender-2024-apuz-industriepolitik",
+      "title": "Industriepolitik",
+      "title_hu": null,
+      "authors": [
+        "juhasz-reka",
+        "Claudia Steinwender"
+      ],
+      "outlet_kind": "chapter",
+      "outlet": "Aus Politik und Zeitgeschichte (APuZ)",
+      "outlet_issue": null,
+      "institution": "Bundeszentrale für politische Bildung",
+      "year": 2024,
+      "language": "de",
+      "url": "https://www.bpb.de/shop/zeitschriften/apuz/industriepolitik-2024/",
       "doi": null,
       "summary_en": null,
       "summary_hu": null,
@@ -32877,24 +33237,34 @@
         "kertesi-gabor"
       ],
       "outlet_kind": "chapter",
-      "outlet": "The Hungarian Labour Market 2010 (Munkaerőpiaci Tükör)",
+      "outlet": "The Hungarian Labour Market 2010 (Fazekas, Lovász, Telegdy eds.)",
       "outlet_issue": null,
-      "institution": null,
+      "institution": "KRTK / Munkaerőpiaci Tükör",
       "year": 2010,
       "language": "en",
-      "url": null,
+      "url": "https://kti.krtk.hu/wp-content/uploads/2018/12/THLM2010_kotet.pdf",
       "doi": null,
-      "summary_en": null,
+      "summary_en": "Chapter analysing Roma employment patterns at the turn of the millennium, drawing on the 2003 nationally representative Roma survey. Documents very large employment-rate gaps — Roma employment well below half the non-Roma rate, with the gap concentrated in low-skill, low-region settings. Most of the gap is explained by location, education, and the local-labour-market structure rather than direct labour-market discrimination alone.",
       "summary_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Foundational evidence for any Hungarian Roma-employment policy (e.g. Hídépítő, Útravaló, EU Roma Framework). Argues that education investment and local-labour-market activation are necessary conditions; anti-discrimination measures alone are insufficient. Still cited as the canonical Hungarian Roma labour-market reference. Caveat: the survey is now ~20 years old; a refresh on the 2018+ TÁRKI Roma sample would be valuable.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "countries_studied": [],
-      "policy_instruments": [],
+      "topics": [
+        "labor-markets",
+        "inequality-welfare",
+        "demographics-migration"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "policy_instruments": [
+        "Roma integration strategy",
+        "active labour market programme targeting",
+        "EU Roma Framework"
+      ],
       "linked_paper_id": null,
       "added_at": "2026-04-25",
       "last_reviewed_at": "2026-04-25",
-      "review_status": "metadata-fetched"
+      "review_status": "ai-drafted"
     },
     {
       "id": "kertesi-kezdi-2010-mt-segregation",
@@ -32904,25 +33274,34 @@
         "kertesi-gabor",
         "kezdi-gabor"
       ],
-      "outlet_kind": "report",
+      "outlet_kind": "chapter",
       "outlet": "The Hungarian Labour Market 2010",
       "outlet_issue": null,
-      "institution": null,
+      "institution": "KRTK / Munkaerőpiaci Tükör",
       "year": 2010,
       "language": "en",
-      "url": null,
+      "url": "https://kti.krtk.hu/wp-content/uploads/2018/12/THLM2010_kotet.pdf",
       "doi": null,
-      "summary_en": null,
+      "summary_en": "Descriptive analysis of school segregation in Hungarian primary schools using the National Assessment of Basic Competences (OKM) 2006 micro-data. Documents very high between-school Roma segregation that increased through the 2000s, with the segregation increase driven not by demographic shifts but by school-choice patterns — Roma students are increasingly concentrated in a small set of schools as non-Roma families exit.",
       "summary_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct input for the Hungarian Education Ministry on the school-segregation question. Demonstrates that without active de-segregation policy (school-catchment rules, integrated-class incentives), Roma school segregation increases mechanically through parental choice. Caveat: 2006 data; the church-school expansion since 2010 has further shifted patterns and the analysis would need updating.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "countries_studied": [],
-      "policy_instruments": [],
+      "topics": [
+        "education-skills",
+        "inequality-welfare"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "policy_instruments": [
+        "school catchment-area rules",
+        "integration incentives",
+        "OKM monitoring"
+      ],
       "linked_paper_id": null,
       "added_at": "2026-04-25",
       "last_reviewed_at": "2026-04-25",
-      "review_status": "metadata-fetched"
+      "review_status": "ai-drafted"
     },
     {
       "id": "kertesi-koll-karolyi-szabo-ssrn-prejudice",
@@ -32935,10 +33314,10 @@
         "Róbert Károlyi",
         "Lajos Tamás Szabó"
       ],
-      "outlet_kind": "report",
+      "outlet_kind": "working_paper",
       "outlet": "SSRN",
       "outlet_issue": null,
-      "institution": null,
+      "institution": "SSRN preprint",
       "year": null,
       "language": "en",
       "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5256564",
@@ -32963,12 +33342,67 @@
         "kertesi-gabor"
       ],
       "outlet_kind": "report",
-      "outlet": "KRTK / Repository of the Academy's Library",
+      "outlet": "MTA-KRTK monograph",
       "outlet_issue": null,
-      "institution": null,
+      "institution": "KRTK / MTA Real",
       "year": null,
-      "language": "en",
+      "language": "hu",
       "url": "https://real.mtak.hu/34703/",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "koren-2022-cepr-ukraine-rebuilding",
+      "title": "Ukraine's EU integration",
+      "title_hu": null,
+      "authors": [
+        "koren-miklos"
+      ],
+      "outlet_kind": "chapter",
+      "outlet": "Rebuilding Ukraine: Principles and Policies (Gorodnichenko, Sologoub, Weder di Mauro eds.)",
+      "outlet_issue": null,
+      "institution": "CEPR Press",
+      "year": 2022,
+      "language": "en",
+      "url": "https://cepr.org/publications/books-and-reports/rebuilding-ukraine-principles-and-policies",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "koren-murakozy-2011-efige-wp30",
+      "title": "The demand and supply of quality: a case study of televisions",
+      "title_hu": null,
+      "authors": [
+        "koren-miklos",
+        "murakozy-balazs"
+      ],
+      "outlet_kind": "working_paper",
+      "outlet": "EFIGE Working Paper",
+      "outlet_issue": "30",
+      "institution": "Bruegel (EFIGE)",
+      "year": 2011,
+      "language": "en",
+      "url": "https://bruegel.org/wp-content/uploads/2015/09/efige_wp30_1703117.pdf",
       "doi": null,
       "summary_en": null,
       "summary_hu": null,
@@ -32991,10 +33425,10 @@
         "Tamás Sebestyén",
         "Loet Leydesdorff"
       ],
-      "outlet_kind": "report",
-      "outlet": "Science & Public Policy (already in catalogue?)",
+      "outlet_kind": "working_paper",
+      "outlet": "Science & Public Policy",
       "outlet_issue": null,
-      "institution": null,
+      "institution": "KRTK / MTA Real",
       "year": 2015,
       "language": "en",
       "url": "http://real.mtak.hu/22415/",
@@ -33382,6 +33816,25 @@
       "last_reviewed_at": "2026-04-25"
     },
     {
+      "id": "caselli-koren-et-al-2015-voxeu-macrodiv",
+      "title": "Macro diversification through trade",
+      "authors": [
+        "koren-miklos",
+        "Francesco Caselli",
+        "Milan Lisicky",
+        "Silvana Tenreyro"
+      ],
+      "kind": "column",
+      "venue": "VoxEU / CEPR",
+      "date": "2015-10-14",
+      "language": "en",
+      "url": "https://cepr.org/voxeu/columns/macro-diversification-through-trade",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
       "id": "french-lindner-et-al-2026-voxeu-china",
       "title": "China Syndrome redux: New results on global labour reallocation",
       "authors": [
@@ -33394,6 +33847,254 @@
       "url": "https://cepr.org/voxeu/columns/china-syndrome-redux-new-results-global-labour-reallocation",
       "blurb": null,
       "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "juhasz-2023-npr-indicator",
+      "title": "Industrial policy, the debate!",
+      "authors": [
+        "juhasz-reka"
+      ],
+      "kind": "podcast",
+      "venue": "NPR The Indicator from Planet Money",
+      "date": "2023-09-12",
+      "language": "en",
+      "url": "https://www.npr.org/2023/09/12/1197953091/the-indicator-from-planet-money-industrial-policy-the-debate",
+      "blurb": null,
+      "linked_paper_id": "juhasz-steinwender-2024-aroe",
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "juhasz-2024-444-tldr",
+      "title": "Nemrég tabutéma volt, most a világgazdaságot felforgató százmilliárd dolláros programok épülnek rá",
+      "authors": [
+        "juhasz-reka"
+      ],
+      "kind": "interview",
+      "venue": "444.hu",
+      "date": "2024-12-02",
+      "language": "hu",
+      "url": "https://444.hu/tldr/2024/12/02/nemreg-tabutema-volt-most-a-vilaggazdasagot-felforgato-szazmilliard-dollaros-programok-epulnek-ra",
+      "blurb": null,
+      "linked_paper_id": "juhasz-steinwender-2024-aroe",
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "juhasz-2024-g7-interview",
+      "title": "A magyar gazdaság fejlettségi szintjén már nem lehet csak az iparra fókuszálni",
+      "authors": [
+        "juhasz-reka"
+      ],
+      "kind": "interview",
+      "venue": "G7",
+      "date": "2024-07-09",
+      "language": "hu",
+      "url": "https://g7.hu/kozelet/20240709/a-magyar-gazdasag-fejlettsegi-szintjen-mar-nem-lehet-csak-az-iparra-fokuszalni/",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "juhasz-2024-npr-planet-money",
+      "title": "A controversial idea at the heart of Bidenomics",
+      "authors": [
+        "juhasz-reka"
+      ],
+      "kind": "podcast",
+      "venue": "NPR Planet Money",
+      "date": "2024-02-23",
+      "language": "en",
+      "url": "https://www.npr.org/2024/02/23/1197958331/reka-juhasz-industrial-policy-inflation-reduction-act",
+      "blurb": null,
+      "linked_paper_id": "goldberg-juhasz-et-al-2024-nber",
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "juhasz-2025-es-interview",
+      "title": "Trump nem ért a világgazdasághoz — interjú",
+      "authors": [
+        "juhasz-reka"
+      ],
+      "kind": "interview",
+      "venue": "Élet és Irodalom",
+      "date": "2025-06-06",
+      "language": "hu",
+      "url": "https://www.es.hu/cikk/2025-06-06/foti-tamas/trump-nem-ert-a-vilaggazdasaghoz.html",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "juhasz-2025-voxeu-found-translation",
+      "title": "Found in translation: Why some countries learn from the West, and most don't",
+      "authors": [
+        "juhasz-reka"
+      ],
+      "kind": "column",
+      "venue": "VoxEU / CEPR",
+      "date": null,
+      "language": "en",
+      "url": "https://cepr.org/voxeu/columns/found-translation-why-some-countries-learn-west-and-most-dont",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "juhasz-jazzy-podcast-ip",
+      "title": "Az iparpolitika nemrég tabutéma volt — Juhász Réka",
+      "authors": [
+        "juhasz-reka"
+      ],
+      "kind": "podcast",
+      "venue": "Jazzy",
+      "date": null,
+      "language": "hu",
+      "url": "https://jazzy.hu/adasok/az-iparpolitika-nemreg-tabutema-volt-most-a-vilaggazdasagot-felforgato-szazmilliard-dollaros-programok-epulnek-ra-juhasz-reka-a-university-of-british-columbia-oktatoja",
+      "blurb": null,
+      "linked_paper_id": "juhasz-steinwender-2024-aroe",
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "juhasz-lane-2023-promarket",
+      "title": "Economics must catch up on industrial policy",
+      "authors": [
+        "juhasz-reka",
+        "Nathan Lane"
+      ],
+      "kind": "blog",
+      "venue": "ProMarket",
+      "date": "2023-03-14",
+      "language": "en",
+      "url": "https://www.promarket.org/2023/03/14/economics-must-catch-up-on-industrial-policy/",
+      "blurb": null,
+      "linked_paper_id": "juhasz-steinwender-2024-aroe",
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "juhasz-lane-rodrik-2023-project-syndicate",
+      "title": "Economists Reconsider Industrial Policy",
+      "authors": [
+        "juhasz-reka",
+        "Nathan Lane",
+        "Dani Rodrik"
+      ],
+      "kind": "op-ed",
+      "venue": "Project Syndicate",
+      "date": "2023-08",
+      "language": "en",
+      "url": "https://www.project-syndicate.org/commentary/new-economic-research-more-favorable-to-industrial-policy-by-dani-rodrik-et-al-2023-08",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "juhasz-lane-rodrik-2023-voxeu-new-economics-ip",
+      "title": "The new economics of industrial policy",
+      "authors": [
+        "juhasz-reka",
+        "Nathan Lane",
+        "Dani Rodrik"
+      ],
+      "kind": "column",
+      "venue": "VoxEU / CEPR",
+      "date": "2023-12",
+      "language": "en",
+      "url": "https://cepr.org/voxeu/columns/new-economics-industrial-policy",
+      "blurb": null,
+      "linked_paper_id": "juhasz-steinwender-2024-aroe",
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "juhasz-partizan-pentekreggel",
+      "title": "Comments on the Draghi Report",
+      "authors": [
+        "juhasz-reka"
+      ],
+      "kind": "podcast",
+      "venue": "Partizán Péntek Reggel",
+      "date": null,
+      "language": "hu",
+      "url": "https://rss.com/podcasts/pentekreggel/1673435/",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "juhasz-squicciarini-voigtlaender-voxeu-france",
+      "title": "Technology adoption and productivity growth: Evidence from industrialisation in France",
+      "authors": [
+        "juhasz-reka",
+        "Mara Squicciarini",
+        "Nico Voigtlaender"
+      ],
+      "kind": "column",
+      "venue": "VoxEU / CEPR",
+      "date": null,
+      "language": "en",
+      "url": "https://cepr.org/voxeu/columns/technology-adoption-and-productivity-growth-evidence-industrialisation-france",
+      "blurb": null,
+      "linked_paper_id": "juhasz-squicciarini-et-al-2024-jpe",
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "juhasz-steinwender-2024-promarket",
+      "title": "Setting the Record Straight on Industrial Policy",
+      "authors": [
+        "juhasz-reka",
+        "Claudia Steinwender"
+      ],
+      "kind": "blog",
+      "venue": "ProMarket",
+      "date": "2024-02-12",
+      "language": "en",
+      "url": "https://www.promarket.org/2024/02/12/setting-the-record-straight-on-historical-industrial-policy/",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "juhasz-trade-talks-podcast",
+      "title": "Can Infant Industry Protection Work? Evidence from Napoleon",
+      "authors": [
+        "juhasz-reka"
+      ],
+      "kind": "podcast",
+      "venue": "Trade Talks Podcast",
+      "date": null,
+      "language": "en",
+      "url": "https://tradetalkspodcast.com/podcast/121-can-infant-industry-protection-work-evidence-from-napoleon/",
+      "blurb": null,
+      "linked_paper_id": "juhasz-2018-aer",
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "juhasz-voxeu-napoleon-blockade",
+      "title": "Temporary protection and technology adoption: Evidence from the Napoleonic Blockade",
+      "authors": [
+        "juhasz-reka"
+      ],
+      "kind": "column",
+      "venue": "VoxEU / CEPR",
+      "date": null,
+      "language": "en",
+      "url": "https://cepr.org/voxeu/columns/temporary-protection-and-technology-adoption-evidence-napoleonic-blockade",
+      "blurb": null,
+      "linked_paper_id": "juhasz-2018-aer",
       "added_at": "2026-04-25",
       "last_reviewed_at": "2026-04-25"
     },
@@ -33426,6 +34127,41 @@
       "url": "https://open.spotify.com/episode/1vTEaUjJH5s3R8p9DEHV2B",
       "blurb": null,
       "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "koren-hornok-2016-voxeu-free-trade",
+      "title": "The case for free trade",
+      "authors": [
+        "koren-miklos",
+        "Cecília Hornok"
+      ],
+      "kind": "column",
+      "venue": "VoxEU / CEPR",
+      "date": "2016-05-07",
+      "language": "en",
+      "url": "https://cepr.org/voxeu/columns/case-free-trade",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "koren-szeidl-bisztray-2018-voxeu-learning",
+      "title": "Learning from your peers to import",
+      "authors": [
+        "koren-miklos",
+        "szeidl-adam",
+        "bisztray-marta"
+      ],
+      "kind": "column",
+      "venue": "VoxEU / CEPR",
+      "date": "2018-11-18",
+      "language": "en",
+      "url": "https://cepr.org/voxeu/columns/learning-your-peers-import",
+      "blurb": null,
+      "linked_paper_id": "bisztray-koren-et-al-2018-jie",
       "added_at": "2026-04-25",
       "last_reviewed_at": "2026-04-25"
     },
@@ -33510,6 +34246,23 @@
       "last_reviewed_at": "2026-04-25"
     },
     {
+      "id": "peto-koren-2020-voxeu-social-distancing",
+      "title": "It's retail stores and restaurants, not farms and fisheries, that suffer most from social distancing",
+      "authors": [
+        "peto-rita",
+        "koren-miklos"
+      ],
+      "kind": "column",
+      "venue": "VoxEU / CEPR",
+      "date": "2020-04-29",
+      "language": "en",
+      "url": "https://cepr.org/voxeu/columns/its-retail-stores-and-restaurants-not-farms-and-fisheries-suffer-most-social",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
       "id": "vom-berge-lindner-et-al-2021-voxeu-reallocation",
       "title": "Reallocation effects of the minimum wage",
       "authors": [
@@ -33536,7 +34289,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 50
+      "paper_count": 52
     },
     {
       "id": "education-skills",
@@ -33547,7 +34300,7 @@
       "policy_framing_en": "Relevant to: curriculum design, teacher policy, school tracking age, higher education funding, vocational training.",
       "policy_framing_hu": "Releváns: tantervfejlesztés, tanárpolitika, iskolai szelekció életkora, felsőoktatás finanszírozása, szakképzés.",
       "icon": "graduation-cap",
-      "paper_count": 37
+      "paper_count": 39
     },
     {
       "id": "health",
@@ -33558,7 +34311,7 @@
       "policy_framing_en": "Relevant to: healthcare system design, hospital payment, prevention programs, pharmaceutical policy, mental health services.",
       "policy_framing_hu": "Releváns: egészségügyi rendszer kialakítása, kórházi finanszírozás, prevenciós programok, gyógyszerpolitika, mentális szolgáltatások.",
       "icon": "heart-pulse",
-      "paper_count": 34
+      "paper_count": 35
     },
     {
       "id": "demographics-migration",
@@ -33569,7 +34322,7 @@
       "policy_framing_en": "Relevant to: family policy, pension system, immigration policy, retention of skilled workers.",
       "policy_framing_hu": "Releváns: családpolitika, nyugdíjrendszer, bevándorláspolitika, szakemberek megtartása.",
       "icon": "users",
-      "paper_count": 18
+      "paper_count": 19
     },
     {
       "id": "trade-fdi",
@@ -33580,7 +34333,7 @@
       "policy_framing_en": "Relevant to: EU trade policy, FDI promotion, export promotion, supply chain resilience, industrial policy.",
       "policy_framing_hu": "Releváns: EU kereskedelempolitika, FDI ösztönzés, exporttámogatás, ellátási láncok rugalmassága, iparpolitika.",
       "icon": "globe",
-      "paper_count": 39
+      "paper_count": 44
     },
     {
       "id": "firms-productivity",
@@ -33591,7 +34344,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 77
+      "paper_count": 85
     },
     {
       "id": "innovation-digital",
@@ -33602,7 +34355,7 @@
       "policy_framing_en": "Relevant to: R&D tax credits, digital strategy, AI policy, innovation agency design, university–industry linkages.",
       "policy_framing_hu": "Releváns: K+F adókedvezmények, digitális stratégia, MI-politika, innovációs ügynökségek, egyetem–ipar kapcsolatok.",
       "icon": "cpu",
-      "paper_count": 29
+      "paper_count": 30
     },
     {
       "id": "banking-finance",
@@ -33624,7 +34377,7 @@
       "policy_framing_en": "Relevant to: tax reform, budget planning, public debt management, compliance policy.",
       "policy_framing_hu": "Releváns: adóreform, költségvetés-tervezés, államadósság-kezelés, adócompliance.",
       "icon": "coins",
-      "paper_count": 23
+      "paper_count": 24
     },
     {
       "id": "regional-urban",
@@ -33635,7 +34388,7 @@
       "policy_framing_en": "Relevant to: regional development funds, housing policy, transport investment, urban planning.",
       "policy_framing_hu": "Releváns: regionális fejlesztési alapok, lakáspolitika, közlekedési beruházások, városfejlesztés.",
       "icon": "building",
-      "paper_count": 28
+      "paper_count": 29
     },
     {
       "id": "energy-environment",
@@ -33657,7 +34410,7 @@
       "policy_framing_en": "Relevant to: welfare system, anti-poverty programs, family allowances, gender-equal pay policies.",
       "policy_framing_hu": "Releváns: szociális rendszer, szegénység elleni programok, családi pótlékok, egyenlő bérezés.",
       "icon": "scale",
-      "paper_count": 69
+      "paper_count": 74
     },
     {
       "id": "political-economy",
@@ -33668,7 +34421,7 @@
       "policy_framing_en": "Relevant to: anti-corruption policy, public administration reform, EU affairs, electoral system design.",
       "policy_framing_hu": "Releváns: korrupcióellenes politika, közigazgatási reform, EU-ügyek, választási rendszer.",
       "icon": "building-2",
-      "paper_count": 41
+      "paper_count": 42
     },
     {
       "id": "transition-postcommunist",
@@ -33734,7 +34487,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 90
+      "paper_count": 93
     }
   ],
   "journals": [
@@ -34870,8 +35623,8 @@
   "counts": {
     "authors": 84,
     "papers": 690,
-    "policy": 26,
-    "press": 32,
+    "policy": 37,
+    "press": 51,
     "topics": 19
   }
 }

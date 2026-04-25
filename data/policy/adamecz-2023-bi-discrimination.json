@@ -8,22 +8,32 @@
     "Scharle"
   ],
   "outlet_kind": "working_paper",
-  "outlet": "Budapest Institute (IJSSP working paper)",
+  "outlet": "Budapest Institute / IJSSP working paper",
   "outlet_issue": null,
-  "institution": null,
+  "institution": "Budapest Institute",
   "year": 2023,
   "language": "en",
   "url": "http://www.budapestinstitute.eu/uploads/hajnal-scharle-whatworks-IJSSP2023_author_accepted.pdf",
   "doi": null,
-  "summary_en": null,
+  "summary_en": "Theory-led review asking which classes of anti-discrimination measures should work for which target groups. Distinguishes interventions targeted at employer perception (audit/testing, training) from those targeted at the employment process (blind CVs, structured interviews). Conclusion: which measure works depends on whether the discrimination is taste-based, statistical, or driven by network effects.",
   "summary_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Actionable framework for the Hungarian Equal Treatment Authority and EU equality bodies: the 'best' anti-discrimination intervention is conditional on the kind of discrimination. Helpful when designing pilot programmes. Caveat: theoretical synthesis with selective empirical evidence; mechanism identification on Hungarian data is rare.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "countries_studied": [],
-  "policy_instruments": [],
+  "topics": [
+    "labor-markets",
+    "inequality-welfare"
+  ],
+  "countries_studied": [
+    "HU",
+    "EU"
+  ],
+  "policy_instruments": [
+    "blind CVs",
+    "employer-audit programmes",
+    "EBH guidance"
+  ],
   "linked_paper_id": null,
   "added_at": "2026-04-25",
   "last_reviewed_at": "2026-04-25",
-  "review_status": "metadata-fetched"
+  "review_status": "ai-drafted"
 }

@@ -6,23 +6,32 @@
     "kertesi-gabor",
     "kezdi-gabor"
   ],
-  "outlet_kind": "report",
+  "outlet_kind": "chapter",
   "outlet": "The Hungarian Labour Market 2010",
   "outlet_issue": null,
-  "institution": null,
+  "institution": "KRTK / Munkaerőpiaci Tükör",
   "year": 2010,
   "language": "en",
-  "url": null,
+  "url": "https://kti.krtk.hu/wp-content/uploads/2018/12/THLM2010_kotet.pdf",
   "doi": null,
-  "summary_en": null,
+  "summary_en": "Descriptive analysis of school segregation in Hungarian primary schools using the National Assessment of Basic Competences (OKM) 2006 micro-data. Documents very high between-school Roma segregation that increased through the 2000s, with the segregation increase driven not by demographic shifts but by school-choice patterns — Roma students are increasingly concentrated in a small set of schools as non-Roma families exit.",
   "summary_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct input for the Hungarian Education Ministry on the school-segregation question. Demonstrates that without active de-segregation policy (school-catchment rules, integrated-class incentives), Roma school segregation increases mechanically through parental choice. Caveat: 2006 data; the church-school expansion since 2010 has further shifted patterns and the analysis would need updating.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "countries_studied": [],
-  "policy_instruments": [],
+  "topics": [
+    "education-skills",
+    "inequality-welfare"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "policy_instruments": [
+    "school catchment-area rules",
+    "integration incentives",
+    "OKM monitoring"
+  ],
   "linked_paper_id": null,
   "added_at": "2026-04-25",
   "last_reviewed_at": "2026-04-25",
-  "review_status": "metadata-fetched"
+  "review_status": "ai-drafted"
 }

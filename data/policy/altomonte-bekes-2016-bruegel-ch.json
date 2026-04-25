@@ -6,23 +6,32 @@
     "bekes-gabor",
     "Carlo Altomonte"
   ],
-  "outlet_kind": "report",
-  "outlet": "Bruegel — *Measuring competitiveness in Europe*",
+  "outlet_kind": "chapter",
+  "outlet": "Bruegel Blueprint #24 — Measuring competitiveness in Europe",
   "outlet_issue": null,
-  "institution": null,
+  "institution": "Bruegel",
   "year": 2016,
   "language": "en",
-  "url": "https://www.bruegel.org/...",
+  "url": "https://www.bruegel.org/sites/default/files/wp-content/uploads/2016/01/Blueprint-XXIV.pdf",
   "doi": null,
-  "summary_en": null,
+  "summary_en": "Opening chapter of Blueprint XXIV. Argues for a granular and global view of competitiveness: aggregate measures average over the relevant heterogeneity, and trade matters because it concentrates competitiveness pressure on specific firms and products. Lays the groundwork for the firm-level chapters that follow.",
   "summary_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Methodological frame for the European Commission's competitiveness scorecards and the MNB's productivity work: headline TFP and ULC numbers should be supplemented with within-country dispersion measures and trade-exposed-segment indicators. Caveat: a methodological piece, not a policy-recommendations chapter.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "countries_studied": [],
-  "policy_instruments": [],
+  "topics": [
+    "firms-productivity",
+    "trade-fdi",
+    "methods"
+  ],
+  "countries_studied": [
+    "EU"
+  ],
+  "policy_instruments": [
+    "EC competitiveness scorecard",
+    "TFP dispersion measures"
+  ],
   "linked_paper_id": null,
   "added_at": "2026-04-25",
   "last_reviewed_at": "2026-04-25",
-  "review_status": "metadata-fetched"
+  "review_status": "ai-drafted"
 }

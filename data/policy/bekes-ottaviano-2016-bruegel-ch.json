@@ -6,23 +6,31 @@
     "bekes-gabor",
     "Gianmarco I.P. Ottaviano"
   ],
-  "outlet_kind": "report",
-  "outlet": "Bruegel — *Measuring competitiveness in Europe*",
+  "outlet_kind": "chapter",
+  "outlet": "Bruegel Blueprint #24 — Measuring competitiveness in Europe",
   "outlet_issue": null,
-  "institution": null,
+  "institution": "Bruegel",
   "year": 2016,
   "language": "en",
-  "url": "https://www.bruegel.org/...",
+  "url": "https://www.bruegel.org/sites/default/files/wp-content/uploads/2016/01/Blueprint-XXIV.pdf",
   "doi": null,
-  "summary_en": null,
+  "summary_en": "Chapter in Blueprint XXIV. Builds a micro-founded measure of regional competitiveness in Europe by aggregating firm-level productivity data within NUTS-2 regions. Shows that headline regional rankings move substantially when using micro-foundations vs. simple GVA-per-worker, and identifies which Hungarian and CEE regions are systematically over- or under-rated by the standard approach.",
   "summary_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct input for EU Cohesion Policy targeting and for the Hungarian RPM (regional development) strategy. The micro-founded ranking would change which regions appear 'competitive' on the EU dashboard, with consequences for how Cohesion funds are allocated. Caveat: depends on the availability of harmonised firm data — Hungarian regions are well-covered, but smaller member states are not.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "countries_studied": [],
-  "policy_instruments": [],
+  "topics": [
+    "regional-urban",
+    "firms-productivity"
+  ],
+  "countries_studied": [
+    "EU"
+  ],
+  "policy_instruments": [
+    "EU Cohesion Policy targeting",
+    "NUTS-2 productivity ranking"
+  ],
   "linked_paper_id": null,
   "added_at": "2026-04-25",
   "last_reviewed_at": "2026-04-25",
-  "review_status": "metadata-fetched"
+  "review_status": "ai-drafted"
 }

@@ -9,22 +9,31 @@
     "murakozy-balazs"
   ],
   "outlet_kind": "report",
-  "outlet": "Bruegel (EFIGE)",
-  "outlet_issue": null,
-  "institution": null,
-  "year": 2011,
+  "outlet": "EFIGE Country Report",
+  "outlet_issue": "Hungary",
+  "institution": "Bruegel (EFIGE)",
+  "year": 2012,
   "language": "en",
-  "url": "https://www.bruegel.org/...",
+  "url": "https://bruegel.org/wp-content/uploads/2015/09/Hungary-rpt.pdf",
   "doi": null,
-  "summary_en": null,
+  "summary_en": "Hungary-specific country report from the EFIGE project. Documents how Hungarian exporting firms coped with the 2008–9 crisis: exporters did not exit at higher rates than non-exporters, but their export volumes contracted sharply, especially for single-product firms. Trade-credit constraints and demand shocks dominate the explanation; productivity differences alone cannot account for the patterns.",
   "summary_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Crisis-time policy lessons for the Hungarian government and EU institutions: trade finance and export-credit insurance matter more than corporate income tax or labour-market policy in stabilising the export base. Supports the case for the Eximbank and EU-level crisis trade-credit facilities. Caveat: the report is descriptive; causal identification of the channels would need follow-up work.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "countries_studied": [],
-  "policy_instruments": [],
+  "topics": [
+    "trade-fdi",
+    "firms-productivity"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "policy_instruments": [
+    "Eximbank",
+    "export-credit insurance",
+    "EU trade-credit facility"
+  ],
   "linked_paper_id": null,
   "added_at": "2026-04-25",
   "last_reviewed_at": "2026-04-25",
-  "review_status": "metadata-fetched"
+  "review_status": "ai-drafted"
 }
