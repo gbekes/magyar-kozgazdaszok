@@ -350,7 +350,7 @@
       "review_status": "confident",
       "openalex_id": "A5010195313",
       "paper_count": 13,
-      "policy_count": 0,
+      "policy_count": 1,
       "press_count": 0
     },
     {
@@ -615,7 +615,7 @@
       "review_status": "needs-verification",
       "openalex_id": "A5072365613",
       "paper_count": 8,
-      "policy_count": 0,
+      "policy_count": 1,
       "press_count": 0
     },
     {
@@ -1205,7 +1205,7 @@
       "review_status": "needs-verification",
       "openalex_id": "A5071714749",
       "paper_count": 5,
-      "policy_count": 0,
+      "policy_count": 3,
       "press_count": 0
     },
     {
@@ -1312,7 +1312,7 @@
       "review_status": "needs-verification",
       "openalex_id": "A5023420867",
       "paper_count": 9,
-      "policy_count": 3,
+      "policy_count": 4,
       "press_count": 0
     },
     {
@@ -1354,7 +1354,7 @@
       "review_status": "confident",
       "openalex_id": "A5033559721",
       "paper_count": 8,
-      "policy_count": 0,
+      "policy_count": 3,
       "press_count": 0
     },
     {
@@ -1633,7 +1633,7 @@
       "review_status": "confident",
       "openalex_id": "A5003122764",
       "paper_count": 12,
-      "policy_count": 4,
+      "policy_count": 6,
       "press_count": 2
     },
     {
@@ -1673,7 +1673,7 @@
       "openalex_id": "A5085764702",
       "bio_review": "needs-verification",
       "paper_count": 10,
-      "policy_count": 1,
+      "policy_count": 2,
       "press_count": 0
     },
     {
@@ -2628,7 +2628,7 @@
       "openalex_id": "A5058999948",
       "paper_count": 15,
       "policy_count": 0,
-      "press_count": 0
+      "press_count": 22
     },
     {
       "id": "somogyi-robert",
@@ -2940,7 +2940,7 @@
       "review_status": "confident",
       "openalex_id": "A5042196310",
       "paper_count": 19,
-      "policy_count": 0,
+      "policy_count": 2,
       "press_count": 0
     },
     {
@@ -33277,6 +33277,145 @@
       "review_status": "metadata-fetched"
     },
     {
+      "id": "fazekas-benczur-telegdy-eds-2012-mt",
+      "title": "Hungarian Labour Market Yearbook 2012 (Fazekas–Benczúr–Telegdy eds.)",
+      "title_hu": "Munkaerőpiaci Tükör 2012 (Fazekas Károly, Benczúr Péter, Telegdy Álmos szerk.)",
+      "authors": [
+        "telegdy-almos",
+        "benczur-peter"
+      ],
+      "outlet_kind": "report",
+      "outlet": "Munkaerőpiaci Tükör (edited volume)",
+      "outlet_issue": null,
+      "institution": "KRTK / Munkaerőpiaci Tükör",
+      "year": 2012,
+      "language": "hu",
+      "url": "https://real.mtak.hu/10465/1/egyben.pdf",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "fazekas-lovasz-telegdy-eds-2009-mt",
+      "title": "Hungarian Labour Market Yearbook 2009 (Fazekas–Lovász–Telegdy eds.)",
+      "title_hu": "Munkaerőpiaci Tükör 2009 (Fazekas Károly, Lovász Anna, Telegdy Álmos szerk.)",
+      "authors": [
+        "telegdy-almos"
+      ],
+      "outlet_kind": "report",
+      "outlet": "Munkaerőpiaci Tükör (edited volume)",
+      "outlet_issue": null,
+      "institution": "KRTK / Munkaerőpiaci Tükör",
+      "year": 2009,
+      "language": "hu",
+      "url": "https://real.mtak.hu/10473/1/egyben.pdf",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "hajdu-2021-real-children-health-stat",
+      "title": "Statistical report on the health of children in Hungary in the 2010s",
+      "title_hu": "Statisztikai jelentés a gyermekegészség állapotáról Magyarországon a 21. század második évtizedében",
+      "authors": [
+        "hajdu-tamas"
+      ],
+      "outlet_kind": "report",
+      "outlet": "KRTK / MTA Real",
+      "outlet_issue": null,
+      "institution": "KRTK Institute of Economics",
+      "year": 2021,
+      "language": "hu",
+      "url": "https://real.mtak.hu/121427/",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "hajdu-kertesi-2022-mt-children-health",
+      "title": "Social differences in children's health in Hungary in the 2010s",
+      "title_hu": "Társadalmi különbségek a gyermekek egészségi állapotában Magyarországon a 21. század második évtizedében",
+      "authors": [
+        "hajdu-tamas",
+        "kertesi-gabor"
+      ],
+      "outlet_kind": "chapter",
+      "outlet": "Munkaerőpiaci Tükör 2022",
+      "outlet_issue": null,
+      "institution": "KRTK / Munkaerőpiaci Tükör",
+      "year": 2023,
+      "language": "hu",
+      "url": "https://real.mtak.hu/182567/",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "hajdu-kertesi-kezdi-2024-mt-childcare-time",
+      "title": "Social inequalities in family time and money use for child-rearing in Hungary",
+      "title_hu": "Társadalmi egyenlőtlenségek a gyermeknevelési célú családi idő- és pénzfelhasználásban Magyarországon",
+      "authors": [
+        "hajdu-tamas",
+        "kertesi-gabor",
+        "kezdi-gabor"
+      ],
+      "outlet_kind": "chapter",
+      "outlet": "Munkaerőpiaci Tükör 2023–2024",
+      "outlet_issue": null,
+      "institution": "KRTK / Munkaerőpiaci Tükör",
+      "year": 2024,
+      "language": "hu",
+      "url": "https://kti.krtk.hu/wp-content/uploads/2025/05/tukor-23-24.pdf",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
       "id": "hermann-2022-mt-segregation",
       "title": "School segregation, student performance, and school progression in Hungary",
       "title_hu": "Iskolai szegregáció, tanulói teljesítmény és iskolai továbbhaladás Magyarországon",
@@ -33290,6 +33429,34 @@
       "year": 2023,
       "language": "hu",
       "url": "https://real.mtak.hu/182570/",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "hermann-horn-2024-mt-vet-reform",
+      "title": "The impact of the 2013 vocational-education reform on skills, dropout and qualification attainment",
+      "title_hu": "Az általános és szakképzés hatása a készségekre, a lemorzsolódásra és a végzettség megszerzésére — a 2013-as szakképzési reform hatása",
+      "authors": [
+        "hermann-zoltan",
+        "horn-daniel"
+      ],
+      "outlet_kind": "chapter",
+      "outlet": "Munkaerőpiaci Tükör 2023–2024",
+      "outlet_issue": null,
+      "institution": "KRTK / Munkaerőpiaci Tükör",
+      "year": 2024,
+      "language": "hu",
+      "url": "https://kti.krtk.hu/wp-content/uploads/2025/05/tukor-23-24.pdf",
       "doi": null,
       "summary_en": null,
       "summary_hu": null,
@@ -33347,6 +33514,61 @@
       "year": 2024,
       "language": "hu",
       "url": "https://kti.krtk.hu/wp-content/uploads/2025/05/tukor-23-24.pdf",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "horn-2022-mt-six-year-gimnazium",
+      "title": "Six-year gymnasium selection and effectiveness",
+      "title_hu": "A hatosztályos gimnáziumi szelekció és eredményesség",
+      "authors": [
+        "horn-daniel"
+      ],
+      "outlet_kind": "chapter",
+      "outlet": "Munkaerőpiaci Tükör 2022 — társadalmi egyenlőtlenség és mobilitás",
+      "outlet_issue": null,
+      "institution": "KRTK / Munkaerőpiaci Tükör",
+      "year": 2023,
+      "language": "hu",
+      "url": "https://kti.krtk.hu/wp-content/uploads/2023/11/teljes-kotet.pdf",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "horn-boza-2022-mt-school-heterogeneity",
+      "title": "The contribution of school heterogeneity to subsequent wage inequality among young workers",
+      "title_hu": "Az iskolák heterogenitásának hozzájárulása a későbbi béregyenlőtlenségekhez a fiatal munkavállalók esetében",
+      "authors": [
+        "horn-daniel",
+        "boza-istvan"
+      ],
+      "outlet_kind": "chapter",
+      "outlet": "Munkaerőpiaci Tükör 2022",
+      "outlet_issue": null,
+      "institution": "KRTK / Munkaerőpiaci Tükör",
+      "year": 2023,
+      "language": "hu",
+      "url": "https://kti.krtk.hu/wp-content/uploads/2023/11/teljes-kotet.pdf",
       "doi": null,
       "summary_en": null,
       "summary_hu": null,
@@ -35125,6 +35347,380 @@
       "last_reviewed_at": "2026-04-25"
     },
     {
+      "id": "simonovits-2022-portfolio-need-reform",
+      "title": "Hungarian pension reform in the near future? It would be much needed",
+      "title_hu": "Magyar nyugdíjreform a közeljövőben? Nagy szükség lenne rá",
+      "authors": [
+        "simonovits-andras"
+      ],
+      "kind": "column",
+      "venue": "Portfolio",
+      "date": "2022-12-10",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/gazdasag/20221210/magyar-nyugdijreform-a-kozeljovoben-nagy-szukseg-lenne-ra-583980",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "simonovits-2023-krtk-portfolio-inflation-pension",
+      "title": "How inflation affects the Hungarian pension system",
+      "title_hu": "Hogyan hat az infláció a magyar nyugdíjrendszerre?",
+      "authors": [
+        "simonovits-andras"
+      ],
+      "kind": "column",
+      "venue": "KRTK Blog (Portfolio)",
+      "date": "2023-04",
+      "language": "hu",
+      "url": "https://krtk.hu/2023/04/simonovits-andras-az-inflacio-magyar-nyugdijrendszerre-gyakorolt-hatasat-elemzi-a-krtk-blogban-a-portfolion/",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "simonovits-2023-portfolio-flexible-retirement",
+      "title": "Flexible retirement age, contribution-rate increase, tightening Nők40 — complex reforms also needed",
+      "title_hu": "Rugalmas nyugdíjkorhatár, járulékkulcs emelése, Nők40 szigorítása — bonyolult reformokra is szükség van",
+      "authors": [
+        "simonovits-andras"
+      ],
+      "kind": "column",
+      "venue": "Portfolio",
+      "date": "2023-07-02",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/gazdasag/20230702/rugalmas-nyugdijkorhatar-a-jarulekkulcs-emelese-a-nok40-szigoritasa-bonyolult-reformokra-is-szukseg-van-622752",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "simonovits-2023-portfolio-rational-reform-revisited",
+      "title": "Once again on a rational pension reform package",
+      "title_hu": "Még egyszer egy észszerű nyugdíjreform-csomagról",
+      "authors": [
+        "simonovits-andras"
+      ],
+      "kind": "column",
+      "venue": "Portfolio",
+      "date": "2023-09-14",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/gazdasag/20230914/meg-egyszer-egy-eszszeru-nyugdijreform-csomagrol-639423",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "simonovits-2023-portfolio-rational-reform",
+      "title": "A rational pension-reform package",
+      "title_hu": "Egy észszerű nyugdíjreform-csomag",
+      "authors": [
+        "simonovits-andras"
+      ],
+      "kind": "column",
+      "venue": "Portfolio",
+      "date": "2023-06-28",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/gazdasag/20230628/egy-eszszeru-nyugdijreform-csomag-622736",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "simonovits-2023-portfolio-reform-quick-aid",
+      "title": "Reform and emergency aid needed — simple steps to renew the pension system",
+      "title_hu": "Reform és gyorssegély kell — a nyugdíjrendszer megújításának egyszerű lépései",
+      "authors": [
+        "simonovits-andras"
+      ],
+      "kind": "column",
+      "venue": "Portfolio",
+      "date": "2023-07-01",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/gazdasag/20230701/reform-es-gyorssegely-kell-a-nyugdijrendszer-megujitasanak-egyszeru-lepesei-622748",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "simonovits-2023-portfolio-service-time",
+      "title": "Service time and the flexible retirement age",
+      "title_hu": "A szolgálati idő és a rugalmas nyugdíjkorhatár",
+      "authors": [
+        "simonovits-andras"
+      ],
+      "kind": "column",
+      "venue": "Portfolio",
+      "date": "2023-06-29",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/gazdasag/20230629/a-szolgalati-ido-es-a-rugalmas-nyugdijkorhatar-622742",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "simonovits-2023-portfolio-social-cost",
+      "title": "The social cost of the pension system",
+      "title_hu": "A nyugdíjrendszer társadalmi kára",
+      "authors": [
+        "simonovits-andras"
+      ],
+      "kind": "column",
+      "venue": "Portfolio",
+      "date": "2023-06-30",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/gazdasag/20230630/a-nyugdijrendszer-tarsadalmi-kara-622746",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "simonovits-2024-portfolio-data",
+      "title": "We know less and less about Hungarian pensions",
+      "title_hu": "Egyre kevesebbet tudunk a magyar nyugdíjakról",
+      "authors": [
+        "simonovits-andras"
+      ],
+      "kind": "column",
+      "venue": "Portfolio",
+      "date": "2024-05-11",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/gazdasag/20240511/egyre-kevesebbet-tudunk-a-magyar-nyugdijakrol-684981",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "simonovits-2024-portfolio-fix-system",
+      "title": "The Hungarian pension system needs to be fixed: tightening early retirement, Nők43 instead of Nők40",
+      "title_hu": "Ki kell javítani a magyar nyugdíjrendszert — a korhatár előtti nyugdíjazás szigorítása, Nők43 helyett Nők40",
+      "authors": [
+        "simonovits-andras"
+      ],
+      "kind": "column",
+      "venue": "Portfolio",
+      "date": "2024-01-27",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/gazdasag/20240127/ki-kell-javitani-a-magyar-nyugdijrendszert-a-korhatar-elotti-nyugdijazas-szigoritasa-nok40-helyett-nok43-664729",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "simonovits-2024-portfolio-oecd-pension-report",
+      "title": "What lies ahead for pensions in Hungary? Nők40, 13th-month pension and retirement age in focus",
+      "title_hu": "Mi lesz a nyugdíjakkal Magyarországon? Célkeresztben a Nők40, a 13. havi nyugdíj és a nyugdíjkorhatár",
+      "authors": [
+        "simonovits-andras"
+      ],
+      "kind": "column",
+      "venue": "Portfolio",
+      "date": "2024-10-01",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/gazdasag/20241001/mi-lesz-a-nyugdijakkal-magyarorszagon-celkeresztben-a-nok40-a-13-havi-nyugdij-es-a-nyugdijkorhatar-712715",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "simonovits-2024-portfolio-pension-increase",
+      "title": "How should pensions be increased?",
+      "title_hu": "Miként érdemes növelni a nyugdíjakat?",
+      "authors": [
+        "simonovits-andras"
+      ],
+      "kind": "column",
+      "venue": "Portfolio",
+      "date": "2024-11-02",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/gazdasag/20241102/mikent-erdemes-novelni-a-nyugdijakat-719697",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "simonovits-2024-portfolio-relative-level",
+      "title": "The relative level of pensions also needs to be reduced for system sustainability",
+      "title_hu": "A nyugdíjak relatív szintjét is csökkenteni kell a fenntartható nyugdíjrendszer érdekében",
+      "authors": [
+        "simonovits-andras"
+      ],
+      "kind": "column",
+      "venue": "Portfolio",
+      "date": "2024-08-17",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/gazdasag/20240817/a-nyugdijak-relativ-szintjet-is-csokkenteni-kell-a-fenntartható-nyugdijrendszer-erdekeben-mikent-valosulhat-meg-a-kiigazitas-703703",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "simonovits-2024-portfolio-us-vs-hu",
+      "title": "Beyond looming insolvency, how else does the Hungarian pension system resemble the American one?",
+      "title_hu": "A fenyegető csőd mellett miben hasonlít még a magyar nyugdíjrendszer az amerikaihoz?",
+      "authors": [
+        "simonovits-andras"
+      ],
+      "kind": "column",
+      "venue": "Portfolio",
+      "date": "2024-12-01",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/gazdasag/20241201/a-fenyegeto-csod-mellett-miben-hasonlit-meg-a-magyar-nyugdijrendszer-az-amerikaihoz-725798",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "simonovits-2025-portfolio-14-havi-vegyes",
+      "title": "Mixed indexation instead of a 14th-month pension? What the calculations show",
+      "title_hu": "A 14. havi nyugdíj helyett vegyes indexálás kellene? Mit mutatnak a számítások?",
+      "authors": [
+        "simonovits-andras"
+      ],
+      "kind": "column",
+      "venue": "Portfolio",
+      "date": "2025-11-13",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/gazdasag/20251113/a-14-havi-nyugdij-helyett-vegyes-indexalas-kellene-mit-mutatnak-a-szamitasok-798742",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "simonovits-2025-portfolio-ai-pension-reform",
+      "title": "We asked AI how it would carry out Hungarian pension reform",
+      "title_hu": "Megkérdeztük az AI-t, miként hajtaná végre a magyar nyugdíjreformot",
+      "authors": [
+        "simonovits-andras"
+      ],
+      "kind": "column",
+      "venue": "Portfolio",
+      "date": "2025-08-17",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/gazdasag/20250817/megkerdeztuk-az-ai-t-mikent-hajtana-vegre-a-magyar-nyugdijreformot-779747",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "simonovits-2025-portfolio-degression",
+      "title": "How pension calculation could be reformed",
+      "title_hu": "Így lehetne átalakítani a nyugdíjak számítását",
+      "authors": [
+        "simonovits-andras"
+      ],
+      "kind": "column",
+      "venue": "Portfolio",
+      "date": "2025-11-04",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/gazdasag/20251104/igy-lehetne-atalakitani-a-nyugdijak-szamitasat-797126",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "simonovits-2025-portfolio-family-support",
+      "title": "The expanded family support system blows a hole in the budget",
+      "title_hu": "Lyukat üt a költségvetésben a kibővített családtámogatási rendszer",
+      "authors": [
+        "simonovits-andras"
+      ],
+      "kind": "column",
+      "venue": "Portfolio",
+      "date": "2025-03-25",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/gazdasag/20250325/lyukat-ut-a-koltsegvetesben-a-kibovitett-csaladtamogatasi-rendszer-748611",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "simonovits-2025-portfolio-nok40",
+      "title": "Should women's preferential pension (Nők40) be phased out as soon as possible?",
+      "title_hu": "Minél előbb fel kell számolni a nők kedvezményes nyugdíját?",
+      "authors": [
+        "simonovits-andras"
+      ],
+      "kind": "column",
+      "venue": "Portfolio",
+      "date": "2025-08-24",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/gazdasag/20250824/minel-elobb-fel-kell-szamolni-a-nok-kedvezmenyes-nyugdijat-javaslatok-nyugdijreformra-780887",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "simonovits-2025-portfolio-otthon-start-mortgage",
+      "title": "A concrete calculation on the Otthon Start loan: dual-indexed mortgage would be the better option",
+      "title_hu": "Itt egy konkrét számítás az Otthon Start hiteléről — a kettős indexálású jelzáloghitel lenne előnyös",
+      "authors": [
+        "simonovits-andras"
+      ],
+      "kind": "column",
+      "venue": "Portfolio",
+      "date": "2025-07-24",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/gazdasag/20250724/itt-egy-konkret-szamitas-az-otthon-start-hitelerol-a-kettos-indexalasu-jelzaloghitel-lenne-az-elonyos-775753",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "simonovits-2025-portfolio-svajci-indexalas",
+      "title": "Experts have calculated: how much would pensions have grown with Swiss indexation?",
+      "title_hu": "Kiszámolták a szakértők: mennyivel nőttek volna a nyugdíjak a svájci indexálással?",
+      "authors": [
+        "simonovits-andras"
+      ],
+      "kind": "column",
+      "venue": "Portfolio",
+      "date": "2025-11-27",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/gazdasag/20251127/kiszamoltak-a-szakertok-mennyivel-nottek-volna-a-nyugdijak-a-svajci-indexalassal-802228",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "simonovits-reiff-2024-krtk-blog-fairness",
+      "title": "How fair is the Hungarian pension system? — Reiff and Simonovits's article in the KRTK blog",
+      "title_hu": "Mennyire igazságos a magyar nyugdíjrendszer? — Reiff Ádám és Simonovits András írása a KRTK blogban",
+      "authors": [
+        "simonovits-andras"
+      ],
+      "kind": "column",
+      "venue": "KRTK Blog (Portfolio)",
+      "date": "2024-01",
+      "language": "hu",
+      "url": "https://krtk.elte.hu/2024/01/mennyire-igazsagos-a-magyar-nyugdijrendszer-reiff-adam-es-simonovits-andras-irasa-a-krtk-blogban/",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
       "id": "vom-berge-lindner-et-al-2021-voxeu-reallocation",
       "title": "Reallocation effects of the minimum wage",
       "authors": [
@@ -36485,8 +37081,8 @@
   "counts": {
     "authors": 86,
     "papers": 692,
-    "policy": 36,
-    "press": 93,
+    "policy": 44,
+    "press": 115,
     "topics": 19
   }
 }
