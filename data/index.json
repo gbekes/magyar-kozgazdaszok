@@ -803,8 +803,8 @@
       "review_status": "needs-verification",
       "openalex_id": "A5071155388",
       "paper_count": 6,
-      "policy_count": 0,
-      "press_count": 0
+      "policy_count": 8,
+      "press_count": 6
     },
     {
       "id": "domotor-barbara",
@@ -1271,7 +1271,7 @@
       "review_status": "needs-verification",
       "openalex_id": "A5023420867",
       "paper_count": 9,
-      "policy_count": 0,
+      "policy_count": 3,
       "press_count": 0
     },
     {
@@ -1551,7 +1551,7 @@
       "review_status": "confident",
       "openalex_id": "A5003122764",
       "paper_count": 12,
-      "policy_count": 4,
+      "policy_count": 5,
       "press_count": 2
     },
     {
@@ -1843,7 +1843,7 @@
       "openalex_id": "A5110464979",
       "paper_count": 4,
       "policy_count": 0,
-      "press_count": 0
+      "press_count": 19
     },
     {
       "id": "koszegi-botond",
@@ -1878,7 +1878,7 @@
       "openalex_id": "A5088707502",
       "paper_count": 32,
       "policy_count": 0,
-      "press_count": 0
+      "press_count": 3
     },
     {
       "id": "lengyel-balazs",
@@ -3106,7 +3106,7 @@
       "review_status": "stub",
       "openalex_id": "A5023022494",
       "paper_count": 5,
-      "policy_count": 0,
+      "policy_count": 2,
       "press_count": 0
     },
     {
@@ -33052,6 +33052,239 @@
       "review_status": "ai-drafted"
     },
     {
+      "id": "darvas-dom-2026-bruegel-analysis-eu-budget",
+      "title": "Financing the EU budget: an assessment of five proposals for new resources",
+      "title_hu": null,
+      "authors": [
+        "darvas-zsolt",
+        "Roel Dom"
+      ],
+      "outlet_kind": "report",
+      "outlet": "Bruegel Analysis",
+      "outlet_issue": null,
+      "institution": "Bruegel",
+      "year": 2026,
+      "language": "en",
+      "url": "https://www.bruegel.org/analysis/financing-eu-budget-assessment-five-proposals-new-resources",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "darvas-greppi-et-al-2026-bruegel-wp-imbalances",
+      "title": "The European Union's external imbalances: past, future and policy",
+      "title_hu": null,
+      "authors": [
+        "darvas-zsolt",
+        "Costanza Greppi Maturana",
+        "Alexandre Mendonça",
+        "Camille Reverdy",
+        "Bo Sangers",
+        "Jeromin Zettelmeyer"
+      ],
+      "outlet_kind": "working_paper",
+      "outlet": "Bruegel Working Paper",
+      "outlet_issue": null,
+      "institution": "Bruegel",
+      "year": 2026,
+      "language": "en",
+      "url": "https://www.bruegel.org/working-paper/european-unions-external-imbalances-past-future-and-policy",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "darvas-huertas-et-al-2025-bruegel-wp-debt",
+      "title": "What will it take to stabilise debt in advanced countries?",
+      "title_hu": null,
+      "authors": [
+        "darvas-zsolt",
+        "Gonzalo Huertas",
+        "Lennard Welslau",
+        "Jeromin Zettelmeyer"
+      ],
+      "outlet_kind": "working_paper",
+      "outlet": "Bruegel Working Paper",
+      "outlet_issue": null,
+      "institution": "Bruegel",
+      "year": 2025,
+      "language": "en",
+      "url": "https://www.bruegel.org/working-paper/what-will-it-take-stabilise-debt-advanced-countries",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "darvas-lappe-2026-bruegel-trump-trade",
+      "title": "European and Chinese exports kept growing despite the 2025 Trump trade shock",
+      "title_hu": null,
+      "authors": [
+        "darvas-zsolt",
+        "Marie-Sophie Lappe"
+      ],
+      "outlet_kind": "report",
+      "outlet": "Bruegel Analysis",
+      "outlet_issue": null,
+      "institution": "Bruegel",
+      "year": 2026,
+      "language": "en",
+      "url": "https://www.bruegel.org/analysis/european-and-chinese-exports-kept-growing-despite-2025-trump-trade-shock",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "darvas-lappe-et-al-2026-bruegel-pb-cohesion",
+      "title": "National plans, regional voices: cohesion policy in the next European Union budget",
+      "title_hu": null,
+      "authors": [
+        "darvas-zsolt",
+        "Marie-Sophie Lappe",
+        "Bo Sangers",
+        "Jeromin Zettelmeyer"
+      ],
+      "outlet_kind": "report",
+      "outlet": "Bruegel Policy Brief",
+      "outlet_issue": null,
+      "institution": "Bruegel",
+      "year": 2026,
+      "language": "en",
+      "url": "https://www.bruegel.org/policy-brief/national-plans-regional-voices-cohesion-policy-next-european-union-budget",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "darvas-papadia-2025-bruegel-rules-discretion",
+      "title": "Rules, discretion and market stabilisation in the euro area",
+      "title_hu": null,
+      "authors": [
+        "darvas-zsolt",
+        "Francesco Papadia"
+      ],
+      "outlet_kind": "report",
+      "outlet": "Bruegel Report",
+      "outlet_issue": null,
+      "institution": "Bruegel",
+      "year": 2025,
+      "language": "en",
+      "url": "https://www.bruegel.org/report/rules-discretion-and-market-stabilisation-euro-area",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "darvas-ruer-2025-bruegel-wp-gender-wealth",
+      "title": "Gender wealth inequality in the European Union: a distributional perspective",
+      "title_hu": null,
+      "authors": [
+        "darvas-zsolt",
+        "Nina Ruer"
+      ],
+      "outlet_kind": "working_paper",
+      "outlet": "Bruegel Working Paper",
+      "outlet_issue": null,
+      "institution": "Bruegel",
+      "year": 2025,
+      "language": "en",
+      "url": "https://www.bruegel.org/working-paper/gender-wealth-inequality-european-union-distributional-perspective",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "darvas-zettelmeyer-welslau-2025-bruegel-pb-germany",
+      "title": "What Germany's medium-term fiscal plan means for Europe",
+      "title_hu": null,
+      "authors": [
+        "darvas-zsolt",
+        "Jeromin Zettelmeyer",
+        "Lennard Welslau"
+      ],
+      "outlet_kind": "report",
+      "outlet": "Bruegel Policy Brief",
+      "outlet_issue": null,
+      "institution": "Bruegel",
+      "year": 2025,
+      "language": "en",
+      "url": "https://www.bruegel.org/policy-brief/what-germanys-medium-term-fiscal-plan-means-europe",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
       "id": "halpern-murakozy-2009-efige-wp15",
       "title": "Price dispersion in trade with EU countries",
       "title_hu": null,
@@ -33094,6 +33327,90 @@
       "year": 2010,
       "language": "en",
       "url": "https://bruegel.org/wp-content/uploads/2015/09/EFIGEWP26.pdf",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "hermann-2022-mt-segregation",
+      "title": "School segregation, student performance, and school progression in Hungary",
+      "title_hu": "Iskolai szegregáció, tanulói teljesítmény és iskolai továbbhaladás Magyarországon",
+      "authors": [
+        "hermann-zoltan"
+      ],
+      "outlet_kind": "chapter",
+      "outlet": "Munkaerőpiaci Tükör 2022 — társadalmi egyenlőtlenség és mobilitás",
+      "outlet_issue": null,
+      "institution": "KRTK / Munkaerőpiaci Tükör",
+      "year": 2023,
+      "language": "hu",
+      "url": "https://real.mtak.hu/182570/",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "hermann-kertesi-varga-2022-mt-test-segregation",
+      "title": "Social inequality of test results and primary-school segregation",
+      "title_hu": "A teszteredmények társadalmi egyenlőtlensége és az általános iskolai szegregáció",
+      "authors": [
+        "hermann-zoltan",
+        "kertesi-gabor",
+        "varga-kinga"
+      ],
+      "outlet_kind": "chapter",
+      "outlet": "Munkaerőpiaci Tükör 2022",
+      "outlet_issue": null,
+      "institution": "KRTK / Munkaerőpiaci Tükör",
+      "year": 2023,
+      "language": "hu",
+      "url": "https://real.mtak.hu/182569/",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "hermann-varga-eds-2024-mt",
+      "title": "Hungarian Labour Market Yearbook 2023–2024 (Hermann–Varga eds.)",
+      "title_hu": "Munkaerőpiaci Tükör 2023–2024 (szerk. Hermann Zoltán, Varga Júlia)",
+      "authors": [
+        "hermann-zoltan",
+        "varga-kinga"
+      ],
+      "outlet_kind": "report",
+      "outlet": "Munkaerőpiaci Tükör (edited volume)",
+      "outlet_issue": null,
+      "institution": "KRTK / Munkaerőpiaci Tükör",
+      "year": 2024,
+      "language": "hu",
+      "url": "https://kti.krtk.hu/wp-content/uploads/2025/05/tukor-23-24.pdf",
       "doi": null,
       "summary_en": null,
       "summary_hu": null,
@@ -34074,6 +34391,112 @@
       "last_reviewed_at": "2026-04-25"
     },
     {
+      "id": "darvas-2025-bruegel-newsletter-gender-wealth",
+      "title": "How has Europe's gender wealth gap evolved, and why?",
+      "title_hu": null,
+      "authors": [
+        "darvas-zsolt"
+      ],
+      "kind": "blog",
+      "venue": "Bruegel Newsletter",
+      "date": "2025-11",
+      "language": "en",
+      "url": "https://www.bruegel.org/newsletter/how-has-europes-gender-wealth-gap-evolved-and-why",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "darvas-2026-bruegel-first-glance-hungary",
+      "title": "Hungary's new beginning — under tight fiscal constraints",
+      "title_hu": null,
+      "authors": [
+        "darvas-zsolt"
+      ],
+      "kind": "blog",
+      "venue": "Bruegel First Glance",
+      "date": "2026-04",
+      "language": "en",
+      "url": "https://www.bruegel.org/first-glance/hungarys-new-beginning-under-tight-fiscal-constraints",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "darvas-2026-bruegel-newsletter-eu-funding",
+      "title": "To what extent should regional EU funding be conditional on national reforms?",
+      "title_hu": null,
+      "authors": [
+        "darvas-zsolt"
+      ],
+      "kind": "blog",
+      "venue": "Bruegel Newsletter",
+      "date": "2026-03",
+      "language": "en",
+      "url": "https://www.bruegel.org/newsletter/what-extent-should-regional-eu-funding-be-conditional-national-reforms",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "darvas-2026-bruegel-newsletter-hungary-economy",
+      "title": "What future for the Hungarian economy?",
+      "title_hu": null,
+      "authors": [
+        "darvas-zsolt"
+      ],
+      "kind": "blog",
+      "venue": "Bruegel Newsletter",
+      "date": "2026-04",
+      "language": "en",
+      "url": "https://www.bruegel.org/newsletter/what-future-hungarian-economy",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "darvas-2026-bruegel-podcast-eu-budget",
+      "title": "Europe's looming budget fight",
+      "title_hu": null,
+      "authors": [
+        "darvas-zsolt",
+        "Rebecca Christie",
+        "Johan Van Overtveldt"
+      ],
+      "kind": "podcast",
+      "venue": "Bruegel Podcast",
+      "date": "2026-01",
+      "language": "en",
+      "url": "https://www.bruegel.org/podcast/europes-looming-budget-fight",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "darvas-2026-bruegel-podcast-hungary-future",
+      "title": "Hungary's future",
+      "title_hu": null,
+      "authors": [
+        "darvas-zsolt",
+        "Rebecca Christie",
+        "Heather Grabbe"
+      ],
+      "kind": "podcast",
+      "venue": "Bruegel Podcast",
+      "date": "2026-04",
+      "language": "en",
+      "url": "https://www.bruegel.org/podcast/hungarys-future",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
       "id": "french-lindner-et-al-2026-voxeu-china",
       "title": "China Syndrome redux: New results on global labour reallocation",
       "authors": [
@@ -34408,6 +34831,386 @@
       "url": "https://cepr.org/voxeu/columns/learning-your-peers-import",
       "blurb": null,
       "linked_paper_id": "bisztray-koren-et-al-2018-jie",
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "kornai-1996-mozgo-vilag-welfare",
+      "title": "The citizen and the state: reform of the welfare system",
+      "title_hu": "Az állampolgár és az állam: A jóléti rendszer reformja",
+      "authors": [
+        "kornai-janos"
+      ],
+      "kind": "op-ed",
+      "venue": "Mozgó Világ",
+      "date": "1996",
+      "language": "hu",
+      "url": null,
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "kornai-2002-es-which-europe",
+      "title": "Which Europe?",
+      "title_hu": "Melyik Európához?",
+      "authors": [
+        "kornai-janos"
+      ],
+      "kind": "op-ed",
+      "venue": "Élet és Irodalom",
+      "date": "2002",
+      "language": "hu",
+      "url": null,
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "kornai-2006-nol-balance-growth-reform",
+      "title": "Equilibrium, growth, and reform (parts I–II)",
+      "title_hu": "Egyensúly, növekedés és reform (I–II)",
+      "authors": [
+        "kornai-janos"
+      ],
+      "kind": "op-ed",
+      "venue": "Népszabadság",
+      "date": "2006",
+      "language": "hu",
+      "url": null,
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "kornai-2007-nol-health-insurance",
+      "title": "Coffee and tea: contribution to health-insurance reform",
+      "title_hu": "Kávé és tea: Hozzászólás az egészségbiztosítás reformjához",
+      "authors": [
+        "kornai-janos"
+      ],
+      "kind": "op-ed",
+      "venue": "Népszabadság",
+      "date": "2007",
+      "language": "hu",
+      "url": null,
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "kornai-2010-caijing-interview",
+      "title": "Interview with János Kornai (Caijing magazine)",
+      "title_hu": null,
+      "authors": [
+        "kornai-janos",
+        "Ma Guochuan"
+      ],
+      "kind": "interview",
+      "venue": "Caijing",
+      "date": "2010",
+      "language": "en",
+      "url": null,
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "kornai-2011-nol-reckoning",
+      "title": "Reckoning",
+      "title_hu": "Számvetés",
+      "authors": [
+        "kornai-janos"
+      ],
+      "kind": "op-ed",
+      "venue": "Népszabadság",
+      "date": "2011",
+      "language": "hu",
+      "url": null,
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "kornai-2012-es-broken-promises",
+      "title": "Broken promises",
+      "title_hu": "Ígéretek megszegése",
+      "authors": [
+        "kornai-janos"
+      ],
+      "kind": "op-ed",
+      "venue": "Élet és Irodalom",
+      "date": "2012",
+      "language": "hu",
+      "url": null,
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "kornai-2012-nol-centralisation",
+      "title": "Centralisation and capitalist market economy",
+      "title_hu": "Központosítás és kapitalista piacgazdaság",
+      "authors": [
+        "kornai-janos"
+      ],
+      "kind": "op-ed",
+      "venue": "Népszabadság",
+      "date": "2012",
+      "language": "hu",
+      "url": null,
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "kornai-2014-es-threats",
+      "title": "Threatening dangers",
+      "title_hu": "Fenyegető veszélyek",
+      "authors": [
+        "kornai-janos"
+      ],
+      "kind": "op-ed",
+      "venue": "Élet és Irodalom",
+      "date": "2014",
+      "language": "hu",
+      "url": null,
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "kornai-2015-es-u-turn",
+      "title": "U-turn in Hungary",
+      "title_hu": "U-kanyar Magyarországon",
+      "authors": [
+        "kornai-janos"
+      ],
+      "kind": "op-ed",
+      "venue": "Élet és Irodalom",
+      "date": "2015",
+      "language": "hu",
+      "url": null,
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "kornai-2015-hvg-piketty",
+      "title": "Tendencies and side-effects: Kornai on Piketty's views",
+      "title_hu": "Hajlamok és mellékhatások: Kornai János Piketty nézeteiről",
+      "authors": [
+        "kornai-janos",
+        "Farkas Zoltán"
+      ],
+      "kind": "interview",
+      "venue": "HVG",
+      "date": "2015",
+      "language": "hu",
+      "url": null,
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "kornai-2016-hvg-fragile-democracies",
+      "title": "Fragile democracies",
+      "title_hu": "Sebezhető demokráciák",
+      "authors": [
+        "kornai-janos",
+        "Farkas Zoltán"
+      ],
+      "kind": "interview",
+      "venue": "HVG",
+      "date": "2016",
+      "language": "hu",
+      "url": null,
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "kornai-2017-hvg-power-pyramid",
+      "title": "A power pyramid is being built, with the supreme leader at the top",
+      "title_hu": "Hatalmi piramis épül ki, tetején a legfőbb vezetővel",
+      "authors": [
+        "kornai-janos",
+        "Farkas Zoltán"
+      ],
+      "kind": "interview",
+      "venue": "HVG",
+      "date": "2017",
+      "language": "hu",
+      "url": null,
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "kornai-2018-es-thought-no-visa",
+      "title": "'Thought needs no visa' (with Michael Ignatieff)",
+      "title_hu": "„A gondolat nem kér vízumot\" (Michael Ignatieff-fel)",
+      "authors": [
+        "kornai-janos",
+        "Michael Ignatieff"
+      ],
+      "kind": "op-ed",
+      "venue": "Élet és Irodalom",
+      "date": "2018",
+      "language": "hu",
+      "url": null,
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "kornai-2018-hvg-tudomany-tamadas",
+      "title": "Impact assessments: on the attack on science",
+      "title_hu": "Hatásvizsgálatok: A tudomány elleni támadásról",
+      "authors": [
+        "kornai-janos",
+        "Farkas Zoltán"
+      ],
+      "kind": "interview",
+      "venue": "HVG",
+      "date": "2018",
+      "language": "hu",
+      "url": null,
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "kornai-2019-es-frankenstein-reply",
+      "title": "Frankenstein's moral responsibility — reply to the responses",
+      "title_hu": "Frankenstein erkölcsi felelőssége: Válasz a visszhangra",
+      "authors": [
+        "kornai-janos"
+      ],
+      "kind": "op-ed",
+      "venue": "Élet és Irodalom",
+      "date": "2019",
+      "language": "hu",
+      "url": null,
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "kornai-2019-es-frankenstein",
+      "title": "Frankenstein's moral responsibility",
+      "title_hu": "Frankenstein erkölcsi felelőssége",
+      "authors": [
+        "kornai-janos"
+      ],
+      "kind": "op-ed",
+      "venue": "Élet és Irodalom",
+      "date": "2019",
+      "language": "hu",
+      "url": null,
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "kornai-2020-es-1956",
+      "title": "1956 — as I saw it then and as I see it now",
+      "title_hu": "1956 — Ahogy én láttam akkor és látom ma",
+      "authors": [
+        "kornai-janos"
+      ],
+      "kind": "op-ed",
+      "venue": "Élet és Irodalom",
+      "date": "2020",
+      "language": "hu",
+      "url": null,
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "kornai-2020-mozgo-vilag-high-tech",
+      "title": "Struggles of the high-tech era",
+      "title_hu": "A high-tech korszak vívódásai",
+      "authors": [
+        "kornai-janos"
+      ],
+      "kind": "op-ed",
+      "venue": "Mozgó Világ",
+      "date": "2020",
+      "language": "hu",
+      "url": null,
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "koszegi-2015-444-clark-medal",
+      "title": "Botond Köszegi receives one of the most prestigious economics prizes",
+      "title_hu": "Kőszegi Botond kapta az egyik legrangosabb közgazdasági díjat",
+      "authors": [
+        "koszegi-botond"
+      ],
+      "kind": "newspaper",
+      "venue": "444.hu",
+      "date": "2015-03-16",
+      "language": "hu",
+      "url": "https://444.hu/2015/03/16/koszegi-botond-kapta-az-egyik-legrangosabb-kozgazdasagi-dijat",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "koszegi-2015-index-interview",
+      "title": "I'm definitely a spy — interview with Botond Köszegi",
+      "title_hu": "Biztos kém vagyok — interjú Kőszegi Botonddal",
+      "authors": [
+        "koszegi-botond"
+      ],
+      "kind": "interview",
+      "venue": "Index",
+      "date": "2015-03-25",
+      "language": "hu",
+      "url": "https://index.hu/gazdasag/2015/03/25/koszegi_botond_interju_kozgazdasagtan_dij/",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "koszegi-magyarnarancs-interview",
+      "title": "'Human behaviour is not a kind of disorder' — interview with economist Botond Köszegi",
+      "title_hu": "„Az emberi viselkedés nem valami rendellenesség\" — interjú Kőszegi Botonddal",
+      "authors": [
+        "koszegi-botond"
+      ],
+      "kind": "interview",
+      "venue": "Magyar Narancs",
+      "date": null,
+      "language": "hu",
+      "url": "https://magyarnarancs.hu/belpol/az_emberi_viselkedes_nem_valami_rendellenesseg_-_koszegi_botond_kozgazdasz-74535",
+      "blurb": null,
+      "linked_paper_id": null,
       "added_at": "2026-04-25",
       "last_reviewed_at": "2026-04-25"
     },
@@ -35871,8 +36674,8 @@
   "counts": {
     "authors": 84,
     "papers": 690,
-    "policy": 37,
-    "press": 64,
+    "policy": 48,
+    "press": 92,
     "topics": 19
   }
 }
