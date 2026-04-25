@@ -8,7 +8,9 @@ section, and writes:
   - data/press/<slug>.json (for Press rows)
 
 Behaviour:
-  - Only rows marked `[x]` are ingested. Rows with `[ ]` or `[-]` are skipped.
+  - Rows marked `[x]` (any whitespace inside the brackets is fine) are
+    DROPPED — the editor uses [x] to mark items not to keep.
+  - Rows with empty brackets `[ ]` (or no bracket prefix) are INGESTED.
   - If a JSON file with the same id already exists, it is left alone unless
     --force is passed (avoids overwriting editor-curated text).
   - For Policy rows we leave summary_en / policy_relevance blank — those get
@@ -67,6 +69,43 @@ def policy_kind_from_outlet(outlet: str) -> str:
     return "report"
 
 
+def catalogue_authors_from_slug(pid: str) -> list[str]:
+    """Walk the slug from the left and pick up every surname-token that
+    matches an existing author file (`<surname>-<given>.json`). Stops at
+    the first token that doesn't correspond to a known author (i.e. once
+    we hit the year or a non-catalogue surname, we're done).
+
+    Multi-token surnames like "vom-berge" don't match — that's OK; the
+    co-authors column handles those plain-string cases.
+    """
+    if not pid:
+        return []
+    tokens = pid.split("-")
+    # Build a quick map: surname -> list of author ids that start with it
+    by_surname: dict[str, list[str]] = {}
+    for f in (DATA / "authors").glob("*.json"):
+        sur = f.stem.split("-")[0]
+        by_surname.setdefault(sur, []).append(f.stem)
+
+    out: list[str] = []
+    i = 0
+    while i < len(tokens):
+        t = tokens[i]
+        if t.isdigit():
+            break
+        if t == "et" and i + 1 < len(tokens) and tokens[i + 1] == "al":
+            break
+        candidates = by_surname.get(t, [])
+        # If exactly one author has this surname, take them.
+        # If multiple (e.g. two Hajdús), skip — editor must use co-authors col.
+        # If none, skip the token but keep walking — handles compound names
+        # like "vom-berge-lindner-..." where only "lindner" is in the catalogue.
+        if len(candidates) == 1 and candidates[0] not in out:
+            out.append(candidates[0])
+        i += 1
+    return out
+
+
 def slug_check(s: str) -> str:
     s = (s or "").strip()
     s = re.sub(r"[^a-z0-9\-]", "-", s.lower())
@@ -116,8 +155,12 @@ def parse_seed(path: Path) -> dict:
                 continue
             row = dict(zip(table_header, cells))
             check = (row.get("✓") or row.get("") or "").strip()
-            # Accept [x] or [X]
-            if not re.match(r"^\[[xX]\]", check):
+            # Convention (per editor): [x] (with any whitespace) means DROP.
+            # Empty brackets / blank / anything else means KEEP. So skip if
+            # there's a literal x/X anywhere inside the brackets.
+            m = re.match(r"^\[(.*?)\]", check)
+            inside = (m.group(1).strip().lower() if m else "")
+            if "x" in inside:
                 continue
             row["_section"] = section_kind
             out[section_kind].append(row)
@@ -135,20 +178,12 @@ def policy_from_row(row: dict) -> dict:
     if url == "(TBD)":
         url = None
 
-    # Authors come from <slug-prefix>-<other>-<year> + co-authors col.
-    # We rely on the co-authors column to be the full list when ambiguous;
-    # the editor is expected to keep slugs there.
-    authors = co_authors[:]
-    # Heuristic: if pid starts with a slug-like prefix that matches an existing
-    # author file, prepend it.
-    first_token = pid.split("-")[0]
-    candidate = None
-    for a in (DATA / "authors").glob("*.json"):
-        if a.stem.startswith(f"{first_token}-"):
-            candidate = a.stem
-            break
-    if candidate and candidate not in authors:
-        authors.insert(0, candidate)
+    # Authors come from the slug (each surname-token at the start of the slug
+    # before the year is matched against author files) plus the co-authors col.
+    authors = catalogue_authors_from_slug(pid)
+    for ca in co_authors:
+        if ca not in authors:
+            authors.append(ca)
 
     outlet_kind = policy_kind_from_outlet(venue)
 
@@ -192,15 +227,11 @@ def press_from_row(row: dict) -> dict:
         url = None
 
     co_authors_col = row.get("co-authors") or ""
-    authors = parse_authors(co_authors_col)
-    first_token = pid.split("-")[0]
-    candidate = None
-    for a in (DATA / "authors").glob("*.json"):
-        if a.stem.startswith(f"{first_token}-"):
-            candidate = a.stem
-            break
-    if candidate and candidate not in authors:
-        authors.insert(0, candidate)
+    co_authors = parse_authors(co_authors_col)
+    authors = catalogue_authors_from_slug(pid)
+    for ca in co_authors:
+        if ca not in authors:
+            authors.append(ca)
 
     today = time.strftime("%Y-%m-%d")
     return {

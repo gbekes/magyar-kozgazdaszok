@@ -75,7 +75,7 @@
       "review_status": "needs-verification",
       "openalex_id": "A5039472254",
       "paper_count": 11,
-      "policy_count": 0,
+      "policy_count": 13,
       "press_count": 0
     },
     {
@@ -263,8 +263,8 @@
       "review_status": "confident",
       "openalex_id": "A5017880363",
       "paper_count": 17,
-      "policy_count": 1,
-      "press_count": 1
+      "policy_count": 8,
+      "press_count": 23
     },
     {
       "id": "bencsik-panka",
@@ -1199,7 +1199,7 @@
       "review_status": "confident",
       "openalex_id": "A5077870424",
       "paper_count": 15,
-      "policy_count": 1,
+      "policy_count": 2,
       "press_count": 0
     },
     {
@@ -1551,8 +1551,8 @@
       "review_status": "confident",
       "openalex_id": "A5003122764",
       "paper_count": 12,
-      "policy_count": 0,
-      "press_count": 0
+      "policy_count": 4,
+      "press_count": 2
     },
     {
       "id": "kezdi-gabor",
@@ -1591,7 +1591,7 @@
       "openalex_id": "A5085764702",
       "bio_review": "needs-verification",
       "paper_count": 10,
-      "policy_count": 0,
+      "policy_count": 1,
       "press_count": 0
     },
     {
@@ -1798,7 +1798,7 @@
       "review_status": "confident",
       "openalex_id": "A5066597415",
       "paper_count": 14,
-      "policy_count": 1,
+      "policy_count": 2,
       "press_count": 0
     },
     {
@@ -1921,8 +1921,8 @@
       "openalex_id": "A5005839111",
       "bio_review": "confident",
       "paper_count": 17,
-      "policy_count": 0,
-      "press_count": 0
+      "policy_count": 1,
+      "press_count": 1
     },
     {
       "id": "lieli-robert",
@@ -2001,7 +2001,7 @@
       "openalex_id": "A5111929267",
       "paper_count": 5,
       "policy_count": 0,
-      "press_count": 0
+      "press_count": 6
     },
     {
       "id": "loranth-gyongyi",
@@ -2223,7 +2223,7 @@
       "review_status": "confident",
       "openalex_id": "A5074785351",
       "paper_count": 15,
-      "policy_count": 1,
+      "policy_count": 2,
       "press_count": 0
     },
     {
@@ -2631,7 +2631,7 @@
       "review_status": "needs-verification",
       "openalex_id": "A5072427780",
       "paper_count": 11,
-      "policy_count": 0,
+      "policy_count": 1,
       "press_count": 0
     },
     {
@@ -32290,9 +32290,501 @@
   ],
   "policy": [
     {
+      "id": "adamecz-2011-bi-rehab",
+      "title": "Policy brief on employment rehabilitation",
+      "title_hu": null,
+      "authors": [
+        "adamecz-anna"
+      ],
+      "outlet_kind": "report",
+      "outlet": "Budapest Institute",
+      "outlet_issue": null,
+      "institution": null,
+      "year": 2011,
+      "language": "en",
+      "url": "http://www.budapestinstitute.eu/uploads/BI_policy_brief_2011.11.pdf",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "adamecz-2014-bi-ltu",
+      "title": "Policy brief on long-term unemployment",
+      "title_hu": null,
+      "authors": [
+        "adamecz-anna"
+      ],
+      "outlet_kind": "report",
+      "outlet": "Budapest Institute",
+      "outlet_issue": null,
+      "institution": null,
+      "year": 2014,
+      "language": "en",
+      "url": "http://www.budapestinstitute.eu/uploads/BI_policy_brief_2014.11.pdf",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "adamecz-2015-bi-tracking",
+      "title": "Policy brief on early tracking in education",
+      "title_hu": null,
+      "authors": [
+        "adamecz-anna"
+      ],
+      "outlet_kind": "report",
+      "outlet": "Budapest Institute",
+      "outlet_issue": null,
+      "institution": null,
+      "year": 2015,
+      "language": "en",
+      "url": "http://www.budapestinstitute.eu/uploads/BI_policy_brief_2015.1.pdf",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "adamecz-2018-bi-admindata",
+      "title": "Policy brief on using administrative data to improve policy making in the CEE",
+      "title_hu": null,
+      "authors": [
+        "adamecz-anna"
+      ],
+      "outlet_kind": "report",
+      "outlet": "Budapest Institute (V4)",
+      "outlet_issue": null,
+      "institution": null,
+      "year": 2018,
+      "language": "en",
+      "url": "http://www.budapestinstitute.eu/uploads/V4admindata_policy_brief_2018EN.pdf",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "adamecz-2020-bi-youth-outreach",
+      "title": "Impact of increased local cooperation on PES outreach to non-employed youths in Hungary",
+      "title_hu": null,
+      "authors": [
+        "adamecz-anna"
+      ],
+      "outlet_kind": "report",
+      "outlet": "Budapest Institute",
+      "outlet_issue": null,
+      "institution": null,
+      "year": 2020,
+      "language": "en",
+      "url": "http://www.budapestinstitute.eu/uploads/wp4_outreach_report_HU_200627_full.pdf",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "adamecz-2021-bi-youth-employment",
+      "title": "Policy lessons from the evaluation of youth employment policies in Spain, Hungary, Italy and Poland",
+      "title_hu": null,
+      "authors": [
+        "adamecz-anna"
+      ],
+      "outlet_kind": "report",
+      "outlet": "Budapest Institute",
+      "outlet_issue": null,
+      "institution": null,
+      "year": 2021,
+      "language": "en",
+      "url": "http://www.budapestinstitute.eu/uploads/policy_brief_ENG_2021.pdf",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "adamecz-2022-bi-eu-funds",
+      "title": "Policy brief on access to and quality of public data on EU funds",
+      "title_hu": null,
+      "authors": [
+        "adamecz-anna"
+      ],
+      "outlet_kind": "report",
+      "outlet": "Budapest Institute",
+      "outlet_issue": null,
+      "institution": null,
+      "year": 2022,
+      "language": "en",
+      "url": "http://www.budapestinstitute.eu/uploads/HU_open_data_assessment_2022_BI1.pdf",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "adamecz-2023-bi-discrimination",
+      "title": "What works for whom? What theories may predict about the effectiveness of measures against employment discrimination",
+      "title_hu": null,
+      "authors": [
+        "adamecz-anna",
+        "Hajnal",
+        "Scharle"
+      ],
+      "outlet_kind": "working_paper",
+      "outlet": "Budapest Institute (IJSSP working paper)",
+      "outlet_issue": null,
+      "institution": null,
+      "year": 2023,
+      "language": "en",
+      "url": "http://www.budapestinstitute.eu/uploads/hajnal-scharle-whatworks-IJSSP2023_author_accepted.pdf",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "adamecz-2025-bi-disability",
+      "title": "Disability insurance reform in Hungary: Fiscal gains at human cost",
+      "title_hu": null,
+      "authors": [
+        "adamecz-anna"
+      ],
+      "outlet_kind": "report",
+      "outlet": "Budapest Institute",
+      "outlet_issue": null,
+      "institution": null,
+      "year": 2025,
+      "language": "en",
+      "url": "http://www.budapestinstitute.eu/uploads/Case_study_DisabilityReform_Hungary_07042025.pdf",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "adamecz-bi-homelessness-cee",
+      "title": "Ending homelessness in CEE. Comparative report",
+      "title_hu": null,
+      "authors": [
+        "adamecz-anna"
+      ],
+      "outlet_kind": "report",
+      "outlet": "Budapest Institute",
+      "outlet_issue": null,
+      "institution": null,
+      "year": null,
+      "language": "en",
+      "url": "http://www.budapestinstitute.eu/uploads/Final_main_report__CEE_Study.pdf",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "adamecz-bi-homelessness-hungary",
+      "title": "Policy brief on ending homelessness — Hungary",
+      "title_hu": null,
+      "authors": [
+        "adamecz-anna"
+      ],
+      "outlet_kind": "report",
+      "outlet": "Budapest Institute",
+      "outlet_issue": null,
+      "institution": null,
+      "year": null,
+      "language": "en",
+      "url": "http://www.budapestinstitute.eu/uploads/wh_housing-led-in-cee_BRIEFING-HUNGARY_EN_FINAL.pdf",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "adamecz-bi-neet-outreach",
+      "title": "How can Public Employment Services act to reach NEETs? Comparative report on four countries",
+      "title_hu": null,
+      "authors": [
+        "adamecz-anna"
+      ],
+      "outlet_kind": "report",
+      "outlet": "Budapest Institute",
+      "outlet_issue": null,
+      "institution": null,
+      "year": null,
+      "language": "en",
+      "url": "http://www.budapestinstitute.eu/uploads/wp4_comparative_report.pdf",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "adamecz-bi-pension-ageing",
+      "title": "Population ageing and strengthened progressivity of pensions: the case of Hungary",
+      "title_hu": null,
+      "authors": [
+        "adamecz-anna"
+      ],
+      "outlet_kind": "report",
+      "outlet": "Budapest Institute",
+      "outlet_issue": null,
+      "institution": null,
+      "year": null,
+      "language": "en",
+      "url": "http://www.budapestinstitute.eu/uploads/challenge61.pdf",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "altomonte-bekes-2011-microdyn",
+      "title": "Internationalisation of corporate activity and competitiveness of the European economy: some policy implications",
+      "title_hu": null,
+      "authors": [
+        "bekes-gabor",
+        "Carlo Altomonte"
+      ],
+      "outlet_kind": "working_paper",
+      "outlet": "MicroDyn Working Paper 6/2011",
+      "outlet_issue": null,
+      "institution": null,
+      "year": 2011,
+      "language": "en",
+      "url": null,
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "altomonte-bekes-2016-bruegel-book",
+      "title": "Measuring competitiveness in Europe: resource allocation, granularity and trade",
+      "title_hu": null,
+      "authors": [
+        "bekes-gabor",
+        "Carlo Altomonte"
+      ],
+      "outlet_kind": "report",
+      "outlet": "Bruegel (co-edited book)",
+      "outlet_issue": null,
+      "institution": null,
+      "year": 2016,
+      "language": "en",
+      "url": "https://www.bruegel.org/...",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "altomonte-bekes-2016-bruegel-ch",
+      "title": "Measuring competitiveness in a granular and global world (chapter)",
+      "title_hu": null,
+      "authors": [
+        "bekes-gabor",
+        "Carlo Altomonte"
+      ],
+      "outlet_kind": "report",
+      "outlet": "Bruegel — *Measuring competitiveness in Europe*",
+      "outlet_issue": null,
+      "institution": null,
+      "year": 2016,
+      "language": "en",
+      "url": "https://www.bruegel.org/...",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "bekes-2004-mt-location",
+      "title": "Motives of corporate location choice (chapter)",
+      "title_hu": null,
+      "authors": [
+        "bekes-gabor"
+      ],
+      "outlet_kind": "report",
+      "outlet": "Hungarian Labour Market 2004 (K. Fazekas, J. Koltay, Zs. Cseres-Gergely eds.)",
+      "outlet_issue": null,
+      "institution": null,
+      "year": 2004,
+      "language": "en",
+      "url": null,
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "bekes-holler-2015-bruegel-bp23",
+      "title": "Barriers to data access and matching in Europe",
+      "title_hu": null,
+      "authors": [
+        "bekes-gabor",
+        "Zsuzsa Holler"
+      ],
+      "outlet_kind": "report",
+      "outlet": "Bruegel Blueprint #23 (Castellani & Koch eds.)",
+      "outlet_issue": null,
+      "institution": null,
+      "year": 2015,
+      "language": "en",
+      "url": "https://www.bruegel.org/...",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
       "id": "bekes-koren-halpern-murakozy-2011-bruegel-bp15",
-      "title": "Still Standing: How European Firms Weathered the Crisis",
-      "title_hu": "Talpon maradva — hogyan vészelték át az európai vállalatok a válságot",
+      "title": "Still Standing: how European firms weathered the crisis",
+      "title_hu": null,
       "authors": [
         "bekes-gabor",
         "koren-miklos",
@@ -32300,40 +32792,422 @@
         "murakozy-balazs"
       ],
       "outlet_kind": "report",
-      "outlet": "Bruegel Blueprint Series",
-      "outlet_issue": "#15",
-      "institution": "Bruegel",
+      "outlet": "Bruegel Blueprint Series #15",
+      "outlet_issue": null,
+      "institution": null,
       "year": 2011,
       "language": "en",
-      "url": "https://www.bruegel.org/book/still-standing-how-european-firms-weathered-crisis",
+      "url": "https://www.bruegel.org/...",
       "doi": null,
-      "summary_en": "European firms weathered the 2008-2009 crisis better than the macro data alone would suggest. Using the EFIGE survey of around 14,000 firms across seven EU countries, the report documents how exporters and multi-product firms were systematically more resilient. The Hungarian results echo the European pattern: firms that had built international links pre-crisis lost less of their workforce and recovered faster.",
+      "summary_en": null,
       "summary_hu": null,
-      "policy_relevance": "Direct input for Hungarian export-promotion (HIPA) and SME-finance policy after 2008. The report argues that firm-level internationalisation is itself a stabiliser, so the policy levers worth using during a downturn are export-credit access, trade finance, and FDI promotion — not blanket bailouts. Caveat: a single cross-section, so the resilience pattern may not generalise to demand-driven crises (e.g. COVID-19).",
+      "policy_relevance": null,
       "policy_relevance_hu": null,
-      "topics": [
-        "trade-fdi",
-        "firms-productivity"
-      ],
-      "countries_studied": [
-        "EU",
-        "HU"
-      ],
-      "policy_instruments": [
-        "export-promotion (HIPA)",
-        "trade finance",
-        "FDI promotion"
-      ],
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
       "linked_paper_id": null,
       "added_at": "2026-04-25",
       "last_reviewed_at": "2026-04-25",
-      "review_status": "ai-drafted"
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "bekes-koren-halpern-murakozy-2011-efige",
+      "title": "How did exporting firms cope with the crisis? — EFIGE Country Report: Hungary",
+      "title_hu": null,
+      "authors": [
+        "bekes-gabor",
+        "koren-miklos",
+        "halpern-laszlo",
+        "murakozy-balazs"
+      ],
+      "outlet_kind": "report",
+      "outlet": "Bruegel (EFIGE)",
+      "outlet_issue": null,
+      "institution": null,
+      "year": 2011,
+      "language": "en",
+      "url": "https://www.bruegel.org/...",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "bekes-ottaviano-2016-bruegel-ch",
+      "title": "Micro-founded measurement of regional competitiveness in Europe (chapter)",
+      "title_hu": null,
+      "authors": [
+        "bekes-gabor",
+        "Gianmarco I.P. Ottaviano"
+      ],
+      "outlet_kind": "report",
+      "outlet": "Bruegel — *Measuring competitiveness in Europe*",
+      "outlet_issue": null,
+      "institution": null,
+      "year": 2016,
+      "language": "en",
+      "url": "https://www.bruegel.org/...",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "kertesi-2010-mt-roma-employment",
+      "title": "Roma Employment at the Turn of the Millennium. An Analysis of the Nationwide Representative Roma Survey of 2003",
+      "title_hu": null,
+      "authors": [
+        "kertesi-gabor"
+      ],
+      "outlet_kind": "chapter",
+      "outlet": "The Hungarian Labour Market 2010 (Munkaerőpiaci Tükör)",
+      "outlet_issue": null,
+      "institution": null,
+      "year": 2010,
+      "language": "en",
+      "url": null,
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "kertesi-kezdi-2010-mt-segregation",
+      "title": "Segregation of Primary Schools in Hungary. A Descriptive Study Using Data from the National Assessment of Basic Competences of 2006",
+      "title_hu": null,
+      "authors": [
+        "kertesi-gabor",
+        "kezdi-gabor"
+      ],
+      "outlet_kind": "report",
+      "outlet": "The Hungarian Labour Market 2010",
+      "outlet_issue": null,
+      "institution": null,
+      "year": 2010,
+      "language": "en",
+      "url": null,
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "kertesi-koll-karolyi-szabo-ssrn-prejudice",
+      "title": "From Ethnic Prejudice to Employment Discrimination: The Role of Small Firms as Mediators (SSRN preprint)",
+      "title_hu": null,
+      "authors": [
+        "kertesi-gabor",
+        "szabo-morvai-agnes",
+        "János Köllő",
+        "Róbert Károlyi",
+        "Lajos Tamás Szabó"
+      ],
+      "outlet_kind": "report",
+      "outlet": "SSRN",
+      "outlet_issue": null,
+      "institution": null,
+      "year": null,
+      "language": "en",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5256564",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "kertesi-real-roma-youth",
+      "title": "A roma fiatalok esélyei és az iskolarendszer egyenlőtlensége",
+      "title_hu": null,
+      "authors": [
+        "kertesi-gabor"
+      ],
+      "outlet_kind": "report",
+      "outlet": "KRTK / Repository of the Academy's Library",
+      "outlet_issue": null,
+      "institution": null,
+      "year": null,
+      "language": "en",
+      "url": "https://real.mtak.hu/34703/",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "lengyel-sebestyen-leydesdorff-2015-spp",
+      "title": "Challenges for regional innovation policies in Central and Eastern Europe",
+      "title_hu": null,
+      "authors": [
+        "lengyel-balazs",
+        "Tamás Sebestyén",
+        "Loet Leydesdorff"
+      ],
+      "outlet_kind": "report",
+      "outlet": "Science & Public Policy (already in catalogue?)",
+      "outlet_issue": null,
+      "institution": null,
+      "year": 2015,
+      "language": "en",
+      "url": "http://real.mtak.hu/22415/",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
     }
   ],
   "press": [
     {
+      "id": "bekes-2013-index-data",
+      "title": "Kiteregetjük mindenünket, amink csak van",
+      "authors": [
+        "bekes-gabor"
+      ],
+      "kind": "column",
+      "venue": "Index",
+      "date": "2013-09-10",
+      "language": "hu",
+      "url": "https://index.hu/tudomany/2013/09/10/nagyobb_az_adat/",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "bekes-2013-index-defacto-trade",
+      "title": "Nemzetgazdaságban gondolkodni hiba",
+      "authors": [
+        "bekes-gabor"
+      ],
+      "kind": "column",
+      "venue": "Index *defacto*",
+      "date": "2013-05-07",
+      "language": "hu",
+      "url": "https://index.hu/gazdasag/2013/05/07/kulkeres/",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "bekes-2013-portfolio-startup",
+      "title": "Konténerhajó, diószedés, startup – Újításból lesz növekedés",
+      "authors": [
+        "bekes-gabor"
+      ],
+      "kind": "column",
+      "venue": "Portfolio",
+      "date": "2013-10-11",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/gazdasag/20131011/kontenerhajo-dioszedes-startup-ujitasbol-lesz-novekedes-190340",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "bekes-2014-index-defacto-cities",
+      "title": "Szegényebb vagy gazdagabb lett a városa?",
+      "authors": [
+        "bekes-gabor"
+      ],
+      "kind": "column",
+      "venue": "Index *defacto*",
+      "date": "2014-09-29",
+      "language": "hu",
+      "url": "https://index.hu/gazdasag/defacto/2014/09/29/nezze_meg_hogy_gazdagodott_a_varosa/",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "bekes-2014-index-defacto-eu-funds",
+      "title": "Az uniós pénzosztás óriási kudarca",
+      "authors": [
+        "bekes-gabor"
+      ],
+      "kind": "column",
+      "venue": "Index *defacto*",
+      "date": "2014-04-14",
+      "language": "hu",
+      "url": "https://index.hu/gazdasag/defacto/2014/04/14/ez_unios_tagsagunk_legnagyobb_kudarca/",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "bekes-2014-portfolio-export",
+      "title": "Növekvő vállalatok, külkereskedelem és innováció",
+      "authors": [
+        "bekes-gabor"
+      ],
+      "kind": "column",
+      "venue": "Portfolio",
+      "date": "2014-11-05",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/rendezvenyek/konferencia-gazdasag/portfolio_export_2014/382/attekintes",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "bekes-2014-privatbankar-pride",
+      "title": "Így függ össze a gazdasági fejlődésünk és a gay pride",
+      "authors": [
+        "bekes-gabor"
+      ],
+      "kind": "column",
+      "venue": "Privátbankár",
+      "date": "2014-05-27",
+      "language": "hu",
+      "url": "https://privatbankar.hu/cikkek/kkv/igy-fugg-ossze-a-gazdasagi-fejlodesunk-es-a-gay-pride-269181.html",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "bekes-2015-index-defacto-east",
+      "title": "Nem könnyű keletre nyitni",
+      "authors": [
+        "bekes-gabor"
+      ],
+      "kind": "column",
+      "venue": "Index *defacto*",
+      "date": "2015-08-03",
+      "language": "hu",
+      "url": "https://index.hu/gazdasag/defacto/2015/08/03/nem_konnyu_eltavolodni_a_nyugattol/",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "bekes-2015-magyarhirlap-beszallitok",
+      "title": "Fontos szerep jut a beszállítóknak",
+      "authors": [
+        "bekes-gabor"
+      ],
+      "kind": "newspaper",
+      "venue": "Magyar Hírlap",
+      "date": "2015-10-16",
+      "language": "hu",
+      "url": "https://www.magyarhirlap.hu/gazdasag/Fontos_szerep_jut_a_beszallitoknak",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "bekes-2016-ft-cit",
+      "title": "Hungary to offer EU's lowest corporate tax rate",
+      "authors": [
+        "bekes-gabor"
+      ],
+      "kind": "newspaper",
+      "venue": "Financial Times",
+      "date": "2016-11-17",
+      "language": "en",
+      "url": "https://www.ft.com/content/302fa4b4-acda-11e6-9cb3-bb8207902122",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "bekes-2016-index-buses",
+      "title": "Miért vannak lengyel buszok Budapesten, és nem fordítva?",
+      "authors": [
+        "bekes-gabor"
+      ],
+      "kind": "column",
+      "venue": "Index",
+      "date": "2016-04-28",
+      "language": "hu",
+      "url": "https://index.hu/gazdasag/2016/04/28/ezert_vannak_lengyel_buszok_budapesten_es_nem_magyar_buszok_a_lengyeleknel/",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "bekes-2017-index-gdp",
+      "title": "Tényleg elcsalták a magyar GDP-t?",
+      "authors": [
+        "bekes-gabor"
+      ],
+      "kind": "column",
+      "venue": "Index",
+      "date": "2017-03-03",
+      "language": "hu",
+      "url": "https://index.hu/gazdasag/2017/03/03/gdp_kulkereskedelem_tukorstatisztika_maximilian_gebhardt/",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
       "id": "bekes-2021-portfolio-spillovers",
-      "title": "A magyar cégek egymástól lesik el az ötleteket — és ezzel egész Magyarország jól jár",
+      "title": "A magyar cégek egymástól lesik el az ötleteket…",
       "authors": [
         "bekes-gabor"
       ],
@@ -32342,11 +33216,314 @@
       "date": "2021-09-05",
       "language": "hu",
       "url": "https://www.portfolio.hu/krtk/20210905/a-magyar-cegek-egymastol-lesik-el-az-otleteket-es-ezzel-egesz-magyarorszag-jol-jar-498918",
-      "blurb": "Hungarian firms learn from each other's machine-import decisions: spillovers from new technology adoption raise productivity at neighbouring firms.",
+      "blurb": null,
       "linked_paper_id": "bekes-harasztosi-2019-rowe",
       "added_at": "2026-04-25",
-      "last_reviewed_at": "2026-04-25",
-      "review_status": "ai-drafted"
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "bekes-2022-ft-tough-legal-crowd",
+      "title": "Why a 'tough legal crowd' needs a hard sell",
+      "authors": [
+        "bekes-gabor"
+      ],
+      "kind": "newspaper",
+      "venue": "Financial Times",
+      "date": "2022-10-13",
+      "language": "en",
+      "url": "https://www.ft.com/content/8444096b-d7fd-42b9-b7f2-b5094a26fcc9",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "bekes-2023-kti-interview",
+      "title": "Interjú Békés Gáborral a Cambridge University Pressnél megjelent könyve kapcsán",
+      "authors": [
+        "bekes-gabor"
+      ],
+      "kind": "interview",
+      "venue": "KTI",
+      "date": "2023-12-21",
+      "language": "hu",
+      "url": "https://kti.krtk.hu/hirek/hirek-2/interju-bekes-gaborral-a-cambridge-university-pressnel-megjelent-konyve-kapcsan/",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "bekes-2023-mixtape-podcast",
+      "title": "Interview with Gábor Békés (The Mixtape Podcast, S2E26)",
+      "authors": [
+        "bekes-gabor"
+      ],
+      "kind": "podcast",
+      "venue": "The Mixtape Podcast",
+      "date": "2023-08-17",
+      "language": "en",
+      "url": "https://kti.krtk.hu/en/news/news-2/interview-with-gabor-bekes-international-economist-and-author-at-ceu/",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "bekes-2024-portfolio-book",
+      "title": "Előbb lett világsiker, de most idehaza is megjelenik egy magyar gazdasági tankönyv",
+      "authors": [
+        "bekes-gabor"
+      ],
+      "kind": "newspaper",
+      "venue": "Portfolio",
+      "date": "2024-05-15",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/gazdasag/20240515/elobb-lett-vilagsiker-de-most-idehaza-is-megjelenik-egy-magyar-gazdasagi-tankonyv-686139",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "bekes-2024-szabadeuropa-interview",
+      "title": "Az adatelemzés olyan munka, mint a nyomozóké",
+      "authors": [
+        "bekes-gabor"
+      ],
+      "kind": "interview",
+      "venue": "Szabad Európa",
+      "date": "2024-07-13",
+      "language": "hu",
+      "url": "https://www.szabadeuropa.hu/a/adatelemzes-bekes-gabor-interju/33020517.html",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "bekes-2025-444-bullying",
+      "title": "A szabályok helyett eljött a bullying korszaka a világgazdaságban",
+      "authors": [
+        "bekes-gabor"
+      ],
+      "kind": "op-ed",
+      "venue": "444.hu",
+      "date": "2025-08-07",
+      "language": "hu",
+      "url": "https://444.hu/2025/08/07/a-szabalyok-helyett-eljott-a-bullying-korszaka-a-vilaggazdasagban",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "bekes-2025-444-usa",
+      "title": "Rövidtávon nyerhet ezen az USA, de középtávon mindenki azt a jövőt tervezi…",
+      "authors": [
+        "bekes-gabor"
+      ],
+      "kind": "op-ed",
+      "venue": "444.hu",
+      "date": "2025-04-10",
+      "language": "hu",
+      "url": "https://444.hu/2025/04/10/rovidtavon-nyerhet-ezen-az-usa-de-kozeptavon-mindenki-azt-a-jovot-tervezi-melyben-amerikanak-kisebb-szerep-jut",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "bekes-2025-bostonglobe-immigration",
+      "title": "Social Studies: The economics of immigration and deportation…",
+      "authors": [
+        "bekes-gabor"
+      ],
+      "kind": "newspaper",
+      "venue": "The Boston Globe",
+      "date": "2025-02-03",
+      "language": "en",
+      "url": "https://www.bostonglobe.com/2025/02/03/opinion/social-studies-economics-immigration-deportation-subtle-biases-sports/",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "bekes-2025-telex-interview",
+      "title": "Napi egy-két stampedli helyett meg kellene ölelnünk egymást",
+      "authors": [
+        "bekes-gabor"
+      ],
+      "kind": "interview",
+      "venue": "Telex",
+      "date": "2025-05-20",
+      "language": "hu",
+      "url": "https://telex.hu/video/2025/05/21/schwab-richard-belgyogyasz-bekes-gabor-kozgazdasz-tudomany-kutatas-egeszsegugy-video-interju",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "bekes-derstandard-football",
+      "title": "Die versteckten Muster menschlichen Verhaltens im Fußball",
+      "authors": [
+        "bekes-gabor"
+      ],
+      "kind": "column",
+      "venue": "Der Standard",
+      "date": "TBD",
+      "language": "de",
+      "url": "http://derstandard.at/consent/tcf/story/3000000264636/die-versteckten-muster-menschlichen-verhaltens-im-fussball",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "french-lindner-et-al-2026-voxeu-china",
+      "title": "China Syndrome redux: New results on global labour reallocation",
+      "authors": [
+        "lindner-attila"
+      ],
+      "kind": "column",
+      "venue": "VoxEU / CEPR",
+      "date": "2026-03-18",
+      "language": "en",
+      "url": "https://cepr.org/voxeu/columns/china-syndrome-redux-new-results-global-labour-reallocation",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "kertesi-2022-qubit-podcast",
+      "title": "Kontraszelektál a magyar oktatási rendszer, és egyre alkalmatlanabb fiatalokat terel pedagógusi pályára",
+      "authors": [
+        "kertesi-gabor"
+      ],
+      "kind": "podcast",
+      "venue": "Qubit Podcast / Qubit Live",
+      "date": "2022-12",
+      "language": "hu",
+      "url": "https://podcasts.apple.com/mz/podcast/kertesi-g%C3%A1bor-kontraszelekt%C3%A1l-a-magyar-oktat%C3%A1si/id1533857087?i=1000588598066",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "kertesi-2023-partizan-podcast",
+      "title": "„Átfogó, forradalmian új humánerőforrás-politikára van szükség!\" — Interjú Kertesi Gáborral",
+      "authors": [
+        "kertesi-gabor"
+      ],
+      "kind": "podcast",
+      "venue": "Partizán",
+      "date": "2023",
+      "language": "hu",
+      "url": "https://open.spotify.com/episode/1vTEaUjJH5s3R8p9DEHV2B",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "lengyel-voxeu-disruptive",
+      "title": "Why EU innovation policy fails to promote disruptive innovation",
+      "authors": [
+        "lengyel-balazs"
+      ],
+      "kind": "column",
+      "venue": "VoxEU / CEPR",
+      "date": "TBD",
+      "language": "en",
+      "url": "https://cepr.org/voxeu/columns/why-eu-innovation-policy-fails-promote-disruptive-innovation",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "lindner-2017-ec-mw-talk",
+      "title": "Minimum Wage Policies in Europe",
+      "authors": [
+        "lindner-attila"
+      ],
+      "kind": "event-talk",
+      "venue": "EU Social Pillar Conference (Brussels)",
+      "date": "2017",
+      "language": "en",
+      "url": "https://www.dropbox.com/s/3o9cb7aih72b3rl/Lindner_EP2016UCL.pdf",
+      "blurb": null,
+      "linked_paper_id": "harasztosi-lindner-2019-aer",
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "lindner-2020-ifs-mw-slides",
+      "title": "What do we know about Minimum Wages?",
+      "authors": [
+        "lindner-attila"
+      ],
+      "kind": "event-talk",
+      "venue": "IFS-CEP Research Workshop",
+      "date": "2020",
+      "language": "en",
+      "url": "https://www.dropbox.com/s/wug13fsnep25n87/WhatDoWeKnowAboutMW_IFStalk.pdf",
+      "blurb": null,
+      "linked_paper_id": "harasztosi-lindner-2019-aer",
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "lindner-2020-ujegyenloseg-mw",
+      "title": "Interview: What does the Minimum Wage do?",
+      "authors": [
+        "lindner-attila"
+      ],
+      "kind": "interview",
+      "venue": "Új Egyenlőség",
+      "date": "2020",
+      "language": "hu",
+      "url": "http://ujegyenloseg.hu/a-nagy-minimalberemeles-mitosz/",
+      "blurb": null,
+      "linked_paper_id": "harasztosi-lindner-2019-aer",
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "lindner-2021-rajk-mw-talk",
+      "title": "Minimálbér: új generációs kutatások egy régi kérdésről",
+      "authors": [
+        "lindner-attila"
+      ],
+      "kind": "event-talk",
+      "venue": "Rajk Connect / G7",
+      "date": "2021",
+      "language": "hu",
+      "url": "https://g7.hu/elet/20210311/",
+      "blurb": null,
+      "linked_paper_id": "harasztosi-lindner-2019-aer",
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "vom-berge-lindner-et-al-2021-voxeu-reallocation",
+      "title": "Reallocation effects of the minimum wage",
+      "authors": [
+        "lindner-attila"
+      ],
+      "kind": "column",
+      "venue": "VoxEU / CEPR",
+      "date": "2021-10-07",
+      "language": "en",
+      "url": "https://cepr.org/voxeu/columns/reallocation-effects-minimum-wage",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
     }
   ],
   "topics": [
@@ -32403,7 +33580,7 @@
       "policy_framing_en": "Relevant to: EU trade policy, FDI promotion, export promotion, supply chain resilience, industrial policy.",
       "policy_framing_hu": "Releváns: EU kereskedelempolitika, FDI ösztönzés, exporttámogatás, ellátási láncok rugalmassága, iparpolitika.",
       "icon": "globe",
-      "paper_count": 40
+      "paper_count": 39
     },
     {
       "id": "firms-productivity",
@@ -32414,7 +33591,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 78
+      "paper_count": 77
     },
     {
       "id": "innovation-digital",
@@ -33693,8 +34870,8 @@
   "counts": {
     "authors": 84,
     "papers": 690,
-    "policy": 1,
-    "press": 1,
+    "policy": 26,
+    "press": 32,
     "topics": 19
   }
 }
