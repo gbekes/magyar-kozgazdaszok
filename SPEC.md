@@ -267,7 +267,8 @@ The boundary rule is **length / institutional weight**: long institutional outpu
 ```json
 {
   "id": "bekes-2021-portfolio-spillovers",
-  "title": "A magyar cégek egymástól lesik el az ötleteket...",
+  "title": "Hungarian firms steal ideas from each other — and the whole country benefits",
+  "title_hu": "A magyar cégek egymástól lesik el az ötleteket...",
   "authors": ["bekes-gabor"],
   "kind": "column",
   "venue": "Portfolio",
@@ -275,7 +276,7 @@ The boundary rule is **length / institutional weight**: long institutional outpu
   "language": "hu",
   "url": "https://www.portfolio.hu/...",
   "blurb": null,
-  "linked_paper_id": "bekes-murakozy-et-al-2019-rowe",
+  "linked_paper_id": "bekes-harasztosi-2019-rowe",
   "added_at": "...",
   "last_reviewed_at": "...",
   "review_status": "ai-drafted"
@@ -283,6 +284,8 @@ The boundary rule is **length / institutional weight**: long institutional outpu
 ```
 
 `kind` ∈ `{op-ed, column, interview, podcast, blog, newspaper, radio-tv, event-talk}`. `blurb` is optional one-liner. `linked_paper_id` same semantics as Policy. No `summary_en` / `policy_relevance` / `topics` — Press is intentionally minimal.
+
+**Bilingual titles.** `title` is the canonical English title (always); `title_hu` is the Hungarian title. For Hungarian-origin items the editor (or a translator) supplies the English `title` and the original headline lives in `title_hu`. Renderer prefers the page-language version and falls back to whichever is set. The `language` field still indicates the **article's** language (so the reader knows clicking through gets a Hungarian source). Same convention applies to Policy items.
 
 One JSON per paper, one per author. Trivial to diff, review, and edit by hand. Build-time aggregation into search indexes and topic pages.
 

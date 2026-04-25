@@ -175,7 +175,9 @@
     const outletBits = [item.institution, item.outlet, item.outlet_issue]
       .filter(Boolean).map(esc).join(' · ');
     const year = item.year || '';
-    const title = (lang === 'hu' && item.title_hu) ? item.title_hu : item.title;
+    const title = lang === 'hu'
+      ? (item.title_hu || item.title)
+      : (item.title || item.title_hu);
     const blurb = firstSentence(
       (lang === 'hu' && item.summary_hu) ? item.summary_hu :
       (item.summary_en || item.policy_relevance || ''),
@@ -206,7 +208,10 @@
   function pressLineHtml(data, item, lang) {
     const date = item.date || (item.year ? String(item.year) : '');
     const venue = item.venue || '';
-    const title = (lang === 'hu' && item.title_hu) ? item.title_hu : item.title;
+    // Prefer the page-language title; fall back to whichever is set.
+    const title = lang === 'hu'
+      ? (item.title_hu || item.title)
+      : (item.title || item.title_hu);
     const langFlag = item.language ? `<span class="press-lang">[${esc(item.language.toUpperCase())}]</span>` : '';
     const kindLabel = item.kind ? `<span class="press-kind">${esc(item.kind)}</span>` : '';
     const linked = item.linked_paper_id && data.papersById[item.linked_paper_id]
