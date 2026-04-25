@@ -264,7 +264,7 @@
       "openalex_id": "A5017880363",
       "paper_count": 17,
       "policy_count": 7,
-      "press_count": 23
+      "press_count": 28
     },
     {
       "id": "bencsik-panka",
@@ -1277,7 +1277,7 @@
       "openalex_id": "A5025200634",
       "paper_count": 14,
       "policy_count": 0,
-      "press_count": 0
+      "press_count": 1
     },
     {
       "id": "hermann-zoltan",
@@ -2306,7 +2306,7 @@
       "openalex_id": "A5074785351",
       "paper_count": 15,
       "policy_count": 3,
-      "press_count": 0
+      "press_count": 3
     },
     {
       "id": "nagy-david",
@@ -34239,6 +34239,98 @@
       "last_reviewed_at": "2026-04-25"
     },
     {
+      "id": "bekes-fontagne-et-al-voxeu-high-moments-superstar",
+      "title": "High moments for superstar exporters",
+      "title_hu": null,
+      "authors": [
+        "bekes-gabor",
+        "Lionel Fontagné",
+        "Balázs Muraközy",
+        "Vincent Vicard"
+      ],
+      "kind": "column",
+      "venue": "VoxEU / CEPR",
+      "date": null,
+      "language": "en",
+      "url": "https://cepr.org/voxeu/columns/high-moments-superstar-exporters",
+      "blurb": null,
+      "linked_paper_id": "bekes-fontagne-et-al-2017-rowe",
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "bekes-harasztosi-2019-voxeu-machine-imports",
+      "title": "Technology adoption via machine imports: identifying who learns from peers",
+      "title_hu": null,
+      "authors": [
+        "bekes-gabor",
+        "harasztosi-peter"
+      ],
+      "kind": "column",
+      "venue": "VoxEU / CEPR",
+      "date": "2019-09",
+      "language": "en",
+      "url": "https://cepr.org/voxeu/columns/technology-adoption-machine-imports-identifying-who-learns-peers",
+      "blurb": null,
+      "linked_paper_id": "bekes-harasztosi-2019-rowe",
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "bekes-murakozy-2012-voxeu-temporary-trade",
+      "title": "Temporary trade: exporting only once in a while",
+      "title_hu": null,
+      "authors": [
+        "bekes-gabor",
+        "murakozy-balazs"
+      ],
+      "kind": "column",
+      "venue": "VoxEU / CEPR",
+      "date": "2012-09",
+      "language": "en",
+      "url": "https://voxeu.org/article/why-hit-and-run-exporting-can-be-optimal",
+      "blurb": null,
+      "linked_paper_id": "bekes-murakozy-2012-jie",
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "bekes-murakozy-2018-voxeu-internationalisation-ladder",
+      "title": "The ladder of internationalisation modes",
+      "title_hu": null,
+      "authors": [
+        "bekes-gabor",
+        "murakozy-balazs"
+      ],
+      "kind": "column",
+      "venue": "VoxEU / CEPR",
+      "date": "2018-03",
+      "language": "en",
+      "url": "https://cepr.org/voxeu/columns/ladder-internationalisation-modes",
+      "blurb": null,
+      "linked_paper_id": "bekes-murakozy-2018-rowe",
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "bekes-murakozy-voxeu-survivors-export",
+      "title": "Survivors in export markets",
+      "title_hu": null,
+      "authors": [
+        "bekes-gabor",
+        "murakozy-balazs"
+      ],
+      "kind": "column",
+      "venue": "VoxEU / CEPR",
+      "date": null,
+      "language": "en",
+      "url": "https://cepr.org/voxeu/columns/survivors-export-markets",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
       "id": "berlinger-2014-privatbankar-augusztinovics",
       "title": "In memoriam Mária Augusztinovics: are rich children worth more than poor ones?",
       "authors": [
@@ -37347,7 +37439,7 @@
     "authors": 86,
     "papers": 692,
     "policy": 46,
-    "press": 127,
+    "press": 132,
     "topics": 19
   }
 }
