@@ -1040,7 +1040,7 @@
       "openalex_id": "A5010337700",
       "paper_count": 10,
       "policy_count": 0,
-      "press_count": 0
+      "press_count": 4
     },
     {
       "id": "fleiner-tamas",
@@ -1837,7 +1837,7 @@
       "review_status": "confident",
       "openalex_id": "A5060516887",
       "paper_count": 18,
-      "policy_count": 0,
+      "policy_count": 1,
       "press_count": 0
     },
     {
@@ -2004,7 +2004,7 @@
       "bio_review": "confident",
       "paper_count": 17,
       "policy_count": 0,
-      "press_count": 1
+      "press_count": 2
     },
     {
       "id": "lieli-robert",
@@ -2117,7 +2117,7 @@
       "openalex_id": "A5034147679",
       "paper_count": 10,
       "policy_count": 0,
-      "press_count": 0
+      "press_count": 5
     },
     {
       "id": "lorincz-laszlo",
@@ -2162,7 +2162,7 @@
       "openalex_id": "A5007972350",
       "paper_count": 5,
       "policy_count": 0,
-      "press_count": 0
+      "press_count": 3
     },
     {
       "id": "lychagin-sergey",
@@ -2305,7 +2305,7 @@
       "review_status": "confident",
       "openalex_id": "A5074785351",
       "paper_count": 15,
-      "policy_count": 2,
+      "policy_count": 3,
       "press_count": 0
     },
     {
@@ -2940,7 +2940,7 @@
       "review_status": "confident",
       "openalex_id": "A5042196310",
       "paper_count": 19,
-      "policy_count": 2,
+      "policy_count": 3,
       "press_count": 0
     },
     {
@@ -33750,6 +33750,33 @@
       "review_status": "metadata-fetched"
     },
     {
+      "id": "konya-2024-fer-nobel-laureates",
+      "title": "The connection between institutions and economic development — the work of the 2024 Nobel laureates in economics",
+      "title_hu": "Az intézmények és a gazdasági fejlődés kapcsolata — a 2024-es közgazdasági Nobel-díjasok munkássága",
+      "authors": [
+        "konya-istvan"
+      ],
+      "outlet_kind": "report",
+      "outlet": "Financial and Economic Review (Hitelintézeti Szemle)",
+      "outlet_issue": null,
+      "institution": "Magyar Nemzeti Bank",
+      "year": 2024,
+      "language": "en",
+      "url": "https://hitelintezetiszemle.mnb.hu/letoltes/fer-23-4-st1-konya.pdf",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
       "id": "koren-2022-cepr-ukraine-rebuilding",
       "title": "Ukraine's EU integration",
       "title_hu": null,
@@ -33772,6 +33799,34 @@
       "countries_studied": [],
       "policy_instruments": [],
       "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25",
+      "review_status": "metadata-fetched"
+    },
+    {
+      "id": "murakozy-telegdy-2021-mt-eu-grants",
+      "title": "The effect of EU-funded enterprise support on firms and workers",
+      "title_hu": "Az EU-forrásokból finanszírozott vállalati támogatások hatása a vállalatokra és dolgozóikra",
+      "authors": [
+        "murakozy-balazs",
+        "telegdy-almos"
+      ],
+      "outlet_kind": "chapter",
+      "outlet": "Munkaerőpiaci Tükör 2021",
+      "outlet_issue": null,
+      "institution": "KRTK / Munkaerőpiaci Tükör",
+      "year": 2022,
+      "language": "hu",
+      "url": "https://kti.krtk.hu/wp-content/uploads/2022/12/mpt-2021.pdf",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [],
+      "policy_instruments": [],
+      "linked_paper_id": "murakozy-telegdy-2022-joce",
       "added_at": "2026-04-25",
       "last_reviewed_at": "2026-04-25",
       "review_status": "metadata-fetched"
@@ -34405,6 +34460,24 @@
       "title_hu": "Tanulópénz (Megbukik-e a diákhitel?)"
     },
     {
+      "id": "bojnec-ferto-2026-krtk-greener-farming",
+      "title": "Greener farming policies are judged by environmental outcomes — they should also be judged by what they do to farm costs",
+      "title_hu": null,
+      "authors": [
+        "ferto-imre",
+        "Štefan Bojnec"
+      ],
+      "kind": "blog",
+      "venue": "KRTK Blog",
+      "date": "2026-03",
+      "language": "en",
+      "url": "https://krtk.elte.hu/en/2026/03/greener-farming-policies-are-judged-by-environmental-outcomes-they-should-also-be-judged-by-what-they-do-to-farm-costs-by-stefan-bojnec-and-imre-ferto/",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
       "id": "caselli-koren-et-al-2015-voxeu-macrodiv",
       "title": "Macro diversification through trade",
       "authors": [
@@ -34524,6 +34597,57 @@
       "date": "2026-04",
       "language": "en",
       "url": "https://www.bruegel.org/podcast/hungarys-future",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "ferto-2025-portfolio-krtk-akg",
+      "title": "Do agri-environmental programmes really increase eco-efficiency?",
+      "title_hu": "Valóban növelik az agrár-környezetvédelmi programok az öko-hatékonyságot?",
+      "authors": [
+        "ferto-imre"
+      ],
+      "kind": "column",
+      "venue": "KRTK Blog (Portfolio)",
+      "date": "2025-01-21",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/krtk/20250121/valoban-novelik-az-agrar-kornyezetvedelmi-programok-az-oko-hatekonysagot-735435",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "ferto-2026-aes-eu-mercosur",
+      "title": "The EU–Mercosur agreement: small gains, big political risks",
+      "title_hu": null,
+      "authors": [
+        "ferto-imre"
+      ],
+      "kind": "blog",
+      "venue": "Agricultural Economics Society Blog",
+      "date": "2026-04",
+      "language": "en",
+      "url": "https://krtk.elte.hu/2026/04/the-eu-mercosur-agreement-small-gains-big-political-risks-ferto-imre-cikke-megjelent-a-the-agricultural-economics-society-blogjaban/",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "ferto-2026-krtk-zambia",
+      "title": "Why Zambia's rice policy needs more than irrigation infrastructure",
+      "title_hu": null,
+      "authors": [
+        "ferto-imre"
+      ],
+      "kind": "blog",
+      "venue": "KRTK Blog",
+      "date": "2026-04",
+      "language": "en",
+      "url": "https://krtk.elte.hu/en/2026/04/why-zambias-rice-policy-needs-more-than-irrigation-infrastructure-by-imre-ferto/",
       "blurb": null,
       "linked_paper_id": null,
       "added_at": "2026-04-25",
@@ -35328,6 +35452,147 @@
       "added_at": "2026-04-25",
       "last_reviewed_at": "2026-04-25",
       "title_hu": "Minimálbér: új generációs kutatások egy régi kérdésről"
+    },
+    {
+      "id": "loranth-voxeu-bank-payouts-crisis",
+      "title": "Understanding bank payouts during the financial crisis of 2007–2009",
+      "title_hu": null,
+      "authors": [
+        "loranth-gyongyi"
+      ],
+      "kind": "column",
+      "venue": "VoxEU / CEPR",
+      "date": null,
+      "language": "en",
+      "url": "https://cepr.org/voxeu/columns/understanding-bank-payouts-during-financial-crisis-2007-2009",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "loranth-voxeu-cross-border-banking",
+      "title": "Cross-border banking and national supervision — is there a conflict?",
+      "title_hu": null,
+      "authors": [
+        "loranth-gyongyi"
+      ],
+      "kind": "column",
+      "venue": "VoxEU / CEPR",
+      "date": null,
+      "language": "en",
+      "url": "https://cepr.org/voxeu/columns/cross-border-banking-and-national-supervision-there-conflict",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "loranth-voxeu-cross-border-cooperation-supervision",
+      "title": "The effectiveness of cross-border cooperation in banking supervision",
+      "title_hu": null,
+      "authors": [
+        "loranth-gyongyi"
+      ],
+      "kind": "column",
+      "venue": "VoxEU / CEPR",
+      "date": null,
+      "language": "en",
+      "url": "https://cepr.org/voxeu/columns/effectiveness-cross-border-cooperation-banking-supervision",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "loranth-voxeu-supranational-cooperation",
+      "title": "Supranational cooperation and regulatory arbitrage",
+      "title_hu": null,
+      "authors": [
+        "loranth-gyongyi"
+      ],
+      "kind": "column",
+      "venue": "VoxEU / CEPR",
+      "date": null,
+      "language": "en",
+      "url": "https://cepr.org/voxeu/columns/supranational-cooperation-and-regulatory-arbitrage",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "loranth-voxeu-supranational-supervision",
+      "title": "Supranational supervision: how much and for whom?",
+      "title_hu": null,
+      "authors": [
+        "loranth-gyongyi"
+      ],
+      "kind": "column",
+      "venue": "VoxEU / CEPR",
+      "date": null,
+      "language": "en",
+      "url": "https://cepr.org/voxeu/columns/supranational-supervision-how-much-and-whom",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "lorincz-lengyel-et-al-2023-portfolio-product-portfolio",
+      "title": "How do firms reshape their product portfolios in a crisis?",
+      "title_hu": "Hogyan alakítják a vállalatok termékportfóliójukat válság idején?",
+      "authors": [
+        "lorincz-laszlo",
+        "Kiss Károly Miklós",
+        "lengyel-balazs",
+        "Csáfordi Zsolt"
+      ],
+      "kind": "column",
+      "venue": "KRTK Blog (Portfolio)",
+      "date": "2023-03-29",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/krtk/20230329/hogyan-alakitjak-a-vallalatok-termekportfoliojukat-valsag-idejen-605590",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "lorincz-nemeth-2022-portfolio-migration-networks",
+      "title": "Research shows: our connections influence where we move",
+      "title_hu": "Kutatás bizonyítja, hogy a kapcsolataink befolyásolják, hova költözünk",
+      "authors": [
+        "lorincz-laszlo",
+        "Németh Brigitta"
+      ],
+      "kind": "column",
+      "venue": "KRTK Blog (Portfolio)",
+      "date": "2022-11-06",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/krtk/20221106/kutatas-bizonyitja-hogy-a-kapcsolataink-befolyasoljak-hova-koltozunk-576641",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "lorincz-nemeth-2025-portfolio-fathers",
+      "title": "Why do fathers earn more at Hungarian universities?",
+      "title_hu": "Miért keresnek többet az apák a magyar egyetemeken?",
+      "authors": [
+        "lorincz-laszlo",
+        "Németh Brigitta"
+      ],
+      "kind": "column",
+      "venue": "KRTK Blog (Portfolio)",
+      "date": "2025-10-11",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/krtk/20251011/miert-keresnek-tobbet-az-apak-a-magyar-egyetemeken-791986",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-25"
     },
     {
       "id": "peto-koren-2020-voxeu-social-distancing",
@@ -37081,8 +37346,8 @@
   "counts": {
     "authors": 86,
     "papers": 692,
-    "policy": 44,
-    "press": 115,
+    "policy": 46,
+    "press": 127,
     "topics": 19
   }
 }
