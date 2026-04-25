@@ -24,6 +24,11 @@ Editor: Gábor Békés.
 - `submissions/` — author-correction queue (free-text files in, processed
   entries out to gitignored `DONE/`).
 - `SPEC.md`, `WORKFLOW.md`, `TAXONOMY.md`, `BUILD.md`, `VISION.md` — docs.
+- `.claude/skills/` — project skills (`research-author`, `audit-author`,
+  `draft-summary`, `media-scan`). See [.claude/skills/README.md](.claude/skills/README.md)
+  for what they do and when each fires. Plus the standalone
+  `hu-econ-verifier.skill` at the repo root for eligibility / paper-existence
+  checks.
 
 ## Conventions
 
