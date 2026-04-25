@@ -106,7 +106,12 @@
           ${mediaBlock}
         </aside>
         <section>
-          <h2 class="entity-section-h">Research</h2>
+          <div class="entity-counts">
+            <a class="count-chip" href="#sec-research">${papers.length} <span class="lbl">research</span></a>
+            ${policyItems.length ? `<a class="count-chip count-policy" href="#sec-policy">${policyItems.length} <span class="lbl">policy</span></a>` : ''}
+            ${pressItems.length ? `<a class="count-chip count-press" href="#sec-press">${pressItems.length} <span class="lbl">press</span></a>` : ''}
+          </div>
+          <h2 class="entity-section-h" id="sec-research">Research</h2>
           <div class="result-head">
             <span class="count">${papers.length} paper${papers.length === 1 ? '' : 's'}</span>
           </div>
@@ -118,7 +123,7 @@
           `).join('') : '<p class="muted">No papers indexed yet for this author. Paper entries are added as we go; check back.</p>'}
 
           ${policyItems.length ? `
-            <h2 class="entity-section-h">Policy work</h2>
+            <h2 class="entity-section-h" id="sec-policy">Policy work</h2>
             <div class="result-head">
               <span class="count">${policyItems.length} item${policyItems.length === 1 ? '' : 's'}</span>
             </div>
@@ -126,7 +131,7 @@
           ` : ''}
 
           ${pressItems.length ? `
-            <h2 class="entity-section-h">Press &amp; op-eds</h2>
+            <h2 class="entity-section-h" id="sec-press">Press &amp; op-eds</h2>
             <div class="result-head">
               <span class="count">${pressItems.length} item${pressItems.length === 1 ? '' : 's'}</span>
             </div>

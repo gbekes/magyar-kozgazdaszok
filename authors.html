@@ -88,7 +88,11 @@
         const fields = (a.primary_fields || []).map(f =>
           `<span class="tag">${EFH.esc(data.topicsById[f]?.name_en || f)}</span>`
         ).join(' ');
-        const count = a.paper_count ? `<span class="muted small">${a.paper_count} paper${a.paper_count === 1 ? '' : 's'}</span>` : '';
+        const cb = [];
+        if (a.paper_count) cb.push(`${a.paper_count} paper${a.paper_count === 1 ? '' : 's'}`);
+        if (a.policy_count) cb.push(`${a.policy_count} policy`);
+        if (a.press_count) cb.push(`${a.press_count} press`);
+        const count = cb.length ? `<span class="muted small">${cb.join(' · ')}</span>` : '';
         // Display "Surname, Given names" — academic convention, and makes the sort order obvious.
         const sn = surname(a.name_en), gn = givenNames(a.name_en);
         const display = gn ? `${sn}, ${gn}` : sn;

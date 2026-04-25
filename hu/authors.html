@@ -78,7 +78,11 @@
         const fields = (a.primary_fields || []).map(f =>
           `<span class="tag">${EFH.esc(data.topicsById[f]?.name_hu || data.topicsById[f]?.name_en || f)}</span>`
         ).join(' ');
-        const count = a.paper_count ? `<span class="muted small">${a.paper_count} tanulmány</span>` : '';
+        const cb = [];
+        if (a.paper_count) cb.push(`${a.paper_count} tanulmány`);
+        if (a.policy_count) cb.push(`${a.policy_count} szakpolitikai`);
+        if (a.press_count) cb.push(`${a.press_count} sajtó`);
+        const count = cb.length ? `<span class="muted small">${cb.join(' · ')}</span>` : '';
         const nm = a.name_hu || a.name_en;
         const dagger = a.deceased ? ` <span class="deceased-note" title="elhunyt${a.died ? ' ' + a.died : ''}">†</span>` : '';
         return `

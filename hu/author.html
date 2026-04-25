@@ -111,7 +111,12 @@
           ${mediaBlock}
         </aside>
         <section>
-          <h2 class="entity-section-h">Kutatás</h2>
+          <div class="entity-counts">
+            <a class="count-chip" href="#sec-research">${papers.length} <span class="lbl">tanulmány</span></a>
+            ${policyItems.length ? `<a class="count-chip count-policy" href="#sec-policy">${policyItems.length} <span class="lbl">szakpolitikai</span></a>` : ''}
+            ${pressItems.length ? `<a class="count-chip count-press" href="#sec-press">${pressItems.length} <span class="lbl">sajtó</span></a>` : ''}
+          </div>
+          <h2 class="entity-section-h" id="sec-research">Kutatás</h2>
           <div class="result-head">
             <span class="count">${papers.length} tanulmány</span>
           </div>
@@ -123,7 +128,7 @@
           `).join('') : '<p class="muted">Ehhez a szerzőhöz még nem tartozik tanulmány. Fokozatosan adjuk hozzá őket; nézz vissza később.</p>'}
 
           ${policyItems.length ? `
-            <h2 class="entity-section-h">Szakpolitikai munkák</h2>
+            <h2 class="entity-section-h" id="sec-policy">Szakpolitikai munkák</h2>
             <div class="result-head">
               <span class="count">${policyItems.length} tétel</span>
             </div>
@@ -131,7 +136,7 @@
           ` : ''}
 
           ${pressItems.length ? `
-            <h2 class="entity-section-h">Sajtó &amp; publicisztika</h2>
+            <h2 class="entity-section-h" id="sec-press">Sajtó &amp; publicisztika</h2>
             <div class="result-head">
               <span class="count">${pressItems.length} tétel</span>
             </div>

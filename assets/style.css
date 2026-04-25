@@ -590,6 +590,36 @@ details[open] > summary { margin-bottom: 0.5rem; }
   border-color: var(--rule);
 }
 
+/* Author page count chips — Research / Policy / Press strip near the top */
+.entity-counts {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin: 1rem 0 1.2rem;
+}
+.count-chip {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.35rem;
+  padding: 0.35rem 0.7rem;
+  background: var(--bg-card);
+  border: 1px solid var(--rule);
+  border-left: 3px solid var(--v-4);
+  border-radius: 4px;
+  font-weight: 700;
+  color: var(--ink);
+  text-decoration: none;
+  font-size: 1.05rem;
+}
+.count-chip .lbl {
+  font-weight: 400;
+  color: var(--ink-3);
+  font-size: 0.85rem;
+}
+.count-chip:hover { background: #f4f4f4; }
+.count-chip.count-policy { border-left-color: var(--v-3); }
+.count-chip.count-press  { border-left-color: var(--v-5); }
+
 /* Author page section headers (Research / Policy work / Press) */
 .entity-section-h {
   margin-top: 2rem;
