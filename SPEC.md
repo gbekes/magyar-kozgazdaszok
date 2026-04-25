@@ -203,12 +203,86 @@ data/
     bekes-gabor.json
     koren-miklos.json
     ...
-  papers/
+  papers/                 # academic research (whitelisted journals + qualifying WPs + academic chapters)
     bekes-halpern-kornai-kovacs-2023-jie.json
     koren-szeidl-2012-qje.json
     ...
-  topics.json             # all 15 topics with metadata
+  policy/                 # institutional reports / WPs / policy chapters
+    bekes-koren-halpern-murakozy-2011-bruegel-bp15.json
+    adamecz-2025-bi-disability.json
+    ...
+  press/                  # short-form: op-eds, columns, interviews, podcasts, blog posts
+    bekes-2021-portfolio-spillovers.json
+    lengyel-voxeu-disruptive.json
+    ...
+  topics.json             # all 19 topics with metadata
 ```
+
+### 2.5 Three content categories
+
+The catalogue distinguishes three categories of authored output. Each lives in its own directory with its own schema; they share the topic taxonomy and reference the same authors.
+
+**Research** (`data/papers/`) — academic peer-reviewed work. Articles in whitelisted journals; qualifying CEPR/NBER/IZA/CESifo working papers from 2023+; academic book chapters (Handbook of Economic Growth, etc.).
+
+**Policy** (`data/policy/`) — long-form institutional output: OECD / ECB / IMF / World Bank / MNB / KRTK / Bruegel / Budapest Institute reports and discussion papers; chapters in the *Hungarian Labour Market Yearbook* (Munkaerőpiaci Tükör) and similar policy edited volumes; CEPR Policy Insights, IZA Policy Papers; ministry-commissioned reports. The substantive long-form policy work that doesn't pass the academic-journal filter but isn't a 1500-word op-ed either.
+
+**Press** (`data/press/`) — short-form: op-eds, columns (incl. VoxEU, Bruegel blog, Index *defacto*, Telex analysis), interviews, podcasts, newspaper articles, event talks, blog posts. Anything short.
+
+The boundary rule is **length / institutional weight**: long institutional output → Policy; everything short → Press. VoxEU columns are Press because they're popularizations, not primary policy documents. ECB / OECD / Bruegel reports are Policy because they're the institutional primary.
+
+### 2.6 Policy schema
+
+```json
+{
+  "id": "bekes-koren-halpern-murakozy-2011-bruegel-bp15",
+  "title": "Still Standing: How European Firms Weathered the Crisis",
+  "title_hu": null,
+  "authors": ["bekes-gabor", "koren-miklos", "halpern-laszlo", "murakozy-balazs"],
+  "outlet_kind": "report",
+  "outlet": "Bruegel Blueprint Series",
+  "outlet_issue": "#15",
+  "institution": "Bruegel",
+  "year": 2011,
+  "language": "en",
+  "url": "https://www.bruegel.org/...",
+  "doi": null,
+  "summary_en": "...",
+  "summary_hu": null,
+  "policy_relevance": "...",
+  "policy_relevance_hu": null,
+  "topics": ["trade-fdi", "firms-productivity"],
+  "countries_studied": ["EU", "HU"],
+  "policy_instruments": ["export-promotion (HIPA)", "trade finance", "FDI promotion"],
+  "linked_paper_id": null,
+  "added_at": "...",
+  "last_reviewed_at": "...",
+  "review_status": "ai-drafted"
+}
+```
+
+`outlet_kind` ∈ `{report, chapter, working_paper}`. `linked_paper_id` is optional and points to a `data/papers/<slug>.json` if the policy item is a popularization or follow-up of one of our research papers (the paper page renders these as "Press & policy coverage of this paper"). `policy_relevance` is required for Policy items — the whole point of the section is the policy hook.
+
+### 2.7 Press schema
+
+```json
+{
+  "id": "bekes-2021-portfolio-spillovers",
+  "title": "A magyar cégek egymástól lesik el az ötleteket...",
+  "authors": ["bekes-gabor"],
+  "kind": "column",
+  "venue": "Portfolio",
+  "date": "2021-09-05",
+  "language": "hu",
+  "url": "https://www.portfolio.hu/...",
+  "blurb": null,
+  "linked_paper_id": "bekes-murakozy-et-al-2019-rowe",
+  "added_at": "...",
+  "last_reviewed_at": "...",
+  "review_status": "ai-drafted"
+}
+```
+
+`kind` ∈ `{op-ed, column, interview, podcast, blog, newspaper, radio-tv, event-talk}`. `blurb` is optional one-liner. `linked_paper_id` same semantics as Policy. No `summary_en` / `policy_relevance` / `topics` — Press is intentionally minimal.
 
 One JSON per paper, one per author. Trivial to diff, review, and edit by hand. Build-time aggregation into search indexes and topic pages.
 

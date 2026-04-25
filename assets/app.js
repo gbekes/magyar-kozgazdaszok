@@ -27,10 +27,16 @@
     if (!res.ok) throw new Error('Failed to load data/index.json');
     const data = await res.json();
 
+    // Defaults for older index.json (no policy / press buckets yet).
+    data.policy = data.policy || [];
+    data.press  = data.press  || [];
+
     // Index lookups for speed.
     data.authorsById = Object.fromEntries(data.authors.map(a => [a.id, a]));
     data.topicsById  = Object.fromEntries(data.topics.map(t => [t.id, t]));
     data.papersById  = Object.fromEntries(data.papers.map(p => [p.id, p]));
+    data.policyById  = Object.fromEntries(data.policy.map(p => [p.id, p]));
+    data.pressById   = Object.fromEntries(data.press.map(p => [p.id, p]));
     data.journalsByName = Object.fromEntries(
       data.journals.map(j => [j.name, j])
     );
@@ -153,6 +159,71 @@
         <div class="blurb">${esc(blurb)}</div>
         <div class="tags">${topics} ${featured} ${typeTag}</div>
       </article>
+    `;
+  }
+
+  // -------- policy & press card renderers --------
+
+  // Policy: institutional reports / WPs / chapters. Slightly slimmer than
+  // a paper card; keeps the topic tags and a one-line policy_relevance hook.
+  function policyCardHtml(data, item, lang) {
+    const authors = (item.authors || [])
+      .map(id => typeof id === 'string' && data.authorsById[id]
+        ? authorLink(data, id, lang)
+        : esc(typeof id === 'string' ? id : (id?.name || '')))
+      .join(', ');
+    const outletBits = [item.institution, item.outlet, item.outlet_issue]
+      .filter(Boolean).map(esc).join(' · ');
+    const year = item.year || '';
+    const title = (lang === 'hu' && item.title_hu) ? item.title_hu : item.title;
+    const blurb = firstSentence(
+      (lang === 'hu' && item.summary_hu) ? item.summary_hu :
+      (item.summary_en || item.policy_relevance || ''),
+      32
+    );
+    const topics = (item.topics || []).map(t => topicLink(data, t, lang)).join(' ');
+    const kindLabel = {
+      'report': 'Report', 'chapter': 'Chapter', 'working_paper': 'Working paper'
+    }[item.outlet_kind] || 'Policy';
+    const kindLabelHu = {
+      'report': 'Tanulmány', 'chapter': 'Könyvfejezet', 'working_paper': 'Műhelytanulmány'
+    }[item.outlet_kind] || 'Policy';
+    const typeTag = `<span class="tag tag-type tag-policy">${esc(lang === 'hu' ? kindLabelHu : kindLabel)}</span>`;
+    const linkOut = item.url
+      ? `<a href="${esc(item.url)}" target="_blank" rel="noopener">${esc(lang === 'hu' ? 'Megnyitás ↗' : 'Open ↗')}</a>`
+      : '';
+    return `
+      <article class="paper-card policy-card">
+        <h3>${esc(title)}</h3>
+        <div class="meta">${authors} &middot; <span class="journal">${outletBits}</span> &middot; ${year} ${linkOut ? '· ' + linkOut : ''}</div>
+        ${blurb ? `<div class="blurb">${esc(blurb)}</div>` : ''}
+        <div class="tags">${topics} ${typeTag}</div>
+      </article>
+    `;
+  }
+
+  // Press: minimal — single line per item, rendered in a compact list.
+  function pressLineHtml(data, item, lang) {
+    const date = item.date || (item.year ? String(item.year) : '');
+    const venue = item.venue || '';
+    const title = (lang === 'hu' && item.title_hu) ? item.title_hu : item.title;
+    const langFlag = item.language ? `<span class="press-lang">[${esc(item.language.toUpperCase())}]</span>` : '';
+    const kindLabel = item.kind ? `<span class="press-kind">${esc(item.kind)}</span>` : '';
+    const linked = item.linked_paper_id && data.papersById[item.linked_paper_id]
+      ? ` <span class="press-linked">↳ <a href="${rootPrefix()}paper.html?id=${encodeURIComponent(item.linked_paper_id)}">${esc(lang === 'hu' ? 'a kapcsolódó tanulmány' : 'underlying paper')}</a></span>`
+      : '';
+    const link = item.url
+      ? `<a href="${esc(item.url)}" target="_blank" rel="noopener">${esc(title)}</a>`
+      : esc(title);
+    return `
+      <li class="press-item">
+        <span class="press-date">${esc(date)}</span>
+        <span class="press-venue">${esc(venue)}</span>
+        ${kindLabel}
+        ${langFlag}
+        <span class="press-title">${link}</span>
+        ${linked}
+      </li>
     `;
   }
 
@@ -293,6 +364,7 @@
     lang,
     loadData, esc, authorName, authorLink, topicName, topicLink,
     methodLabel, dataTypeLabel, firstSentence, paperCardHtml,
+    policyCardHtml, pressLineHtml,
     toBullets, highlightsOrBullets,
     getParam, search, attachSearchBar, rootPrefix
   };

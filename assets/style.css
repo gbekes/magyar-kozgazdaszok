@@ -589,3 +589,75 @@ details[open] > summary { margin-bottom: 0.5rem; }
   color: var(--rule-strong);
   border-color: var(--rule);
 }
+
+/* Author page section headers (Research / Policy work / Press) */
+.entity-section-h {
+  margin-top: 2rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 2px solid var(--v-4);
+  font-size: 1.4rem;
+}
+.entity-section-h:first-child { margin-top: 0; }
+
+/* Policy card — same skeleton as paper card, slightly different accent */
+.paper-card.policy-card { border-left: 3px solid var(--v-3); padding-left: 0.8rem; }
+.tag.tag-policy { background: var(--v-3); color: #fff; border-color: var(--v-3); }
+
+/* Press list — compact, line-per-item */
+.press-list {
+  list-style: none;
+  padding: 0;
+  margin: 0.5rem 0 0;
+}
+.press-item {
+  padding: 0.45rem 0;
+  border-bottom: 1px solid var(--rule);
+  font-size: 0.92rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: baseline;
+}
+.press-item:last-child { border-bottom: none; }
+.press-date {
+  color: var(--ink-3);
+  font-variant-numeric: tabular-nums;
+  font-size: 0.85rem;
+  min-width: 6rem;
+}
+.press-venue {
+  color: var(--v-2);
+  font-weight: 600;
+  font-size: 0.85rem;
+}
+.press-kind {
+  color: var(--ink-3);
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.press-lang {
+  color: var(--ink-3);
+  font-size: 0.75rem;
+  font-family: var(--font-mono);
+}
+.press-title { flex: 1 1 24rem; }
+.press-linked {
+  color: var(--ink-3);
+  font-size: 0.85rem;
+  font-style: italic;
+}
+
+/* Paper page: "Press & policy coverage" pull-out */
+.coverage-block {
+  margin-top: 1.2rem;
+  padding: 0.6rem 0.9rem;
+  background: var(--bg-card);
+  border-left: 3px solid var(--v-5);
+  border-radius: 4px;
+}
+.coverage-block h4 {
+  margin: 0 0 0.4rem;
+  font-size: 0.95rem;
+  color: var(--v-2);
+}

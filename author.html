@@ -58,6 +58,14 @@
     for (const p of papers) (byYear[p.year || 'undated'] ||= []).push(p);
     const years = Object.keys(byYear).sort((a, b) => b.localeCompare(a));
 
+    // policy + press items by this author
+    const policyItems = (data.policy || [])
+      .filter(p => (p.authors || []).includes(a.id))
+      .sort((x, y) => (y.year || 0) - (x.year || 0));
+    const pressItems = (data.press || [])
+      .filter(p => (p.authors || []).includes(a.id))
+      .sort((x, y) => (y.date || y.year || '').localeCompare?.(x.date || x.year || '') || 0);
+
     const qp = a.qualifying_publication;
     const qpLine = qp ? `<p class="small muted">Qualifying publication: <em>${EFH.esc(qp.title)}</em>, ${EFH.esc(qp.journal)}, ${qp.year}.</p>` : '';
 
@@ -98,6 +106,7 @@
           ${mediaBlock}
         </aside>
         <section>
+          <h2 class="entity-section-h">Research</h2>
           <div class="result-head">
             <span class="count">${papers.length} paper${papers.length === 1 ? '' : 's'}</span>
           </div>
@@ -107,6 +116,22 @@
               ${byYear[y].map(p => EFH.paperCardHtml(data, p, 'en')).join('')}
             </div>
           `).join('') : '<p class="muted">No papers indexed yet for this author. Paper entries are added as we go; check back.</p>'}
+
+          ${policyItems.length ? `
+            <h2 class="entity-section-h">Policy work</h2>
+            <div class="result-head">
+              <span class="count">${policyItems.length} item${policyItems.length === 1 ? '' : 's'}</span>
+            </div>
+            <div>${policyItems.map(p => EFH.policyCardHtml(data, p, 'en')).join('')}</div>
+          ` : ''}
+
+          ${pressItems.length ? `
+            <h2 class="entity-section-h">Press &amp; op-eds</h2>
+            <div class="result-head">
+              <span class="count">${pressItems.length} item${pressItems.length === 1 ? '' : 's'}</span>
+            </div>
+            <ul class="press-list">${pressItems.map(p => EFH.pressLineHtml(data, p, 'en')).join('')}</ul>
+          ` : ''}
         </section>
       </div>
     `;

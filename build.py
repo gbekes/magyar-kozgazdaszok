@@ -18,6 +18,8 @@ ROOT = Path(__file__).parent
 DATA = ROOT / "data"
 AUTHORS_DIR = DATA / "authors"
 PAPERS_DIR = DATA / "papers"
+POLICY_DIR = DATA / "policy"
+PRESS_DIR = DATA / "press"
 SEED_FILE = ROOT / "authors-seed.json"
 
 
@@ -72,34 +74,63 @@ def load_json(path: Path):
         return json.load(f)
 
 
+def _load_dir(path: Path) -> list:
+    if not path.exists():
+        return []
+    return [load_json(p) for p in sorted(path.glob("*.json"))]
+
+
 def build_index() -> dict:
     authors = [load_json(p) for p in sorted(AUTHORS_DIR.glob("*.json"))]
     papers = [load_json(p) for p in sorted(PAPERS_DIR.glob("*.json"))]
+    policy = _load_dir(POLICY_DIR)
+    press = _load_dir(PRESS_DIR)
     topics = load_json(DATA / "topics.json")
     journals = load_json(DATA / "journals.json")
 
-    # Attach paper counts to topics and authors for quick rendering.
+    # Attach counts to topics and authors. Counts are per-category so the
+    # UI can show a "12 papers · 3 policy · 8 press" line without scanning
+    # the full lists.
     topic_counts: dict[str, int] = {}
-    author_counts: dict[str, int] = {}
+    author_paper_counts: dict[str, int] = {}
+    author_policy_counts: dict[str, int] = {}
+    author_press_counts: dict[str, int] = {}
+
     for p in papers:
         for t in p.get("topics", []):
             topic_counts[t] = topic_counts.get(t, 0) + 1
         for a in p.get("authors", []):
-            author_counts[a] = author_counts.get(a, 0) + 1
+            author_paper_counts[a] = author_paper_counts.get(a, 0) + 1
+
+    for p in policy:
+        for t in p.get("topics", []):
+            topic_counts[t] = topic_counts.get(t, 0) + 1
+        for a in p.get("authors", []):
+            author_policy_counts[a] = author_policy_counts.get(a, 0) + 1
+
+    for p in press:
+        for a in p.get("authors", []):
+            author_press_counts[a] = author_press_counts.get(a, 0) + 1
 
     for t in topics:
         t["paper_count"] = topic_counts.get(t["id"], 0)
     for a in authors:
-        a["paper_count"] = author_counts.get(a["id"], 0)
+        a["paper_count"] = author_paper_counts.get(a["id"], 0)
+        a["policy_count"] = author_policy_counts.get(a["id"], 0)
+        a["press_count"] = author_press_counts.get(a["id"], 0)
 
     return {
         "authors": authors,
         "papers": papers,
+        "policy": policy,
+        "press": press,
         "topics": topics,
         "journals": journals,
         "counts": {
             "authors": len(authors),
             "papers": len(papers),
+            "policy": len(policy),
+            "press": len(press),
             "topics": len(topics),
         },
     }
@@ -115,6 +146,8 @@ def main() -> None:
     print(
         f"Index: {index['counts']['authors']} authors, "
         f"{index['counts']['papers']} papers, "
+        f"{index['counts']['policy']} policy, "
+        f"{index['counts']['press']} press, "
         f"{index['counts']['topics']} topics."
     )
 

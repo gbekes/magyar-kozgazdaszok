@@ -60,6 +60,13 @@
     for (const p of papers) (byYear[p.year || 'datálatlan'] ||= []).push(p);
     const years = Object.keys(byYear).sort((a, b) => b.localeCompare(a));
 
+    const policyItems = (data.policy || [])
+      .filter(p => (p.authors || []).includes(a.id))
+      .sort((x, y) => (y.year || 0) - (x.year || 0));
+    const pressItems = (data.press || [])
+      .filter(p => (p.authors || []).includes(a.id))
+      .sort((x, y) => (y.date || y.year || '').localeCompare?.(x.date || x.year || '') || 0);
+
     const qp = a.qualifying_publication;
     const qpLine = qp ? `<p class="small muted">Belépő publikáció: <em>${EFH.esc(qp.title)}</em>, ${EFH.esc(qp.journal)}, ${qp.year}.</p>` : '';
 
@@ -104,6 +111,7 @@
           ${mediaBlock}
         </aside>
         <section>
+          <h2 class="entity-section-h">Kutatás</h2>
           <div class="result-head">
             <span class="count">${papers.length} tanulmány</span>
           </div>
@@ -113,6 +121,22 @@
               ${byYear[y].map(p => EFH.paperCardHtml(data, p, 'hu')).join('')}
             </div>
           `).join('') : '<p class="muted">Ehhez a szerzőhöz még nem tartozik tanulmány. Fokozatosan adjuk hozzá őket; nézz vissza később.</p>'}
+
+          ${policyItems.length ? `
+            <h2 class="entity-section-h">Szakpolitikai munkák</h2>
+            <div class="result-head">
+              <span class="count">${policyItems.length} tétel</span>
+            </div>
+            <div>${policyItems.map(p => EFH.policyCardHtml(data, p, 'hu')).join('')}</div>
+          ` : ''}
+
+          ${pressItems.length ? `
+            <h2 class="entity-section-h">Sajtó &amp; publicisztika</h2>
+            <div class="result-head">
+              <span class="count">${pressItems.length} tétel</span>
+            </div>
+            <ul class="press-list">${pressItems.map(p => EFH.pressLineHtml(data, p, 'hu')).join('')}</ul>
+          ` : ''}
         </section>
       </div>
     `;

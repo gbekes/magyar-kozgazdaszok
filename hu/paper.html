@@ -85,6 +85,11 @@
       (q.topics?.some(t => topicSet.has(t)) || q.authors?.some(a => authorSet.has(a)))
     ).slice(0, 3);
 
+    const coverage = [
+      ...(data.policy || []).filter(x => x.linked_paper_id === p.id),
+      ...(data.press  || []).filter(x => x.linked_paper_id === p.id),
+    ];
+
     const reviewBanner = p.review_status && p.review_status !== 'author-approved'
       ? `<div class="banner-review">
            Összefoglaló állapot: <strong>${EFH.esc(p.review_status)}</strong>
@@ -185,6 +190,14 @@
           <summary>BibTeX</summary>
           <div class="cite-box" id="cite-bib"><button class="copy-btn" data-target="cite-bib">Másolás</button>${EFH.esc(bibtex)}</div>
         </details>
+        ${coverage.length ? `
+          <div class="coverage-block">
+            <h4>Sajtó- és szakpolitikai megjelenések a tanulmányról</h4>
+            <ul class="press-list">
+              ${coverage.map(c => EFH.pressLineHtml(data, c, 'hu')).join('')}
+            </ul>
+          </div>
+        ` : ''}
       </section>
 
       ${related.length ? `
