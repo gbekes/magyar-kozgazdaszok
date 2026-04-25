@@ -85,11 +85,18 @@
         const count = cb.length ? `<span class="muted small">${cb.join(' · ')}</span>` : '';
         const nm = a.name_hu || a.name_en;
         const dagger = a.deceased ? ` <span class="deceased-note" title="elhunyt${a.died ? ' ' + a.died : ''}">†</span>` : '';
+        const initial = (a.name_hu || a.name_en || '·').trim().split(/\s+/)[0][0] || '·';
+        const photo = a.photo_url
+          ? `<img class="author-photo" src="${EFH.esc(a.photo_url)}" alt="" loading="lazy" onerror="this.style.display='none'">`
+          : `<div class="author-photo author-photo-placeholder" aria-hidden="true">${EFH.esc(initial).toUpperCase()}</div>`;
         return `
-          <article class="author-card">
-            <h3><a href="author.html?id=${encodeURIComponent(a.id)}">${EFH.esc(nm)}</a>${dagger} ${count}</h3>
-            <div class="affil">${EFH.esc(affil)}</div>
-            <div class="fields">${fields}</div>
+          <article class="author-card ${a.photo_url ? 'has-photo' : ''}">
+            ${photo}
+            <div class="author-card-body">
+              <h3><a href="author.html?id=${encodeURIComponent(a.id)}">${EFH.esc(nm)}</a>${dagger} ${count}</h3>
+              <div class="affil">${EFH.esc(affil)}</div>
+              <div class="fields">${fields}</div>
+            </div>
           </article>
         `;
       }).join('') : '<p class="muted">Nincs a szűrésnek megfelelő szerző.</p>';

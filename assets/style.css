@@ -454,11 +454,49 @@ h1 .deceased-note { font-size: 0.65em; vertical-align: 0.15em; }
   background: var(--bg-card); border: 1px solid var(--rule);
   border-left: 3px solid var(--v-4);
   padding: 0.9rem 1rem;
+  display: flex;
+  gap: 0.8rem;
+  align-items: flex-start;
 }
+.author-card .author-photo {
+  flex: 0 0 auto;
+  width: 56px;
+  height: 56px;
+  object-fit: cover;
+  border-radius: 50%;
+  background: var(--bg);
+  border: 1px solid var(--rule);
+}
+.author-card .author-photo-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  color: var(--ink-3);
+  background: var(--bg);
+  font-size: 1.4rem;
+}
+.author-card .author-card-body { flex: 1 1 auto; min-width: 0; }
 .author-card h3 { font-size: 1.05rem; margin-bottom: 0.2rem; }
 .author-card h3 a { color: var(--ink); }
 .author-card .affil { color: var(--ink-2); font-size: 0.9rem; margin-bottom: 0.35rem; }
 .author-card .fields { font-size: 0.85rem; }
+
+/* Author detail page header headshot */
+.entity-header.has-photo {
+  display: grid;
+  grid-template-columns: 120px 1fr;
+  gap: 1.2rem;
+  align-items: start;
+}
+.entity-photo {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 1px solid var(--rule);
+  background: var(--bg);
+}
 
 /* ---------- author / topic detail ---------- */
 .entity-header {

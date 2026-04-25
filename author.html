@@ -89,15 +89,22 @@
       </div>
       ${mediaNote}`;
 
+    const photoBlock = a.photo_url
+      ? `<img class="entity-photo" src="${EFH.esc(a.photo_url)}" alt="" onerror="this.style.display='none'">`
+      : '';
     root.innerHTML = `
-      <header class="entity-header">
-        <h1>${EFH.esc(a.name_en)} ${deceasedNote}</h1>
-        ${a.name_hu && a.name_hu !== a.name_en ? `<div class="sub">${EFH.esc(a.name_hu)}</div>` : ''}
-        ${reviewBanner}
-        ${a.bio_en ? `<p class="bio">${EFH.esc(a.bio_en)}</p>` : ''}
-        ${fields ? `<div style="margin-top:0.5rem;">${fields}</div>` : ''}
-        ${qpLine}
-      </header>
+      <header class="entity-header ${a.photo_url ? 'has-photo' : ''}">
+        ${photoBlock}
+        <div>
+          <h1>${EFH.esc(a.name_en)} ${deceasedNote}</h1>
+          ${a.name_hu && a.name_hu !== a.name_en ? `<div class="sub">${EFH.esc(a.name_hu)}</div>` : ''}
+          ${reviewBanner}
+          ${a.bio_en ? `<p class="bio">${EFH.esc(a.bio_en)}</p>` : ''}
+          ${fields ? `<div style="margin-top:0.5rem;">${fields}</div>` : ''}
+          ${qpLine}
+        </div>
+      </header>`;
+    root.innerHTML += `
 
       <div class="layout-filter">
         <aside class="filter-sidebar">

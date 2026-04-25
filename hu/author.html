@@ -93,8 +93,13 @@
       </div>
       ${mediaNote}`;
 
+    const photoBlock = a.photo_url
+      ? `<img class="entity-photo" src="${EFH.esc(a.photo_url)}" alt="" onerror="this.style.display='none'">`
+      : '';
     root.innerHTML = `
-      <header class="entity-header">
+      <header class="entity-header ${a.photo_url ? 'has-photo' : ''}">
+        ${photoBlock}
+        <div>
         <h1>${EFH.esc(displayName)} ${deceasedNote}</h1>
         ${a.name_en && a.name_en !== displayName ? `<div class="sub">${EFH.esc(a.name_en)}</div>` : ''}
         ${reviewBanner}
@@ -102,6 +107,7 @@
         ${bioNote}
         ${fields ? `<div style="margin-top:0.5rem;">${fields}</div>` : ''}
         ${qpLine}
+        </div>
       </header>
 
       <div class="layout-filter">
