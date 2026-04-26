@@ -19,19 +19,28 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Az elmúlt két és fél évtizedben a hazai feldolgozóipar szervesen integrálódott a globális gazdaságba, egyre nagyobb teret nyert a külföldi működőtőke, megjelentek a modern iparágak, és jelentőssé vált az export. Ez a folyamat megtorpant 2008-ban, a válság generálta új kihívásokra adott gazdaságpolitikai válaszok között pedig megjelent az \"újraiparosítás\" fogalma. Tanulmányunkban azt vizsgáljuk, hogy a válság mélypontját követően, 2009 és 2014 között megfigyelhető-e újraiparosodás Magyarországon. Ha igen, akkor melyik térségben és iparágban, továbbá adottak-e a feltételek az újraiparosodás felgyorsításához? Vizsgálatainkból kiderül, hogy 2009-et követően az újraiparosodás csak néhány vidéki térségben érhető tetten, ott is csupán egy-két iparágban, míg például a fővárosban és vonzáskörzetében, valamint a nagy kutatóegyetemekkel rendelkező várostérségekben inkább az \"ipartalanodás\" bontakozik ki. A kevésbé fejlett kisvárosi térségek újraiparosodása lassú folyamat, amit helyalapú, alulról szerveződő, integrált gazdaságfejlesztéssel lehetne hatékonyabbá tenni. Journal of Economic Literature (JEL) kód: O14, L52, L60, O25, R58.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "Hungary's manufacturing has integrated deeply into the global economy since the 1990s — but did the post-2008 'reindustrialisation' policy actually reindustrialise? Lengyel, Szakálné Kanó and Vas test for reindustrialisation between 2009 and 2014. They find it visible only in a few rural sub-regions and only in one or two sectors each. Budapest and its commuting zone, plus the major university-research city-regions (Debrecen, Szeged, Pécs), actually de-industrialised over the same window. Reindustrialisation in less-developed small-town areas is slow; the paper argues it would be more effective if pursued through place-based, bottom-up integrated economic development rather than large-scale top-down support.",
+  "summary_hu": "A magyar feldolgozóipar az 1990-es évek óta mélyen integrálódott a globális gazdaságba — de a 2008 utáni 'újraiparosítási' politika ténylegesen újraiparosított-e? Lengyel, Szakálné Kanó és Vas 2009 és 2014 között teszteli az újraiparosodást. Csak néhány vidéki kistérségben és ágazatonként egy-két iparágban érhető tetten. Budapest és vonzáskörzete, valamint a nagy kutatóegyetemekkel rendelkező városrégiók (Debrecen, Szeged, Pécs) ugyanebben az időablakban inkább 'ipartalanodtak'. Az alulfejlett kisvárosi térségek újraiparosodása lassú; a tanulmány érvel amellett, hogy hely-alapú, alulról szerveződő, integrált gazdaságfejlesztéssel hatékonyabb lenne, nem nagyléptékű felülről jövő támogatással.",
+  "data_used": "Hungarian regional-level employment and output data from KSH, 2009–2014, by NUTS-3 sub-region and 2-digit industry sector. Reindustrialisation defined as positive growth in manufacturing's share of regional employment over the period.",
+  "data_used_hu": "KSH magyar regionális szintű foglalkoztatási és kibocsátási adatok 2009–2014 között, NUTS-3 kistérség és 2-számjegyű ágazat szerint. Az újraiparosodást a feldolgozóipar regionális foglalkoztatásból való részesedésének pozitív növekedéseként definiálják az időszakban.",
+  "policy_relevance": "Direct critique of the official Hungarian reindustrialisation narrative for the relevant period. For NGM, ITM, and regional-development agencies, the paper argues against generic large-investment incentives in favour of place-tailored support. Relevant input for Modern Városok and Magyar Falu programme design — supports the place-based approach over uniform national subsidy. Caveat: the 2009–2014 window; subsequent battery and electronics investment cycle has changed the picture, would benefit from update.",
+  "policy_relevance_hu": "Az időszakra vonatkozó hivatalos magyar újraiparosítási narratíva közvetlen kritikája. Az NGM, ITM és regionális fejlesztési ügynökségek számára a tanulmány az általános nagyberuházási ösztönzőkkel szemben a hely-szerinti támogatás mellett érvel. Releváns input a Modern Városok és Magyar Falu programok tervezéséhez — a hely-alapú megközelítést támogatja az egységes országos szubvencióval szemben. Korlát: a 2009–2014-es időablak; a következő akkumulátor- és elektronikai beruházási ciklus megváltoztatta a képet, frissítés indokolt.",
+  "topics": [
+    "regional-urban",
+    "firms-productivity"
+  ],
+  "methods": [
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W2417437648"
 }

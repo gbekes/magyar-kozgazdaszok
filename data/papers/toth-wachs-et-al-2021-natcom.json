@@ -22,19 +22,30 @@
   "url_pdf": "https://www.nature.com/articles/s41467-021-21465-0.pdf",
   "url_replication": null,
   "abstract": "Social networks amplify inequalities by fundamental mechanisms of social tie formation such as homophily and triadic closure. These forces sharpen social segregation, which is reflected in fragmented social network structure. Geographical impediments such as distance and physical or administrative boundaries also reinforce social segregation. Yet, less is known about the joint relationships between social network structure, urban geography, and inequality. In this paper we analyze an online social network and find that the fragmentation of social networks is significantly higher in towns in which residential neighborhoods are divided by physical barriers such as rivers and railroads. Towns in which neighborhoods are relatively distant from the center of town and amenities are spatially concentrated are also more socially segregated. Using a two-stage model, we show that these urban geography features have significant relationships with income inequality via social network fragmentation. In other words, the geographic features of a place can compound economic inequalities via social networks.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "Why is income inequality higher in some towns than others, even when their populations and economies look similar? Tóth, Wachs, Di Clemente, Jakobi, Ságvári, Kertész and Lengyel argue the answer involves the interaction of social-network structure with urban geography. Using detailed online-social-network data and Hungarian town-level inequality measures, they show that fragmented social networks — fewer cross-group ties — are associated with higher income inequality. Towns where neighbourhoods are divided by physical barriers (rivers, railroads), or where amenities cluster centrally while neighbourhoods are pushed peripherally, exhibit more network fragmentation. A two-stage model traces income inequality back through network fragmentation to urban-geography features. Place shapes social networks, which compound economic inequality.",
+  "summary_hu": "Miért magasabb a jövedelmi egyenlőtlenség egyes városokban, mint másokban, még akkor is, ha népességük és gazdaságuk hasonlónak tűnik? Tóth, Wachs, Di Clemente, Jakobi, Ságvári, Kertész és Lengyel érvelése szerint a válasz a társas hálózatok szerkezetének és a városi földrajznak az kölcsönhatása. Részletes online-társasháló-adatokra és magyar városszintű egyenlőtlenségi mértékekre támaszkodva megmutatják, hogy a töredezett társas hálózatok — kevesebb csoportközi kötelékkel — magasabb jövedelmi egyenlőtlenséggel asszociálódnak. Azok a városok, ahol a városrészeket fizikai akadályok (folyók, vasutak) választják el, vagy ahol a szolgáltatások centrálisan koncentrálódnak, miközben a városrészek perifériára szorulnak, nagyobb hálózati fragmentációt mutatnak. Egy kétlépcsős modell visszavezeti a jövedelmi egyenlőtlenséget a hálózati fragmentáción át a városi földrajzi jellemzőkre. A tér alakítja a társas hálózatokat, ezek pedig fokozzák a gazdasági egyenlőtlenséget.",
+  "data_used": "Online social-network data (iWiW, Hungary's pre-Facebook major social platform) covering ~3 million users in Hungarian towns, late 2010s. Combined with KSH town-level income inequality measures and physical urban-geography indicators (river/railway divisions, amenity concentration, residential-centre distance).",
+  "data_used_hu": "Online társas-hálózati adatok (iWiW, Magyarország Facebook előtti meghatározó közösségi platformja) ~3 millió felhasználóra magyar városokban, 2010-es évek vége. KSH városszintű jövedelmi egyenlőtlenségi mértékekkel és fizikai városi-földrajzi mutatókkal (folyó/vasúti elválasztások, szolgáltatás-koncentráció, lakónegyed-központ távolság) kombinálva.",
+  "policy_relevance": "Highly relevant for urban-planning and inequality-reduction policy at the Hungarian municipal level. The paper supports investments that bridge physical divisions in towns (pedestrian crossings over rivers, public transport across rail lines) as anti-inequality interventions — they reduce social-network fragmentation. Decentralising amenities (clinics, schools, civic spaces) away from town centres also reduces fragmentation. Useful framework for Magyar Falu / Modern Városok programme design. Caveat: cross-sectional; longitudinal validation of the network-inequality channel would strengthen causal claims.",
+  "policy_relevance_hu": "Magyar városi-tervezési és egyenlőtlenség-csökkentési politika szempontjából rendkívül releváns önkormányzati szinten. A tanulmány azokat a beruházásokat támogatja, amelyek áthidalják a városon belüli fizikai elválasztásokat (gyalogos-átkelők folyókon, tömegközlekedés vasúti vonalakon át) mint egyenlőtlenség-elleni beavatkozásokat — csökkentik a társas-hálózati fragmentációt. A szolgáltatások (klinikák, iskolák, közterek) decentralizálása városközpontokról szintén csökkenti a fragmentációt. Hasznos keret a Magyar Falu / Modern Városok programok tervezéséhez. Korlát: keresztmetszeti; a hálózat-egyenlőtlenség csatorna longitudinális validálása erősítené az ok-okozati állításokat.",
+  "topics": [
+    "regional-urban",
+    "inequality-welfare",
+    "innovation-digital"
+  ],
+  "methods": [
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "digital-trace",
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W2975230318"
 }
