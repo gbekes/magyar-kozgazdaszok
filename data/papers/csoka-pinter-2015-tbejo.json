@@ -24,6 +24,7 @@
   "policy_relevance": "Affects bank capital regulation and internal risk-budgeting at any institution that sets desk-level limits using a coherent risk measure (Expected Shortfall under Basel III; Solvency II for insurers). The result implies regulators and CROs must choose: either a stable, coalition-proof allocation that may misprice marginal risk, or a marginal-risk-respecting allocation (the Shapley value) that desks can rationally object to. The Hungarian National Bank and HFSA, when setting model expectations for banks' Internal Capital Adequacy Assessment Process (ICAAP), should not require both properties simultaneously — the paper shows it is mathematically impossible.",
   "policy_relevance_hu": "A banki tőkeszabályozás és a belső kockázat-keret-elosztás szempontjából érdekes minden olyan intézménynek, amely koherens kockázati mértékkel állít üzletági limiteket (Várható Hiány a Bázel III-ban; Szolvencia II a biztosítóknál). Az eredmény azt jelenti, hogy a felügyelet és a kockázati igazgatók választani kényszerülnek: vagy stabil, koalíció-mentes elosztás, amely félreárazza a marginális kockázatot, vagy marginális-kockázatot tisztelő elosztás (Shapley-érték), amelyet az üzletágak racionálisan kifogásolhatnak. Az MNB-nek a bankok ICAAP-elvárásai során nem szabad egyszerre megkövetelnie mindkét tulajdonságot — a tanulmány bizonyítja, hogy ez matematikailag lehetetlen.",
   "topics": [
+    "mechanism-design",
     "banking-finance",
     "methods"
   ],

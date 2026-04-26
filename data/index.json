@@ -5132,6 +5132,7 @@
       "policy_relevance": "Directly actionable for Hungarian centralised-university-admission system design (Oktatási Hivatal). The paper compares three practical rejection policies and provides the empirical basis for choosing among them. Relevant to felvételi policy reform discussions. Caveat: based on specific Hungarian data and institutional structure; would need adjustment for other admission systems.",
       "policy_relevance_hu": "Közvetlenül alkalmazható a magyar központosított felsőoktatási felvételi rendszer tervezéséhez (Oktatási Hivatal). A tanulmány három gyakorlati elutasítási politikát hasonlít össze és empirikus alapot ad a választáshoz. Releváns a felvételi politikai reform vitáihoz. Figyelmeztetés: specifikus magyar adatokon és intézményi szerkezeten alapul; más felvételi rendszerekhez hozzáigazításra lenne szükség.",
       "topics": [
+        "market-design",
         "education-skills",
         "methods"
       ],
@@ -5146,7 +5147,7 @@
       ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-26",
       "review_status": "ai-drafted",
       "openalex_id": "W3196438934",
       "policy_instruments": [
@@ -9137,6 +9138,7 @@
       "policy_relevance": "For Hungarian participation in international kidney-exchange and for the Péter Bíró-led KRTK mechanism-design work. Relevant to Hungarian Ministry of Health and to international-coordination of organ-exchange. Caveat: purely theoretical; operational use requires combining with allocation algorithms and legal frameworks.",
       "policy_relevance_hu": null,
       "topics": [
+        "market-design",
         "health",
         "methods"
       ],
@@ -9149,7 +9151,7 @@
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-26",
       "review_status": "ai-drafted",
       "openalex_id": "W4407368433",
       "policy_instruments": [
@@ -9186,6 +9188,7 @@
       "policy_relevance": "Highly relevant to European kidney-exchange coordination (Hungarian participation in eurotransplant / international KEP). The paper supports operational design of multi-country kidney exchange, with fair-allocation mechanisms. Relevant to Ministry of Health and to OEP/transplant coordination. Caveat: NP-hardness for general cycles means real-system implementations need approximation algorithms.",
       "policy_relevance_hu": null,
       "topics": [
+        "market-design",
         "health",
         "methods"
       ],
@@ -9198,7 +9201,7 @@
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-26",
       "review_status": "ai-drafted",
       "openalex_id": "W7119495506",
       "policy_instruments": [
@@ -9233,6 +9236,7 @@
       "policy_relevance": "Relevant to cooperative-game-theory applications in Hungarian mechanism design — kidney exchange, voting-power analysis, bankruptcy negotiation. The paper expands the range of games for which the nucleolus can actually be computed. Relevant to Bíró-group KRTK work. Caveat: worst-case computational bounds; practical instance difficulty varies.",
       "policy_relevance_hu": null,
       "topics": [
+        "mechanism-design",
         "methods"
       ],
       "methods": [
@@ -9244,7 +9248,7 @@
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-26",
       "review_status": "ai-drafted",
       "openalex_id": "W2921104972"
     },
@@ -9576,6 +9580,8 @@
       "policy_relevance": "For Hungarian market-design applications (kidney exchange, hospital-doctor matching, school-choice). The paper's hardness results explain why designing efficient matching mechanisms with side-constraints is difficult — but also provides limits on where polynomial algorithms exist. Relevant to Péter Bíró-led KRTK work on mechanism design. Caveat: worst-case hardness; many real-world instances are tractable.",
       "policy_relevance_hu": null,
       "topics": [
+        "mechanism-design",
+        "market-design",
         "methods"
       ],
       "methods": [
@@ -9587,7 +9593,7 @@
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-26",
       "review_status": "ai-drafted",
       "openalex_id": "W4401852526",
       "policy_instruments": [
@@ -10983,13 +10989,16 @@
       "data_used_hu": null,
       "policy_relevance": null,
       "policy_relevance_hu": null,
-      "topics": [],
+      "topics": [
+        "mechanism-design",
+        "methods"
+      ],
       "methods": [],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-26",
       "review_status": "metadata-fetched",
       "openalex_id": "W2057990406"
     },
@@ -11019,8 +11028,8 @@
       "policy_relevance": "For Hungarian market-design applications: kidney-exchange programmes (with multi-donor options), teacher-school matching, university admissions with multiple offers. The paper informs practical algorithm choice when designing real allocation mechanisms. Relevant to the Péter Bíró-led KRTK game-theory group's ongoing work on kidney exchange. Caveat: hardness is worst-case; realistic instances often admit fast solutions.",
       "policy_relevance_hu": null,
       "topics": [
-        "methods",
-        "industrial-organization"
+        "mechanism-design",
+        "methods"
       ],
       "methods": [
         "theory"
@@ -11031,7 +11040,7 @@
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-26",
       "review_status": "ai-drafted",
       "openalex_id": "W4393187498",
       "policy_instruments": [
@@ -13115,6 +13124,7 @@
       "policy_relevance": "Foundational for mechanism-design applications where matroid constraints arise naturally — e.g., school choice with geographic constraints, hospital-doctor matching with departmental caps. Relevant to Hungarian market-design work at KRTK. Caveat: theoretical; operational use depends on problem-specific calibration.",
       "policy_relevance_hu": null,
       "topics": [
+        "mechanism-design",
         "methods"
       ],
       "methods": [
@@ -13126,7 +13136,7 @@
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-26",
       "review_status": "ai-drafted",
       "openalex_id": "W4414427837"
     },
@@ -13157,6 +13167,7 @@
       "policy_relevance": "Relevant to practical assignment-mechanism design in Hungarian institutional settings (university dormitories, refugee housing, shared-facility allocations). The paper informs which algorithms are feasible and which aren't. Caveat: worst-case complexity; real instances vary.",
       "policy_relevance_hu": null,
       "topics": [
+        "mechanism-design",
         "methods"
       ],
       "methods": [
@@ -13168,7 +13179,7 @@
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-26",
       "review_status": "ai-drafted",
       "openalex_id": "W2982557180",
       "policy_instruments": [
@@ -13248,13 +13259,16 @@
       "data_used_hu": null,
       "policy_relevance": null,
       "policy_relevance_hu": null,
-      "topics": [],
+      "topics": [
+        "mechanism-design",
+        "energy-environment"
+      ],
       "methods": [],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-26",
       "review_status": "metadata-fetched",
       "openalex_id": "W2911895584"
     },
@@ -13451,6 +13465,7 @@
       "policy_relevance": "Underpins how regulators and central banks should model contagion in interbank and cross-border financial networks. The Eisenberg-Noe and follow-on systemic-risk frameworks used by central banks (including the MNB) and the ECB rely on the proportional rule; this paper supplies its full axiomatic justification. For Hungarian financial-stability authorities running stress tests on the interbank network, the result clarifies which fairness properties are baked in — and which (e.g. concern for size of small creditors) are intentionally not. Regulators wanting to depart from proportionality must explicitly drop one of the six axioms.",
       "policy_relevance_hu": "Ezt a szabályt használják a jegybankok és a felügyelet a bankközi és határokon átnyúló pénzügyi hálózatok fertőzési modelljeiben. Az Eisenberg-Noe-féle és az erre épülő rendszerszintű kockázati keretek (amelyeket az MNB és az EKB is alkalmaz) az arányos szabályt veszik alapul; ez a tanulmány adja ennek teljes axiomatikus indoklását. A magyar pénzügyi stabilitási hatóságok a bankközi hálózat stressztesztjei során így pontosan tudják, mely tisztességességi tulajdonságok épülnek be a modellbe — és melyek (például a kis hitelezők védelme) szándékosan nem. Aki el akar térni az arányos szabálytól, annak explicit módon fel kell adnia a hat axióma egyikét.",
       "topics": [
+        "mechanism-design",
         "banking-finance",
         "methods"
       ],
@@ -14054,6 +14069,7 @@
       "policy_relevance": "Speaks directly to delegation-selection in Hungarian institutions where committee design is contested: the National Bank's Monetary Council, university senates, the Hungarian Chamber of Commerce delegations, and EU Council voting weights. The result tells policymakers that the four desirable axioms (efficiency, consistency, neutrality, strategy-proofness) lock them into a narrow family of threshold rules — and that within this family, choosing the threshold is the politically loaded decision. There is no truly 'neutral' rule; the threshold sets whether minority views are guaranteed representation.",
       "policy_relevance_hu": "Közvetlen relevanciája van olyan magyar intézményekben, ahol a bizottsági összetétel tervezése vitatott: az MNB Monetáris Tanácsa, egyetemi szenátusok, a Magyar Kereskedelmi és Iparkamara küldöttségei és az EU Tanács szavazati súlyai. Az eredmény azt mondja a döntéshozóknak, hogy a négy kívánatos axióma (hatékonyság, konzisztencia, semlegesség, csalásbiztosság) szűk küszöbszabály-családra korlátozza őket — és ezen a családon belül a küszöb megválasztása a politikailag terhelt döntés. Nincs valóban 'semleges' szabály; a küszöb dönti el, hogy a kisebbségi vélemények garantáltan megjelennek-e.",
       "topics": [
+        "mechanism-design",
         "political-economy",
         "methods"
       ],
@@ -14143,6 +14159,7 @@
       "policy_relevance": "Affects bank capital regulation and internal risk-budgeting at any institution that sets desk-level limits using a coherent risk measure (Expected Shortfall under Basel III; Solvency II for insurers). The result implies regulators and CROs must choose: either a stable, coalition-proof allocation that may misprice marginal risk, or a marginal-risk-respecting allocation (the Shapley value) that desks can rationally object to. The Hungarian National Bank and HFSA, when setting model expectations for banks' Internal Capital Adequacy Assessment Process (ICAAP), should not require both properties simultaneously — the paper shows it is mathematically impossible.",
       "policy_relevance_hu": "A banki tőkeszabályozás és a belső kockázat-keret-elosztás szempontjából érdekes minden olyan intézménynek, amely koherens kockázati mértékkel állít üzletági limiteket (Várható Hiány a Bázel III-ban; Szolvencia II a biztosítóknál). Az eredmény azt jelenti, hogy a felügyelet és a kockázati igazgatók választani kényszerülnek: vagy stabil, koalíció-mentes elosztás, amely félreárazza a marginális kockázatot, vagy marginális-kockázatot tisztelő elosztás (Shapley-érték), amelyet az üzletágak racionálisan kifogásolhatnak. Az MNB-nek a bankok ICAAP-elvárásai során nem szabad egyszerre megkövetelnie mindkét tulajdonságot — a tanulmány bizonyítja, hogy ez matematikailag lehetetlen.",
       "topics": [
+        "mechanism-design",
         "banking-finance",
         "methods"
       ],
@@ -16966,6 +16983,7 @@
       "policy_relevance": "Directly relevant to Hungarian EU-affairs strategy (MFM, NAK). The paper shows which MEP positions (rapporteur, EP group coordinator) are genuinely powerful — a guide for Hungarian political investment in securing key committee appointments. Relevant to EU agricultural-policy advocacy. Caveat: voting-power indices have well-known limitations; actual influence depends on issue salience and political context not captured in the index.",
       "policy_relevance_hu": null,
       "topics": [
+        "mechanism-design",
         "agriculture-food",
         "political-economy"
       ],
@@ -16981,7 +16999,7 @@
       ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-26",
       "review_status": "ai-drafted",
       "openalex_id": "W3046402491",
       "policy_instruments": [
@@ -17107,13 +17125,16 @@
       "data_used_hu": null,
       "policy_relevance": null,
       "policy_relevance_hu": null,
-      "topics": [],
+      "topics": [
+        "mechanism-design",
+        "methods"
+      ],
       "methods": [],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-26",
       "review_status": "metadata-fetched",
       "openalex_id": "W1978696336"
     },
@@ -17143,13 +17164,16 @@
       "data_used_hu": null,
       "policy_relevance": null,
       "policy_relevance_hu": null,
-      "topics": [],
+      "topics": [
+        "mechanism-design",
+        "methods"
+      ],
       "methods": [],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-26",
       "review_status": "metadata-fetched",
       "openalex_id": "W2056444878"
     },
@@ -17181,8 +17205,8 @@
       "policy_relevance": "Relevant to any Hungarian market with many-to-many contracting under taxation (supply chains facing VAT or excise taxes; financial intermediation under transaction taxes). The paper formalises why transaction taxes can cause network rearrangements that depart from efficient matching — a concern for the EU digital-services tax and financial transaction tax debates. Caveat: the model's substitutability assumption is strong and must be verified in real markets before concluding a specific Hungarian tax has these distorting effects.",
       "policy_relevance_hu": null,
       "topics": [
-        "industrial-organization",
-        "fiscal-tax"
+        "mechanism-design",
+        "industrial-organization"
       ],
       "methods": [
         "theory"
@@ -17193,7 +17217,7 @@
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-26",
       "review_status": "ai-drafted",
       "openalex_id": "W2973605867",
       "policy_instruments": [
@@ -17230,8 +17254,9 @@
       "policy_relevance": "For Hungarian mechanism-design applications with multi-sided contracting (e.g., healthcare networks, student-residence assignment). The paper's hardness result is a limitation to be aware of when designing trading-network markets. Relevant to KRTK's matching-market research. Caveat: worst-case hardness; many real instances are tractable.",
       "policy_relevance_hu": null,
       "topics": [
-        "methods",
-        "industrial-organization"
+        "mechanism-design",
+        "industrial-organization",
+        "methods"
       ],
       "methods": [
         "theory"
@@ -17242,7 +17267,7 @@
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-26",
       "review_status": "ai-drafted",
       "openalex_id": "W2804763432",
       "policy_instruments": [
@@ -17310,6 +17335,8 @@
       "policy_relevance": "Foundational for Hungarian matching-market design with lower quotas (academic hiring, university admissions with diversity quotas, hospital-doctor matching with regional caps). Relevant to Bíró-group KRTK market-design work. Caveat: theoretical; operational use requires problem-specific tuning.",
       "policy_relevance_hu": null,
       "topics": [
+        "market-design",
+        "mechanism-design",
         "methods"
       ],
       "methods": [
@@ -17321,7 +17348,7 @@
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-26",
       "review_status": "ai-drafted",
       "openalex_id": "W2255996700",
       "policy_instruments": [
@@ -17353,13 +17380,16 @@
       "data_used_hu": null,
       "policy_relevance": null,
       "policy_relevance_hu": null,
-      "topics": [],
+      "topics": [
+        "mechanism-design",
+        "banking-finance"
+      ],
       "methods": [],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
+      "last_reviewed_at": "2026-04-26",
       "review_status": "metadata-fetched",
       "openalex_id": "W2158197576"
     },
@@ -23208,7 +23238,7 @@
       "policy_relevance_hu": null,
       "topics": [
         "behavioral",
-        "banking-finance"
+        "mechanism-design"
       ],
       "methods": [
         "rct"
@@ -23221,7 +23251,7 @@
       ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-26",
       "review_status": "ai-drafted",
       "openalex_id": "W4224280735",
       "policy_instruments": [
@@ -23811,9 +23841,9 @@
       "data_used": "Theoretical paper with algorithmic analysis; illustrative resource-allocation applications.",
       "policy_relevance": "For Hungarian public-resource-allocation design — e.g., education quota allocation, healthcare capacity distribution, regional development-fund splits, and voting-districting — apportionment methods provide a principled framework. Relevant to Oktatási Hivatal (university admissions), NEAK (hospital capacity), and Ministry of Economy (regional-fund allocation). Caveat: specific implementation requires fit with institutional constraints and political acceptability.",
       "topics": [
-        "methods",
-        "fiscal-tax",
-        "political-economy"
+        "mechanism-design",
+        "political-economy",
+        "methods"
       ],
       "methods": [
         "theory"
@@ -23829,7 +23859,7 @@
       ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-26",
       "review_status": "ai-drafted",
       "openalex_id": null
     },
@@ -23928,13 +23958,16 @@
       "data_used_hu": null,
       "policy_relevance": null,
       "policy_relevance_hu": null,
-      "topics": [],
+      "topics": [
+        "mechanism-design",
+        "political-economy"
+      ],
       "methods": [],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
+      "last_reviewed_at": "2026-04-26",
       "review_status": "metadata-fetched",
       "openalex_id": "W2790723823"
     },
@@ -23964,6 +23997,7 @@
       "policy_relevance": "Relevant to Hungarian electoral-system design debates (Ministry of Justice, Electoral Office). The D'Hondt method used in Hungarian parliamentary elections has a clean economic interpretation as competitive equilibrium; small parameter changes translate into predictable shifts in who benefits. Useful framework when evaluating proposed reforms — each divisor method corresponds to a different economic meaning of \"price of a seat\". Theoretical; concrete reform implications need political-economy analysis.",
       "policy_relevance_hu": "Releváns a magyar választási-rendszer-tervezési vitákhoz (Igazságügyi Minisztérium, Nemzeti Választási Iroda). A magyar parlamenti választásokban használt D'Hondt-módszernek tiszta közgazdasági értelmezése van versenyképes egyensúlyként; kis paraméter-változások előre jelezhető eltolódást eredményeznek abban, kinek kedvez. Hasznos keret javasolt reformok értékeléséhez — minden osztó módszer egy „hely-ár\" különböző közgazdasági jelentésének felel meg. Elméleti; konkrét reform-implikációk politikai-gazdaságtani elemzést igényelnek.",
       "topics": [
+        "mechanism-design",
         "political-economy",
         "methods"
       ],
@@ -23976,7 +24010,7 @@
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-20",
-      "last_reviewed_at": "2026-04-20",
+      "last_reviewed_at": "2026-04-26",
       "review_status": "ai-drafted",
       "openalex_id": "W7127422698",
       "policy_instruments": [
@@ -29495,7 +29529,8 @@
       "policy_relevance": "Relevant to Hungarian public-housing allocation and housing-exchange policy design. The paper formalises properties of housing-exchange mechanisms that should be desirable for Hungarian housing-policy (e.g., for Budapest's social-housing rotation schemes). Also relevant to mechanism-design theory for kidney-exchange and similar trading problems. Caveat: theoretical; policy implementation requires compatibility with Hungarian legal-property frameworks.",
       "policy_relevance_hu": null,
       "topics": [
-        "methods",
+        "market-design",
+        "mechanism-design",
         "regional-urban"
       ],
       "methods": [
@@ -29507,7 +29542,7 @@
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-26",
       "review_status": "ai-drafted",
       "openalex_id": "W3206424382",
       "policy_instruments": [
@@ -29540,13 +29575,16 @@
       "data_used_hu": null,
       "policy_relevance": null,
       "policy_relevance_hu": null,
-      "topics": [],
+      "topics": [
+        "mechanism-design",
+        "methods"
+      ],
       "methods": [],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
+      "last_reviewed_at": "2026-04-26",
       "review_status": "metadata-fetched",
       "openalex_id": "W2790207794"
     },
@@ -30104,13 +30142,16 @@
       "data_used_hu": null,
       "policy_relevance": null,
       "policy_relevance_hu": null,
-      "topics": [],
+      "topics": [
+        "mechanism-design",
+        "methods"
+      ],
       "methods": [],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
+      "last_reviewed_at": "2026-04-26",
       "review_status": "metadata-fetched",
       "openalex_id": "W2416389285"
     },
@@ -30919,13 +30960,16 @@
       "data_used_hu": null,
       "policy_relevance": null,
       "policy_relevance_hu": null,
-      "topics": [],
+      "topics": [
+        "mechanism-design",
+        "methods"
+      ],
       "methods": [],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
+      "last_reviewed_at": "2026-04-26",
       "review_status": "metadata-fetched",
       "openalex_id": "W2194552882"
     },
@@ -30955,13 +30999,16 @@
       "data_used_hu": null,
       "policy_relevance": null,
       "policy_relevance_hu": null,
-      "topics": [],
+      "topics": [
+        "mechanism-design",
+        "methods"
+      ],
       "methods": [],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-26",
       "review_status": "metadata-fetched",
       "openalex_id": "W2509923016"
     },
@@ -36877,7 +36924,7 @@
       "policy_framing_en": "Relevant to: tax reform, budget planning, public debt management, compliance policy.",
       "policy_framing_hu": "Releváns: adóreform, költségvetés-tervezés, államadósság-kezelés, adócompliance.",
       "icon": "coins",
-      "paper_count": 29
+      "paper_count": 27
     },
     {
       "id": "regional-urban",
@@ -36899,7 +36946,7 @@
       "policy_framing_en": "Relevant to: energy transition, carbon pricing, renewable support, environmental standards.",
       "policy_framing_hu": "Releváns: energiaátmenet, szén-dioxid árazás, megújulók támogatása, környezeti szabványok.",
       "icon": "leaf",
-      "paper_count": 7
+      "paper_count": 8
     },
     {
       "id": "inequality-welfare",
@@ -36921,7 +36968,7 @@
       "policy_framing_en": "Relevant to: anti-corruption policy, public administration reform, EU affairs, electoral system design.",
       "policy_framing_hu": "Releváns: korrupcióellenes politika, közigazgatási reform, EU-ügyek, választási rendszer.",
       "icon": "building-2",
-      "paper_count": 46
+      "paper_count": 47
     },
     {
       "id": "transition-postcommunist",
@@ -36954,7 +37001,7 @@
       "policy_framing_en": "Relevant to: competition policy (GVH), merger review, platform regulation, auction design, sector-specific regulation.",
       "policy_framing_hu": "Releváns: versenypolitika (GVH), fúziókontroll, platformszabályozás, aukciótervezés, ágazati szabályozás.",
       "icon": "network",
-      "paper_count": 29
+      "paper_count": 28
     },
     {
       "id": "macroeconomics",
@@ -36987,7 +37034,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 105
+      "paper_count": 111
     },
     {
       "id": "market-design",
@@ -36998,7 +37045,7 @@
       "policy_framing_en": "Relevant to: school-admission rules, public-procurement auction design, healthcare allocation systems, university admissions, spectrum auctions.",
       "policy_framing_hu": "Releváns: iskolai felvételi szabályok, közbeszerzési aukciók tervezése, egészségügyi allokációs rendszerek, egyetemi felvételi, frekvenciaaukciók.",
       "icon": "shuffle",
-      "paper_count": 0
+      "paper_count": 6
     },
     {
       "id": "mechanism-design",
@@ -37009,7 +37056,7 @@
       "policy_framing_en": "Relevant to: regulatory design, procurement, voting reform, contract law, antitrust analysis, committee design.",
       "policy_framing_hu": "Releváns: szabályozási tervezés, közbeszerzés, választási reform, szerződésjog, versenypolitika, bizottsági tervezés.",
       "icon": "scale",
-      "paper_count": 0
+      "paper_count": 26
     }
   ],
   "journals": [

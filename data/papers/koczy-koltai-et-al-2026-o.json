@@ -22,9 +22,9 @@
   "data_used": "Theoretical paper with algorithmic analysis; illustrative resource-allocation applications.",
   "policy_relevance": "For Hungarian public-resource-allocation design — e.g., education quota allocation, healthcare capacity distribution, regional development-fund splits, and voting-districting — apportionment methods provide a principled framework. Relevant to Oktatási Hivatal (university admissions), NEAK (hospital capacity), and Ministry of Economy (regional-fund allocation). Caveat: specific implementation requires fit with institutional constraints and political acceptability.",
   "topics": [
-    "methods",
-    "fiscal-tax",
-    "political-economy"
+    "mechanism-design",
+    "political-economy",
+    "methods"
   ],
   "methods": [
     "theory"
@@ -40,7 +40,7 @@
   ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
+  "last_reviewed_at": "2026-04-26",
   "review_status": "ai-drafted",
   "openalex_id": null
 }

@@ -23,6 +23,7 @@
   "policy_relevance": "Underpins how regulators and central banks should model contagion in interbank and cross-border financial networks. The Eisenberg-Noe and follow-on systemic-risk frameworks used by central banks (including the MNB) and the ECB rely on the proportional rule; this paper supplies its full axiomatic justification. For Hungarian financial-stability authorities running stress tests on the interbank network, the result clarifies which fairness properties are baked in — and which (e.g. concern for size of small creditors) are intentionally not. Regulators wanting to depart from proportionality must explicitly drop one of the six axioms.",
   "policy_relevance_hu": "Ezt a szabályt használják a jegybankok és a felügyelet a bankközi és határokon átnyúló pénzügyi hálózatok fertőzési modelljeiben. Az Eisenberg-Noe-féle és az erre épülő rendszerszintű kockázati keretek (amelyeket az MNB és az EKB is alkalmaz) az arányos szabályt veszik alapul; ez a tanulmány adja ennek teljes axiomatikus indoklását. A magyar pénzügyi stabilitási hatóságok a bankközi hálózat stressztesztjei során így pontosan tudják, mely tisztességességi tulajdonságok épülnek be a modellbe — és melyek (például a kis hitelezők védelme) szándékosan nem. Aki el akar térni az arányos szabálytól, annak explicit módon fel kell adnia a hat axióma egyikét.",
   "topics": [
+    "mechanism-design",
     "banking-finance",
     "methods"
   ],
