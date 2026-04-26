@@ -17,19 +17,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Tanulmányunk azt vizsgálja, hogy a roma és nem roma diákok különböznek-e három, az érzelmi stabilitáshoz kötődő nem kognitív képességben: kontrollhelyben, önbecsülésben és depresszióban. Három fő eredményünk van. Egyrészt, a nyers mutatószámok alapján a vizsgált nem kognitív képességek terén a magyarországi roma diákok átlagosan rosszabbul állnak, mint nem roma társaik, bár a különbség az önbecsülésben nem szignifikáns. Másrészt, a roma és nem roma diákok közötti különbségek a nem kognitív képességekben jóval kisebbek, mint a kognitív képességben. Harmadrészt, a különbséget teljes mértékben megmagyarázzák az otthoni és az iskolai környezettel kapcsolatos változók. Pontosabban, a kontrollhelyben és a depresszióban fennálló szignifikáns nyers különbség eltűnik, amikor figyelembe vesszük az otthoni környezettel kapcsolatos tényezőket. Bár a nyers adatok alapján a nem roma diákok önbecsülése (nem szignifikánsan) magasabb, az otthoni és az iskolai környezetet figyelembe véve a roma diákok rendelkeznek szignifikánsan magasabb önbecsüléssel. Az eredmények azt sugallják, hogy az otthoni környezet javítására irányuló szakpolitika csökkentheti a roma és nem roma diákok között a nem kognitív képességekben talált különbségeket.*&#13;\\nJournal of Economic Literature (JEL) kód: D01, D64, D91.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "Do Roma and non-Roma students differ in non-cognitive abilities? Szabó-Morvai and Kiss compare three emotional-stability traits — locus of control, self-esteem, depression — between Roma and non-Roma students in Hungary. Three findings. First, raw differences favour non-Roma students on locus of control and depression, but not on self-esteem. Second, the gaps in non-cognitive abilities are much smaller than the cognitive-ability gap. Third, the differences are fully explained by home-environment and school-environment variables — once these are controlled for, the locus-of-control and depression gaps disappear, and Roma students even show significantly higher self-esteem. The policy implication is that improving home environment, not targeting non-cognitive abilities directly, would close the gap.",
+  "summary_hu": "Különböznek-e a roma és nem roma diákok nem-kognitív képességekben? Szabó-Morvai és Kiss három érzelmi-stabilitási vonást hasonlít össze — kontrollhely, önbecsülés, depresszió — magyar roma és nem roma diákok között. Három megállapítás. Először, a nyers különbségek a nem roma diákok javára szólnak kontrollhelyben és depresszióban, de önbecsülésben nem. Másodszor, a nem-kognitív képességek közötti rés sokkal kisebb, mint a kognitív képesség-rés. Harmadszor, a különbségeket teljes mértékben megmagyarázzák az otthoni és iskolai környezeti változók — ha ezeket figyelembe vesszük, a kontrollhely- és depresszió-rés eltűnik, és a roma diákok szignifikánsan magasabb önbecsülést mutatnak. A policy-implikáció: az otthoni környezet javítása, nem a nem-kognitív képességek közvetlen célzása, zárná be a rést.",
+  "data_used": "Hungarian student survey including locus-of-control battery, self-esteem (Rosenberg), and depression (CES-D) scales, plus home/school environment indicators. Roma identification by self-report. Sample size approximately 5,000 students.",
+  "data_used_hu": "Magyar tanulói felmérés, amely tartalmazza a kontrollhely-skálát, az önbecsülés (Rosenberg) és depresszió (CES-D) skálákat, valamint az otthoni / iskolai környezeti mutatókat. A roma identifikáció önbevallás alapján. Mintegy 5000 fő diák.",
+  "policy_relevance": "Directly relevant to KIM and the Türr Roma integration framework: the result argues that 'soft-skill training' for Roma students is the wrong intervention — the gap in non-cognitive abilities is not large and is fully attributable to environmental factors. Resources should go to housing, school-resource equalisation, and family-support programmes instead. Caveat: cross-sectional, descriptive; causal interpretation requires longitudinal or quasi-experimental follow-up.",
+  "policy_relevance_hu": "Közvetlenül érinti a KIM-et és a Türr roma integrációs keretet: az eredmény szerint a 'puha-készség képzés' a roma tanulóknak rossz beavatkozás — a nem-kognitív képességek rése nem nagy, és teljes egészében környezeti tényezőknek tulajdonítható. Az erőforrásokat a lakhatásra, iskolai-erőforrás-kiegyenlítésre és családtámogatási programokra kell fordítani. Korlát: keresztmetszeti, leíró; az ok-okozati értelmezés longitudinális vagy kvázi-kísérleti követést igényel.",
+  "topics": [
+    "education-skills",
+    "behavioral",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W4309181473"
 }

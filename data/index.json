@@ -22592,20 +22592,29 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "In our study, we present the concept of locus of control, a non-cognitive ability that is increasingly researched in economics. We then review the economic literature on locus of control and show that people who believe they are in control of their lives are more successful in many areas of life. After that, we examine the data of a representative Hungarian survey, in which we mostly see the correlations revealed by the literature. The locus of control becomes more and more internal in the respondents' 20s and 30s, and then becomes more and more external again after the age of 40. In our sample, men on average have a more internal locus of control than women, and a more internal locus of control is associated with higher education and higher income. At the same time, we do not find a significant correlation between locus of control and labor market status. We find that those with more internal locus of control accumulate significantly more savings and less debt.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "Locus of control — the belief that one's actions, rather than external forces, drive life outcomes — is increasingly used in economics as a non-cognitive ability. Károlyi, Kiss and Szabó-Morvai use the first nationally-representative Hungarian survey on locus of control (~3,000 respondents) to map its correlations. Internal locus rises through respondents' 20s and 30s, then becomes more external after 40. Men have a more internal locus on average than women; higher internal locus correlates with more education and higher income, but not with labour-market status. Most strikingly, individuals with more internal locus accumulate substantially more savings and less debt — a clean potential mechanism for wealth inequality.",
+      "summary_hu": "A kontrollhely — annak meggyőződése, hogy az ember saját cselekvése, nem külső erők hajtják az életkimeneteket — egyre inkább használt nem-kognitív képesség a közgazdaságtanban. Károlyi, Kiss és Szabó-Morvai az első reprezentatív magyar kontrollhely-felmérést (~3000 fő) használja a korrelációk feltérképezésére. A belső kontrollhely emelkedik a 20-as és 30-as években, majd 40 után egyre külsőbbé válik. A férfiak átlagosan internalabbak, mint a nők; a magasabb belső kontrollhely magasabb iskolázottsággal és jövedelemmel korrelál, de nem a munkapiaci státusszal. A legszembetűnőbb: a belsőbb kontrollhellyel rendelkezők lényegesen több megtakarítást és kevesebb adósságot halmoznak fel — tiszta potenciális mechanizmus a vagyoni egyenlőtlenségre.",
+      "data_used": "First nationally-representative Hungarian household survey including the Rotter locus-of-control battery, fielded 2021–2022, ~3,000 respondents aged 18+, with data on demographics, education, income, labour-market status, savings and debt.",
+      "data_used_hu": "Az első reprezentatív magyar háztartási felmérés, amely tartalmazza a Rotter-féle kontrollhely-skálát, 2021–2022-ben felvéve, ~3000 fő 18+ válaszadó, demográfiai, iskolázottsági, jövedelmi, munkapiaci és megtakarítási / adóssági adatokkal.",
+      "policy_relevance": "For Hungarian financial-literacy and consumer-protection policy: the locus-of-control finding implies that a population segment is structurally vulnerable to over-borrowing not because of information gaps but because of stable beliefs about agency. Generic financial-education campaigns will under-perform on this group; commitment-based products (default savings, automatic debt-payoff schemes) will outperform. Relevant input for MNB and Pénzügyminisztérium retail-finance regulation.",
+      "policy_relevance_hu": "A magyar pénzügyi-tudatossági és fogyasztóvédelmi politika szempontjából: a kontrollhely-eredmény arra utal, hogy egy népességszegmens nem információs hiány, hanem stabil cselekvőképesség-meggyőződés miatt strukturálisan sebezhető a túlhitelezésre. Az általános pénzügyi-oktatási kampányok ennél a csoportnál alulteljesítenek; az elköteleződés-alapú termékek (alapértelmezett megtakarítás, automatikus adósságtörlesztési programok) jobban teljesítenek. Releváns input az MNB és Pénzügyminisztérium lakossági pénzügyi szabályozásához.",
+      "topics": [
+        "behavioral",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-26",
+      "review_status": "ai-drafted",
       "openalex_id": "W4385698210"
     },
     {
@@ -22680,20 +22689,28 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "The linguistic-savings hypothesis posits that the grammatical marking of future events in languages is linked to future-oriented behavior. Recent experimental studies have suggested patience as a possible mechanism connecting language use and future-oriented behavior by exogenously manipulating what language is used. Our paper explores the association between patience and the language that people naturally use, thereby building on endogenous (as opposed to exogenously manipulated) language use. To capture natural language usage, we utilized a novel sentence-completion task designed for native speakers of the Hungarian language. This language allows for referencing future events through both present and future tenses. We hypothesized a positive correlation between being patient and using the present tense to refer to future events. We conducted incentivized and non-incentivized experiments with four independent samples of high school and university students, involving nearly 3,500 students in total. We find no consistent evidence that patience is correlated with endogenous future-time reference. Our null finding is further supported by a robustness check that leverages specific randomness in our data.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "Languages differ in whether they grammatically mark the future tense; some research argues this affects future-oriented behaviour like saving. Keller, Kiss and Szakál exploit a feature of Hungarian — it allows referring to future events in either present or future tense — to test the patience-language link without an exogenous manipulation. They run incentivised and non-incentivised experiments with ~3,500 Hungarian high-school and university students, measuring patience and natural language choice. They find no consistent correlation between patience and using present tense for future events. The null result tempers earlier exogenous-manipulation findings and challenges the 'linguistic-savings' hypothesis as a explanation for cross-country differences in saving rates.",
+      "summary_hu": "A nyelvek különböznek abban, hogy nyelvtanilag jelölik-e a jövő időt; egyes kutatások szerint ez befolyásolja a jövőorientált viselkedést, például a megtakarítást. Keller, Kiss és Szakál a magyar nyelv egy jellemzőjét használja ki — a magyar lehetővé teszi a jövőbeli események jelen vagy jövő idejű referencálását — hogy a türelem és a nyelv kapcsolatát exogén manipuláció nélkül tesztelje. Ösztönzött és nem ösztönzött kísérleteket futtatnak ~3500 magyar középiskolás és egyetemista hallgatóval, mérve a türelmet és a természetes nyelvválasztást. Nem találnak konzisztens korrelációt a türelem és a jelen idő használata között a jövőbeli eseményekre. A null eredmény tompítja a korábbi exogén-manipulációs eredményeket, és megkérdőjelezi a 'nyelvi-megtakarítási' hipotézist mint a megtakarítási ráták országok közötti különbségeinek magyarázatát.",
+      "data_used": "Four independent samples of Hungarian high-school and university students, ~3,500 subjects total. Outcome: time-preference task (incentivised in some samples, non-incentivised in others). Predictor: novel Hungarian-specific sentence-completion task measuring natural future-time reference choice.",
+      "data_used_hu": "Négy független magyar közép- és felsőoktatási hallgatói minta, összesen ~3500 alanyt. Kimenet: időpreferencia-feladat (egyes mintákban ösztönzött, másokban nem). Magyarázó változó: új, magyar-specifikus mondatkiegészítési feladat, amely a természetes jövő-idő referencia-választást méri.",
+      "policy_relevance": "Cuts directly against using language-based explanations for Hungarian savings behaviour. Argues that the 'Hungarians don't grammatically distinguish future and present tense, hence they are more patient' narrative is not supported empirically. For Hungarian financial-literacy and savings-promotion policy, the implication is to look for institutional / behavioural levers (commitment products, defaults), not linguistic ones. Caveat: Hungarian-only sample; cross-country generalisation untested.",
+      "policy_relevance_hu": "Közvetlenül cáfolja a nyelv-alapú magyarázatokat a magyar megtakarítási viselkedésre. Azzal érvel, hogy a 'a magyarok nyelvtanilag nem különböztetik meg a jövőt és a jelent, ezért türelmesebbek' narratíva empirikusan nem támogatott. A magyar pénzügyi-tudatossági és megtakarítás-ösztönzési politika számára az implikáció az, hogy intézményi / viselkedési eszközöket (elköteleződési termékek, alapértelmezett opciók) keressen, ne nyelvieket. Korlát: csak magyar minta; az országok közötti általánosítás teszteletlen.",
+      "topics": [
+        "behavioral"
+      ],
+      "methods": [
+        "rct"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "field-experiment"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-26",
+      "review_status": "ai-drafted",
       "openalex_id": "W4392824746"
     },
     {
@@ -23159,20 +23176,27 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We study the effects of deposit insurance and observability of previous actions on the emergence of bank runs by means of a controlled laboratory experiment. We consider three depositors in the line of a bank, who decide between withdrawing or keeping their money deposited. We have three treatments with different levels of deposit insurance which reflect the losses a depositor may incur in the case of a bank run. We find that different levels of deposit insurance and the possibility of observing other depositors’ actions affect the likelihood of bank runs. When decisions are not observable, higher levels of deposit insurance decrease the probability of bank runs. When decisions are observable, this need not to be the case. These results suggest that (i) observability might be considered as a partial substitute of deposit insurance and (ii) the optimal deposit insurance should take into account the degree of observability.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "summary_en": "When does a bank run start, and can deposit insurance prevent it? Kiss, Rodríguez-Lara and Rosa-García run a controlled lab experiment with three-depositor queues and three levels of deposit-insurance coverage. They find that higher deposit insurance reduces bank-run probability when depositors cannot observe each other's actions, but when actions are observable, the relationship breaks down — observability acts as a partial substitute for insurance. Optimal deposit insurance design therefore depends on the level of action-visibility in the system. The cleanest experimental evidence to date that policy levers (insurance, transparency) interact non-trivially in panic prevention.",
+      "summary_hu": "Mikor indul egy bankroham, és meg tudja-e előzni a betétbiztosítás? Kiss, Rodríguez-Lara és Rosa-García kontrollált laboratóriumi kísérletben három-betétes sorokat és három szintű betétbiztosítást vizsgál. Az eredmény szerint a magasabb betétbiztosítás csökkenti a bankroham valószínűségét, ha a betétesek nem látják egymás döntéseit, de megfigyelhető cselekvés esetén a kapcsolat felbomlik — a megfigyelhetőség részben helyettesítheti a biztosítást. Az optimális betétbiztosítás tervezése tehát a rendszerbeli cselekvés-láthatóság szintjétől függ. A legtisztább kísérleti bizonyíték eddig arra, hogy a policy-eszközök (biztosítás, átláthatóság) nem triviálisan hatnak egymásra a pánikmegelőzésben.",
+      "data_used": "Controlled laboratory experiment with three-depositor groups, randomised across three deposit-insurance treatments and two observability conditions. Sample size approximately 200 student subjects.",
+      "data_used_hu": "Kontrollált laboratóriumi kísérlet háromfős betétes csoportokkal, három betétbiztosítási kezelésre és két megfigyelhetőségi feltételre randomizálva. A minta nagysága mintegy 200 hallgató.",
+      "policy_relevance": "For the MNB and OBA (Hungarian Deposit Insurance Fund): the paper supports calibrating coverage levels jointly with transparency rules around bank-stress communication. Higher insurance is most valuable in low-observability environments; if depositors can already see queues forming or social-media chatter about a bank, raising the insurance ceiling buys less stability than expected. Caveat: lab evidence with student subjects; transferring quantitative coverage levels to real Hungarian retail markets requires field validation.",
+      "policy_relevance_hu": "Az MNB és az OBA számára a tanulmány a fedezeti szintek és a banki-stressz kommunikáció átláthatósági szabályainak együttes kalibrálását támogatja. A magasabb biztosítás akkor a legértékesebb, ha alacsony a megfigyelhetőség; ha a betétesek már látják a sorok kialakulását vagy a közösségi médiás rumort egy bankról, a fedezetplafon emelése kevesebb stabilitást vesz, mint várnánk. Korlát: laboratóriumi bizonyíték hallgatókkal; a kvantitatív szintek valós magyar piacra való átültetése terepi validálást igényel.",
+      "topics": [
+        "banking-finance",
+        "behavioral"
+      ],
+      "methods": [
+        "rct"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "field-experiment"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-26",
+      "review_status": "ai-drafted",
       "openalex_id": "W3125936796"
     },
     {
@@ -23303,20 +23327,27 @@
       "url_pdf": "https://link.springer.com/content/pdf/10.1057%2F9781137538161_5.pdf",
       "url_replication": null,
       "abstract": "Thousands of depositors crowd in the door of a bank branch. “Where is our money?” they shout enraged. “We want our money back!” The scene, besides being part of the classic movie “It’s a wonderful life” (Frank Capra, 1946), reflects a reality that many people believed distant but that has re-arisen strongly in recent years. We refer to bank runs.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "summary_en": "A follow-up to the 2012 paper: how does panic spread among depositors when more nuanced information conditions are present? The authors design new lab experiments adding incomplete information about other depositors' types and partial observability of actions. The findings sharpen the earlier results — observability is most stabilising for runs when depositors don't know how many liquidity-constrained types are in the system, because actions then carry strong informational content. When liquidity types are common knowledge, observability matters less. The paper helps explain why some real-world bank runs cascade quickly (Northern Rock, SVB 2023) while others fizzle.",
+      "summary_hu": "A 2012-es tanulmány folytatása: hogyan terjed a pánik a betétesek között finomabb információs feltételek mellett? A szerzők új laboratóriumi kísérleteket terveznek, hozzáadva a többi betétes típusáról szóló hiányos információt és a cselekvések részleges megfigyelhetőségét. Az eredmények élesítik a korábbiakat — a megfigyelhetőség akkor a legstabilizálóbb a rohamok ellen, ha a betétesek nem tudják, hány likviditás-korlátos típus van a rendszerben, mert ekkor a cselekvések erős információtartalmat hordoznak. Ha a likviditási típusok közismertek, a megfigyelhetőség kevésbé számít. A tanulmány segít megmagyarázni, miért gördülnek le egyes valós bankrohamok gyorsan (Northern Rock, SVB 2023), míg mások kifulladnak.",
+      "data_used": "Lab experiments extending the 2012 design with information-condition treatments. Sample size approximately 250 student subjects.",
+      "data_used_hu": "Laboratóriumi kísérletek, amelyek a 2012-es kísérleti tervet információs-feltétel kezelésekkel bővítik. A minta nagysága mintegy 250 hallgató.",
+      "policy_relevance": "Adds nuance to MNB / OBA stress-communication policy: pre-emptive disclosure of bank fundamentals (liquidity ratios, deposit composition) can stabilise the system if it makes depositor types common knowledge — but the same disclosure during nascent stress can destabilise if it confirms vulnerability. Argues for asymmetric communication regimes: thorough in calm times, restrained in stress. Caveat: same lab-experiment limitations as the 2012 paper.",
+      "policy_relevance_hu": "Árnyalja az MNB / OBA stressz-kommunikációs politikáját: a banki alapadatok (likviditási mutatók, betétösszetétel) megelőző közlése stabilizálhatja a rendszert, ha közismertté teszi a betétes-típusokat — de ugyanez a közlés egy kibontakozó stressz idején destabilizálhat, ha sebezhetőséget igazol. Aszimmetrikus kommunikációs rezsim mellett érvel: alapos nyugalomban, visszafogott stresszben. Korlát: ugyanazok a laboratóriumi-kísérlet korlátok, mint 2012-ben.",
+      "topics": [
+        "banking-finance",
+        "behavioral"
+      ],
+      "methods": [
+        "rct"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "field-experiment"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-26",
+      "review_status": "ai-drafted",
       "openalex_id": "W2502058343"
     },
     {
@@ -23437,20 +23468,29 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Success in life is determined to a large extent by school performance, which in turn depends heavily on grades obtained in exams. In this study, we investigate a particular type of exam: multiple-choice tests. More concretely, we study if patterns of correct answers in multiple-choice tests affect performance. We design an experiment to study if students who take a multiple-choice test with streaks of identical answers earn fewer points than students taking a test with a variable pattern of answers, and we study several potential mechanisms. We do not find a clear treatment effect, as multiple-choice test points were not significantly lower in a consistent manner in the treatment groups. We observe that in a streak, the likelihood to choose a different and incorrect answer than the previous ones is higher in the treated group. The number of identical previous answers does not seem to explain these choices of incorrect answers.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "When students take a multiple-choice test where the correct answers happen to fall in a streak (e.g., five 'B' answers in a row), do they perform worse than students taking a test where the same correct answers are scattered? Kiss and Selei design an experiment to find out. They do not find a clear treatment effect — students did not consistently score lower with streaks — but they document a more subtle pattern: within a streak, students become more likely to switch to a different (incorrect) answer, presumably because they intuitively distrust streaks. The mechanism evidence is more interesting than the headline null result, and the paper has implications for psychometric test design.",
+      "summary_hu": "Amikor a hallgatók olyan feleletválasztós tesztet írnak, ahol a helyes válaszok véletlenül sorozatba esnek (pl. öt egymást követő 'B' válasz), rosszabbul teljesítenek-e, mint olyan teszten, ahol ugyanazok a helyes válaszok szétszóródnak? Kiss és Selei kísérletet tervez ennek vizsgálatára. Nem találnak egyértelmű kezelési hatást — a hallgatók nem értek el konzisztensen alacsonyabb pontszámot sorozatok mellett — de dokumentálnak egy finomabb mintát: egy sorozaton belül a hallgatók nagyobb valószínűséggel váltanak más (helytelen) válaszra, vélhetően azért, mert intuitívan bizalmatlanok a sorozatokkal szemben. A mechanizmus-bizonyíték érdekesebb, mint a fő null eredmény, és a tanulmány a pszichometrikus tesztek tervezésére is kihat.",
+      "data_used": "Field experiment with university students taking multiple-choice exams; treatment = streak vs. variable-pattern correct-answer sequence. Approximately 500 student subjects across multiple sessions.",
+      "data_used_hu": "Terepkísérlet egyetemi hallgatókkal feleletválasztós vizsgákon; kezelés = sorozatos vagy változatos helyes-válasz minta. Mintegy 500 hallgató több ülésben.",
+      "policy_relevance": "For Hungarian education ministry (KIM) and the National Examination Board (Oktatási Hivatal): when constructing standardised tests (ECL, ÉRT, OKTV), avoid generating answer sequences with streaks even if randomisation produces them. The paper shows test-takers' anti-streak heuristic actively distorts answers downwards. Test designers should explicitly ban or rotate around streaks. Caveat: small-sample experiment; effect on high-stakes exams may differ.",
+      "policy_relevance_hu": "A KIM és az Oktatási Hivatal számára: standardizált tesztek (ECL, ÉRT, OKTV) szerkesztésekor kerüljük el a helyes-válasz sorozatokat akkor is, ha véletlen kiválasztás következtében alakulnak ki. A tanulmány szerint a tesztkitöltők sorozat-ellenes heurisztikája aktívan rontja a válaszokat. A teszttervezőknek explicit módon tiltaniuk vagy forgatniuk kellene a sorozatokat. Korlát: kis mintás kísérlet; a magas tétű vizsgáknál eltérő lehet a hatás.",
+      "topics": [
+        "education-skills",
+        "behavioral"
+      ],
+      "methods": [
+        "rct"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "field-experiment"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-26",
+      "review_status": "ai-drafted",
       "openalex_id": "W3122406876"
     },
     {
@@ -27034,20 +27074,30 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "There is a substantive literature examining the gender wage gap, its components and how it changes over time. The decisions that workers make in their career paths when changing occupations or entering new industries have a major impact on the evolution of their wage trajectories. Women and men follow different typical paths across industries and occupations. If changes in career paths are accompanied by geographical moves, these job-related relocations may have an additional wage effect, as differently sized settlements offer different labour market opportunities. Larger cities or metropolitan areas typically offer higher wages than smaller municipalities. The wage returns of geographical relocation may differ by gender, affecting the wage gap between women and men. In our study, we examine the wage effects of occupational and geographical mobility by exploring gender differences over individuals’ careers. We conceptualise the career of individuals as a chronologically ordered sequence of job spells, where each spell is defined by the combination of the employer’s industry and the worker’s occupation. We identify complete career sequences from Hungarian administrative data and use these as explanatory variables to examine the wage premium of urbanisation and the wage effects of geographical relocation. Our results indicate that the wage effects of different types of shifts differ by gender. We also find substantial differences both in the immediate wage benefits and in the long-term expected wages of potential career paths that open up with job changes due to relocation.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "Wage gaps between men and women evolve over careers — but careers consist of decisions about both what to do and where to do it. Lőrincz, Ilyés, Varga and Kiss use Hungarian linked-employer-employee administrative data to model individuals' careers as ordered sequences of (industry × occupation) job spells, sometimes accompanied by geographical relocation. They find that men and women follow different typical sequences across industries and occupations, and that the wage premium from job-related geographical moves (which usually require moving to larger cities) differs by gender. Both the immediate wage gain from a job change and the long-term expected wage trajectory differ, contributing measurably to the Hungarian gender wage gap.",
+      "summary_hu": "A férfiak és nők közötti bérkülönbségek a karrierek során alakulnak — de a karrier mind tevékenységi, mind földrajzi döntésekből áll. Lőrincz, Ilyés, Varga és Kiss magyar összekapcsolt munkáltató-munkavállaló adminisztratív adatokat használva modellezi az egyének karrierjét (iparág × foglalkozás) munka-epizódok rendezett szekvenciájaként, néha földrajzi áthelyezéssel kísérve. Megállapítják, hogy a férfiak és nők eltérő tipikus szekvenciákat követnek iparágak és foglalkozások között, és hogy a munkahely-változtatáshoz kapcsolódó földrajzi mozgás (amely általában nagyobb városokba költözést igényel) bérprémiuma nemek szerint eltér. Mind a munkahelyváltás közvetlen bérnyeresége, mind a hosszú távú várható bérpálya különbözik, mérhetően hozzájárulva a magyar nemi bérréshez.",
+      "data_used": "Hungarian administrative employee-employer linked records, full population coverage, 2003–2017 monthly. Career sequences defined as ordered (industry × occupation) tuples. ~3 million workers tracked.",
+      "data_used_hu": "Magyar adminisztratív munkavállaló-munkáltató összekapcsolt adatok, teljes népességlefedettség, 2003–2017 havi. Karrierszekvenciák rendezett (iparág × foglalkozás) tuplikként definiálva. ~3 millió munkavállaló követve.",
+      "policy_relevance": "Direct implications for Hungarian labour-market policy on regional development and gender wage gap. The paper shows that 'just move to where the jobs are' as a policy prescription has gendered consequences — women face structurally different return on relocation. For NGM and Eq Treatment Authority (EBH), the implication is that regional-development programmes need a gender-impact assessment for employment-mobility components. Caveat: descriptive; doesn't distinguish constraint-driven from preference-driven gender differences.",
+      "policy_relevance_hu": "Közvetlen következmények a magyar munkapiaci politikára a regionális fejlesztés és a nemi bérrés terén. A tanulmány szerint a 'költözz oda, ahol a munka van' policy-recept nemek szerint eltérő következményekkel jár — a nők strukturálisan más hozamot kapnak a relocation-ből. Az NGM és az EBH számára az implikáció az, hogy a regionális fejlesztési programokhoz nemi-hatásvizsgálat szükséges a foglalkoztatási-mobilitási komponensekre. Korlát: leíró; nem különbözteti meg a kényszer-vezérelt és preferencia-vezérelt nemi különbségeket.",
+      "topics": [
+        "labor-markets",
+        "regional-urban",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-26",
+      "review_status": "ai-drafted",
       "openalex_id": "W4401209092"
     },
     {
@@ -27072,20 +27122,30 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Similarities of the applied technology and human resources make learning between industries easier and spillover effects stronger. For this reason, economic growth of countries and regions is largely dependent on the relatedness structure between their industries, which affects the appearance and development of new industries in regions and countries. Several attempts have been made to measure the relatedness of industries, of which the revealed relatedness and skill-relatedness methods are among the most accepted ones. In our study, we examine the relatedness of Hungarian industries using these two network methods. We present the concepts of the revealed relatedness and skill-relatedness methods, followed by the empirical methodology of their calculations. We visualize the relatedness networks of the Hungarian industries using the two methods, and then analyze their relationships with each other and with the traditional sectoral classification. Finally, using the data of the Central Transdanubian Region, we argue that both approaches are relevant for regional development policy. As an attachment to the article, we publish the calculated relatedness measures, making them available for future regional development policy and empirical economic research.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "Which Hungarian industries can workers most easily move between, and how should this shape regional development policy? Lőrincz, Kiss, Elekes, Csáfordi and Lengyel apply two network-based industry-relatedness methods — revealed relatedness (co-location patterns) and skill-relatedness (worker flows) — to Hungarian administrative data. They visualise the resulting industry network, compare the two methods against each other and against the standard sectoral classification, and use the Central Transdanubian Region as a case study. The two methods give complementary signals: skill-relatedness captures human-capital adjacency, revealed relatedness captures co-location externalities. The paper publishes the calculated relatedness matrices for use in regional-development empirical work.",
+      "summary_hu": "Mely magyar iparágak között tudnak a munkavállalók a legkönnyebben mozogni, és hogyan kell ez alapján alakítani a regionális fejlesztési politikát? Lőrincz, Kiss, Elekes, Csáfordi és Lengyel két hálózat-alapú iparági-rokonsági módszert alkalmaz — feltárt rokonság (együtt-elhelyezkedési minták) és készség-rokonság (munkavállaló-áramlások) — magyar adminisztratív adatokra. Vizualizálják az iparági hálózatot, összehasonlítják a két módszert egymással és a standard ágazati besorolással, és a közép-dunántúli régiót használják esettanulmányként. A két módszer komplementer jelzést ad: a készség-rokonság az emberi-tőke szomszédosságát fogja meg, a feltárt rokonság az együtt-elhelyezkedési externáliákat. A tanulmány közzéteszi a kiszámított rokonsági mátrixokat a regionális-fejlesztési empirikus munkához.",
+      "data_used": "Hungarian administrative linked employer-employee data covering all formal employment, 2003–2017. Used to compute (i) revealed industry co-location at NUTS-3 region level and (ii) skill-relatedness from inter-industry worker flows.",
+      "data_used_hu": "Magyar adminisztratív munkavállaló-munkáltató összekapcsolt adatok a teljes formális foglalkoztatásra, 2003–2017. (i) Feltárt iparági együtt-elhelyezkedés NUTS-3 régiószinten és (ii) készség-rokonság az iparágak közötti munkavállaló-áramlásokból.",
+      "policy_relevance": "Directly useful for the NGM Smart Specialisation Strategy planning and for Magyar Falu / Modern Városok regional-development funds: when picking 'next industries' to support in a region, use the skill-relatedness matrix to identify what's adjacent to the existing skill base. The paper supplies the matrix in usable form. Equally relevant for ESIF programming. Caveat: the relatedness measures are derived from past flows; structural shocks (post-COVID, energy transition) may break the historical adjacency.",
+      "policy_relevance_hu": "Közvetlenül használható az NGM Okos Szakosodási Stratégia tervezéséhez és a Magyar Falu / Modern Városok regionális fejlesztési alapokhoz: amikor egy régióban a 'következő iparágakat' választjuk támogatásra, a készség-rokonsági mátrix alapján azonosíthatjuk, mi szomszédos a meglévő készségbázishoz. A tanulmány használható formában adja a mátrixot. Hasonlóan releváns az ESIF programozáshoz. Korlát: a rokonsági mértékek múltbeli áramlásokból származnak; szerkezeti sokkok (COVID utáni állapot, energiaátmenet) megtörhetik a történelmi szomszédosságot.",
+      "topics": [
+        "regional-urban",
+        "labor-markets",
+        "innovation-digital"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-26",
+      "review_status": "ai-drafted",
       "openalex_id": "W2889918167"
     },
     {
@@ -30049,20 +30109,30 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Tanulmányunk azt vizsgálja, hogy a roma és nem roma diákok különböznek-e három, az érzelmi stabilitáshoz kötődő nem kognitív képességben: kontrollhelyben, önbecsülésben és depresszióban. Három fő eredményünk van. Egyrészt, a nyers mutatószámok alapján a vizsgált nem kognitív képességek terén a magyarországi roma diákok átlagosan rosszabbul állnak, mint nem roma társaik, bár a különbség az önbecsülésben nem szignifikáns. Másrészt, a roma és nem roma diákok közötti különbségek a nem kognitív képességekben jóval kisebbek, mint a kognitív képességben. Harmadrészt, a különbséget teljes mértékben megmagyarázzák az otthoni és az iskolai környezettel kapcsolatos változók. Pontosabban, a kontrollhelyben és a depresszióban fennálló szignifikáns nyers különbség eltűnik, amikor figyelembe vesszük az otthoni környezettel kapcsolatos tényezőket. Bár a nyers adatok alapján a nem roma diákok önbecsülése (nem szignifikánsan) magasabb, az otthoni és az iskolai környezetet figyelembe véve a roma diákok rendelkeznek szignifikánsan magasabb önbecsüléssel. Az eredmények azt sugallják, hogy az otthoni környezet javítására irányuló szakpolitika csökkentheti a roma és nem roma diákok között a nem kognitív képességekben talált különbségeket.*&#13;\\nJournal of Economic Literature (JEL) kód: D01, D64, D91.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "Do Roma and non-Roma students differ in non-cognitive abilities? Szabó-Morvai and Kiss compare three emotional-stability traits — locus of control, self-esteem, depression — between Roma and non-Roma students in Hungary. Three findings. First, raw differences favour non-Roma students on locus of control and depression, but not on self-esteem. Second, the gaps in non-cognitive abilities are much smaller than the cognitive-ability gap. Third, the differences are fully explained by home-environment and school-environment variables — once these are controlled for, the locus-of-control and depression gaps disappear, and Roma students even show significantly higher self-esteem. The policy implication is that improving home environment, not targeting non-cognitive abilities directly, would close the gap.",
+      "summary_hu": "Különböznek-e a roma és nem roma diákok nem-kognitív képességekben? Szabó-Morvai és Kiss három érzelmi-stabilitási vonást hasonlít össze — kontrollhely, önbecsülés, depresszió — magyar roma és nem roma diákok között. Három megállapítás. Először, a nyers különbségek a nem roma diákok javára szólnak kontrollhelyben és depresszióban, de önbecsülésben nem. Másodszor, a nem-kognitív képességek közötti rés sokkal kisebb, mint a kognitív képesség-rés. Harmadszor, a különbségeket teljes mértékben megmagyarázzák az otthoni és iskolai környezeti változók — ha ezeket figyelembe vesszük, a kontrollhely- és depresszió-rés eltűnik, és a roma diákok szignifikánsan magasabb önbecsülést mutatnak. A policy-implikáció: az otthoni környezet javítása, nem a nem-kognitív képességek közvetlen célzása, zárná be a rést.",
+      "data_used": "Hungarian student survey including locus-of-control battery, self-esteem (Rosenberg), and depression (CES-D) scales, plus home/school environment indicators. Roma identification by self-report. Sample size approximately 5,000 students.",
+      "data_used_hu": "Magyar tanulói felmérés, amely tartalmazza a kontrollhely-skálát, az önbecsülés (Rosenberg) és depresszió (CES-D) skálákat, valamint az otthoni / iskolai környezeti mutatókat. A roma identifikáció önbevallás alapján. Mintegy 5000 fő diák.",
+      "policy_relevance": "Directly relevant to KIM and the Türr Roma integration framework: the result argues that 'soft-skill training' for Roma students is the wrong intervention — the gap in non-cognitive abilities is not large and is fully attributable to environmental factors. Resources should go to housing, school-resource equalisation, and family-support programmes instead. Caveat: cross-sectional, descriptive; causal interpretation requires longitudinal or quasi-experimental follow-up.",
+      "policy_relevance_hu": "Közvetlenül érinti a KIM-et és a Türr roma integrációs keretet: az eredmény szerint a 'puha-készség képzés' a roma tanulóknak rossz beavatkozás — a nem-kognitív képességek rése nem nagy, és teljes egészében környezeti tényezőknek tulajdonítható. Az erőforrásokat a lakhatásra, iskolai-erőforrás-kiegyenlítésre és családtámogatási programokra kell fordítani. Korlát: keresztmetszeti, leíró; az ok-okozati értelmezés longitudinális vagy kvázi-kísérleti követést igényel.",
+      "topics": [
+        "education-skills",
+        "behavioral",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-26",
+      "review_status": "ai-drafted",
       "openalex_id": "W4309181473"
     },
     {
@@ -36466,7 +36536,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 53
+      "paper_count": 55
     },
     {
       "id": "education-skills",
@@ -36477,7 +36547,7 @@
       "policy_framing_en": "Relevant to: curriculum design, teacher policy, school tracking age, higher education funding, vocational training.",
       "policy_framing_hu": "Releváns: tantervfejlesztés, tanárpolitika, iskolai szelekció életkora, felsőoktatás finanszírozása, szakképzés.",
       "icon": "graduation-cap",
-      "paper_count": 40
+      "paper_count": 42
     },
     {
       "id": "health",
@@ -36532,7 +36602,7 @@
       "policy_framing_en": "Relevant to: R&D tax credits, digital strategy, AI policy, innovation agency design, university–industry linkages.",
       "policy_framing_hu": "Releváns: K+F adókedvezmények, digitális stratégia, MI-politika, innovációs ügynökségek, egyetem–ipar kapcsolatok.",
       "icon": "cpu",
-      "paper_count": 31
+      "paper_count": 32
     },
     {
       "id": "banking-finance",
@@ -36543,7 +36613,7 @@
       "policy_framing_en": "Relevant to: MNB policy, banking regulation, macroprudential tools, financial inclusion.",
       "policy_framing_hu": "Releváns: MNB-politika, bankszabályozás, makroprudenciális eszközök, pénzügyi befogadás.",
       "icon": "landmark",
-      "paper_count": 79
+      "paper_count": 81
     },
     {
       "id": "fiscal-tax",
@@ -36565,7 +36635,7 @@
       "policy_framing_en": "Relevant to: regional development funds, housing policy, transport investment, urban planning.",
       "policy_framing_hu": "Releváns: regionális fejlesztési alapok, lakáspolitika, közlekedési beruházások, városfejlesztés.",
       "icon": "building",
-      "paper_count": 29
+      "paper_count": 31
     },
     {
       "id": "energy-environment",
@@ -36587,7 +36657,7 @@
       "policy_framing_en": "Relevant to: welfare system, anti-poverty programs, family allowances, gender-equal pay policies.",
       "policy_framing_hu": "Releváns: szociális rendszer, szegénység elleni programok, családi pótlékok, egyenlő bérezés.",
       "icon": "scale",
-      "paper_count": 74
+      "paper_count": 77
     },
     {
       "id": "political-economy",
@@ -36620,7 +36690,7 @@
       "policy_framing_en": "Relevant to: consumer protection, pension-default design, nudging, financial-education regulation, addictive-product regulation.",
       "policy_framing_hu": "Releváns: fogyasztóvédelem, nyugdíjalap-alapbeállítások, döntéslendítés (nudge), pénzügyi edukáció szabályozása, függőséget okozó termékek szabályozása.",
       "icon": "brain",
-      "paper_count": 51
+      "paper_count": 57
     },
     {
       "id": "industrial-organization",

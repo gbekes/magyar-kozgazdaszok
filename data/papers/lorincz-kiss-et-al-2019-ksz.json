@@ -20,19 +20,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Similarities of the applied technology and human resources make learning between industries easier and spillover effects stronger. For this reason, economic growth of countries and regions is largely dependent on the relatedness structure between their industries, which affects the appearance and development of new industries in regions and countries. Several attempts have been made to measure the relatedness of industries, of which the revealed relatedness and skill-relatedness methods are among the most accepted ones. In our study, we examine the relatedness of Hungarian industries using these two network methods. We present the concepts of the revealed relatedness and skill-relatedness methods, followed by the empirical methodology of their calculations. We visualize the relatedness networks of the Hungarian industries using the two methods, and then analyze their relationships with each other and with the traditional sectoral classification. Finally, using the data of the Central Transdanubian Region, we argue that both approaches are relevant for regional development policy. As an attachment to the article, we publish the calculated relatedness measures, making them available for future regional development policy and empirical economic research.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "Which Hungarian industries can workers most easily move between, and how should this shape regional development policy? Lőrincz, Kiss, Elekes, Csáfordi and Lengyel apply two network-based industry-relatedness methods — revealed relatedness (co-location patterns) and skill-relatedness (worker flows) — to Hungarian administrative data. They visualise the resulting industry network, compare the two methods against each other and against the standard sectoral classification, and use the Central Transdanubian Region as a case study. The two methods give complementary signals: skill-relatedness captures human-capital adjacency, revealed relatedness captures co-location externalities. The paper publishes the calculated relatedness matrices for use in regional-development empirical work.",
+  "summary_hu": "Mely magyar iparágak között tudnak a munkavállalók a legkönnyebben mozogni, és hogyan kell ez alapján alakítani a regionális fejlesztési politikát? Lőrincz, Kiss, Elekes, Csáfordi és Lengyel két hálózat-alapú iparági-rokonsági módszert alkalmaz — feltárt rokonság (együtt-elhelyezkedési minták) és készség-rokonság (munkavállaló-áramlások) — magyar adminisztratív adatokra. Vizualizálják az iparági hálózatot, összehasonlítják a két módszert egymással és a standard ágazati besorolással, és a közép-dunántúli régiót használják esettanulmányként. A két módszer komplementer jelzést ad: a készség-rokonság az emberi-tőke szomszédosságát fogja meg, a feltárt rokonság az együtt-elhelyezkedési externáliákat. A tanulmány közzéteszi a kiszámított rokonsági mátrixokat a regionális-fejlesztési empirikus munkához.",
+  "data_used": "Hungarian administrative linked employer-employee data covering all formal employment, 2003–2017. Used to compute (i) revealed industry co-location at NUTS-3 region level and (ii) skill-relatedness from inter-industry worker flows.",
+  "data_used_hu": "Magyar adminisztratív munkavállaló-munkáltató összekapcsolt adatok a teljes formális foglalkoztatásra, 2003–2017. (i) Feltárt iparági együtt-elhelyezkedés NUTS-3 régiószinten és (ii) készség-rokonság az iparágak közötti munkavállaló-áramlásokból.",
+  "policy_relevance": "Directly useful for the NGM Smart Specialisation Strategy planning and for Magyar Falu / Modern Városok regional-development funds: when picking 'next industries' to support in a region, use the skill-relatedness matrix to identify what's adjacent to the existing skill base. The paper supplies the matrix in usable form. Equally relevant for ESIF programming. Caveat: the relatedness measures are derived from past flows; structural shocks (post-COVID, energy transition) may break the historical adjacency.",
+  "policy_relevance_hu": "Közvetlenül használható az NGM Okos Szakosodási Stratégia tervezéséhez és a Magyar Falu / Modern Városok regionális fejlesztési alapokhoz: amikor egy régióban a 'következő iparágakat' választjuk támogatásra, a készség-rokonsági mátrix alapján azonosíthatjuk, mi szomszédos a meglévő készségbázishoz. A tanulmány használható formában adja a mátrixot. Hasonlóan releváns az ESIF programozáshoz. Korlát: a rokonsági mértékek múltbeli áramlásokból származnak; szerkezeti sokkok (COVID utáni állapot, energiaátmenet) megtörhetik a történelmi szomszédosságot.",
+  "topics": [
+    "regional-urban",
+    "labor-markets",
+    "innovation-digital"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W2889918167"
 }

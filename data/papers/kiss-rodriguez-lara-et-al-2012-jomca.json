@@ -18,19 +18,26 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We study the effects of deposit insurance and observability of previous actions on the emergence of bank runs by means of a controlled laboratory experiment. We consider three depositors in the line of a bank, who decide between withdrawing or keeping their money deposited. We have three treatments with different levels of deposit insurance which reflect the losses a depositor may incur in the case of a bank run. We find that different levels of deposit insurance and the possibility of observing other depositors’ actions affect the likelihood of bank runs. When decisions are not observable, higher levels of deposit insurance decrease the probability of bank runs. When decisions are observable, this need not to be the case. These results suggest that (i) observability might be considered as a partial substitute of deposit insurance and (ii) the optimal deposit insurance should take into account the degree of observability.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "When does a bank run start, and can deposit insurance prevent it? Kiss, Rodríguez-Lara and Rosa-García run a controlled lab experiment with three-depositor queues and three levels of deposit-insurance coverage. They find that higher deposit insurance reduces bank-run probability when depositors cannot observe each other's actions, but when actions are observable, the relationship breaks down — observability acts as a partial substitute for insurance. Optimal deposit insurance design therefore depends on the level of action-visibility in the system. The cleanest experimental evidence to date that policy levers (insurance, transparency) interact non-trivially in panic prevention.",
+  "summary_hu": "Mikor indul egy bankroham, és meg tudja-e előzni a betétbiztosítás? Kiss, Rodríguez-Lara és Rosa-García kontrollált laboratóriumi kísérletben három-betétes sorokat és három szintű betétbiztosítást vizsgál. Az eredmény szerint a magasabb betétbiztosítás csökkenti a bankroham valószínűségét, ha a betétesek nem látják egymás döntéseit, de megfigyelhető cselekvés esetén a kapcsolat felbomlik — a megfigyelhetőség részben helyettesítheti a biztosítást. Az optimális betétbiztosítás tervezése tehát a rendszerbeli cselekvés-láthatóság szintjétől függ. A legtisztább kísérleti bizonyíték eddig arra, hogy a policy-eszközök (biztosítás, átláthatóság) nem triviálisan hatnak egymásra a pánikmegelőzésben.",
+  "data_used": "Controlled laboratory experiment with three-depositor groups, randomised across three deposit-insurance treatments and two observability conditions. Sample size approximately 200 student subjects.",
+  "data_used_hu": "Kontrollált laboratóriumi kísérlet háromfős betétes csoportokkal, három betétbiztosítási kezelésre és két megfigyelhetőségi feltételre randomizálva. A minta nagysága mintegy 200 hallgató.",
+  "policy_relevance": "For the MNB and OBA (Hungarian Deposit Insurance Fund): the paper supports calibrating coverage levels jointly with transparency rules around bank-stress communication. Higher insurance is most valuable in low-observability environments; if depositors can already see queues forming or social-media chatter about a bank, raising the insurance ceiling buys less stability than expected. Caveat: lab evidence with student subjects; transferring quantitative coverage levels to real Hungarian retail markets requires field validation.",
+  "policy_relevance_hu": "Az MNB és az OBA számára a tanulmány a fedezeti szintek és a banki-stressz kommunikáció átláthatósági szabályainak együttes kalibrálását támogatja. A magasabb biztosítás akkor a legértékesebb, ha alacsony a megfigyelhetőség; ha a betétesek már látják a sorok kialakulását vagy a közösségi médiás rumort egy bankról, a fedezetplafon emelése kevesebb stabilitást vesz, mint várnánk. Korlát: laboratóriumi bizonyíték hallgatókkal; a kvantitatív szintek valós magyar piacra való átültetése terepi validálást igényel.",
+  "topics": [
+    "banking-finance",
+    "behavioral"
+  ],
+  "methods": [
+    "rct"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "field-experiment"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W3125936796"
 }

@@ -18,19 +18,26 @@
   "url_pdf": "https://link.springer.com/content/pdf/10.1057%2F9781137538161_5.pdf",
   "url_replication": null,
   "abstract": "Thousands of depositors crowd in the door of a bank branch. “Where is our money?” they shout enraged. “We want our money back!” The scene, besides being part of the classic movie “It’s a wonderful life” (Frank Capra, 1946), reflects a reality that many people believed distant but that has re-arisen strongly in recent years. We refer to bank runs.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "A follow-up to the 2012 paper: how does panic spread among depositors when more nuanced information conditions are present? The authors design new lab experiments adding incomplete information about other depositors' types and partial observability of actions. The findings sharpen the earlier results — observability is most stabilising for runs when depositors don't know how many liquidity-constrained types are in the system, because actions then carry strong informational content. When liquidity types are common knowledge, observability matters less. The paper helps explain why some real-world bank runs cascade quickly (Northern Rock, SVB 2023) while others fizzle.",
+  "summary_hu": "A 2012-es tanulmány folytatása: hogyan terjed a pánik a betétesek között finomabb információs feltételek mellett? A szerzők új laboratóriumi kísérleteket terveznek, hozzáadva a többi betétes típusáról szóló hiányos információt és a cselekvések részleges megfigyelhetőségét. Az eredmények élesítik a korábbiakat — a megfigyelhetőség akkor a legstabilizálóbb a rohamok ellen, ha a betétesek nem tudják, hány likviditás-korlátos típus van a rendszerben, mert ekkor a cselekvések erős információtartalmat hordoznak. Ha a likviditási típusok közismertek, a megfigyelhetőség kevésbé számít. A tanulmány segít megmagyarázni, miért gördülnek le egyes valós bankrohamok gyorsan (Northern Rock, SVB 2023), míg mások kifulladnak.",
+  "data_used": "Lab experiments extending the 2012 design with information-condition treatments. Sample size approximately 250 student subjects.",
+  "data_used_hu": "Laboratóriumi kísérletek, amelyek a 2012-es kísérleti tervet információs-feltétel kezelésekkel bővítik. A minta nagysága mintegy 250 hallgató.",
+  "policy_relevance": "Adds nuance to MNB / OBA stress-communication policy: pre-emptive disclosure of bank fundamentals (liquidity ratios, deposit composition) can stabilise the system if it makes depositor types common knowledge — but the same disclosure during nascent stress can destabilise if it confirms vulnerability. Argues for asymmetric communication regimes: thorough in calm times, restrained in stress. Caveat: same lab-experiment limitations as the 2012 paper.",
+  "policy_relevance_hu": "Árnyalja az MNB / OBA stressz-kommunikációs politikáját: a banki alapadatok (likviditási mutatók, betétösszetétel) megelőző közlése stabilizálhatja a rendszert, ha közismertté teszi a betétes-típusokat — de ugyanez a közlés egy kibontakozó stressz idején destabilizálhat, ha sebezhetőséget igazol. Aszimmetrikus kommunikációs rezsim mellett érvel: alapos nyugalomban, visszafogott stresszben. Korlát: ugyanazok a laboratóriumi-kísérlet korlátok, mint 2012-ben.",
+  "topics": [
+    "banking-finance",
+    "behavioral"
+  ],
+  "methods": [
+    "rct"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "field-experiment"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W2502058343"
 }

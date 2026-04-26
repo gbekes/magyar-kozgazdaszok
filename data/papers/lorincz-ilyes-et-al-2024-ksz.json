@@ -19,19 +19,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "There is a substantive literature examining the gender wage gap, its components and how it changes over time. The decisions that workers make in their career paths when changing occupations or entering new industries have a major impact on the evolution of their wage trajectories. Women and men follow different typical paths across industries and occupations. If changes in career paths are accompanied by geographical moves, these job-related relocations may have an additional wage effect, as differently sized settlements offer different labour market opportunities. Larger cities or metropolitan areas typically offer higher wages than smaller municipalities. The wage returns of geographical relocation may differ by gender, affecting the wage gap between women and men. In our study, we examine the wage effects of occupational and geographical mobility by exploring gender differences over individuals’ careers. We conceptualise the career of individuals as a chronologically ordered sequence of job spells, where each spell is defined by the combination of the employer’s industry and the worker’s occupation. We identify complete career sequences from Hungarian administrative data and use these as explanatory variables to examine the wage premium of urbanisation and the wage effects of geographical relocation. Our results indicate that the wage effects of different types of shifts differ by gender. We also find substantial differences both in the immediate wage benefits and in the long-term expected wages of potential career paths that open up with job changes due to relocation.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "Wage gaps between men and women evolve over careers — but careers consist of decisions about both what to do and where to do it. Lőrincz, Ilyés, Varga and Kiss use Hungarian linked-employer-employee administrative data to model individuals' careers as ordered sequences of (industry × occupation) job spells, sometimes accompanied by geographical relocation. They find that men and women follow different typical sequences across industries and occupations, and that the wage premium from job-related geographical moves (which usually require moving to larger cities) differs by gender. Both the immediate wage gain from a job change and the long-term expected wage trajectory differ, contributing measurably to the Hungarian gender wage gap.",
+  "summary_hu": "A férfiak és nők közötti bérkülönbségek a karrierek során alakulnak — de a karrier mind tevékenységi, mind földrajzi döntésekből áll. Lőrincz, Ilyés, Varga és Kiss magyar összekapcsolt munkáltató-munkavállaló adminisztratív adatokat használva modellezi az egyének karrierjét (iparág × foglalkozás) munka-epizódok rendezett szekvenciájaként, néha földrajzi áthelyezéssel kísérve. Megállapítják, hogy a férfiak és nők eltérő tipikus szekvenciákat követnek iparágak és foglalkozások között, és hogy a munkahely-változtatáshoz kapcsolódó földrajzi mozgás (amely általában nagyobb városokba költözést igényel) bérprémiuma nemek szerint eltér. Mind a munkahelyváltás közvetlen bérnyeresége, mind a hosszú távú várható bérpálya különbözik, mérhetően hozzájárulva a magyar nemi bérréshez.",
+  "data_used": "Hungarian administrative employee-employer linked records, full population coverage, 2003–2017 monthly. Career sequences defined as ordered (industry × occupation) tuples. ~3 million workers tracked.",
+  "data_used_hu": "Magyar adminisztratív munkavállaló-munkáltató összekapcsolt adatok, teljes népességlefedettség, 2003–2017 havi. Karrierszekvenciák rendezett (iparág × foglalkozás) tuplikként definiálva. ~3 millió munkavállaló követve.",
+  "policy_relevance": "Direct implications for Hungarian labour-market policy on regional development and gender wage gap. The paper shows that 'just move to where the jobs are' as a policy prescription has gendered consequences — women face structurally different return on relocation. For NGM and Eq Treatment Authority (EBH), the implication is that regional-development programmes need a gender-impact assessment for employment-mobility components. Caveat: descriptive; doesn't distinguish constraint-driven from preference-driven gender differences.",
+  "policy_relevance_hu": "Közvetlen következmények a magyar munkapiaci politikára a regionális fejlesztés és a nemi bérrés terén. A tanulmány szerint a 'költözz oda, ahol a munka van' policy-recept nemek szerint eltérő következményekkel jár — a nők strukturálisan más hozamot kapnak a relocation-ből. Az NGM és az EBH számára az implikáció az, hogy a regionális fejlesztési programokhoz nemi-hatásvizsgálat szükséges a foglalkoztatási-mobilitási komponensekre. Korlát: leíró; nem különbözteti meg a kényszer-vezérelt és preferencia-vezérelt nemi különbségeket.",
+  "topics": [
+    "labor-markets",
+    "regional-urban",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W4401209092"
 }

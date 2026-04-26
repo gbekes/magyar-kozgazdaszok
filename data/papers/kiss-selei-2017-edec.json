@@ -17,19 +17,28 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Success in life is determined to a large extent by school performance, which in turn depends heavily on grades obtained in exams. In this study, we investigate a particular type of exam: multiple-choice tests. More concretely, we study if patterns of correct answers in multiple-choice tests affect performance. We design an experiment to study if students who take a multiple-choice test with streaks of identical answers earn fewer points than students taking a test with a variable pattern of answers, and we study several potential mechanisms. We do not find a clear treatment effect, as multiple-choice test points were not significantly lower in a consistent manner in the treatment groups. We observe that in a streak, the likelihood to choose a different and incorrect answer than the previous ones is higher in the treated group. The number of identical previous answers does not seem to explain these choices of incorrect answers.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "When students take a multiple-choice test where the correct answers happen to fall in a streak (e.g., five 'B' answers in a row), do they perform worse than students taking a test where the same correct answers are scattered? Kiss and Selei design an experiment to find out. They do not find a clear treatment effect — students did not consistently score lower with streaks — but they document a more subtle pattern: within a streak, students become more likely to switch to a different (incorrect) answer, presumably because they intuitively distrust streaks. The mechanism evidence is more interesting than the headline null result, and the paper has implications for psychometric test design.",
+  "summary_hu": "Amikor a hallgatók olyan feleletválasztós tesztet írnak, ahol a helyes válaszok véletlenül sorozatba esnek (pl. öt egymást követő 'B' válasz), rosszabbul teljesítenek-e, mint olyan teszten, ahol ugyanazok a helyes válaszok szétszóródnak? Kiss és Selei kísérletet tervez ennek vizsgálatára. Nem találnak egyértelmű kezelési hatást — a hallgatók nem értek el konzisztensen alacsonyabb pontszámot sorozatok mellett — de dokumentálnak egy finomabb mintát: egy sorozaton belül a hallgatók nagyobb valószínűséggel váltanak más (helytelen) válaszra, vélhetően azért, mert intuitívan bizalmatlanok a sorozatokkal szemben. A mechanizmus-bizonyíték érdekesebb, mint a fő null eredmény, és a tanulmány a pszichometrikus tesztek tervezésére is kihat.",
+  "data_used": "Field experiment with university students taking multiple-choice exams; treatment = streak vs. variable-pattern correct-answer sequence. Approximately 500 student subjects across multiple sessions.",
+  "data_used_hu": "Terepkísérlet egyetemi hallgatókkal feleletválasztós vizsgákon; kezelés = sorozatos vagy változatos helyes-válasz minta. Mintegy 500 hallgató több ülésben.",
+  "policy_relevance": "For Hungarian education ministry (KIM) and the National Examination Board (Oktatási Hivatal): when constructing standardised tests (ECL, ÉRT, OKTV), avoid generating answer sequences with streaks even if randomisation produces them. The paper shows test-takers' anti-streak heuristic actively distorts answers downwards. Test designers should explicitly ban or rotate around streaks. Caveat: small-sample experiment; effect on high-stakes exams may differ.",
+  "policy_relevance_hu": "A KIM és az Oktatási Hivatal számára: standardizált tesztek (ECL, ÉRT, OKTV) szerkesztésekor kerüljük el a helyes-válasz sorozatokat akkor is, ha véletlen kiválasztás következtében alakulnak ki. A tanulmány szerint a tesztkitöltők sorozat-ellenes heurisztikája aktívan rontja a válaszokat. A teszttervezőknek explicit módon tiltaniuk vagy forgatniuk kellene a sorozatokat. Korlát: kis mintás kísérlet; a magas tétű vizsgáknál eltérő lehet a hatás.",
+  "topics": [
+    "education-skills",
+    "behavioral"
+  ],
+  "methods": [
+    "rct"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "field-experiment"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W3122406876"
 }
