@@ -19,32 +19,21 @@ description: >
 Authoring tool for the three written fields that appear on the public
 site: `summary`, `data_used`, `policy_relevance`. Bilingual.
 
-## Core principle
-
-The summary fields are the entire content product. They're how a
-policymaker decides whether to read the paper. Quality bar:
-
-- A senior policy advisor should read the EN summary in 30 seconds
-  and know whether this is relevant to their dossier.
-- A Hungarian journalist should read the HU summary in 30 seconds
-  and know whether to email the author for a quote.
-
-Drafts written without that bar in mind are noise.
+The summary fields are the entire content product. A senior policy
+advisor should read the EN summary in 30 seconds and know whether this
+is relevant to their dossier; a Hungarian journalist should read the
+HU and know whether to email the author. Drafts written without that
+bar in mind are noise.
 
 ## What this skill drafts
-
-Three target tables, each with slightly different fields:
 
 | Target          | Fields drafted                                                    |
 |-----------------|--------------------------------------------------------------------|
 | `data/papers/`  | summary_en, summary_hu, data_used, data_used_hu, policy_relevance, policy_relevance_hu |
 | `data/policy/`  | summary_en, summary_hu, policy_relevance, policy_relevance_hu      |
-| `data/press/`   | (no summaries — press is intentionally minimal); only `title_hu` for HU-origin items |
+| `data/press/`   | only `title_hu` for HU-origin items missing it (no summary fields per SPEC §2.7) |
 
-Press items only get `title_hu` filled if missing and the original is
-Hungarian-origin. No summary fields on press — that's per SPEC §2.7.
-
-## The content contract (from SPEC §5)
+## Content contract (from SPEC §5)
 
 | Field                | Length              | Answers                                                       |
 |----------------------|---------------------|---------------------------------------------------------------|
@@ -56,50 +45,44 @@ Hungarian-origin. No summary fields on press — that's per SPEC §2.7.
 
 - **No jargon.** If a term must appear, define it in parentheses on
   first use. "RDD (regression discontinuity)" the first time, then
-  just "RDD" thereafter.
-- **Name the country / countries.** Open with the setting:
-  "In Hungary, …" / "Across 24 EU countries, …" / "Using US firm
-  data, …". Never start with "We find" — the reader doesn't know
-  who "we" is.
+  "RDD" thereafter.
+- **Name the country.** Open with the setting: "In Hungary, …" /
+  "Across 24 EU countries, …" / "Using US firm data, …". Never start
+  with "We find" — the reader doesn't know who "we" is.
 - **Effect sizes with units.** "8% increase in employment", not
   "a positive effect on employment". "€450/month wage gap", not
   "a sizable wage gap".
 - **Concrete data lines.** `data_used` is the trust signal: source
-  agency, sample size, time window, unit of analysis. "NAV
-  corporate tax filings 2010–2020, ~85,000 firms, annual panel" —
-  not "rich administrative data".
+  agency, sample size, time window, unit of analysis. "NAV corporate
+  tax filings 2010–2020, ~85,000 firms, annual panel" — not "rich
+  administrative data".
 - **Specific policy reader.** `policy_relevance` should name *who*
   uses it (ministry, agency) and *how* (program design, target
   population, instrument). External-validity caveats on non-HU
-  papers go here, not buried.
-- **Never copy the abstract.** Paraphrase entirely. Drafts that
-  echo abstract phrasing fail review.
-- **Hungarian is not a translation.** The HU draft answers the same
-  questions but uses idiomatic Hungarian, not literal English-to-
-  Hungarian. Hungarian academic register, Hungarian numbers
-  conventions (vessző, not pont, for decimals).
+  papers go here.
+- **Never copy the abstract.** Paraphrase entirely.
+- **Hungarian is not a translation.** HU answers the same questions
+  using idiomatic Hungarian, not literal English-to-Hungarian.
+  Hungarian academic register, vessző (not pont) for decimals.
 
 ### Soft rules
 
-- Lead with the punchline if there is one. "Higher minimum wages
-  raised employment in Hungarian retail by 4%" is better than
-  saving the result for sentence 3.
+- Lead with the punchline. "Higher minimum wages raised employment in
+  Hungarian retail by 4%" beats saving the result for sentence 3.
 - Active voice. "The authors track" not "12,000 firms are tracked".
-- For Hungarian-context papers, the HU summary is primary; the EN
-  is for the international reader. Don't shave Hungarian-specific
-  detail out of the HU just because it doesn't translate cleanly.
+- For Hungarian-context papers, the HU summary is primary. Don't shave
+  Hungarian-specific detail just because it doesn't translate cleanly.
 - For non-Hungarian-context papers, lead the HU with "Az Egyesült
   Államokban …" / "Az Európai Unió 24 országában …" so the reader
-  immediately knows the setting isn't Hungary.
+  knows the setting isn't Hungary.
 
-## Inputs the skill needs
+## Inputs
 
 For each target item:
 
-1. The catalogue JSON (read it — gives title, authors, journal,
-   year, abstract, current state of fields).
-2. The paper / policy abstract or full text. Sources, in order of
-   preference:
+1. The catalogue JSON (read it — gives title, authors, journal, year,
+   abstract, current state of fields).
+2. The abstract or full text. Sources, in order of preference:
    - `abstract` field already in the JSON
    - `url_published` → fetch DOI page
    - `url_pdf` → fetch PDF and run `pdf` skill to extract text
@@ -107,43 +90,36 @@ For each target item:
      publication page; if there's only a press release, draft from
      that and flag in NOTES that the source was thin.
 
-If neither abstract nor accessible PDF exists, halt and ask the
-editor for one — drafting from the title alone produces hallucination.
+If neither abstract nor accessible PDF exists, halt and ask the editor.
+Drafting from the title alone produces hallucination.
 
-## Workflow
+## Modes
 
-### Single-item mode
+### Single-item
 
-Triggered by: a specific slug or "draft this paper". Produces one
-JSON file at `scripts/drafts_<slug>.json` and previews the content
-inline before writing.
+Trigger: a specific slug or "draft this paper". Produces one JSON file
+at `scripts/drafts_<slug>.json` and previews inline.
 
-### Batch mode
+### Batch
 
-Triggered by: an author slug ("draft Adamecz's policy items"), a
-TODO category from the handover ("first drafts for the 35 metadata-
-fetched policy items"), or an explicit list.
+Trigger: an author slug ("draft Adamecz's policy items"), a category
+from the handover, or an explicit list.
 
-For batch mode:
+1. Pull the target slug list (filter by `review_status:
+   metadata-fetched` or by missing field).
+2. Cap at 10 per batch. Beyond that, announce the boundary, process
+   the first 10, wait for approval, continue.
+3. Output one JSON at `scripts/drafts_<batch-tag>_<date>.json`.
 
-1. Pull the list of target slugs (filter by `review_status:
-   metadata-fetched` or by missing field, depending on intent).
-2. Cap at 10 items per batch. If the user's request exceeds 10,
-   announce the batch boundary and process the first 10. The
-   editor reviews + applies, then asks for the next batch.
-3. Output one JSON file at `scripts/drafts_<batch-tag>_<date>.json`.
+### HU-only (translation)
 
-### Hungarian-only mode (translation)
-
-Triggered by: "translate X to Hungarian", "HU drafts for Y", or
-when the EN draft already exists and HU is missing.
-
-For HU-only:
+Trigger: "translate X to Hungarian", "HU drafts for Y", or when EN
+exists and HU is missing.
 
 1. Read the existing `summary_en`, `data_used`, `policy_relevance`.
 2. Write `summary_hu`, `data_used_hu`, `policy_relevance_hu`
-   following the soft rule above (idiomatic, not literal).
-3. Output JSON in the `apply_summaries_hu.py` format:
+   (idiomatic, not literal — see soft rules).
+3. Output JSON for `apply_summaries_hu.py`:
    ```json
    {
      "<paper-slug>": {
@@ -156,7 +132,7 @@ For HU-only:
 
 ## Output JSON formats
 
-### For research papers (matches `scripts/apply_drafts.py`)
+### Research papers (matches `scripts/apply_drafts.py`)
 
 ```json
 {
@@ -172,93 +148,75 @@ For HU-only:
 }
 ```
 
-The skill should populate `topics`, `methods`, `data_types`,
-`countries_studied` only if confident. Wrong tags are worse than
-empty arrays.
+Populate `topics`, `methods`, `data_types`, `countries_studied` only
+if confident. Wrong tags are worse than empty arrays.
 
-### For policy items
+### Policy items
 
-Same shape as papers, minus `methods` / `data_types` (policy items
-don't carry those). Include `policy_relevance` (required by SPEC
-§2.6) — never leave a policy item without it.
+Same shape as papers, minus `methods` / `data_types`. `policy_relevance`
+is required (SPEC §2.6) — never leave a policy item without it.
 
-### For HU-only translations
+## Apply
 
-See "Hungarian-only mode" above.
-
-## Apply step
-
-Default is dry-run: write the JSON, print a preview, ask the editor
-to approve before running the apply script.
+Default is dry-run: write the JSON, print a preview, ask for approval.
 
 When the editor says "apply" / "go ahead":
 
 ```bash
-# for EN drafts on papers
+# EN drafts on papers
 python scripts/apply_drafts.py scripts/drafts_<batch>.json
 
-# for HU translations (papers, policy)
+# HU translations (papers, policy)
 python scripts/apply_summaries_hu.py scripts/drafts_<batch>_hu.json
 ```
 
-For policy items, there's no dedicated apply script as of
-2026-04-25 — extend `apply_drafts.py` or write the JSON straight to
-`data/policy/<slug>.json` field-by-field. Note this in the response
-so the editor can decide which path.
+For policy items, no dedicated apply script exists yet — extend
+`apply_drafts.py` or write directly to `data/policy/<slug>.json`.
+Note this in the response so the editor can decide.
 
-After apply, print a one-line summary: `Applied N drafts to
-<targets>; review_status set to ai-drafted; last_reviewed_at set
-to <today>.`
+After apply: print one line — `Applied N drafts to <targets>;
+review_status set to ai-drafted; last_reviewed_at set to <today>`.
 
 ## Stopping rules
 
 - 10 items per batch, hard cap.
-- If a paper's abstract is unavailable from any source, skip it
-  with a flag rather than fabricating.
-- If `topics` / `methods` are unclear from the abstract, leave
-  empty in the JSON — `apply_drafts.py` validates against the
-  controlled vocabulary and will reject invalid tags anyway.
-- Never write a draft that's <50 words for a 80–150-word target.
-  Better to flag the source as too thin and ask for more.
+- If a paper's abstract is unavailable, skip with a flag rather than
+  fabricating.
+- If `topics` / `methods` are unclear, leave empty — `apply_drafts.py`
+  validates against the controlled vocabulary and rejects invalid tags.
+- Never write a draft <50 words for an 80–150 word target. Flag the
+  source as too thin instead.
 
-## What this skill does NOT do
+## Out of scope
 
-- Author photos, bios, or any author-level field — that's
-  `research-author`.
-- Auditing existing drafts for quality — that's an editor task.
-- Verify the paper exists / verify the author is Hungarian — those
-  are `hu-econ-verifier` (Check 1 / Check 2).
-- Translate existing English Press item titles — editor deferred
-  that ("option b") in 2026-04-25.
+- Author photos, bios, any author-level field — `research-author`.
+- Auditing draft quality — editor task.
+- Eligibility / paper-existence checks — `hu-econ-verifier`.
+- HU titles for EN-origin Press items (deferred per editor preference).
 
 ## Examples
 
-### Single paper, full draft
+### Single paper
 
 > "Draft summaries for `koszegi-2006-qje-reference-points`."
 
-Process: read JSON → read abstract → write EN summary, data_used,
-policy_relevance → write HU twins → output one-paper JSON to
-`scripts/drafts_koszegi-2006-qje.json` → preview inline → wait
-for "apply".
+Read JSON → read abstract → write EN summary, data_used,
+policy_relevance → write HU twins → output to
+`scripts/drafts_koszegi-2006-qje.json` → preview → wait for "apply".
 
-### Author batch, EN drafts only
+### Author batch, EN drafts
 
 > "Draft Adamecz's 10 BI briefs."
 
-Process: list `data/policy/adamecz-*.json` where
-`review_status=metadata-fetched` → fetch each BI PDF (most have
-public PDFs per handover) → draft EN `summary_en` and
-`policy_relevance` for each → output to
-`scripts/drafts_adamecz_policy_<date>.json` → preview the first
-two inline, summarise the rest as a list of word counts → wait
-for approval.
+List `data/policy/adamecz-*.json` with `review_status=metadata-fetched`
+→ fetch each BI PDF → draft EN `summary_en` and `policy_relevance` →
+output to `scripts/drafts_adamecz_policy_<date>.json` → preview the
+first two inline, summarise the rest as a list of word counts → wait.
 
-### HU translations, batch
+### HU batch
 
 > "HU drafts for the 16 Köszegi papers."
 
-Process: list `data/papers/koszegi-*.json` where `summary_en` is
-non-null and `summary_hu` is null → write HU twins for each → output
-to `scripts/summaries_hu_koszegi_<date>.json` → preview two →
-wait for `apply_summaries_hu.py` approval.
+List `data/papers/koszegi-*.json` with `summary_en` non-null and
+`summary_hu` null → write HU twins → output to
+`scripts/summaries_hu_koszegi_<date>.json` → preview two → wait.

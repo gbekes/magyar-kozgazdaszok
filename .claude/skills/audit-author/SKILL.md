@@ -24,16 +24,17 @@ Each gap points at the right follow-up skill (`research-author`,
 ## Entry requirement (admission rule)
 
 Before auditing, confirm the author meets the catalogue's admission
-rule (SPEC §1.2). An author qualifies if **either**:
+rule (SPEC §1.2). An author qualifies only if **both** hold:
 
 - (i) at least one publication in a journal on `data/journals.json`
-  Tier A or B, **or**
+  Tier A or B, **and**
 - (ii) ≥ 3 peer-reviewed published articles in English in any
   economics, finance, or management journal.
 
-If neither holds, halt and flag for the editor — don't audit
-someone who shouldn't be in the catalogue. Run `hu-econ-verifier`
-(Check 1) for eligibility doubts.
+If either fails, halt and flag for the editor — don't audit someone
+who shouldn't be in the catalogue. Run `hu-econ-verifier` (Check 1)
+for eligibility doubts. Surface borderline cases (1–2 international
+publications, or no Tier A/B paper) explicitly in the report.
 
 ## Inputs
 

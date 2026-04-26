@@ -55,17 +55,18 @@ An author is admitted if they have **at least one publication** in any journal o
 
 Store the full list as `data/journals.json` so it is editable without code changes.
 
-**Admission rule:** an author is admitted if **either**
+**Admission rule:** an author is admitted if **both** conditions hold:
 
-- (i) they have at least one publication in a journal on the Tier A / Tier B list above, **or**
-- (ii) they have at least **3 peer-reviewed, published articles in English**, in any economics, finance, or management journal (no journal-tier cutoff — the criterion is a sustained record of internationally-refereed work in the field).
+- (i) at least one publication in a journal on the Tier A / Tier B list above, **and**
+- (ii) at least **3 peer-reviewed, published articles in English**, in any economics, finance, or management journal.
 
-Both paths are editorial decisions; the journal list is a guide, not a gate. Once admitted via either route, all of the author's peer-reviewed papers and recent working papers are eligible for the catalogue (filter later in the UI).
+Rationale: the top-journal criterion (i) signals that the author has cleared a high editorial bar at least once; the volume criterion (ii) signals a sustained record of internationally-refereed work in the field. Either alone is too easy — a single lucky placement isn't a research career, and three workshop-tier publications aren't recognizable as one. Both paths are editorial decisions; the journal list is a guide, not a gate. Once admitted, all of the author's peer-reviewed papers and recent working papers are eligible for the catalogue (filter later in the UI).
 
 **Recent changes to this list:**
+- 2026-04-26: Admission rule tightened from OR to AND — both (i) and (ii) now required (previously either was sufficient).
 - Added to Tier A: International Economic Review, Review of Economics and Statistics, Journal of Economic Perspectives, Theoretical Economics, AEA Papers and Proceedings.
 - Added to Tier B: Journal of Economic Theory and Economic Theory (new _Theory_ field); Review of Finance and Journal of International Money and Finance (finance).
-- Removed: Review of Economic Dynamics, Journal of International Business Studies, World Development.
+- Removed: Journal of International Business Studies, World Development. (Review of Economic Dynamics is back on Tier B as of 2026-04-26.)
 
 ### 1.3 What papers to include for an admitted author
 
