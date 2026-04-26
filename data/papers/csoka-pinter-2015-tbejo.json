@@ -17,19 +17,24 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Abstract Allocating risk properly to subunits is crucial for performance evaluation and internal capital allocation of portfolios held by banks, insurance companies, investment funds and other entities subject to financial risk. We show that by using coherent measures of risk it is impossible to allocate risk satisfying simultaneously the natural game theoretical requirements of Core Compatibility and Strong Monotonicity. To obtain the result we characterize the Shapley value on the class of totally balanced games and also on the class of exact games as being the only risk allocation method satisfying Strong Monotonicity, Equal Treatment Property and Efficiency. Moreover, we clarify and interpret the related game theoretical requirements that have appeared in the literature so far and have been applied to risk allocation.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "How should a bank or insurer attribute the total portfolio risk back to its individual desks or product lines, when desks share losses cooperatively? Csóka and Pintér show this is impossible to do well: using coherent risk measures (the industry-standard family that respects diversification), no allocation rule can satisfy both Core Compatibility (no subset of desks would prefer to break away) and Strong Monotonicity (a desk that becomes riskier never gets a smaller capital charge). The paper characterises the Shapley value as the unique rule satisfying Strong Monotonicity, Equal Treatment, and Efficiency, sharpening earlier game-theoretic results from the risk-allocation literature.",
+  "summary_hu": "Hogyan oszthatja szét egy bank vagy biztosító a teljes portfólió kockázatát az egyes üzletágak között, ha az üzletágak közösen viselik a veszteségeket? Csóka és Pintér megmutatja, hogy ezt nem lehet jól csinálni: koherens kockázati mértékek mellett (ez az iparági standard, amely tiszteletben tartja a diverzifikációt) egyetlen elosztási szabály sem teljesíti egyszerre a Mag-kompatibilitást (egy üzletág-részhalmaz se akarjon kiválni) és az Erős Monotonitást (egy kockázatosabbá váló üzletágra ne essen kisebb tőkekövetelmény). A tanulmány bizonyítja, hogy az Erős Monotonitás, az Egyenlő Bánásmód és a Hatékonyság együttesét egyedül a Shapley-érték elégíti ki — ezzel élesíti a kockázat-elosztási irodalom korábbi játékelméleti eredményeit.",
+  "data_used": "Game-theoretic axiomatic analysis. No empirical data — the paper proves results about the class of totally balanced and exact cooperative games, where coherent risk measures naturally live. Numerical examples illustrate but do not drive the impossibility theorem.",
+  "data_used_hu": "Játékelméleti axiomatikus elemzés. Empirikus adatok nélkül — a tanulmány a teljesen kiegyensúlyozott és egzakt kooperatív játékok osztályára bizonyít eredményeket, ahol a koherens kockázati mértékek természetesen léteznek. Numerikus példák illusztrálják, de nem hajtják a lehetetlenségi tételt.",
+  "policy_relevance": "Affects bank capital regulation and internal risk-budgeting at any institution that sets desk-level limits using a coherent risk measure (Expected Shortfall under Basel III; Solvency II for insurers). The result implies regulators and CROs must choose: either a stable, coalition-proof allocation that may misprice marginal risk, or a marginal-risk-respecting allocation (the Shapley value) that desks can rationally object to. The Hungarian National Bank and HFSA, when setting model expectations for banks' Internal Capital Adequacy Assessment Process (ICAAP), should not require both properties simultaneously — the paper shows it is mathematically impossible.",
+  "policy_relevance_hu": "A banki tőkeszabályozás és a belső kockázat-keret-elosztás szempontjából érdekes minden olyan intézménynek, amely koherens kockázati mértékkel állít üzletági limiteket (Várható Hiány a Bázel III-ban; Szolvencia II a biztosítóknál). Az eredmény azt jelenti, hogy a felügyelet és a kockázati igazgatók választani kényszerülnek: vagy stabil, koalíció-mentes elosztás, amely félreárazza a marginális kockázatot, vagy marginális-kockázatot tisztelő elosztás (Shapley-érték), amelyet az üzletágak racionálisan kifogásolhatnak. Az MNB-nek a bankok ICAAP-elvárásai során nem szabad egyszerre megkövetelnie mindkét tulajdonságot — a tanulmány bizonyítja, hogy ez matematikailag lehetetlen.",
+  "topics": [
+    "banking-finance",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W2112761158"
 }

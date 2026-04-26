@@ -18,19 +18,24 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "A hosszú távon befektetők (például nyugdíjalapok, céldátum-eszközalapok és fiatal befektetők) számára fontos kérdés, hogy mennyire kockázatos hosszú távon részvényt tartani. Tanulmányunk a spektrális kockázati mértékeket helyezi középpontba, amelyek a vizsgált kitettségek lehetséges veszteségeit úgy átlagolják, hogy a nagyobb veszteségek nagyobb súlyt kapnak. A kitettséget a kockázatmentes bankbetét és a részvényárfolyam különbségének választva, a spektrális kockázatra tekinthetünk úgy, mint annak a mértékére, hogy a befektető átlagosan mennyire fogja azt bánni, hogy kockázatmentes bankbetét helyett részvényekbe fektetett. Tanulmányunkban illusztráljuk Bihary és szerzőtársai [2018] eredményeit, amelyek analitikusan megmutatták, hogy a részvénytartás spektrális kockázata kellően hosszú távon csökken, sőt negatív lesz. Ugyanakkor numerikusan azt tapasztaljuk, hogy az elviselhető kockázathoz legalább száz évet kell várnunk.*&#13;\\nJournal of Economic Literature (JEL) kód: G11.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "How risky is it to hold equities for the long run? For pension funds, target-date funds, and young investors, the answer matters. Bihary, Csóka and Kondor study spectral risk measures — which weight bigger losses more heavily than smaller ones — applied to the gap between the equity return and the risk-free rate. The paper shows analytically that the spectral risk of holding equities declines as the holding horizon lengthens, and even turns negative at sufficiently long horizons. Numerically, however, getting to a tolerable risk level requires waiting at least a hundred years — far longer than any individual investment horizon. The 'stocks for the long run' intuition is mathematically true but practically unhelpful.",
+  "summary_hu": "Mennyire kockázatos hosszú távon részvényt tartani? A nyugdíjalapok, céldátum-alapok és fiatal befektetők számára ez kulcskérdés. Bihary, Csóka és Kondor a spektrális kockázati mértékeket vizsgálja — ezek a nagyobb veszteségeket nagyobb súllyal veszik figyelembe — a részvényhozam és a kockázatmentes kamat különbségére alkalmazva. A tanulmány analitikusan megmutatja, hogy a részvénytartás spektrális kockázata a tartási idő növekedésével csökken, és kellően hosszú távon negatívvá válik. Numerikusan azonban a tolerálható kockázatszint eléréséhez legalább száz évet kell várni — ami egyetlen egyéni befektetési időtávot is messze meghalad. A 'hosszú távon a részvény nyer' intuíció matematikailag igaz, gyakorlatilag azonban nem használható.",
+  "data_used": "Theoretical asset-pricing model, with calibrations to standard equity-premium parameters. The illustration is numerical rather than empirical — long-horizon returns are simulated under standard log-normal assumptions; no Hungarian or country-specific equity series is used.",
+  "data_used_hu": "Elméleti eszközárazási modell, standard részvényprémium-paraméterekre kalibrálva. Az illusztráció numerikus, nem empirikus — a hosszú távú hozamokat standard log-normális feltevések mellett szimulálják; nem használnak magyar vagy országspecifikus részvényhozam-sorozatot.",
+  "policy_relevance": "Direct relevance for default-investment design in second- and third-pillar pension systems. The Hungarian voluntary pension fund (önkéntes nyugdíjpénztár) regulation and the proposed third-pillar reforms must decide how aggressive default equity allocations should be by member age. This paper undermines the casual 'stocks beat bonds in the long run' argument used to justify high equity weights for younger members: while technically correct, the time scales required exceed working lifetimes. Regulators (MNB, NGM) should be sceptical of glide-path designs that rely on that argument and instead cite shorter-horizon Sharpe-ratio evidence or human-capital arguments.",
+  "policy_relevance_hu": "Közvetlen relevanciája van a második és harmadik pilléres nyugdíjrendszerek alapértelmezett befektetési keverékének kialakításához. A magyar önkéntes nyugdíjpénztári szabályozás és a tervezett harmadik-pilléres reformok mind döntést igényelnek arról, hogy a tagok életkora szerint mennyire agresszív legyen az alapértelmezett részvényarány. A tanulmány aláássa a hétköznapi 'hosszú távon a részvény nyer' érvet, amellyel a fiatalabb tagok magas részvényarányát szokás indokolni: matematikailag igaz, de a hozzá szükséges időtáv meghaladja a munkás életet. Az MNB és az NGM szabályozóknak körültekintően kell kezelnie az erre az érvre épülő életciklus-portfóliókat, és inkább rövidebb időtávú Sharpe-mutatókkal vagy emberi-tőke érvekkel kell érvelni.",
+  "topics": [
+    "banking-finance",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W2885180853"
 }

@@ -75,7 +75,7 @@
       "review_status": "needs-verification",
       "openalex_id": "A5039472254",
       "paper_count": 11,
-      "policy_count": 12,
+      "policy_count": 11,
       "press_count": 0
     },
     {
@@ -2677,7 +2677,7 @@
       "review_status": "needs-verification",
       "openalex_id": "A5058999948",
       "paper_count": 15,
-      "policy_count": 0,
+      "policy_count": 1,
       "press_count": 22
     },
     {
@@ -10251,20 +10251,25 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "A hosszú távon befektetők (például nyugdíjalapok, céldátum-eszközalapok és fiatal befektetők) számára fontos kérdés, hogy mennyire kockázatos hosszú távon részvényt tartani. Tanulmányunk a spektrális kockázati mértékeket helyezi középpontba, amelyek a vizsgált kitettségek lehetséges veszteségeit úgy átlagolják, hogy a nagyobb veszteségek nagyobb súlyt kapnak. A kitettséget a kockázatmentes bankbetét és a részvényárfolyam különbségének választva, a spektrális kockázatra tekinthetünk úgy, mint annak a mértékére, hogy a befektető átlagosan mennyire fogja azt bánni, hogy kockázatmentes bankbetét helyett részvényekbe fektetett. Tanulmányunkban illusztráljuk Bihary és szerzőtársai [2018] eredményeit, amelyek analitikusan megmutatták, hogy a részvénytartás spektrális kockázata kellően hosszú távon csökken, sőt negatív lesz. Ugyanakkor numerikusan azt tapasztaljuk, hogy az elviselhető kockázathoz legalább száz évet kell várnunk.*&#13;\\nJournal of Economic Literature (JEL) kód: G11.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "summary_en": "How risky is it to hold equities for the long run? For pension funds, target-date funds, and young investors, the answer matters. Bihary, Csóka and Kondor study spectral risk measures — which weight bigger losses more heavily than smaller ones — applied to the gap between the equity return and the risk-free rate. The paper shows analytically that the spectral risk of holding equities declines as the holding horizon lengthens, and even turns negative at sufficiently long horizons. Numerically, however, getting to a tolerable risk level requires waiting at least a hundred years — far longer than any individual investment horizon. The 'stocks for the long run' intuition is mathematically true but practically unhelpful.",
+      "summary_hu": "Mennyire kockázatos hosszú távon részvényt tartani? A nyugdíjalapok, céldátum-alapok és fiatal befektetők számára ez kulcskérdés. Bihary, Csóka és Kondor a spektrális kockázati mértékeket vizsgálja — ezek a nagyobb veszteségeket nagyobb súllyal veszik figyelembe — a részvényhozam és a kockázatmentes kamat különbségére alkalmazva. A tanulmány analitikusan megmutatja, hogy a részvénytartás spektrális kockázata a tartási idő növekedésével csökken, és kellően hosszú távon negatívvá válik. Numerikusan azonban a tolerálható kockázatszint eléréséhez legalább száz évet kell várni — ami egyetlen egyéni befektetési időtávot is messze meghalad. A 'hosszú távon a részvény nyer' intuíció matematikailag igaz, gyakorlatilag azonban nem használható.",
+      "data_used": "Theoretical asset-pricing model, with calibrations to standard equity-premium parameters. The illustration is numerical rather than empirical — long-horizon returns are simulated under standard log-normal assumptions; no Hungarian or country-specific equity series is used.",
+      "data_used_hu": "Elméleti eszközárazási modell, standard részvényprémium-paraméterekre kalibrálva. Az illusztráció numerikus, nem empirikus — a hosszú távú hozamokat standard log-normális feltevések mellett szimulálják; nem használnak magyar vagy országspecifikus részvényhozam-sorozatot.",
+      "policy_relevance": "Direct relevance for default-investment design in second- and third-pillar pension systems. The Hungarian voluntary pension fund (önkéntes nyugdíjpénztár) regulation and the proposed third-pillar reforms must decide how aggressive default equity allocations should be by member age. This paper undermines the casual 'stocks beat bonds in the long run' argument used to justify high equity weights for younger members: while technically correct, the time scales required exceed working lifetimes. Regulators (MNB, NGM) should be sceptical of glide-path designs that rely on that argument and instead cite shorter-horizon Sharpe-ratio evidence or human-capital arguments.",
+      "policy_relevance_hu": "Közvetlen relevanciája van a második és harmadik pilléres nyugdíjrendszerek alapértelmezett befektetési keverékének kialakításához. A magyar önkéntes nyugdíjpénztári szabályozás és a tervezett harmadik-pilléres reformok mind döntést igényelnek arról, hogy a tagok életkora szerint mennyire agresszív legyen az alapértelmezett részvényarány. A tanulmány aláássa a hétköznapi 'hosszú távon a részvény nyer' érvet, amellyel a fiatalabb tagok magas részvényarányát szokás indokolni: matematikailag igaz, de a hozzá szükséges időtáv meghaladja a munkás életet. Az MNB és az NGM szabályozóknak körültekintően kell kezelnie az erre az érvre épülő életciklus-portfóliókat, és inkább rövidebb időtávú Sharpe-mutatókkal vagy emberi-tőke érvekkel kell érvelni.",
+      "topics": [
+        "banking-finance",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-26",
+      "review_status": "ai-drafted",
       "openalex_id": "W2885180853"
     },
     {
@@ -13362,20 +13367,25 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Az arányos csődszabály első használata egészen Arisztotelészig vezethető vissza. A tanulmányban olyan pénzügyi hálózatokat vizsgálunk, ahol az ágenseknek van induló pénzkészlete, és mindenki tartozhat mindenkinek. Egy adott pénzügyi hálózatban a csődszabály meghatároz egy fizetési mátrixot, amelynek elemei megmondják, hogy ki mennyit fizessen a többi szereplőnek. Egy szereplő eszközei az induló pénzkészletéből és a többiektől kapott fizetésekből állnak. A rendszerkockázati irodalomban gyakran használt arányos csődszabály azt követeli meg, hogy az ágensek a tartozásaikkal arányosan fizessenek eszközeikből, maximum a tartozások erejéig. Ha érvényes az arányos csődszabály, akkor az eszközök értéke endogén módon határozódik meg, mivel a fizetések egymástól függhetnek. Cikkünkben részletesen bemutatjuk az arányos csődszabály egyik karakterizációját, olyan tulajdonságokat, amelyek közül mindegyiket csak ez a csődszabály teljesíti: a követelések felsőkorlát-jellegét, a korlátolt felelősséget, a hitelezők elsőbbségét, a pártatlanságot, az azonos ágensek általi manipulálhatatlanságot és a folytonosságot.* Journal of Economic Literature (JEL) kód: C71, G10.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "summary_en": "When firms in a network owe each other money and can't all pay in full, who pays whom how much? Csóka studies the proportional bankruptcy rule — every agent pays each creditor in proportion to what is owed, capped at total assets — for financial networks where everyone holds initial cash and everyone can owe everyone. Because asset values depend endogenously on what others pay, payments are simultaneously determined. The paper provides an axiomatic characterisation of the rule: it is the unique payment rule that simultaneously satisfies upper-bounded claims, limited liability, creditor priority, impartiality, manipulation-proofness by identical agents, and continuity. The result dates back conceptually to Aristotle but is freshly relevant for systemic-risk modelling.",
+      "summary_hu": "Amikor egy hálózatban a szereplők egymásnak tartoznak, és nem mindenki tud teljesen fizetni, ki kinek mennyit fizessen? Csóka olyan pénzügyi hálózatokban vizsgálja az arányos csődszabályt — mindenki a tartozásokkal arányosan fizet eszközei erejéig —, ahol minden ágensnek van induló pénzkészlete és bárki bárkinek tartozhat. Mivel az eszközértékek endogén módon függnek mások fizetéseitől, a fizetések egyidejűleg határozódnak meg. A tanulmány axiomatikus karakterizációt ad: az arányos szabály az egyetlen olyan, amely egyszerre teljesíti a követelések felső korlátját, a korlátolt felelősséget, a hitelezők elsőbbségét, a pártatlanságot, az azonos ágensek általi manipulálhatatlanságot és a folytonosságot. A szabály fogalma Arisztotelészig vezethető vissza, de a rendszerszintű kockázat modellezésében újra aktuális.",
+      "data_used": "Axiomatic analysis on financial networks. The model abstracts agents holding cash and bilateral debt obligations; no empirical data. The contribution is the uniqueness theorem characterising the proportional rule by six properties.",
+      "data_used_hu": "Axiomatikus elemzés pénzügyi hálózatokon. A modell pénzkészlettel és kétoldalú tartozásokkal rendelkező ágenseket absztrahál; empirikus adat nélkül. A hozzájárulás az egyértelműségi tétel, amely az arányos szabályt hat tulajdonsággal jellemzi.",
+      "policy_relevance": "Underpins how regulators and central banks should model contagion in interbank and cross-border financial networks. The Eisenberg-Noe and follow-on systemic-risk frameworks used by central banks (including the MNB) and the ECB rely on the proportional rule; this paper supplies its full axiomatic justification. For Hungarian financial-stability authorities running stress tests on the interbank network, the result clarifies which fairness properties are baked in — and which (e.g. concern for size of small creditors) are intentionally not. Regulators wanting to depart from proportionality must explicitly drop one of the six axioms.",
+      "policy_relevance_hu": "Ezt a szabályt használják a jegybankok és a felügyelet a bankközi és határokon átnyúló pénzügyi hálózatok fertőzési modelljeiben. Az Eisenberg-Noe-féle és az erre épülő rendszerszintű kockázati keretek (amelyeket az MNB és az EKB is alkalmaz) az arányos szabályt veszik alapul; ez a tanulmány adja ennek teljes axiomatikus indoklását. A magyar pénzügyi stabilitási hatóságok a bankközi hálózat stressztesztjei során így pontosan tudják, mely tisztességességi tulajdonságok épülnek be a modellbe — és melyek (például a kis hitelezők védelme) szándékosan nem. Aki el akar térni az arányos szabálytól, annak explicit módon fel kell adnia a hat axióma egyikét.",
+      "topics": [
+        "banking-finance",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-26",
+      "review_status": "ai-drafted",
       "openalex_id": "W2752712504"
     },
     {
@@ -13960,20 +13970,25 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Gyakran felmerül az a kérdés, hogy hogyan válasszunk igazságos delegációt, olyan bizottságot, amely például békekonferencián, társadalmi, vállalati vagy akár egyetemi döntés-előkészítésben reprezentálja az érintettek véleményét. Can és szerzőtársai [2017] olyan delegációkiválasztási szabályokat vizsgál, amelyek eleget tesznek a Pareto-hatékonyság, a konzisztencia, a szavazatprofil-semlegesség és a csalásbiztosság axiómájának. A tanulmány szerzői belátják, hogy ezek az axiómák egy küszöbön alapuló szabálycsaládot karakterizálnak, amelyben a legtöbb szavazatot kapó vélemény mindig bejut a bizottságba, utána viszont a konkrét szabálytól és a szavazatoktól függően két extrém helyzet alakulhat ki. Vagy minden véleményt reprezentálnak, vagy t delegált esetén azoknak az egyéneknek az aránya, akiknek a véleménye nem reprezentált, mindig 0,5t alatt van. Tanulmányunkban a társadalmi választások elméleti keretét használva illusztráljuk az axiómákat és az eredményeket.* Journal of Economic Literature (JEL) kód: C70, D71.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "summary_en": "How should one pick a 'fair' delegation — a committee that represents stakeholders' views at a peace conference, on a corporate or university body, or any decision-preparation panel? Csóka and Kondor work in social-choice theory and revisit a result by Can et al. (2017): the only rules satisfying Pareto efficiency, consistency, vote-profile neutrality, and strategy-proofness are threshold-based — the most-voted opinion always gets a seat, after which two extremes appear depending on the threshold. Either every opinion is represented, or with t delegates at most half-of-t opinions stay unrepresented. The paper builds on the social-choice framework to illustrate the axioms and explain when each extreme applies.",
+      "summary_hu": "Hogyan válasszunk 'igazságos' delegációt — olyan bizottságot, amely békekonferencián, vállalati vagy egyetemi döntés-előkészítésben reprezentálja az érintettek véleményét? Csóka és Kondor a társadalmi választások elméletében dolgozik, és Can és szerzőtársai (2017) eredményét értelmezi újra: az egyetlen olyan szabály, amely teljesíti a Pareto-hatékonyságot, a konzisztenciát, a szavazatprofil-semlegességet és a csalásbiztosságot, küszöbalapú — a legtöbb szavazatot kapó vélemény mindig bejut, ezután a küszöbtől függően két szélsőség alakulhat ki. Vagy minden véleményt reprezentálnak, vagy t delegált esetén az emberek legfeljebb fele-t-arányának véleménye reprezentálatlan marad. A tanulmány a társadalmi választások keretét használva illusztrálja az axiómákat és magyarázza, mikor melyik szélsőség alkalmazandó.",
+      "data_used": "Social-choice axiomatic analysis. No empirical data; the paper interprets and illustrates a theorem in a framework of voters expressing opinions over options, where committees are selected by deterministic rules.",
+      "data_used_hu": "Társadalmi-választási axiomatikus elemzés. Empirikus adat nélkül; a tanulmány a szavazók véleményt nyilvánító modelljében értelmezi és illusztrálja a tételt, ahol a bizottságokat determinisztikus szabályok választják.",
+      "policy_relevance": "Speaks directly to delegation-selection in Hungarian institutions where committee design is contested: the National Bank's Monetary Council, university senates, the Hungarian Chamber of Commerce delegations, and EU Council voting weights. The result tells policymakers that the four desirable axioms (efficiency, consistency, neutrality, strategy-proofness) lock them into a narrow family of threshold rules — and that within this family, choosing the threshold is the politically loaded decision. There is no truly 'neutral' rule; the threshold sets whether minority views are guaranteed representation.",
+      "policy_relevance_hu": "Közvetlen relevanciája van olyan magyar intézményekben, ahol a bizottsági összetétel tervezése vitatott: az MNB Monetáris Tanácsa, egyetemi szenátusok, a Magyar Kereskedelmi és Iparkamara küldöttségei és az EU Tanács szavazati súlyai. Az eredmény azt mondja a döntéshozóknak, hogy a négy kívánatos axióma (hatékonyság, konzisztencia, semlegesség, csalásbiztosság) szűk küszöbszabály-családra korlátozza őket — és ezen a családon belül a küszöb megválasztása a politikailag terhelt döntés. Nincs valóban 'semleges' szabály; a küszöb dönti el, hogy a kisebbségi vélemények garantáltan megjelennek-e.",
+      "topics": [
+        "political-economy",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-26",
+      "review_status": "ai-drafted",
       "openalex_id": "W2965600328"
     },
     {
@@ -14044,20 +14059,25 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Abstract Allocating risk properly to subunits is crucial for performance evaluation and internal capital allocation of portfolios held by banks, insurance companies, investment funds and other entities subject to financial risk. We show that by using coherent measures of risk it is impossible to allocate risk satisfying simultaneously the natural game theoretical requirements of Core Compatibility and Strong Monotonicity. To obtain the result we characterize the Shapley value on the class of totally balanced games and also on the class of exact games as being the only risk allocation method satisfying Strong Monotonicity, Equal Treatment Property and Efficiency. Moreover, we clarify and interpret the related game theoretical requirements that have appeared in the literature so far and have been applied to risk allocation.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "summary_en": "How should a bank or insurer attribute the total portfolio risk back to its individual desks or product lines, when desks share losses cooperatively? Csóka and Pintér show this is impossible to do well: using coherent risk measures (the industry-standard family that respects diversification), no allocation rule can satisfy both Core Compatibility (no subset of desks would prefer to break away) and Strong Monotonicity (a desk that becomes riskier never gets a smaller capital charge). The paper characterises the Shapley value as the unique rule satisfying Strong Monotonicity, Equal Treatment, and Efficiency, sharpening earlier game-theoretic results from the risk-allocation literature.",
+      "summary_hu": "Hogyan oszthatja szét egy bank vagy biztosító a teljes portfólió kockázatát az egyes üzletágak között, ha az üzletágak közösen viselik a veszteségeket? Csóka és Pintér megmutatja, hogy ezt nem lehet jól csinálni: koherens kockázati mértékek mellett (ez az iparági standard, amely tiszteletben tartja a diverzifikációt) egyetlen elosztási szabály sem teljesíti egyszerre a Mag-kompatibilitást (egy üzletág-részhalmaz se akarjon kiválni) és az Erős Monotonitást (egy kockázatosabbá váló üzletágra ne essen kisebb tőkekövetelmény). A tanulmány bizonyítja, hogy az Erős Monotonitás, az Egyenlő Bánásmód és a Hatékonyság együttesét egyedül a Shapley-érték elégíti ki — ezzel élesíti a kockázat-elosztási irodalom korábbi játékelméleti eredményeit.",
+      "data_used": "Game-theoretic axiomatic analysis. No empirical data — the paper proves results about the class of totally balanced and exact cooperative games, where coherent risk measures naturally live. Numerical examples illustrate but do not drive the impossibility theorem.",
+      "data_used_hu": "Játékelméleti axiomatikus elemzés. Empirikus adatok nélkül — a tanulmány a teljesen kiegyensúlyozott és egzakt kooperatív játékok osztályára bizonyít eredményeket, ahol a koherens kockázati mértékek természetesen léteznek. Numerikus példák illusztrálják, de nem hajtják a lehetetlenségi tételt.",
+      "policy_relevance": "Affects bank capital regulation and internal risk-budgeting at any institution that sets desk-level limits using a coherent risk measure (Expected Shortfall under Basel III; Solvency II for insurers). The result implies regulators and CROs must choose: either a stable, coalition-proof allocation that may misprice marginal risk, or a marginal-risk-respecting allocation (the Shapley value) that desks can rationally object to. The Hungarian National Bank and HFSA, when setting model expectations for banks' Internal Capital Adequacy Assessment Process (ICAAP), should not require both properties simultaneously — the paper shows it is mathematically impossible.",
+      "policy_relevance_hu": "A banki tőkeszabályozás és a belső kockázat-keret-elosztás szempontjából érdekes minden olyan intézménynek, amely koherens kockázati mértékkel állít üzletági limiteket (Várható Hiány a Bázel III-ban; Szolvencia II a biztosítóknál). Az eredmény azt jelenti, hogy a felügyelet és a kockázati igazgatók választani kényszerülnek: vagy stabil, koalíció-mentes elosztás, amely félreárazza a marginális kockázatot, vagy marginális-kockázatot tisztelő elosztás (Shapley-érték), amelyet az üzletágak racionálisan kifogásolhatnak. Az MNB-nek a bankok ICAAP-elvárásai során nem szabad egyszerre megkövetelnie mindkét tulajdonságot — a tanulmány bizonyítja, hogy ez matematikailag lehetetlen.",
+      "topics": [
+        "banking-finance",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-26",
+      "review_status": "ai-drafted",
       "openalex_id": "W2112761158"
     },
     {
@@ -33022,33 +33042,6 @@
       "review_status": "metadata-fetched"
     },
     {
-      "id": "adamecz-bi-pension-ageing",
-      "title": "Population ageing and strengthened progressivity of pensions: the case of Hungary",
-      "title_hu": null,
-      "authors": [
-        "adamecz-anna"
-      ],
-      "outlet_kind": "report",
-      "outlet": "Budapest Institute",
-      "outlet_issue": null,
-      "institution": null,
-      "year": null,
-      "language": "en",
-      "url": "http://www.budapestinstitute.eu/uploads/challenge61.pdf",
-      "doi": null,
-      "summary_en": null,
-      "summary_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "countries_studied": [],
-      "policy_instruments": [],
-      "linked_paper_id": null,
-      "added_at": "2026-04-25",
-      "last_reviewed_at": "2026-04-25",
-      "review_status": "metadata-fetched"
-    },
-    {
       "id": "altomonte-bekes-2016-bruegel-book",
       "title": "Measuring competitiveness in Europe: resource allocation, granularity and trade",
       "title_hu": null,
@@ -34091,6 +34084,44 @@
       "added_at": "2026-04-25",
       "last_reviewed_at": "2026-04-25",
       "review_status": "metadata-fetched"
+    },
+    {
+      "id": "simonovits-2025-bi-pension-ageing",
+      "title": "Population ageing and strengthened progressivity of pensions: the case of Hungary",
+      "title_hu": "Népességöregedés és a nyugdíjak erősített progresszivitása: a magyar eset",
+      "authors": [
+        "simonovits-andras"
+      ],
+      "outlet_kind": "report",
+      "outlet": "Budapest Institute",
+      "outlet_issue": null,
+      "institution": "Budapest Institute for Policy Analysis",
+      "year": 2025,
+      "language": "en",
+      "url": "http://www.budapestinstitute.eu/uploads/challenge61.pdf",
+      "doi": null,
+      "summary_en": "In Hungary, sustaining the public pension system under rapid population ageing requires more than the conventional levers. Simonovits models seven reform scenarios in a multi-cohort framework calibrated to Hungarian wage and pension data and projects to 2070. Without reform, the balanced contribution rate must rise from 20% in 2015 to 28% by 2063; under an unchanged primary deficit, public debt could exceed 200% of GDP. Indexing the statutory retirement age to life expectancy holds the contribution rate at 22% rather than 28%, but is not sufficient on its own. The paper's central argument is that strengthening progressivity of initial pensions — narrowing the benefit-to-earnings ratio for high earners — is essential, both for fiscal balance and to offset the longevity gap (high earners live longer, so a more progressive system has a lower balanced contribution rate by the Chebyshev sum inequality).",
+      "summary_hu": "A magyar nyugdíjrendszer fenntarthatóságához a gyors népességöregedés mellett több kell, mint a hagyományos eszközök. Simonovits hét reformforgatókönyvet modellez egy többkohortos keretben, magyar bér- és nyugdíjadatokra kalibrálva, 2070-ig kivetítve. Reform nélkül a kiegyensúlyozó járulékkulcs a 2015-ös 20 százalékról 2063-ra 28 százalékra nő; változatlan elsődleges hiány mellett az államadósság a GDP 200 százalékát is meghaladhatja. A nyugdíjkorhatár élettartamhoz indexálása 22 százalékon stabilizálja a járulékkulcsot, de önmagában nem elég. A tanulmány központi állítása, hogy a kezdő nyugdíjak progresszivitásának erősítése — a magas keresetekhez tartozó nyugdíj/kereset arány csökkentése — elengedhetetlen, részben a fiskális egyensúly miatt, részben azért, hogy ellensúlyozza az élettartamrést (a magas keresetűek tovább élnek, így egy progresszívabb rendszerben alacsonyabb a kiegyensúlyozó járulékkulcs, a Csebisev-egyenlőtlenség értelmében).",
+      "policy_relevance": "For Hungarian policymakers (Ministry of National Economy, MNB, social insurance authorities), the paper is a direct critique of the OECD's 2024 Hungarian-pension reform proposal — which combined retirement-age indexation with proportional benefit cuts. Simonovits argues uniform proportional cuts disproportionately harm low-pension recipients and ignore the longevity gap: high earners live longer, so unprogressive systems extract more from the short-lived poor. His central recommendation: combine three levers — gradual contribution-rate increases, retirement-age indexation to life expectancy, AND a flatter ratio of high-to-low initial benefits. Pricing-versus-wage indexation of pensions in payment is a second-order question; the central choice is whether the pension formula itself becomes more progressive.",
+      "policy_relevance_hu": "A magyar döntéshozók (Nemzetgazdasági Minisztérium, MNB, ONYF) számára a tanulmány közvetlen kritikája az OECD 2024-es magyar nyugdíjreform-javaslatának — amely a korhatár indexálását arányos nyugdíjcsökkentéssel kombinálta. Simonovits érvelése szerint az egyenletes arányos csökkentés aránytalanul érinti az alacsony nyugdíjasokat, és figyelmen kívül hagyja az élettartamrést: a magas keresetűek tovább élnek, így a nem-progresszív rendszer többet von el a rövidebb élettartamú alacsony keresetűektől. Központi javaslata három eszköz együttes alkalmazása — fokozatos járulékemelés, a korhatár élettartamhoz indexálása ÉS a magas-alacsony kezdő nyugdíj arány lapításának erősítése. A folyósított nyugdíjak ár- vagy bérindexálása másodrendű kérdés; a központi választás az, hogy maga a nyugdíjképlet legyen-e progresszívabb.",
+      "topics": [
+        "fiscal-tax",
+        "demographics-migration",
+        "inequality-welfare"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "policy_instruments": [
+        "nyugdíjrendszer",
+        "progresszív nyugdíjszámítás",
+        "nyugdíjkorhatár",
+        "járulékkulcs"
+      ],
+      "linked_paper_id": null,
+      "added_at": "2026-04-25",
+      "last_reviewed_at": "2026-04-26",
+      "review_status": "ai-drafted"
     }
   ],
   "press": [
@@ -36417,7 +36448,7 @@
       "policy_framing_en": "Relevant to: family policy, pension system, immigration policy, retention of skilled workers.",
       "policy_framing_hu": "Releváns: családpolitika, nyugdíjrendszer, bevándorláspolitika, szakemberek megtartása.",
       "icon": "users",
-      "paper_count": 19
+      "paper_count": 20
     },
     {
       "id": "trade-fdi",
@@ -36461,7 +36492,7 @@
       "policy_framing_en": "Relevant to: MNB policy, banking regulation, macroprudential tools, financial inclusion.",
       "policy_framing_hu": "Releváns: MNB-politika, bankszabályozás, makroprudenciális eszközök, pénzügyi befogadás.",
       "icon": "landmark",
-      "paper_count": 76
+      "paper_count": 79
     },
     {
       "id": "fiscal-tax",
@@ -36472,7 +36503,7 @@
       "policy_framing_en": "Relevant to: tax reform, budget planning, public debt management, compliance policy.",
       "policy_framing_hu": "Releváns: adóreform, költségvetés-tervezés, államadósság-kezelés, adócompliance.",
       "icon": "coins",
-      "paper_count": 24
+      "paper_count": 25
     },
     {
       "id": "regional-urban",
@@ -36505,7 +36536,7 @@
       "policy_framing_en": "Relevant to: welfare system, anti-poverty programs, family allowances, gender-equal pay policies.",
       "policy_framing_hu": "Releváns: szociális rendszer, szegénység elleni programok, családi pótlékok, egyenlő bérezés.",
       "icon": "scale",
-      "paper_count": 73
+      "paper_count": 74
     },
     {
       "id": "political-economy",
@@ -36516,7 +36547,7 @@
       "policy_framing_en": "Relevant to: anti-corruption policy, public administration reform, EU affairs, electoral system design.",
       "policy_framing_hu": "Releváns: korrupcióellenes politika, közigazgatási reform, EU-ügyek, választási rendszer.",
       "icon": "building-2",
-      "paper_count": 42
+      "paper_count": 43
     },
     {
       "id": "transition-postcommunist",
@@ -36582,7 +36613,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 93
+      "paper_count": 97
     }
   ],
   "journals": [

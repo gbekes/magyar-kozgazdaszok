@@ -17,19 +17,24 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Gyakran felmerül az a kérdés, hogy hogyan válasszunk igazságos delegációt, olyan bizottságot, amely például békekonferencián, társadalmi, vállalati vagy akár egyetemi döntés-előkészítésben reprezentálja az érintettek véleményét. Can és szerzőtársai [2017] olyan delegációkiválasztási szabályokat vizsgál, amelyek eleget tesznek a Pareto-hatékonyság, a konzisztencia, a szavazatprofil-semlegesség és a csalásbiztosság axiómájának. A tanulmány szerzői belátják, hogy ezek az axiómák egy küszöbön alapuló szabálycsaládot karakterizálnak, amelyben a legtöbb szavazatot kapó vélemény mindig bejut a bizottságba, utána viszont a konkrét szabálytól és a szavazatoktól függően két extrém helyzet alakulhat ki. Vagy minden véleményt reprezentálnak, vagy t delegált esetén azoknak az egyéneknek az aránya, akiknek a véleménye nem reprezentált, mindig 0,5t alatt van. Tanulmányunkban a társadalmi választások elméleti keretét használva illusztráljuk az axiómákat és az eredményeket.* Journal of Economic Literature (JEL) kód: C70, D71.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "How should one pick a 'fair' delegation — a committee that represents stakeholders' views at a peace conference, on a corporate or university body, or any decision-preparation panel? Csóka and Kondor work in social-choice theory and revisit a result by Can et al. (2017): the only rules satisfying Pareto efficiency, consistency, vote-profile neutrality, and strategy-proofness are threshold-based — the most-voted opinion always gets a seat, after which two extremes appear depending on the threshold. Either every opinion is represented, or with t delegates at most half-of-t opinions stay unrepresented. The paper builds on the social-choice framework to illustrate the axioms and explain when each extreme applies.",
+  "summary_hu": "Hogyan válasszunk 'igazságos' delegációt — olyan bizottságot, amely békekonferencián, vállalati vagy egyetemi döntés-előkészítésben reprezentálja az érintettek véleményét? Csóka és Kondor a társadalmi választások elméletében dolgozik, és Can és szerzőtársai (2017) eredményét értelmezi újra: az egyetlen olyan szabály, amely teljesíti a Pareto-hatékonyságot, a konzisztenciát, a szavazatprofil-semlegességet és a csalásbiztosságot, küszöbalapú — a legtöbb szavazatot kapó vélemény mindig bejut, ezután a küszöbtől függően két szélsőség alakulhat ki. Vagy minden véleményt reprezentálnak, vagy t delegált esetén az emberek legfeljebb fele-t-arányának véleménye reprezentálatlan marad. A tanulmány a társadalmi választások keretét használva illusztrálja az axiómákat és magyarázza, mikor melyik szélsőség alkalmazandó.",
+  "data_used": "Social-choice axiomatic analysis. No empirical data; the paper interprets and illustrates a theorem in a framework of voters expressing opinions over options, where committees are selected by deterministic rules.",
+  "data_used_hu": "Társadalmi-választási axiomatikus elemzés. Empirikus adat nélkül; a tanulmány a szavazók véleményt nyilvánító modelljében értelmezi és illusztrálja a tételt, ahol a bizottságokat determinisztikus szabályok választják.",
+  "policy_relevance": "Speaks directly to delegation-selection in Hungarian institutions where committee design is contested: the National Bank's Monetary Council, university senates, the Hungarian Chamber of Commerce delegations, and EU Council voting weights. The result tells policymakers that the four desirable axioms (efficiency, consistency, neutrality, strategy-proofness) lock them into a narrow family of threshold rules — and that within this family, choosing the threshold is the politically loaded decision. There is no truly 'neutral' rule; the threshold sets whether minority views are guaranteed representation.",
+  "policy_relevance_hu": "Közvetlen relevanciája van olyan magyar intézményekben, ahol a bizottsági összetétel tervezése vitatott: az MNB Monetáris Tanácsa, egyetemi szenátusok, a Magyar Kereskedelmi és Iparkamara küldöttségei és az EU Tanács szavazati súlyai. Az eredmény azt mondja a döntéshozóknak, hogy a négy kívánatos axióma (hatékonyság, konzisztencia, semlegesség, csalásbiztosság) szűk küszöbszabály-családra korlátozza őket — és ezen a családon belül a küszöb megválasztása a politikailag terhelt döntés. Nincs valóban 'semleges' szabály; a küszöb dönti el, hogy a kisebbségi vélemények garantáltan megjelennek-e.",
+  "topics": [
+    "political-economy",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W2965600328"
 }

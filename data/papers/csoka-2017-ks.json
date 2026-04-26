@@ -16,19 +16,24 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Az arányos csődszabály első használata egészen Arisztotelészig vezethető vissza. A tanulmányban olyan pénzügyi hálózatokat vizsgálunk, ahol az ágenseknek van induló pénzkészlete, és mindenki tartozhat mindenkinek. Egy adott pénzügyi hálózatban a csődszabály meghatároz egy fizetési mátrixot, amelynek elemei megmondják, hogy ki mennyit fizessen a többi szereplőnek. Egy szereplő eszközei az induló pénzkészletéből és a többiektől kapott fizetésekből állnak. A rendszerkockázati irodalomban gyakran használt arányos csődszabály azt követeli meg, hogy az ágensek a tartozásaikkal arányosan fizessenek eszközeikből, maximum a tartozások erejéig. Ha érvényes az arányos csődszabály, akkor az eszközök értéke endogén módon határozódik meg, mivel a fizetések egymástól függhetnek. Cikkünkben részletesen bemutatjuk az arányos csődszabály egyik karakterizációját, olyan tulajdonságokat, amelyek közül mindegyiket csak ez a csődszabály teljesíti: a követelések felsőkorlát-jellegét, a korlátolt felelősséget, a hitelezők elsőbbségét, a pártatlanságot, az azonos ágensek általi manipulálhatatlanságot és a folytonosságot.* Journal of Economic Literature (JEL) kód: C71, G10.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "When firms in a network owe each other money and can't all pay in full, who pays whom how much? Csóka studies the proportional bankruptcy rule — every agent pays each creditor in proportion to what is owed, capped at total assets — for financial networks where everyone holds initial cash and everyone can owe everyone. Because asset values depend endogenously on what others pay, payments are simultaneously determined. The paper provides an axiomatic characterisation of the rule: it is the unique payment rule that simultaneously satisfies upper-bounded claims, limited liability, creditor priority, impartiality, manipulation-proofness by identical agents, and continuity. The result dates back conceptually to Aristotle but is freshly relevant for systemic-risk modelling.",
+  "summary_hu": "Amikor egy hálózatban a szereplők egymásnak tartoznak, és nem mindenki tud teljesen fizetni, ki kinek mennyit fizessen? Csóka olyan pénzügyi hálózatokban vizsgálja az arányos csődszabályt — mindenki a tartozásokkal arányosan fizet eszközei erejéig —, ahol minden ágensnek van induló pénzkészlete és bárki bárkinek tartozhat. Mivel az eszközértékek endogén módon függnek mások fizetéseitől, a fizetések egyidejűleg határozódnak meg. A tanulmány axiomatikus karakterizációt ad: az arányos szabály az egyetlen olyan, amely egyszerre teljesíti a követelések felső korlátját, a korlátolt felelősséget, a hitelezők elsőbbségét, a pártatlanságot, az azonos ágensek általi manipulálhatatlanságot és a folytonosságot. A szabály fogalma Arisztotelészig vezethető vissza, de a rendszerszintű kockázat modellezésében újra aktuális.",
+  "data_used": "Axiomatic analysis on financial networks. The model abstracts agents holding cash and bilateral debt obligations; no empirical data. The contribution is the uniqueness theorem characterising the proportional rule by six properties.",
+  "data_used_hu": "Axiomatikus elemzés pénzügyi hálózatokon. A modell pénzkészlettel és kétoldalú tartozásokkal rendelkező ágenseket absztrahál; empirikus adat nélkül. A hozzájárulás az egyértelműségi tétel, amely az arányos szabályt hat tulajdonsággal jellemzi.",
+  "policy_relevance": "Underpins how regulators and central banks should model contagion in interbank and cross-border financial networks. The Eisenberg-Noe and follow-on systemic-risk frameworks used by central banks (including the MNB) and the ECB rely on the proportional rule; this paper supplies its full axiomatic justification. For Hungarian financial-stability authorities running stress tests on the interbank network, the result clarifies which fairness properties are baked in — and which (e.g. concern for size of small creditors) are intentionally not. Regulators wanting to depart from proportionality must explicitly drop one of the six axioms.",
+  "policy_relevance_hu": "Ezt a szabályt használják a jegybankok és a felügyelet a bankközi és határokon átnyúló pénzügyi hálózatok fertőzési modelljeiben. Az Eisenberg-Noe-féle és az erre épülő rendszerszintű kockázati keretek (amelyeket az MNB és az EKB is alkalmaz) az arányos szabályt veszik alapul; ez a tanulmány adja ennek teljes axiomatikus indoklását. A magyar pénzügyi stabilitási hatóságok a bankközi hálózat stressztesztjei során így pontosan tudják, mely tisztességességi tulajdonságok épülnek be a modellbe — és melyek (például a kis hitelezők védelme) szándékosan nem. Aki el akar térni az arányos szabálytól, annak explicit módon fel kell adnia a hat axióma egyikét.",
+  "topics": [
+    "banking-finance",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W2752712504"
 }
