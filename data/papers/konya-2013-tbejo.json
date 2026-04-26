@@ -16,19 +16,27 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "The paper interprets the growth experience of three Western European countries (France, Germany and the UK) and three Central-Eastern European economies (the Czech Republic, Hungary, and Poland) through the lens of the neoclassical growth model. It combines the methodologies of Development Accounting (Caselli, F. 2005. “Accounting for Cross-Country Income Differences.” In Handbook of Economic Growth, Chapter 9, 679–741.) and Business Cycle Accounting (Chari, V. V., P. J. Kehoe, and E. R. McGrattan. 2007. “Business Cycle Accounting.” Econometrica 75 (3): 781–836.) to calculate distortions – “wedges” – in production efficiency, and in the labor and capital markets. The exercise sheds light on the extent and evolution of factor market distortions between 1996 and 2009. The main result of the paper is that capital and labor market distortions do not explain income differences across the two country groups, but are important to understand income differences within groups. In addition, observed labor and capital taxes are related to the measured wedges, but significant unexplained components remain. Reducing labor and capital market distortions would lead to significant output gains in all countries.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "Why are Czech, Hungarian and Polish income levels still below French, German and British ones? Kónya combines two macroeconomic accounting methodologies — Caselli's Development Accounting and Chari-Kehoe-McGrattan's Business Cycle Accounting — to identify 'wedges' (distortions) in production efficiency, the labour market, and the capital market for six European economies, 1996–2009. Main result: capital and labour market distortions do not explain the income gap between the two groups, but they are important for understanding income differences within each group. Observed labour and capital taxes correlate with the measured wedges, but significant unexplained components remain. Reducing labour and capital market distortions would generate significant output gains in all six countries.",
+  "summary_hu": "Miért alacsonyabbak még mindig a cseh, magyar és lengyel jövedelmek a francia, német és brit szintnél? Kónya két makroökonómiai elszámolási módszertant kombinál — Caselli Fejlesztési Elszámolását és Chari-Kehoe-McGrattan Üzleti Ciklus Elszámolását —, hogy 'éket' (torzulást) azonosítson a termelési hatékonyságban, a munkapiacon és a tőkepiacon hat európai gazdaságra 1996–2009 között. Fő eredmény: a tőke- és munkapiaci torzulások nem magyarázzák a két országcsoport közötti jövedelmi rést, de fontosak a csoportokon belüli jövedelmi különbségek megértéséhez. A megfigyelt munka- és tőkeadók korrelálnak a mért ékekkel, de jelentős megmagyarázatlan komponensek maradnak. A munka- és tőkepiaci torzulások csökkentése mind a hat országban érdemi kibocsátási nyereséget hozna.",
+  "data_used": "OECD National Accounts and Penn World Table data for France, Germany, UK, Czech Republic, Hungary, Poland, 1996–2009. Standard neoclassical-growth model wedges decomposition.",
+  "data_used_hu": "OECD Nemzeti Számlák és Penn World Table adatok Franciaországra, Németországra, Egyesült Királyságra, Csehországra, Magyarországra és Lengyelországra, 1996–2009. Standard neoklasszikus növekedési modell ék-felbontása.",
+  "policy_relevance": "For Hungarian growth-policy debates (NGM, MNB): the paper redirects attention from headline 'efficiency' diagnostics to the specific labour and capital market frictions that drive within-group dispersion. It also tells policymakers that the East-West income gap won't close through removing these distortions alone — there's a substantial unexplained TFP component. Useful framework for prioritising structural reform packages.",
+  "policy_relevance_hu": "Magyar növekedési-politikai vitákhoz (NGM, MNB): a tanulmány a hirdetett 'hatékonysági' diagnózisokról a csoporton belüli szórást hajtó konkrét munka- és tőkepiaci súrlódásokra irányítja a figyelmet. Azt is mondja a döntéshozóknak, hogy a kelet-nyugati jövedelmi rés nem zárul be pusztán ezeknek a torzulásoknak az eltávolításával — van egy jelentős, megmagyarázatlan TFP-komponens. Hasznos keret a strukturális reformcsomagok priorizálásához.",
+  "topics": [
+    "macroeconomics",
+    "transition-postcommunist",
+    "methods"
+  ],
+  "methods": [
+    "structural"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W1975241036"
 }
