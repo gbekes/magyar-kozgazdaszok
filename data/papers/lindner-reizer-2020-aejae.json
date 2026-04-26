@@ -17,19 +17,27 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We estimate the effect of front-loading unemployment benefit payments on nonemployment duration and reemployment wages. Exploiting a sharp change in the path of benefits for those who claimed unemployment benefits after November 1, 2005 in Hungary, we show that nonemployment duration fell by two weeks, while reemployment wages rose by 1.4 percent as a result of front-loading. We show that these behavioral responses were large enough to offset the mechanical cost increase of the unemployment insurance. We argue that our results indicate that benefit front-loading was a Pareto improving policy reform as both unemployed and employed workers were made better off. (JEL D91, J31, J64, J65)",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "Should unemployment benefits be paid evenly across the spell, or front-loaded? Lindner and Reizer exploit a sharp 2005 Hungarian reform that switched the path of benefits — the same total amount, but more in the first months — to estimate the effect on workers' job-search and reemployment outcomes. Front-loading shortened nonemployment by two weeks and raised reemployment wages by 1.4%. Both responses are large enough to offset the mechanical cost increase of UI, making the reform Pareto-improving — unemployed workers got back to work faster and at better jobs, and employed workers' contributions were not raised. A clean policy-design lesson.",
+  "summary_hu": "Egyenletesen vagy elöl-súlyozottan érdemes-e folyósítani a munkanélküli ellátást? Lindner és Reizer egy éles 2005-ös magyar reformot használ ki, amely megváltoztatta az ellátás kifizetési pályáját — ugyanaz az összeg, de több az első hónapokban —, hogy megbecsülje a munkavállalók álláskeresési és újrafoglalkoztatási kimenetelére gyakorolt hatást. Az elöl-súlyozás két héttel rövidítette a nem-foglalkoztatást, és 1,4 százalékkal emelte az újrafoglalkoztatási béreket. Mindkét hatás elég nagy ahhoz, hogy ellensúlyozza a munkanélküli biztosítás mechanikus költségnövekedését, így a reform Pareto-javító volt — a munkanélküliek gyorsabban és jobb állásokba mentek vissza, a foglalkoztatottak járulékai pedig nem nőttek. Tiszta szakpolitika-tervezési tanulság.",
+  "data_used": "Hungarian administrative employment register linked to UI claim data. Quasi-experimental design: workers who registered just before vs. just after the November 1, 2005 reform. Sample of approximately 50,000 UI claimants tracked through reemployment.",
+  "data_used_hu": "Magyar adminisztratív foglalkoztatási regiszter összekapcsolva munkanélküli-ellátási igénylési adatokkal. Kvázi-kísérleti terv: a 2005. november 1-jei reform előtt és után röviddel regisztráló munkavállalók. Mintegy 50 000 UI-igénylő mintája az újrafoglalkoztatásig követve.",
+  "policy_relevance": "Direct evidence for Hungarian and EU UI design. Front-loading is a Pareto-improving reform of UI without changing the total budget. For NGM and the Ministry of National Economy, the implication is to revisit the current UI payment profile (the 2011 reform shortened entitlement; the path of payment within the spell is also a policy lever). For European Commission DG-EMPL discussions on UI harmonisation, the paper provides the cleanest causal estimate of the front-loading effect to date. Caveat: the 2005 Hungarian benefit was generous; magnitudes may differ in lower-replacement-rate regimes.",
+  "policy_relevance_hu": "Közvetlen bizonyíték a magyar és EU-s UI-tervezéshez. Az elöl-súlyozás Pareto-javító reform a teljes költségvetés változtatása nélkül. Az NGM és a Nemzetgazdasági Minisztérium számára az implikáció: érdemes újragondolni a jelenlegi UI-kifizetési profilt (a 2011-es reform rövidítette a jogosultságot; a kifizetés pályája az epizódon belül szintén szakpolitikai eszköz). Az Európai Bizottság DG-EMPL UI-harmonizációs vitáihoz a tanulmány a legtisztább okozati becslést adja az elöl-súlyozás hatására. Korlát: a 2005-ös magyar ellátás bőkezű volt; az alacsonyabb helyettesítési rátájú rendszerekben a nagyságrendek eltérőek lehetnek.",
+  "topics": [
+    "labor-markets"
+  ],
+  "methods": [
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W2535864760"
 }

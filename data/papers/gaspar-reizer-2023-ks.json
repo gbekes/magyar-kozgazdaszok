@@ -17,19 +17,28 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Ebben a tanulmányban a számunkra elérhető legfrissebb, 2021. májusi járulékfizetési adatok alapján következtettünk a 2022. évi minimálbér-emelés várható hatásaira. Az adatok alapján úgy sejtjük, hogy a minimálbér-emelés főként a kisvállalatokat és a szakképzettséget nem igénylő munkaköröket érinti, így az aggregált adatok vizsgálata nem elegendő a minimálbér-emelés hatásainak vizsgálatához. Kutatásunk alapján nem látjuk jelét, hogy a minimálbér melletti zsebbe fizetés széles körű jelenség lenne. Végül a minimálbér adóterhének csökkentése mellett érvelünk.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "What will the 2022 Hungarian minimum-wage hike do? Gáspár and Reizer use the latest available contribution-payment data (May 2021) to forecast the effects of the announced increase. Their analysis flags two findings. First, the hike disproportionately affects small firms and unskilled-occupation jobs, so aggregate-statistics-based assessments will miss the true distributional impact. Second, they find no evidence that 'envelope wages' (cash payments above the minimum, off the books) are widespread — meaning the headline minimum-wage rise will translate fairly directly into reported labour costs for affected firms. They argue for cutting the tax wedge on the minimum wage as the appropriate complementary policy.",
+  "summary_hu": "Mit fog tenni a 2022-es magyar minimálbér-emelés? Gáspár és Reizer a legfrissebb elérhető járulékfizetési adatok (2021 május) alapján vetít a bejelentett emelés hatásaira. Az elemzés két megállapítást emel ki. Először, az emelés aránytalanul érinti a kisvállalatokat és a szakképzettséget nem igénylő munkaköröket, így az aggregált statisztikák nem mutatják meg a valódi eloszlási hatást. Másodszor, nem találnak bizonyítékot arra, hogy a 'borítékos' bérezés (a minimum feletti bejelentetlen készpénzes fizetés) széles körű lenne — vagyis a bejelentett minimálbér-emelés tisztességesen átfordul az érintett cégek bejelentett munkaerőköltségében. A minimálbér adóterhének csökkentését javasolják kiegészítő szakpolitikaként.",
+  "data_used": "Hungarian administrative firm-level contribution-payment data, May 2021. Allows decomposition by firm size, sector, and occupation skill level. Static micro-simulation of the 2022 minimum-wage hike effect.",
+  "data_used_hu": "Magyar adminisztratív cégszintű járulékfizetési adatok, 2021. május. Lehetővé teszi a felbontást cégméret, ágazat és foglalkozási képzettségi szint szerint. A 2022-es minimálbér-emelés hatásának statikus mikroszimulációja.",
+  "policy_relevance": "Direct policy input for NGM and the Pénzügyminisztérium on minimum-wage strategy. Two policy levers identified: (i) keep the minimum wage cuts targeted to small-firm sectors where the bite is largest, and (ii) reduce the tax wedge on the minimum wage rather than only adjusting the gross level. The 'envelope wage is rare' finding affects how to interpret current minimum-wage compliance — argues against assuming widespread evasion when calibrating audit budgets.",
+  "policy_relevance_hu": "Közvetlen szakpolitikai input az NGM és a Pénzügyminisztérium minimálbér-stratégiájához. Két szakpolitikai eszköz azonosítva: (i) a minimálbér-csökkentések maradjanak célzottak a kisvállalati ágazatokra, ahol a hatás a legnagyobb, és (ii) inkább a minimálbér adóterhét csökkentsük, mint csupán a bruttó szintet módosítsuk. A 'borítékos bér ritka' megállapítás befolyásolja, hogy hogyan értelmezzük a jelenlegi minimálbér-megfelelést — érvel az ellenőrzési költségvetés kalibrálásakor a széles körű adóelkerülés feltételezése ellen.",
+  "topics": [
+    "labor-markets",
+    "fiscal-tax"
+  ],
+  "methods": [
+    "structural"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W4364369893"
 }

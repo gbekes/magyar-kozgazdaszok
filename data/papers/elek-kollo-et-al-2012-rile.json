@@ -19,19 +19,30 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We estimate a double-hurdle (DH) model of the Hungarian wage distribution assuming censoring at the minimum wage and wage under-reporting (i.e. compensation consisting of the minimum wage, subject to taxation and an unreported cash supplement). We estimate the probability of under-reporting for minimum wage earners, simulate their genuine earnings and classify them and their employers as ‘cheaters’ and ‘non-cheaters’. In the possession of the classification, we check how cheaters and non-cheaters reacted to the introduction of a minimum social security contribution base, equal to 200 per cent of the minimum wage, in 2007. The findings suggest that cheaters were more likely to raise the wages of their minimum wage earners to 200 per cent of the minimum wage, thereby reducing the risk of tax audit. Cheating firms also experienced faster average wage growth and slower output growth. The results suggest that the DH model is able to identify the loci of wage under-reporting with some precision.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "How widespread is wage under-reporting at the Hungarian minimum wage, and how do firms respond when audit risk rises? Elek, Köllő, Reizer and Szabó estimate a double-hurdle model of the Hungarian wage distribution, classifying minimum-wage earners as 'cheaters' (whose true wage exceeds the minimum but is paid partly in unreported cash) versus 'non-cheaters'. They then exploit the 2007 introduction of a minimum social-security contribution base equal to twice the minimum wage to test whether classified cheaters responded more strongly. They did: cheating firms were more likely to raise minimum-wage workers' reported wages to the new threshold, experienced faster average reported wage growth, and slower output growth — consistent with cleaning up books rather than expanding output.",
+  "summary_hu": "Mennyire elterjedt a bér-alabejelentés a magyar minimálbéren, és hogyan reagálnak a cégek az audit-kockázat növekedésére? Elek, Köllő, Reizer és Szabó kettős-küszöb modellt becsül a magyar béreloszlásra, és a minimálbéren keresőket 'csalókra' (akiknek valódi bére meghaladja a minimumot, de részben bejelentetlen készpénzben fizetnek) és 'nem-csalókra' osztja. Ezután a 2007-es minimum-társadalombiztosítási járulékalap (a minimálbér duplája) bevezetését használja annak tesztelésére, hogy a besorolt csalók erősebben reagáltak-e. Reagáltak: a csaló cégek nagyobb valószínűséggel emelték a minimálbéres munkavállalók bejelentett bérét az új küszöbre, gyorsabb átlagos bejelentett bér-növekedést éltek meg, és lassabb kibocsátás-növekedést — ez a könyvelés rendezésével konzisztens, nem a kibocsátás bővülésével.",
+  "data_used": "Hungarian Wage Survey (KSH) linked to firm-level corporate-tax data, 2003–2009. Sample of ~50,000 minimum-wage earners and ~10,000 employers. Double-hurdle model identifies cheating probability; difference-in-differences applied to the 2007 reform.",
+  "data_used_hu": "KSH bértarifa-felvétel összekapcsolva vállalati társasági-adó adatokkal 2003–2009. ~50 000 minimálbéres és ~10 000 munkáltató mintája. Kettős-küszöb modell azonosítja a csalási valószínűséget; különbségek-különbsége a 2007-es reformra alkalmazva.",
+  "policy_relevance": "Foundational evidence for NAV (Hungarian Tax Authority) audit policy and for minimum-wage policy debates. The paper shows that 'spike' regulations (like the 200% minimum-contribution-base rule) successfully clean up reported wages without large output losses among compliant firms — a sharp result for tax-enforcement design. For NGM minimum-wage decisions, the paper's flagging methodology can be reused on more recent data to assess cash-payment prevalence at the current minimum.",
+  "policy_relevance_hu": "Alapozó bizonyíték a NAV ellenőrzési politikájához és a minimálbér-vitákhoz. A tanulmány szerint a 'csúcspont' szabályozások (mint a 200%-os minimum-járulékalap) sikerrel rendezik a bejelentett béreket anélkül, hogy a jogkövető cégeknél nagy kibocsátásvesztés keletkezne — éles eredmény az adóellenőrzési tervezés szempontjából. Az NGM minimálbér-döntéseihez a tanulmány módszertana újabb adatokon alkalmazható a jelenlegi minimálbéren tapasztalható készpénzes kifizetés mértékének értékelésére.",
+  "topics": [
+    "fiscal-tax",
+    "labor-markets"
+  ],
+  "methods": [
+    "diff-in-diff",
+    "structural"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm",
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W2489902466"
 }

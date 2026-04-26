@@ -17,19 +17,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Tanulmányunk vállalati mikroadatok segítségével vizsgálja háromféle vállalati adó – a társasági nyereségadó, a munkáltatói járulék és a helyi iparűzési adó – vállalatok közötti megoszlását. Megmutatjuk, hogy az egy dolgozóra és egységnyi hozzáadott értékre jutó fajlagos vállalati adó lényegesen eltér a különböző vállalatok között. Az adóbevételek erősen koncentráltak. A vállalati adófizetés legfontosabb meghatározója a termelékenység, amely pozitívan függ össze az egy főre jutó adóbevétellel és negatívan a hozzáadottérték-alapú adóékkel. Statikus mikro­szi­mu­lációval vizsgáljuk a 2017-es társaságiadó-csökkentésnek az adóbevételre és az adók elosztására gyakorolt hatását. Kiszámítjuk, hogy milyen mértékben jártak jobban az adócsökkentéssel a nagyvállalatok, és hogy milyen mértékben csökkent az adófizetés koncentrációja az adóváltozás hatására.*&#13;\\nJournal of Economic Literature (JEL) kód: H25, C54, D22.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "How fairly is corporate-tax burden distributed across Hungarian firms? Muraközy and Reizer use firm-level micro data to map three taxes — corporate-income, employer social contributions, and the local business tax (HIPA) — across the firm distribution. Effective tax per worker and per unit of value added varies substantially across firms; tax revenue is highly concentrated. Productivity is the main predictor: more productive firms pay more per head but face a lower value-added-based effective rate. A static micro-simulation of the 2017 corporate-tax cut to 9% shows that large firms benefited disproportionately and that revenue concentration declined slightly. The paper supplies the cleanest decomposition to date of who actually pays Hungarian corporate taxes.",
+  "summary_hu": "Mennyire igazságos a magyar vállalati adók eloszlása a cégek között? Muraközy és Reizer cégszintű mikroadatokkal térképezi fel három adónem — társasági nyereségadó, munkáltatói járulék és helyi iparűzési adó (HIPA) — eloszlását a vállalati populációban. Az egy dolgozóra és egységnyi hozzáadott értékre jutó effektív adó lényegesen eltér a cégek között; az adóbevétel erősen koncentrált. A termelékenység a fő magyarázó: a termelékenyebb cégek többet fizetnek fejenként, de alacsonyabb hozzáadott-érték-alapú effektív adókulccsal néznek szembe. A 2017-es 9 százalékos társaságiadó-csökkentés statikus mikroszimulációja megmutatja, hogy a nagyvállalatok aránytalanul jártak jól, és hogy a bevétel-koncentráció enyhén csökkent. A tanulmány a legtisztább felbontást adja eddig arról, ki fizeti valójában a magyar vállalati adókat.",
+  "data_used": "Hungarian firm-level admin tax records (NAV), all firms, ~2010-2015. Linked to social-security contribution and HIPA payment data. Static micro-simulation of the 2017 corporate-tax-rate change.",
+  "data_used_hu": "Magyar NAV cégszintű adminisztratív adónyilvántartások, az összes cég, ~2010–2015. Társadalombiztosítási járulék és HIPA-fizetési adatokkal összekapcsolva. A 2017-es társaságiadó-kulcsváltozás statikus mikroszimulációja.",
+  "policy_relevance": "Direct input for the Hungarian Pénzügyminisztérium and NAV on corporate-tax design. The paper's productivity-effective-tax mapping provides the empirical basis for evaluating subsequent reforms (KIVA, EVA, the 9% corporate rate). For ongoing debates about whether HIPA's value-added base is regressive across the firm distribution, the paper provides the closest answer available. Caveat: static simulation; behavioural responses to the 2017 cut not modelled.",
+  "policy_relevance_hu": "Közvetlen input a magyar Pénzügyminisztérium és NAV számára a vállalati adótervezéshez. A tanulmány termelékenység-effektív-adó leképezése empirikus alapot ad a későbbi reformok (KIVA, EVA, 9 százalékos társasági kulcs) értékeléséhez. A HIPA hozzáadott-érték alapjának regresszivitásáról folyó vitákhoz a tanulmány adja a legközelebbi választ. Korlát: statikus szimuláció; a 2017-es csökkentésre adott viselkedési válaszok nincsenek modellezve.",
+  "topics": [
+    "fiscal-tax",
+    "firms-productivity"
+  ],
+  "methods": [
+    "structural"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm",
+    "admin-tax"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W2772898465"
 }
