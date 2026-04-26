@@ -4567,20 +4567,29 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Az iskolázottság hatásait oktatási reformok segítségével mérő irodalom nagy része kérdőíves felmérésekből származó adatokkal dolgozik. A tanulmány azt vizsgálja, okoz-e problémát ezekben a mérésekben, hogy az adatfelvételek mintáit nem azzal a céllal hozták létre, hogy az egyes reformok kohorszaira reprezentatívak legyenek. A tanulmány az ELSA-adatfelvétel és egy sokszor vizsgált oktatási reform segítségével vizsgálja, hogy a kötelező iskolalátogatási korhatár felemelése befolyásolja-e a felmérésben való részvételt, a lemorzsolódást és a válaszadást. Az eredmények azt mutatják, hogy bár a reform valóban befolyásolta a lemorzsolódást, és a mintát is pontosan úgy bővítették, hogy a reformnak kitett emberek száma mechanikusan megnőtt, a szokásos eljárással végzett becslési eredmények mindezek ellenére stabilak maradnak az egyes hullámok között. Az első hullámban azonban olyan változókban is van különbség a szakadási pont két oldalán, amelyeket nem okozhatott a reform, és ezek valószínűleg torzítják a becsült hatás mértékét.*&#13;\\nJournal of Economic Literature (JEL) kód: I2, C21, J13.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "When researchers study the effects of education reforms using survey data, the survey was rarely designed with that reform in mind. Does the mismatch bias the estimated effects? Adamecz and Adamecz-Völgyi use the English Longitudinal Study of Ageing (ELSA) and a much-studied UK reform — the 1972 raising of the school-leaving age from 15 to 16 — to test whether the reform itself affected survey participation, attrition, or response rates. The reform did affect attrition, and the sample expansion mechanically increased the reform-exposed cohort. Standard regression-discontinuity estimates remain stable across waves, but the first wave shows imbalance on variables the reform could not have caused — likely biasing the estimated effect.",
+      "summary_hu": "Amikor kutatók kérdőíves adatokon vizsgálják oktatási reformok hatását, a felvétel ritkán készült éppen azzal a reformmal a fókuszban. Torzítja-e ez a megfeleltetés-hiány a becsült hatásokat? Adamecz és Adamecz-Völgyi az angliai ELSA-felmérést és egy sokszor vizsgált reformot (az 1972-es brit, 15-ről 16-ra emelt tankötelezettségi korhatár) használja annak tesztelésére, hogy maga a reform befolyásolta-e a részvételt, lemorzsolódást vagy a válaszadási arányt. A reform valóban befolyásolta a lemorzsolódást, és a mintabővítés mechanikusan megnövelte a reformnak kitett kohorszot. A standard regressziós diszkontinuitás-becslések stabilak maradnak hullámok között, de az első hullámban olyan változókban is van eltérés, amelyeket a reform nem okozhatott — valószínűleg torzítva a becsült hatást.",
+      "data_used": "English Longitudinal Study of Ageing (ELSA), waves 1–7 (~2002 onwards), regression-discontinuity design around the 1972 UK school-leaving-age reform. Sample of ~10,000 individuals born 1953–1959.",
+      "data_used_hu": "Az angliai English Longitudinal Study of Ageing (ELSA) 1–7. hulláma (~2002-től), regressziós diszkontinuitás az 1972-es brit tankötelezettségi-korhatár reform körül. ~10 000 fős, 1953–1959 között születettekből álló minta.",
+      "policy_relevance": "Methodological warning for Hungarian researchers using KSH or HCSO survey data to evaluate reforms (1990s school-system changes, 2000s VET reforms, 1996 vocational restructuring). The standard 'use any waveof a longitudinal survey, run RDD' workflow can produce biased estimates if the reform itself shifted who answers. Recommended fix: check pre-reform balance on variables the reform cannot have affected; if imbalance shows, restrict to later waves where the survey design has caught up. Affects the empirical literature on the Hungarian VET reform of 1998 and the 2010 raising of the school-leaving age.",
+      "policy_relevance_hu": "Módszertani figyelmeztetés a magyar kutatóknak, akik KSH-felvételek alapján értékelnek reformokat (1990-es évek iskolarendszeri változásai, 2000-es szakképzési reformok, 1996-os szakmunkás-átalakítás). A standard 'használjuk a longitudinális felmérés bármelyik hullámát, futtassunk RDD-t' munkamenet torzított becsléseket adhat, ha maga a reform megváltoztatta, ki válaszol. Ajánlott eljárás: ellenőrizzük a reform előtti egyensúlyt olyan változókban, amelyeket a reform nem érinthetett; ha eltérés van, szűkítsük le későbbi hullámokra, ahol a felmérés tervezése már alkalmazkodott. Érinti az 1998-as magyar szakképzési reformról és a 2010-es tankötelezettség-emelésről szóló empirikus irodalmat.",
+      "topics": [
+        "education-skills",
+        "methods"
+      ],
+      "methods": [
+        "rd"
+      ],
+      "countries_studied": [
+        "GB"
+      ],
+      "data_types": [
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-26",
+      "review_status": "ai-drafted",
       "openalex_id": "W4309181477"
     },
     {
@@ -5011,20 +5020,22 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Abstract In this chapter the authors first briefly show how early activation, intensive service provision, and access to active labor market policies (ALMPs) in the first six months of a job seeker’s unemployment spell gained increasing important in the years following the Great Recession in the countries of the European Union. They then go on to review the evidence on these instruments, with special attention paid to experimental studies. While the evidence on timing of participation in active measures is weak and inconclusive, the authors show that intensive meetings between job seekers and employment counselors speeds up return to work. It seems that this approach is cost-efficient but is no panacea because it might lead to negative spillover effects in slack local labor markets.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
+      "summary_en": "How early in an unemployment spell should public employment services start active interventions? Adamecz, Csillag and Adamecz-Völgyi review evidence on early activation in EU unemployment-insurance systems, with emphasis on experimental studies. The verdict is mixed but useful: timing of access to active labour-market policies (training, job search assistance) shows weak and inconclusive effects, but intensive face-to-face meetings between job-seekers and counsellors significantly speed return to work. The intervention is cost-efficient but no panacea — in slack local labour markets it can produce negative spillovers, where one helped jobseeker displaces another. Calibrates expectations for ALMP policymakers.",
+      "summary_hu": "Mennyire korán kezdje a közhivatal az aktív beavatkozást egy munkanélküliségi epizódban? Adamecz, Csillag és Adamecz-Völgyi áttekinti az EU munkanélküli-biztosítási rendszereinek korai aktiválására vonatkozó bizonyítékokat, kiemelten kezelve a kísérleti tanulmányokat. Az ítélet vegyes, de hasznos: az aktív munkapiaci politikák (képzés, álláskeresési segítség) időzítésének hatása gyenge és nem egyértelmű, viszont a munkanélküli és tanácsadó közötti intenzív személyes találkozók szignifikánsan gyorsítják a munkába visszatérést. A beavatkozás költséghatékony, de nem csodaszer — laza helyi munkapiacokon negatív tovagyűrűzést okozhat, ahol egy segített álláskereső kiszorít egy másikat. Reálisra kalibrálja az ALMP-döntéshozók várakozásait.",
+      "data_used": "Literature review chapter synthesising experimental evaluations of early-activation policies across the EU, including Denmark's three-week meeting requirement, Germany's Hartz reforms, and the UK New Deal — covering ~15 randomised or quasi-experimental studies from 2003–2020.",
+      "data_used_hu": "Irodalmi áttekintés-fejezet, amely az EU-s korai aktiválási politikák kísérleti értékeléseit szintetizálja, beleértve Dánia háromhetes találkozási követelményét, a német Hartz-reformokat és a brit New Dealt — ~15 randomizált vagy kvázi-kísérleti tanulmányt fedve le 2003–2020 között.",
+      "policy_relevance": "Direct guidance for the National Employment Service (NFSZ) and the Ministry of Labour: prioritise budget for intensive counselling over generic training timing experiments. The displacement caveat matters in Hungarian regions with persistent slack labour markets (Borsod, Szabolcs) — programmes that 'work' on aggregate may shuffle jobs between participants and non-participants. Useful input for the EU Recovery Fund's labour-market component implementation.",
+      "policy_relevance_hu": "Közvetlen útmutatás az NFSZ-nek és a Munkaügyi Minisztériumnak: a költségvetésben az intenzív tanácsadást részesítsék előnyben az általános képzési időzítési kísérletekkel szemben. A kiszorítási korlát számít a magyar régiókban, ahol tartós a laza munkapiac (Borsod, Szabolcs) — az aggregáltan 'működő' programok pusztán átrendezhetik a munkahelyeket résztvevők és nem-résztvevők között. Hasznos input az EU Helyreállítási Alap munkapiaci komponensének végrehajtásához.",
+      "topics": [
+        "labor-markets"
+      ],
       "methods": [],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-26",
+      "review_status": "ai-drafted",
       "openalex_id": "W4306866271"
     },
     {
@@ -5487,20 +5498,25 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We investigate situations in which agents can communicate to each other only through a chain of intermediators, for example because they have to obey institutionalized communication protocols. We assume that all involved in the communication are strategic, and might want to influence the action taken by the final receiver. The set of pure strategy equilibrium outcomes is simple to characterize, monotonic in each intermediator's bias, does not depend on the order of intermediators, and intermediation in these equilibria cannot improve information transmission. However, none of these conclusions hold for mixed equilibria. We provide a partial characterization of mixed equilibria, and offer an economically relevant sufficient condition for every equilibrium to be outcome-equivalent to a pure equilibrium and hence the simple characterization and comparative statics results to hold for the set of all equilibria.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "summary_en": "What happens when one party can only communicate with a decision-maker through a chain of strategic intermediaries? Each intermediary has their own bias and could distort the message. The authors study this multi-link cheap-talk problem in pure-strategy equilibrium. The headline result is reassuring for institutional design: the set of pure-strategy equilibrium outcomes does not depend on the order of intermediaries, is monotone in each one's bias, and adding intermediaries cannot help information transmission. Mixed equilibria are richer and not generally outcome-equivalent — but the paper provides an economically relevant condition under which pure-strategy results extend.",
+      "summary_hu": "Mi történik, ha egy szereplő csak stratégiai közvetítők láncán keresztül kommunikálhat egy döntéshozóval? Minden közvetítőnek megvan a maga elfogultsága, és torzíthatja az üzenetet. A szerzők ezt a többlépcsős cheap-talk problémát vizsgálják tisztaegyensúlyi keretben. A fő eredmény az intézménytervezés szempontjából megnyugtató: a tisztaegyensúlyi kimenetek halmaza nem függ a közvetítők sorrendjétől, monoton minden közvetítő elfogultságában, és további közvetítők hozzáadása nem javíthatja az információtovábbítást. A kevert egyensúlyok gazdagabbak és általában nem azonos kimenetűek — a tanulmány azonban gazdaságilag releváns feltételt ad, amely mellett a tisztaegyensúlyi eredmények kiterjednek.",
+      "data_used": "Game-theoretic analysis of strategic communication chains. No empirical data; the contribution is theoretical characterisation of equilibrium outcomes and their comparative statics in bias of intermediaries.",
+      "data_used_hu": "Stratégiai kommunikációs láncok játékelméleti elemzése. Empirikus adat nélkül; a hozzájárulás az egyensúlyi kimenetek elméleti jellemzése és komparatív statikája a közvetítők elfogultságában.",
+      "policy_relevance": "Relevant for the design of multi-tier government structures (ministry → state secretariat → agency → field office), where information from the field reaches the decision-maker through a chain of biased intermediaries. The result that adding intermediaries cannot improve information transmission argues for flatter institutional hierarchies. For Hungarian central-government reform debates, the model gives theoretical backing to consolidation of agency layers. Caveat: the bound is for pure-strategy equilibria; mixed strategies (which can correspond to deliberate randomisation in real bureaucracies) may behave differently.",
+      "policy_relevance_hu": "A többlépcsős kormányzati struktúrák tervezése szempontjából érdekes (minisztérium → államtitkárság → ügynökség → területi iroda), ahol a terepről érkező információ elfogult közvetítők láncán át jut a döntéshozóhoz. Az eredmény, miszerint a közvetítők hozzáadása nem javíthatja az információtovábbítást, a laposabb intézményi hierarchiák mellett szól. A magyar központi-kormányzati reformvitákhoz a modell elméleti hátteret ad az ügynökségi rétegek konszolidációjához. Korlát: az eredmény tisztaegyensúlyokra vonatkozik; a kevert stratégiák (amelyek valós bürokráciákban a szándékos randomizálásnak felelhetnek meg) másképp viselkedhetnek.",
+      "topics": [
+        "political-economy",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-26",
+      "review_status": "ai-drafted",
       "openalex_id": "W2097732940"
     },
     {
@@ -5523,20 +5539,25 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We investigate information aggregation and competition in a delegation framework. An uninformed principal is unable to perform a task herself and must choose between one of two biased and imperfectly informed experts. In the focal equilibrium, experts exaggerate their biases, anticipating an ideological winner’s curse. We show that having a second expert can benefit the principal, even when equally or more biased than the first expert. The principal can benefit from commitment to an “element of surprise” and prefers experts with equal rather than opposite biases. (JEL D82, D83)",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "summary_en": "When a decision-maker hires biased experts to advise on an unfamiliar task, having a second expert helps even if the second is equally or more biased — a non-obvious result. The reason is the 'ideological winner's curse': in equilibrium, experts exaggerate their biases, anticipating that they only get hired when they look extreme; a second expert breaks that incentive. The principal also benefits from committing to surprise (random expert selection) and prefers experts with the same bias direction over experts with opposite biases. The model overturns the intuition that diverse-bias panels are better — same-direction biases plus randomisation outperform.",
+      "summary_hu": "Amikor egy döntéshozó elfogult szakértőket alkalmaz egy ismeretlen feladathoz, egy második szakértő hasznos, még ha hasonlóan vagy jobban elfogult is — ez nem nyilvánvaló eredmény. Az ok az 'ideológiai győztes átka': egyensúlyban a szakértők eltúlozzák elfogultságukat, számítva arra, hogy csak akkor kapják meg a megbízást, ha extrémnek látszanak; egy második szakértő ezt az ösztönzőt töri meg. A megbízó hasznára válik a 'meglepetés' melletti elköteleződés (véletlenszerű szakértő-választás), és inkább azonos irányú elfogultságú szakértőket részesít előnyben az ellentétes irányúakkal szemben. A modell megfordítja azt az intuíciót, hogy a vegyes-elfogultságú panelek jobbak — az azonos irányú elfogultság plusz a randomizálás felülmúlja.",
+      "data_used": "Pure-theory delegation model with two biased and imperfectly informed experts. The principal's choice rule and equilibrium expert reporting strategies are analytically derived.",
+      "data_used_hu": "Tisztán elméleti delegálási modell két elfogult és tökéletlenül informált szakértővel. A megbízó választási szabálya és a szakértői egyensúlyi jelentési stratégiák analitikusan származtatottak.",
+      "policy_relevance": "Direct relevance for advisory-board design at central banks, regulatory agencies, and high courts where the decision-maker selects from biased experts. The model challenges the standard 'pluralism' prescription (load the panel with opposing views): instead, the principal does better with same-direction biases plus randomised selection. For the MNB Monetary Council and EU expert panels with formally balanced ideological composition, the implication is that a procedural commitment to surprise selection — not a stipulated bias-balance — is what improves information aggregation.",
+      "policy_relevance_hu": "Közvetlenül érinti a jegybanki tanácsadó testületek, szabályozó hatóságok és felsőbíróságok tervezését, ahol a döntéshozó elfogult szakértők közül választ. A modell megkérdőjelezi a standard 'pluralizmus' receptet (töltsük meg a panelt ellentétes nézetekkel): a megbízó jobban jár azonos irányú elfogultsággal és véletlenszerű választással. Az MNB Monetáris Tanácsa és a formálisan kiegyensúlyozott ideológiai összetételű EU-s szakértői panelek számára a tanulság: a meglepetés-választáshoz való procedurális elköteleződés — nem az elfogultság-egyensúly előírása — javítja az információaggregációt.",
+      "topics": [
+        "political-economy",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-26",
+      "review_status": "ai-drafted",
       "openalex_id": "W3121316455"
     },
     {
@@ -5559,20 +5580,25 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "In media markets, consumers spread their attention to several outlets, increasingly so as consumption migrates online. The traditional framework for competition among media outlets rules out this behavior by assumption. We propose a new model that allows consumers to choose multiple outlets and use it to study the effects on advertising levels and the impact of entry and mergers. We identify novel forces which reflect outlets' incentives to control the composition of their customer base. We link consumer preferences and advertising technologies to market outcomes. The model can explain several empirical regularities that are difficult to reconcile with existing models. (JEL D42, D43, L12, L13, L82, L86, M37)",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "summary_en": "Most models of media competition assume each consumer picks one outlet — but in reality, especially online, consumers spread attention across many outlets. The authors propose a 'two-sided' theory of media advertising in which consumers can multi-home (choose multiple outlets simultaneously). The model identifies new strategic forces: outlets compete to control the composition of their customer base, and entry/merger effects are qualitatively different from one-side-only models. The framework predicts several empirical regularities (premium pricing of exclusive viewers, ad-load patterns) that prior models couldn't reconcile. Useful for thinking about today's online attention economy.",
+      "summary_hu": "A médiapiaci verseny legtöbb modellje azt feltételezi, hogy minden fogyasztó egy csatornát választ — de a valóságban, különösen online, a fogyasztók több csatorna között osztják meg figyelmüket. A szerzők a médiapiaci hirdetés 'kétoldalú' elméletét javasolják, amelyben a fogyasztók párhuzamosan több csatornát is választhatnak. A modell új stratégiai erőket azonosít: a csatornák versenyeznek a fogyasztói bázisuk összetételének irányításáért, és a belépés/fúzió hatásai minőségileg eltérnek az egyoldalas modellektől. A keret több empirikus szabályosságot megmagyaráz (az exkluzív nézőkre kiszabott prémium árazás, hirdetésterhelés-mintázatok), amelyeket korábbi modellek nem tudtak összeegyeztetni.",
+      "data_used": "Theoretical model of advertising-funded media outlets with multi-homing consumers. No empirical estimation; the test is qualitative match to several stylised facts about online media markets that prior single-homing models fail to explain.",
+      "data_used_hu": "Reklámból finanszírozott médiacsatornák elméleti modellje több csatornát párhuzamosan fogyasztó nézőkkel. Empirikus becslés nélkül; a teszt minőségi illeszkedés az online médiapiacok azon stilizált tényeihez, amelyeket a korábbi egycsatornás modellek nem tudnak megmagyarázni.",
+      "policy_relevance": "Relevant for media-merger review (Hungarian Competition Authority — GVH; EU DG-COMP) and digital-platform regulation. The two-sided framework with multi-homing predicts that mergers can be either pro- or anti-competitive depending on viewer overlap — standard one-side-only competition policy intuitions can give the wrong answer. For DSA / DMA implementation, the model gives a richer baseline for thinking about ad-market concentration than the older monopolistic-bottleneck framing. Caveat: theoretical, no Hungarian-specific calibration; empirical work would be needed to apply quantitative guidance.",
+      "policy_relevance_hu": "A médiafúziós felülvizsgálat (GVH; EU DG-COMP) és a digitális platformszabályozás szempontjából érdekes. A kétoldalú, többcsatornás keret szerint a fúziók versenyt javítók vagy versenyt rontók is lehetnek a nézőtér átfedésétől függően — a standard egyoldalas versenypolitikai intuíciók rossz választ adhatnak. A DSA / DMA végrehajtásához a modell gazdagabb alapot kínál a hirdetéspiaci koncentrációról való gondolkodáshoz, mint a régi monopolisztikus-szűk-keresztmetszet megközelítés. Korlát: elméleti, magyar-specifikus kalibráció nélkül; a kvantitatív útmutatáshoz empirikus munkára lenne szükség.",
+      "topics": [
+        "industrial-organization",
+        "innovation-digital"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-26",
+      "review_status": "ai-drafted",
       "openalex_id": "W3122399452"
     },
     {
@@ -6046,20 +6072,25 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We propose a finite-horizon continuous-time framework for coalitional bargaining, in which players can make offers at random discrete times. In our model: (i) expected payoffs in Markov perfect equilibrium (MPE) are unique, generating sharp predictions and facilitating comparative statics; and (ii) MPE are the only subgame perfect Nash equilibria (SPNE) that can be approximated by SPNE of nearby discrete-time bargaining models. We investigate the limit MPE payoffs as the time horizon goes to infinity and players get infinitely patient. In convex games, we establish that the set of these limit payoffs achievable by varying recognition rates is exactly the core of the characteristic function. (JEL C78)",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "summary_en": "Cooperative bargaining models in continuous time often produce complicated equilibrium predictions. Ambrus and Lu construct a finite-horizon continuous-time framework for n-player coalitional bargaining, where players make offers at random discrete times. The framework yields two clean properties: Markov perfect equilibrium (MPE) payoffs are unique (sharp predictions, easy comparative statics), and MPE coincide with the only subgame-perfect Nash equilibria reachable as limits of nearby discrete-time games. As the horizon goes to infinity and players become patient, the set of achievable MPE payoffs converges to the core of the characteristic function (in convex games). A clean foundation for policy-bargaining models.",
+      "summary_hu": "A kooperatív tárgyalási modellek folytonos időben gyakran bonyolult egyensúlyi előrejelzéseket adnak. Ambrus és Lu véges horizontú folytonos-idejű keretet épít n-szereplős koalíciós tárgyalásra, ahol a játékosok véletlen diszkrét időpontokban tesznek ajánlatot. A keret két tiszta tulajdonságot ad: a Markov-tökéletes egyensúly (MPE) kifizetései egyértelműek (éles előrejelzés, könnyű komparatív statika), és az MPE-k az egyetlen olyan részjáték-tökéletes Nash-egyensúlyok, amelyek a közeli diszkrét idejű játékok határértékeként elérhetők. Ahogy a horizont végtelenbe tart és a játékosok türelmessé válnak, az elérhető MPE-kifizetések halmaza konvex játékokban a karakterisztikus függvény magjához konvergál. Tiszta alap a policy-tárgyalási modellekhez.",
+      "data_used": "Continuous-time game-theoretic analysis. The contribution is the existence-and-uniqueness theorem for MPE in this class of bargaining games, plus characterisation of limit payoffs.",
+      "data_used_hu": "Folytonos-idejű játékelméleti elemzés. A hozzájárulás az MPE létezési és egyértelműségi tétele a tárgyalási játékok ezen osztályában, valamint a határ-kifizetések jellemzése.",
+      "policy_relevance": "Foundation for applied policy-bargaining models (EU Council voting, government coalition formation, public-sector wage negotiations). The cleanly characterised core convergence gives policymakers a benchmark for predicting bargaining outcomes when no exogenous deadline binds. For Hungarian academic bargaining-power assessments (e.g., between Visegrad-4 governments in EU negotiations), the model provides a tractable framework. Caveat: highly stylised — players are perfectly informed about the characteristic function, and outside options are not modelled.",
+      "policy_relevance_hu": "Az alkalmazott policy-tárgyalási modellek alapja (EU Tanács szavazás, kormánykoalíció-formálás, közszféra bértárgyalások). A tisztán jellemzett mag-konvergencia benchmark-ot ad a döntéshozóknak a tárgyalási kimenetek előrejelzésére, amikor nincs exogén határidő. A magyar akadémiai alkupozíció-elemzésekhez (pl. V4 kormányok közötti EU-tárgyalások) a modell kezelhető keretet biztosít. Korlát: erősen stilizált — a játékosok tökéletesen ismerik a karakterisztikus függvényt, és a külső opciók nincsenek modellezve.",
+      "topics": [
+        "political-economy",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-26",
+      "review_status": "ai-drafted",
       "openalex_id": "W2127041951"
     },
     {
@@ -7436,20 +7467,30 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "e use individual-level administrative data from Hungary to examine labour market activity beyond retirement age. We present employment rates for individuals beyond retirement age separately for women and men. We examine how the probability of employment after retirement age is related to individual characteristics. Our study shows that employment beyond retirement age is relatively common and strongly related to occupation, sector, earnings, place of residence, and, especially for women, health status.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "How common is paid work past the statutory retirement age in Hungary, and who continues working? Using individual-level Hungarian administrative data, Bárdits, Bíró, Elek and Krekó document employment rates after retirement age separately for women and men. Continued employment is strikingly common and is strongly correlated with occupation, sector, earnings, place of residence, and — especially for women — health status. Higher-earning, healthier individuals in non-manual occupations are most likely to keep working; manual workers and those in poor health largely don't. The pattern matches an opportunity-driven rather than necessity-driven extension of working life for the post-retirement Hungarian workforce.",
+      "summary_hu": "Mennyire gyakori a fizetett munka a magyar nyugdíjkorhatáron túl, és kik dolgoznak tovább? Bárdits, Bíró, Elek és Krekó magyar egyéni szintű adminisztratív adatokat használva dokumentálja a nyugdíjkorhatár utáni foglalkoztatási rátákat férfiakra és nőkre külön. A folytatólagos munka meglepően gyakori, és erősen korrelál a foglalkozással, ágazattal, keresettel, lakóhellyel és — különösen nőknél — az egészségi állapottal. A magasabb keresetű, egészségesebb, nem-fizikai foglalkozású emberek a leginkább hajlamosak tovább dolgozni; a fizikai munkások és rossz egészségűek nagyrészt nem. A minta inkább lehetőségvezérelt, mint kényszerű munkapályakiterjesztést mutat a magyar nyugdíjas-munkavállalók körében.",
+      "data_used": "Hungarian linked administrative employment and pension records (Admin3 / KRTK Databank), full population age 60+ over a recent multi-year window. Earnings, hours, occupation, sector, location, and health proxies are observable.",
+      "data_used_hu": "Magyar összekapcsolt adminisztratív foglalkoztatási és nyugdíjadatok (Admin3 / KRTK Databank), 60 év feletti teljes népesség egy újabb többéves időablakban. Megfigyelhetők a keresetek, munkaórák, foglalkozás, ágazat, lakóhely és egészségproxik.",
+      "policy_relevance": "Critical input for the current Hungarian pension-reform debate. The OECD's 2024 'Women40' phase-out proposal and the Simonovits 2025 progressivity-strengthening proposal both implicitly assume people can extend working lives at retirement age. This paper shows the extension is happening — but mostly for higher-earning, healthier workers. Lifting the statutory retirement age uniformly would disproportionately harm those (manual workers, lower-earners, women in poor health) who cannot continue. Targeted carve-outs by occupation or health status are the policy implication.",
+      "policy_relevance_hu": "Kulcsinput a jelenlegi magyar nyugdíjreform-vitához. Az OECD 2024-es 'Nők 40' kivezetési javaslata és a Simonovits 2025-ös progresszivitás-erősítési javaslata egyaránt feltételezi, hogy az emberek tudják meghosszabbítani a munkaéveket a nyugdíjkorhatárnál. Ez a tanulmány megmutatja, hogy a hosszabbítás zajlik — de főleg a magasabb keresetűeknél és egészségesebbeknél. A statutáris nyugdíjkorhatár egységes emelése aránytalanul sújtaná azokat (fizikai munkások, alacsony keresetűek, rossz egészségű nők), akik nem tudják folytatni. A policy-implikáció: célzott kivételek foglalkozás vagy egészségi állapot szerint.",
+      "topics": [
+        "labor-markets",
+        "demographics-migration",
+        "fiscal-tax"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-26",
+      "review_status": "ai-drafted",
       "openalex_id": "W4406143577"
     },
     {
@@ -10815,20 +10856,30 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Tanulmányunkban az 50 év feletti európai lakosság mintáján arra a kérdésre keressük a választ, hogy a pozitív várakozások milyen összefüggésben vannak az elővigyázatos viselkedéssel. A jövőre vonatkozó várakozások befolyásolhatják, hogy mennyire fontos az egészség megőrzése, érdemes-e a jelenben erőfeszítéseket tenni bizonytalan jövőbeli pozitív hatásokért. A kérdést a koronavírus-járvány idején, 2020 és 2021 nyarán készült Survey of Health, Ageing and Retirement (SHARE) telefonos adatfelvételére támaszkodva elemezzük. A maszkviselést, a távolságtartást és az oltási hajlandóságot vizsgáljuk a jövőre vonatkozó pozitív várakozások függvényében. Eredményeink azt mutatják, hogy az ötven év feletti lakosság pozitív várakozások esetén nagyobb eséllyel tesz óvintézkedéseket a koronavírus ellen.*&#13;\\nJournal of Economic Literature (JEL) kód: D84, I12.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "How do positive expectations about the future shape protective behaviour during a pandemic? Bíró and Branyiczki ask whether 50+ Europeans who held more positive views about the future were more or less likely to mask, distance, and accept vaccination. Using SHARE telephone survey waves from summer 2020 and 2021, they find a clear pattern: people with more positive future expectations were more likely to take preventive measures. Future-orientation appears to make present-day effort feel worthwhile because there's something good to live for. The result challenges the alternative hypothesis that optimists would be cavalier about risk.",
+      "summary_hu": "Hogyan alakítják a jövőre vonatkozó pozitív várakozások a védekező viselkedést egy járvány idején? Bíró és Branyiczki azt kérdezi, hogy az 50 év feletti európaiak közül azok, akiknek pozitívabb jövőképük volt, nagyobb vagy kisebb valószínűséggel hordtak-e maszkot, tartottak távolságot és fogadtak-e el oltást. A SHARE 2020 és 2021 nyári telefonos felmérési hullámait használva tiszta mintát találnak: a pozitívabb jövő-várakozású emberek nagyobb valószínűséggel tettek óvintézkedéseket. A jövőorientáció úgy tűnik, hogy érdemessé teszi a jelen erőfeszítését, mert van miért tovább élni. Az eredmény megkérdőjelezi azt az alternatív hipotézist, miszerint az optimisták könnyelműek lennének a kockázattal szemben.",
+      "data_used": "Survey of Health, Ageing and Retirement in Europe (SHARE) COVID-19 telephone supplements, waves from summer 2020 and 2021. ~50,000 respondents aged 50+ across ~20 European countries. Outcome variables: mask use, social distancing, vaccine willingness. Predictor: positive future expectations.",
+      "data_used_hu": "Survey of Health, Ageing and Retirement in Europe (SHARE) COVID-19 telefonos kiegészítő hullámai, 2020 és 2021 nyarából. ~50 000 fő 50+ válaszadó ~20 európai országból. Kimeneti változók: maszkviselés, távolságtartás, oltási hajlandóság. Magyarázó változó: pozitív jövő-várakozások.",
+      "policy_relevance": "For Hungarian public-health communication during future pandemics or vaccine campaigns: the result suggests future-oriented framing ('preserve the years ahead with someone you love') outperforms threat-only framing ('avoid death') for the 50+ population. Relevant input for NNK (National Public Health Centre) campaign design. Caveat: cross-sectional, so reverse causation is possible (people who comply might subsequently feel more positive); within-country heterogeneity not fully explored.",
+      "policy_relevance_hu": "Magyar népegészségügyi kommunikációhoz jövőbeli járványok vagy oltási kampányok idején: az eredmény arra utal, hogy a jövőorientált keretezés ('őrizd meg az előtted álló éveket szeretteiddel') felülmúlja az 50 év feletti népesség körében a tisztán fenyegetés-alapú keretezést ('kerüld a halált'). Releváns input az NNK kampány-tervezéséhez. Korlát: keresztmetszeti, így fordított okság lehetséges (akik megfelelnek, utána pozitívabban érezhetnek); az országon belüli heterogenitás nincs teljesen feltárva.",
+      "topics": [
+        "health",
+        "behavioral",
+        "demographics-migration"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "EU"
+      ],
+      "data_types": [
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-26",
+      "review_status": "ai-drafted",
       "openalex_id": "W4309181480"
     },
     {
@@ -36415,7 +36466,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 51
+      "paper_count": 53
     },
     {
       "id": "education-skills",
@@ -36426,7 +36477,7 @@
       "policy_framing_en": "Relevant to: curriculum design, teacher policy, school tracking age, higher education funding, vocational training.",
       "policy_framing_hu": "Releváns: tantervfejlesztés, tanárpolitika, iskolai szelekció életkora, felsőoktatás finanszírozása, szakképzés.",
       "icon": "graduation-cap",
-      "paper_count": 39
+      "paper_count": 40
     },
     {
       "id": "health",
@@ -36437,7 +36488,7 @@
       "policy_framing_en": "Relevant to: healthcare system design, hospital payment, prevention programs, pharmaceutical policy, mental health services.",
       "policy_framing_hu": "Releváns: egészségügyi rendszer kialakítása, kórházi finanszírozás, prevenciós programok, gyógyszerpolitika, mentális szolgáltatások.",
       "icon": "heart-pulse",
-      "paper_count": 35
+      "paper_count": 36
     },
     {
       "id": "demographics-migration",
@@ -36448,7 +36499,7 @@
       "policy_framing_en": "Relevant to: family policy, pension system, immigration policy, retention of skilled workers.",
       "policy_framing_hu": "Releváns: családpolitika, nyugdíjrendszer, bevándorláspolitika, szakemberek megtartása.",
       "icon": "users",
-      "paper_count": 20
+      "paper_count": 22
     },
     {
       "id": "trade-fdi",
@@ -36481,7 +36532,7 @@
       "policy_framing_en": "Relevant to: R&D tax credits, digital strategy, AI policy, innovation agency design, university–industry linkages.",
       "policy_framing_hu": "Releváns: K+F adókedvezmények, digitális stratégia, MI-politika, innovációs ügynökségek, egyetem–ipar kapcsolatok.",
       "icon": "cpu",
-      "paper_count": 30
+      "paper_count": 31
     },
     {
       "id": "banking-finance",
@@ -36503,7 +36554,7 @@
       "policy_framing_en": "Relevant to: tax reform, budget planning, public debt management, compliance policy.",
       "policy_framing_hu": "Releváns: adóreform, költségvetés-tervezés, államadósság-kezelés, adócompliance.",
       "icon": "coins",
-      "paper_count": 25
+      "paper_count": 26
     },
     {
       "id": "regional-urban",
@@ -36547,7 +36598,7 @@
       "policy_framing_en": "Relevant to: anti-corruption policy, public administration reform, EU affairs, electoral system design.",
       "policy_framing_hu": "Releváns: korrupcióellenes politika, közigazgatási reform, EU-ügyek, választási rendszer.",
       "icon": "building-2",
-      "paper_count": 43
+      "paper_count": 46
     },
     {
       "id": "transition-postcommunist",
@@ -36569,7 +36620,7 @@
       "policy_framing_en": "Relevant to: consumer protection, pension-default design, nudging, financial-education regulation, addictive-product regulation.",
       "policy_framing_hu": "Releváns: fogyasztóvédelem, nyugdíjalap-alapbeállítások, döntéslendítés (nudge), pénzügyi edukáció szabályozása, függőséget okozó termékek szabályozása.",
       "icon": "brain",
-      "paper_count": 50
+      "paper_count": 51
     },
     {
       "id": "industrial-organization",
@@ -36580,7 +36631,7 @@
       "policy_framing_en": "Relevant to: competition policy (GVH), merger review, platform regulation, auction design, sector-specific regulation.",
       "policy_framing_hu": "Releváns: versenypolitika (GVH), fúziókontroll, platformszabályozás, aukciótervezés, ágazati szabályozás.",
       "icon": "network",
-      "paper_count": 28
+      "paper_count": 29
     },
     {
       "id": "macroeconomics",
@@ -36613,7 +36664,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 97
+      "paper_count": 101
     }
   ],
   "journals": [

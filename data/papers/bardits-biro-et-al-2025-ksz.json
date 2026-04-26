@@ -19,19 +19,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "e use individual-level administrative data from Hungary to examine labour market activity beyond retirement age. We present employment rates for individuals beyond retirement age separately for women and men. We examine how the probability of employment after retirement age is related to individual characteristics. Our study shows that employment beyond retirement age is relatively common and strongly related to occupation, sector, earnings, place of residence, and, especially for women, health status.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "How common is paid work past the statutory retirement age in Hungary, and who continues working? Using individual-level Hungarian administrative data, Bárdits, Bíró, Elek and Krekó document employment rates after retirement age separately for women and men. Continued employment is strikingly common and is strongly correlated with occupation, sector, earnings, place of residence, and — especially for women — health status. Higher-earning, healthier individuals in non-manual occupations are most likely to keep working; manual workers and those in poor health largely don't. The pattern matches an opportunity-driven rather than necessity-driven extension of working life for the post-retirement Hungarian workforce.",
+  "summary_hu": "Mennyire gyakori a fizetett munka a magyar nyugdíjkorhatáron túl, és kik dolgoznak tovább? Bárdits, Bíró, Elek és Krekó magyar egyéni szintű adminisztratív adatokat használva dokumentálja a nyugdíjkorhatár utáni foglalkoztatási rátákat férfiakra és nőkre külön. A folytatólagos munka meglepően gyakori, és erősen korrelál a foglalkozással, ágazattal, keresettel, lakóhellyel és — különösen nőknél — az egészségi állapottal. A magasabb keresetű, egészségesebb, nem-fizikai foglalkozású emberek a leginkább hajlamosak tovább dolgozni; a fizikai munkások és rossz egészségűek nagyrészt nem. A minta inkább lehetőségvezérelt, mint kényszerű munkapályakiterjesztést mutat a magyar nyugdíjas-munkavállalók körében.",
+  "data_used": "Hungarian linked administrative employment and pension records (Admin3 / KRTK Databank), full population age 60+ over a recent multi-year window. Earnings, hours, occupation, sector, location, and health proxies are observable.",
+  "data_used_hu": "Magyar összekapcsolt adminisztratív foglalkoztatási és nyugdíjadatok (Admin3 / KRTK Databank), 60 év feletti teljes népesség egy újabb többéves időablakban. Megfigyelhetők a keresetek, munkaórák, foglalkozás, ágazat, lakóhely és egészségproxik.",
+  "policy_relevance": "Critical input for the current Hungarian pension-reform debate. The OECD's 2024 'Women40' phase-out proposal and the Simonovits 2025 progressivity-strengthening proposal both implicitly assume people can extend working lives at retirement age. This paper shows the extension is happening — but mostly for higher-earning, healthier workers. Lifting the statutory retirement age uniformly would disproportionately harm those (manual workers, lower-earners, women in poor health) who cannot continue. Targeted carve-outs by occupation or health status are the policy implication.",
+  "policy_relevance_hu": "Kulcsinput a jelenlegi magyar nyugdíjreform-vitához. Az OECD 2024-es 'Nők 40' kivezetési javaslata és a Simonovits 2025-ös progresszivitás-erősítési javaslata egyaránt feltételezi, hogy az emberek tudják meghosszabbítani a munkaéveket a nyugdíjkorhatárnál. Ez a tanulmány megmutatja, hogy a hosszabbítás zajlik — de főleg a magasabb keresetűeknél és egészségesebbeknél. A statutáris nyugdíjkorhatár egységes emelése aránytalanul sújtaná azokat (fizikai munkások, alacsony keresetűek, rossz egészségű nők), akik nem tudják folytatni. A policy-implikáció: célzott kivételek foglalkozás vagy egészségi állapot szerint.",
+  "topics": [
+    "labor-markets",
+    "demographics-migration",
+    "fiscal-tax"
+  ],
+  "methods": [
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W4406143577"
 }

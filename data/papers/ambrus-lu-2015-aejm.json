@@ -17,19 +17,24 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We propose a finite-horizon continuous-time framework for coalitional bargaining, in which players can make offers at random discrete times. In our model: (i) expected payoffs in Markov perfect equilibrium (MPE) are unique, generating sharp predictions and facilitating comparative statics; and (ii) MPE are the only subgame perfect Nash equilibria (SPNE) that can be approximated by SPNE of nearby discrete-time bargaining models. We investigate the limit MPE payoffs as the time horizon goes to infinity and players get infinitely patient. In convex games, we establish that the set of these limit payoffs achievable by varying recognition rates is exactly the core of the characteristic function. (JEL C78)",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "Cooperative bargaining models in continuous time often produce complicated equilibrium predictions. Ambrus and Lu construct a finite-horizon continuous-time framework for n-player coalitional bargaining, where players make offers at random discrete times. The framework yields two clean properties: Markov perfect equilibrium (MPE) payoffs are unique (sharp predictions, easy comparative statics), and MPE coincide with the only subgame-perfect Nash equilibria reachable as limits of nearby discrete-time games. As the horizon goes to infinity and players become patient, the set of achievable MPE payoffs converges to the core of the characteristic function (in convex games). A clean foundation for policy-bargaining models.",
+  "summary_hu": "A kooperatív tárgyalási modellek folytonos időben gyakran bonyolult egyensúlyi előrejelzéseket adnak. Ambrus és Lu véges horizontú folytonos-idejű keretet épít n-szereplős koalíciós tárgyalásra, ahol a játékosok véletlen diszkrét időpontokban tesznek ajánlatot. A keret két tiszta tulajdonságot ad: a Markov-tökéletes egyensúly (MPE) kifizetései egyértelműek (éles előrejelzés, könnyű komparatív statika), és az MPE-k az egyetlen olyan részjáték-tökéletes Nash-egyensúlyok, amelyek a közeli diszkrét idejű játékok határértékeként elérhetők. Ahogy a horizont végtelenbe tart és a játékosok türelmessé válnak, az elérhető MPE-kifizetések halmaza konvex játékokban a karakterisztikus függvény magjához konvergál. Tiszta alap a policy-tárgyalási modellekhez.",
+  "data_used": "Continuous-time game-theoretic analysis. The contribution is the existence-and-uniqueness theorem for MPE in this class of bargaining games, plus characterisation of limit payoffs.",
+  "data_used_hu": "Folytonos-idejű játékelméleti elemzés. A hozzájárulás az MPE létezési és egyértelműségi tétele a tárgyalási játékok ezen osztályában, valamint a határ-kifizetések jellemzése.",
+  "policy_relevance": "Foundation for applied policy-bargaining models (EU Council voting, government coalition formation, public-sector wage negotiations). The cleanly characterised core convergence gives policymakers a benchmark for predicting bargaining outcomes when no exogenous deadline binds. For Hungarian academic bargaining-power assessments (e.g., between Visegrad-4 governments in EU negotiations), the model provides a tractable framework. Caveat: highly stylised — players are perfectly informed about the characteristic function, and outside options are not modelled.",
+  "policy_relevance_hu": "Az alkalmazott policy-tárgyalási modellek alapja (EU Tanács szavazás, kormánykoalíció-formálás, közszféra bértárgyalások). A tisztán jellemzett mag-konvergencia benchmark-ot ad a döntéshozóknak a tárgyalási kimenetek előrejelzésére, amikor nincs exogén határidő. A magyar akadémiai alkupozíció-elemzésekhez (pl. V4 kormányok közötti EU-tárgyalások) a modell kezelhető keretet biztosít. Korlát: erősen stilizált — a játékosok tökéletesen ismerik a karakterisztikus függvényt, és a külső opciók nincsenek modellezve.",
+  "topics": [
+    "political-economy",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W2127041951"
 }

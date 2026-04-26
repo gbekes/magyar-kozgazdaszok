@@ -18,19 +18,24 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We investigate information aggregation and competition in a delegation framework. An uninformed principal is unable to perform a task herself and must choose between one of two biased and imperfectly informed experts. In the focal equilibrium, experts exaggerate their biases, anticipating an ideological winner’s curse. We show that having a second expert can benefit the principal, even when equally or more biased than the first expert. The principal can benefit from commitment to an “element of surprise” and prefers experts with equal rather than opposite biases. (JEL D82, D83)",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "When a decision-maker hires biased experts to advise on an unfamiliar task, having a second expert helps even if the second is equally or more biased — a non-obvious result. The reason is the 'ideological winner's curse': in equilibrium, experts exaggerate their biases, anticipating that they only get hired when they look extreme; a second expert breaks that incentive. The principal also benefits from committing to surprise (random expert selection) and prefers experts with the same bias direction over experts with opposite biases. The model overturns the intuition that diverse-bias panels are better — same-direction biases plus randomisation outperform.",
+  "summary_hu": "Amikor egy döntéshozó elfogult szakértőket alkalmaz egy ismeretlen feladathoz, egy második szakértő hasznos, még ha hasonlóan vagy jobban elfogult is — ez nem nyilvánvaló eredmény. Az ok az 'ideológiai győztes átka': egyensúlyban a szakértők eltúlozzák elfogultságukat, számítva arra, hogy csak akkor kapják meg a megbízást, ha extrémnek látszanak; egy második szakértő ezt az ösztönzőt töri meg. A megbízó hasznára válik a 'meglepetés' melletti elköteleződés (véletlenszerű szakértő-választás), és inkább azonos irányú elfogultságú szakértőket részesít előnyben az ellentétes irányúakkal szemben. A modell megfordítja azt az intuíciót, hogy a vegyes-elfogultságú panelek jobbak — az azonos irányú elfogultság plusz a randomizálás felülmúlja.",
+  "data_used": "Pure-theory delegation model with two biased and imperfectly informed experts. The principal's choice rule and equilibrium expert reporting strategies are analytically derived.",
+  "data_used_hu": "Tisztán elméleti delegálási modell két elfogult és tökéletlenül informált szakértővel. A megbízó választási szabálya és a szakértői egyensúlyi jelentési stratégiák analitikusan származtatottak.",
+  "policy_relevance": "Direct relevance for advisory-board design at central banks, regulatory agencies, and high courts where the decision-maker selects from biased experts. The model challenges the standard 'pluralism' prescription (load the panel with opposing views): instead, the principal does better with same-direction biases plus randomised selection. For the MNB Monetary Council and EU expert panels with formally balanced ideological composition, the implication is that a procedural commitment to surprise selection — not a stipulated bias-balance — is what improves information aggregation.",
+  "policy_relevance_hu": "Közvetlenül érinti a jegybanki tanácsadó testületek, szabályozó hatóságok és felsőbíróságok tervezését, ahol a döntéshozó elfogult szakértők közül választ. A modell megkérdőjelezi a standard 'pluralizmus' receptet (töltsük meg a panelt ellentétes nézetekkel): a megbízó jobban jár azonos irányú elfogultsággal és véletlenszerű választással. Az MNB Monetáris Tanácsa és a formálisan kiegyensúlyozott ideológiai összetételű EU-s szakértői panelek számára a tanulság: a meglepetés-választáshoz való procedurális elköteleződés — nem az elfogultság-egyensúly előírása — javítja az információaggregációt.",
+  "topics": [
+    "political-economy",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W3121316455"
 }

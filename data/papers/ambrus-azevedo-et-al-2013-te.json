@@ -18,19 +18,24 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We investigate situations in which agents can communicate to each other only through a chain of intermediators, for example because they have to obey institutionalized communication protocols. We assume that all involved in the communication are strategic, and might want to influence the action taken by the final receiver. The set of pure strategy equilibrium outcomes is simple to characterize, monotonic in each intermediator's bias, does not depend on the order of intermediators, and intermediation in these equilibria cannot improve information transmission. However, none of these conclusions hold for mixed equilibria. We provide a partial characterization of mixed equilibria, and offer an economically relevant sufficient condition for every equilibrium to be outcome-equivalent to a pure equilibrium and hence the simple characterization and comparative statics results to hold for the set of all equilibria.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "What happens when one party can only communicate with a decision-maker through a chain of strategic intermediaries? Each intermediary has their own bias and could distort the message. The authors study this multi-link cheap-talk problem in pure-strategy equilibrium. The headline result is reassuring for institutional design: the set of pure-strategy equilibrium outcomes does not depend on the order of intermediaries, is monotone in each one's bias, and adding intermediaries cannot help information transmission. Mixed equilibria are richer and not generally outcome-equivalent — but the paper provides an economically relevant condition under which pure-strategy results extend.",
+  "summary_hu": "Mi történik, ha egy szereplő csak stratégiai közvetítők láncán keresztül kommunikálhat egy döntéshozóval? Minden közvetítőnek megvan a maga elfogultsága, és torzíthatja az üzenetet. A szerzők ezt a többlépcsős cheap-talk problémát vizsgálják tisztaegyensúlyi keretben. A fő eredmény az intézménytervezés szempontjából megnyugtató: a tisztaegyensúlyi kimenetek halmaza nem függ a közvetítők sorrendjétől, monoton minden közvetítő elfogultságában, és további közvetítők hozzáadása nem javíthatja az információtovábbítást. A kevert egyensúlyok gazdagabbak és általában nem azonos kimenetűek — a tanulmány azonban gazdaságilag releváns feltételt ad, amely mellett a tisztaegyensúlyi eredmények kiterjednek.",
+  "data_used": "Game-theoretic analysis of strategic communication chains. No empirical data; the contribution is theoretical characterisation of equilibrium outcomes and their comparative statics in bias of intermediaries.",
+  "data_used_hu": "Stratégiai kommunikációs láncok játékelméleti elemzése. Empirikus adat nélkül; a hozzájárulás az egyensúlyi kimenetek elméleti jellemzése és komparatív statikája a közvetítők elfogultságában.",
+  "policy_relevance": "Relevant for the design of multi-tier government structures (ministry → state secretariat → agency → field office), where information from the field reaches the decision-maker through a chain of biased intermediaries. The result that adding intermediaries cannot improve information transmission argues for flatter institutional hierarchies. For Hungarian central-government reform debates, the model gives theoretical backing to consolidation of agency layers. Caveat: the bound is for pure-strategy equilibria; mixed strategies (which can correspond to deliberate randomisation in real bureaucracies) may behave differently.",
+  "policy_relevance_hu": "A többlépcsős kormányzati struktúrák tervezése szempontjából érdekes (minisztérium → államtitkárság → ügynökség → területi iroda), ahol a terepről érkező információ elfogult közvetítők láncán át jut a döntéshozóhoz. Az eredmény, miszerint a közvetítők hozzáadása nem javíthatja az információtovábbítást, a laposabb intézményi hierarchiák mellett szól. A magyar központi-kormányzati reformvitákhoz a modell elméleti hátteret ad az ügynökségi rétegek konszolidációjához. Korlát: az eredmény tisztaegyensúlyokra vonatkozik; a kevert stratégiák (amelyek valós bürokráciákban a szándékos randomizálásnak felelhetnek meg) másképp viselkedhetnek.",
+  "topics": [
+    "political-economy",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W2097732940"
 }

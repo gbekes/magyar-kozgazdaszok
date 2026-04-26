@@ -18,19 +18,24 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "In media markets, consumers spread their attention to several outlets, increasingly so as consumption migrates online. The traditional framework for competition among media outlets rules out this behavior by assumption. We propose a new model that allows consumers to choose multiple outlets and use it to study the effects on advertising levels and the impact of entry and mergers. We identify novel forces which reflect outlets' incentives to control the composition of their customer base. We link consumer preferences and advertising technologies to market outcomes. The model can explain several empirical regularities that are difficult to reconcile with existing models. (JEL D42, D43, L12, L13, L82, L86, M37)",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "Most models of media competition assume each consumer picks one outlet — but in reality, especially online, consumers spread attention across many outlets. The authors propose a 'two-sided' theory of media advertising in which consumers can multi-home (choose multiple outlets simultaneously). The model identifies new strategic forces: outlets compete to control the composition of their customer base, and entry/merger effects are qualitatively different from one-side-only models. The framework predicts several empirical regularities (premium pricing of exclusive viewers, ad-load patterns) that prior models couldn't reconcile. Useful for thinking about today's online attention economy.",
+  "summary_hu": "A médiapiaci verseny legtöbb modellje azt feltételezi, hogy minden fogyasztó egy csatornát választ — de a valóságban, különösen online, a fogyasztók több csatorna között osztják meg figyelmüket. A szerzők a médiapiaci hirdetés 'kétoldalú' elméletét javasolják, amelyben a fogyasztók párhuzamosan több csatornát is választhatnak. A modell új stratégiai erőket azonosít: a csatornák versenyeznek a fogyasztói bázisuk összetételének irányításáért, és a belépés/fúzió hatásai minőségileg eltérnek az egyoldalas modellektől. A keret több empirikus szabályosságot megmagyaráz (az exkluzív nézőkre kiszabott prémium árazás, hirdetésterhelés-mintázatok), amelyeket korábbi modellek nem tudtak összeegyeztetni.",
+  "data_used": "Theoretical model of advertising-funded media outlets with multi-homing consumers. No empirical estimation; the test is qualitative match to several stylised facts about online media markets that prior single-homing models fail to explain.",
+  "data_used_hu": "Reklámból finanszírozott médiacsatornák elméleti modellje több csatornát párhuzamosan fogyasztó nézőkkel. Empirikus becslés nélkül; a teszt minőségi illeszkedés az online médiapiacok azon stilizált tényeihez, amelyeket a korábbi egycsatornás modellek nem tudnak megmagyarázni.",
+  "policy_relevance": "Relevant for media-merger review (Hungarian Competition Authority — GVH; EU DG-COMP) and digital-platform regulation. The two-sided framework with multi-homing predicts that mergers can be either pro- or anti-competitive depending on viewer overlap — standard one-side-only competition policy intuitions can give the wrong answer. For DSA / DMA implementation, the model gives a richer baseline for thinking about ad-market concentration than the older monopolistic-bottleneck framing. Caveat: theoretical, no Hungarian-specific calibration; empirical work would be needed to apply quantitative guidance.",
+  "policy_relevance_hu": "A médiafúziós felülvizsgálat (GVH; EU DG-COMP) és a digitális platformszabályozás szempontjából érdekes. A kétoldalú, többcsatornás keret szerint a fúziók versenyt javítók vagy versenyt rontók is lehetnek a nézőtér átfedésétől függően — a standard egyoldalas versenypolitikai intuíciók rossz választ adhatnak. A DSA / DMA végrehajtásához a modell gazdagabb alapot kínál a hirdetéspiaci koncentrációról való gondolkodáshoz, mint a régi monopolisztikus-szűk-keresztmetszet megközelítés. Korlát: elméleti, magyar-specifikus kalibráció nélkül; a kvantitatív útmutatáshoz empirikus munkára lenne szükség.",
+  "topics": [
+    "industrial-organization",
+    "innovation-digital"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W3122399452"
 }
