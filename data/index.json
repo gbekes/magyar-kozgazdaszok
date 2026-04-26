@@ -8589,20 +8589,25 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Liquidity is often cited as an important component of asset prices, particularly for sovereign bonds. Relative to canonical explanations (asymmetric information, thin markets), this paper presents a different source of liquidity risk: in a Diamond–Dybvig type model, where agents face a liquidity shock (becoming more risk‐averse early consumers), the speed of public information revelation about default risk influences bond spreads. Under reasonable parameter values, accelerated information revelation may increase spreads by 50%. Depending on parameters, revealing information may increase or decrease not only the welfare of the issuer (the issue price), but also the expected utility of investors.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "summary_en": "Why does liquidity affect sovereign bond spreads? The standard explanations are asymmetric information and thin markets. Benczúr offers a different mechanism: in a Diamond-Dybvig type model, agents face a liquidity shock that turns them into more risk-averse early consumers. The speed at which public information about default risk arrives then affects bond spreads through this liquidity channel. Under reasonable parameters, accelerating information revelation can raise bond spreads by 50%. Welfare implications cut both ways: depending on parameters, faster information release may increase or decrease both the issuer's welfare (bond price) and the investor's expected utility. A new theoretical channel for liquidity risk in sovereign-debt markets.",
+      "summary_hu": "Miért hat a likviditás a szuverén kötvényhozam-rétegekre? A standard magyarázatok az aszimmetrikus információ és a szűk piacok. Benczúr másik mechanizmust kínál: egy Diamond-Dybvig típusú modellben az ágensek likviditási sokkal néznek szembe, ami kockázat-averzebb korai fogyasztókká teszi őket. A nemfizetési kockázatról szóló nyilvános információ érkezésének sebessége ekkor a likviditási csatornán át hat a kötvényhozam-rétegekre. Reális paraméterek mellett az információ-felfedés gyorsítása 50 százalékkal emelheti a hozam-rétegeket. A jóléti következmények kétirányúak: a paraméterektől függően a gyorsabb információkibocsátás növelheti vagy csökkentheti a kibocsátó (kötvényár) és a befektető (várható hasznosság) jólétét egyaránt. Új elméleti csatorna a likviditási kockázatra a szuverén-adósság piacokon.",
+      "data_used": "Theoretical model; calibration with reasonable parameter values for sovereign bond markets.",
+      "data_used_hu": "Elméleti modell; szuverén kötvénypiacokra reális paraméterértékekkel kalibrálva.",
+      "policy_relevance": "Of interest to ÁKK (Hungarian Debt Management Agency) and MNB on sovereign-debt issuance strategy and information-disclosure policy. The paper challenges the simple view that more public information always lowers spreads — under specific (plausible) conditions, the opposite holds. Relevant to debt-issuance communication strategy and to broader EU sovereign-debt-market design. Caveat: theoretical; specific quantitative claims for Hungarian bond markets require empirical implementation.",
+      "policy_relevance_hu": "Az ÁKK és az MNB számára érdekes a szuverén-adósság-kibocsátási stratégia és információ-közlési politika szempontjából. A tanulmány kihívja azt az egyszerű nézetet, hogy a több nyilvános információ mindig csökkenti a hozam-rétegeket — meghatározott (plauzibilis) feltételek mellett az ellenkezője igaz. Releváns az adósság-kibocsátási kommunikációs stratégiához és a tágabb EU szuverén-adósságpiac tervezéshez. Korlát: elméleti; a magyar kötvénypiacokra vonatkozó konkrét kvantitatív állítások empirikus implementációt igényelnek.",
+      "topics": [
+        "banking-finance",
+        "fiscal-tax"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-26",
+      "review_status": "ai-drafted",
       "openalex_id": "W2012682660"
     },
     {
@@ -8629,11 +8634,11 @@
       "url_replication": null,
       "abstract": "In response to the economic and financial crisis, the EU has adopted a new regulatory framework of the banking sector. Its central elements consist of new capital requirements, the single rulebook, and rules for bank recovery and resolution. These legislations have been adopted to reduce the call for government bail-out of distressed banks in future crises. The present study performs a detailed quantitative assessment of the reduction in public finance costs brought about by the introduction of these rules. We use a microsimulation portfolio model, which implements the Basel risk assessment framework, to estimate the joint distribution of bank losses at EU level. The approach incorporates the complete safety-net set up in EU legislation to absorb these losses, explicitly modelling enhanced Basel III capital rules, the bail-in tool and the resolution funds. Using a near-full sample of commercial, cooperative and savings banks in the EU, we quantify the cumulative effects of this safety-net and the contribution of each individual tool to the total effect. Considering a crisis of a similar magnitude as the recent one, our results show that potential costs for public finances decrease from roughly 3.7% of EU GDP (before the introduction of any new tool) to 1.4% with bail-in, and finally to 0.5% when all the elements we model are in place. This latter amount is very close to our estimate of leftover resolution funds and the size of the Deposit Guarantee Scheme. This exercise extends the quantitative analyses performed by the European Commission in its Economic Review of the Financial Regulation Agenda by developing additional scenarios, crucial robustness checks, simulations for different annual data vintages, and by implementing some methodological improvements.",
       "summary_en": "After the 2008 financial crisis, the EU adopted new banking regulations (capital requirements, single rulebook, bank recovery and resolution rules) aimed at reducing the need for government bail-outs in future crises. Did they succeed? This paper performs a detailed quantitative assessment using a microsimulation portfolio model implementing the Basel risk-assessment framework. The result quantifies how much public-finance cost the new rules actually prevent — a useful benchmark for evaluating the post-crisis EU regulatory reform package.",
-      "summary_hu": null,
+      "summary_hu": "A 2008-as pénzügyi válság után az EU új banki szabályozást fogadott el (tőkekövetelmények, egységes szabálykönyv, banki helyreállítási és szanálási szabályok), amelyek célja a kormányzati mentőcsomagok jövőbeli válságokban való szükségességének csökkentése. Sikerült-e? A tanulmány részletes kvantitatív értékelést végez Bázel kockázat-értékelési keretet implementáló mikroszimulációs portfólió-modellel. Az eredmény kvantifikálja, mennyi közpénz-költséget akadályoznak meg ténylegesen az új szabályok — hasznos benchmark a válság utáni EU szabályozási reformcsomag értékeléséhez.",
       "data_used": "EU-level banking data; microsimulation portfolio model implementing Basel risk-assessment framework.",
-      "data_used_hu": null,
+      "data_used_hu": "EU-szintű banki adatok; mikroszimulációs portfólió-modell, amely a Bázel kockázat-értékelési keretet implementálja.",
       "policy_relevance": "Directly relevant to Hungarian banking supervision (MNB) and EU banking-union policy. The paper quantifies the bail-out-avoidance value of the new EU regulatory package — useful for continuing calibration of EU bank regulation and for understanding systemic-risk reduction. Caveat: model-based quantification; uncertain whether real crises would unfold as modelled.",
-      "policy_relevance_hu": null,
+      "policy_relevance_hu": "Közvetlenül érinti a magyar banki felügyeletet (MNB) és az EU bankunió politikát. A tanulmány kvantifikálja az új EU szabályozási csomag mentőcsomag-elkerülési értékét — hasznos az EU bankszabályozás folyamatos kalibrálásához és a rendszerszintű kockázat csökkenésének megértéséhez. Korlát: modell-alapú kvantifikáció; bizonytalan, hogy a valódi válságok úgy bontakoznának-e ki, ahogy modellezve van.",
       "topics": [
         "banking-finance",
         "fiscal-tax"
@@ -8678,11 +8683,11 @@
       "url_replication": null,
       "abstract": "This paper presents direct evidence for relational contracts in sovereign bank lending. Unlike the existing empirical literature, its instrumental variables method allows for distinguishing a direct influence of past repayment problems on current spreads (a “punishment” effect in prices) from an indirect effect through higher expected future default probabilities (“loss of reputation”). Such a punishment provides positive surplus to lenders after a default and decreases the borrower's present discounted value of the net benefits of future borrowing, which create dynamic incentives. Using data on bank loans to developing countries for 1973–1981 and constructing continuous variables for credit history, we find evidence that most of the influence of past repayment problems is through the direct, punishment channel.",
       "summary_en": "When a country defaults on its debt, banks charge it higher interest on future loans. Is that because past repayment failures \"punish\" the borrower directly, or because they signal higher future default risk? Separating the two matters for policy. This paper uses an instrumental-variables approach on 1973–1981 bank loans to developing countries to decompose the effect. The finding: most of the influence of past repayment problems is through direct \"punishment\" — relational-contract enforcement — rather than through updated reputation. A finding that supports a relational-contracting view of sovereign-debt markets.",
-      "summary_hu": null,
+      "summary_hu": "Amikor egy ország nem fizet adósságot, a bankok magasabb kamatot számítanak fel a jövőbeli hitelekre. Ez azért, mert a múltbeli visszafizetési kudarcok közvetlenül 'büntetik' az adóst, vagy azért, mert magasabb jövőbeli nem-fizetési kockázatot jeleznek? A kettő megkülönböztetése szakpolitikailag számít. A tanulmány instrumentális-változó megközelítést alkalmaz 1973–1981-es bankhitelekre fejlődő országoknak a hatás dekompozíciójához. Megállapítás: a múltbeli visszafizetési problémák hatásának nagy része közvetlen 'büntetésen' keresztül érvényesül — relációs-szerződés érvényesítés —, nem a frissített hírnéven keresztül. Az eredmény a szuverén-adósság piacok relációs-szerződéses nézetét támogatja.",
       "data_used": "Bank-loan data on sovereign lending to developing countries, 1973–1981. Continuous credit-history variables constructed from loan-by-loan records. IV strategy separating direct effect of past problems from updated default probabilities.",
-      "data_used_hu": null,
+      "data_used_hu": "Bankhitel-adatok szuverén hitelezésről fejlődő országoknak, 1973–1981. Folytonos hiteltörténeti változókat építenek hitel-szintű rekordokból. IV-stratégia, amely elválasztja a múltbeli problémák közvetlen hatását a frissített nemfizetési valószínűségektől.",
       "policy_relevance": "Relevant to Hungary's sovereign-debt management (AKK, MNB). The paper's punishment-versus-reputation decomposition matters: if markets are dominated by relational enforcement, the cost of a technical default or restructuring is a persistent premium; if reputation dominates, good post-default behaviour can repair credibility faster. Informs debt-management strategy and interaction with international lenders. Caveat: the data are pre-1981 and pre-ECB; today's sovereign-debt markets are more integrated and have formal restructuring mechanisms.",
-      "policy_relevance_hu": null,
+      "policy_relevance_hu": "Releváns Magyarország szuverén-adósság-kezelésére (ÁKK, MNB). A tanulmány büntetés-vs-hírnév dekompozíciója számít: ha a piacokat a relációs érvényesítés dominálja, egy technikai default vagy átstrukturálás költsége tartós prémium; ha a hírnév dominál, a default utáni jó viselkedés gyorsabban helyreállíthatja a hitelességet. Tájékoztatja az adósság-kezelési stratégiát és a nemzetközi hitelezőkkel való interakciót. Korlát: az adatok 1981 előttiek és EKB előttiek; a mai szuverén-adósság piacok integráltabbak és hivatalos átstrukturálási mechanizmusokkal rendelkeznek.",
       "topics": [
         "macroeconomics",
         "banking-finance"
@@ -8729,20 +8734,30 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This chapter operationalizes regional resilience using a new approach which goes beyond standard economic dimensions. A society is defined resilient if it retains the ability to deliver well-being in a sustainable way even in the case of shocks and persistent structural changes. As the ultimate objective is the maintenance of overall societal well-being, our approach does not stop at assessing only a set of selected (economic) sectors of well-being production. It aims towards a broad structure of the system which keeps track of social inclusion, social capital and quality of life in general. We illustrate our approach by concentrating on the financial and economic crisis (2008_2012) and analyse the dynamic response of EU regions. We implement a three-step methodology to (i) select a large list of economic and non-economic indicators (‘system variables’) that span the entire process of societal well-being production, (ii) compute resilience indicators as the joint dynamic response of regions to the crisis and finally (iii) look at characteristics as those pre-determined systemic features that differentiate resilient regions from non-resilient ones. Results show that resilience is highly dependent on the time horizon: there is a clear distinction between the reaction in the immediate aftermath of the crisis and in the longer run. Moreover, they confirm the importance of expanding the measurement strategy to a broader list of variables and show a substantial heterogeneity in resilience across the regions in the European Union. Finally, they highlight country and regional features (characteristics), such as private sector credit flows and the gender employment gap, as significant predictors of resilient behaviour.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "Standard regional-economic-resilience measures focus on GDP recovery — but recovery to what? Benczúr, Joossens, Manca, Menyhért and Zec build a broader resilience indicator that goes beyond economic dimensions to include social inclusion, social capital, and quality of life. The framework defines resilience as the ability to deliver well-being sustainably even under shocks or persistent structural change. They illustrate the methodology by analysing the dynamic response of EU regions to the 2008-12 financial and economic crisis. The three-step methodology selects 'system variables' spanning the well-being-production process and computes resilience indicators as the joint dynamic response. A policy-relevant alternative to GDP-only assessment.",
+      "summary_hu": "A standard regionális-gazdasági ellenállóképesség mértékek a GDP-helyreállásra fókuszálnak — de minek a helyreállására? Benczúr, Joossens, Manca, Menyhért és Zec szélesebb ellenállóképesség-mutatót épít, amely a gazdasági dimenziókon túlra terjeszkedik a társadalmi inklúzióra, társadalmi tőkére és életminőségre. A keret az ellenállóképességet úgy definiálja, mint a jólét fenntartható szállításának képességét sokkok vagy tartós szerkezeti változás esetén is. A módszertant az EU-régiók 2008–12-es pénzügyi és gazdasági válságra adott dinamikus válaszának elemzésével illusztrálják. A háromlépéses módszertan 'rendszerváltozókat' választ ki, amelyek átfogják a jólét-termelési folyamatot, és az ellenállóképesség-mutatókat együttes dinamikus válaszként számítja. Szakpolitikai-szempontból releváns alternatíva a GDP-csak alapú értékelésnek.",
+      "data_used": "EU regional-level economic, social, and quality-of-life indicators over the 2008-12 financial-crisis window. Composite-indicator construction methodology applied to the joint dynamic response.",
+      "data_used_hu": "EU regionális szintű gazdasági, társadalmi és életminőségi mutatók a 2008-12-es pénzügyi-válság időablakában. Kompozit-mutató építési módszertan együttes dinamikus választra alkalmazva.",
+      "policy_relevance": "For Hungarian regional-development planning under EU Cohesion Policy: the paper provides a methodology for assessing programme effectiveness beyond GDP-only outcomes. Relevant for evaluating Magyar Falu / Modern Városok and EU Recovery Fund spending in social-cohesion terms. Caveat: composite indicators are sensitive to weight choices; the methodology should be transparent about what it includes and excludes.",
+      "policy_relevance_hu": "Magyar regionális fejlesztési tervezéshez az EU Kohéziós Politika alatt: a tanulmány módszertant ad a program-hatékonyság GDP-csak alapú kimeneteken túli értékeléséhez. Releváns a Magyar Falu / Modern Városok és EU Helyreállítási Alap kiadás társadalmi-kohéziós szempontú értékeléséhez. Korlát: a kompozit mutatók érzékenyek a súlyválasztásokra; a módszertannak átláthatónak kell lennie abban, mit tartalmaz és mit zár ki.",
+      "topics": [
+        "regional-urban",
+        "macroeconomics",
+        "methods"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "EU"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-26",
+      "review_status": "ai-drafted",
       "openalex_id": "W3009290783"
     },
     {
@@ -8766,11 +8781,11 @@
       "url_replication": null,
       "abstract": "Focusing on groups of high-income countries (OECD, EU, and EMU), this study shows that the finding of a non-linear, hump-shaped impact of financing on economic growth is robust to controlling for financing composition in terms of the sources (bank credit, debt securities, stock market) and the recipients of finances (households, non-financial and financial corporations), or both. In particular, we obtain the following results. First, the non-linear impact of total bank credit is more pronounced than that of either household credit alone, or the sum of bank credit, debt securities, and stock market financing. Second, credit to non-financial corporations tends to have a positive, while credit to households a negative impact on growth, even after allowing for non-linearities. Third, debt-securities and stock market-based financing have a different impact on growth. Finally, the estimated turning point of the non-linear relationship is close to that found by Cournède and Denk (2015) for the OECD countries, and lower than that established by Arcand, Berkes, and Panizza (2015) for a broad set of countries.",
       "summary_en": "Is more finance always good for growth? The famous answer is \"yes, up to a point\" — beyond some threshold, finance hurts growth (the hump-shaped relationship). This paper refines that result for high-income countries (OECD, EU, EMU). Three findings: (1) the non-linear effect of bank credit is stronger than of bank credit + debt securities + stock market combined; (2) credit to non-financial corporations is positively associated with growth, but credit to households is negatively associated; (3) debt-securities finance has a more robustly positive effect than stock-market finance. A more nuanced picture of which types of financial deepening help growth and which don't.",
-      "summary_hu": null,
+      "summary_hu": "Mindig jó-e a több pénzügy a növekedésnek? A híres válasz 'igen, egy pontig' — egy küszöb felett a pénzügy árt a növekedésnek (a domb-alakú kapcsolat). A tanulmány finomítja ezt az eredményt magas jövedelmű országokra (OECD, EU, EMU). Három megállapítás: (1) a banki hitel nem-lineáris hatása erősebb, mint a banki hitel + adósságpapírok + tőzsdepiac együtteséé; (2) a nem-pénzügyi vállalatoknak nyújtott hitel pozitívan asszociálódik a növekedéssel, de a háztartásoknak nyújtott negatívan; (3) az adósságpapír-finanszírozás robusztusabban pozitív hatású, mint a tőzsdepiaci finanszírozás. Árnyaltabb kép arról, melyik fajtájú pénzügyi mélyülés segíti a növekedést és melyik nem.",
       "data_used": "Panel data on OECD, EU, and EMU high-income countries. Financial structure indicators (bank credit, debt securities, stock market) by sector recipient (households, non-financial corporations, financial corporations).",
-      "data_used_hu": null,
+      "data_used_hu": "OECD, EU és EMU magas jövedelmű országok paneladatai. Pénzügyi-szerkezeti mutatók (banki hitel, adósságpapírok, tőzsdepiac) ágazati befogadó szerint (háztartások, nem-pénzügyi vállalatok, pénzügyi vállalatok).",
       "policy_relevance": "For Hungarian financial-sector policy (MNB, Pénzügyminisztérium): the paper supports targeting productive-sector credit (to non-financial corporates) while cooling household credit. Relevant to macroprudential tools like household-debt service ratios and LTV caps, and to capital-markets-union policy (which favors debt-securities over bank credit). Caveat: the sample is pre-2016; recent household-debt dynamics in Hungary (FX-mortgage aftermath, housing loan expansion) may have changed the relationship.",
-      "policy_relevance_hu": null,
+      "policy_relevance_hu": "Magyar pénzügyi-szektor politikához (MNB, Pénzügyminisztérium): a tanulmány a termelő-szektor (nem-pénzügyi vállalati) hitelezés célzását támogatja, miközben hűti a háztartási hitelezést. Releváns a makroprudenciális eszközökhöz, mint a háztartási adósságszolgálati arányok és LTV-plafonok, valamint a tőkepiaci-unió politikájához (amely az adósságpapírokat előnyben részesíti a banki hitellel szemben). Korlát: a minta 2016 előtti; a magyarországi háztartási-adósság közelmúltbeli dinamikája (devizahitel-utórezgés, lakáshitel-bővülés) megváltoztathatta a kapcsolatot.",
       "topics": [
         "banking-finance",
         "macroeconomics"
@@ -8981,11 +8996,11 @@
       "url_replication": null,
       "abstract": "Abstract This paper looks at the influence of financial deepening (private bank credit) on income inequality in developed economies. Building on a model of financially open economies (Kunieda et al. (Macroecon Dyn 18:1091–1128, 2014)), defining its endogenous economic growth rate, and extending its implications also for top income shares, it is shown that the impact of bank credit on inequality depends on the gap between the real interest rate and the GDP growth rate (‘ $$r-g$$ <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mrow> <mml:mi>r</mml:mi> <mml:mo>-</mml:mo> <mml:mi>g</mml:mi> </mml:mrow> </mml:math> ’). This finding is robustly confirmed by the empirical analysis on a few samples of OECD and EU countries, both for the Gini index and for top income shares. Both the econometric evidence and simple evidence show that the presence of this type of non-linearity (an interaction between financial deepening and $$r-g$$ <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mrow> <mml:mi>r</mml:mi> <mml:mo>-</mml:mo> <mml:mi>g</mml:mi> </mml:mrow> </mml:math> ) is likely to be one of the reasons for the mixed results that may be found in the empirical literature on the relationship between the financial deepening and income inequality.",
       "summary_en": "Does financial deepening increase income inequality? Theory suggests yes, but only under specific conditions on the real interest rate minus GDP growth (r-g). This paper tests the prediction on OECD and EU countries and confirms it: the impact of bank credit on inequality depends robustly on the r-g gap. When r exceeds g, financial deepening raises inequality; when g exceeds r, it can compress it. The result holds for both the Gini coefficient and for top-income shares. A precise empirical confirmation of a specific theoretical mechanism.",
-      "summary_hu": null,
+      "summary_hu": "Növeli-e a pénzügyi mélyülés a jövedelmi egyenlőtlenséget? Az elmélet szerint igen, de csak a reálkamat mínusz GDP-növekedés (r-g) konkrét feltételei mellett. A tanulmány OECD- és EU-országokon teszteli az előrejelzést, és megerősíti: a banki hitelezés egyenlőtlenségre gyakorolt hatása robusztusan az r-g résektől függ. Amikor r meghaladja g-t, a pénzügyi mélyülés növeli az egyenlőtlenséget; amikor g meghaladja r-t, csökkentheti. Az eredmény a Gini-együtthatóra és a felső-jövedelmi részesedésekre egyaránt érvényes. Egy konkrét elméleti mechanizmus pontos empirikus megerősítése.",
       "data_used": "Panel data on OECD and EU countries. Financial-deepening measures (private bank credit) linked to Gini and top-income-share measures of inequality.",
-      "data_used_hu": null,
+      "data_used_hu": "OECD- és EU-országok paneladatai. Pénzügyi-mélyülési mértékek (magán banki hitel) Gini- és felső-jövedelmi-részesedés egyenlőtlenségi mértékekkel összekapcsolva.",
       "policy_relevance": "For Hungarian inequality-policy analysis and macro forecasting (MNB, Pénzügyminisztérium): the paper provides a precise framework for predicting inequality effects of credit expansion depending on the macroeconomic environment. Relevant to low-interest-rate era (when credit could compress inequality) versus higher-rate era (when it amplifies). Caveat: the r-g mechanism works at country-level; the distributional impact of Hungary's specific credit-expansion to household vs. business sectors would need domestic decomposition.",
-      "policy_relevance_hu": null,
+      "policy_relevance_hu": "Magyar egyenlőtlenség-politikai elemzéshez és makró-előrejelzéshez (MNB, Pénzügyminisztérium): a tanulmány pontos keretet ad a hitelbővülés egyenlőtlenségi hatásainak előrejelzésére a makrogazdasági környezettől függően. Releváns a alacsony-kamat korszakhoz (amikor a hitel összenyomhatja az egyenlőtlenséget) szemben a magasabb-kamat korszakkal (amikor felerősíti). Korlát: az r-g mechanizmus országszinten működik; Magyarország konkrét hitel-bővülésének elosztási hatása háztartási vs. üzleti szektorra hazai dekompozíciót igényelne.",
       "topics": [
         "inequality-welfare",
         "banking-finance",
@@ -9030,20 +9045,27 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This article provides a detailed empirical analysis of quarterly frequency dynamics in macroeconomic aggregates in 12 countries of Central and Eastern Europe (CEE). It shows that business fluctuations in CEE countries are, in general, more pronounced than in developed ones, and are of similar size as in other emerging market economies. Private consumption is particularly volatile. Relative to major developed economies government spending is dominantly procyclical, and net exports are strongly countercyclical. The most frequent country outliers are the high inflation countries of Bulgaria, Romania and Russia, especially in labour market, price and exchange rate variables. Excluding these countries from the sample makes many of the observed patterns in cyclical dynamics more homogenous, and broadly similar to ones established in developed economies.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "summary_en": "How do business cycles in Central and Eastern Europe (CEE) compare to those in developed economies? Benczúr and Rátfai produce the cleanest empirical inventory yet: quarterly-frequency dynamics in macroeconomic aggregates for 12 CEE countries. Findings: CEE business fluctuations are larger than in developed economies but similar in size to those in other emerging markets. Private consumption is particularly volatile. Government spending is dominantly procyclical (unlike in developed economies, where it's countercyclical). Net exports are strongly countercyclical. Bulgaria, Romania and Russia — the high-inflation countries — are systematic outliers in labour-market, price, and exchange-rate variables; excluding them brings the rest of CEE closer to developed-economy patterns.",
+      "summary_hu": "Hogyan hasonlítanak a közép- és kelet-európai (KKE) konjunktúra-ciklusok a fejlett gazdaságokhoz? Benczúr és Rátfai eddig a legtisztább empirikus leltárt készíti: negyedéves frekvenciájú makró-aggregátum dinamika 12 KKE-országra. Megállapítások: a KKE konjunktúra-ingadozások nagyobbak, mint a fejlett gazdaságokban, de hasonló méretűek, mint más feltörekvő piacokon. A magánfogyasztás különösen volatilis. A kormányzati kiadás dominánsan prociklikus (a fejlett gazdaságoktól eltérően, ahol anticiklikus). A nettó export erősen anticiklikus. Bulgária, Románia és Oroszország — a magas inflációjú országok — szisztematikus kívülállók a munkapiaci, ár- és árfolyam-változókban; kihagyásuk a többi KKE-t közelebb hozza a fejlett-gazdasági mintákhoz.",
+      "data_used": "Quarterly macroeconomic aggregates for 12 Central and Eastern European countries. Variables include GDP, private and public consumption, investment, net exports, prices, wages, exchange rates. Sample period covers ~1995-2008.",
+      "data_used_hu": "Negyedéves makró-aggregátumok 12 közép- és kelet-európai országra. A változók közé tartozik a GDP, magán- és közfogyasztás, beruházás, nettó export, árak, bérek, árfolyamok. A mintaidőszak ~1995-2008.",
+      "policy_relevance": "Foundational reference for Hungarian macroeconomic-cycle analysis at MNB and NGM. The paper's procyclical-government-spending finding has direct implications for fiscal-policy debate: Hungary's pre-crisis fiscal stance was indeed procyclical, and that's expensive in welfare terms. Useful baseline for evaluating subsequent fiscal-rule reforms (Stability Act, Fiscal Council). Caveat: pre-2008 data; post-crisis CEE patterns may differ.",
+      "policy_relevance_hu": "Alapozó hivatkozás a magyar makrogazdasági-ciklus elemzéshez az MNB-nél és NGM-nél. A tanulmány prociklikus-kormányzati-kiadás megállapítása közvetlen következményekkel jár a fiskális-politikai vitára: Magyarország válság előtti fiskális helyzete valóban prociklikus volt, és ez jóléti szempontból költséges. Hasznos alap a későbbi fiskális-szabály reformok (Stabilitási Törvény, Költségvetési Tanács) értékeléséhez. Korlát: 2008 előtti adatok; a válság utáni KKE-minták eltérőek lehetnek.",
+      "topics": [
+        "macroeconomics",
+        "transition-postcommunist"
+      ],
+      "methods": [
+        "time-series"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-26",
+      "review_status": "ai-drafted",
       "openalex_id": "W1883184201"
     },
     {
@@ -9065,20 +9087,27 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We document massive heterogeneity in basic cyclical patterns within groups of developed and emerging market economies. While we detect marked differences between developed and emerging countries as well, the distributions of key business cycle statistics tend to overlap across different country groups.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "summary_en": "Does the standard developed-vs-emerging-economy distinction in business-cycle research hold up under closer inspection? Benczúr and Rátfai document massive heterogeneity within both groups: while there are average differences between developed and emerging countries, the distributions of key business-cycle statistics overlap substantially across groups. The implication: a single 'developed-economy' or 'emerging-economy' business-cycle benchmark misleads researchers and policymakers about any specific country. The paper urges more disaggregated cross-country comparison.",
+      "summary_hu": "Megáll-e a közelebbi vizsgálatban a standard fejlett-vs-feltörekvő megkülönböztetés a konjunktúra-kutatásban? Benczúr és Rátfai mindkét csoporton belül masszív heterogenitást dokumentál: bár átlagos különbségek vannak fejlett és feltörekvő országok között, a kulcsfontosságú konjunktúra-statisztikák eloszlásai jelentősen átfednek a csoportok között. A következmény: egyetlen 'fejlett-gazdasági' vagy 'feltörekvő-gazdasági' konjunktúra-benchmark félrevezeti a kutatókat és döntéshozókat egy konkrét országról. A tanulmány több diszaggregált országközi összehasonlítás mellett érvel.",
+      "data_used": "Cross-country business-cycle statistics for a large sample of developed and emerging-market economies, late 20th-early 21st century data.",
+      "data_used_hu": "Országokon átnyúló konjunktúra-statisztikák fejlett és feltörekvő piaci gazdaságok nagy mintájára, 20. század végi – 21. század eleji adatok.",
+      "policy_relevance": "For MNB / NGM benchmarking work: the paper warns against picking a 'representative emerging-market' country as Hungary's comparator — the within-group heterogeneity is too large. Better practice: choose a small set of substantively similar countries (V4, EU-CEE) and benchmark against the distribution.",
+      "policy_relevance_hu": "Az MNB / NGM benchmarking munkájához: a tanulmány figyelmeztet arra, hogy ne válasszunk egy 'reprezentatív feltörekvő piaci' országot Magyarország összehasonlítójának — a csoporton belüli heterogenitás túl nagy. Jobb gyakorlat: egy kis, érdemben hasonló országkészletet (V4, EU-KKE) választani, és az eloszláshoz benchmarkolni.",
+      "topics": [
+        "macroeconomics",
+        "methods"
+      ],
+      "methods": [
+        "time-series"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-26",
+      "review_status": "ai-drafted",
       "openalex_id": "W2125453561"
     },
     {
@@ -36980,7 +37009,7 @@
       "policy_framing_en": "Relevant to: MNB policy, banking regulation, macroprudential tools, financial inclusion.",
       "policy_framing_hu": "Releváns: MNB-politika, bankszabályozás, makroprudenciális eszközök, pénzügyi befogadás.",
       "icon": "landmark",
-      "paper_count": 81
+      "paper_count": 82
     },
     {
       "id": "fiscal-tax",
@@ -36991,7 +37020,7 @@
       "policy_framing_en": "Relevant to: tax reform, budget planning, public debt management, compliance policy.",
       "policy_framing_hu": "Releváns: adóreform, költségvetés-tervezés, államadósság-kezelés, adócompliance.",
       "icon": "coins",
-      "paper_count": 27
+      "paper_count": 28
     },
     {
       "id": "regional-urban",
@@ -37002,7 +37031,7 @@
       "policy_framing_en": "Relevant to: regional development funds, housing policy, transport investment, urban planning.",
       "policy_framing_hu": "Releváns: regionális fejlesztési alapok, lakáspolitika, közlekedési beruházások, városfejlesztés.",
       "icon": "building",
-      "paper_count": 39
+      "paper_count": 40
     },
     {
       "id": "energy-environment",
@@ -37046,7 +37075,7 @@
       "policy_framing_en": "Relevant to: long-run diagnoses of the Hungarian and CEE economy, lessons from 30+ years of transition, institutional path dependence.",
       "policy_framing_hu": "Releváns: a magyar és KKE gazdaság hosszú távú diagnózisa, 30+ év rendszerváltásának tanulságai, intézményi útfüggőség.",
       "icon": "flag",
-      "paper_count": 22
+      "paper_count": 23
     },
     {
       "id": "behavioral",
@@ -37079,7 +37108,7 @@
       "policy_framing_en": "Relevant to: long-run growth forecasting, macroeconomic modelling, sovereign-debt management, stabilisation policy design.",
       "policy_framing_hu": "Releváns: hosszú távú növekedés előrejelzés, makroökonómiai modellek, államadósság-kezelés, stabilizációs politika.",
       "icon": "line-chart",
-      "paper_count": 38
+      "paper_count": 41
     },
     {
       "id": "agriculture-food",
@@ -37101,7 +37130,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 112
+      "paper_count": 114
     },
     {
       "id": "market-design",

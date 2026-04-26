@@ -16,19 +16,24 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Liquidity is often cited as an important component of asset prices, particularly for sovereign bonds. Relative to canonical explanations (asymmetric information, thin markets), this paper presents a different source of liquidity risk: in a Diamond–Dybvig type model, where agents face a liquidity shock (becoming more risk‐averse early consumers), the speed of public information revelation about default risk influences bond spreads. Under reasonable parameter values, accelerated information revelation may increase spreads by 50%. Depending on parameters, revealing information may increase or decrease not only the welfare of the issuer (the issue price), but also the expected utility of investors.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "Why does liquidity affect sovereign bond spreads? The standard explanations are asymmetric information and thin markets. Benczúr offers a different mechanism: in a Diamond-Dybvig type model, agents face a liquidity shock that turns them into more risk-averse early consumers. The speed at which public information about default risk arrives then affects bond spreads through this liquidity channel. Under reasonable parameters, accelerating information revelation can raise bond spreads by 50%. Welfare implications cut both ways: depending on parameters, faster information release may increase or decrease both the issuer's welfare (bond price) and the investor's expected utility. A new theoretical channel for liquidity risk in sovereign-debt markets.",
+  "summary_hu": "Miért hat a likviditás a szuverén kötvényhozam-rétegekre? A standard magyarázatok az aszimmetrikus információ és a szűk piacok. Benczúr másik mechanizmust kínál: egy Diamond-Dybvig típusú modellben az ágensek likviditási sokkal néznek szembe, ami kockázat-averzebb korai fogyasztókká teszi őket. A nemfizetési kockázatról szóló nyilvános információ érkezésének sebessége ekkor a likviditási csatornán át hat a kötvényhozam-rétegekre. Reális paraméterek mellett az információ-felfedés gyorsítása 50 százalékkal emelheti a hozam-rétegeket. A jóléti következmények kétirányúak: a paraméterektől függően a gyorsabb információkibocsátás növelheti vagy csökkentheti a kibocsátó (kötvényár) és a befektető (várható hasznosság) jólétét egyaránt. Új elméleti csatorna a likviditási kockázatra a szuverén-adósság piacokon.",
+  "data_used": "Theoretical model; calibration with reasonable parameter values for sovereign bond markets.",
+  "data_used_hu": "Elméleti modell; szuverén kötvénypiacokra reális paraméterértékekkel kalibrálva.",
+  "policy_relevance": "Of interest to ÁKK (Hungarian Debt Management Agency) and MNB on sovereign-debt issuance strategy and information-disclosure policy. The paper challenges the simple view that more public information always lowers spreads — under specific (plausible) conditions, the opposite holds. Relevant to debt-issuance communication strategy and to broader EU sovereign-debt-market design. Caveat: theoretical; specific quantitative claims for Hungarian bond markets require empirical implementation.",
+  "policy_relevance_hu": "Az ÁKK és az MNB számára érdekes a szuverén-adósság-kibocsátási stratégia és információ-közlési politika szempontjából. A tanulmány kihívja azt az egyszerű nézetet, hogy a több nyilvános információ mindig csökkenti a hozam-rétegeket — meghatározott (plauzibilis) feltételek mellett az ellenkezője igaz. Releváns az adósság-kibocsátási kommunikációs stratégiához és a tágabb EU szuverén-adósságpiac tervezéshez. Korlát: elméleti; a magyar kötvénypiacokra vonatkozó konkrét kvantitatív állítások empirikus implementációt igényelnek.",
+  "topics": [
+    "banking-finance",
+    "fiscal-tax"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W2012682660"
 }

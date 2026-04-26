@@ -17,19 +17,26 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We document massive heterogeneity in basic cyclical patterns within groups of developed and emerging market economies. While we detect marked differences between developed and emerging countries as well, the distributions of key business cycle statistics tend to overlap across different country groups.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "Does the standard developed-vs-emerging-economy distinction in business-cycle research hold up under closer inspection? Benczúr and Rátfai document massive heterogeneity within both groups: while there are average differences between developed and emerging countries, the distributions of key business-cycle statistics overlap substantially across groups. The implication: a single 'developed-economy' or 'emerging-economy' business-cycle benchmark misleads researchers and policymakers about any specific country. The paper urges more disaggregated cross-country comparison.",
+  "summary_hu": "Megáll-e a közelebbi vizsgálatban a standard fejlett-vs-feltörekvő megkülönböztetés a konjunktúra-kutatásban? Benczúr és Rátfai mindkét csoporton belül masszív heterogenitást dokumentál: bár átlagos különbségek vannak fejlett és feltörekvő országok között, a kulcsfontosságú konjunktúra-statisztikák eloszlásai jelentősen átfednek a csoportok között. A következmény: egyetlen 'fejlett-gazdasági' vagy 'feltörekvő-gazdasági' konjunktúra-benchmark félrevezeti a kutatókat és döntéshozókat egy konkrét országról. A tanulmány több diszaggregált országközi összehasonlítás mellett érvel.",
+  "data_used": "Cross-country business-cycle statistics for a large sample of developed and emerging-market economies, late 20th-early 21st century data.",
+  "data_used_hu": "Országokon átnyúló konjunktúra-statisztikák fejlett és feltörekvő piaci gazdaságok nagy mintájára, 20. század végi – 21. század eleji adatok.",
+  "policy_relevance": "For MNB / NGM benchmarking work: the paper warns against picking a 'representative emerging-market' country as Hungary's comparator — the within-group heterogeneity is too large. Better practice: choose a small set of substantively similar countries (V4, EU-CEE) and benchmark against the distribution.",
+  "policy_relevance_hu": "Az MNB / NGM benchmarking munkájához: a tanulmány figyelmeztet arra, hogy ne válasszunk egy 'reprezentatív feltörekvő piaci' országot Magyarország összehasonlítójának — a csoporton belüli heterogenitás túl nagy. Jobb gyakorlat: egy kis, érdemben hasonló országkészletet (V4, EU-KKE) választani, és az eloszláshoz benchmarkolni.",
+  "topics": [
+    "macroeconomics",
+    "methods"
+  ],
+  "methods": [
+    "time-series"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W2125453561"
 }
