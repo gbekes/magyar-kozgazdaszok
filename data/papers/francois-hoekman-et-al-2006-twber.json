@@ -18,19 +18,25 @@
   "url_pdf": "https://academic.oup.com/wber/article-pdf/20/2/197/23942303/lhj010.pdf",
   "url_replication": null,
   "abstract": "Because of concern that tariff reductions in Organisation for Economic Co-operation and Development (OECD) countries will translate into worsening export performance for the least developed countries, the erosion of trade preferences may become a stumbling block for multilateral trade liberalization. An econometric analysis of actual preference use shows that preferences are underused because of administrative burdens--estimated to be equivalent to an average of 4 percent of the value of goods traded. To quantify the maximum scope for preference erosion, the compliance cost estimates are used in a model-based assessment of the impact of full elimination of OECD tariffs. Taking into account administrative costs eliminates erosion costs in the aggregate and greatly reduces the losses for countries most affected by preference erosion.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "Will OECD tariff reductions hurt the least-developed countries by eroding the trade preferences they currently enjoy? François, Hoekman and Manchin look at actual preference utilisation by African, Caribbean and Pacific (ACP) countries exporting to the OECD. They find preferences are systematically underused because of administrative compliance burdens — equivalent to about 4% of the value of goods traded. Using these compliance-cost estimates, they quantify the maximum scope for preference erosion: it is far smaller than gross-tariff calculations suggest. The empirical result tempers worries about preference erosion as a stumbling block for multilateral trade liberalisation; the policy lever is administrative simplification, not preserving tariff margins.",
+  "summary_hu": "Vajon az OECD-vámcsökkentések ártanak-e a legkevésbé fejlett országoknak azzal, hogy erodálják a jelenleg élvezett kereskedelmi kedvezményeiket? François, Hoekman és Manchin a tényleges kedvezmény-felhasználást vizsgálja afrikai, karibi és csendes-óceáni (ACP) országok OECD-be irányuló exportjában. A kedvezményeket szisztematikusan alulhasználják az adminisztratív megfelelési terhek miatt — ezek a kereskedelmi javak értékének átlagosan 4 százalékával egyenértékűek. Ezekkel a megfelelési költség-becslésekkel kvantifikálják a kedvezmény-erózió maximális mértékét: ez sokkal kisebb, mint amit a bruttó-vám számítások sugallnak. Az empirikus eredmény tompítja a kedvezmény-erózióval kapcsolatos aggályokat, mint a multilaterális kereskedelmi liberalizáció akadálya; a szakpolitikai eszköz az adminisztratív egyszerűsítés, nem a vámmarzsok megőrzése.",
+  "data_used": "EU and other OECD import-tariff and preference-utilisation data, late 1990s to mid-2000s, by HS chapter and ACP partner. Compliance costs estimated from gap between potential and actual utilisation rates.",
+  "data_used_hu": "EU és más OECD import-vám- és kedvezmény-felhasználási adatok, 1990-es évek vége — 2000-es évek közepe, HS-fejezet és ACP-partner szerint. A megfelelési költségeket a potenciális és tényleges felhasználási ráták közötti rés alapján becslik.",
+  "policy_relevance": "Useful for Hungarian Mission to the EU and ITM trade policy on EU Generalised System of Preferences (GSP) reforms. The paper's key finding — that compliance burden is the binding constraint, not the headline tariff — argues for prioritising rules-of-origin simplification and administrative-cost reduction in preference programmes. The same logic applies to Hungarian-specific export-promotion programmes that involve burdensome certification.",
+  "policy_relevance_hu": "Hasznos a Magyar Misszió az EU-nál és az ITM EU Általános Vámpreferencia-rendszer (GSP) reformokkal kapcsolatos kereskedelmi politikájához. A tanulmány kulcsmegállapítása — hogy a megfelelési teher a kötelező korlát, nem a vám — a származási szabályok egyszerűsítését és az adminisztratív költségek csökkentését támogatja a kedvezményprogramokban. Ugyanez a logika alkalmazható azokra a magyar-specifikus exportösztönzési programokra is, amelyek bonyolult tanúsítást igényelnek.",
+  "topics": [
+    "trade-fdi"
+  ],
+  "methods": [
+    "panel-data"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W2163690027"
 }

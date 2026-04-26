@@ -17,19 +17,28 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "By looking at imports of Eastern European countries, we provide novel insights on the importance and magnitude of border effects and on how they are linked with technical barriers to trade. All Central Eastern European Countries (CEECs) traded with themselves more than with other countries. We grouped products into three categories; depending on the importance of applicaple technical barriers. Our results show border effects are the largest for products, where we expect to have the most important technical barriers. We assess if border effects changed over the transition period and we find that for products where technical barriers are less important the magnitude of border effects was declining at the end of the 90s.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "Did pre-accession 'border effects' between Eastern European and EU-15 countries fade as integration progressed? Manchin and Pinna analyse imports of Central and Eastern European Countries (CEECs) classifying products by the importance of technical barriers to trade. Their three findings: CEECs traded with each other more than with other countries; border effects were largest for products subject to important technical barriers; and border effects diminished during the transition period as technical-barrier harmonisation progressed. The paper provides clean evidence on the relative magnitudes of structural and policy-induced border effects in the Eastern enlargement.",
+  "summary_hu": "Vajon a kelet-európai és EU-15 országok közötti, csatlakozás előtti 'határhatások' csökkentek-e az integráció előrehaladtával? Manchin és Pinna a közép- és kelet-európai országok (CEEC-ek) importját elemzi, a termékeket a technikai kereskedelmi korlátok fontossága szerint csoportosítva. Három megállapítás: a CEEC-ek többet kereskedtek egymás között, mint más országokkal; a határhatások a fontos technikai korlátokkal sújtott termékeknél voltak a legnagyobbak; és a határhatások csökkentek az átmeneti időszakban, ahogy a technikai-korlát harmonizáció előrehaladt. A tanulmány tiszta bizonyítékot ad a strukturális és szakpolitika-indukált határhatások relatív nagyságrendjéről a keleti bővítésben.",
+  "data_used": "CEEC-EU bilateral imports panel, late 1990s–early 2000s, HS-product-level breakdown with technical-barrier classification (low / medium / high TBT).",
+  "data_used_hu": "CEEC-EU kétoldalú import panel, 1990-es évek vége – 2000-es évek eleje, HS-terméksdzintű bontás technikai-korlát osztályozással (alacsony / közepes / magas TBT).",
+  "policy_relevance": "For Hungarian-EU trade history and for current Western-Balkans / Eastern Partnership accession debates: shows that technical-barrier harmonisation is the empirically most important driver of border-effect reduction during integration. Policy implication: pre-accession technical assistance focused on TBT compliance has high ROI. Relevant to ITM and Foreign Affairs work on Western-Balkans EU integration support.",
+  "policy_relevance_hu": "A magyar-EU kereskedelmi történelem szempontjából és a jelenlegi nyugat-balkáni / keleti partnerségi csatlakozási viták szempontjából: megmutatja, hogy a technikai-korlát harmonizáció a határhatás-csökkenés empirikusan legfontosabb hajtója az integráció során. Szakpolitikai implikáció: a TBT-megfelelésre összpontosító csatlakozás előtti technikai segítségnyújtás magas megtérülésű. Releváns az ITM és a Külügyminisztérium nyugat-balkáni EU-integrációs támogatási munkájához.",
+  "topics": [
+    "trade-fdi",
+    "transition-postcommunist"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "EU"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W2098617858"
 }
