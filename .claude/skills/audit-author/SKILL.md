@@ -18,108 +18,98 @@ description: >
 # audit-author
 
 A read-only QA pass on one author. Reports gaps; doesn't fix them.
-Each gap is a pointer to the right follow-up skill (`research-author`,
+Each gap points at the right follow-up skill (`research-author`,
 `draft-summary`, `media-scan`).
 
-## Core principle
+## Entry requirement (admission rule)
 
-The audit is the cheap step. Fixing each gap is a separate, more
-expensive step that the editor approves one by one. So this skill
-makes the gap list as concrete and ranked as possible — every line
-should be actionable on its own.
+Before auditing, confirm the author meets the catalogue's admission
+rule (SPEC §1.2). An author qualifies if **either**:
+
+- (i) at least one publication in a journal on `data/journals.json`
+  Tier A or B, **or**
+- (ii) ≥ 3 peer-reviewed published articles in English in any
+  economics, finance, or management journal.
+
+If neither holds, halt and flag for the editor — don't audit
+someone who shouldn't be in the catalogue. Run `hu-econ-verifier`
+(Check 1) for eligibility doubts.
 
 ## Inputs
 
-- An author slug or name. Resolve name → slug via `data/authors/`.
-- That's it. No flags. The audit is comprehensive by default; the
-  output's ranking handles prioritisation.
+An author slug or name. Resolve name → slug via `data/authors/`.
 
 ## What to check
 
 ### A. Author-level fields — `data/authors/<slug>.json`
 
-- `name_en`, `name_hu` — both present and non-empty
-- `affiliations` — at least one entry; current primary affiliation
-  has no `end` date
-- `bio_en`, `bio_hu` — both present, ≥2 sentences, not the seed
-  one-liner from `authors-seed.json`
+- `name_en`, `name_hu` — non-empty
+- `affiliations` — at least one entry; primary affiliation has no `end` date
+- `bio_en`, `bio_hu` — non-empty, ≥2 sentences, not the seed one-liner
 - `photo_url` — non-null and resolves (200 OK, image content type).
-  Skip URL fetch if URL is on a known-stable host
-  (kti.krtk.hu, economics.ceu.edu, *.uni-corvinus.hu, bruegel.org,
-  ideas.repec.org, en.wikipedia.org, commons.wikimedia.org); fetch
-  to verify otherwise.
-- `repec_id` — present (only 14/87 have it as of 2026-04-25)
-- `scholar_id` — present
-- `orcid` — present
-- `qualifying_publication` — non-null (only 7/87 have it)
-- `primary_fields` — at least one entry, all valid against the
-  topic taxonomy in `TAXONOMY.md`
+  Skip URL fetch if the host is known-stable (kti.krtk.hu,
+  economics.ceu.edu, *.uni-corvinus.hu, bruegel.org, ideas.repec.org,
+  en.wikipedia.org, commons.wikimedia.org); fetch otherwise.
+- `repec_id`, `scholar_id`, `orcid` — present
+- `qualifying_publication` — non-null
+- `primary_fields` — at least one entry, all valid against `TAXONOMY.md`
 - `review_status` — flag if `stub`
-- `deceased` / `died` — internally consistent (if deceased=true,
-  died should be a year)
+- `deceased` / `died` — internally consistent
 
 ### B. Catalogue contents — diff against `data/papers/`, `data/policy/`, `data/press/`
 
-For every paper / policy / press JSON whose `authors` array
-contains `<slug>`:
+For every paper / policy / press JSON whose `authors` array contains `<slug>`:
 
-- **Research papers (`data/papers/<slug>-*.json`):**
-  - `review_status` (count by: `metadata-fetched`, `ai-drafted`,
-    `human-reviewed`, `author-approved`)
-  - `summary_en` present and ≥80 words (per SPEC §5)
-  - `summary_hu` present
-  - `data_used` present, ≥40 words
-  - `policy_relevance` present, ≥60 words
-  - `topics` non-empty
-  - `doi` present (for articles); resolves if fetched
-  - `url_published` present
-  - co-author list — flag any `TBD`, `unknown`, or single-name
-    string entries
-- **Policy items (`data/policy/`):**
-  - `summary_en` present (currently only 11/46 have it)
-  - `policy_relevance` present (required by SPEC §2.6)
-  - `summary_hu`, `policy_relevance_hu`
-  - `linked_paper_id` — opportunity check: search
-    `data/papers/<slug>-*.json` for a likely match by topic + year
-  - `outlet_kind` valid: `{report, chapter, working_paper}`
-- **Press items (`data/press/`):**
-  - `title_hu` present for items with `language=hu`
-  - `title` present (English canonical)
-  - `linked_paper_id` opportunity check
-  - `kind` valid: `{op-ed, column, interview, podcast, blog,
-    newspaper, radio-tv, event-talk}`
-  - `url` resolves (light check — domain-level, don't hammer)
+**Research papers (`data/papers/`):**
+- `review_status` count by `metadata-fetched`, `ai-drafted`, `human-reviewed`, `author-approved`
+- `summary_en` ≥ 80 words (per SPEC §5)
+- `summary_hu` present
+- `data_used` ≥ 40 words
+- `policy_relevance` ≥ 60 words
+- `topics` non-empty
+- `doi` present for articles
+- `url_published` present
+- co-authors — flag any `TBD` / `unknown` / single-name string
+
+**Policy items (`data/policy/`):**
+- `summary_en` present
+- `policy_relevance` present (required by SPEC §2.6)
+- `summary_hu`, `policy_relevance_hu`
+- `linked_paper_id` opportunity check
+- `outlet_kind` ∈ `{report, chapter, working_paper}`
+
+**Press items (`data/press/`):**
+- `title_hu` present for `language=hu` items
+- `title` (English canonical) present
+- `linked_paper_id` opportunity check
+- `kind` ∈ `{op-ed, column, interview, podcast, blog, newspaper, radio-tv, event-talk}`
+- `url` resolves (domain-level only)
 
 ### C. RePEc diff (only if `repec_id` is present)
 
-If the author has a RePEc ID:
-
-1. Fetch `https://ideas.repec.org/e/<repec_id>.html` (or the `/f/`
-   form). The script `scripts/verify_repec.py` has the parser logic;
-   read it for reference.
-2. Extract their published-articles list.
-3. For each RePEc article whose journal is on `data/journals.json`
-   tier A or B, check whether `data/papers/` has a corresponding
-   slug. If not, list it as "missing from catalogue".
+1. Fetch `https://ideas.repec.org/e/<repec_id>.html`. Parser logic in
+   `scripts/verify_repec.py` — read for reference.
+2. Extract published-articles list.
+3. For each article whose journal is on `data/journals.json` Tier A
+   or B, check whether `data/papers/` has a matching slug. If not,
+   list as missing.
 4. Same for 2023+ NBER / CEPR / IZA / CESifo working papers.
 
-If `repec_id` is missing, skip this section but flag it as a
-high-priority gap (RePEc diff is the catch-all for missed papers).
+If `repec_id` is missing, skip and flag as a high-priority gap.
 
 ### D. Press / policy coverage diff
 
-Check whether known media outlets cover this author but the catalogue
-hasn't picked it up. Quick passes:
+Quick passes against the highest-yield outlets:
 
-1. `site:portfolio.hu <name>` — surfaces Portfolio columns
-2. `site:voxeu.org <name>` — surfaces VoxEU columns
-3. `site:bruegel.org <name>` — for Bruegel-affiliated authors
-4. `site:telex.hu <name>` — Telex Analysis pieces
-5. `site:index.hu defacto <name>` — older Index defacto items
+1. `site:portfolio.hu <name>`
+2. `site:voxeu.org <name>`
+3. `site:bruegel.org <name>`
+4. `site:telex.hu <name>`
+5. `site:index.hu defacto <name>`
 
-Cap at 5 searches. The `media-scan` skill goes deeper across the
-full source list; here we're only catching the obvious. Items found
-that aren't in `data/press/` or `data/policy/` go into the gap list.
+Cap at 5 searches. The `media-scan` skill walks the full source list.
+Items found that aren't in `data/press/` or `data/policy/` go in the
+gap list.
 
 ## Output format
 
@@ -135,14 +125,10 @@ SUMMARY:
 HIGH PRIORITY (drafts + translations):
   [P1] Draft summary_en for <N> metadata-fetched papers:
        - <slug-1>
-       - <slug-2>
-       ...
   [P2] HU translation for <N> already-drafted papers:
        - <slug-1>
-       - ...
   [P3] Draft summary_en + policy_relevance for <N> Policy items:
        - <slug-1>
-       - ...
 
 MEDIUM PRIORITY (visibility):
   [P4] Photo missing — try <suggested faculty page URL>
@@ -156,22 +142,18 @@ LOW PRIORITY (completeness):
   [P9] orcid missing
   [P10] linked_paper_id opportunities:
        - press <slug> may link to paper <slug>
-       - ...
 
-CATALOGUE GAPS (RePEc diff — only if repec_id was present):
+CATALOGUE GAPS (RePEc diff):
   Missing from data/papers/:
    - <Title>, <Journal> <Year>  [tier A]
-   - ...
 
 EXTERNAL COVERAGE GAPS (media diff):
   Likely missing from data/press/:
    - Portfolio column, <date>, <title>  — <URL>
-   - VoxEU column, <date>, <title>      — <URL>
 
 DATA HEALTH:
   - DOI broken on <slug>: <doi>
   - Co-author "TBD" on <slug>
-  - <other anomalies>
 
 NEXT STEPS:
   Run: research-author <slug>            (for fields gaps)
@@ -180,41 +162,44 @@ NEXT STEPS:
        media-scan --author <slug>        (for external coverage)
 ```
 
-If a section has no entries, omit it rather than printing "none".
-A short report is the success case.
+Omit empty sections. A short report is the success case.
 
-## Priority ordering (editor's stated preference)
+## Priority ordering
 
-From the 2026-04-25 handover, in order:
+From the editor's stated preference:
 
 1. Hungarian translations of already-drafted papers
 2. First drafts of metadata-fetched policy items
-3. First drafts of metadata-fetched research papers (esp. for
-   authors with 0 drafts)
+3. First drafts of metadata-fetched research papers (esp. for authors with 0 drafts)
 4. Author photos
 5. Author bio review (stubs)
 6. `qualifying_publication`
-7. HU translations of EN-origin Press *(deferred — option b)*
+7. HU translations of EN-origin Press *(deferred)*
 8. `linked_paper_id` cross-links
 9. `repec_id` coverage
 
-Use this exact ordering for ranking gaps. The audit's value is
-ranking, not just enumeration.
+## Bulk mode
+
+For a batch of authors ("audit X to Y", "audit all A–D"), use
+`bulk_audit.py` instead of running this skill per author. The script
+does the file-level checks (sections A and B) for the batch in one
+pass; skip the web fetches (sections C and D) at scale and run them
+per-author later as needed.
+
+```
+python .claude/skills/audit-author/bulk_audit.py --pattern '^[a-d]'
+python .claude/skills/audit-author/bulk_audit_summary.py --pattern '^[a-d]'
+```
 
 ## Stopping rules
 
-- One author per invocation. If the user names two, ask which first.
-- 5 web fetches max for the external-coverage diff. Anything more
-  belongs in `media-scan`.
+- One author per invocation in single mode.
+- 5 web fetches max for the external-coverage diff.
 - If `data/authors/<slug>.json` does not exist, halt and suggest
   `research-author <slug>` to build the entry first.
 
-## What this skill does NOT do
+## Out of scope
 
-- Fix anything. Output only.
-- Bulk audits across all 87 authors. Use the script
-  `scripts/verify_authors.py` if you need a global view; this skill
-  is per-author.
-- Verify Hungarian eligibility — that's `hu-econ-verifier`.
-- Compute global statistics (catalogue snapshots) — that lives in
-  `build.py`.
+- Fixing anything (output only).
+- Hungarian-eligibility check — defer to `hu-econ-verifier`.
+- Global statistics — `build.py`.

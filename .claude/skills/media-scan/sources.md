@@ -68,6 +68,46 @@ something here.
 - recency: rss
 - notes: News portal. Mostly interviews / quotes; original op-eds rarer.
 
+### G7.hu
+- url_root: https://g7.hu/
+- lang: hu
+- kind: press
+- search_pattern: `site:g7.hu "<NAME>"`
+- recency: rss
+- notes: Independent econ/business analysis site. Long-form pieces; regular contributors include academic economists. High signal — second-most relevant HU outlet after Portfolio for our authors.
+
+### Qubit
+- url_root: https://qubit.hu/
+- lang: hu
+- kind: press
+- search_pattern: `site:qubit.hu "<NAME>"`
+- recency: rss
+- notes: Science / data journalism. Economists appear when data, methodology, or policy modelling is in play. Bylines reliable.
+
+### Magyar Narancs
+- url_root: https://magyarnarancs.hu/
+- lang: hu
+- kind: press
+- search_pattern: `site:magyarnarancs.hu "<NAME>"`
+- recency: google
+- notes: Weekly. Long interviews with academics and op-eds. Print-only pieces sometimes have only a teaser online.
+
+### Origo
+- url_root: https://www.origo.hu/
+- lang: hu
+- kind: press
+- search_pattern: `site:origo.hu "<NAME>"`
+- recency: google
+- notes: Major news portal (gov-aligned editorial line). Mostly news pieces quoting economists; occasional op-ed.
+
+### Partizán
+- url_root: https://www.youtube.com/@partizan
+- lang: hu
+- kind: press (kind=interview | radio-tv)
+- search_pattern: `site:youtube.com partizan "<NAME>"` and `partizán "<NAME>"`
+- recency: manual
+- notes: YouTube interview channel — Gulyás Márton's long-form interviews. Episodes are video-only; capture episode title + date + URL. Several Hungarian economists have been on (Köszegi, Pogátsa, Csaba).
+
 ### Mérce
 - url_root: https://merce.hu/
 - lang: hu
