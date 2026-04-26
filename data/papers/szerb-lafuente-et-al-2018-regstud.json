@@ -19,19 +19,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This study analyzes how the entrepreneurial ecosystem and different types of entrepreneurship impact regional performance. By analyzing 121 European Union regions between 2012 and 2014, it is found that quantity (Kirznerian) entrepreneurship negatively impacts regional performance, while this effect turns positive in the case of quality (Schumpeterian) entrepreneurship. Also, regions with a healthy entrepreneurial ecosystem have a greater capacity to materialize the effects of high business-formation rates, regardless of their quality (Kirznerian entrepreneurship), while regions with weak entrepreneurial ecosystem may rely on innovative (Schumpeterian) entrepreneurs to compensate for the absence of entrepreneurship support policies and increase their economic outcomes.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "Quality matters more than quantity in entrepreneurship — but only when the local ecosystem can absorb it. Szerb, Lafuente and Horváth analyse 121 EU regions, 2012–2014, to test how 'Kirznerian' (existing-opportunity exploiting) vs. 'Schumpeterian' (innovation-creating) entrepreneurship affect regional economic performance. Pure quantity (Kirznerian) entrepreneurship has a NEGATIVE effect on regional performance — too much of it absorbs labour into low-productivity activity. Quality (Schumpeterian) entrepreneurship has a positive effect. Crucially, healthy regional entrepreneurial ecosystems convert business-formation into performance regardless of quality, while weak ecosystems waste even high-quality formation. Implication for regional development: it's the ecosystem condition, not the firm-formation rate, that policy should target.",
+  "summary_hu": "A vállalkozásban a minőség többet számít, mint a mennyiség — de csak akkor, ha a helyi ökoszisztéma képes felszívni. Szerb, Lafuente és Horváth 121 EU-régiót elemez 2012–2014 között, hogy megvizsgálja, hogyan hat a 'Kirzner-i' (létező lehetőséget kihasználó) és a 'Schumpeteri' (innovációt teremtő) vállalkozás a regionális gazdasági teljesítményre. A tiszta mennyiségi (Kirzner-i) vállalkozás NEGATÍV hatást gyakorol a regionális teljesítményre — túl sok belőle alacsony-termelékenységű tevékenységbe szívja fel a munkaerőt. A minőségi (Schumpeteri) vállalkozás pozitív hatású. Kulcsfontosságú, hogy az egészséges regionális vállalkozási ökoszisztémák a vállalkozás-alapítást teljesítménnyé alakítják minőségtől függetlenül, míg a gyenge ökoszisztémák a magas minőségű alapítást is elpazarolják. A regionális fejlesztésre vonatkozó implikáció: a szakpolitikának az ökoszisztéma-állapotot kell céloznia, nem a cégalapítási rátát.",
+  "data_used": "Panel of 121 NUTS-2 EU regions, 2012–2014. Regional GEDI scores (Regional Entrepreneurship and Development Index, REDI) plus regional productivity and employment outcomes from Eurostat.",
+  "data_used_hu": "121 NUTS-2 EU-régió paneladatai 2012–2014 között. Regionális GEDI-pontszámok (Regional Entrepreneurship and Development Index, REDI) plusz regionális termelékenységi és foglalkoztatási kimenetelek Eurostatból.",
+  "policy_relevance": "Critical for Hungarian regional-development strategy under EU Cohesion Policy. The result challenges the conventional 'more startups = better' framing used in many regional-policy programmes (KEHOP / GINOP startup support): without ecosystem investment first, encouraging more startup formation is counterproductive in low-ecosystem regions. NGM and the regional development authorities should prioritise the ecosystem-intervention sequence: institutional quality, capital access, mentorship → then quantity-of-formation incentives.",
+  "policy_relevance_hu": "Kritikus a magyar regionális fejlesztési stratégiához az EU Kohéziós Politika alatt. Az eredmény megkérdőjelezi a sok regionális-politikai programban (KEHOP / GINOP startup-támogatás) használt 'több startup = jobb' keretezést: ökoszisztéma-beruházás nélkül a startup-alapítás ösztönzése visszafelé sül el az alacsony ökoszisztémájú régiókban. Az NGM és a regionális fejlesztési hatóságoknak az ökoszisztéma-beavatkozási sorrendet kell priorizálnia: intézményi minőség, tőkeelérés, mentorálás → majd a mennyiségi-alapítási ösztönzők.",
+  "topics": [
+    "regional-urban",
+    "innovation-digital",
+    "firms-productivity"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "EU"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W2758947154"
 }

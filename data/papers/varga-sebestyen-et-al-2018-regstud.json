@@ -19,19 +19,29 @@
   "url_pdf": "https://www.tandfonline.com/doi/pdf/10.1080/00343404.2018.1527026?needAccess=true",
   "url_replication": null,
   "abstract": "An undesirable result of the rapid implementation of smart specialization into the framework of European Union Cohesion Policy was that it left several practical issues unanswered. An important unanswered issue is the implementation of economic impact assessment in a smart specialization policy context. Integrating entrepreneurship and interregional network policies into an economic modelling framework is considered among the most prominent challenges. This paper introduces how these two policies are implemented in the GMR-Europe (geographic, macro and regional) model. The simulations highlight that smart specialization policy targeting the development of entrepreneurship and knowledge networks is not equally successful in all regions.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "When the EU's Smart Specialisation Strategy was rolled out, it raised an unsolved practical problem: how to assess the economic impact of policies that target both knowledge networks and entrepreneurship development jointly? Varga, Sebestyén, Szerb and Szabó-Bartha integrate these two policy components into a regional economic-modelling framework — combining geographical economics with knowledge-spillover networks. They demonstrate how the framework can be used to estimate impacts of specific policy mixes on regional output and employment, applied to selected European regions. Provides a methodological building block for Cohesion Policy programme assessments that previously had to handle the components separately.",
+  "summary_hu": "Az EU Okos Szakosodási Stratégiájának bevezetése egy gyakorlati problémát hagyott megoldatlanul: hogyan mérjük olyan politikák gazdasági hatását, amelyek a tudáshálózatokat és a vállalkozásfejlesztést egyszerre célozzák? Varga, Sebestyén, Szerb és Szabó-Bartha integrálja ezt a két szakpolitikai komponenst egy regionális gazdasági modellezési keretbe — ötvözve a földrajzi gazdaságtant tudás-átgyűrűzési hálózatokkal. Bemutatják, hogyan használható a keret konkrét szakpolitikai mixek regionális kibocsátásra és foglalkoztatásra gyakorolt hatásának becslésére, kiválasztott európai régiókra alkalmazva. Módszertani építőkövet biztosít a Kohéziós Politikai program-értékelésekhez, amelyeknek korábban a komponenseket külön kellett kezelniük.",
+  "data_used": "Regional NUTS-2 / NUTS-3 panel data on output, employment, R&D spending, knowledge networks (patent-co-invention or research-collaboration measures). Geographical economic model calibrated to selected EU regions.",
+  "data_used_hu": "Regionális NUTS-2 / NUTS-3 paneladatok a kibocsátásra, foglalkoztatásra, K+F-kiadásokra, tudáshálózatokra (szabadalom-társfeltalálási vagy kutatási együttműködési mértékek). Kiválasztott EU-régiókra kalibrált földrajzi gazdasági modell.",
+  "policy_relevance": "For Hungarian Smart Specialization Strategy (S3) implementation under ESIF: the paper offers a tool for ex-ante and ex-post assessment of S3 spending. Useful at the National Smart Specialization Authority level. Caveat: the model requires substantial regional knowledge-network data which is harder to assemble for Hungary's smaller NUTS-3 regions; specific Hungarian application would require additional data work.",
+  "policy_relevance_hu": "A magyar Okos Szakosodási Stratégia (S3) végrehajtásához az ESIF alatt: a tanulmány eszközt kínál az S3-kiadások ex-ante és ex-post értékeléséhez. Hasznos a Nemzeti Okos Szakosodási Hatóság szintjén. Korlát: a modell jelentős regionális tudáshálózat-adatokat igényel, amelyek Magyarország kisebb NUTS-3 régióira nehezebben összegyűjthetők; a konkrét magyar alkalmazás további adatmunkát igényel.",
+  "topics": [
+    "regional-urban",
+    "innovation-digital",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "EU"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W2900084433"
 }

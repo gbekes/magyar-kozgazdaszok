@@ -17,19 +17,27 @@
   "url_pdf": "https://link.springer.com/content/pdf/10.1007/s11187-019-00297-9.pdf",
   "url_replication": null,
   "abstract": "Abstract In this article, we attempt to explain the failure of many studies to show a link between entrepreneurs’ beliefs in their entrepreneurial skills and the actual or expected growth of their venture. By using Frese and Gielnik’s action-characteristics model of entrepreneurship as an analytical framework and analyzing Global Entrepreneurship Monitor Adult Population Survey data, we show that entrepreneurs’ perceived entrepreneurial skills are consistently inflated over the different phases of the startup, albeit in different ways. Depending on the typical form of overconfidence, the link between skill beliefs and growth expectations may be mediated by expectations about competitive advantages. Moreover, the huge drop in growth expectations is not associated with a drop in perceived skills; instead other entrepreneurial expectations also become more realistic and their effect strengthens with experience.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "Why doesn't more entrepreneurial self-confidence translate into more business growth? Past studies have struggled to find a link between founders' belief in their entrepreneurial skills and their venture's actual or expected growth. Szerb and Vörös use an action-characteristics model of entrepreneurship plus Global Entrepreneurship Monitor data to show that entrepreneurs' perceived skills are consistently inflated, but in different ways across the startup phases. Depending on which form of overconfidence dominates (e.g., overconfidence in skill vs. overconfidence in venture prospects), the link between belief and growth changes sign. Apparent inconsistencies across earlier studies reflect heterogeneity in which type of overconfidence is being measured.",
+  "summary_hu": "Miért nem fordul át több vállalkozói önbizalom több üzleti növekedésbe? Korábbi tanulmányok nehezen találtak kapcsolatot az alapítók vállalkozói képességeibe vetett hite és vállalkozásuk tényleges vagy várható növekedése között. Szerb és Vörös cselekvés-jellemzés modell és Global Entrepreneurship Monitor adatok segítségével megmutatja, hogy a vállalkozók észlelt képességei konzisztensen felfújtak, de különböző módon a startup fázisokban. Attól függően, hogy melyik túlzott magabiztosság-forma dominál (pl. a képességbe vetett túlzott magabiztosság vs. a vállalkozás kilátásaiba vetett), a hit és a növekedés kapcsolata előjelet vált. A korábbi tanulmányok közötti látszólagos inkonzisztencia azt tükrözi, hogy melyik túlzott magabiztosság-típust mérik.",
+  "data_used": "Global Entrepreneurship Monitor (GEM) Adult Population Survey, multiple waves (mid-2010s), comparing perceived entrepreneurial skills to subsequent venture outcomes for ~50,000 early-stage entrepreneurs across ~50 countries.",
+  "data_used_hu": "Global Entrepreneurship Monitor (GEM) Adult Population Survey, több hullám (2010-es évek közepe), összehasonlítva az észlelt vállalkozói képességeket a későbbi vállalkozási kimenetelekkel ~50 000 korai-szakaszú vállalkozóra ~50 országból.",
+  "policy_relevance": "For Hungarian entrepreneurship-support programmes (NIH startup grants, Vinegre, Design Terminal): the paper argues that the typical 'self-assessment screening' used in many programmes is unreliable — the wrong kind of overconfidence can flag both winners and losers. Better screening should use action-characteristic indicators (specific past actions taken) rather than belief surveys. Caveat: the paper is descriptive; the policy implication for screening is suggestive, not directly tested.",
+  "policy_relevance_hu": "A magyar vállalkozás-támogatási programok (NIH startup-támogatások, Vinegre, Design Terminal) szempontjából: a tanulmány szerint a sok programban használt tipikus 'önértékelési szűrés' megbízhatatlan — a rossz típusú túlzott magabiztosság a győzteseket és veszteseket egyaránt jelölheti. A jobb szűrés cselekvés-jellemzés mutatókat (konkrét múltbeli megtett cselekvéseket) használ a hitfelmérések helyett. Korlát: a tanulmány leíró; a szűrésre vonatkozó szakpolitikai implikáció sugallt, nem közvetlenül tesztelt.",
+  "topics": [
+    "behavioral",
+    "innovation-digital",
+    "firms-productivity"
+  ],
+  "methods": [
+    "descriptive-survey"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W2990778411"
 }

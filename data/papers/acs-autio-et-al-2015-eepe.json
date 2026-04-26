@@ -18,19 +18,27 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We introduce a novel concept of National Systems of Entrepreneurship and provide an approach to characterizing them. National Systems of Entrepreneurship are fundamentally resource allocation systems that are driven by individual-level opportunity pursuit, through the creation of new ventures, with this activity and its outcomes regulated by country-specific institutional characteristics. In contrast with the institutional emphasis of the National Systems of Innovation frameworks, where institutions engender and regulate action, National Systems of Entrepreneurship are driven by individuals, with institutions regulating who acts and the outcomes of individual action. Building on these principles, we also introduce a novel index methodology to characterizing National Systems of Entrepreneurship. The distinctive features of the methodology are: (1) systemic approach, which allows interactions between components of National Systems of Entrepreneurship; (2) the Penalty for Bottleneck feature, which identifies bottleneck factors that hold back system performance; (3) contextualization, which recognizes that national entrepreneurship processes are always embedded in a given country’s institutional framework.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "What is a 'national system of entrepreneurship', and how does it differ from the better-established 'national system of innovation'? Ács, Autio and Szerb propose a conceptual framework focused on resource-allocation systems driven by individual-level opportunity pursuit, regulated by country-specific institutions. They argue this is fundamentally different from innovation-system approaches: innovation systems emphasize institutions, but entrepreneurship systems also need to model individual-level decisions and how institutions shape them. The paper introduces the Global Entrepreneurship and Development Index (GEDI) as a measurement tool and outlines policy implications for shifting from innovation-policy to entrepreneurship-policy in development strategies.",
+  "summary_hu": "Mi a 'nemzeti vállalkozási rendszer', és miben különbözik a jobban megalapozott 'nemzeti innovációs rendszertől'? Ács, Autio és Szerb fogalmi keretet javasol, amely az egyéni szintű lehetőség-megragadás által vezérelt erőforrás-allokációs rendszerekre fókuszál, amelyeket országspecifikus intézmények szabályoznak. Érvelésük szerint ez alapvetően különbözik az innovációs rendszerek megközelítésétől: az innovációs rendszerek az intézményeket hangsúlyozzák, de a vállalkozási rendszereknek az egyéni döntéseket és azt is modellezniük kell, ahogy az intézmények ezeket alakítják. A tanulmány bevezeti a Global Entrepreneurship and Development Index-et (GEDI) mint mérési eszközt, és kifejti a szakpolitikai következtetéseket az innováció-politikáról a vállalkozás-politikára való átmenethez a fejlesztési stratégiákban.",
+  "data_used": "Conceptual / framework chapter with GEDI illustration. The GEDI itself is computed from Global Entrepreneurship Monitor (GEM) Adult Population Survey data plus country-level institutional indicators, covering ~80 countries from the late 2000s.",
+  "data_used_hu": "Fogalmi / kerettani fejezet a GEDI illusztrációjával. Magát a GEDI-t a Global Entrepreneurship Monitor (GEM) Adult Population Survey adatokból és országszintű intézményi mutatókból számítják, ~80 országra a 2000-es évek végétől.",
+  "policy_relevance": "For Hungarian innovation- and SME-policy (NIH, ITM, NGM): the framework argues that simply copying Northern-European innovation-system policy will under-deliver on entrepreneurship outcomes if Hungarian institutional gaps in the entrepreneurship-system dimensions aren't addressed. The GEDI's component scores let policymakers locate the binding constraint (e.g., risk-capital availability vs. opportunity-recognition norms vs. process innovation). Useful complement to Hungary's National Smart Specialization Strategy work.",
+  "policy_relevance_hu": "A magyar innováció- és KKV-politika (NIH, ITM, NGM) szempontjából: a keret szerint az észak-európai innovációs-rendszer-politika puszta másolása alulteljesít a vállalkozási kimeneteknél, ha a magyar intézményi hiányokat nem kezelik a vállalkozási-rendszer dimenzióiban. A GEDI komponens-pontszámai lehetővé teszik a döntéshozók számára, hogy lokalizálják a kötelező korlátot (pl. kockázati tőke elérhetősége vs. lehetőségfelismerési normák vs. folyamatinnováció). Hasznos kiegészítője a magyar Nemzeti Okos Szakosodási Stratégia munkájának.",
+  "topics": [
+    "innovation-digital",
+    "firms-productivity",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W2766507871"
 }

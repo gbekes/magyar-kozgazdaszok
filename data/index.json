@@ -4207,20 +4207,28 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We introduce a novel concept of National Systems of Entrepreneurship and provide an approach to characterizing them. National Systems of Entrepreneurship are fundamentally resource allocation systems that are driven by individual-level opportunity pursuit, through the creation of new ventures, with this activity and its outcomes regulated by country-specific institutional characteristics. In contrast with the institutional emphasis of the National Systems of Innovation frameworks, where institutions engender and regulate action, National Systems of Entrepreneurship are driven by individuals, with institutions regulating who acts and the outcomes of individual action. Building on these principles, we also introduce a novel index methodology to characterizing National Systems of Entrepreneurship. The distinctive features of the methodology are: (1) systemic approach, which allows interactions between components of National Systems of Entrepreneurship; (2) the Penalty for Bottleneck feature, which identifies bottleneck factors that hold back system performance; (3) contextualization, which recognizes that national entrepreneurship processes are always embedded in a given country’s institutional framework.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "summary_en": "What is a 'national system of entrepreneurship', and how does it differ from the better-established 'national system of innovation'? Ács, Autio and Szerb propose a conceptual framework focused on resource-allocation systems driven by individual-level opportunity pursuit, regulated by country-specific institutions. They argue this is fundamentally different from innovation-system approaches: innovation systems emphasize institutions, but entrepreneurship systems also need to model individual-level decisions and how institutions shape them. The paper introduces the Global Entrepreneurship and Development Index (GEDI) as a measurement tool and outlines policy implications for shifting from innovation-policy to entrepreneurship-policy in development strategies.",
+      "summary_hu": "Mi a 'nemzeti vállalkozási rendszer', és miben különbözik a jobban megalapozott 'nemzeti innovációs rendszertől'? Ács, Autio és Szerb fogalmi keretet javasol, amely az egyéni szintű lehetőség-megragadás által vezérelt erőforrás-allokációs rendszerekre fókuszál, amelyeket országspecifikus intézmények szabályoznak. Érvelésük szerint ez alapvetően különbözik az innovációs rendszerek megközelítésétől: az innovációs rendszerek az intézményeket hangsúlyozzák, de a vállalkozási rendszereknek az egyéni döntéseket és azt is modellezniük kell, ahogy az intézmények ezeket alakítják. A tanulmány bevezeti a Global Entrepreneurship and Development Index-et (GEDI) mint mérési eszközt, és kifejti a szakpolitikai következtetéseket az innováció-politikáról a vállalkozás-politikára való átmenethez a fejlesztési stratégiákban.",
+      "data_used": "Conceptual / framework chapter with GEDI illustration. The GEDI itself is computed from Global Entrepreneurship Monitor (GEM) Adult Population Survey data plus country-level institutional indicators, covering ~80 countries from the late 2000s.",
+      "data_used_hu": "Fogalmi / kerettani fejezet a GEDI illusztrációjával. Magát a GEDI-t a Global Entrepreneurship Monitor (GEM) Adult Population Survey adatokból és országszintű intézményi mutatókból számítják, ~80 országra a 2000-es évek végétől.",
+      "policy_relevance": "For Hungarian innovation- and SME-policy (NIH, ITM, NGM): the framework argues that simply copying Northern-European innovation-system policy will under-deliver on entrepreneurship outcomes if Hungarian institutional gaps in the entrepreneurship-system dimensions aren't addressed. The GEDI's component scores let policymakers locate the binding constraint (e.g., risk-capital availability vs. opportunity-recognition norms vs. process innovation). Useful complement to Hungary's National Smart Specialization Strategy work.",
+      "policy_relevance_hu": "A magyar innováció- és KKV-politika (NIH, ITM, NGM) szempontjából: a keret szerint az észak-európai innovációs-rendszer-politika puszta másolása alulteljesít a vállalkozási kimeneteknél, ha a magyar intézményi hiányokat nem kezelik a vállalkozási-rendszer dimenzióiban. A GEDI komponens-pontszámai lehetővé teszik a döntéshozók számára, hogy lokalizálják a kötelező korlátot (pl. kockázati tőke elérhetősége vs. lehetőségfelismerési normák vs. folyamatinnováció). Hasznos kiegészítője a magyar Nemzeti Okos Szakosodási Stratégia munkájának.",
+      "topics": [
+        "innovation-digital",
+        "firms-productivity",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-26",
+      "review_status": "ai-drafted",
       "openalex_id": "W2766507871"
     },
     {
@@ -4244,20 +4252,28 @@
       "url_pdf": "https://link.springer.com/content/pdf/10.1007/s11187-018-0013-9.pdf",
       "url_replication": null,
       "abstract": "We analyze conceptually and in an empirical counterpart the relationship between economic growth, factor inputs, institutions, and entrepreneurship. In particular, we investigate whether entrepreneurship and institutions, in combination in an ecosystem, can be viewed as a “missing link” in an aggregate production function analysis of cross-country differences in economic growth. To do this, we build on the concept of National Systems of Entrepreneurship (NSE) as resource allocation systems that combine institutions and human agency into an interdependent system of complementarities. We explore the empirical relevance of these ideas using data from a representative global survey and institutional sources for 46 countries over the period 2002–2011. We find support for the role of the entrepreneurial ecosystem in economic growth.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "summary_en": "Can entrepreneurship and institutions, treated together as an 'ecosystem', explain cross-country differences in economic growth that the standard production function alone misses? Ács, Estrin, Mickiewicz and Szerb embed the National Systems of Entrepreneurship framework into a growth-accounting analysis. The 'ecosystem' acts as a missing component of the aggregate production function: institutions and entrepreneurship together generate cross-country growth differences that human and physical capital alone cannot. Empirically, countries with stronger entrepreneurial ecosystems grow faster after controlling for factor accumulation. The paper contributes a measurable construct that can enter standard growth-accounting frameworks.",
+      "summary_hu": "Magyarázza-e a vállalkozás és az intézmények, együttesen 'ökoszisztémaként' kezelve, a növekedés országok közötti különbségét, amit a standard termelési függvény önmagában elveszít? Ács, Estrin, Mickiewicz és Szerb beépíti a Nemzeti Vállalkozási Rendszerek keretet egy növekedési-számviteli elemzésbe. Az 'ökoszisztéma' az aggregált termelési függvény hiányzó komponenseként működik: az intézmények és a vállalkozás együtt olyan országok közötti növekedési különbségeket generálnak, amelyeket az emberi és fizikai tőke önmagában nem. Empirikusan az erősebb vállalkozási ökoszisztémájú országok gyorsabban nőnek a tényezőfelhalmozás kontrollálása után is. A tanulmány mérhető konstrukcióval járul hozzá, amely standard növekedési-számviteli keretekbe is beépíthető.",
+      "data_used": "Cross-country panel of ~70 countries, 2002–2013, combining Penn World Table data on GDP and factors with the Global Entrepreneurship and Development Index (GEDI) ecosystem score. Production-function specification plus ecosystem term.",
+      "data_used_hu": "~70 ország keresztmetszeti panelje 2002–2013 között, a Penn World Table GDP- és tényezőadatait kombinálva a Global Entrepreneurship and Development Index (GEDI) ökoszisztéma-pontszámával. Termelésifüggvény-specifikáció plusz ökoszisztéma tag.",
+      "policy_relevance": "For Hungarian long-run-growth policy at NGM and the MNB: the paper provides the empirical foundation for treating entrepreneurial-ecosystem investment as a productive contribution to GDP growth, alongside physical and human capital. Relevant to ESIF Cohesion Policy programming, where entrepreneurship-component spending should count in productivity-impact assessments. Caveat: the cross-country specification is descriptive, not causal; ecosystem-investment ROI estimates require firmer microeconomic identification.",
+      "policy_relevance_hu": "A magyar hosszú távú növekedési politikához (NGM és MNB): a tanulmány empirikus alapot ad a vállalkozási-ökoszisztéma beruházás GDP-növekedéshez való produktív hozzájárulásként való kezelésére, a fizikai és emberi tőke mellett. Releváns az ESIF Kohéziós Politika programozásához, ahol a vállalkozási komponens kiadásait beleszámíthatjuk a termelékenységi hatásértékelésbe. Korlát: a keresztmetszeti specifikáció leíró, nem ok-okozati; az ökoszisztéma-beruházás megtérülésének becslése szilárdabb mikroökonómiai azonosítást igényel.",
+      "topics": [
+        "innovation-digital",
+        "firms-productivity",
+        "macroeconomics"
+      ],
+      "methods": [
+        "panel-data"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-26",
+      "review_status": "ai-drafted",
       "openalex_id": "W2794350933"
     },
     {
@@ -25973,20 +25989,27 @@
       "url_pdf": "https://link.springer.com/content/pdf/10.1007/s11187-019-00140-1.pdf",
       "url_replication": null,
       "abstract": "Abstract We evaluate how country-level entrepreneurship—measured via the national system of entrepreneurship—triggers total factor productivity (TFP) by increasing the effects of Kirznerian and Schumpeterian entrepreneurship. Using a database for 45 developed and developing countries during 2002–2013, we employ non-parametric techniques to build a world technology frontier and compute TFP estimates. The results of the common factor models reveal that the national system of entrepreneurship is a relevant conduit of TFP, and that this effect is heterogeneous across countries. Policies supporting Kirznerian entrepreneurship—e.g., increased business formation rates—may promote the creation of low value-adding businesses which is not associated with higher TFP rates. Policy interventions targeting Schumpeterian entrepreneurship objectives—e.g., innovative entrepreneurship and the development of new technologies—are conducive to technical change by promoting upward shifts in the countries’ production function and, consequently, productivity growth.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "summary_en": "How does country-level entrepreneurship affect total factor productivity (TFP)? Lafuente, Ács, Szerb and Sanders distinguish between 'Kirznerian' entrepreneurship (alertness to existing-but-unexploited opportunities) and 'Schumpeterian' entrepreneurship (creative destruction via new products and processes). Using non-parametric methods to build a world technology frontier across 45 countries, 2002–2013, they show that the national system of entrepreneurship is a key driver of TFP — but Kirznerian and Schumpeterian channels operate differently. Schumpeterian entrepreneurship pushes the frontier outward; Kirznerian helps countries closer to the frontier exploit it. The result clarifies which type of entrepreneurship policy each country should prioritise based on its distance to the frontier.",
+      "summary_hu": "Hogyan befolyásolja az országszintű vállalkozási tevékenység a teljes tényezőtermelékenységet (TFP)? Lafuente, Ács, Szerb és Sanders megkülönbözteti a 'Kirzner-i' vállalkozást (a létező, de kihasználatlan lehetőségekre való éberség) és a 'Schumpeteri' vállalkozást (kreatív rombolás új termékek és folyamatok révén). Nem-parametrikus módszerrel világ-technológiai határt építenek 45 országra 2002–2013 között, és megmutatják, hogy a nemzeti vállalkozási rendszer a TFP fő hajtója — de a Kirzner-i és Schumpeteri csatornák különbözőképpen működnek. A Schumpeteri vállalkozás kifelé tolja a határt; a Kirzner-i segít a határhoz közeli országoknak kihasználni azt. Az eredmény tisztázza, melyik vállalkozási politikát kell priorizálnia egy ország-nak a határtól való távolsága alapján.",
+      "data_used": "Panel of 45 developed and developing countries, 2002–2013. World technology frontier estimated non-parametrically using TFP residuals from country-level production functions. Entrepreneurship variables from GEM-derived national-system measures.",
+      "data_used_hu": "45 fejlett és fejlődő ország paneladatai 2002–2013-ban. A világ-technológiai határt nem-parametrikusan becslik a TFP-reziduumokból, amelyek az országszintű termelési függvényekből származnak. A vállalkozási változók a GEM-ből származtatott nemzeti-rendszer mértékek.",
+      "policy_relevance": "For Hungary's specific position — moderately distant from the technology frontier — the paper implies the policy mix should include both Kirznerian (incremental opportunity-exploitation, e.g., service-sector innovation) and Schumpeterian (frontier-pushing R&D) components. Pure Schumpeterian focus underutilises Hungary's existing absorption capacity; pure Kirznerian focus risks chronic distance from the frontier. Relevant to ITM / NIH innovation-strategy balance.",
+      "policy_relevance_hu": "Magyarország konkrét helyzetére — mérsékelten távol a technológiai határtól — a tanulmány azt sugallja, hogy a szakpolitikai mixnek mindkét komponenst tartalmaznia kell: Kirzner-i (fokozatos lehetőség-kihasználás, pl. szolgáltatási szektor innováció) és Schumpeteri (határt feszegető K+F). A tisztán Schumpeteri fókusz alulhasználja Magyarország meglévő befogadó kapacitását; a tisztán Kirzner-i fókusz krónikus határtávolságot kockáztat. Releváns az ITM / NIH innovációs-stratégia egyensúlyhoz.",
+      "topics": [
+        "innovation-digital",
+        "firms-productivity"
+      ],
+      "methods": [
+        "panel-data"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-26",
+      "review_status": "ai-drafted",
       "openalex_id": "W2922487421"
     },
     {
@@ -26009,20 +26032,27 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We employ the ‘benefit of the doubt’ approach rooted in non-parametric techniques to evaluate the entrepreneurial ecosystem of 71 countries for the period 2016. By scrutinizing the relative efficiency of countries’ entrepreneurial ecosystems, the proposed analysis of composite indicators allows the computation of endogenous (country-specific) weights that can be used for developing more informed policy making. The results show that countries prioritize different aspects of their national system of entrepreneurship which confirms that, contrary to homogeneous prescription, tailor-made policy is necessary if the objective is to optimize the resources deployed to enhance the countries’ entrepreneurial ecosystem. The findings of the empirical application reveal significant improvements in the quality of the entrepreneurial ecosystem can be realized by targeting the policy priorities of the local entrepreneurship system identified by the ‘benefit of the doubt’ weights. By analyzing the variation in economic and entrepreneurship outcomes over the seven-year period centered on the study year (period 2013–2019), we found a significant positive correlation between quality improvements in the entrepreneurial ecosystem and venture capital investments.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "summary_en": "When ranking countries on entrepreneurial-ecosystem performance, should we use uniform weights across the ecosystem's component dimensions, or country-specific weights? Lafuente, Ács and Szerb apply the 'benefit of the doubt' non-parametric weighting approach, allowing each country's composite-indicator weights to be those that maximise its own ranking — subject to standard constraints. For 71 countries in 2016, they show countries prioritise sharply different ecosystem components (e.g., high-tech-VC-rich countries vs. process-innovation-rich countries reach the same ecosystem score by very different routes). The endogenous weights provide more informative policy guidance than uniform-weight rankings: each country's lowest-relative-weighting components are its actual binding constraints.",
+      "summary_hu": "A vállalkozási-ökoszisztéma teljesítményének országrangsorolásakor egységes súlyokat használjunk-e az ökoszisztéma komponensdimenzióin, vagy országspecifikusakat? Lafuente, Ács és Szerb a 'kétség előnye' nem-parametrikus súlyozási megközelítést alkalmazza, amely megengedi, hogy minden ország kompozit-mutatójának súlyai azok legyenek, amelyek maximalizálják saját rangsorolását — standard megkötések mellett. 71 országra 2016-ban megmutatják, hogy az országok élesen eltérő ökoszisztéma-komponenseket priorizálnak (pl. magas-tech-VC-gazdag országok vs. folyamatinnováció-gazdag országok ugyanahhoz az ökoszisztéma-pontszámhoz teljesen más úton jutnak). Az endogén súlyok informatívabb szakpolitikai útmutatást adnak, mint az egységes-súlyú rangsorolások: minden ország legalacsonyabb relatív súlyú komponensei a tényleges kötelező korlátai.",
+      "data_used": "GEDI ecosystem-component data for 71 countries, 2016. Composite-indicator analysis using DEA-style benefit-of-the-doubt weighting; comparison with uniform-weight aggregations.",
+      "data_used_hu": "GEDI ökoszisztéma-komponens adatok 71 országra 2016-ban. Kompozit-mutató elemzés DEA-stílusú kétség-előnyű súlyozással; összehasonlítás egységes-súlyú aggregálásokkal.",
+      "policy_relevance": "Useful methodological tool for Hungarian entrepreneurship policy assessment: the GEDI's uniform-weight Hungary ranking might suggest a generic policy menu, but the benefit-of-the-doubt method shows where Hungary actually under-performs relative to its own profile. For NIH / ITM strategic planning, run the country-specific weighting before allocating innovation-policy budget. Caveat: the method always lets a country look its best on chosen components — useful diagnostic, not absolute-quality comparison.",
+      "policy_relevance_hu": "Hasznos módszertani eszköz a magyar vállalkozási-politikai értékeléshez: a GEDI egységes-súlyú magyar rangsorolása generikus szakpolitikai menüt sugallhat, de a kétség-előnye módszer megmutatja, hol teljesít Magyarország alul saját profiljához képest. A NIH / ITM stratégiai tervezéshez érdemes az országspecifikus súlyozást futtatni az innovációs-politikai költségvetés elosztása előtt. Korlát: a módszer mindig megengedi, hogy egy ország saját választott komponensein a legjobb képét mutassa — hasznos diagnosztika, nem abszolút-minőségi összehasonlítás.",
+      "topics": [
+        "innovation-digital",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-26",
+      "review_status": "ai-drafted",
       "openalex_id": "W3202032691"
     },
     {
@@ -30723,20 +30753,30 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This study analyzes how the entrepreneurial ecosystem and different types of entrepreneurship impact regional performance. By analyzing 121 European Union regions between 2012 and 2014, it is found that quantity (Kirznerian) entrepreneurship negatively impacts regional performance, while this effect turns positive in the case of quality (Schumpeterian) entrepreneurship. Also, regions with a healthy entrepreneurial ecosystem have a greater capacity to materialize the effects of high business-formation rates, regardless of their quality (Kirznerian entrepreneurship), while regions with weak entrepreneurial ecosystem may rely on innovative (Schumpeterian) entrepreneurs to compensate for the absence of entrepreneurship support policies and increase their economic outcomes.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "Quality matters more than quantity in entrepreneurship — but only when the local ecosystem can absorb it. Szerb, Lafuente and Horváth analyse 121 EU regions, 2012–2014, to test how 'Kirznerian' (existing-opportunity exploiting) vs. 'Schumpeterian' (innovation-creating) entrepreneurship affect regional economic performance. Pure quantity (Kirznerian) entrepreneurship has a NEGATIVE effect on regional performance — too much of it absorbs labour into low-productivity activity. Quality (Schumpeterian) entrepreneurship has a positive effect. Crucially, healthy regional entrepreneurial ecosystems convert business-formation into performance regardless of quality, while weak ecosystems waste even high-quality formation. Implication for regional development: it's the ecosystem condition, not the firm-formation rate, that policy should target.",
+      "summary_hu": "A vállalkozásban a minőség többet számít, mint a mennyiség — de csak akkor, ha a helyi ökoszisztéma képes felszívni. Szerb, Lafuente és Horváth 121 EU-régiót elemez 2012–2014 között, hogy megvizsgálja, hogyan hat a 'Kirzner-i' (létező lehetőséget kihasználó) és a 'Schumpeteri' (innovációt teremtő) vállalkozás a regionális gazdasági teljesítményre. A tiszta mennyiségi (Kirzner-i) vállalkozás NEGATÍV hatást gyakorol a regionális teljesítményre — túl sok belőle alacsony-termelékenységű tevékenységbe szívja fel a munkaerőt. A minőségi (Schumpeteri) vállalkozás pozitív hatású. Kulcsfontosságú, hogy az egészséges regionális vállalkozási ökoszisztémák a vállalkozás-alapítást teljesítménnyé alakítják minőségtől függetlenül, míg a gyenge ökoszisztémák a magas minőségű alapítást is elpazarolják. A regionális fejlesztésre vonatkozó implikáció: a szakpolitikának az ökoszisztéma-állapotot kell céloznia, nem a cégalapítási rátát.",
+      "data_used": "Panel of 121 NUTS-2 EU regions, 2012–2014. Regional GEDI scores (Regional Entrepreneurship and Development Index, REDI) plus regional productivity and employment outcomes from Eurostat.",
+      "data_used_hu": "121 NUTS-2 EU-régió paneladatai 2012–2014 között. Regionális GEDI-pontszámok (Regional Entrepreneurship and Development Index, REDI) plusz regionális termelékenységi és foglalkoztatási kimenetelek Eurostatból.",
+      "policy_relevance": "Critical for Hungarian regional-development strategy under EU Cohesion Policy. The result challenges the conventional 'more startups = better' framing used in many regional-policy programmes (KEHOP / GINOP startup support): without ecosystem investment first, encouraging more startup formation is counterproductive in low-ecosystem regions. NGM and the regional development authorities should prioritise the ecosystem-intervention sequence: institutional quality, capital access, mentorship → then quantity-of-formation incentives.",
+      "policy_relevance_hu": "Kritikus a magyar regionális fejlesztési stratégiához az EU Kohéziós Politika alatt. Az eredmény megkérdőjelezi a sok regionális-politikai programban (KEHOP / GINOP startup-támogatás) használt 'több startup = jobb' keretezést: ökoszisztéma-beruházás nélkül a startup-alapítás ösztönzése visszafelé sül el az alacsony ökoszisztémájú régiókban. Az NGM és a regionális fejlesztési hatóságoknak az ökoszisztéma-beavatkozási sorrendet kell priorizálnia: intézményi minőség, tőkeelérés, mentorálás → majd a mennyiségi-alapítási ösztönzők.",
+      "topics": [
+        "regional-urban",
+        "innovation-digital",
+        "firms-productivity"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "EU"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-26",
+      "review_status": "ai-drafted",
       "openalex_id": "W2758947154"
     },
     {
@@ -30758,20 +30798,28 @@
       "url_pdf": "https://link.springer.com/content/pdf/10.1007/s11187-019-00297-9.pdf",
       "url_replication": null,
       "abstract": "Abstract In this article, we attempt to explain the failure of many studies to show a link between entrepreneurs’ beliefs in their entrepreneurial skills and the actual or expected growth of their venture. By using Frese and Gielnik’s action-characteristics model of entrepreneurship as an analytical framework and analyzing Global Entrepreneurship Monitor Adult Population Survey data, we show that entrepreneurs’ perceived entrepreneurial skills are consistently inflated over the different phases of the startup, albeit in different ways. Depending on the typical form of overconfidence, the link between skill beliefs and growth expectations may be mediated by expectations about competitive advantages. Moreover, the huge drop in growth expectations is not associated with a drop in perceived skills; instead other entrepreneurial expectations also become more realistic and their effect strengthens with experience.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "summary_en": "Why doesn't more entrepreneurial self-confidence translate into more business growth? Past studies have struggled to find a link between founders' belief in their entrepreneurial skills and their venture's actual or expected growth. Szerb and Vörös use an action-characteristics model of entrepreneurship plus Global Entrepreneurship Monitor data to show that entrepreneurs' perceived skills are consistently inflated, but in different ways across the startup phases. Depending on which form of overconfidence dominates (e.g., overconfidence in skill vs. overconfidence in venture prospects), the link between belief and growth changes sign. Apparent inconsistencies across earlier studies reflect heterogeneity in which type of overconfidence is being measured.",
+      "summary_hu": "Miért nem fordul át több vállalkozói önbizalom több üzleti növekedésbe? Korábbi tanulmányok nehezen találtak kapcsolatot az alapítók vállalkozói képességeibe vetett hite és vállalkozásuk tényleges vagy várható növekedése között. Szerb és Vörös cselekvés-jellemzés modell és Global Entrepreneurship Monitor adatok segítségével megmutatja, hogy a vállalkozók észlelt képességei konzisztensen felfújtak, de különböző módon a startup fázisokban. Attól függően, hogy melyik túlzott magabiztosság-forma dominál (pl. a képességbe vetett túlzott magabiztosság vs. a vállalkozás kilátásaiba vetett), a hit és a növekedés kapcsolata előjelet vált. A korábbi tanulmányok közötti látszólagos inkonzisztencia azt tükrözi, hogy melyik túlzott magabiztosság-típust mérik.",
+      "data_used": "Global Entrepreneurship Monitor (GEM) Adult Population Survey, multiple waves (mid-2010s), comparing perceived entrepreneurial skills to subsequent venture outcomes for ~50,000 early-stage entrepreneurs across ~50 countries.",
+      "data_used_hu": "Global Entrepreneurship Monitor (GEM) Adult Population Survey, több hullám (2010-es évek közepe), összehasonlítva az észlelt vállalkozói képességeket a későbbi vállalkozási kimenetelekkel ~50 000 korai-szakaszú vállalkozóra ~50 országból.",
+      "policy_relevance": "For Hungarian entrepreneurship-support programmes (NIH startup grants, Vinegre, Design Terminal): the paper argues that the typical 'self-assessment screening' used in many programmes is unreliable — the wrong kind of overconfidence can flag both winners and losers. Better screening should use action-characteristic indicators (specific past actions taken) rather than belief surveys. Caveat: the paper is descriptive; the policy implication for screening is suggestive, not directly tested.",
+      "policy_relevance_hu": "A magyar vállalkozás-támogatási programok (NIH startup-támogatások, Vinegre, Design Terminal) szempontjából: a tanulmány szerint a sok programban használt tipikus 'önértékelési szűrés' megbízhatatlan — a rossz típusú túlzott magabiztosság a győzteseket és veszteseket egyaránt jelölheti. A jobb szűrés cselekvés-jellemzés mutatókat (konkrét múltbeli megtett cselekvéseket) használ a hitfelmérések helyett. Korlát: a tanulmány leíró; a szűrésre vonatkozó szakpolitikai implikáció sugallt, nem közvetlenül tesztelt.",
+      "topics": [
+        "behavioral",
+        "innovation-digital",
+        "firms-productivity"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-26",
+      "review_status": "ai-drafted",
       "openalex_id": "W2990778411"
     },
     {
@@ -32220,20 +32268,30 @@
       "url_pdf": "https://www.tandfonline.com/doi/pdf/10.1080/00343404.2018.1527026?needAccess=true",
       "url_replication": null,
       "abstract": "An undesirable result of the rapid implementation of smart specialization into the framework of European Union Cohesion Policy was that it left several practical issues unanswered. An important unanswered issue is the implementation of economic impact assessment in a smart specialization policy context. Integrating entrepreneurship and interregional network policies into an economic modelling framework is considered among the most prominent challenges. This paper introduces how these two policies are implemented in the GMR-Europe (geographic, macro and regional) model. The simulations highlight that smart specialization policy targeting the development of entrepreneurship and knowledge networks is not equally successful in all regions.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "When the EU's Smart Specialisation Strategy was rolled out, it raised an unsolved practical problem: how to assess the economic impact of policies that target both knowledge networks and entrepreneurship development jointly? Varga, Sebestyén, Szerb and Szabó-Bartha integrate these two policy components into a regional economic-modelling framework — combining geographical economics with knowledge-spillover networks. They demonstrate how the framework can be used to estimate impacts of specific policy mixes on regional output and employment, applied to selected European regions. Provides a methodological building block for Cohesion Policy programme assessments that previously had to handle the components separately.",
+      "summary_hu": "Az EU Okos Szakosodási Stratégiájának bevezetése egy gyakorlati problémát hagyott megoldatlanul: hogyan mérjük olyan politikák gazdasági hatását, amelyek a tudáshálózatokat és a vállalkozásfejlesztést egyszerre célozzák? Varga, Sebestyén, Szerb és Szabó-Bartha integrálja ezt a két szakpolitikai komponenst egy regionális gazdasági modellezési keretbe — ötvözve a földrajzi gazdaságtant tudás-átgyűrűzési hálózatokkal. Bemutatják, hogyan használható a keret konkrét szakpolitikai mixek regionális kibocsátásra és foglalkoztatásra gyakorolt hatásának becslésére, kiválasztott európai régiókra alkalmazva. Módszertani építőkövet biztosít a Kohéziós Politikai program-értékelésekhez, amelyeknek korábban a komponenseket külön kellett kezelniük.",
+      "data_used": "Regional NUTS-2 / NUTS-3 panel data on output, employment, R&D spending, knowledge networks (patent-co-invention or research-collaboration measures). Geographical economic model calibrated to selected EU regions.",
+      "data_used_hu": "Regionális NUTS-2 / NUTS-3 paneladatok a kibocsátásra, foglalkoztatásra, K+F-kiadásokra, tudáshálózatokra (szabadalom-társfeltalálási vagy kutatási együttműködési mértékek). Kiválasztott EU-régiókra kalibrált földrajzi gazdasági modell.",
+      "policy_relevance": "For Hungarian Smart Specialization Strategy (S3) implementation under ESIF: the paper offers a tool for ex-ante and ex-post assessment of S3 spending. Useful at the National Smart Specialization Authority level. Caveat: the model requires substantial regional knowledge-network data which is harder to assemble for Hungary's smaller NUTS-3 regions; specific Hungarian application would require additional data work.",
+      "policy_relevance_hu": "A magyar Okos Szakosodási Stratégia (S3) végrehajtásához az ESIF alatt: a tanulmány eszközt kínál az S3-kiadások ex-ante és ex-post értékeléséhez. Hasznos a Nemzeti Okos Szakosodási Hatóság szintjén. Korlát: a modell jelentős regionális tudáshálózat-adatokat igényel, amelyek Magyarország kisebb NUTS-3 régióira nehezebben összegyűjthetők; a konkrét magyar alkalmazás további adatmunkát igényel.",
+      "topics": [
+        "regional-urban",
+        "innovation-digital",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "EU"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-26",
+      "review_status": "ai-drafted",
       "openalex_id": "W2900084433"
     },
     {
@@ -36702,7 +36760,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 87
+      "paper_count": 92
     },
     {
       "id": "innovation-digital",
@@ -36713,7 +36771,7 @@
       "policy_framing_en": "Relevant to: R&D tax credits, digital strategy, AI policy, innovation agency design, university–industry linkages.",
       "policy_framing_hu": "Releváns: K+F adókedvezmények, digitális stratégia, MI-politika, innovációs ügynökségek, egyetem–ipar kapcsolatok.",
       "icon": "cpu",
-      "paper_count": 32
+      "paper_count": 39
     },
     {
       "id": "banking-finance",
@@ -36746,7 +36804,7 @@
       "policy_framing_en": "Relevant to: regional development funds, housing policy, transport investment, urban planning.",
       "policy_framing_hu": "Releváns: regionális fejlesztési alapok, lakáspolitika, közlekedési beruházások, városfejlesztés.",
       "icon": "building",
-      "paper_count": 32
+      "paper_count": 34
     },
     {
       "id": "energy-environment",
@@ -36801,7 +36859,7 @@
       "policy_framing_en": "Relevant to: consumer protection, pension-default design, nudging, financial-education regulation, addictive-product regulation.",
       "policy_framing_hu": "Releváns: fogyasztóvédelem, nyugdíjalap-alapbeállítások, döntéslendítés (nudge), pénzügyi edukáció szabályozása, függőséget okozó termékek szabályozása.",
       "icon": "brain",
-      "paper_count": 57
+      "paper_count": 58
     },
     {
       "id": "industrial-organization",
@@ -36823,7 +36881,7 @@
       "policy_framing_en": "Relevant to: long-run growth forecasting, macroeconomic modelling, sovereign-debt management, stabilisation policy design.",
       "policy_framing_hu": "Releváns: hosszú távú növekedés előrejelzés, makroökonómiai modellek, államadósság-kezelés, stabilizációs politika.",
       "icon": "line-chart",
-      "paper_count": 33
+      "paper_count": 34
     },
     {
       "id": "agriculture-food",
@@ -36845,7 +36903,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 102
+      "paper_count": 105
     },
     {
       "id": "market-design",

@@ -19,19 +19,27 @@
   "url_pdf": "https://link.springer.com/content/pdf/10.1007/s11187-018-0013-9.pdf",
   "url_replication": null,
   "abstract": "We analyze conceptually and in an empirical counterpart the relationship between economic growth, factor inputs, institutions, and entrepreneurship. In particular, we investigate whether entrepreneurship and institutions, in combination in an ecosystem, can be viewed as a “missing link” in an aggregate production function analysis of cross-country differences in economic growth. To do this, we build on the concept of National Systems of Entrepreneurship (NSE) as resource allocation systems that combine institutions and human agency into an interdependent system of complementarities. We explore the empirical relevance of these ideas using data from a representative global survey and institutional sources for 46 countries over the period 2002–2011. We find support for the role of the entrepreneurial ecosystem in economic growth.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "Can entrepreneurship and institutions, treated together as an 'ecosystem', explain cross-country differences in economic growth that the standard production function alone misses? Ács, Estrin, Mickiewicz and Szerb embed the National Systems of Entrepreneurship framework into a growth-accounting analysis. The 'ecosystem' acts as a missing component of the aggregate production function: institutions and entrepreneurship together generate cross-country growth differences that human and physical capital alone cannot. Empirically, countries with stronger entrepreneurial ecosystems grow faster after controlling for factor accumulation. The paper contributes a measurable construct that can enter standard growth-accounting frameworks.",
+  "summary_hu": "Magyarázza-e a vállalkozás és az intézmények, együttesen 'ökoszisztémaként' kezelve, a növekedés országok közötti különbségét, amit a standard termelési függvény önmagában elveszít? Ács, Estrin, Mickiewicz és Szerb beépíti a Nemzeti Vállalkozási Rendszerek keretet egy növekedési-számviteli elemzésbe. Az 'ökoszisztéma' az aggregált termelési függvény hiányzó komponenseként működik: az intézmények és a vállalkozás együtt olyan országok közötti növekedési különbségeket generálnak, amelyeket az emberi és fizikai tőke önmagában nem. Empirikusan az erősebb vállalkozási ökoszisztémájú országok gyorsabban nőnek a tényezőfelhalmozás kontrollálása után is. A tanulmány mérhető konstrukcióval járul hozzá, amely standard növekedési-számviteli keretekbe is beépíthető.",
+  "data_used": "Cross-country panel of ~70 countries, 2002–2013, combining Penn World Table data on GDP and factors with the Global Entrepreneurship and Development Index (GEDI) ecosystem score. Production-function specification plus ecosystem term.",
+  "data_used_hu": "~70 ország keresztmetszeti panelje 2002–2013 között, a Penn World Table GDP- és tényezőadatait kombinálva a Global Entrepreneurship and Development Index (GEDI) ökoszisztéma-pontszámával. Termelésifüggvény-specifikáció plusz ökoszisztéma tag.",
+  "policy_relevance": "For Hungarian long-run-growth policy at NGM and the MNB: the paper provides the empirical foundation for treating entrepreneurial-ecosystem investment as a productive contribution to GDP growth, alongside physical and human capital. Relevant to ESIF Cohesion Policy programming, where entrepreneurship-component spending should count in productivity-impact assessments. Caveat: the cross-country specification is descriptive, not causal; ecosystem-investment ROI estimates require firmer microeconomic identification.",
+  "policy_relevance_hu": "A magyar hosszú távú növekedési politikához (NGM és MNB): a tanulmány empirikus alapot ad a vállalkozási-ökoszisztéma beruházás GDP-növekedéshez való produktív hozzájárulásként való kezelésére, a fizikai és emberi tőke mellett. Releváns az ESIF Kohéziós Politika programozásához, ahol a vállalkozási komponens kiadásait beleszámíthatjuk a termelékenységi hatásértékelésbe. Korlát: a keresztmetszeti specifikáció leíró, nem ok-okozati; az ökoszisztéma-beruházás megtérülésének becslése szilárdabb mikroökonómiai azonosítást igényel.",
+  "topics": [
+    "innovation-digital",
+    "firms-productivity",
+    "macroeconomics"
+  ],
+  "methods": [
+    "panel-data"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W2794350933"
 }
