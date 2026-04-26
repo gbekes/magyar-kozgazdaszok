@@ -19,11 +19,11 @@
   "url_replication": null,
   "abstract": null,
   "summary_en": "Many multi-entity corporate groups pool cash across subsidiaries so that one firm's temporary surplus funds another's shortfall. This paper derives a closed-form valuation for such a cash pool under realistic conditions (asymmetric transfer costs, credit lines). The value of pooling scales with the cross-subsidiary correlation of cash flows — lower correlation means larger savings on external financing. The formula turns what was previously a simulation exercise into a tool treasurers and bank analysts can apply on a spreadsheet to price intra-group liquidity structures.",
-  "summary_hu": null,
+  "summary_hu": "Sok többvállalatos cégcsoport pool-osítja a készpénzt a leányvállalatok között, hogy az egyik átmeneti többletét egy másik hiánya finanszírozza. A tanulmány zárt képletű értékelést vezet le egy ilyen cash poolra reális feltételek mellett (aszimmetrikus átutalási költségek, hitelkeretek). A poolozás értéke a leányvállalatok közötti pénzáramlás-korrelációval skálázódik — minél kisebb a korreláció, annál nagyobb megtakarítás külső finanszírozásból. A korábban szimulációval becsülhető értéket a képlet egy táblázatkezelőben is alkalmazható eszközzé teszi a treasury részlegek és banki elemzők kezében.",
   "data_used": "Theoretical / analytical paper. No empirical dataset; calibration examples use stylised cash-flow parameters.",
-  "data_used_hu": null,
+  "data_used_hu": "Elméleti, analitikus tanulmány. Empirikus adat nélkül; a kalibrációs példák stilizált pénzáramlás-paramétereket használnak.",
   "policy_relevance": "Relevant to MNB and NAV treatment of intra-group cash-pool arrangements (transfer pricing and consolidated capital adequacy). The closed-form shows that the fair valuation of a cash pool is not zero — implying taxable benefit allocation between subsidiaries. Caveat: theoretical, assumes idealised capital-market access within the group; frictions specific to Hungarian group taxation may change the quantitative picture.",
-  "policy_relevance_hu": null,
+  "policy_relevance_hu": "Az MNB és a NAV csoportközi cash-pool kezelése (transzferárazás és konszolidált tőkemegfelelés) szempontjából érdekes. A zárt képlet azt mutatja, hogy egy cash pool valós értéke nem nulla — ami adóköteles juttatás-allokációt feltételez a leányok között. Korlát: elméleti, idealizált csoporton belüli tőkepiaci hozzáférést tételez fel; a magyar csoportadózás konkrét súrlódásai a kvantitatív képet módosíthatják.",
   "topics": [
     "banking-finance"
   ],

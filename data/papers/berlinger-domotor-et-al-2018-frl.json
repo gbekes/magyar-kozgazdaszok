@@ -19,11 +19,11 @@
   "url_replication": null,
   "abstract": null,
   "summary_en": "What is the 'right' margin a clearing house should demand from its members? This paper formalises the trade-off between counterparty risk (lower when margins are high) and liquidity risk (higher when margins are high, because members must suddenly post more collateral in stress). Using a stylised market model, the authors derive an optimal margin requirement that internalises both. The optimum is not the VaR-based regulatory minimum — it is higher in calm markets (to create buffer) and flatter across volatility regimes, so members are not forced to fire-sell collateral exactly when markets need liquidity.",
-  "summary_hu": null,
+  "summary_hu": "Mekkora margint követeljen meg egy elszámolóház a tagjaitól? A tanulmány formalizálja a partnerkockázat (alacsonyabb magas marginnál) és a likviditási kockázat (magasabb magas marginnál, mert a tagoknak hirtelen több fedezetet kell letenniük stressz idején) közötti átváltást. Egy stilizált piaci modellben a szerzők olyan optimális margin-követelményt vezetnek le, amely mindkettőt internalizálja. Az optimum nem a VaR-alapú szabályozási minimum — magasabb a nyugodt piacon (puffer-építés céljából) és simább a volatilitási rezsimek között, hogy a tagok ne kényszerüljenek tűzeladásra éppen akkor, amikor a piacnak likviditásra van szüksége.",
   "data_used": "Theoretical model with numerical examples calibrated to equity-index futures-market-like parameters. No empirical panel.",
-  "data_used_hu": null,
+  "data_used_hu": "Elméleti modell, részvényindex-határidős piacszerű paraméterekre kalibrált numerikus példákkal. Empirikus panel nélkül.",
   "policy_relevance": "Precursor to the 2019 JIFMIM and 2024 FRL papers by the same group; directly relevant for KELER KSZF margin-policy design under EMIR. Supports explicit margin floors combined with counter-cyclical buffers over pure VaR rules. Caveat: the framework is single-asset; multi-asset clearinghouses face additional cross-margining concerns the model does not capture.",
-  "policy_relevance_hu": null,
+  "policy_relevance_hu": "Előzménye a 2019-es JIFMIM és 2024-es FRL tanulmányoknak; közvetlenül érinti a KELER KSZF margin-politikájának kialakítását az EMIR alatt. Az explicit margin-padlót anticiklikus pufferrel kombinálva támogatja a tiszta VaR-szabályok helyett. Korlát: a keret egytermékes; a többeszközös elszámolóházak további keresztmargining problémákkal találkoznak, amelyeket a modell nem fed le.",
   "topics": [
     "banking-finance"
   ],

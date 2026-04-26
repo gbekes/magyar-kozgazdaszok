@@ -19,11 +19,11 @@
   "url_replication": null,
   "abstract": null,
   "summary_en": "Central counterparties (CCPs) have become systemically important since the 2009 reforms, but their margin models can make crises worse if they demand more collateral exactly when markets are stressed. This paper compares a purely risk-sensitive margin strategy (more collateral when volatility rises) with an anti-cyclical one (smoothing the collateral requirement over the cycle). A stochastic-control framework shows that the anti-cyclical rule reduces the expected loss for the clearing institution itself, without materially increasing counterparty-default exposure. The implication: what looks like the conservative choice (higher margins in bad times) is actually the more dangerous one for systemic stability.",
-  "summary_hu": null,
+  "summary_hu": "A központi szerződő felek (CCP-k) a 2009-es reformok óta rendszerszinten fontosak, de margin-modelljeik súlyosbíthatják a válságokat, ha pont stresszelt piacon követelnek több fedezetet. A tanulmány összehasonlítja a tisztán kockázatérzékeny margin-stratégiát (több fedezet a volatilitás növekedésekor) az anticiklikussal (a fedezet-követelmény simítása a cikluson át). A sztochasztikus szabályozási keret azt mutatja, hogy az anticiklikus szabály csökkenti az elszámolóház várható veszteségét, anélkül hogy érdemben növelné a partnerkockázatot. A tanulság: ami konzervatív választásnak tűnik (rossz időkben magasabb margin), valójában a veszélyesebb a rendszerszintű stabilitásra.",
   "data_used": "Theoretical / stochastic-control model calibrated against stylised facts about margin dynamics and default probabilities from post-2008 equity-index futures markets. No single empirical dataset.",
-  "data_used_hu": null,
+  "data_used_hu": "Elméleti, sztochasztikus szabályozási modell, a 2008 utáni részvényindex-határidős piacok margin-dinamikájára és csődvalószínűségeire vonatkozó stilizált tényekre kalibrálva. Egyetlen empirikus adatbázis nélkül.",
   "policy_relevance": "Direct input for MNB and BSE (Budapest Stock Exchange) CCP oversight and for ESMA-level EMIR Refit debates on counter-cyclical margining. The paper supports margin-floor or stress-period damping rules that prevent mechanical procyclicality. Caveat: the optimum depends on assumed distribution of shocks; stress scenarios where the tail is fatter than modelled would favour somewhat higher margins than the paper's central calibration.",
-  "policy_relevance_hu": null,
+  "policy_relevance_hu": "Közvetlen input az MNB és a BÉT CCP-felügyeleti munkájához, valamint az ESMA-szintű EMIR Refit anticiklikus margining-vitáihoz. A margin-padlót vagy stressz-időszaki tompító szabályokat támogatja a mechanikus prociklikusság ellen. Korlát: az optimum a feltételezett sokk-eloszlástól függ; a vastagabb farkú stressz-szcenáriók a tanulmány központi kalibrációjánál valamivel magasabb margint indokolnak.",
   "topics": [
     "banking-finance"
   ],
