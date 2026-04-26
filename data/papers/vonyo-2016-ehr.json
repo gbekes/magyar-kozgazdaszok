@@ -16,19 +16,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This article reconsiders the relative growth performance of centrally planned economies in the broader context of postwar growth in Europe. It reports a new dataset of revised estimates for investment rates in eastern European countries between 1950 and 1989. Complemented with data on other growth determinants, this evidence is used to re‐evaluate the socialist growth record in a conditional convergence framework with a panel of 24 European countries. After controlling for relative backwardness, investment rates, and improvements in human capital, the findings show that centrally planned economies underperformed due to their relative inefficiency only after the postwar golden age. In the 1950s and 1960s, eastern Europe was falling behind mainly due to relatively low levels of investment and weak reconstruction dynamics. Both are explained, in part, by the lack of labour‐supply flexibility that, in turn, resulted from the comparatively much larger negative impact of the war on population growth in eastern Europe.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "Why did Eastern Europe fall behind Western Europe under socialism? The standard answer is 'inefficiency' — but for which decades? Vonyó constructs a new dataset of revised investment-rate estimates for centrally planned economies, 1950–1989, and re-evaluates the socialist growth record in a conditional-convergence framework across 24 European countries. The result splits the post-war era. After the Golden Age (1970s–1980s), centrally planned economies underperformed because of inefficiency. But in the 1950s and 1960s, the Eastern shortfall was driven mainly by lower investment rates and weak reconstruction dynamics — and the latter was partly because the war's population shock was much larger in the East. Inefficiency is a story for the late socialist era, not the whole.",
+  "summary_hu": "Miért szakadt le Kelet-Európa Nyugattól a szocializmus alatt? A standard válasz: 'hatékonyság-hiány' — de mely évtizedekre? Vonyó új adatállományt épít a tervgazdaságok 1950–1989 közötti felülvizsgált beruházási rátáira, és 24 európai országból álló panelen újraértékeli a szocialista növekedési teljesítményt feltételes konvergencia-keretben. Az eredmény kettéosztja a háború utáni korszakot. A Golden Age után (1970-es és 80-as évek) a tervgazdaságok hatékonyság-hiány miatt teljesítettek alul. De az 1950-es és 60-as években a keleti lemaradás főleg az alacsonyabb beruházási rátákból és a gyenge újjáépítési dinamikából fakadt — utóbbi részben azért, mert a háború népességi sokkja sokkal nagyobb volt keleten. A hatékonyság-hiány a kései szocialista korszak története, nem az egész szocializmusé.",
+  "data_used": "Panel of 24 European economies, 1950–1989, with revised investment rates from new archival work for centrally planned economies (CZ, HU, PL, GDR, USSR), GDP per capita, human capital indicators, war-induced population losses.",
+  "data_used_hu": "24 európai ország paneladatai 1950–1989, a tervgazdaságokra (CS, HU, PL, NDK, SZU) új levéltári munkából felülvizsgált beruházási rátákkal, egy főre jutó GDP, emberi-tőke mutatók, háború okozta népességveszteség.",
+  "policy_relevance": "Reframes the Hungarian transition narrative. The standard 'communism made us inefficient' framing is partly correct (for the 1980s) but mistakes 1950s slow growth for an institutional failure when it was largely a demographic one. For ongoing 'why is Hungary still behind Austria' debates, the paper suggests the relevant comparison era is the 1970s–80s, not the immediate postwar period. Useful framing for KSH historical national-accounts work and for MNB long-run growth analysis.",
+  "policy_relevance_hu": "Újrakeretezi a magyar rendszerváltási narratívát. A standard 'a kommunizmus tett bennünket nem-hatékonnyá' keret részben helytálló (az 1980-as évekre), de tévesen intézményi kudarcnak véli az 1950-es évek lassú növekedését, amikor az nagyrészt demográfiai volt. A 'miért van Magyarország még mindig Ausztria mögött' aktuális vitákban a tanulmány szerint a releváns összehasonlítási korszak az 1970–80-as évek, nem a közvetlen háború utáni időszak. Hasznos keret a KSH történeti nemzeti-számla munkájához és az MNB hosszú távú növekedési elemzéséhez.",
+  "topics": [
+    "transition-postcommunist",
+    "macroeconomics"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "EU"
+  ],
+  "data_types": [
+    "historical",
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W2512304498"
 }

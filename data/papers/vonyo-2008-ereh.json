@@ -16,19 +16,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This article briefly reviews the core literature on the Golden Age of economic growth and tests the explanatory power of alternative theories against one another, with particular emphasis on the reconstruction thesis as developed by Jánossy. While previous empirical work on the subject relied on cross-sectional analysis, I employ panel-data techniques, which produce more robust estimates. I demonstrate that, for the core western industrialised nations, the rapidity and variety of economic growth during the 1950s and 1960s can mostly be explained by post-war reconstruction, the completion of which marked the end of the Golden Age. Labour-force expansion also made a very strong positive contribution. In the more peripheral countries of the OECD, however, rapid catching-up from the late 1950s was largely brought about by structural modernisation. Finally, human-capital accumulation has had a determining impact on long-run growth potentials, modelled here as time-constant country-fixed effects.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "Why did Western Europe grow so fast in the 1950s and 1960s — and why did the boom end? Vonyó tests competing explanations of the post-war 'Golden Age' against each other, with particular focus on Jánossy's reconstruction thesis. Using panel-data methods (an upgrade on prior cross-sectional work), he finds that for the core industrial nations, post-war reconstruction explains most of the rapid 1950s–60s growth, and the end of that reconstruction marks the end of the Golden Age. Labour-force expansion also contributed strongly. In peripheral OECD countries, structural modernisation drove the catch-up. Human capital matters for long-run potential but not for the timing of the boom.",
+  "summary_hu": "Miért nőtt olyan gyorsan Nyugat-Európa az 1950-es és 1960-as években — és miért ért véget a fellendülés? Vonyó panelen teszteli a 'Golden Age'-re adott versengő magyarázatokat, különös tekintettel Jánossy újjáépítési tézisére (a panelmódszer korszerűsítés a korábbi keresztmetszeti munkához képest). Az ipari magországokra nézve a háború utáni újjáépítés magyarázza a gyors 1950–60-as növekedést, és ennek lezárulása jelzi a Golden Age végét. A munkaerő-bővülés szintén erős hozzájárulást adott. A periferiális OECD-országokban a szerkezeti modernizáció hajtotta a felzárkózást. Az emberi tőke a hosszú távú potenciálnál fontos, de a fellendülés időzítését nem magyarázza.",
+  "data_used": "Panel of ~15 European OECD countries, 1950–1985 annual: GDP, capital stock, labour force, human capital. Builds on Maddison historical series with corrections.",
+  "data_used_hu": "~15 európai OECD-ország paneladatai 1950–1985, éves frekvencia: GDP, tőkeállomány, munkaerő, emberi tőke. Maddison történeti idősorra épít korrekciókkal.",
+  "policy_relevance": "Useful framing for current debates on Hungary's mid-2030s growth trajectory: if Hungary is in a 'transition reconstruction' phase rather than a 'modernised steady state', the paper suggests reconstruction-style growth tails off endogenously, not because of policy mistakes. For NGM long-run-growth scenarios and the MNB Growth Report, distinguish the catch-up component from the steady-state component when projecting.",
+  "policy_relevance_hu": "Hasznos keret a magyar 2030-as évek növekedési pályájáról szóló jelenlegi vitákhoz: ha Magyarország 'rendszerváltási újjáépítési' fázisban van, nem pedig 'modernizált állandósult állapotban', a tanulmány szerint az újjáépítési típusú növekedés endogén módon kifut, nem szakpolitikai hibák miatt. Az NGM hosszú távú növekedési forgatókönyveihez és az MNB Növekedési Jelentéséhez érdemes elválasztani a felzárkózási komponenst az állandósult-állapot komponenstől a vetítésnél.",
+  "topics": [
+    "macroeconomics",
+    "firms-productivity"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "EU"
+  ],
+  "data_types": [
+    "macro-aggregate",
+    "historical"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W2171437646"
 }

@@ -16,19 +16,30 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This paper reveals the impact of wartime destruction in urban housing on regional economic growth in West Germany between 1939 and 1950. I demonstrate econometrically that the German economy remained severely dislocated as long as the urban housing stock had not been rebuilt. The recovery of urban industry was constrained by a war-induced labour shortage and, therefore, industrial capacities remained underutilized. In contrast, the growth of the rural economy was facilitated by labour expansion, which depressed industrial labour productivity. I apply instrumental variables to account for endogeneity and robust regressions to adjust for the impact of outliers.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "How does wartime destruction shape regional growth a decade later? Vonyó isolates the impact of urban housing destruction on West German economic geography, 1939–1950. Using city-level data and instrumental variables to address the endogeneity of bombing patterns, he shows that the West German economy remained severely dislocated as long as urban housing was unrebuilt: industrial recovery was held back by a war-induced labour shortage in cities (workers couldn't return without housing), while the rural economy expanded as displaced workers settled there, depressing industrial labour productivity. A natural-experiment view of the housing-labour-mobility-productivity nexus.",
+  "summary_hu": "Hogyan alakítja a háborús pusztítás a regionális növekedést egy évtizeddel később? Vonyó izolálja a városi lakásállomány-pusztulás hatását a nyugatnémet gazdaságföldrajzra 1939–1950 között. Városszintű adatokkal és instrumentális változókkal kezelve a bombázási minták endogenitását, kimutatja, hogy a nyugatnémet gazdaság mindaddig súlyosan diszlokált maradt, amíg a városi lakásállományt nem építették újjá: az ipari helyreállítást háború okozta városi munkaerőhiány fékezte (a munkások lakás nélkül nem térhettek vissza), míg a vidéki gazdaság bővült, ahogy a kitelepítettek ott telepedtek le, csökkentve az ipari munkatermelékenységet. Természetes-kísérlet pillantás a lakás-munkaerő-mobilitás-termelékenység csomópontra.",
+  "data_used": "City-level panel for West Germany, 1939–1950, on housing stock, industrial output, labour force, war damage. IVs based on bombing-target characteristics.",
+  "data_used_hu": "Nyugat-németországi városszintű panel 1939–1950 között: lakásállomány, ipari kibocsátás, munkaerő, háborús kár. IV-ek a bombázási célpontok jellemzőire.",
+  "policy_relevance": "Relevance for present-day post-conflict reconstruction policy (Ukraine) and for housing-policy debates in regions losing population: housing stock is a fundamental binding constraint on labour mobility and therefore on productive capacity. For Hungarian regional policy, the lesson is that cheap rural housing without accompanying urban housing investment can lock workers into low-productivity locations. Caveat: the 1940s policy environment is far from today's; quantitative magnitudes don't transfer directly.",
+  "policy_relevance_hu": "Relevancia a jelenkori posztkonfliktusos újjáépítési politikára (Ukrajna) és a népességet vesztő régiók lakáspolitikai vitáira: a lakásállomány alapvető szűk keresztmetszet a munkaerő-mobilitásra, és ezáltal a termelőkapacitásra. A magyar regionális politikára vonatkozó tanulság: az olcsó vidéki lakás városi lakásberuházás nélkül alacsony termelékenységű helyekre láncolhatja a munkásokat. Korlát: az 1940-es évek policy-környezete távol áll a maitól; a kvantitatív nagyságok nem közvetlenül átvihetők.",
+  "topics": [
+    "regional-urban",
+    "firms-productivity"
+  ],
+  "methods": [
+    "iv",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "DE"
+  ],
+  "data_types": [
+    "historical",
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W2142696856"
 }

@@ -17,19 +17,28 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Abstract This article presents new estimates for investment and new growth accounts for three socialist economies between 1950 and 1989. Government statistics reported distorted measures for both the rate and the trajectory of productivity growth in Czechoslovakia, Hungary, and Poland. Researchers have benefited from revised output data, but have continued to use official statistics on capital input, or estimated capital stock from official investment data. Investment levels and rates of capital accumulation were much lower than officially claimed and over‐reporting worsened over time. A setback in factor accumulation—both investment in equipment and labour input—contributed very significantly to the socialist growth failure of the 1980s.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "If Eastern European socialist economies reported distorted output statistics, how distorted were their inputs? Vonyó and Klein construct new investment estimates and growth accounts for Czechoslovakia, Hungary and Poland, 1950–1989. Their finding: official capital-input statistics overstated investment levels and rates of accumulation, and the over-reporting worsened over time. Once the inputs are corrected, the standard productivity-residual analysis changes substantially: a setback in factor accumulation — both equipment investment and labour input — contributed significantly to the 1980s socialist growth failure, not just declining technical efficiency.",
+  "summary_hu": "Ha a kelet-európai szocialista gazdaságok torzított kibocsátási statisztikákat közöltek, mennyire torzították a bemeneteket? Vonyó és Klein új beruházási becsléseket és növekedési számvitelt épít Csehszlovákiára, Magyarországra és Lengyelországra 1950–1989 között. Eredményük: a hivatalos tőke-bemenet statisztikák felülbecsülték a beruházási szinteket és a felhalmozás ütemét, és az ferdítés idővel romlott. Ha a bemeneteket korrigáljuk, a standard termelékenységi-reziduum elemzés lényegesen megváltozik: a tényezőfelhalmozás visszaesése — mind a gépberuházás, mind a munka bemenet — jelentősen hozzájárult az 1980-as évek szocialista növekedési kudarcához, nem csak a hanyatló műszaki hatékonyság.",
+  "data_used": "New revised investment series and capital-stock estimates for Czechoslovakia, Hungary, Poland, 1950–1989, derived from archival sources. Output and labour-input data from existing revised series. Standard growth-accounting decomposition.",
+  "data_used_hu": "Új felülvizsgált beruházási idősorok és tőkeállomány-becslések Csehszlovákiára, Magyarországra és Lengyelországra 1950–1989-re, levéltári forrásokból. Kibocsátási és munkaerő-bemeneti adatok meglévő felülvizsgált sorokból. Standard növekedési-számviteli felbontás.",
+  "policy_relevance": "Important methodological note for KSH historical national accounts — the 1950s–80s investment series in the official record need correction for serious upward bias. Affects every empirical paper that uses uncorrected pre-1990 capital input. For long-run growth research at MNB / KRTK, the paper signals that 'pre-transition' productivity gaps are smaller than commonly assumed and that the Hungarian transition's productivity gain is correspondingly smaller too.",
+  "policy_relevance_hu": "Fontos módszertani figyelmeztetés a KSH történelmi nemzeti számláihoz — a hivatalos rekord 1950–80-as évekbeli beruházási idősorai komoly felfelé torzítást igényelnek korrigálni. Minden olyan empirikus tanulmányt érint, amely korrigálatlan 1990 előtti tőke-bemenetet használ. A hosszú távú növekedéskutatás számára (MNB, KRTK) a tanulmány azt jelzi, hogy a 'rendszerváltás előtti' termelékenységi rések kisebbek a feltételezettnél, és a magyar rendszerváltás termelékenységi nyeresége ennek megfelelően kisebb.",
+  "topics": [
+    "transition-postcommunist",
+    "macroeconomics",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "historical",
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W2696332324"
 }
