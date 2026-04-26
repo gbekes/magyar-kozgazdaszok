@@ -4,7 +4,7 @@ Tag vocabularies for papers. These are the controlled lists. Keep them stable; c
 
 ---
 
-## 1. Policy topics (15)
+## 1. Policy topics (21)
 
 Every paper gets **1–3** topic tags. These are the primary navigation. Descriptions are short and policy-facing by design.
 
@@ -24,11 +24,18 @@ Every paper gets **1–3** topic tags. These are the primary navigation. Descrip
 | `inequality-welfare` | Inequality, poverty, social policy | Egyenlőtlenség, szegénység, szociálpolitika | Income / wealth distribution, poverty, welfare programs, gender gaps, intergenerational mobility |
 | `political-economy` | Political economy, institutions | Politikai gazdaságtan, intézmények | Institutions, rule of law, corruption, voting, populism, democracy, EU integration |
 | `transition-postcommunist` | Transition and post-communist economics | Rendszerváltás és posztszocialista gazdaság | Transition dynamics, privatization, emerging Europe, CEE-specific research, economic history of the region |
+| `behavioral` | Behavioral economics | Viselkedési közgazdaságtan | Reference-dependent preferences, present bias, overconfidence, loss aversion, self-control, naïveté, experimental and field-experimental work on decision-making |
+| `industrial-organization` | Industrial organization, market structure | Iparági szervezet, piacszerkezet | Firm conduct, antitrust, market power, mergers, vertical integration, advertising, platform markets |
+| `macroeconomics` | Macroeconomics and business cycles | Makrogazdaságtan és gazdasági ciklusok | Output, inflation, monetary and fiscal aggregates, growth, business cycles, exchange-rate regimes |
+| `agriculture-food` | Agriculture and food economics | Agrár- és élelmiszer-gazdaság | Farm productivity, agricultural policy, food markets, rural development, CAP, farm structure |
+| `market-design` | Market design and matching | Piactervezés és párosítás | Centralised and decentralised allocation mechanisms — kidney exchange, school choice, auctions, course allocation, residency matching, organ allocation |
+| `mechanism-design` | Mechanism design and game theory | Mechanizmustervezés és játékelmélet | Designing rules and incentives so strategic agents reach a desired outcome — auctions, voting rules, contracts, principal-agent problems, cooperative game theory, bargaining, social choice |
 | `methods` | Methods and econometrics | Módszertan és ökonometria | Papers whose primary contribution is methodological (estimation, identification, computation). Tag secondarily if paper is applied. |
 
 **Tagging conventions:**
 - Up to 3 topics per paper. Don't pad; if only one fits, use one.
 - `methods` is secondary — apply to papers whose _main contribution_ is a method. Also keep the applied topic tag.
+- `market-design` and `mechanism-design` are conceptually adjacent but distinct: use `market-design` when the paper is about a specific running allocation system (kidney exchange, school choice, auctions); use `mechanism-design` for theory papers about incentive-compatible rules in general.
 - If a paper is about Hungary specifically and the policy framing is strong, add `transition-postcommunist` as a secondary tag.
 
 ---
