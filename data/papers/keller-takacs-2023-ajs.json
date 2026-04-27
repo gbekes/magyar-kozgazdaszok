@@ -2,20 +2,31 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "How much does close, sustained physical proximity between members of different ethnic groups change interethnic attitudes? Keller and Takács run a large randomised field experiment in Hungarian classrooms, deliberately rearranging desk-chair seating so Roma and non-Roma students sit next to each other for an extended period. The intervention is cheap, mechanical, and easily replicated. Outcomes: peer-rated friendliness ratings, sociometric ties, and explicit attitudes toward the other group. The intervention generates measurable improvements in interethnic relations on multiple measures — and unlike short contact-hypothesis experiments, the effects persist over the school term. The paper is now the cleanest causal evidence on whether 'just put them next to each other' contact interventions work at scale in education.",
+  "summary_hu": "Mennyit változtat a különböző etnikai csoportok tagjai közötti hosszú, közeli fizikai együttlét az interetnikus attitűdökön? Keller és Takács nagy mintás randomizált terepkísérletet végez magyar iskolai osztálytermekben, ahol szándékosan átrendezik az ülésrendet, hogy a roma és nem roma diákok egymás mellett üljenek hosszabb időn át. A beavatkozás olcsó, mechanikus és könnyen ismételhető. Kimenetek: társak által értékelt barátságosság, szociometriai kapcsolatok és a másik csoport iránti explicit attitűdök. A beavatkozás mérhető javulást generál az interetnikus kapcsolatokban több mutatón — és a rövid kontakthipotézis-kísérletekkel ellentétben a hatások a tanév során fennmaradnak. A tanulmány a legtisztább okozati bizonyíték arra, hogy az 'egyszerűen ültessük őket egymás mellé' típusú kontakt-beavatkozások működnek-e iskolai léptékben.",
+  "data_used": "Large-scale randomised field experiment in Hungarian primary schools. Random assignment of seating at the classroom level. Outcome data from peer ratings, sociometric surveys, and explicit attitude measures collected over the school year.",
+  "data_used_hu": "Nagy mintás randomizált terepkísérlet magyar általános iskolákban. Véletlenszerű ülésrend-kiosztás osztály szinten. Kimeneti adatok: tanulói értékelések, szociometriai felmérések és explicit attitűdmérések a tanév során.",
+  "policy_relevance": "Direct relevance for Hungarian education policy on Roma integration (KIM, KSH, EBH). The paper provides causal evidence that low-cost desegregation at the seating level — without changing curriculum or admissions — meaningfully improves interethnic relations. Useful input for school-level integration policies and for the Ministry of Education's anti-segregation programmes. Caveat: the intervention requires teacher cooperation and only works where mixed classes already exist; segregated schools need a different first step.",
+  "policy_relevance_hu": "Közvetlenül érinti a magyar oktatáspolitikát a roma integráció terén (KIM, KSH, EBH). A tanulmány okozati bizonyítékot ad arra, hogy az ülés-szintű, alacsony költségű deszegregáció — tanterv- vagy felvételi-változtatás nélkül — érdemben javítja az interetnikus kapcsolatokat. Hasznos input az iskolai szintű integrációs szakpolitikákhoz és az Oktatási Minisztérium szegregáció-ellenes programjaihoz. Korlát: a beavatkozás tanári együttműködést igényel és csak ott működik, ahol már vegyes osztályok léteznek; a szegregált iskolákhoz más első lépés szükséges.",
+  "topics": [
+    "education-skills",
+    "behavioral",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "rct"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "field-experiment",
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-27",
   "last_reviewed_at": "2026-04-27",
-  "review_status": "metadata-fetched",
+  "review_status": "ai-drafted",
   "policy_instruments": [],
   "working_paper_series": null,
   "pages": null,

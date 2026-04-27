@@ -2,20 +2,28 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "summary_en": "How does the Nord Stream 2 pipeline change bargaining positions in the European gas market? Sziklai, Kóczy and Csercsik build a cooperative game-theoretic model of the European gas network where transit countries (Ukraine, Slovakia, Czech Republic, etc.) extract rents from their bottleneck position. Adding Nord Stream 2 — a direct Russia-to-Germany pipe under the Baltic — transfers bargaining power from transit countries to Germany and Russia. The paper quantifies the rent transfer and shows that Eastern European transit countries lose substantially while German consumers gain modestly. The intuition: pipelines change the network's coalition structure, and bargaining power follows.",
+  "summary_hu": "Hogyan változtatja meg az Északi Áramlat 2 (Nord Stream 2) gázvezeték az európai gázpiaci alkupozíciókat? Sziklai, Kóczy és Csercsik kooperatív játékelméleti modellt épít az európai gázhálózatra, amelyben a tranzitországok (Ukrajna, Szlovákia, Csehország stb.) szűk-keresztmetszet pozíciójukból járadékot vonnak el. Az Északi Áramlat 2 hozzáadása — közvetlen Oroszország-Németország vezeték a Balti-tenger alatt — átviszi az alkuerőt a tranzitországoktól Németországhoz és Oroszországhoz. A tanulmány kvantifikálja a járadék-átvitelt, és megmutatja, hogy a kelet-európai tranzitországok jelentősen veszítenek, miközben a német fogyasztók szerényen nyernek. Az intuíció: a vezetékek megváltoztatják a hálózat koalíciós szerkezetét, és az alkuerő követi.",
+  "data_used": "European gas-network topology data (pipelines, capacities, country positions). Cooperative-game model where coalitions correspond to subsets of countries; Shapley-value-style allocation of network rents.",
+  "data_used_hu": "Európai gázhálózat-topológiai adatok (vezetékek, kapacitások, ország-pozíciók). Kooperatív-játék modell, ahol a koalíciók országok részhalmazainak felelnek meg; Shapley-érték típusú hálózati járadék-elosztás.",
+  "policy_relevance": "Direct input for Hungarian energy security and EU energy-policy debates (NGM, MEKH, MVM Group). The paper shows quantitatively why Eastern Europe — including Hungary as a transit and importer country — opposed Nord Stream 2: it transferred billions in bargaining-position rent to Germany and Russia at Eastern Europe's expense. Relevant for ongoing post-2022 European gas-supply restructuring and for evaluating proposed alternative pipeline routes (e.g., Eastring, the Romanian Black-Sea-to-Central-Europe corridor).",
+  "policy_relevance_hu": "Közvetlen input a magyar energiabiztonsághoz és az EU energiapolitikai vitákhoz (NGM, MEKH, MVM Csoport). A tanulmány kvantitatívan megmutatja, miért ellenezte Kelet-Európa — köztük Magyarország mint tranzit- és importáló ország — az Északi Áramlat 2-t: milliárdokat vitt át alkupozíció-járadékként Németországnak és Oroszországnak Kelet-Európa rovására. Releváns a 2022 utáni európai gázellátás átszervezéséhez és a javasolt alternatív vezetékútvonalak (pl. Eastring, román Fekete-tenger-Közép-Európa folyosó) értékeléséhez.",
+  "topics": [
+    "mechanism-design",
+    "energy-environment",
+    "political-economy"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "EU"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-27",
   "last_reviewed_at": "2026-04-27",
-  "review_status": "metadata-fetched",
+  "review_status": "ai-drafted",
   "policy_instruments": [],
   "working_paper_series": null,
   "pages": null,
