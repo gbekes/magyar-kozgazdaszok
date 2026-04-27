@@ -17,19 +17,24 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "In a local interaction game agents play an identical stage game against their neighbours over time. For nearest neighbour interaction, it is established that, starting from a random initial configuration in which each agent has a positive probability of playing the risk dominant strategy, a sufficiently large population coordinates in the long-run on the risk dominant equilibrium almost surely. Our result improves on Blume (1995), Ellison (2000), and Morris (2000) by showing that the risk dominant equilibrium spreads to the entire population in a two dimensional lattice and without the help of mutation, as long as there is some randomness in the initial configuration.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "When agents play games against their neighbours over time on a network, how do equilibria spread? Lee and Valentinyi study local-interaction coordination games where each agent plays against nearest neighbours. For a sufficiently large population starting from a random configuration in which each agent has positive probability of playing the risk-dominant strategy, they prove that the population converges almost surely to the risk-dominant equilibrium. The result improves on Blume (1995), Ellison (2000) and Morris (2000) by showing that the risk-dominant equilibrium spreads to the entire population in a two-dimensional lattice without the help of mutation, requiring only randomness in the initial configuration. A clean technical contribution to the spatial evolutionary-game-theory literature.",
+  "summary_hu": "Amikor az ágensek időben szomszédjaikkal játszanak hálózaton, hogyan terjednek az egyensúlyok? Lee és Valentinyi helyi-interakciós koordinációs játékokat vizsgál, amelyekben minden ágens a legközelebbi szomszédjaival játszik. Kellően nagy népességre, amely véletlenszerű konfigurációból indul, amelyben minden ágens pozitív valószínűséggel játssza a kockázat-dominálta stratégiát, bebizonyítják, hogy a népesség majdnem biztosan a kockázat-dominálta egyensúlyhoz konvergál. Az eredmény túltesz Blume (1995), Ellison (2000) és Morris (2000) eredményein azzal, hogy megmutatja: a kockázat-dominálta egyensúly egy kétdimenziós rácson mutáció segítsége nélkül terjed az egész népességre, csak a kezdeti konfiguráció véletlenszerűségét igényelve. Tiszta technikai hozzájárulás a térbeli evolúciós-játékelméleti irodalomhoz.",
+  "data_used": "Theoretical paper. Probabilistic analysis of local-interaction stochastic dynamics on two-dimensional lattices.",
+  "data_used_hu": "Elméleti tanulmány. Helyi-interakciós sztochasztikus dinamika valószínűségi elemzése kétdimenziós rácsokon.",
+  "policy_relevance": "Foundational technical paper. Limited direct policy relevance, but informs broader work on technology adoption, social-norm cascades, and spatial coordination problems. For Hungarian regional-policy work, the result provides a theoretical basis for expecting that risk-dominant practices (e.g., conservative business norms) can spread without explicit policy intervention if initial conditions are mixed.",
+  "policy_relevance_hu": "Alapozó technikai tanulmány. Korlátozott közvetlen szakpolitikai relevancia, de tájékoztatja a technológia-elfogadásról, társadalmi-norma kaszkádokról és térbeli koordinációs problémákról szóló szélesebb munkát. A magyar regionális-politikai munkához az eredmény elméleti alapot ad arra, hogy a kockázat-dominálta gyakorlatok (pl. konzervatív üzleti normák) explicit szakpolitikai beavatkozás nélkül is terjedhetnek vegyes kezdeti feltételek mellett.",
+  "topics": [
+    "mechanism-design",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W2010406806"
 }

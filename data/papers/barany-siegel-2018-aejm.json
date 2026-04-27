@@ -17,19 +17,30 @@
   "url_pdf": "https://www.aeaweb.org/articles/pdf/doi/10.1257/mac.20150258",
   "url_replication": null,
   "abstract": "We document that job polarization—contrary to the consensus— has started as early as the 1950s in the United States: middle-wage workers have been losing both in terms of employment and average wage growth compared to low- and high-wage workers. Given that polarization is a long-run phenomenon and closely linked to the shift from manufacturing to services, we propose a structural change driven explanation, where we explicitly model the sectoral choice of workers. Our simple model does remarkably well not only in matching the evolution of sectoral employment, but also of relative wages over the past 50 years. (JEL E24, J21, J22, J24, J31)",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "Job polarization — middle-wage workers losing both employment and wage growth relative to low- and high-wage workers — is widely attributed to recent technology-driven automation. Bárány and Siegel show that this pattern has actually been visible in US data since the 1950s, far earlier than commonly assumed. Because polarization is a long-run phenomenon and tracks the manufacturing-to-services transition, they propose a structural-change explanation in which workers choose sectors and the long-run rebalancing across sectors generates polarization in both employment and relative wages. Their simple model matches both sectoral employment shares and relative wages over 50+ years remarkably well, suggesting structural change is the deeper driver, with recent automation a continuation rather than the cause.",
+  "summary_hu": "A munkapiaci polarizációt — amikor a középbéres munkavállalók foglalkoztatási és bérdinamikája az alacsony- és magas-béresek mögé esik — gyakran a közelmúlt technológiai automatizációjának tulajdonítják. Bárány és Siegel megmutatja, hogy ez a minta már az 1950-es évektől kimutatható az amerikai adatokon, sokkal korábbi időszaktól, mint általában feltételezik. Mivel a polarizáció hosszú távú jelenség, és követi a feldolgozóipar–szolgáltatás átalakulást, szerkezeti-változás magyarázatot javasolnak: a munkavállalók szektorokat választanak, és a hosszú távú átrendeződés mind a foglalkoztatási, mind a relatív béreloszlás polarizációját generálja. Egyszerű modelljük 50+ év szektorális foglalkoztatási és relatív bérmintáit jól illeszti, ami arra utal, hogy a szerkezeti változás a mélyebb hajtó, az újabb automatizáció pedig folytatás, nem ok.",
+  "data_used": "US Census, Decennial Census micro samples 1950–2010, plus Bureau of Labor Statistics CPS data on hours, wages, and sectoral employment. Sample covers prime-age workers across manufacturing and services. Structural model calibrated to match both employment and wage moments over the 60-year window.",
+  "data_used_hu": "Egyesült Államok népszámlálási mikroadatai 1950–2010, kiegészítve a BLS CPS adataival a munkaórákról, bérekről és szektorális foglalkoztatásról. A minta a fő-korú munkavállalókat fedi le iparágak és szolgáltatások között. A szerkezeti modell mind a foglalkoztatási, mind a bér-jellemzők illesztésére kalibrált, a 60 éves időablakra.",
+  "policy_relevance": "Reframes Hungarian labour-policy debates on middle-skill job loss. If polarization is structural-change-driven (sectoral rebalancing) rather than technology-shock-driven, retraining for 'middle-skill' jobs that are disappearing wastes resources; targeting workers for service-sector entry is more productive. Relevant for NGM and the Foreign Affairs Ministry's industrial-policy work, and for Hungarian-EU digital-transition debate. Caveat: US-specific timing; Hungarian polarization is a more recent phenomenon following EU integration.",
+  "policy_relevance_hu": "Újrakeretezi a magyar munkapolitikai vitákat a közép-képzettségű munkahelyek elvesztéséről. Ha a polarizáció szerkezeti-változás (szektorális átrendeződés), nem technológiai sokk általi, akkor a 'eltűnő közép-képzettségű' állásokra való átképzés erőforrásokat pazarol; hatékonyabb a szolgáltatási-szektorba való belépésre célozni. Releváns az NGM és a Külügyminisztérium iparpolitikai munkájához, valamint a magyar–EU digitális-átmenet vitákhoz. Korlát: USA-időzítésű; a magyar polarizáció újabb keletű, EU-csatlakozás utáni jelenség.",
+  "topics": [
+    "labor-markets",
+    "macroeconomics",
+    "innovation-digital"
+  ],
+  "methods": [
+    "structural"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "macro-aggregate",
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W989515610"
 }

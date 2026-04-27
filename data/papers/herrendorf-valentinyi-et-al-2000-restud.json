@@ -18,19 +18,24 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "It is well known that economies of scale that are external to the individual decision makers can lead to self-fulfilling prophecies and the multiplicity or even indeterminacy of equilibrium. We argue that the importance of this source of multiplicity and indeterminacy is overstated in representative agent models, as they ignore the potential stabilizing effect of heterogeneity. We illustrate this in a version of Matsuyama's (1991) two-sector model with increasing returns to scale. Two main results are shown. First, sufficient homogeneity with respect to individual productivity leads to the instability and non-uniqueness of a given stationary state and the indeterminacy of the corresponding stationary state equilibrium. Second, sufficient heterogeneity leads to the global saddle-path stability and the uniqueness of a given stationary state and the global uniqueness of equilibrium.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "Models with external scale economies famously generate self-fulfilling prophecies — multiple equilibria and indeterminacy where small belief shifts create wildly different outcomes. Herrendorf, Valentinyi and Waldmann argue this is overstated: representative-agent models that ignore individual heterogeneity overdramatize the problem. In a heterogeneous-agent version of Matsuyama's two-sector increasing-returns model, sufficient homogeneity does generate the standard multiplicity and indeterminacy results. But sufficient heterogeneity restores global saddle-path stability and a unique equilibrium. The paper repositions heterogeneity as a stabilising force in growth and structural-change models — an important corrective to the multiplicity-pessimism of the 1990s growth literature.",
+  "summary_hu": "A külső skálahozadékú modellek híresen önbeteljesítő jóslatokat generálnak — több egyensúlyt és határozatlanságot, ahol kis hitváltozások drámaian eltérő kimenetelekhez vezetnek. Herrendorf, Valentinyi és Waldmann érvelése szerint ez túlzás: a reprezentatív-ágens modellek, amelyek figyelmen kívül hagyják az egyéni heterogenitást, túldramatizálják a problémát. Matsuyama kétszektoros növekvő-hozadékú modelljének heterogén-ágens verziójában a kellő homogenitás valóban generálja a standard többes és határozatlansági eredményeket. De a kellő heterogenitás visszahozza a globális nyeregútpályás stabilitást és az egyértelmű egyensúlyt. A tanulmány a heterogenitást stabilizáló erőként pozícionálja a növekedési és szerkezetváltozási modellekben — fontos korrekció az 1990-es évek növekedési irodalmának többes-pesszimizmusához.",
+  "data_used": "Theoretical paper. Two-sector increasing-returns growth model with heterogeneous agents; analytical and numerical stability analysis.",
+  "data_used_hu": "Elméleti tanulmány. Kétszektoros növekvő-hozadékú növekedési modell heterogén ágensekkel; analitikus és numerikus stabilitási elemzés.",
+  "policy_relevance": "Less directly policy-applicable than empirical papers, but methodologically important: warns Hungarian growth-modelling work (MNB, KRTK) against drawing strong qualitative conclusions from representative-agent models with multiplicity. Suggests that real Hungarian regional disparities are unlikely to be 'lock-in' equilibria of the type the multiplicity literature warned about; structural reform is more tractable than that literature implied.",
+  "policy_relevance_hu": "Kevésbé közvetlenül szakpolitikailag alkalmazható, mint az empirikus tanulmányok, de módszertanilag fontos: figyelmezteti a magyar növekedés-modellezést (MNB, KRTK), hogy ne vonjon le erős kvalitatív következtetéseket reprezentatív-ágens modellekből többes egyensúllyal. Arra utal, hogy a valós magyar regionális egyenlőtlenségek nem valószínű, hogy 'beszorult' egyensúlyok, ahogy a többes-egyensúlyi irodalom figyelmeztetett; a szerkezeti reform kezelhetőbb, mint amit ez az irodalom sugallt.",
+  "topics": [
+    "macroeconomics",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W2045386851"
 }

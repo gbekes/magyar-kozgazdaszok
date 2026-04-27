@@ -7395,20 +7395,31 @@
       "url_pdf": "https://www.aeaweb.org/articles/pdf/doi/10.1257/mac.20150258",
       "url_replication": null,
       "abstract": "We document that job polarization—contrary to the consensus— has started as early as the 1950s in the United States: middle-wage workers have been losing both in terms of employment and average wage growth compared to low- and high-wage workers. Given that polarization is a long-run phenomenon and closely linked to the shift from manufacturing to services, we propose a structural change driven explanation, where we explicitly model the sectoral choice of workers. Our simple model does remarkably well not only in matching the evolution of sectoral employment, but also of relative wages over the past 50 years. (JEL E24, J21, J22, J24, J31)",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "Job polarization — middle-wage workers losing both employment and wage growth relative to low- and high-wage workers — is widely attributed to recent technology-driven automation. Bárány and Siegel show that this pattern has actually been visible in US data since the 1950s, far earlier than commonly assumed. Because polarization is a long-run phenomenon and tracks the manufacturing-to-services transition, they propose a structural-change explanation in which workers choose sectors and the long-run rebalancing across sectors generates polarization in both employment and relative wages. Their simple model matches both sectoral employment shares and relative wages over 50+ years remarkably well, suggesting structural change is the deeper driver, with recent automation a continuation rather than the cause.",
+      "summary_hu": "A munkapiaci polarizációt — amikor a középbéres munkavállalók foglalkoztatási és bérdinamikája az alacsony- és magas-béresek mögé esik — gyakran a közelmúlt technológiai automatizációjának tulajdonítják. Bárány és Siegel megmutatja, hogy ez a minta már az 1950-es évektől kimutatható az amerikai adatokon, sokkal korábbi időszaktól, mint általában feltételezik. Mivel a polarizáció hosszú távú jelenség, és követi a feldolgozóipar–szolgáltatás átalakulást, szerkezeti-változás magyarázatot javasolnak: a munkavállalók szektorokat választanak, és a hosszú távú átrendeződés mind a foglalkoztatási, mind a relatív béreloszlás polarizációját generálja. Egyszerű modelljük 50+ év szektorális foglalkoztatási és relatív bérmintáit jól illeszti, ami arra utal, hogy a szerkezeti változás a mélyebb hajtó, az újabb automatizáció pedig folytatás, nem ok.",
+      "data_used": "US Census, Decennial Census micro samples 1950–2010, plus Bureau of Labor Statistics CPS data on hours, wages, and sectoral employment. Sample covers prime-age workers across manufacturing and services. Structural model calibrated to match both employment and wage moments over the 60-year window.",
+      "data_used_hu": "Egyesült Államok népszámlálási mikroadatai 1950–2010, kiegészítve a BLS CPS adataival a munkaórákról, bérekről és szektorális foglalkoztatásról. A minta a fő-korú munkavállalókat fedi le iparágak és szolgáltatások között. A szerkezeti modell mind a foglalkoztatási, mind a bér-jellemzők illesztésére kalibrált, a 60 éves időablakra.",
+      "policy_relevance": "Reframes Hungarian labour-policy debates on middle-skill job loss. If polarization is structural-change-driven (sectoral rebalancing) rather than technology-shock-driven, retraining for 'middle-skill' jobs that are disappearing wastes resources; targeting workers for service-sector entry is more productive. Relevant for NGM and the Foreign Affairs Ministry's industrial-policy work, and for Hungarian-EU digital-transition debate. Caveat: US-specific timing; Hungarian polarization is a more recent phenomenon following EU integration.",
+      "policy_relevance_hu": "Újrakeretezi a magyar munkapolitikai vitákat a közép-képzettségű munkahelyek elvesztéséről. Ha a polarizáció szerkezeti-változás (szektorális átrendeződés), nem technológiai sokk általi, akkor a 'eltűnő közép-képzettségű' állásokra való átképzés erőforrásokat pazarol; hatékonyabb a szolgáltatási-szektorba való belépésre célozni. Releváns az NGM és a Külügyminisztérium iparpolitikai munkájához, valamint a magyar–EU digitális-átmenet vitákhoz. Korlát: USA-időzítésű; a magyar polarizáció újabb keletű, EU-csatlakozás utáni jelenség.",
+      "topics": [
+        "labor-markets",
+        "macroeconomics",
+        "innovation-digital"
+      ],
+      "methods": [
+        "structural"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "macro-aggregate",
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W989515610"
     },
     {
@@ -15374,20 +15385,29 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We use a proprietary dataset on the floor-level operations at the largest rail mill in India to study the response of productivity to the threat of entry. Output per active shift increased by 28 percent over 3 years with minimal changes in physical capital and employment. By combining data on the timing of various training programs in the mill with shift-level variation in worker composition, we are able to attribute over half of the higher productivity to training specifically targeted toward improving rail output. Our work suggests high returns to knowledge-enhancing investment in emerging economies. (JEL D22, D24, J24, L23, L32, L61, O14)",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "summary_en": "What does the threat of competitive entry do to productivity in a state-owned firm? Das, Krishna, Lychagin and Somanathan use a proprietary dataset on floor-level operations at India's largest rail mill to track output per shift before and after a credible entry threat. Output per active shift rose 28% over three years with minimal changes in physical capital or employment — a productivity gain almost entirely from existing inputs. Combining shift-level worker-composition data with the timing of training programmes, they attribute over half of the productivity gain to training specifically targeted at improving rail output. The result demonstrates high returns to knowledge-enhancing investment in emerging-economy state-owned industry.",
+      "summary_hu": "Mit tesz a versenybelépés fenyegetése egy állami vállalat termelékenységével? Das, Krishna, Lychagin és Somanathan India legnagyobb sín-üzemének padló-szintű műveleteinek saját adatbázisát használja a műszakonkénti kibocsátás követésére egy hiteles belépési fenyegetés előtt és után. Az aktív műszakonkénti kibocsátás három év alatt 28 százalékkal nőtt minimális fizikai-tőke és foglalkoztatási változás mellett — termelékenységi nyereség szinte teljes egészében meglévő bemenetekből. A műszakszintű munkavállalói összetétel adatait a képzési programok időzítésével kombinálva a termelékenységi nyereség több mint felét célzottan a sín-kibocsátás javítását célzó képzéshez kötik. Az eredmény magas hozadékot mutat a tudás-bővítő beruházásra a feltörekvő-gazdasági állami iparban.",
+      "data_used": "Proprietary shift-level operational data from India's largest steel rail mill, ~3 years pre/post the entry threat. Includes output per shift, worker composition, training-programme rosters, and timing of operational changes.",
+      "data_used_hu": "India legnagyobb acél-sín üzemének saját, műszak-szintű operatív adatai a belépési fenyegetés előtt és után ~3 évre. Tartalmazza a műszakonkénti kibocsátást, munkavállalói összetételt, képzési programok listáját és az operatív változások időzítését.",
+      "policy_relevance": "For Hungarian state-owned enterprise debates (MNV, Pénzügyminisztérium): the paper provides causal evidence that productive change in SOEs can come from competitive pressure plus targeted training, without privatisation or major capital investment. Directly relevant to Hungarian rail (MÁV), postal (Magyar Posta), and energy SOE governance. Caveat: Indian context; Hungarian SOE worker training capacity differs.",
+      "policy_relevance_hu": "Magyar állami tulajdonú vállalat vitákhoz (MNV, Pénzügyminisztérium): a tanulmány okozati bizonyítékot ad arra, hogy az állami vállalatok termelékeny változása versenynyomás és célzott képzés révén jöhet létre, privatizáció vagy nagy tőkeberuházás nélkül. Közvetlenül érinti a magyar vasút (MÁV), posta és energetikai állami vállalatok kormányzását. Korlát: indiai kontextus; a magyar állami vállalatok képzési kapacitása eltérő.",
+      "topics": [
+        "firms-productivity",
+        "industrial-organization"
+      ],
+      "methods": [
+        "diff-in-diff",
+        "panel-data"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "admin-firm",
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-21",
-      "last_reviewed_at": "2026-04-21",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2118032171"
     },
     {
@@ -18135,20 +18155,26 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We study an economy in which there is always double coincidence of wants, agents have perfect information about qualities of goods, and there are no transaction costs. The hold‐up problem arises because efforts invested in improving quality prior to search may not be compensated in the market. Situations in which barter fails to motivate quality improvement are identified. With money, however, the extra effort in quality improvement will be compensated when high‐quality good producers trade with agents holding both the low‐quality good and money. Injection of money can induce almost all agents to produce the high‐quality good.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "summary_en": "Why does money emerge in economies even when barter is feasible? Fong and Szentes offer an answer rooted in incentive provision for unobservable quality investment. They study an economy with double coincidence of wants, perfect quality information, and no transaction costs — conditions where standard search theories say money is unnecessary. But the hold-up problem still arises: effort invested in improving quality before search may not be compensated under barter. They identify situations where barter fails to motivate quality improvement, and show that injecting money compensates the high-quality producer when high-quality good producers trade with agents holding both the low-quality good and money. With money, almost all agents produce high-quality goods.",
+      "summary_hu": "Miért alakul ki pénz a gazdaságokban akkor is, ha a csere lehetséges? Fong és Szentes válasza a megfigyelhetetlen minőségi beruházás ösztönzésében gyökerezik. Olyan gazdaságot vizsgálnak, ahol kettős igénykívánalom-egybeesés van, tökéletes minőségi információ és nincs tranzakciós költség — olyan feltételek, ahol a standard kereséselméletek szerint a pénz felesleges. A 'hold-up' probléma azonban így is felmerül: a keresés előtt befektetett minőségjavító erőfeszítés cserénél nem feltétlenül térül meg. A szerzők azonosítják azokat a helyzeteket, amelyekben a csere nem motiválja a minőségjavítást, és megmutatják, hogy a pénz befecskendezése kompenzálja a magas-minőségű termelőt, amikor a magas-minőségű jó termelők alacsony-minőségű jót és pénzt birtokló ágensekkel kereskednek. Pénzzel szinte minden ágens magas-minőségű jót termel.",
+      "data_used": "Theoretical paper; no empirical data. Search-and-matching model of monetary exchange with endogenous quality investment.",
+      "data_used_hu": "Elméleti tanulmány; empirikus adatok nélkül. A monetáris csere keresési-illesztési modellje endogén minőségi beruházással.",
+      "policy_relevance": "Foundational result for monetary-economics theory. Less direct policy relevance, but the paper helps explain why monetary economies tend to have higher quality goods than barter economies, with implications for digital-currency design (where transaction frictions are intentionally low, but quality-investment incentives still need a monetary unit). Caveat: theoretical; specific policy claims require modelling specific exchange technologies.",
+      "policy_relevance_hu": "Alapozó eredmény a monetáris-közgazdasági elméletben. Kevésbé közvetlen szakpolitikai relevancia, de a tanulmány segít megmagyarázni, miért tendálnak a monetáris gazdaságok magasabb minőségű javakra, mint a csere-gazdaságok — implikációkkal a digitális-pénznem tervezéshez (ahol a tranzakciós súrlódások szándékosan alacsonyak, de a minőség-beruházási ösztönzők még mindig monetáris egységet igényelnek). Korlát: elméleti; konkrét szakpolitikai állítások konkrét csere-technológiák modellezését igénylik.",
+      "topics": [
+        "banking-finance",
+        "mechanism-design",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2071110264"
     },
     {
@@ -21276,20 +21302,26 @@
       "url_pdf": "https://www.aeaweb.org/articles/pdf/doi/10.1257/mic.20140138",
       "url_replication": null,
       "abstract": "We analyze innovation incentives when firms can invest either in increasing the product's value (value-increasing innovation) or in increasing the hidden prices they collect from naive consumers (exploitative innovation). We show that if firms cannot return all profits from hidden prices by lowering transparent prices, innovation incentives are often stronger for exploitative than for value-increasing innovations, and are strong even for non-appropriable innovations. These results help explain why firms in the financial industry (e.g., credit-card issuers) have been willing to make innovations others could easily copy, and why these innovations often seem to have included exploitative features. (JEL D21, G21, L11, L25, O31)",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "summary_en": "Why do firms invest in financial 'innovations' that look like they exploit consumers rather than creating value? Heidhues, Köszegi and Murooka show that when firms can collect hidden prices from naive consumers — fees, penalties, deferred charges — innovation incentives often favour exploitative innovation over value-increasing innovation. Their key result: if firms cannot fully refund hidden-price profits via lower transparent prices, exploitative innovation incentives are stronger, and remain strong even for non-appropriable innovations that competitors can copy. The model explains why the financial industry (credit-card issuers, mortgage lenders) made copyable 'innovations' that nonetheless looked exploitative — and why these innovations were profitable to the originator anyway.",
+      "summary_hu": "Miért fektetnek a cégek olyan pénzügyi 'innovációba', amely inkább kihasználja a fogyasztókat, mint értéket teremt? Heidhues, Köszegi és Murooka megmutatja, hogy amikor a cégek rejtett árakat — díjakat, büntetéseket, halasztott terheket — vehetnek el a naiv fogyasztóktól, az innovációs ösztönzők gyakran a kihasználó innováció felé billennek a valós értéket teremtő innovációval szemben. Kulcseredmény: ha a cégek nem tudják teljes mértékben visszaadni a rejtett-ár profitokat alacsonyabb transzparens árakkal, akkor a kihasználó innováció ösztönzői erősebbek, és erősek maradnak a nem-kisajátítható innovációkra is, amelyeket a versenytársak könnyen másolhatnak. A modell megmagyarázza, miért tett a pénzügyi szektor (hitelkártya-kibocsátók, jelzálog-hitelezők) másolhat 'innovációkat', amelyek mégis kihasználónak tűntek — és miért voltak ezek az innovációk az kibocsátó számára nyereségesek.",
+      "data_used": "Theoretical paper; no empirical data. Industrial-organization model of innovation incentives with naive consumers and hidden pricing.",
+      "data_used_hu": "Elméleti tanulmány; empirikus adatok nélkül. Iparági szervezet modellje az innovációs ösztönzőkre naiv fogyasztókkal és rejtett árazással.",
+      "policy_relevance": "Direct relevance to MNB consumer-protection regulation in retail finance. The paper provides a theoretical foundation for distinguishing 'good innovation' (transparent, value-creating) from 'bad innovation' (hidden-fee-extracting), and supports proactive regulation of new financial products before they spread. Useful for MNB and Pénzügyminisztérium consumer-credit and payment-product oversight.",
+      "policy_relevance_hu": "Közvetlenül érinti az MNB lakossági-pénzügyi fogyasztóvédelmi szabályozását. A tanulmány elméleti alapot ad a 'jó innováció' (transzparens, értékteremtő) és a 'rossz innováció' (rejtett-díj-kivonó) megkülönböztetéséhez, és támogatja az új pénzügyi termékek proaktív szabályozását, mielőtt elterjednek. Hasznos az MNB és a Pénzügyminisztérium lakossági-hitel és fizetési-termék felügyeletéhez.",
+      "topics": [
+        "banking-finance",
+        "behavioral",
+        "industrial-organization"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W4246689503"
     },
     {
@@ -22110,20 +22142,25 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "It is well known that economies of scale that are external to the individual decision makers can lead to self-fulfilling prophecies and the multiplicity or even indeterminacy of equilibrium. We argue that the importance of this source of multiplicity and indeterminacy is overstated in representative agent models, as they ignore the potential stabilizing effect of heterogeneity. We illustrate this in a version of Matsuyama's (1991) two-sector model with increasing returns to scale. Two main results are shown. First, sufficient homogeneity with respect to individual productivity leads to the instability and non-uniqueness of a given stationary state and the indeterminacy of the corresponding stationary state equilibrium. Second, sufficient heterogeneity leads to the global saddle-path stability and the uniqueness of a given stationary state and the global uniqueness of equilibrium.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "summary_en": "Models with external scale economies famously generate self-fulfilling prophecies — multiple equilibria and indeterminacy where small belief shifts create wildly different outcomes. Herrendorf, Valentinyi and Waldmann argue this is overstated: representative-agent models that ignore individual heterogeneity overdramatize the problem. In a heterogeneous-agent version of Matsuyama's two-sector increasing-returns model, sufficient homogeneity does generate the standard multiplicity and indeterminacy results. But sufficient heterogeneity restores global saddle-path stability and a unique equilibrium. The paper repositions heterogeneity as a stabilising force in growth and structural-change models — an important corrective to the multiplicity-pessimism of the 1990s growth literature.",
+      "summary_hu": "A külső skálahozadékú modellek híresen önbeteljesítő jóslatokat generálnak — több egyensúlyt és határozatlanságot, ahol kis hitváltozások drámaian eltérő kimenetelekhez vezetnek. Herrendorf, Valentinyi és Waldmann érvelése szerint ez túlzás: a reprezentatív-ágens modellek, amelyek figyelmen kívül hagyják az egyéni heterogenitást, túldramatizálják a problémát. Matsuyama kétszektoros növekvő-hozadékú modelljének heterogén-ágens verziójában a kellő homogenitás valóban generálja a standard többes és határozatlansági eredményeket. De a kellő heterogenitás visszahozza a globális nyeregútpályás stabilitást és az egyértelmű egyensúlyt. A tanulmány a heterogenitást stabilizáló erőként pozícionálja a növekedési és szerkezetváltozási modellekben — fontos korrekció az 1990-es évek növekedési irodalmának többes-pesszimizmusához.",
+      "data_used": "Theoretical paper. Two-sector increasing-returns growth model with heterogeneous agents; analytical and numerical stability analysis.",
+      "data_used_hu": "Elméleti tanulmány. Kétszektoros növekvő-hozadékú növekedési modell heterogén ágensekkel; analitikus és numerikus stabilitási elemzés.",
+      "policy_relevance": "Less directly policy-applicable than empirical papers, but methodologically important: warns Hungarian growth-modelling work (MNB, KRTK) against drawing strong qualitative conclusions from representative-agent models with multiplicity. Suggests that real Hungarian regional disparities are unlikely to be 'lock-in' equilibria of the type the multiplicity literature warned about; structural reform is more tractable than that literature implied.",
+      "policy_relevance_hu": "Kevésbé közvetlenül szakpolitikailag alkalmazható, mint az empirikus tanulmányok, de módszertanilag fontos: figyelmezteti a magyar növekedés-modellezést (MNB, KRTK), hogy ne vonjon le erős kvalitatív következtetéseket reprezentatív-ágens modellekből többes egyensúllyal. Arra utal, hogy a valós magyar regionális egyenlőtlenségek nem valószínű, hogy 'beszorult' egyensúlyok, ahogy a többes-egyensúlyi irodalom figyelmeztetett; a szerkezeti reform kezelhetőbb, mint amit ez az irodalom sugallt.",
+      "topics": [
+        "macroeconomics",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2045386851"
     },
     {
@@ -26349,20 +26386,25 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This paper models behavior when a decision maker cares about and manages her self-image. In addition to having preferences over material outcomes, the agent derives “ego utility ” from positive views about her ability to do well in a skill-sensitive, “ambitious, ” task. Although she uses Bayes ’ rule to update beliefs, she tends to become overconfident regarding which task is appropriate for her. If tasks are equally informative about ability, her task choice is also overconfident. If the ambitious task is more informative about ability, she might initially display underconfidence in behavior, and, if she is disappointed by her performance, later become too ambitious. People with ego utility prefer to acquire free information in smaller pieces. Applications to employee motivation and other economic settings are discussed. (JEL: D83, D11) 1.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "summary_en": "What if people derive utility not just from outcomes but from positive views about their own ability? Köszegi models behaviour when a decision-maker cares about and manages her self-image. The agent has both material preferences and 'ego utility' — gaining well-being from positive beliefs about her ability in skill-sensitive 'ambitious' tasks. Even using Bayes' rule for updating, the agent becomes overconfident about which task is appropriate for her. If tasks are equally informative about ability, her task choice itself is overconfident. If the ambitious task is more informative, behaviour can flip from initial underconfidence to overambition after disappointment. People with ego utility prefer to acquire information in small pieces. Implications for employee motivation and job-search policy.",
+      "summary_hu": "Mi van, ha az emberek nem csak a kimenetelekből, hanem a saját képességükről alkotott pozitív nézetekből is hasznosságot nyernek? Köszegi modellezi a viselkedést, amikor a döntéshozó törődik az önképével és menedzseli azt. Az ágens anyagi preferenciákat és 'egó-hasznosságot' is birtokol — a képesség-érzékeny 'ambiciózus' feladatokra vonatkozó pozitív hitekből nyer jólétet. Még Bayes-szabály szerinti frissítés mellett is túlzottan magabiztossá válik abban, hogy melyik feladat illik hozzá. Ha a feladatok egyformán informatívak a képességről, a feladatválasztása maga is túlzottan magabiztos. Ha az ambiciózus feladat informatívabb, a viselkedés átfordulhat kezdeti alulbizalomból túlambícióba csalódás után. Az egó-hasznosságú emberek inkább kis részletekben szereznek információt. Implikációk a munkavállalói motivációra és álláskeresési politikára.",
+      "data_used": "Theoretical paper; no empirical data. Bayesian updating model with ego utility added to the agent's objective.",
+      "data_used_hu": "Elméleti tanulmány; empirikus adatok nélkül. Bayesi frissítési modell az ágens célfüggvényéhez hozzáadott egó-hasznossággal.",
+      "policy_relevance": "Foundational behavioural-economics paper with broad policy implications. For Hungarian active labour-market policy (NFSZ, ITM), it explains why unemployed workers may overestimate their employability and resist downward task-matching — and why feedback-driven training programmes have limited corrective power. Supports default-based and incentive-aligned interventions over self-assessment-based ones.",
+      "policy_relevance_hu": "Alapozó viselkedés-közgazdasági tanulmány széles szakpolitikai implikációkkal. A magyar aktív munkapiaci politikához (NFSZ, ITM) megmagyarázza, miért becsülhetik túl az állásnélküliek a foglalkoztatási esélyeiket és miért állnak ellen a lefelé-mutató feladat-illesztésnek — és miért korlátozottan korrigáló erejűek a visszacsatolás-alapú képzési programok. Támogatja az alapértelmezés-alapú és ösztönző-illesztett beavatkozásokat az önértékelés-alapúakkal szemben.",
+      "topics": [
+        "behavioral",
+        "labor-markets"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2103022621"
     },
     {
@@ -27491,20 +27533,28 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We study two mechanisms used by public health insurance programs for rationing health care: outsourcing to private managed care plans and quantity limits for prescription drugs. Leveraging a natural experiment in Texas’s Medicaid program, we find that the shift to managed care and the relaxation of a strict drug cap increased access to high-value drugs and outpatient services and reduced avoidable hospitalizations. Program costs increased significantly, indicating a trade-off between cost and quality. We provide suggestive evidence attributing the reduction in hospitalizations to the relaxation of the drug cap and much of the spending increase to the shift to managed care. (JEL G22, H75, I13, I18, I38)",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "summary_en": "How should public health-insurance programmes ration care? Layton, Maestas, Prinz and Vabson study two mechanisms used by Texas Medicaid: outsourcing to private managed-care plans, and quantity limits on prescription drugs. Using a natural experiment that simultaneously shifted Medicaid to managed care and relaxed a strict drug cap, they find both changes increased access to high-value prescription drugs and outpatient services and reduced avoidable hospitalizations. Programme costs rose significantly — a clear cost-versus-quality trade-off. Decomposition suggests the drug-cap relaxation drove most of the hospital-reduction, while the managed-care shift drove much of the cost increase. A clean evaluation of two distinct rationing tools.",
+      "summary_hu": "Hogyan racionálják a köz-egészségbiztosítási programok az ellátást? Layton, Maestas, Prinz és Vabson Texas Medicaid programjának két mechanizmusát vizsgálja: a magán-menedzselt ellátási tervekhez való kiszervezést és a vényköteles gyógyszerek mennyiségi korlátait. Egy természetes kísérletet használva, amely egyszerre váltotta át a Medicaid-et menedzselt ellátásra és lazította a szigorú gyógyszer-plafon szabályt, megállapítják, hogy mindkét változás növelte a magas értékű vényköteles gyógyszerekhez és járóbeteg-szolgáltatásokhoz való hozzáférést és csökkentette az elkerülhető kórházi kezeléseket. A programköltségek jelentősen emelkedtek — tiszta költség–minőség átváltás. A felbontás arra utal, hogy a gyógyszer-plafon lazítása hajtotta a kórházi csökkenés nagy részét, miközben a menedzselt-ellátásra váltás hajtotta a költségnövekedés jelentős részét.",
+      "data_used": "Texas Medicaid administrative claims data covering the natural-experiment window when both managed-care expansion and drug-cap relaxation occurred. Tracks prescription utilisation, outpatient visits, and hospitalizations at the enrollee level.",
+      "data_used_hu": "Texas Medicaid adminisztratív kárigény-adatok a természetes kísérlet időablakára, amikor a menedzselt-ellátás bővítése és a gyógyszer-plafon lazítása egyszerre történt. A vényköteles gyógyszer-felhasználás, járóbeteg-látogatások és kórházi kezelések követése a biztosított-szintjén.",
+      "policy_relevance": "Direct relevance to Hungarian public health-insurance reform debates (NEAK, EMMI). Two specific lessons: (i) drug-cap policies that limit access to high-value drugs increase avoidable hospitalizations, with potentially-positive net cost; (ii) outsourcing to private managed care raises costs but doesn't necessarily improve quality if drug access is the binding constraint. Useful framework for OEP/NEAK pharmaceutical-utilization policy and for ongoing private-insurance debates.",
+      "policy_relevance_hu": "Közvetlenül érinti a magyar köz-egészségbiztosítási reform vitákat (NEAK, EMMI). Két konkrét tanulság: (i) a magas-értékű gyógyszerekhez való hozzáférést korlátozó gyógyszer-plafon szakpolitikák növelik az elkerülhető kórházi kezeléseket, potenciálisan pozitív nettó költséggel; (ii) a magán-menedzselt ellátáshoz való kiszervezés növeli a költségeket, de nem feltétlenül javítja a minőséget, ha a gyógyszer-hozzáférés a kötelező korlát. Hasznos keret a NEAK gyógyszer-felhasználási politikájához és a folyamatos magán-biztosítási vitákhoz.",
+      "topics": [
+        "health",
+        "fiscal-tax",
+        "labor-markets"
+      ],
+      "methods": [
+        "diff-in-diff"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W4307513743"
     },
     {
@@ -27526,20 +27576,25 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "In a local interaction game agents play an identical stage game against their neighbours over time. For nearest neighbour interaction, it is established that, starting from a random initial configuration in which each agent has a positive probability of playing the risk dominant strategy, a sufficiently large population coordinates in the long-run on the risk dominant equilibrium almost surely. Our result improves on Blume (1995), Ellison (2000), and Morris (2000) by showing that the risk dominant equilibrium spreads to the entire population in a two dimensional lattice and without the help of mutation, as long as there is some randomness in the initial configuration.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "summary_en": "When agents play games against their neighbours over time on a network, how do equilibria spread? Lee and Valentinyi study local-interaction coordination games where each agent plays against nearest neighbours. For a sufficiently large population starting from a random configuration in which each agent has positive probability of playing the risk-dominant strategy, they prove that the population converges almost surely to the risk-dominant equilibrium. The result improves on Blume (1995), Ellison (2000) and Morris (2000) by showing that the risk-dominant equilibrium spreads to the entire population in a two-dimensional lattice without the help of mutation, requiring only randomness in the initial configuration. A clean technical contribution to the spatial evolutionary-game-theory literature.",
+      "summary_hu": "Amikor az ágensek időben szomszédjaikkal játszanak hálózaton, hogyan terjednek az egyensúlyok? Lee és Valentinyi helyi-interakciós koordinációs játékokat vizsgál, amelyekben minden ágens a legközelebbi szomszédjaival játszik. Kellően nagy népességre, amely véletlenszerű konfigurációból indul, amelyben minden ágens pozitív valószínűséggel játssza a kockázat-dominálta stratégiát, bebizonyítják, hogy a népesség majdnem biztosan a kockázat-dominálta egyensúlyhoz konvergál. Az eredmény túltesz Blume (1995), Ellison (2000) és Morris (2000) eredményein azzal, hogy megmutatja: a kockázat-dominálta egyensúly egy kétdimenziós rácson mutáció segítsége nélkül terjed az egész népességre, csak a kezdeti konfiguráció véletlenszerűségét igényelve. Tiszta technikai hozzájárulás a térbeli evolúciós-játékelméleti irodalomhoz.",
+      "data_used": "Theoretical paper. Probabilistic analysis of local-interaction stochastic dynamics on two-dimensional lattices.",
+      "data_used_hu": "Elméleti tanulmány. Helyi-interakciós sztochasztikus dinamika valószínűségi elemzése kétdimenziós rácsokon.",
+      "policy_relevance": "Foundational technical paper. Limited direct policy relevance, but informs broader work on technology adoption, social-norm cascades, and spatial coordination problems. For Hungarian regional-policy work, the result provides a theoretical basis for expecting that risk-dominant practices (e.g., conservative business norms) can spread without explicit policy intervention if initial conditions are mixed.",
+      "policy_relevance_hu": "Alapozó technikai tanulmány. Korlátozott közvetlen szakpolitikai relevancia, de tájékoztatja a technológia-elfogadásról, társadalmi-norma kaszkádokról és térbeli koordinációs problémákról szóló szélesebb munkát. A magyar regionális-politikai munkához az eredmény elméleti alapot ad arra, hogy a kockázat-dominálta gyakorlatok (pl. konzervatív üzleti normák) explicit szakpolitikai beavatkozás nélkül is terjedhetnek vegyes kezdeti feltételek mellett.",
+      "topics": [
+        "mechanism-design",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2010406806"
     },
     {
@@ -30390,20 +30445,26 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We consider the evolutionary basis of time discounting with intergenerational transfers. We show that the notion of “reproductive value” from biology provides the utility criterion for a parent to optimize the allocation of resources between transfers to offspring and to promote her own survival. This optimization has a natural dynamic programming formulation. We show that younger individuals may well be “too impatient,” but older individuals “too patient” in accordance with observations. We compare the allocation of resources under sexual reproduction to that where there is asexual reproduction. Sex distorts time discounting; under plausible conditions, sex increases patience. (JEL A12, D91)",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "summary_en": "Why are people impatient — and is the degree of impatience itself selected by evolution? Robson, Szentes and Iantchev model the evolutionary basis of time discounting when parents make resource-allocation decisions between transfers to offspring and own-survival investment. They show that the biological notion of 'reproductive value' provides the natural utility criterion, and that the optimisation has a clean dynamic-programming structure. Younger individuals can be 'too impatient' relative to other measures, while older individuals are 'too patient' — matching observed life-cycle patterns. Comparing sexual and asexual reproduction, sex distorts time discounting and (under plausible parameters) increases patience. A foundational link between biology and economics.",
+      "summary_hu": "Miért türelmetlenek az emberek — és magát a türelmetlenség mértékét is az evolúció válogatja? Robson, Szentes és Iantchev modellezi az időbeli diszkontálás evolúciós alapját, amikor a szülők erőforrás-elosztási döntést hoznak a leszármazottakhoz történő átadások és a saját-túlélési befektetés között. Megmutatják, hogy a biológiai 'reproduktív érték' fogalma adja a természetes hasznossági kritériumot, és hogy az optimalizálás tiszta dinamikus-programozási szerkezetű. A fiatalabb egyének 'túl türelmetlenek' lehetnek más mércékhez képest, míg az idősebbek 'túl türelmesek' — illeszkedve a megfigyelt élettartam-mintákhoz. A szexuális és aszexuális reprodukció összehasonlításában a szex torzítja az időbeli diszkontálást és (plauzibilis paraméterek mellett) növeli a türelmet. Alapozó kapcsolat biológia és közgazdaságtan között.",
+      "data_used": "Theoretical paper; no empirical data. Evolutionary dynamic-programming model of intergenerational transfers and life-cycle utility under sexual versus asexual reproduction.",
+      "data_used_hu": "Elméleti tanulmány; empirikus adatok nélkül. Az nemzedékek közötti átadások és élettartam-hasznosság evolúciós dinamikus-programozási modellje szexuális és aszexuális reprodukció mellett.",
+      "policy_relevance": "Foundational paper with limited direct policy implications, but informs broader work on intergenerational transfers and savings policy. For Hungarian pension-design and family-policy debates, it provides an evolutionary rationale for the observed life-cycle patterns of saving and consumption — younger workers saving too little for their future selves is partly evolutionary, not purely a behavioural failure.",
+      "policy_relevance_hu": "Alapozó tanulmány korlátozott közvetlen szakpolitikai implikációkkal, de tájékoztatja a nemzedékek közötti átadásokról és megtakarítási politikáról szóló szélesebb munkát. A magyar nyugdíjrendszer-tervezés és családpolitika vitákhoz evolúciós racionális alapot ad a megtakarítás és fogyasztás megfigyelt élettartam-mintáira — a fiatalabb munkavállalók túl kevés megtakarítása részben evolúciós, nem pusztán viselkedési kudarc.",
+      "topics": [
+        "behavioral",
+        "demographics-migration",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2139014687"
     },
     {
@@ -38028,7 +38089,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 64
+      "paper_count": 67
     },
     {
       "id": "education-skills",
@@ -38050,7 +38111,7 @@
       "policy_framing_en": "Relevant to: healthcare system design, hospital payment, prevention programs, pharmaceutical policy, mental health services.",
       "policy_framing_hu": "Releváns: egészségügyi rendszer kialakítása, kórházi finanszírozás, prevenciós programok, gyógyszerpolitika, mentális szolgáltatások.",
       "icon": "heart-pulse",
-      "paper_count": 36
+      "paper_count": 37
     },
     {
       "id": "demographics-migration",
@@ -38061,7 +38122,7 @@
       "policy_framing_en": "Relevant to: family policy, pension system, immigration policy, retention of skilled workers.",
       "policy_framing_hu": "Releváns: családpolitika, nyugdíjrendszer, bevándorláspolitika, szakemberek megtartása.",
       "icon": "users",
-      "paper_count": 23
+      "paper_count": 24
     },
     {
       "id": "trade-fdi",
@@ -38083,7 +38144,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 97
+      "paper_count": 98
     },
     {
       "id": "innovation-digital",
@@ -38094,7 +38155,7 @@
       "policy_framing_en": "Relevant to: R&D tax credits, digital strategy, AI policy, innovation agency design, university–industry linkages.",
       "policy_framing_hu": "Releváns: K+F adókedvezmények, digitális stratégia, MI-politika, innovációs ügynökségek, egyetem–ipar kapcsolatok.",
       "icon": "cpu",
-      "paper_count": 41
+      "paper_count": 42
     },
     {
       "id": "banking-finance",
@@ -38105,7 +38166,7 @@
       "policy_framing_en": "Relevant to: MNB policy, banking regulation, macroprudential tools, financial inclusion.",
       "policy_framing_hu": "Releváns: MNB-politika, bankszabályozás, makroprudenciális eszközök, pénzügyi befogadás.",
       "icon": "landmark",
-      "paper_count": 82
+      "paper_count": 84
     },
     {
       "id": "fiscal-tax",
@@ -38116,7 +38177,7 @@
       "policy_framing_en": "Relevant to: tax reform, budget planning, public debt management, compliance policy.",
       "policy_framing_hu": "Releváns: adóreform, költségvetés-tervezés, államadósság-kezelés, adócompliance.",
       "icon": "coins",
-      "paper_count": 28
+      "paper_count": 29
     },
     {
       "id": "regional-urban",
@@ -38182,7 +38243,7 @@
       "policy_framing_en": "Relevant to: consumer protection, pension-default design, nudging, financial-education regulation, addictive-product regulation.",
       "policy_framing_hu": "Releváns: fogyasztóvédelem, nyugdíjalap-alapbeállítások, döntéslendítés (nudge), pénzügyi edukáció szabályozása, függőséget okozó termékek szabályozása.",
       "icon": "brain",
-      "paper_count": 60
+      "paper_count": 63
     },
     {
       "id": "industrial-organization",
@@ -38193,7 +38254,7 @@
       "policy_framing_en": "Relevant to: competition policy (GVH), merger review, platform regulation, auction design, sector-specific regulation.",
       "policy_framing_hu": "Releváns: versenypolitika (GVH), fúziókontroll, platformszabályozás, aukciótervezés, ágazati szabályozás.",
       "icon": "network",
-      "paper_count": 28
+      "paper_count": 30
     },
     {
       "id": "macroeconomics",
@@ -38204,7 +38265,7 @@
       "policy_framing_en": "Relevant to: long-run growth forecasting, macroeconomic modelling, sovereign-debt management, stabilisation policy design.",
       "policy_framing_hu": "Releváns: hosszú távú növekedés előrejelzés, makroökonómiai modellek, államadósság-kezelés, stabilizációs politika.",
       "icon": "line-chart",
-      "paper_count": 41
+      "paper_count": 43
     },
     {
       "id": "agriculture-food",
@@ -38226,7 +38287,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 114
+      "paper_count": 118
     },
     {
       "id": "market-design",
@@ -38248,7 +38309,7 @@
       "policy_framing_en": "Relevant to: regulatory design, procurement, voting reform, contract law, antitrust analysis, committee design.",
       "policy_framing_hu": "Releváns: szabályozási tervezés, közbeszerzés, választási reform, szerződésjog, versenypolitika, bizottsági tervezés.",
       "icon": "scale",
-      "paper_count": 27
+      "paper_count": 29
     }
   ],
   "journals": [

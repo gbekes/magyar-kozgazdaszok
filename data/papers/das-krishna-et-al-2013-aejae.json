@@ -19,19 +19,28 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We use a proprietary dataset on the floor-level operations at the largest rail mill in India to study the response of productivity to the threat of entry. Output per active shift increased by 28 percent over 3 years with minimal changes in physical capital and employment. By combining data on the timing of various training programs in the mill with shift-level variation in worker composition, we are able to attribute over half of the higher productivity to training specifically targeted toward improving rail output. Our work suggests high returns to knowledge-enhancing investment in emerging economies. (JEL D22, D24, J24, L23, L32, L61, O14)",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "What does the threat of competitive entry do to productivity in a state-owned firm? Das, Krishna, Lychagin and Somanathan use a proprietary dataset on floor-level operations at India's largest rail mill to track output per shift before and after a credible entry threat. Output per active shift rose 28% over three years with minimal changes in physical capital or employment — a productivity gain almost entirely from existing inputs. Combining shift-level worker-composition data with the timing of training programmes, they attribute over half of the productivity gain to training specifically targeted at improving rail output. The result demonstrates high returns to knowledge-enhancing investment in emerging-economy state-owned industry.",
+  "summary_hu": "Mit tesz a versenybelépés fenyegetése egy állami vállalat termelékenységével? Das, Krishna, Lychagin és Somanathan India legnagyobb sín-üzemének padló-szintű műveleteinek saját adatbázisát használja a műszakonkénti kibocsátás követésére egy hiteles belépési fenyegetés előtt és után. Az aktív műszakonkénti kibocsátás három év alatt 28 százalékkal nőtt minimális fizikai-tőke és foglalkoztatási változás mellett — termelékenységi nyereség szinte teljes egészében meglévő bemenetekből. A műszakszintű munkavállalói összetétel adatait a képzési programok időzítésével kombinálva a termelékenységi nyereség több mint felét célzottan a sín-kibocsátás javítását célzó képzéshez kötik. Az eredmény magas hozadékot mutat a tudás-bővítő beruházásra a feltörekvő-gazdasági állami iparban.",
+  "data_used": "Proprietary shift-level operational data from India's largest steel rail mill, ~3 years pre/post the entry threat. Includes output per shift, worker composition, training-programme rosters, and timing of operational changes.",
+  "data_used_hu": "India legnagyobb acél-sín üzemének saját, műszak-szintű operatív adatai a belépési fenyegetés előtt és után ~3 évre. Tartalmazza a műszakonkénti kibocsátást, munkavállalói összetételt, képzési programok listáját és az operatív változások időzítését.",
+  "policy_relevance": "For Hungarian state-owned enterprise debates (MNV, Pénzügyminisztérium): the paper provides causal evidence that productive change in SOEs can come from competitive pressure plus targeted training, without privatisation or major capital investment. Directly relevant to Hungarian rail (MÁV), postal (Magyar Posta), and energy SOE governance. Caveat: Indian context; Hungarian SOE worker training capacity differs.",
+  "policy_relevance_hu": "Magyar állami tulajdonú vállalat vitákhoz (MNV, Pénzügyminisztérium): a tanulmány okozati bizonyítékot ad arra, hogy az állami vállalatok termelékeny változása versenynyomás és célzott képzés révén jöhet létre, privatizáció vagy nagy tőkeberuházás nélkül. Közvetlenül érinti a magyar vasút (MÁV), posta és energetikai állami vállalatok kormányzását. Korlát: indiai kontextus; a magyar állami vállalatok képzési kapacitása eltérő.",
+  "topics": [
+    "firms-productivity",
+    "industrial-organization"
+  ],
+  "methods": [
+    "diff-in-diff",
+    "panel-data"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "admin-firm",
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-21",
-  "last_reviewed_at": "2026-04-21",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W2118032171"
 }

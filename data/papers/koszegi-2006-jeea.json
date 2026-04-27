@@ -16,19 +16,24 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This paper models behavior when a decision maker cares about and manages her self-image. In addition to having preferences over material outcomes, the agent derives “ego utility ” from positive views about her ability to do well in a skill-sensitive, “ambitious, ” task. Although she uses Bayes ’ rule to update beliefs, she tends to become overconfident regarding which task is appropriate for her. If tasks are equally informative about ability, her task choice is also overconfident. If the ambitious task is more informative about ability, she might initially display underconfidence in behavior, and, if she is disappointed by her performance, later become too ambitious. People with ego utility prefer to acquire free information in smaller pieces. Applications to employee motivation and other economic settings are discussed. (JEL: D83, D11) 1.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "What if people derive utility not just from outcomes but from positive views about their own ability? Köszegi models behaviour when a decision-maker cares about and manages her self-image. The agent has both material preferences and 'ego utility' — gaining well-being from positive beliefs about her ability in skill-sensitive 'ambitious' tasks. Even using Bayes' rule for updating, the agent becomes overconfident about which task is appropriate for her. If tasks are equally informative about ability, her task choice itself is overconfident. If the ambitious task is more informative, behaviour can flip from initial underconfidence to overambition after disappointment. People with ego utility prefer to acquire information in small pieces. Implications for employee motivation and job-search policy.",
+  "summary_hu": "Mi van, ha az emberek nem csak a kimenetelekből, hanem a saját képességükről alkotott pozitív nézetekből is hasznosságot nyernek? Köszegi modellezi a viselkedést, amikor a döntéshozó törődik az önképével és menedzseli azt. Az ágens anyagi preferenciákat és 'egó-hasznosságot' is birtokol — a képesség-érzékeny 'ambiciózus' feladatokra vonatkozó pozitív hitekből nyer jólétet. Még Bayes-szabály szerinti frissítés mellett is túlzottan magabiztossá válik abban, hogy melyik feladat illik hozzá. Ha a feladatok egyformán informatívak a képességről, a feladatválasztása maga is túlzottan magabiztos. Ha az ambiciózus feladat informatívabb, a viselkedés átfordulhat kezdeti alulbizalomból túlambícióba csalódás után. Az egó-hasznosságú emberek inkább kis részletekben szereznek információt. Implikációk a munkavállalói motivációra és álláskeresési politikára.",
+  "data_used": "Theoretical paper; no empirical data. Bayesian updating model with ego utility added to the agent's objective.",
+  "data_used_hu": "Elméleti tanulmány; empirikus adatok nélkül. Bayesi frissítési modell az ágens célfüggvényéhez hozzáadott egó-hasznossággal.",
+  "policy_relevance": "Foundational behavioural-economics paper with broad policy implications. For Hungarian active labour-market policy (NFSZ, ITM), it explains why unemployed workers may overestimate their employability and resist downward task-matching — and why feedback-driven training programmes have limited corrective power. Supports default-based and incentive-aligned interventions over self-assessment-based ones.",
+  "policy_relevance_hu": "Alapozó viselkedés-közgazdasági tanulmány széles szakpolitikai implikációkkal. A magyar aktív munkapiaci politikához (NFSZ, ITM) megmagyarázza, miért becsülhetik túl az állásnélküliek a foglalkoztatási esélyeiket és miért állnak ellen a lefelé-mutató feladat-illesztésnek — és miért korlátozottan korrigáló erejűek a visszacsatolás-alapú képzési programok. Támogatja az alapértelmezés-alapú és ösztönző-illesztett beavatkozásokat az önértékelés-alapúakkal szemben.",
+  "topics": [
+    "behavioral",
+    "labor-markets"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W2103022621"
 }

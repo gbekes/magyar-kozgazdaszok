@@ -18,19 +18,25 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We consider the evolutionary basis of time discounting with intergenerational transfers. We show that the notion of “reproductive value” from biology provides the utility criterion for a parent to optimize the allocation of resources between transfers to offspring and to promote her own survival. This optimization has a natural dynamic programming formulation. We show that younger individuals may well be “too impatient,” but older individuals “too patient” in accordance with observations. We compare the allocation of resources under sexual reproduction to that where there is asexual reproduction. Sex distorts time discounting; under plausible conditions, sex increases patience. (JEL A12, D91)",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "Why are people impatient — and is the degree of impatience itself selected by evolution? Robson, Szentes and Iantchev model the evolutionary basis of time discounting when parents make resource-allocation decisions between transfers to offspring and own-survival investment. They show that the biological notion of 'reproductive value' provides the natural utility criterion, and that the optimisation has a clean dynamic-programming structure. Younger individuals can be 'too impatient' relative to other measures, while older individuals are 'too patient' — matching observed life-cycle patterns. Comparing sexual and asexual reproduction, sex distorts time discounting and (under plausible parameters) increases patience. A foundational link between biology and economics.",
+  "summary_hu": "Miért türelmetlenek az emberek — és magát a türelmetlenség mértékét is az evolúció válogatja? Robson, Szentes és Iantchev modellezi az időbeli diszkontálás evolúciós alapját, amikor a szülők erőforrás-elosztási döntést hoznak a leszármazottakhoz történő átadások és a saját-túlélési befektetés között. Megmutatják, hogy a biológiai 'reproduktív érték' fogalma adja a természetes hasznossági kritériumot, és hogy az optimalizálás tiszta dinamikus-programozási szerkezetű. A fiatalabb egyének 'túl türelmetlenek' lehetnek más mércékhez képest, míg az idősebbek 'túl türelmesek' — illeszkedve a megfigyelt élettartam-mintákhoz. A szexuális és aszexuális reprodukció összehasonlításában a szex torzítja az időbeli diszkontálást és (plauzibilis paraméterek mellett) növeli a türelmet. Alapozó kapcsolat biológia és közgazdaságtan között.",
+  "data_used": "Theoretical paper; no empirical data. Evolutionary dynamic-programming model of intergenerational transfers and life-cycle utility under sexual versus asexual reproduction.",
+  "data_used_hu": "Elméleti tanulmány; empirikus adatok nélkül. Az nemzedékek közötti átadások és élettartam-hasznosság evolúciós dinamikus-programozási modellje szexuális és aszexuális reprodukció mellett.",
+  "policy_relevance": "Foundational paper with limited direct policy implications, but informs broader work on intergenerational transfers and savings policy. For Hungarian pension-design and family-policy debates, it provides an evolutionary rationale for the observed life-cycle patterns of saving and consumption — younger workers saving too little for their future selves is partly evolutionary, not purely a behavioural failure.",
+  "policy_relevance_hu": "Alapozó tanulmány korlátozott közvetlen szakpolitikai implikációkkal, de tájékoztatja a nemzedékek közötti átadásokról és megtakarítási politikáról szóló szélesebb munkát. A magyar nyugdíjrendszer-tervezés és családpolitika vitákhoz evolúciós racionális alapot ad a megtakarítás és fogyasztás megfigyelt élettartam-mintáira — a fiatalabb munkavállalók túl kevés megtakarítása részben evolúciós, nem pusztán viselkedési kudarc.",
+  "topics": [
+    "behavioral",
+    "demographics-migration",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W2139014687"
 }

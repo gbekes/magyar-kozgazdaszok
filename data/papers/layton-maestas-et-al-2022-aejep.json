@@ -19,19 +19,27 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We study two mechanisms used by public health insurance programs for rationing health care: outsourcing to private managed care plans and quantity limits for prescription drugs. Leveraging a natural experiment in Texas’s Medicaid program, we find that the shift to managed care and the relaxation of a strict drug cap increased access to high-value drugs and outpatient services and reduced avoidable hospitalizations. Program costs increased significantly, indicating a trade-off between cost and quality. We provide suggestive evidence attributing the reduction in hospitalizations to the relaxation of the drug cap and much of the spending increase to the shift to managed care. (JEL G22, H75, I13, I18, I38)",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "How should public health-insurance programmes ration care? Layton, Maestas, Prinz and Vabson study two mechanisms used by Texas Medicaid: outsourcing to private managed-care plans, and quantity limits on prescription drugs. Using a natural experiment that simultaneously shifted Medicaid to managed care and relaxed a strict drug cap, they find both changes increased access to high-value prescription drugs and outpatient services and reduced avoidable hospitalizations. Programme costs rose significantly — a clear cost-versus-quality trade-off. Decomposition suggests the drug-cap relaxation drove most of the hospital-reduction, while the managed-care shift drove much of the cost increase. A clean evaluation of two distinct rationing tools.",
+  "summary_hu": "Hogyan racionálják a köz-egészségbiztosítási programok az ellátást? Layton, Maestas, Prinz és Vabson Texas Medicaid programjának két mechanizmusát vizsgálja: a magán-menedzselt ellátási tervekhez való kiszervezést és a vényköteles gyógyszerek mennyiségi korlátait. Egy természetes kísérletet használva, amely egyszerre váltotta át a Medicaid-et menedzselt ellátásra és lazította a szigorú gyógyszer-plafon szabályt, megállapítják, hogy mindkét változás növelte a magas értékű vényköteles gyógyszerekhez és járóbeteg-szolgáltatásokhoz való hozzáférést és csökkentette az elkerülhető kórházi kezeléseket. A programköltségek jelentősen emelkedtek — tiszta költség–minőség átváltás. A felbontás arra utal, hogy a gyógyszer-plafon lazítása hajtotta a kórházi csökkenés nagy részét, miközben a menedzselt-ellátásra váltás hajtotta a költségnövekedés jelentős részét.",
+  "data_used": "Texas Medicaid administrative claims data covering the natural-experiment window when both managed-care expansion and drug-cap relaxation occurred. Tracks prescription utilisation, outpatient visits, and hospitalizations at the enrollee level.",
+  "data_used_hu": "Texas Medicaid adminisztratív kárigény-adatok a természetes kísérlet időablakára, amikor a menedzselt-ellátás bővítése és a gyógyszer-plafon lazítása egyszerre történt. A vényköteles gyógyszer-felhasználás, járóbeteg-látogatások és kórházi kezelések követése a biztosított-szintjén.",
+  "policy_relevance": "Direct relevance to Hungarian public health-insurance reform debates (NEAK, EMMI). Two specific lessons: (i) drug-cap policies that limit access to high-value drugs increase avoidable hospitalizations, with potentially-positive net cost; (ii) outsourcing to private managed care raises costs but doesn't necessarily improve quality if drug access is the binding constraint. Useful framework for OEP/NEAK pharmaceutical-utilization policy and for ongoing private-insurance debates.",
+  "policy_relevance_hu": "Közvetlenül érinti a magyar köz-egészségbiztosítási reform vitákat (NEAK, EMMI). Két konkrét tanulság: (i) a magas-értékű gyógyszerekhez való hozzáférést korlátozó gyógyszer-plafon szakpolitikák növelik az elkerülhető kórházi kezeléseket, potenciálisan pozitív nettó költséggel; (ii) a magán-menedzselt ellátáshoz való kiszervezés növeli a költségeket, de nem feltétlenül javítja a minőséget, ha a gyógyszer-hozzáférés a kötelező korlát. Hasznos keret a NEAK gyógyszer-felhasználási politikájához és a folyamatos magán-biztosítási vitákhoz.",
+  "topics": [
+    "health",
+    "fiscal-tax",
+    "labor-markets"
+  ],
+  "methods": [
+    "diff-in-diff"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W4307513743"
 }

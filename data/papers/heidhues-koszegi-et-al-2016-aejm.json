@@ -18,19 +18,25 @@
   "url_pdf": "https://www.aeaweb.org/articles/pdf/doi/10.1257/mic.20140138",
   "url_replication": null,
   "abstract": "We analyze innovation incentives when firms can invest either in increasing the product's value (value-increasing innovation) or in increasing the hidden prices they collect from naive consumers (exploitative innovation). We show that if firms cannot return all profits from hidden prices by lowering transparent prices, innovation incentives are often stronger for exploitative than for value-increasing innovations, and are strong even for non-appropriable innovations. These results help explain why firms in the financial industry (e.g., credit-card issuers) have been willing to make innovations others could easily copy, and why these innovations often seem to have included exploitative features. (JEL D21, G21, L11, L25, O31)",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "Why do firms invest in financial 'innovations' that look like they exploit consumers rather than creating value? Heidhues, Köszegi and Murooka show that when firms can collect hidden prices from naive consumers — fees, penalties, deferred charges — innovation incentives often favour exploitative innovation over value-increasing innovation. Their key result: if firms cannot fully refund hidden-price profits via lower transparent prices, exploitative innovation incentives are stronger, and remain strong even for non-appropriable innovations that competitors can copy. The model explains why the financial industry (credit-card issuers, mortgage lenders) made copyable 'innovations' that nonetheless looked exploitative — and why these innovations were profitable to the originator anyway.",
+  "summary_hu": "Miért fektetnek a cégek olyan pénzügyi 'innovációba', amely inkább kihasználja a fogyasztókat, mint értéket teremt? Heidhues, Köszegi és Murooka megmutatja, hogy amikor a cégek rejtett árakat — díjakat, büntetéseket, halasztott terheket — vehetnek el a naiv fogyasztóktól, az innovációs ösztönzők gyakran a kihasználó innováció felé billennek a valós értéket teremtő innovációval szemben. Kulcseredmény: ha a cégek nem tudják teljes mértékben visszaadni a rejtett-ár profitokat alacsonyabb transzparens árakkal, akkor a kihasználó innováció ösztönzői erősebbek, és erősek maradnak a nem-kisajátítható innovációkra is, amelyeket a versenytársak könnyen másolhatnak. A modell megmagyarázza, miért tett a pénzügyi szektor (hitelkártya-kibocsátók, jelzálog-hitelezők) másolhat 'innovációkat', amelyek mégis kihasználónak tűntek — és miért voltak ezek az innovációk az kibocsátó számára nyereségesek.",
+  "data_used": "Theoretical paper; no empirical data. Industrial-organization model of innovation incentives with naive consumers and hidden pricing.",
+  "data_used_hu": "Elméleti tanulmány; empirikus adatok nélkül. Iparági szervezet modellje az innovációs ösztönzőkre naiv fogyasztókkal és rejtett árazással.",
+  "policy_relevance": "Direct relevance to MNB consumer-protection regulation in retail finance. The paper provides a theoretical foundation for distinguishing 'good innovation' (transparent, value-creating) from 'bad innovation' (hidden-fee-extracting), and supports proactive regulation of new financial products before they spread. Useful for MNB and Pénzügyminisztérium consumer-credit and payment-product oversight.",
+  "policy_relevance_hu": "Közvetlenül érinti az MNB lakossági-pénzügyi fogyasztóvédelmi szabályozását. A tanulmány elméleti alapot ad a 'jó innováció' (transzparens, értékteremtő) és a 'rossz innováció' (rejtett-díj-kivonó) megkülönböztetéséhez, és támogatja az új pénzügyi termékek proaktív szabályozását, mielőtt elterjednek. Hasznos az MNB és a Pénzügyminisztérium lakossági-hitel és fizetési-termék felügyeletéhez.",
+  "topics": [
+    "banking-finance",
+    "behavioral",
+    "industrial-organization"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W4246689503"
 }
