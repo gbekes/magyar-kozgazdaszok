@@ -110,25 +110,29 @@ def best_qualifying_pub(papers: list[dict]) -> dict | None:
 
 
 def admission_check(papers: list[dict]) -> tuple[bool, int, int, list[str]]:
-    """SPEC §1.2 (AND rule, 2026-04-26):
+    """SPEC §1.2 (AND rule, 2026-04-27):
        (i) ≥1 paper in Tier A/B journal AND
-       (ii) ≥3 peer-reviewed English articles (proxy: publication_type='article' and journal not B-hu).
+       (ii) ≥3 publications in international good journals
+            (= on journals.json, any tier except B-hu, publication_type=article).
     """
     tier_ab = 0
-    eng_articles = 0
+    intl_good = 0
     tier_ab_titles = []
     for p in papers:
         if p.get("publication_type") != "article":
             continue
         j = p.get("journal") or ""
-        t = JOURNAL_TIER.get(j, "?")
+        t = JOURNAL_TIER.get(j)
+        if t is None:
+            continue  # journal not on the whitelist → not "good"
+        if t == "B-hu":
+            continue  # Hungarian-language outlet, not "international"
+        intl_good += 1
         if t in ("A", "B"):
             tier_ab += 1
             tier_ab_titles.append(f"{j} ({p.get('year')})")
-        if t != "B-hu":
-            eng_articles += 1
-    qualifies = tier_ab >= 1 and eng_articles >= 3
-    return qualifies, tier_ab, eng_articles, tier_ab_titles
+    qualifies = tier_ab >= 1 and intl_good >= 3
+    return qualifies, tier_ab, intl_good, tier_ab_titles
 
 
 def audit_one(slug: str) -> str:
@@ -141,7 +145,7 @@ def audit_one(slug: str) -> str:
 
     name = a.get("name_en") or slug
     papers, policies, presses = collect_for(slug)
-    qualifies, tier_ab_n, eng_n, tier_ab_titles = admission_check(papers)
+    qualifies, tier_ab_n, intl_n, tier_ab_titles = admission_check(papers)
 
     # field completeness
     missing_fields = []
@@ -184,12 +188,12 @@ def audit_one(slug: str) -> str:
     if not qualifies:
         lines.append(f"  ⚠ ADMISSION RULE FAIL (SPEC §1.2 AND): "
                      f"tier A/B papers = {tier_ab_n} (need ≥1), "
-                     f"English articles = {eng_n} (need ≥3) — flag for editor")
+                     f"international good-journal papers = {intl_n} (need ≥3) — flag for editor")
     lines.append(f"  filled fields: {sum(1 for k,_ in AUTHOR_FIELDS if has(a,k))}/13"
                  f"  | review_status: {a.get('review_status') or 'null'}"
                  f"  | repec_id: {a.get('repec_id') or 'null'}"
                  f"  | photo: {'Y' if has(a,'photo_url') else 'N'}"
-                 f"  | tier-A/B: {tier_ab_n}, EN articles: {eng_n}")
+                 f"  | tier-A/B: {tier_ab_n}, intl good: {intl_n}")
     lines.append(f"  catalogue: papers {paper_total} ({paper_drafted}/{paper_total} EN draft, {paper_hu}/{paper_total} HU)"
                  f"  | policy {pol_total} ({pol_summary}/{pol_total} EN summary)"
                  f"  | press {press_total}")

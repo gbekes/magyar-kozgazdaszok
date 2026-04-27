@@ -28,13 +28,16 @@ rule (SPEC §1.2). An author qualifies only if **both** hold:
 
 - (i) at least one publication in a journal on `data/journals.json`
   Tier A or B, **and**
-- (ii) ≥ 3 peer-reviewed published articles in English in any
-  economics, finance, or management journal.
+- (ii) at least **3 publications in international good journals** —
+  i.e., journals that appear on `data/journals.json` (any tier),
+  excluding `B-hu` (Hungarian-language outlets like *Közgazdasági
+  Szemle* or *Acta Oeconomica*).
 
 If either fails, halt and flag for the editor — don't audit someone
 who shouldn't be in the catalogue. Run `hu-econ-verifier` (Check 1)
-for eligibility doubts. Surface borderline cases (1–2 international
-publications, or no Tier A/B paper) explicitly in the report.
+for eligibility doubts. Surface borderline cases (e.g., 1-2
+international good-journal publications, or no Tier A/B paper)
+explicitly in the report.
 
 ## Inputs
 
