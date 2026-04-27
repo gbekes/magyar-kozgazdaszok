@@ -23,10 +23,15 @@
   "bio_en": "László Halpern is a senior researcher at KRTK Institute of Economics. His work focuses on international trade, firm productivity, and the role of imported inputs in economic development. He is best known for his AER article showing that a large share of the productivity gains of Hungarian firms after 1992 can be attributed to access to imported intermediates.",
   "bio_hu": "Halpern László a KRTK Közgazdaság-tudományi Intézetének vezető kutatója. Munkája a nemzetközi kereskedelemre, a vállalati termelékenységre és az importált inputok fejlesztésben játszott szerepére összpontosít. Legismertebb AER-cikke azt mutatja meg, hogy a magyar vállalatok 1992 utáni termelékenységnövekedésének jelentős része az importált köztes termékekhez való hozzáférésnek köszönhető.",
   "photo_url": "https://kti.krtk.hu/wp-content/uploads/2025/06/Halpern-Laszlo-scaled-1.jpg",
-  "qualifying_publication": null,
+  "qualifying_publication": {
+    "title": "Imported Inputs and Productivity",
+    "journal": "American Economic Review",
+    "year": 2015
+  },
   "open_to_media_en": false,
   "open_to_media_hu": false,
   "media_note": null,
   "review_status": "confident",
-  "openalex_id": "A5077870424"
+  "openalex_id": "A5077870424",
+  "last_reviewed_at": "2026-04-27"
 }

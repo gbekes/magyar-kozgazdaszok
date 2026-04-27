@@ -22,12 +22,17 @@
   "bio_en": "Zsuzsanna Jankó is a Research Fellow at the KRTK Institute of Economics, member of the Game Theory Research Group. Her work is in matching theory, fair allocation (including cake-cutting), and combinatorial optimisation underpinning real-world admission and assignment systems.",
   "bio_hu": "Jankó Zsuzsanna a KRTK Közgazdaság-tudományi Intézet kutatója, a Játékelmélet-kutatócsoport tagja. Kutatási területei: párosítás-elmélet, méltányos elosztás (köztük a torta-felosztási problémák), valamint a valós beiskolázási és allokációs rendszereket megalapozó kombinatorikus optimalizáció.",
   "photo_url": "https://kti.krtk.hu/wp-content/uploads/2025/06/photo11-scaled-1.jpg",
-  "qualifying_publication": null,
+  "qualifying_publication": {
+    "title": "Trading Networks With Frictions",
+    "journal": "Econometrica",
+    "year": 2019
+  },
   "deceased": false,
   "died": null,
   "open_to_media_en": false,
   "open_to_media_hu": false,
   "media_note": null,
   "review_status": "needs-verification",
-  "openalex_id": "A5013307673"
+  "openalex_id": "A5013307673",
+  "last_reviewed_at": "2026-04-27"
 }

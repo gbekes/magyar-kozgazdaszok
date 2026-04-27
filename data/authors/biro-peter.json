@@ -32,12 +32,17 @@
   "bio_en": "Péter Biró is a Senior Research Fellow at the KRTK Institute of Economics, where he heads the Game Theory Research Group, and an Associate Professor of operations research at Corvinus University of Budapest. His work spans algorithmic mechanism design, cooperative game theory, and preference-based matching theory. His research underpins real-world allocation systems including the UK kidney-exchange programme, the Scottish resident allocation scheme, Hungarian higher-education admissions, and an Estonian kindergarten matching programme.",
   "bio_hu": "Biró Péter a KRTK Közgazdaság-tudományi Intézet vezető kutatója, a Játékelmélet Kutatócsoport vezetője, és a Budapesti Corvinus Egyetem Operációkutatás és Aktuáriustudományok Tanszékének egyetemi docense. Kutatási területei az algoritmikus mechanizmustervezés, a kooperatív játékelmélet és a preferencia-alapú párosításelmélet. Munkái számos valós allokációs rendszer mögött állnak: a brit veseátültetés-csere program, a skót rezidens-elosztás, a magyar felsőoktatási felvételi és egy észt óvodai jelentkezési rendszer egyaránt épít az általa kidolgozott megoldásokra.",
   "photo_url": "https://kti.krtk.hu/wp-content/uploads/2025/06/Biro-Peter-scaled-1.jpg",
-  "qualifying_publication": null,
+  "qualifying_publication": {
+    "title": "Computing balanced solutions for large international kidney exchange schemes when cycle length is unbounded",
+    "journal": "European Journal of Operational Research",
+    "year": 2026
+  },
   "deceased": false,
   "died": null,
   "open_to_media_en": false,
   "open_to_media_hu": false,
   "media_note": null,
   "review_status": "author-approved",
-  "openalex_id": "A5054134469"
+  "openalex_id": "A5054134469",
+  "last_reviewed_at": "2026-04-27"
 }
