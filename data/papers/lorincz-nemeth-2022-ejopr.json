@@ -17,19 +17,31 @@
   "url_pdf": "https://link.springer.com/content/pdf/10.1007/s10680-022-09642-3.pdf",
   "url_replication": null,
   "abstract": "In addition to economic and infrastructural factors, social connections of people also influence migration patterns. This influence can be attributed to the resources that are made available by social contacts: social capital, which can also be utilized in the process of migration. Based on previous literature, we identify three different aspects of social capital and test their relationship with domestic migration simultaneously. First, we analyse if the intensity of connections within communities (local social capital) restrains from migration. Second, if the intensity of connections between two communities (bridging social capital) is associated with increased migration between them. Finally, we consider, if the extent to which local community networks exhibit open or closed structures (bonding social capital) contributes to higher or lower migration rates. We create indicators for these measures using archived online social network data, covering 40% of the adult population of Hungary, and combine them with official migration data of 175 subregions. Based on point-to-point gravity and negative binomial models, we find that bridging social capital between subregions is associated with increased migration flows, but we do not find that local social capital restrains from migration.",
-  "summary_en": null,
+  "summary_en": "How does social capital affect domestic migration between Hungarian sub-regions? Lőrincz and Németh use online social-network data covering ~40% of Hungarian adults to construct three measures of social capital: local (within-community connections), bridging (between-community connections), and bonding (open vs closed network structure). They combine these with official inter-subregional migration data for 175 Hungarian subregions. Using point-to-point gravity and negative-binomial models, they find that bridging social capital between subregions is associated with higher migration flows. They do *not* find that local social capital restrains migration — challenging the common 'staying because friends are here' intuition. Bridging connections matter more than local ones for mobility.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Archived online-social-network data (likely iWiW) covering ~40% of Hungarian adults. Combined with KSH administrative migration data for 175 NUTS-3 subregions. Network measures of local, bridging, and bonding social capital constructed at subregion level.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian regional-development and labour-mobility policy (NGM, regional development authorities). The paper supports investment in inter-subregional social-capital infrastructure (cross-region exchange programmes, professional networks) as a complement to economic-incentive migration policies. Particularly relevant for declining-region policies aimed at retaining or attracting working-age residents.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "regional-urban",
+    "demographics-migration",
+    "labor-markets"
+  ],
+  "methods": [
+    "panel-data",
+    "structural"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "digital-trace",
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W4296123143"
 }

@@ -17,19 +17,28 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Abstract This article studies how the allocation of control rights in bankruptcy influences outcomes. Using Hungarian data, we find that the large majority of bankrupt firms in our sample are maintained as going concerns despite the fact that these firms generate large operating losses and low recovery rates for pre-bankruptcy creditors. We trace the bias to the allocation of control rights between secured and unsecured creditors and the compensation scheme of the agent managing the bankruptcy process. Our findings shed light on a very important bankruptcy design question: how particular provisions of the bankruptcy code affect the costs of bankruptcy and the size of the pie available to pre-bankruptcy creditors.",
-  "summary_en": null,
+  "summary_en": "How does the allocation of control rights in bankruptcy shape recovery outcomes for creditors? Franks and Lóránth use Hungarian bankruptcy data to document a striking pattern: most bankrupt firms in their sample are kept as going concerns despite generating large operating losses and low recovery rates for pre-bankruptcy creditors. The bias traces to two design features of the Hungarian bankruptcy code: how control rights are split between secured and unsecured creditors, and how the bankruptcy administrator (the agent managing the process) is compensated. The paper shows how specific provisions of the bankruptcy code translate into the costs of bankruptcy and the size of the pie available to pre-bankruptcy creditors.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian bankruptcy proceedings data covering a sample of bankrupt firms. Tracks operating performance, going-concern decisions, and recovery rates by creditor class. Sample period covers the early 2000s and earlier.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance to Hungarian bankruptcy-law reform debates (Igazságügyi Minisztérium, MNB). The paper provides empirical foundation for re-examining the Hungarian Bankruptcy Act's control-rights allocation between secured and unsecured creditors, and for restructuring administrator compensation. Useful empirical input for any Hungarian or EU-level bankruptcy-code reform proposals.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "political-economy"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W2056058019"
 }

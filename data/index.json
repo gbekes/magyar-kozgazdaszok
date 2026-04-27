@@ -12160,20 +12160,26 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Tanulmányunkban az Európai Parlament és Tanács által elfogadott taxonómiarendelet lehetséges gazdasági hatásait vizsgáltuk. A Bizottság a tájékoztatási kötelezettséget&#13;\\na nagyvállalatokra vonatkozóan írja elő, amelyek kötelesek tájékoztatást adni arról,&#13;\\nhogy vállalkozási tevékenységük milyen módon és mértékben kapcsolódik környezeti&#13;\\nszempontból fenntarthatónak minősülő gazdasági tevékenységekhez. Ugyanakkor&#13;\\na kis- és középvállalkozások jelenleg önkéntes alapon dönthetnek arról, hogy közzéteszik-e a fenntarthatóságra vonatkozó információkat. Tanulmányunkban a fenntartható vállalkozások fogalmi meghatározását követően definiáltuk a fenntartható&#13;\\nvállalkozásokat, a taxonómiarendelet címzettjeit, továbbá a gazdasági, környezeti&#13;\\nés társadalmi hatások relevanciáját. Játékelméleti modellünkben három alternatív&#13;\\nlehetőséget vizsgáltunk a társadalmi jólét szempontjából. A szabályozás nélküli állapot mellett azt elemeztük, hogy milyen hatásai lehetnek a jelenlegi szabályozásnak,&#13;\\ntovábbá egy lehetséges jövőbeli szabályozásnak, amely már a kis- és középvállalati&#13;\\nszektort is bevonja a fenntarthatósággal kapcsolatos információszolgáltatásba, különösen annak ismeretében, hogy a Bizottság is vizsgálja ennek lehetőségét.*&#13;\\nJournal of Economic Literature (JEL) kód: D43, L13, Q58.",
-      "summary_en": null,
+      "summary_en": "What economic effects will the EU's Taxonomy Regulation have on Hungarian firms — particularly the SMEs that are currently outside the disclosure mandate? Böcskei and Somogyi build a market-theory game-theoretic model to compare three regimes: no regulation, the current rule (large firms only), and a future expanded rule (SMEs included). The model evaluates each regime against social-welfare criteria. Findings highlight the trade-off between disclosure-induced incentives for genuine sustainable activity and the compliance costs imposed on firms. Particularly relevant given that the European Commission is actively considering extending the disclosure regime to SMEs, which could substantially reshape the competitive structure of Hungarian green-product markets.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper. Game-theoretic model of firm behaviour under three regulatory regimes for sustainability disclosure. No empirical contribution.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance to Hungarian implementation of the EU Taxonomy Regulation (NGM, MNB, AM). The paper supports careful welfare evaluation before extending the disclosure regime to SMEs — particularly because compliance costs are non-trivial and Hungarian SME capacity for ESG reporting is uneven. Useful framework for the Hungarian negotiating position in EU-level discussions.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "energy-environment",
+        "industrial-organization",
+        "fiscal-tax"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W4364369868"
     },
     {
@@ -18957,20 +18963,29 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Abstract This article studies how the allocation of control rights in bankruptcy influences outcomes. Using Hungarian data, we find that the large majority of bankrupt firms in our sample are maintained as going concerns despite the fact that these firms generate large operating losses and low recovery rates for pre-bankruptcy creditors. We trace the bias to the allocation of control rights between secured and unsecured creditors and the compensation scheme of the agent managing the bankruptcy process. Our findings shed light on a very important bankruptcy design question: how particular provisions of the bankruptcy code affect the costs of bankruptcy and the size of the pie available to pre-bankruptcy creditors.",
-      "summary_en": null,
+      "summary_en": "How does the allocation of control rights in bankruptcy shape recovery outcomes for creditors? Franks and Lóránth use Hungarian bankruptcy data to document a striking pattern: most bankrupt firms in their sample are kept as going concerns despite generating large operating losses and low recovery rates for pre-bankruptcy creditors. The bias traces to two design features of the Hungarian bankruptcy code: how control rights are split between secured and unsecured creditors, and how the bankruptcy administrator (the agent managing the process) is compensated. The paper shows how specific provisions of the bankruptcy code translate into the costs of bankruptcy and the size of the pie available to pre-bankruptcy creditors.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian bankruptcy proceedings data covering a sample of bankrupt firms. Tracks operating performance, going-concern decisions, and recovery rates by creditor class. Sample period covers the early 2000s and earlier.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance to Hungarian bankruptcy-law reform debates (Igazságügyi Minisztérium, MNB). The paper provides empirical foundation for re-examining the Hungarian Bankruptcy Act's control-rights allocation between secured and unsecured creditors, and for restructuring administrator compensation. Useful empirical input for any Hungarian or EU-level bankruptcy-code reform proposals.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "political-economy"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-firm"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2056058019"
     },
     {
@@ -25802,20 +25817,25 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Abstract We analyze the limits of regulating bank CEO compensation to reduce risk shifting in the presence of an active board that retains the right to approve new investment strategies. Compensation regulation prevents overinvestment in strategies that increase risk, but it is ineffective in preventing underinvestment in strategies that reduce risk. The regulator optimally combines compensation and capital regulations. In contrast, if the board delegates the choice of strategy to the CEO, compensation regulation is sufficient to prevent both types of risk shifting. Compensation regulation increases shareholders’ incentives to implement an active board, which reduces the effectiveness of compensation regulation.",
-      "summary_en": null,
+      "summary_en": "Can regulating bank CEO compensation reduce excessive risk-taking — when boards remain free to approve new investment strategies? Kolm, Laux and Lóránth analyse the limits of compensation regulation in this two-tier governance structure. Compensation regulation prevents overinvestment in risk-increasing strategies, but is ineffective in preventing underinvestment in risk-reducing strategies — only one side of the risk-shifting problem is solved. Optimally, the regulator combines compensation regulation with capital requirements. If instead the board fully delegates strategy choice to the CEO, compensation regulation alone suffices for both types of risk shifting. Crucially, compensation regulation itself increases shareholders' incentive to install an active board — undermining the regulation's own effectiveness.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper. Game-theoretic model of bank governance with active boards, CEO compensation, and risk-shifting incentives.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For MNB banking-supervision policy and EU CRD regulatory framework: the paper provides theoretical foundation for combining compensation rules with capital requirements rather than relying on either alone. Particularly relevant for the Hungarian banking sector's subsidiary structure where parent-bank boards retain substantial strategy-approval authority. Useful input for the next round of EU bank-governance regulation.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "banking-finance",
+        "industrial-organization"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2504380465"
     },
     {
@@ -29028,20 +29048,26 @@
       "url_pdf": "https://academic.oup.com/rof/article-pdf/16/2/481/26302362/rfr029.pdf",
       "url_replication": null,
       "abstract": "Abstract This paper examines the tying of lending to investment banking business by universal banks. Tying may alleviate credit rationing by assuring the lender of an adequate share of the social surplus that its lending generates; however, tying raises the profitability of loans to troubled entrepreneurs, softening entrepreneurial budget constraints and reducing effort levels. When investment banking is uncompetitive, the former effect dominates, and there is too little tying; when investment banking is competitive, there is too much tying. We relate our results to the authority structure of the universal bank, which we argue is the appropriate focus for regulation.",
-      "summary_en": null,
+      "summary_en": "Should universal banks be allowed to tie loans to investment-banking services? Lóránth and Morrison build a theoretical model showing why tying matters — and when too much or too little of it occurs. Tying can alleviate credit rationing by assuring lenders of an adequate share of the social surplus from their lending. But tying also raises loan profitability for troubled entrepreneurs, softening their budget constraints and reducing effort. When investment banking is uncompetitive, the former (rationing-alleviating) effect dominates and there is *too little* tying. When investment banking is competitive, there is *too much* tying. The paper argues universal-bank authority structure is the right focus for regulation, not tying *per se*.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper. Game-theoretic model of universal-bank tying decisions under varying competitive structures in lending and investment banking.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian bank-supervision policy and EU CRD regulation of universal banks. The model implies tying-restriction policy should be tailored to the competitive structure of investment banking — uniform restrictions can underperform. Also implies regulatory focus should shift from tying conduct to authority structure within universal banks. Useful theoretical input for MNB and ESMA-level policy work.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "banking-finance",
+        "industrial-organization",
+        "mechanism-design"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2021969337"
     },
     {
@@ -29260,20 +29286,32 @@
       "url_pdf": "https://link.springer.com/content/pdf/10.1007/s10680-022-09642-3.pdf",
       "url_replication": null,
       "abstract": "In addition to economic and infrastructural factors, social connections of people also influence migration patterns. This influence can be attributed to the resources that are made available by social contacts: social capital, which can also be utilized in the process of migration. Based on previous literature, we identify three different aspects of social capital and test their relationship with domestic migration simultaneously. First, we analyse if the intensity of connections within communities (local social capital) restrains from migration. Second, if the intensity of connections between two communities (bridging social capital) is associated with increased migration between them. Finally, we consider, if the extent to which local community networks exhibit open or closed structures (bonding social capital) contributes to higher or lower migration rates. We create indicators for these measures using archived online social network data, covering 40% of the adult population of Hungary, and combine them with official migration data of 175 subregions. Based on point-to-point gravity and negative binomial models, we find that bridging social capital between subregions is associated with increased migration flows, but we do not find that local social capital restrains from migration.",
-      "summary_en": null,
+      "summary_en": "How does social capital affect domestic migration between Hungarian sub-regions? Lőrincz and Németh use online social-network data covering ~40% of Hungarian adults to construct three measures of social capital: local (within-community connections), bridging (between-community connections), and bonding (open vs closed network structure). They combine these with official inter-subregional migration data for 175 Hungarian subregions. Using point-to-point gravity and negative-binomial models, they find that bridging social capital between subregions is associated with higher migration flows. They do *not* find that local social capital restrains migration — challenging the common 'staying because friends are here' intuition. Bridging connections matter more than local ones for mobility.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Archived online-social-network data (likely iWiW) covering ~40% of Hungarian adults. Combined with KSH administrative migration data for 175 NUTS-3 subregions. Network measures of local, bridging, and bonding social capital constructed at subregion level.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian regional-development and labour-mobility policy (NGM, regional development authorities). The paper supports investment in inter-subregional social-capital infrastructure (cross-region exchange programmes, professional networks) as a complement to economic-incentive migration policies. Particularly relevant for declining-region policies aimed at retaining or attracting working-age residents.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "regional-urban",
+        "demographics-migration",
+        "labor-markets"
+      ],
+      "methods": [
+        "panel-data",
+        "structural"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "digital-trace",
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W4296123143"
     },
     {
@@ -31656,20 +31694,28 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "The Pension Law of 1997 has aroused the interest of the public as well as the experts in the Hungarian pension system. But the Hungarian pension reform is an ongoing process. From my point of view it is enough to go back to 1992, when the present institutional framework of the Hungarian pension system was set up, and, however imperfectly, the valorisation of assessed earnings and indexation of pensions were introduced. A second important stage was 1996 when the long-delayed but unavoidable rise of the pensionable age was enacted. Currently we have arrived at the third stage: the partial and step-by-step funding and privatisation of the pay-as-you-go (PAYG) public pension system, and the concomitant modernisation of the public pillar.",
-      "summary_en": null,
+      "summary_en": "What were the open problems facing Hungary's pension reform circa 1999? Simonovits provides a contemporaneous analysis of the 1997 Pension Law and the broader reform process running back to 1992. The 1992 framework introduced — however imperfectly — valorisation of assessed earnings and indexation of pensions, both fundamental to a modern pension system. The 1996 reform raised the pensionable age, addressing a long-delayed but unavoidable demographic adjustment. By 1999, Hungary was at a third stage: partial and step-by-step funding and privatisation of the pay-as-you-go public pension system, alongside modernisation of the public pillar. A historically significant document of the reform thinking that shaped Hungarian pensions for a generation.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Policy-analytical paper drawing on Hungarian pension-system reference data through 1997. No new empirical contribution.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Historical reference for Hungarian pension-reform debates. The 1999 framework Simonovits describes was substantially undone by the 2010-2011 nationalisation of the second-pillar funded system. For current debates about pension-reform direction, this paper documents what the original reform architecture intended — useful baseline for any restoration-oriented proposals.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "fiscal-tax",
+        "demographics-migration",
+        "transition-postcommunist"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2115805719"
     },
     {
@@ -34168,20 +34214,25 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Fontos-e, hogy a bürokrácia független legyen a politikától? Milyen hatással járnak azok a törvények, amelyek a politikusok és a bürokrácia kapcsolatát szorosabbá teszik vagy lazítják? Ezek alapvető kérdések a modern államok szervezésével kapcsolatban, mégis viszonylag keveset tudunk róluk. Ebben a cikkben a témakör egy szeletével foglalkozom: a köztisztviselői törvények hatásaival. Összefoglalok néhány közelmúltbeli elméleti és empirikus eredményt, és rövid áttekintést nyújtok az idevágó közgazdasági és politikatudományi irodalomról.* Journal of Economic Literature (JEL) kód: D72, D73, E62, H11, H72.",
-      "summary_en": null,
+      "summary_en": "How important is bureaucratic independence from politics, and what do civil-service laws actually do? Ujhelyi surveys recent theoretical and empirical research on civil-service legislation — laws that tighten or loosen the link between politicians and the bureaucracy. He summarises results from across both economics and political science: civil-service protections raise the cost of political interference but can reduce responsiveness to elected leaders' priorities. The trade-off is sharp and the optimal balance is sensitive to institutional context. A useful Hungarian-language entry point for researchers entering this literature, with direct relevance to Hungarian debates about public-administration design.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Survey paper. References to international theoretical and empirical literature on civil-service legislation; no original empirical contribution.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian public-administration debates (Belügyminisztérium, MNB-style public-sector wage-setting). The paper provides a literature-based framework for evaluating Hungarian civil-service reforms (e.g., the 2010-onward weakening of formal civil-service protections). Useful methodological reference for Hungarian researchers working on public-sector organisational economics.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "political-economy",
+        "fiscal-tax"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2751735381"
     },
     {
@@ -34959,20 +35010,28 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "E tanulmány azt vizsgálja, hogy a kezelési költségekkel mennyiben magyarázható a Magyarországon forgalmazott részvénypiaci befektetési alapok teljesítménye. Az alapspecifikáció szerint, ha egy alapnak 1 százalékponttal magasabb a kezelési költsége, akkor az alap átlagosan több mint 1 százalékponttal rosszabbul teljesít a referenciahozamhoz képest (Jensen alfája). A szerző megmutatja, hogy több alap, bár hivatalosan aktív befektetési stratégiát hirdet, valójában csak az adott indexet követi. Továbbá arra is rávilágít, hogy milyen nehézségeket okoz a teljesítmény mérésében, hogy a Budapesti Értéktőzsde által létrehozott CETOP referenciaindex nem tartalmazza az osztalékokat, és kitér ennek orvoslására is.* Journal of Economic Literature (JEL) kód: G23, G12.",
-      "summary_en": null,
+      "summary_en": "Do management fees explain mutual-fund performance in Hungary? Zawadowski tests this on Hungarian-marketed equity funds. The baseline specification finds that a 1-percentage-point higher management fee corresponds to *more than* 1 percentage point worse performance versus benchmark (Jensen's alpha) — a striking failure of the cost-quality relationship in mutual funds. He shows that several funds officially marketed as actively managed in fact track an index. He also documents measurement difficulties: the BÉT-created CETOP benchmark index excludes dividends, which biases performance comparisons; he proposes how to correct this. A clean Hungarian application of the international 'fees don't deliver alpha' literature.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian-marketed equity mutual fund returns and management-fee data. Sample period covers a recent multi-year window. CETOP and other benchmark-index data from BÉT. Jensen's alpha calculations across the fund universe.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct input for MNB consumer-protection oversight of Hungarian retail investment funds. The paper provides empirical foundation for fee-disclosure rules and for warning retail investors about active-tracking-passive ('closet indexing') funds. Useful for the Hungarian fund-industry debate about transparency standards. The CETOP-index dividend issue should inform Hungarian regulatory choices about benchmark methodology.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-21",
-      "last_reviewed_at": "2026-04-21",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2767333488"
     },
     {
@@ -38774,7 +38833,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 82
+      "paper_count": 83
     },
     {
       "id": "education-skills",
@@ -38807,7 +38866,7 @@
       "policy_framing_en": "Relevant to: family policy, pension system, immigration policy, retention of skilled workers.",
       "policy_framing_hu": "Releváns: családpolitika, nyugdíjrendszer, bevándorláspolitika, szakemberek megtartása.",
       "icon": "users",
-      "paper_count": 29
+      "paper_count": 31
     },
     {
       "id": "trade-fdi",
@@ -38851,7 +38910,7 @@
       "policy_framing_en": "Relevant to: MNB policy, banking regulation, macroprudential tools, financial inclusion.",
       "policy_framing_hu": "Releváns: MNB-politika, bankszabályozás, makroprudenciális eszközök, pénzügyi befogadás.",
       "icon": "landmark",
-      "paper_count": 91
+      "paper_count": 95
     },
     {
       "id": "fiscal-tax",
@@ -38862,7 +38921,7 @@
       "policy_framing_en": "Relevant to: tax reform, budget planning, public debt management, compliance policy.",
       "policy_framing_hu": "Releváns: adóreform, költségvetés-tervezés, államadósság-kezelés, adócompliance.",
       "icon": "coins",
-      "paper_count": 38
+      "paper_count": 41
     },
     {
       "id": "regional-urban",
@@ -38873,7 +38932,7 @@
       "policy_framing_en": "Relevant to: regional development funds, housing policy, transport investment, urban planning.",
       "policy_framing_hu": "Releváns: regionális fejlesztési alapok, lakáspolitika, közlekedési beruházások, városfejlesztés.",
       "icon": "building",
-      "paper_count": 45
+      "paper_count": 46
     },
     {
       "id": "energy-environment",
@@ -38884,7 +38943,7 @@
       "policy_framing_en": "Relevant to: energy transition, carbon pricing, renewable support, environmental standards.",
       "policy_framing_hu": "Releváns: energiaátmenet, szén-dioxid árazás, megújulók támogatása, környezeti szabványok.",
       "icon": "leaf",
-      "paper_count": 11
+      "paper_count": 12
     },
     {
       "id": "inequality-welfare",
@@ -38906,7 +38965,7 @@
       "policy_framing_en": "Relevant to: anti-corruption policy, public administration reform, EU affairs, electoral system design.",
       "policy_framing_hu": "Releváns: korrupcióellenes politika, közigazgatási reform, EU-ügyek, választási rendszer.",
       "icon": "building-2",
-      "paper_count": 52
+      "paper_count": 54
     },
     {
       "id": "transition-postcommunist",
@@ -38917,7 +38976,7 @@
       "policy_framing_en": "Relevant to: long-run diagnoses of the Hungarian and CEE economy, lessons from 30+ years of transition, institutional path dependence.",
       "policy_framing_hu": "Releváns: a magyar és KKE gazdaság hosszú távú diagnózisa, 30+ év rendszerváltásának tanulságai, intézményi útfüggőség.",
       "icon": "flag",
-      "paper_count": 34
+      "paper_count": 35
     },
     {
       "id": "behavioral",
@@ -38939,7 +38998,7 @@
       "policy_framing_en": "Relevant to: competition policy (GVH), merger review, platform regulation, auction design, sector-specific regulation.",
       "policy_framing_hu": "Releváns: versenypolitika (GVH), fúziókontroll, platformszabályozás, aukciótervezés, ágazati szabályozás.",
       "icon": "network",
-      "paper_count": 35
+      "paper_count": 38
     },
     {
       "id": "macroeconomics",
@@ -38994,7 +39053,7 @@
       "policy_framing_en": "Relevant to: regulatory design, procurement, voting reform, contract law, antitrust analysis, committee design.",
       "policy_framing_hu": "Releváns: szabályozási tervezés, közbeszerzés, választási reform, szerződésjog, versenypolitika, bizottsági tervezés.",
       "icon": "scale",
-      "paper_count": 31
+      "paper_count": 32
     }
   ],
   "journals": [

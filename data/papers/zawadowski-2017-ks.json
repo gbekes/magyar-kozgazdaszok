@@ -16,19 +16,27 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "E tanulmány azt vizsgálja, hogy a kezelési költségekkel mennyiben magyarázható a Magyarországon forgalmazott részvénypiaci befektetési alapok teljesítménye. Az alapspecifikáció szerint, ha egy alapnak 1 százalékponttal magasabb a kezelési költsége, akkor az alap átlagosan több mint 1 százalékponttal rosszabbul teljesít a referenciahozamhoz képest (Jensen alfája). A szerző megmutatja, hogy több alap, bár hivatalosan aktív befektetési stratégiát hirdet, valójában csak az adott indexet követi. Továbbá arra is rávilágít, hogy milyen nehézségeket okoz a teljesítmény mérésében, hogy a Budapesti Értéktőzsde által létrehozott CETOP referenciaindex nem tartalmazza az osztalékokat, és kitér ennek orvoslására is.* Journal of Economic Literature (JEL) kód: G23, G12.",
-  "summary_en": null,
+  "summary_en": "Do management fees explain mutual-fund performance in Hungary? Zawadowski tests this on Hungarian-marketed equity funds. The baseline specification finds that a 1-percentage-point higher management fee corresponds to *more than* 1 percentage point worse performance versus benchmark (Jensen's alpha) — a striking failure of the cost-quality relationship in mutual funds. He shows that several funds officially marketed as actively managed in fact track an index. He also documents measurement difficulties: the BÉT-created CETOP benchmark index excludes dividends, which biases performance comparisons; he proposes how to correct this. A clean Hungarian application of the international 'fees don't deliver alpha' literature.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian-marketed equity mutual fund returns and management-fee data. Sample period covers a recent multi-year window. CETOP and other benchmark-index data from BÉT. Jensen's alpha calculations across the fund universe.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct input for MNB consumer-protection oversight of Hungarian retail investment funds. The paper provides empirical foundation for fee-disclosure rules and for warning retail investors about active-tracking-passive ('closet indexing') funds. Useful for the Hungarian fund-industry debate about transparency standards. The CETOP-index dividend issue should inform Hungarian regulatory choices about benchmark methodology.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-21",
-  "last_reviewed_at": "2026-04-21",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W2767333488"
 }
