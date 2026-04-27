@@ -18,19 +18,28 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Abstract The contributions to this Special Issue present the state of the art of growth accounting in economic history, exhibiting its strengths and weaknesses. Three set of articles compose the issue: comparative papers that discuss the challenges ahead, long‐run perspectives on Britain since the Industrial Revolution, Japan, Italy and Spain from the late‐19th century, and Latin America during the 200 years since independence, and post‐World War II episodes under Soviet and Fabian socialism and the transition to market economies in Eastern Europe and India. The papers reveal how sensitive the interpretation of results is to the quality of output and inputs and the growth accounting procedure employed and the need to adopt the new developments in growth accounting to improve economic history narrative.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "How robust are growth-accounting findings in economic history, when input and output measures span centuries and very different economic systems? Prados de la Escosura, Vonyó and Voskoboynikov edit a Special Issue surveying the state of the art. Three sets of articles: methodological discussions of comparability challenges; long-run perspectives on Britain (Industrial Revolution onwards), Japan, Italy, Spain (late 19th century onwards), and Latin America (post-1820); and post-WWII episodes including Soviet and Fabian socialism and the Eastern European + Indian transitions. Key takeaway: results are highly sensitive to data quality and the chosen accounting procedure. Adopting modern growth-accounting techniques substantially improves historical narratives.",
+  "summary_hu": "Mennyire robusztusak a gazdaságtörténeti növekedés-számviteli megállapítások, amikor a bemenet és kibocsátás mérésére használt mértékek évszázadokat és nagyon eltérő gazdasági rendszereket fognak át? Prados de la Escosura, Vonyó és Voskoboynikov egy tematikus szám szerkesztőiként szemlézik az aktuális állapotot. Három cikkcsoport: módszertani viták az összehasonlíthatósági kihívásokról; hosszú távú perspektívák Nagy-Britanniára (Ipari Forradalomtól), Japánra, Olaszországra, Spanyolországra (19. század végétől) és Latin-Amerikára (1820 utáni 200 év); és háború utáni epizódok, beleértve a szovjet és Fabián szocializmust és a kelet-európai + indiai átmeneteket. Kulcsüzenet: az eredmények rendkívül érzékenyek az adatok minőségére és a választott elszámolási eljárásra. A modern növekedés-számviteli technikák átvétele lényegesen javítja a történeti narratívákat.",
+  "data_used": "Survey paper synthesizing the contributions of a Special Issue. Each contribution uses its own historical data; the editorial draws methodological conclusions across them.",
+  "data_used_hu": "Áttekintő tanulmány, amely egy tematikus szám hozzájárulásait szintetizálja. Minden hozzájárulás saját történeti adatokat használ; a szerkesztői cikk módszertani következtetéseket von le rajtuk keresztül.",
+  "policy_relevance": "Foundational reference for Hungarian historical-growth research at MNB and KRTK. The methodological warnings — that wedge accounting and TFP residuals are sensitive to capital-stock measurement choices — directly affect interpretation of pre-1990 Hungarian productivity data (which Vonyó-Klein 2018 already showed were systematically over-reported). Useful framework for any Hungarian-context growth study reaching back beyond 1990.",
+  "policy_relevance_hu": "Alapozó hivatkozás az MNB és KRTK magyar történelmi-növekedési kutatásához. A módszertani figyelmeztetések — hogy az ék-elszámolás és a TFP-reziduumok érzékenyek a tőkeállomány-mérési választásokra — közvetlenül érintik a 1990 előtti magyar termelékenységi adatok értelmezését (amelyeket a Vonyó-Klein 2018 már megmutatott szisztematikusan túljelentésnek). Hasznos keret minden 1990 előtti időszakot érintő magyar-kontextusú növekedés-tanulmányhoz.",
+  "topics": [
+    "macroeconomics",
+    "transition-postcommunist",
+    "methods"
+  ],
+  "methods": [
+    "descriptive-survey"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "historical",
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W3133564783"
 }

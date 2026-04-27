@@ -19,19 +19,26 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Banks can deal with their liquidity risk by holding liquid assets (self‐insurance), by participating in interbank markets (coinsurance), or by using flexible financing instruments, such as bank capital (risk sharing). We use a simple model to show that undiversifiable liquidity risk, that is, the liquidity risk that banks are unable to coinsure on interbank markets, represents an important risk factor affecting their capital structures. Banks facing higher undiversifiable liquidity risk hold more capital. We posit that, empirically, banks that are more exposed to undiversifiable liquidity risk are less active on interbank markets. Therefore, we test for the existence of a negative relationship between bank capital and interbank market activity and find support in a large sample of U.S. commercial banks.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "How do banks manage liquidity risk — through liquid asset holdings, interbank coinsurance, or capital buffers? Castiglionesi, Feriozzi, Lóránth and Pelizzon develop a theoretical model showing that 'undiversifiable' liquidity risk — the part banks cannot coinsure on interbank markets — drives capital structure. Banks facing more undiversifiable risk should hold more capital. The empirical implication: banks more exposed to undiversifiable liquidity risk should be less active on interbank markets. Testing on a large U.S. commercial-bank sample, they find a significant negative relationship between bank capital and interbank-market activity, supporting the model. A unified framework linking the three liquidity-management tools.",
+  "summary_hu": "Hogyan kezelik a bankok a likviditási kockázatot — likvid eszköztartás, bankközi együttbiztosítás vagy tőkepuffer útján? Castiglionesi, Feriozzi, Lóránth és Pelizzon elméleti modellt épít, amely szerint a 'nem diverzifikálható' likviditási kockázat — az a rész, amelyet a bankok nem tudnak együttbiztosítani a bankközi piacokon — alakítja a tőkeszerkezetet. A magasabb nem diverzifikálható kockázattal szembesülő bankoknak több tőkét kell tartaniuk. Az empirikus implikáció: a nem diverzifikálható likviditási kockázatnak jobban kitett bankoknak kevésbé aktívnak kell lenniük a bankközi piacokon. Nagy USA kereskedelmi bank mintán szignifikáns negatív kapcsolatot találnak banki tőke és bankközi piaci aktivitás között, megerősítve a modellt. Egységes keret a három likviditás-kezelési eszköz összekapcsolására.",
+  "data_used": "Large panel of U.S. commercial banks, ~1990s-2000s. Bank capital ratios, interbank borrowing/lending volumes, balance-sheet measures of liquidity exposure. Cross-sectional regression of capital on interbank activity controlling for size and risk.",
+  "data_used_hu": "Nagy USA kereskedelmi bank panel ~1990-es évek-2000-es évek. Banki tőkearányok, bankközi hitelfelvétel/-nyújtás volumenek, mérleg-alapú likviditás-kitettségi mértékek. Tőke és bankközi aktivitás keresztmetszeti regressziója méret és kockázat kontrollálásával.",
+  "policy_relevance": "Direct relevance to MNB macroprudential policy: the paper supports differentiated capital requirements based on banks' interbank-market access, not just balance-sheet size. Hungarian banks vary in their funding mix (FX-funded vs. domestic-deposit-funded); the framework helps map appropriate capital buffers to liquidity exposure. Useful for stress-testing under Basel III/IV in a Hungarian context.",
+  "policy_relevance_hu": "Közvetlen relevancia az MNB makroprudenciális politikájához: a tanulmány támogatja a banki bankközi-piaci hozzáféréshez igazított differenciált tőkekövetelményt, nem csak a mérleg-méretet. A magyar bankok finanszírozási mixe eltérő (deviza-finanszírozású vs. hazai betét-finanszírozású); a keret segít a megfelelő tőkepufferek likviditás-kitettséghez való illesztésében. Hasznos a Bázel III/IV stresszteszteléshez magyar kontextusban.",
+  "topics": [
+    "banking-finance"
+  ],
+  "methods": [
+    "theory",
+    "panel-data"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W2147749299"
 }

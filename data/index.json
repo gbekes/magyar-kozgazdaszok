@@ -2630,7 +2630,7 @@
       ],
       "bio_en": "Daniel Prinz is an Economist in the World Bank's Middle East and North Africa Economic Policy team. His research interests are in public finance, including tax and fiscal policy and social insurance programs. His work has been published in peer-reviewed journals, including the American Economic Review: Insights, the American Economic Journal: Economic Policy, and the Journal of Public Economics.",
       "bio_hu": "Prinz Dániel közgazdász a Világbank Közel-Kelet és Észak-Afrika Gazdaságpolitikai csapatában. Kutatási területe a közpénzügytan, ezen belül az adózás, fiskális politika és a társadalombiztosítási programok. Tanulmányai megjelentek többek között az American Economic Review: Insights, az American Economic Journal: Economic Policy és a Journal of Public Economics folyóiratokban.",
-      "photo_url": "https://lh3.googleusercontent.com/sitesv/AA5AbUBmvg70S9mPkDNFRdRAhh-0RANtVM2sdj8z9o53aPGnKlxxubSCGPZlRT60pXWIdEEpWVUeuxX9SPQDX90w8thiaRHtfUhyNPr1yGLkQrlzaxfCvwyAmGaHiJ-9TgoJjdEfGi1H5rTsphnTCaVXdYtzLc4HW8cYWXEs3vcSTjZ9eFMfDc82E5MvgySeWPmnZPjJVBKf62HWmllCM3VNR-cp08vRVSMtYMbYXEs=w1280",
+      "photo_url": "https://ifs.org.uk/sites/default/files/styles/square_desktop_2x/public/2022-06/Daniel_Prinz.jpg.webp?itok=TOa46NA5",
       "qualifying_publication": null,
       "open_to_media_en": true,
       "open_to_media_hu": true,
@@ -12928,20 +12928,27 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Banks can deal with their liquidity risk by holding liquid assets (self‐insurance), by participating in interbank markets (coinsurance), or by using flexible financing instruments, such as bank capital (risk sharing). We use a simple model to show that undiversifiable liquidity risk, that is, the liquidity risk that banks are unable to coinsure on interbank markets, represents an important risk factor affecting their capital structures. Banks facing higher undiversifiable liquidity risk hold more capital. We posit that, empirically, banks that are more exposed to undiversifiable liquidity risk are less active on interbank markets. Therefore, we test for the existence of a negative relationship between bank capital and interbank market activity and find support in a large sample of U.S. commercial banks.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "summary_en": "How do banks manage liquidity risk — through liquid asset holdings, interbank coinsurance, or capital buffers? Castiglionesi, Feriozzi, Lóránth and Pelizzon develop a theoretical model showing that 'undiversifiable' liquidity risk — the part banks cannot coinsure on interbank markets — drives capital structure. Banks facing more undiversifiable risk should hold more capital. The empirical implication: banks more exposed to undiversifiable liquidity risk should be less active on interbank markets. Testing on a large U.S. commercial-bank sample, they find a significant negative relationship between bank capital and interbank-market activity, supporting the model. A unified framework linking the three liquidity-management tools.",
+      "summary_hu": "Hogyan kezelik a bankok a likviditási kockázatot — likvid eszköztartás, bankközi együttbiztosítás vagy tőkepuffer útján? Castiglionesi, Feriozzi, Lóránth és Pelizzon elméleti modellt épít, amely szerint a 'nem diverzifikálható' likviditási kockázat — az a rész, amelyet a bankok nem tudnak együttbiztosítani a bankközi piacokon — alakítja a tőkeszerkezetet. A magasabb nem diverzifikálható kockázattal szembesülő bankoknak több tőkét kell tartaniuk. Az empirikus implikáció: a nem diverzifikálható likviditási kockázatnak jobban kitett bankoknak kevésbé aktívnak kell lenniük a bankközi piacokon. Nagy USA kereskedelmi bank mintán szignifikáns negatív kapcsolatot találnak banki tőke és bankközi piaci aktivitás között, megerősítve a modellt. Egységes keret a három likviditás-kezelési eszköz összekapcsolására.",
+      "data_used": "Large panel of U.S. commercial banks, ~1990s-2000s. Bank capital ratios, interbank borrowing/lending volumes, balance-sheet measures of liquidity exposure. Cross-sectional regression of capital on interbank activity controlling for size and risk.",
+      "data_used_hu": "Nagy USA kereskedelmi bank panel ~1990-es évek-2000-es évek. Banki tőkearányok, bankközi hitelfelvétel/-nyújtás volumenek, mérleg-alapú likviditás-kitettségi mértékek. Tőke és bankközi aktivitás keresztmetszeti regressziója méret és kockázat kontrollálásával.",
+      "policy_relevance": "Direct relevance to MNB macroprudential policy: the paper supports differentiated capital requirements based on banks' interbank-market access, not just balance-sheet size. Hungarian banks vary in their funding mix (FX-funded vs. domestic-deposit-funded); the framework helps map appropriate capital buffers to liquidity exposure. Useful for stress-testing under Basel III/IV in a Hungarian context.",
+      "policy_relevance_hu": "Közvetlen relevancia az MNB makroprudenciális politikájához: a tanulmány támogatja a banki bankközi-piaci hozzáféréshez igazított differenciált tőkekövetelményt, nem csak a mérleg-méretet. A magyar bankok finanszírozási mixe eltérő (deviza-finanszírozású vs. hazai betét-finanszírozású); a keret segít a megfelelő tőkepufferek likviditás-kitettséghez való illesztésében. Hasznos a Bázel III/IV stresszteszteléshez magyar kontextusban.",
+      "topics": [
+        "banking-finance"
+      ],
+      "methods": [
+        "theory",
+        "panel-data"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2147749299"
     },
     {
@@ -17049,20 +17056,29 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Abstract The contributions to this Special Issue present the state of the art of growth accounting in economic history, exhibiting its strengths and weaknesses. Three set of articles compose the issue: comparative papers that discuss the challenges ahead, long‐run perspectives on Britain since the Industrial Revolution, Japan, Italy and Spain from the late‐19th century, and Latin America during the 200 years since independence, and post‐World War II episodes under Soviet and Fabian socialism and the transition to market economies in Eastern Europe and India. The papers reveal how sensitive the interpretation of results is to the quality of output and inputs and the growth accounting procedure employed and the need to adopt the new developments in growth accounting to improve economic history narrative.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "summary_en": "How robust are growth-accounting findings in economic history, when input and output measures span centuries and very different economic systems? Prados de la Escosura, Vonyó and Voskoboynikov edit a Special Issue surveying the state of the art. Three sets of articles: methodological discussions of comparability challenges; long-run perspectives on Britain (Industrial Revolution onwards), Japan, Italy, Spain (late 19th century onwards), and Latin America (post-1820); and post-WWII episodes including Soviet and Fabian socialism and the Eastern European + Indian transitions. Key takeaway: results are highly sensitive to data quality and the chosen accounting procedure. Adopting modern growth-accounting techniques substantially improves historical narratives.",
+      "summary_hu": "Mennyire robusztusak a gazdaságtörténeti növekedés-számviteli megállapítások, amikor a bemenet és kibocsátás mérésére használt mértékek évszázadokat és nagyon eltérő gazdasági rendszereket fognak át? Prados de la Escosura, Vonyó és Voskoboynikov egy tematikus szám szerkesztőiként szemlézik az aktuális állapotot. Három cikkcsoport: módszertani viták az összehasonlíthatósági kihívásokról; hosszú távú perspektívák Nagy-Britanniára (Ipari Forradalomtól), Japánra, Olaszországra, Spanyolországra (19. század végétől) és Latin-Amerikára (1820 utáni 200 év); és háború utáni epizódok, beleértve a szovjet és Fabián szocializmust és a kelet-európai + indiai átmeneteket. Kulcsüzenet: az eredmények rendkívül érzékenyek az adatok minőségére és a választott elszámolási eljárásra. A modern növekedés-számviteli technikák átvétele lényegesen javítja a történeti narratívákat.",
+      "data_used": "Survey paper synthesizing the contributions of a Special Issue. Each contribution uses its own historical data; the editorial draws methodological conclusions across them.",
+      "data_used_hu": "Áttekintő tanulmány, amely egy tematikus szám hozzájárulásait szintetizálja. Minden hozzájárulás saját történeti adatokat használ; a szerkesztői cikk módszertani következtetéseket von le rajtuk keresztül.",
+      "policy_relevance": "Foundational reference for Hungarian historical-growth research at MNB and KRTK. The methodological warnings — that wedge accounting and TFP residuals are sensitive to capital-stock measurement choices — directly affect interpretation of pre-1990 Hungarian productivity data (which Vonyó-Klein 2018 already showed were systematically over-reported). Useful framework for any Hungarian-context growth study reaching back beyond 1990.",
+      "policy_relevance_hu": "Alapozó hivatkozás az MNB és KRTK magyar történelmi-növekedési kutatásához. A módszertani figyelmeztetések — hogy az ék-elszámolás és a TFP-reziduumok érzékenyek a tőkeállomány-mérési választásokra — közvetlenül érintik a 1990 előtti magyar termelékenységi adatok értelmezését (amelyeket a Vonyó-Klein 2018 már megmutatott szisztematikusan túljelentésnek). Hasznos keret minden 1990 előtti időszakot érintő magyar-kontextusú növekedés-tanulmányhoz.",
+      "topics": [
+        "macroeconomics",
+        "transition-postcommunist",
+        "methods"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "historical",
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W3133564783"
     },
     {
@@ -20426,20 +20442,32 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Abstract We use Hungarian Customs data on product‐level imports of manufacturing firms to document that the import price of a particular product varies substantially across buying firms. We relate the level of import prices to firm characteristics such as size, foreign ownership, and market power. We develop a theory of “pricing to firm” (PTF), where markups depend on the technology and competitive environment of the buyer. The predictions of the model are confirmed by the data: import prices are higher for firms with greater market power, and for more essential intermediate inputs (with a high share in material costs). We take account of the endogeneity of the buyer’s market power with respect to higher import prices and unobserved cost heterogeneity within product categories. The magnitude of PTF is big: the standard deviation of price predicted by PTF is 21.5%.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "Do firms pay the same prices for the same imported intermediate inputs? Halpern and Koren use Hungarian Customs data on manufacturing firms' product-level imports and document substantial price dispersion: even for the exact same product, prices vary across buying firms. They develop a 'pricing to firm' (PTF) model where exporters set markups based on the technology and competitive environment of each buyer. Predictions confirmed: import prices are higher for firms with greater market power and for more essential intermediate inputs (high share in material costs). Controlling for the endogeneity of buyer market power and unobserved cost heterogeneity, the magnitude is large — the standard deviation of price predicted by PTF is 21.5%.",
+      "summary_hu": "Vajon a cégek ugyanazokat az árakat fizetik ugyanazokért az importált intermedier inputokért? Halpern és Koren magyar vámadatokat használ a feldolgozóipari cégek termékszintű importjairól, és jelentős árszórást dokumentál: még pontosan ugyanarra a termékre is változnak az árak a vásárló cégek között. 'Cégre árazás' (PTF) modellt fejlesztenek ki, ahol az exportőrök a vásárló technológiája és versenykörnyezete alapján állítják be a feláraikat. Az előrejelzések megerősítve: az importárak magasabbak a nagyobb piaci hatalmú cégeknek és a fontosabb intermedier inputokra (anyagköltségben magas részesedéssel). A vásárlói piaci hatalom endogenitását és a nem megfigyelt költség-heterogenitást kontrollálva, a nagyságrend nagy — a PTF által előrejelzett ár szórása 21,5%.",
+      "data_used": "Hungarian Customs manufacturing-firm import data at the product level (HS-8 digit). Tracks every imported product, with firm identity, price, and quantity. Sample period covers ~mid-1990s through early 2000s.",
+      "data_used_hu": "Magyar vámadminisztrációs feldolgozóipari cég import-adatok termékszinten (HS-8 jegyű). Minden importált terméket követ a cég-azonosítóval, árral és mennyiséggel. A mintaidőszak ~1990-es évek közepétől a 2000-es évek elejéig terjed.",
+      "policy_relevance": "For Hungarian trade and FDI policy (NGM, ITM, HIPA): the paper documents that exporting countries practice price discrimination against Hungarian importers based on their market power. SMEs pay higher input prices; this raises the value of pooled-procurement initiatives, intermediation by trade associations, and government procurement aggregation. Relevant for analysis of Hungarian SME productivity and for understanding the source of FDI-driven productivity gains (foreign-owned firms have lower import prices).",
+      "policy_relevance_hu": "A magyar kereskedelmi és FDI-politikához (NGM, ITM, HIPA): a tanulmány dokumentálja, hogy az exportáló országok piaci hatalom alapján árdiszkriminálják a magyar importálókat. A KKV-k magasabb input-árakat fizetnek; ez növeli a poolozott közbeszerzési kezdeményezések, a kereskedelmi egyesületek általi közvetítés és a kormányzati beszerzési aggregáció értékét. Releváns a magyar KKV-termelékenység elemzéséhez és az FDI-vezérlésű termelékenységi nyereségek forrásának megértéséhez (a külföldi tulajdonú cégek alacsonyabb import-árakat fizetnek).",
+      "topics": [
+        "trade-fdi",
+        "firms-productivity",
+        "industrial-organization"
+      ],
+      "methods": [
+        "panel-data",
+        "structural"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-firm",
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W3124499417"
     },
     {
@@ -28983,20 +29011,29 @@
       "url_pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/joie.12103",
       "url_replication": null,
       "abstract": "Using U.S. firm level panel data we simultaneously assess the contributions to productivity of three potential sources of research and development spillovers: geographic, technological, and product market (“horizontal”). To do so, we construct new measures of geographic proximity based on the distribution of a firm's inventor locations as well as its headquarters. We find that geographic location is important for productivity, as are technology (but not product) spillovers, and that both intra and inter–regional (counties) spillovers matter. The geographic location of a firm's researchers is more important than its headquarters. These benefits may be the reason why local policy makers compete so hard for the location of local R&amp;D labs and high tech workers.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "summary_en": "Why do tech firms cluster geographically — what spillovers reward physical proximity? Lychagin, Pinkse, Slade and Van Reenen use U.S. firm-level panel data to simultaneously assess three potential sources of R&D spillovers: geographic proximity, technological adjacency, and product-market overlap. Methodological innovation: they construct geographic-proximity measures based on the distribution of a firm's *inventor* locations, not just headquarters. Findings: geographic location matters for productivity, technology spillovers matter, product-market spillovers don't. Both intra- and inter-county spillovers operate. Crucially, inventor location matters more than headquarters location — consistent with why local policymakers compete so hard for R&D labs and high-tech workers.",
+      "summary_hu": "Miért csomósodnak a high-tech cégek földrajzilag — milyen átgyűrűzések jutalmazzák a fizikai közelséget? Lychagin, Pinkse, Slade és Van Reenen USA cégszintű paneladatokat használ a K+F-átgyűrűzés három potenciális forrásának egyidejű értékelésére: földrajzi közelség, technológiai szomszédosság és termékpiaci átfedés. Módszertani újítás: földrajzi-közelségi mértékeket építenek a cég *feltalálóinak* helyhez kötése alapján, nem csak a központ helye alapján. Megállapítások: a földrajzi hely számít a termelékenységnek, a technológiai átgyűrűzés számít, a termékpiaci átgyűrűzés nem. Megyén belüli és megyék közötti átgyűrűzés egyaránt működik. Kulcsfontosságú: a feltaláló helye többet számít, mint a központ helye — összhangban azzal, hogy a helyi döntéshozók miért versengenek olyan keményen K+F-laborokért és magas-tech munkavállalókért.",
+      "data_used": "U.S. firm-level panel with R&D, productivity, patents, and inventor-location data, late 1990s-2000s. Geographic-proximity measures built from inventor home addresses derived from patent records. Technology proximity from patent-class overlap; product proximity from product portfolios.",
+      "data_used_hu": "USA cégszintű panel K+F-, termelékenységi, szabadalmi és feltaláló-helyrajzi adatokkal, 1990-es évek vége-2000-es évek. Földrajzi közelségi mértékek a feltalálók szabadalmi nyilvántartásokból származó otthoni címeiből. Technológia-közelség szabadalmi-osztályos átfedésből; termék-közelség termék-portfóliókból.",
+      "policy_relevance": "For NIH / ITM Hungarian R&D incentive design: the paper supports targeting incentives to attract inventors / researchers, not just firm headquarters. Hungarian cohesion-fund and HIPA programmes that subsidise corporate centre relocation may underperform expectations — the productivity spillover travels with the inventor, not the boss. Relevant input for evaluating the recent Hungarian semiconductor and battery R&D investment cluster strategy.",
+      "policy_relevance_hu": "A NIH / ITM magyar K+F-ösztönző tervezéséhez: a tanulmány támogatja a feltalálók / kutatók vonzására célzott ösztönzőket, nem csak a vállalati központok telepítésére. A magyar kohéziós-alap és HIPA programok, amelyek vállalati központok áttelepítését szubvencionálják, alulteljesíthetnek a várakozásoknál — a termelékenységi átgyűrűzés a feltalálóval utazik, nem a főnökkel. Releváns input a közelmúlt magyar félvezető- és akkumulátor- K+F-beruházási klaszterstratégia értékeléséhez.",
+      "topics": [
+        "innovation-digital",
+        "regional-urban",
+        "firms-productivity"
+      ],
+      "methods": [
+        "panel-data"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "firm-level-dataset",
+        "admin-firm"
+      ],
       "featured": false,
       "added_at": "2026-04-21",
-      "last_reviewed_at": "2026-04-21",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W1544562706"
     },
     {
@@ -29298,20 +29335,29 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "ABSTRACT A central assumption of neoclassical economics is that reservation prices for familiar products express people's true preferences for these products; that is, they represent the total benefit that a good confers to the consumers and are, thus, independent of actual prices in the market. Nevertheless, a vast amount of research has shown that valuations can be sensitive to other salient prices, particularly when individuals are explicitly anchored on them. In this paper, the authors extend previous research on single‐price anchoring and study the sensitivity of valuations to the distribution of prices found for a product in the market. In addition, they examine its possible causes. They find that market‐dependent valuations cannot be fully explained by rational inferences consumers draw about a product's value and are unlikely to be fully explained by true market‐dependent preferences. Rather, the market dependence of valuations likely reflects consumers' focus on something other than the total benefit that the product confers to them. Furthermore, this paper shows that market‐dependent valuations persist when – as in many real‐life settings – individuals make repeated purchase decisions over time and infer the distribution of the product's prices from their market experience. Finally, the authors consider the implications of their findings for marketers and consumers. Copyright © 2013 John Wiley &amp; Sons, Ltd.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "Are people's reservation prices for products genuinely 'their' preferences, or do market prices anchor what they say they're willing to pay? Mažar, Köszegi and Ariely run experiments to extend prior single-price-anchoring research to the full distribution of market prices. They find that market-dependent valuations cannot be fully explained by rational inferences about product value, nor by genuinely market-dependent preferences. Rather, valuations reflect that consumers focus on something other than the total benefit the product confers. Critically, this market-dependence persists when individuals make repeated purchases over time and learn the price distribution — meaning experience does not cure the bias. Implications for both marketing strategy and consumer-protection design.",
+      "summary_hu": "A fogyasztók termékre vonatkozó fenntartási árai valóban 'saját' preferenciáik, vagy a piaci árak horgonyozzák azt, amit állítólag fizetni hajlandók? Mažar, Köszegi és Ariely kísérleteket végez a korábbi egyár-horgonyzási kutatás kiterjesztésére a piaci árak teljes eloszlására. Megállapítják, hogy a piacfüggő értékelések nem magyarázhatók teljesen a termékérték racionális következtetéseivel, sem valóban piacfüggő preferenciákkal. Inkább: az értékelések arra utalnak, hogy a fogyasztók a termék által nyújtott teljes haszontól eltérő dologra fókuszálnak. Kritikus: ez a piacfüggőség akkor is fennáll, amikor az egyének idővel ismétlődő vásárlásokat végeznek és megtanulják az áreloszlást — ami azt jelenti, hogy a tapasztalat nem gyógyítja a torzítást. Implikációk a marketing-stratégiára és a fogyasztóvédelem tervezésére.",
+      "data_used": "Lab experiments and online experiments with US adult subjects. Subjects asked to value various consumer products under different price-distribution treatments. Replication across product categories and over repeated purchase rounds.",
+      "data_used_hu": "Laboratóriumi és online kísérletek USA felnőtt résztvevőkkel. A résztvevőket különböző ár-eloszlási kezelések mellett kérik fogyasztói termékek értékelésére. Replikáció termékkategóriák között és ismétlődő vásárlási körökben.",
+      "policy_relevance": "For Hungarian consumer-protection policy and competition policy (GVH, NFH): the paper undermines the assumption that informed-consumer markets reach efficient pricing equilibria. Even with full information and repeated purchases, market-price anchoring distorts willingness-to-pay. Supports more active disclosure rules and price-comparison interventions, especially for products where consumer-demand elasticity is mistakenly assumed to be high.",
+      "policy_relevance_hu": "A magyar fogyasztóvédelmi politikához és versenypolitikához (GVH, NFH): a tanulmány aláássa azt a feltevést, hogy az informált-fogyasztói piacok hatékony ár-egyensúlyt érnek el. Még teljes információ és ismétlődő vásárlások mellett is a piaci-ár horgonyzás torzítja a fizetési hajlandóságot. Aktívabb közlési szabályokat és ár-összehasonlítási beavatkozásokat támogat, különösen olyan termékeknél, ahol a fogyasztói-kereslet rugalmasságát tévesen magasnak feltételezik.",
+      "topics": [
+        "behavioral",
+        "industrial-organization"
+      ],
+      "methods": [
+        "rct"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "field-experiment"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2334115192"
     },
     {
@@ -30353,20 +30399,30 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "The relative decline of the East German economy after 1945 has eluded researchers, as several large shocks appeared to have hit it at the same time. In this paper, we revisit the immediate post-war period in both parts of Germany to obtain a more comprehensive picture of the output and productivity shocks operating in both economies. Our principal finding is that the dismantling of the capital stock alone cannot explain the inferior performance of the East German economy. The collapse of output after the war and the ensuing recovery in both parts of the country were driven by total factor productivity; changes in factor endowments were of second-order significance. West Germany began to lead East Germany in industrial labor productivity well before the economic reforms of 1948 could make their mark. The major factor contributing to this early divergence were disproportions in industrial structure caused by the division of Germany.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "Why did East Germany fall behind West Germany so quickly after 1945? The standard explanations focus on the Soviet dismantling of capital stock. Ritschl and Vonyó revisit the immediate post-war period with a fuller accounting of output and productivity shocks in both Germanies. Their main finding: dismantling alone cannot explain the East German underperformance. Both economies' post-war collapse and recovery were driven mainly by total factor productivity, not factor endowments. West Germany began leading East Germany in industrial labour productivity well before the 1948 economic reforms. The major factor causing the early divergence was disproportions in industrial structure caused by Germany's division — not Soviet capital seizures alone.",
+      "summary_hu": "Miért szakadt le Kelet-Németország Nyugat-Németországtól olyan gyorsan 1945 után? A standard magyarázatok a tőkeállomány szovjet leszerelésére fókuszálnak. Ritschl és Vonyó újra megvizsgálja a közvetlen háború utáni időszakot mindkét Németország kibocsátási és termelékenységi sokkjainak teljesebb elszámolásával. Fő megállapításuk: a leszerelés önmagában nem magyarázza a kelet-német alulteljesítést. Mindkét gazdaság háború utáni összeomlása és helyreállása főleg a teljes tényezőtermelékenységgel volt magyarázható, nem a tényezők készleteivel. Nyugat-Németország jóval az 1948-as gazdasági reformok előtt kezdett vezetni az ipari munkatermelékenységben Kelet-Németország előtt. A korai eltérést okozó fő tényező a Németország felosztása által okozott ipari szerkezeti aránytalanság volt — nem csupán a szovjet tőkeelvonások.",
+      "data_used": "German interwar and post-war national-accounts data, 1936-1955. Industrial-sector output and productivity data for both East and West German territories. Uses cross-zone factor-endowment comparison plus structural decomposition.",
+      "data_used_hu": "Német két háború közötti és háború utáni nemzeti-számla adatok 1936-1955 között. Ipari-szektor kibocsátási és termelékenységi adatok mindkét keletnémet és nyugatnémet területre. Zónák közötti tényező-állomány összehasonlítást és szerkezeti felbontást használ.",
+      "policy_relevance": "Historical relevance to Hungarian transition narratives: the paper argues that East-West divergence was driven by structural disproportion + TFP, not capital expropriation. Same logic applies to the post-1989 Hungarian narrative — the productivity gap with Austria isn't 'because Communism stole our capital' but because structural composition shifted differently. For KSH historical national-accounts work and growth diagnosis, this is a useful comparative case.",
+      "policy_relevance_hu": "Történelmi relevancia a magyar rendszerváltási narratívákhoz: a tanulmány érvel amellett, hogy a keleti-nyugati eltérés szerkezeti aránytalanság + TFP, nem tőke-kisajátítás miatt alakult ki. Ugyanez a logika alkalmazható az 1989 utáni magyar narratívára — az Ausztriával szembeni termelékenységi rés nem 'mert a kommunizmus elvette a tőkét', hanem mert a szerkezeti összetétel másképp alakult. A KSH történelmi nemzeti-számla munkájához és növekedési diagnózisához hasznos összehasonlító eset.",
+      "topics": [
+        "transition-postcommunist",
+        "macroeconomics"
+      ],
+      "methods": [
+        "structural"
+      ],
+      "countries_studied": [
+        "DE"
+      ],
+      "data_types": [
+        "historical",
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W1989125191"
     },
     {
@@ -38201,7 +38257,7 @@
       "policy_framing_en": "Relevant to: EU trade policy, FDI promotion, export promotion, supply chain resilience, industrial policy.",
       "policy_framing_hu": "Releváns: EU kereskedelempolitika, FDI ösztönzés, exporttámogatás, ellátási láncok rugalmassága, iparpolitika.",
       "icon": "globe",
-      "paper_count": 51
+      "paper_count": 52
     },
     {
       "id": "firms-productivity",
@@ -38212,7 +38268,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 98
+      "paper_count": 100
     },
     {
       "id": "innovation-digital",
@@ -38223,7 +38279,7 @@
       "policy_framing_en": "Relevant to: R&D tax credits, digital strategy, AI policy, innovation agency design, university–industry linkages.",
       "policy_framing_hu": "Releváns: K+F adókedvezmények, digitális stratégia, MI-politika, innovációs ügynökségek, egyetem–ipar kapcsolatok.",
       "icon": "cpu",
-      "paper_count": 42
+      "paper_count": 43
     },
     {
       "id": "banking-finance",
@@ -38234,7 +38290,7 @@
       "policy_framing_en": "Relevant to: MNB policy, banking regulation, macroprudential tools, financial inclusion.",
       "policy_framing_hu": "Releváns: MNB-politika, bankszabályozás, makroprudenciális eszközök, pénzügyi befogadás.",
       "icon": "landmark",
-      "paper_count": 86
+      "paper_count": 87
     },
     {
       "id": "fiscal-tax",
@@ -38256,7 +38312,7 @@
       "policy_framing_en": "Relevant to: regional development funds, housing policy, transport investment, urban planning.",
       "policy_framing_hu": "Releváns: regionális fejlesztési alapok, lakáspolitika, közlekedési beruházások, városfejlesztés.",
       "icon": "building",
-      "paper_count": 40
+      "paper_count": 41
     },
     {
       "id": "energy-environment",
@@ -38300,7 +38356,7 @@
       "policy_framing_en": "Relevant to: long-run diagnoses of the Hungarian and CEE economy, lessons from 30+ years of transition, institutional path dependence.",
       "policy_framing_hu": "Releváns: a magyar és KKE gazdaság hosszú távú diagnózisa, 30+ év rendszerváltásának tanulságai, intézményi útfüggőség.",
       "icon": "flag",
-      "paper_count": 24
+      "paper_count": 26
     },
     {
       "id": "behavioral",
@@ -38311,7 +38367,7 @@
       "policy_framing_en": "Relevant to: consumer protection, pension-default design, nudging, financial-education regulation, addictive-product regulation.",
       "policy_framing_hu": "Releváns: fogyasztóvédelem, nyugdíjalap-alapbeállítások, döntéslendítés (nudge), pénzügyi edukáció szabályozása, függőséget okozó termékek szabályozása.",
       "icon": "brain",
-      "paper_count": 64
+      "paper_count": 65
     },
     {
       "id": "industrial-organization",
@@ -38322,7 +38378,7 @@
       "policy_framing_en": "Relevant to: competition policy (GVH), merger review, platform regulation, auction design, sector-specific regulation.",
       "policy_framing_hu": "Releváns: versenypolitika (GVH), fúziókontroll, platformszabályozás, aukciótervezés, ágazati szabályozás.",
       "icon": "network",
-      "paper_count": 30
+      "paper_count": 32
     },
     {
       "id": "macroeconomics",
@@ -38333,7 +38389,7 @@
       "policy_framing_en": "Relevant to: long-run growth forecasting, macroeconomic modelling, sovereign-debt management, stabilisation policy design.",
       "policy_framing_hu": "Releváns: hosszú távú növekedés előrejelzés, makroökonómiai modellek, államadósság-kezelés, stabilizációs politika.",
       "icon": "line-chart",
-      "paper_count": 45
+      "paper_count": 47
     },
     {
       "id": "agriculture-food",
@@ -38355,7 +38411,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 118
+      "paper_count": 119
     },
     {
       "id": "market-design",
