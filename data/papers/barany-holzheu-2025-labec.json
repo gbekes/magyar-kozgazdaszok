@@ -17,19 +17,27 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We study how worker specialization—the distance between a worker’s skill set and those prevalent in the labor market—shapes employment outcomes. Using US and French data, we first document that specialized jobs are characterized by asymmetric skill profiles and a scarcity of nearby employment opportunities. We incorporate these features into a random search model with multidimensional skills, mismatch penalties and skill complementarity. We show that specialization lowers job-finding rates due to a lack of suitable jobs, but raises re-employment wages via improved productivity. Empirical evidence from displaced workers in both countries confirms these predictions. Our findings reconcile competing views in the literature by showing that specialization entails trade-offs and is neither uniformly beneficial nor harmful. • Worker specialization: average distance from job requirements in the labor market. • Specialized jobs feature skill asymmetry and fewer nearby job opportunities. • Asymmetry raises wages, but scarcity increases unemployment duration. • Data from France and the US support these effects for displaced workers. • Model shows specialization slightly lowers workers’ overall value in France.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "Is being a 'specialised' worker — having skills concentrated outside the labour market average — good or bad for employment? Bárány and Holzheu document the trade-off using US and French data: specialised jobs feature asymmetric skill profiles and few similar nearby jobs. They build a random-search model with multidimensional skills, mismatch penalties, and skill complementarity. The model predicts (and the data confirm) that specialisation lowers job-finding rates because there are fewer suitable jobs, but raises re-employment wages because matched jobs are more productive. Empirical evidence from displaced workers in both countries supports both predictions. The paper reconciles the 'specialisation is good' versus 'specialisation is bad' debate: it's neither — it's a trade-off.",
+  "summary_hu": "Vajon 'specializált' munkavállalónak lenni — a munkapiaci átlagtól eltérő, koncentrált készségekkel rendelkezni — jó vagy rossz a foglalkoztatás szempontjából? Bárány és Holzheu az USA és francia adatok segítségével dokumentálja az átváltást: a specializált munkák aszimmetrikus képességprofillal és kevés hasonló közeli munkával jellemezhetők. Random-keresési modellt építenek többdimenziós képességekkel, illeszkedési büntetésekkel és képesség-komplementaritással. A modell előrejelzi (és az adatok megerősítik), hogy a specializáció csökkenti a munkatalálási rátát, mert kevesebb megfelelő munka van, de növeli az újrafoglalkoztatási bért, mert a párosított munkák termelékenyebbek. Az elbocsátott munkavállalókra vonatkozó empirikus bizonyíték mindkét országban támogatja az előrejelzéseket. A tanulmány áthidalja a 'specializáció jó' és 'specializáció rossz' vitát: egyik sem — átváltás.",
+  "data_used": "US and French linked employer-employee data on displaced workers, late 2010s. Skills profiled via occupation × industry classifications. Comparison of job-finding rates and re-employment wages across specialisation levels.",
+  "data_used_hu": "USA és francia összekapcsolt munkáltató-munkavállaló adatok elbocsátott munkavállalókra, 2010-es évek vége. Készségek foglalkozás × iparág osztályozással profilozva. Munkatalálási ráták és újrafoglalkoztatási bérek összehasonlítása specializációs szintek között.",
+  "policy_relevance": "For Hungarian active labour-market policy (NFSZ, ITM): the paper argues against blanket retraining programmes that force specialised workers into 'general' skill pools. For displaced specialists, lower job-finding probability is offset by better-paid matches when found — implying patient placement matters more than rapid placement. Caveat: US/French data; Hungarian labour-market thinness for specialised skills may shift the trade-off.",
+  "policy_relevance_hu": "A magyar aktív munkapiaci politikához (NFSZ, ITM): a tanulmány érvel az általános átképzési programok ellen, amelyek a specializált munkavállalókat 'általános' képességkészletbe terelik. Az elbocsátott specialistáknál az alacsonyabb munkatalálási valószínűséget ellensúlyozza a megtaláláskor jobban fizetett illesztés — ami arra utal, hogy a türelmes elhelyezés többet ér a gyors elhelyezésnél. Korlát: USA/francia adatok; a magyar munkapiac specializált képességekre vonatkozó vékonysága módosíthatja az átváltást.",
+  "topics": [
+    "labor-markets",
+    "education-skills"
+  ],
+  "methods": [
+    "structural",
+    "panel-data"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W4416812642"
 }

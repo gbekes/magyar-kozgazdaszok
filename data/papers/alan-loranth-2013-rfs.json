@@ -17,19 +17,28 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Using a unique panel data set from a U.K. credit card company, we analyze the interest rate sensitivity of subprime credit card borrowers. In addition to all individual transactions and loan terms, we have access to details of a randomized interest rate experiment conducted by the lender on existing (inframarginal) loans. For the whole sample, we estimate a statistically significant £3.4 reduction in monthly credit demand in response to a five percentage point increase in interest rates. This aggregate response is small, but it masks very interesting heterogeneity in the sample. We find that only low-risk borrowers who fully utilize their credit cards lower their credit demand significantly when faced with an increase in interest rates. We also document that a five percentage point increase in interest rates generates significant additional revenue for the lender without inducing delinquency over a short horizon. © 2013 The Author.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "How sensitive are subprime credit-card borrowers to interest-rate changes? Alan and Lóránth analyse a UK credit-card company's randomised pricing experiment, where the lender exogenously varied interest rates on existing (inframarginal) loans across borrowers. They estimate a statistically significant £3.4 monthly reduction in credit demand from a 5-percentage-point rate increase. The aggregate response is small, but heterogeneity is striking: only low-risk borrowers who fully utilise their cards lower demand significantly. The 5-pp rate hike generates substantial extra revenue for the lender without inducing short-horizon delinquency. The paper provides clean causal evidence that credit-card pricing power exists for inframarginal subprime accounts.",
+  "summary_hu": "Mennyire érzékenyek a kockázatosabb hitelkártya-felvevők a kamatláb-változásokra? Alan és Lóránth egy brit hitelkártya-cég randomizált árazási kísérletét elemzi, amelyben a hitelező exogén módon változtatta a kamatlábakat meglévő (intramarginális) hiteleken. 5 százalékpontos kamatlábemelésre statisztikailag szignifikáns havi 3,4 fontos hitelkereslet-csökkenést becsülnek. Az aggregált válasz kicsi, de a heterogenitás feltűnő: csak a kártyájukat teljesen kihasználó alacsony-kockázatú felvevők csökkentik szignifikánsan a keresletet. Az 5 pp-os emelés jelentős többletbevételt generál a hitelezőnek anélkül, hogy rövid távon hitelképtelenséget okozna. A tanulmány tiszta okozati bizonyítékot ad arra, hogy a kártyaszámlák marginálistól eltérő részein árazási hatalom van.",
+  "data_used": "Proprietary panel from a UK subprime credit-card lender. Includes individual transactions, loan terms, and a randomized interest-rate experiment varying rates on existing accounts across borrowers. Sample period spans pre/post the experiment.",
+  "data_used_hu": "Egy brit kockázatos hitelkártya-hitelező saját paneladatai. Tartalmaz egyéni tranzakciókat, hitel-kondíciókat és egy randomizált kamatláb-kísérletet, amely meglévő számlákon változtatta a kamatlábakat felvevőnként. A mintaidőszak átöleli a kísérletet.",
+  "policy_relevance": "Direct relevance to MNB consumer-credit regulation in Hungary. The paper documents that subprime credit-card lenders extract substantial inframarginal rents — borrowers who can't switch are insensitive to within-account rate changes. Supports rate caps or mandatory rate-disclosure transparency for inframarginal loan modifications. Caveat: UK 2013 context; Hungarian retail credit composition differs (heavy historical FX-mortgage book).",
+  "policy_relevance_hu": "Közvetlenül érinti a magyar MNB lakossági-hitel szabályozást. A tanulmány dokumentálja, hogy a kockázatos hitelkártya-hitelezők jelentős marginálistól eltérő járadékot szednek be — a váltani nem tudó hitelfelvevők érzéketlenek a számlán belüli kamatváltozásokra. Támogatja a kamatláb-plafonokat vagy a kötelező kamatláb-közlési átláthatóságot a marginálistól eltérő hitelmódosításoknál. Korlát: 2013-as brit kontextus; a magyar lakossági-hitel összetétele eltérő (történelmi devizahitel-állomány).",
+  "topics": [
+    "banking-finance",
+    "behavioral"
+  ],
+  "methods": [
+    "rct",
+    "panel-data"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "admin-individual",
+    "field-experiment"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W3124269616"
 }

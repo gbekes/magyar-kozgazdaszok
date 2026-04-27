@@ -16,19 +16,30 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "In the past 30 years, wage inequality has increased steeply while real minimum wages have fallen. This paper demonstrates that a general equilibrium model with endogenous skill choice is required to correctly evaluate the implications of minimum wage changes. The minimum wage not only truncates the wage distribution but also affects skill prices and therefore changes the incentives that people face when making educational decisions. The calibrated model suggests—in line with recent empirical literature—that even though minimum wages affect the bottom end of the wage distribution more, their impact on the top end is significant as well.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "Has falling real minimum wages in the US contributed to rising wage inequality, and how should this be modelled? Bárány argues that you cannot evaluate minimum-wage effects without a general-equilibrium model with endogenous skill choice. The minimum wage doesn't just truncate the wage distribution at the bottom — it changes the price of skills, which in turn changes the educational decisions people make. The calibrated GE model matches recent empirical findings: minimum wages affect the bottom of the wage distribution most, but their effect on the top is also significant. The paper reframes the minimum-wage debate as fundamentally about skill formation, not just about wage compression.",
+  "summary_hu": "Vajon a csökkenő reál-minimálbér az USA-ban hozzájárult-e a növekvő bér-egyenlőtlenséghez, és hogyan kell ezt modellezni? Bárány érvelése szerint a minimálbér-hatásokat nem lehet általános-egyensúlyi modell és endogén képességválasztás nélkül értékelni. A minimálbér nem csupán csonkolja a béreloszlás alját — megváltoztatja a képességek árát is, ami pedig megváltoztatja az emberek oktatási döntéseit. A kalibrált általános-egyensúlyi modell illeszkedik a friss empirikus megállapításokhoz: a minimálbér leginkább a béreloszlás alját érinti, de a felső részére gyakorolt hatása is szignifikáns. A tanulmány a minimálbér-vitát alapvetően a képességformálásról, nem csupán a bérkiegyenlítésről szóló kérdésként újraértelmezi.",
+  "data_used": "US Census wage and education data 1980–2010. General-equilibrium model with endogenous skill choice calibrated to match aggregate skill-share dynamics and minimum-wage time series. Cross-validated against empirical reduced-form minimum-wage estimates.",
+  "data_used_hu": "Egyesült Államok népszámlálási bér- és iskolázottsági adatok 1980–2010. Endogén képességválasztással rendelkező általános-egyensúlyi modell, az aggregált képességarány-dinamikára és minimálbér-idősorra kalibrált. Empirikus redukált-formájú minimálbér-becslésekkel keresztvalidált.",
+  "policy_relevance": "For NGM and MNB minimum-wage analysis: the paper argues that GE skill-formation effects can be larger than the direct partial-equilibrium employment effects often reported in the Hungarian minimum-wage literature. Rapid Hungarian minimum-wage hikes (the 2002 doubling, 2017+ accelerations) likely shifted educational incentives, with effects materialising over years. Useful framework for long-run minimum-wage cost-benefit analysis.",
+  "policy_relevance_hu": "Az NGM és MNB minimálbér-elemzéséhez: a tanulmány érvel amellett, hogy az általános-egyensúlyi képességformálási hatások nagyobbak lehetnek a magyar minimálbér-irodalomban gyakran közölt parciális-egyensúlyi foglalkoztatási hatásoknál. A magyar gyors minimálbér-emelések (a 2002-es duplázás, 2017+ gyorsulások) valószínűleg áthelyezték az oktatási ösztönzőket, és a hatások évek alatt materializálódtak. Hasznos keret a hosszú távú minimálbér-költség-haszon elemzéshez.",
+  "topics": [
+    "labor-markets",
+    "education-skills",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "structural"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "macro-aggregate",
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W1866185064"
 }

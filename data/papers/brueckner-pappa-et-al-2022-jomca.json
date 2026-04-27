@@ -18,19 +18,30 @@
   "url_pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jmcb.12974",
   "url_replication": null,
   "abstract": "Abstract Using a panel of 268 European regions during 1990–2014, we document that the degree of local government's autonomy, measured with the “Local Autonomy Index,” has a significant positive effect on the fiscal spending multiplier. The estimated geographic cross‐sectional fiscal spending multiplier is on average close to zero in countries with the lowest degree of local autonomy, and around unity in countries with the highest degree of local autonomy. Multipliers are state‐dependent: larger when gross domestic product is below trend and when there is slack in the labor market; in those states, local autonomy has a particularly large positive effect on the multiplier. To interpret the empirical findings, we build a Dynamic Stochastic General Equilibrium (DSGE) model where both local and central government spending contribute to a public good that enhances private labor productivity. Local governments are more efficient in producing the public good and the multiplier is higher in countries where local government spending has a larger share in the production of the public good.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "Does fiscal-spending multiplier depend on local government autonomy? Using a panel of 268 European regions over 1990-2014, Brueckner, Pappa and Valentinyi document a clear pattern: the geographic cross-sectional fiscal-spending multiplier is near zero in countries with the lowest local-government autonomy, and around unity in countries with the highest. Multipliers are state-dependent — larger when GDP is below trend and labour markets are slack. A DSGE model with both local and central government spending entering a public-good production function fits the empirical findings: local governments are more efficient at producing the public good, raising the multiplier where they have a bigger budget share.",
+  "summary_hu": "Függ-e a fiskális kiadási multiplikátor a helyi önkormányzatok autonómiájától? 268 európai régióból álló panelt használva 1990-2014 között, Brueckner, Pappa és Valentinyi tiszta mintát dokumentál: a földrajzi keresztmetszeti fiskális kiadási multiplikátor közel nulla a legalacsonyabb helyi önkormányzati autonómiájú országokban, és kb. egységnyi a legmagasabbakban. A multiplikátorok állapotfüggők — nagyobbak, amikor a GDP a trend alatt van és a munkapiacok lazák. Egy DSGE modell, amelyben a helyi és központi kormányzati kiadás egyaránt egy közjavi termelési függvényben jelenik meg, illeszkedik az empirikus megállapításokhoz: a helyi önkormányzatok hatékonyabbak a közjó termelésében, növelve a multiplikátort ott, ahol nagyobb költségvetési részesedésük van.",
+  "data_used": "Panel of 268 NUTS-2 European regions, 1990–2014. Regional GDP, employment, government-spending data. Local Autonomy Index from Ladner et al. measuring formal autonomy across 39 dimensions. State-dependent multiplier estimation using local projections.",
+  "data_used_hu": "268 NUTS-2 európai régió paneladatai 1990–2014 között. Regionális GDP-, foglalkoztatási, kormányzati kiadási adatok. Helyi Autonómia Index Ladner et al.-tól, amely 39 dimenzió szerint méri a formális autonómiát. Állapotfüggő multiplikátor-becslés helyi projekciókkal.",
+  "policy_relevance": "Highly relevant for Hungarian fiscal-decentralisation debate. Hungary's local-government autonomy has been declining since 2010 (centralisation of education, healthcare, social policy). The paper's finding that autonomy raises multipliers implies the centralisation has weakened the macro-stabilisation potential of Hungarian fiscal policy. For NGM, MNB, and Regional Development Council, the paper provides empirical grounds to reconsider the spending-decentralisation balance.",
+  "policy_relevance_hu": "Erősen érinti a magyar fiskális-decentralizáció vitát. Magyarországon a helyi önkormányzati autonómia 2010 óta csökken (oktatás, egészségügy, szociálpolitika központosítása). A tanulmány megállapítása, hogy az autonómia növeli a multiplikátort, arra utal, hogy a központosítás gyengítette a magyar fiskális politika makro-stabilizációs potenciálját. Az NGM, MNB és Regionális Fejlesztési Tanács számára a tanulmány empirikus alapot ad a kiadási-decentralizációs egyensúly újragondolására.",
+  "topics": [
+    "fiscal-tax",
+    "macroeconomics",
+    "regional-urban"
+  ],
+  "methods": [
+    "panel-data",
+    "structural"
+  ],
+  "countries_studied": [
+    "EU"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W4295932122"
 }

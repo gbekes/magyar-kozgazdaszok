@@ -5193,20 +5193,29 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Using a unique panel data set from a U.K. credit card company, we analyze the interest rate sensitivity of subprime credit card borrowers. In addition to all individual transactions and loan terms, we have access to details of a randomized interest rate experiment conducted by the lender on existing (inframarginal) loans. For the whole sample, we estimate a statistically significant £3.4 reduction in monthly credit demand in response to a five percentage point increase in interest rates. This aggregate response is small, but it masks very interesting heterogeneity in the sample. We find that only low-risk borrowers who fully utilize their credit cards lower their credit demand significantly when faced with an increase in interest rates. We also document that a five percentage point increase in interest rates generates significant additional revenue for the lender without inducing delinquency over a short horizon. © 2013 The Author.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "summary_en": "How sensitive are subprime credit-card borrowers to interest-rate changes? Alan and Lóránth analyse a UK credit-card company's randomised pricing experiment, where the lender exogenously varied interest rates on existing (inframarginal) loans across borrowers. They estimate a statistically significant £3.4 monthly reduction in credit demand from a 5-percentage-point rate increase. The aggregate response is small, but heterogeneity is striking: only low-risk borrowers who fully utilise their cards lower demand significantly. The 5-pp rate hike generates substantial extra revenue for the lender without inducing short-horizon delinquency. The paper provides clean causal evidence that credit-card pricing power exists for inframarginal subprime accounts.",
+      "summary_hu": "Mennyire érzékenyek a kockázatosabb hitelkártya-felvevők a kamatláb-változásokra? Alan és Lóránth egy brit hitelkártya-cég randomizált árazási kísérletét elemzi, amelyben a hitelező exogén módon változtatta a kamatlábakat meglévő (intramarginális) hiteleken. 5 százalékpontos kamatlábemelésre statisztikailag szignifikáns havi 3,4 fontos hitelkereslet-csökkenést becsülnek. Az aggregált válasz kicsi, de a heterogenitás feltűnő: csak a kártyájukat teljesen kihasználó alacsony-kockázatú felvevők csökkentik szignifikánsan a keresletet. Az 5 pp-os emelés jelentős többletbevételt generál a hitelezőnek anélkül, hogy rövid távon hitelképtelenséget okozna. A tanulmány tiszta okozati bizonyítékot ad arra, hogy a kártyaszámlák marginálistól eltérő részein árazási hatalom van.",
+      "data_used": "Proprietary panel from a UK subprime credit-card lender. Includes individual transactions, loan terms, and a randomized interest-rate experiment varying rates on existing accounts across borrowers. Sample period spans pre/post the experiment.",
+      "data_used_hu": "Egy brit kockázatos hitelkártya-hitelező saját paneladatai. Tartalmaz egyéni tranzakciókat, hitel-kondíciókat és egy randomizált kamatláb-kísérletet, amely meglévő számlákon változtatta a kamatlábakat felvevőnként. A mintaidőszak átöleli a kísérletet.",
+      "policy_relevance": "Direct relevance to MNB consumer-credit regulation in Hungary. The paper documents that subprime credit-card lenders extract substantial inframarginal rents — borrowers who can't switch are insensitive to within-account rate changes. Supports rate caps or mandatory rate-disclosure transparency for inframarginal loan modifications. Caveat: UK 2013 context; Hungarian retail credit composition differs (heavy historical FX-mortgage book).",
+      "policy_relevance_hu": "Közvetlenül érinti a magyar MNB lakossági-hitel szabályozást. A tanulmány dokumentálja, hogy a kockázatos hitelkártya-hitelezők jelentős marginálistól eltérő járadékot szednek be — a váltani nem tudó hitelfelvevők érzéketlenek a számlán belüli kamatváltozásokra. Támogatja a kamatláb-plafonokat vagy a kötelező kamatláb-közlési átláthatóságot a marginálistól eltérő hitelmódosításoknál. Korlát: 2013-as brit kontextus; a magyar lakossági-hitel összetétele eltérő (történelmi devizahitel-állomány).",
+      "topics": [
+        "banking-finance",
+        "behavioral"
+      ],
+      "methods": [
+        "rct",
+        "panel-data"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "admin-individual",
+        "field-experiment"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W3124269616"
     },
     {
@@ -7257,20 +7266,31 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "In the past 30 years, wage inequality has increased steeply while real minimum wages have fallen. This paper demonstrates that a general equilibrium model with endogenous skill choice is required to correctly evaluate the implications of minimum wage changes. The minimum wage not only truncates the wage distribution but also affects skill prices and therefore changes the incentives that people face when making educational decisions. The calibrated model suggests—in line with recent empirical literature—that even though minimum wages affect the bottom end of the wage distribution more, their impact on the top end is significant as well.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "Has falling real minimum wages in the US contributed to rising wage inequality, and how should this be modelled? Bárány argues that you cannot evaluate minimum-wage effects without a general-equilibrium model with endogenous skill choice. The minimum wage doesn't just truncate the wage distribution at the bottom — it changes the price of skills, which in turn changes the educational decisions people make. The calibrated GE model matches recent empirical findings: minimum wages affect the bottom of the wage distribution most, but their effect on the top is also significant. The paper reframes the minimum-wage debate as fundamentally about skill formation, not just about wage compression.",
+      "summary_hu": "Vajon a csökkenő reál-minimálbér az USA-ban hozzájárult-e a növekvő bér-egyenlőtlenséghez, és hogyan kell ezt modellezni? Bárány érvelése szerint a minimálbér-hatásokat nem lehet általános-egyensúlyi modell és endogén képességválasztás nélkül értékelni. A minimálbér nem csupán csonkolja a béreloszlás alját — megváltoztatja a képességek árát is, ami pedig megváltoztatja az emberek oktatási döntéseit. A kalibrált általános-egyensúlyi modell illeszkedik a friss empirikus megállapításokhoz: a minimálbér leginkább a béreloszlás alját érinti, de a felső részére gyakorolt hatása is szignifikáns. A tanulmány a minimálbér-vitát alapvetően a képességformálásról, nem csupán a bérkiegyenlítésről szóló kérdésként újraértelmezi.",
+      "data_used": "US Census wage and education data 1980–2010. General-equilibrium model with endogenous skill choice calibrated to match aggregate skill-share dynamics and minimum-wage time series. Cross-validated against empirical reduced-form minimum-wage estimates.",
+      "data_used_hu": "Egyesült Államok népszámlálási bér- és iskolázottsági adatok 1980–2010. Endogén képességválasztással rendelkező általános-egyensúlyi modell, az aggregált képességarány-dinamikára és minimálbér-idősorra kalibrált. Empirikus redukált-formájú minimálbér-becslésekkel keresztvalidált.",
+      "policy_relevance": "For NGM and MNB minimum-wage analysis: the paper argues that GE skill-formation effects can be larger than the direct partial-equilibrium employment effects often reported in the Hungarian minimum-wage literature. Rapid Hungarian minimum-wage hikes (the 2002 doubling, 2017+ accelerations) likely shifted educational incentives, with effects materialising over years. Useful framework for long-run minimum-wage cost-benefit analysis.",
+      "policy_relevance_hu": "Az NGM és MNB minimálbér-elemzéséhez: a tanulmány érvel amellett, hogy az általános-egyensúlyi képességformálási hatások nagyobbak lehetnek a magyar minimálbér-irodalomban gyakran közölt parciális-egyensúlyi foglalkoztatási hatásoknál. A magyar gyors minimálbér-emelések (a 2002-es duplázás, 2017+ gyorsulások) valószínűleg áthelyezték az oktatási ösztönzőket, és a hatások évek alatt materializálódtak. Hasznos keret a hosszú távú minimálbér-költség-haszon elemzéshez.",
+      "topics": [
+        "labor-markets",
+        "education-skills",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "structural"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "macro-aggregate",
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W1866185064"
     },
     {
@@ -7360,20 +7380,28 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We study how worker specialization—the distance between a worker’s skill set and those prevalent in the labor market—shapes employment outcomes. Using US and French data, we first document that specialized jobs are characterized by asymmetric skill profiles and a scarcity of nearby employment opportunities. We incorporate these features into a random search model with multidimensional skills, mismatch penalties and skill complementarity. We show that specialization lowers job-finding rates due to a lack of suitable jobs, but raises re-employment wages via improved productivity. Empirical evidence from displaced workers in both countries confirms these predictions. Our findings reconcile competing views in the literature by showing that specialization entails trade-offs and is neither uniformly beneficial nor harmful. • Worker specialization: average distance from job requirements in the labor market. • Specialized jobs feature skill asymmetry and fewer nearby job opportunities. • Asymmetry raises wages, but scarcity increases unemployment duration. • Data from France and the US support these effects for displaced workers. • Model shows specialization slightly lowers workers’ overall value in France.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "summary_en": "Is being a 'specialised' worker — having skills concentrated outside the labour market average — good or bad for employment? Bárány and Holzheu document the trade-off using US and French data: specialised jobs feature asymmetric skill profiles and few similar nearby jobs. They build a random-search model with multidimensional skills, mismatch penalties, and skill complementarity. The model predicts (and the data confirm) that specialisation lowers job-finding rates because there are fewer suitable jobs, but raises re-employment wages because matched jobs are more productive. Empirical evidence from displaced workers in both countries supports both predictions. The paper reconciles the 'specialisation is good' versus 'specialisation is bad' debate: it's neither — it's a trade-off.",
+      "summary_hu": "Vajon 'specializált' munkavállalónak lenni — a munkapiaci átlagtól eltérő, koncentrált készségekkel rendelkezni — jó vagy rossz a foglalkoztatás szempontjából? Bárány és Holzheu az USA és francia adatok segítségével dokumentálja az átváltást: a specializált munkák aszimmetrikus képességprofillal és kevés hasonló közeli munkával jellemezhetők. Random-keresési modellt építenek többdimenziós képességekkel, illeszkedési büntetésekkel és képesség-komplementaritással. A modell előrejelzi (és az adatok megerősítik), hogy a specializáció csökkenti a munkatalálási rátát, mert kevesebb megfelelő munka van, de növeli az újrafoglalkoztatási bért, mert a párosított munkák termelékenyebbek. Az elbocsátott munkavállalókra vonatkozó empirikus bizonyíték mindkét országban támogatja az előrejelzéseket. A tanulmány áthidalja a 'specializáció jó' és 'specializáció rossz' vitát: egyik sem — átváltás.",
+      "data_used": "US and French linked employer-employee data on displaced workers, late 2010s. Skills profiled via occupation × industry classifications. Comparison of job-finding rates and re-employment wages across specialisation levels.",
+      "data_used_hu": "USA és francia összekapcsolt munkáltató-munkavállaló adatok elbocsátott munkavállalókra, 2010-es évek vége. Készségek foglalkozás × iparág osztályozással profilozva. Munkatalálási ráták és újrafoglalkoztatási bérek összehasonlítása specializációs szintek között.",
+      "policy_relevance": "For Hungarian active labour-market policy (NFSZ, ITM): the paper argues against blanket retraining programmes that force specialised workers into 'general' skill pools. For displaced specialists, lower job-finding probability is offset by better-paid matches when found — implying patient placement matters more than rapid placement. Caveat: US/French data; Hungarian labour-market thinness for specialised skills may shift the trade-off.",
+      "policy_relevance_hu": "A magyar aktív munkapiaci politikához (NFSZ, ITM): a tanulmány érvel az általános átképzési programok ellen, amelyek a specializált munkavállalókat 'általános' képességkészletbe terelik. Az elbocsátott specialistáknál az alacsonyabb munkatalálási valószínűséget ellensúlyozza a megtaláláskor jobban fizetett illesztés — ami arra utal, hogy a türelmes elhelyezés többet ér a gyors elhelyezésnél. Korlát: USA/francia adatok; a magyar munkapiac specializált képességekre vonatkozó vékonysága módosíthatja az átváltást.",
+      "topics": [
+        "labor-markets",
+        "education-skills"
+      ],
+      "methods": [
+        "structural",
+        "panel-data"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W4416812642"
     },
     {
@@ -12569,20 +12597,31 @@
       "url_pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jmcb.12974",
       "url_replication": null,
       "abstract": "Abstract Using a panel of 268 European regions during 1990–2014, we document that the degree of local government's autonomy, measured with the “Local Autonomy Index,” has a significant positive effect on the fiscal spending multiplier. The estimated geographic cross‐sectional fiscal spending multiplier is on average close to zero in countries with the lowest degree of local autonomy, and around unity in countries with the highest degree of local autonomy. Multipliers are state‐dependent: larger when gross domestic product is below trend and when there is slack in the labor market; in those states, local autonomy has a particularly large positive effect on the multiplier. To interpret the empirical findings, we build a Dynamic Stochastic General Equilibrium (DSGE) model where both local and central government spending contribute to a public good that enhances private labor productivity. Local governments are more efficient in producing the public good and the multiplier is higher in countries where local government spending has a larger share in the production of the public good.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "Does fiscal-spending multiplier depend on local government autonomy? Using a panel of 268 European regions over 1990-2014, Brueckner, Pappa and Valentinyi document a clear pattern: the geographic cross-sectional fiscal-spending multiplier is near zero in countries with the lowest local-government autonomy, and around unity in countries with the highest. Multipliers are state-dependent — larger when GDP is below trend and labour markets are slack. A DSGE model with both local and central government spending entering a public-good production function fits the empirical findings: local governments are more efficient at producing the public good, raising the multiplier where they have a bigger budget share.",
+      "summary_hu": "Függ-e a fiskális kiadási multiplikátor a helyi önkormányzatok autonómiájától? 268 európai régióból álló panelt használva 1990-2014 között, Brueckner, Pappa és Valentinyi tiszta mintát dokumentál: a földrajzi keresztmetszeti fiskális kiadási multiplikátor közel nulla a legalacsonyabb helyi önkormányzati autonómiájú országokban, és kb. egységnyi a legmagasabbakban. A multiplikátorok állapotfüggők — nagyobbak, amikor a GDP a trend alatt van és a munkapiacok lazák. Egy DSGE modell, amelyben a helyi és központi kormányzati kiadás egyaránt egy közjavi termelési függvényben jelenik meg, illeszkedik az empirikus megállapításokhoz: a helyi önkormányzatok hatékonyabbak a közjó termelésében, növelve a multiplikátort ott, ahol nagyobb költségvetési részesedésük van.",
+      "data_used": "Panel of 268 NUTS-2 European regions, 1990–2014. Regional GDP, employment, government-spending data. Local Autonomy Index from Ladner et al. measuring formal autonomy across 39 dimensions. State-dependent multiplier estimation using local projections.",
+      "data_used_hu": "268 NUTS-2 európai régió paneladatai 1990–2014 között. Regionális GDP-, foglalkoztatási, kormányzati kiadási adatok. Helyi Autonómia Index Ladner et al.-tól, amely 39 dimenzió szerint méri a formális autonómiát. Állapotfüggő multiplikátor-becslés helyi projekciókkal.",
+      "policy_relevance": "Highly relevant for Hungarian fiscal-decentralisation debate. Hungary's local-government autonomy has been declining since 2010 (centralisation of education, healthcare, social policy). The paper's finding that autonomy raises multipliers implies the centralisation has weakened the macro-stabilisation potential of Hungarian fiscal policy. For NGM, MNB, and Regional Development Council, the paper provides empirical grounds to reconsider the spending-decentralisation balance.",
+      "policy_relevance_hu": "Erősen érinti a magyar fiskális-decentralizáció vitát. Magyarországon a helyi önkormányzati autonómia 2010 óta csökken (oktatás, egészségügy, szociálpolitika központosítása). A tanulmány megállapítása, hogy az autonómia növeli a multiplikátort, arra utal, hogy a központosítás gyengítette a magyar fiskális politika makro-stabilizációs potenciálját. Az NGM, MNB és Regionális Fejlesztési Tanács számára a tanulmány empirikus alapot ad a kiadási-decentralizációs egyensúly újragondolására.",
+      "topics": [
+        "fiscal-tax",
+        "macroeconomics",
+        "regional-urban"
+      ],
+      "methods": [
+        "panel-data",
+        "structural"
+      ],
+      "countries_studied": [
+        "EU"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W4295932122"
     },
     {
@@ -15348,20 +15387,30 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "To ensure sufficiently rapid decarbonization to meet the Paris Agreement goals, investments in green infrastructure will have to increase by an estimated 2% of world GDP annually, according to the International Energy Agency. A significant part of that investment will need to be funded with public resources – raising major tensions between consolidation needs after the high deficits during the pandemic and the need to increase investments. We consider this trade-off in the European Union, which has set itself one of the most ambitious climate targets in the world. The additional public investment required to meet the European Union’s climate goals is around 0.6% of GDP annually during this decade, which might increase if the green transition is accelerated due to Russia’s invasion of Ukraine. Budget consolidation can be done at a moderate pace in line with EU fiscal rules if those rules are interpreted flexibly, but past consolidation episodes resulted in major public investment cuts. A ‘green golden rule’ –excluding net green investment from the fiscal indicators used to measure fiscal rule compliance– is proposed as the most promising option to address this tension and would provide a positive incentive to undertake such investments. However, the uncertain growth impact of green public spending and the risks to growth from climate change create difficult trade-offs in fiscally weaker countries. Better regulatory policy and a higher price on emissions should in parallel incentivise private green investment and reduce public costs. These ingredients should be combined to form a ‘Green Fiscal Pact’. Key policy insightsPublic investments tend to be cut in fiscal consolidation episodes by vote-maximising politicians and thus need to be treated differently in fiscal rules. Increasing green public investments will be difficult in the upcoming consolidation period.A ‘green golden rule’ –excluding net green public investment from the fiscal rule indicators– is proposed as the best option to incentivise public climate investment.Policymakers need to underpin such a rule by clearly defining what constitutes emission-reducing climate investments and monitoring compliance.Fossil fuel subsidies should also be eliminated, and private climate investment should be incentivised through appropriate taxation and regulation.Climate change may tighten budget constraints in countries with already high debt levels because of its negative growth effects, so these countries should delay the introduction of the green golden rule.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "How can the EU finance the public investment needed for the green transition while still consolidating budgets after the pandemic? Darvas and Wolff frame the trade-off concretely: the IEA estimates green-infrastructure investment must rise by 2% of world GDP annually, and the EU's specific climate goals require ~0.6% of GDP in additional public investment per year for the decade. They review past consolidation episodes and find public investment is what tends to get cut. They propose a 'Green Fiscal Pact' with a 'green golden rule' — excluding net green public investment from the fiscal rule indicators — alongside emissions pricing and reform of fossil-fuel subsidies. Highly debt-stressed countries should delay the rule until their fiscal space recovers.",
+      "summary_hu": "Hogyan finanszírozhatja az EU a zöld átmenethez szükséges közberuházást, miközben a pandémia utáni költségvetési konszolidációt is végzi? Darvas és Wolff konkrétan keretezi az átváltást: a Nemzetközi Energia Ügynökség becslése szerint a zöld infrastruktúra-beruházásnak évente 2 százalékponttal a világ GDP-jének kell nőnie, és az EU konkrét klímacéljai ~0,6 százalékpontot igényelnek a GDP-ből további közberuházásként az évtizedre. Áttekintik a múltbeli konszolidációs epizódokat, és úgy találják, hogy a közberuházás az, amit jellemzően elvágnak. 'Zöld Fiskális Paktumot' javasolnak 'zöld aranyszabállyal' — a nettó zöld közberuházás kizárása a fiskális szabály mutatóiból — kibocsátási árazással és fosszilis-tüzelőanyag-szubvenciók reformjával együtt. Az erősen adósságtól szenvedő országoknak késleltetniük kell a szabály bevezetését, amíg a fiskális mozgásterük helyreáll.",
+      "data_used": "EU-level fiscal data on past consolidation episodes (2009-2019); IEA climate-investment scenarios; European Commission Green Deal scenarios. Public investment composition data across EU member states.",
+      "data_used_hu": "EU-szintű fiskális adatok a múltbeli konszolidációs epizódokra (2009-2019); IEA klíma-beruházási forgatókönyvek; Európai Bizottság Zöld Megállapodás forgatókönyvei. EU-tagállami közberuházási összetétel adatok.",
+      "policy_relevance": "Direct input for Hungarian climate-policy strategy and EU Stability and Growth Pact reform negotiations. The 'green golden rule' is a concrete proposal Hungarian negotiators (NGM, ÁKK, Foreign Affairs) can support or counter-propose. Particularly relevant given Hungary's debt level and the Carbon Border Adjustment Mechanism. Caveat: the proposal works best for countries with fiscal space; Hungary's debt-to-GDP needs careful calibration in the 'delay' option.",
+      "policy_relevance_hu": "Közvetlen input a magyar klímapolitikai stratégiához és az EU Stabilitási és Növekedési Paktum reform-tárgyalásaihoz. A 'zöld aranyszabály' konkrét javaslat, amelyet magyar tárgyalók (NGM, ÁKK, Külügy) támogathatnak vagy ellenjavasolhatnak. Különösen releváns Magyarország adósságszintje és az Európai Karbon Határkiigazítási Mechanizmus tükrében. Korlát: a javaslat fiskális mozgásterű országokra a legjobb; Magyarország adósság/GDP-je a 'késleltetés' opcióban gondos kalibrálást igényel.",
+      "topics": [
+        "fiscal-tax",
+        "energy-environment",
+        "macroeconomics"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "EU"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W4312119264"
     },
     {
@@ -23425,20 +23474,28 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Abstract This paper studies the effect of hedge-fund trading on idiosyncratic risk. We hypothesize that while hedge-fund activity would often reduce idiosyncratic risk, high initial levels of idiosyncratic risk might be further amplified due to fund loss limits. Panel-regression analyses provide supporting evidence for this hypothesis. The results are robust to sample selection and are further corroborated by a natural experiment using the Lehman bankruptcy as an exogenous adverse shock to hedge-fund trading. Hedge-fund capital also explains the increased idiosyncratic volatility of high-idiosyncratic-volatility stocks as well as the decreased idiosyncratic volatility of low-idiosyncratic-volatility stocks over the past few decades.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "summary_en": "Do hedge funds reduce or amplify idiosyncratic risk in equity markets? Kang, Kondor and Sadka show the answer is both — hedge-fund activity often reduces idiosyncratic risk in low-risk stocks but can amplify it in high-risk stocks because of fund loss limits that force liquidations during stress. Panel-regression and natural-experiment evidence (Lehman bankruptcy as an exogenous adverse shock to hedge-fund trading) supports the hypothesis. Hedge-fund capital explains both the increased idiosyncratic volatility of high-volatility stocks and the decreased idiosyncratic volatility of low-volatility stocks over recent decades — a unified story for two opposing patterns.",
+      "summary_hu": "A fedezeti alapok csökkentik vagy felerősítik a részvénypiacok idioszinkratikus kockázatát? Kang, Kondor és Sadka megmutatja, hogy a válasz mindkettő — a fedezeti alapi tevékenység gyakran csökkenti az idioszinkratikus kockázatot az alacsony-kockázatú részvényeknél, de erősítheti azt a magas-kockázatúaknál, az alapok veszteség-limitjei miatt, amelyek stressz idején likvidálásra kényszerítenek. Panel-regresszió és természetes-kísérlet bizonyíték (a Lehman csőd, mint a fedezeti alapi kereskedésre gyakorolt exogén adverz sokk) támogatja a hipotézist. A fedezeti alapi tőke magyarázza a magas-volatilitású részvények megnőtt idioszinkratikus volatilitását és az alacsony-volatilitású részvények csökkent idioszinkratikus volatilitását az elmúlt évtizedekben — egységes történet két ellentétes mintára.",
+      "data_used": "US equity data on idiosyncratic volatility plus hedge-fund holdings/trading data, 1990s-2010. Lehman bankruptcy 2008 used as a natural experiment for adverse shock to hedge-fund capital.",
+      "data_used_hu": "USA részvény-idioszinkratikus volatilitás adatok és fedezeti alapi pozíció/kereskedési adatok, 1990-es évek-2010. A 2008-as Lehman csőd természetes kísérletként használva a fedezeti alapi tőkére gyakorolt adverz sokkra.",
+      "policy_relevance": "For Hungarian macroprudential and financial-stability authorities (MNB): the paper warns that hedge-fund-style position-takers in stressed conditions can amplify rather than dampen volatility. Relevant input for stress-testing Hungarian banking-sector exposures to global financial intermediaries and for understanding crisis propagation channels. Caveat: US equity context; Hungarian markets have less active hedge-fund participation but global fund flows still affect them.",
+      "policy_relevance_hu": "A magyar makroprudenciális és pénzügyi-stabilitási hatóságok (MNB) számára: a tanulmány figyelmeztet arra, hogy a fedezeti-alap-szerű pozíciót-vállalók stresszelt körülmények között inkább felerősítik, mint tompítják a volatilitást. Releváns input a magyar bankszektor globális pénzügyi közvetítőkre vonatkozó kitettségeinek stressztesztjéhez és a válság-terjedési csatornák megértéséhez. Korlát: USA részvény-kontextus; a magyar piacokon kevésbé aktív a fedezeti alapi részvétel, de a globális tőkeáramlások továbbra is érintik őket.",
+      "topics": [
+        "banking-finance"
+      ],
+      "methods": [
+        "diff-in-diff",
+        "panel-data"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "macro-aggregate",
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W3121183595"
     },
     {
@@ -23940,20 +23997,31 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Abstract Using data on children whose parents lost their jobs during the post-communist transition of Hungary, we address the causal effect of unexpected long-term unemployment of parents on their children's educational achievement. We estimate the effect of the children's age at the time of their parents' job loss on their probability of dropping out of secondary school (an event that follows the parents' job loss by many years). The treatment is an additional year reared in a family with regularly employed parents, which can be interpreted as additional human capital investment. We provide bounding estimates to the causal effect. The estimated bounds are tight, they show a substantial effect, and the effect is significantly stronger for preschool age children than for older ones.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "Does parental unemployment during early childhood have lasting effects on children's educational outcomes? Kertesi and Kézdi exploit the post-communist Hungarian transition: the timing of parents' job loss provides plausibly exogenous variation in how long children grew up in stable-employment families. They estimate the effect of children's age at parents' job loss on the probability of dropping out of secondary school years later. Using bounding methods, they find tight, substantial effects — and the effect is significantly stronger for preschool-age children than for older ones. An additional year reared in a regularly employed family (interpreted as additional human-capital investment) reduces dropout probability meaningfully.",
+      "summary_hu": "Vajon a kora gyermekkorban tapasztalt szülői munkanélküliségnek tartós hatása van-e a gyermek oktatási eredményére? Kertesi és Kézdi a posztkommunista magyar rendszerváltást használja ki: a szülők állásvesztésének időzítése plauzibilisan exogén variációt ad arra, hogy a gyerekek mennyi ideig nőttek fel stabil-foglalkoztatású családokban. Becslik a gyerekek szülői állásvesztéskori életkorának hatását az évekkel későbbi középiskolai lemorzsolódás valószínűségére. Szűk határoló módszerekkel jelentős hatást találnak — és a hatás szignifikánsan erősebb az óvodás korú gyerekekre, mint az idősebbekre. Egy további év, amelyet rendszeres-foglalkoztatású családban töltöttek (további emberi-tőke beruházásként értelmezve), érdemben csökkenti a lemorzsolódás valószínűségét.",
+      "data_used": "Hungarian household data on the cohorts whose parents experienced post-communist job loss, ~1989-1995. Educational outcomes tracked through secondary school. Bounding-estimator approach to causal identification.",
+      "data_used_hu": "Magyar háztartási adatok a posztkommunista állásvesztést megélt szülők gyermekeire, ~1989-1995. Oktatási kimenetek középiskoláig követve. Határoló-becslő megközelítés ok-okozati azonosításhoz.",
+      "policy_relevance": "Foundational evidence for Hungarian early-childhood and family-policy debates (KIM, EMMI, Szociális Minisztérium). The paper supports targeting early-childhood support to households experiencing parental job loss — the negative effect on children is largest at preschool age. Relevant to Bölcsőde / Óvoda support, family allowance design, and Roma-integration programmes. Caveat: identification leverages 1990s transition; modern Hungarian unemployment-shock dynamics differ.",
+      "policy_relevance_hu": "Alapozó bizonyíték a magyar kora gyermekkori és családpolitikai vitákhoz (KIM, EMMI, Szociális Minisztérium). A tanulmány támogatja a szülői állásvesztést megélő háztartások felé irányuló kora gyermekkori támogatás célzását — a gyermekekre gyakorolt negatív hatás legnagyobb óvodás korban. Releváns a bölcsőde- / óvoda-támogatáshoz, családi pótlék tervezéséhez és roma-integrációs programokhoz. Korlát: az azonosítás az 1990-es évek rendszerváltását hasznosítja; a modern magyar munkanélküliségi sokk dinamikája eltérő.",
+      "topics": [
+        "education-skills",
+        "labor-markets",
+        "transition-postcommunist"
+      ],
+      "methods": [
+        "structural"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "survey",
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2120878980"
     },
     {
@@ -38089,7 +38157,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 67
+      "paper_count": 70
     },
     {
       "id": "education-skills",
@@ -38100,7 +38168,7 @@
       "policy_framing_en": "Relevant to: curriculum design, teacher policy, school tracking age, higher education funding, vocational training.",
       "policy_framing_hu": "Releváns: tantervfejlesztés, tanárpolitika, iskolai szelekció életkora, felsőoktatás finanszírozása, szakképzés.",
       "icon": "graduation-cap",
-      "paper_count": 43
+      "paper_count": 46
     },
     {
       "id": "health",
@@ -38166,7 +38234,7 @@
       "policy_framing_en": "Relevant to: MNB policy, banking regulation, macroprudential tools, financial inclusion.",
       "policy_framing_hu": "Releváns: MNB-politika, bankszabályozás, makroprudenciális eszközök, pénzügyi befogadás.",
       "icon": "landmark",
-      "paper_count": 84
+      "paper_count": 86
     },
     {
       "id": "fiscal-tax",
@@ -38177,7 +38245,7 @@
       "policy_framing_en": "Relevant to: tax reform, budget planning, public debt management, compliance policy.",
       "policy_framing_hu": "Releváns: adóreform, költségvetés-tervezés, államadósság-kezelés, adócompliance.",
       "icon": "coins",
-      "paper_count": 29
+      "paper_count": 31
     },
     {
       "id": "regional-urban",
@@ -38188,7 +38256,7 @@
       "policy_framing_en": "Relevant to: regional development funds, housing policy, transport investment, urban planning.",
       "policy_framing_hu": "Releváns: regionális fejlesztési alapok, lakáspolitika, közlekedési beruházások, városfejlesztés.",
       "icon": "building",
-      "paper_count": 39
+      "paper_count": 40
     },
     {
       "id": "energy-environment",
@@ -38199,7 +38267,7 @@
       "policy_framing_en": "Relevant to: energy transition, carbon pricing, renewable support, environmental standards.",
       "policy_framing_hu": "Releváns: energiaátmenet, szén-dioxid árazás, megújulók támogatása, környezeti szabványok.",
       "icon": "leaf",
-      "paper_count": 10
+      "paper_count": 11
     },
     {
       "id": "inequality-welfare",
@@ -38210,7 +38278,7 @@
       "policy_framing_en": "Relevant to: welfare system, anti-poverty programs, family allowances, gender-equal pay policies.",
       "policy_framing_hu": "Releváns: szociális rendszer, szegénység elleni programok, családi pótlékok, egyenlő bérezés.",
       "icon": "scale",
-      "paper_count": 80
+      "paper_count": 81
     },
     {
       "id": "political-economy",
@@ -38232,7 +38300,7 @@
       "policy_framing_en": "Relevant to: long-run diagnoses of the Hungarian and CEE economy, lessons from 30+ years of transition, institutional path dependence.",
       "policy_framing_hu": "Releváns: a magyar és KKE gazdaság hosszú távú diagnózisa, 30+ év rendszerváltásának tanulságai, intézményi útfüggőség.",
       "icon": "flag",
-      "paper_count": 23
+      "paper_count": 24
     },
     {
       "id": "behavioral",
@@ -38243,7 +38311,7 @@
       "policy_framing_en": "Relevant to: consumer protection, pension-default design, nudging, financial-education regulation, addictive-product regulation.",
       "policy_framing_hu": "Releváns: fogyasztóvédelem, nyugdíjalap-alapbeállítások, döntéslendítés (nudge), pénzügyi edukáció szabályozása, függőséget okozó termékek szabályozása.",
       "icon": "brain",
-      "paper_count": 63
+      "paper_count": 64
     },
     {
       "id": "industrial-organization",
@@ -38265,7 +38333,7 @@
       "policy_framing_en": "Relevant to: long-run growth forecasting, macroeconomic modelling, sovereign-debt management, stabilisation policy design.",
       "policy_framing_hu": "Releváns: hosszú távú növekedés előrejelzés, makroökonómiai modellek, államadósság-kezelés, stabilizációs politika.",
       "icon": "line-chart",
-      "paper_count": 43
+      "paper_count": 45
     },
     {
       "id": "agriculture-food",

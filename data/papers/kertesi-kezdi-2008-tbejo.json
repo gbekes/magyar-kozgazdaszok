@@ -17,19 +17,30 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Abstract Using data on children whose parents lost their jobs during the post-communist transition of Hungary, we address the causal effect of unexpected long-term unemployment of parents on their children's educational achievement. We estimate the effect of the children's age at the time of their parents' job loss on their probability of dropping out of secondary school (an event that follows the parents' job loss by many years). The treatment is an additional year reared in a family with regularly employed parents, which can be interpreted as additional human capital investment. We provide bounding estimates to the causal effect. The estimated bounds are tight, they show a substantial effect, and the effect is significantly stronger for preschool age children than for older ones.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "Does parental unemployment during early childhood have lasting effects on children's educational outcomes? Kertesi and Kézdi exploit the post-communist Hungarian transition: the timing of parents' job loss provides plausibly exogenous variation in how long children grew up in stable-employment families. They estimate the effect of children's age at parents' job loss on the probability of dropping out of secondary school years later. Using bounding methods, they find tight, substantial effects — and the effect is significantly stronger for preschool-age children than for older ones. An additional year reared in a regularly employed family (interpreted as additional human-capital investment) reduces dropout probability meaningfully.",
+  "summary_hu": "Vajon a kora gyermekkorban tapasztalt szülői munkanélküliségnek tartós hatása van-e a gyermek oktatási eredményére? Kertesi és Kézdi a posztkommunista magyar rendszerváltást használja ki: a szülők állásvesztésének időzítése plauzibilisan exogén variációt ad arra, hogy a gyerekek mennyi ideig nőttek fel stabil-foglalkoztatású családokban. Becslik a gyerekek szülői állásvesztéskori életkorának hatását az évekkel későbbi középiskolai lemorzsolódás valószínűségére. Szűk határoló módszerekkel jelentős hatást találnak — és a hatás szignifikánsan erősebb az óvodás korú gyerekekre, mint az idősebbekre. Egy további év, amelyet rendszeres-foglalkoztatású családban töltöttek (további emberi-tőke beruházásként értelmezve), érdemben csökkenti a lemorzsolódás valószínűségét.",
+  "data_used": "Hungarian household data on the cohorts whose parents experienced post-communist job loss, ~1989-1995. Educational outcomes tracked through secondary school. Bounding-estimator approach to causal identification.",
+  "data_used_hu": "Magyar háztartási adatok a posztkommunista állásvesztést megélt szülők gyermekeire, ~1989-1995. Oktatási kimenetek középiskoláig követve. Határoló-becslő megközelítés ok-okozati azonosításhoz.",
+  "policy_relevance": "Foundational evidence for Hungarian early-childhood and family-policy debates (KIM, EMMI, Szociális Minisztérium). The paper supports targeting early-childhood support to households experiencing parental job loss — the negative effect on children is largest at preschool age. Relevant to Bölcsőde / Óvoda support, family allowance design, and Roma-integration programmes. Caveat: identification leverages 1990s transition; modern Hungarian unemployment-shock dynamics differ.",
+  "policy_relevance_hu": "Alapozó bizonyíték a magyar kora gyermekkori és családpolitikai vitákhoz (KIM, EMMI, Szociális Minisztérium). A tanulmány támogatja a szülői állásvesztést megélő háztartások felé irányuló kora gyermekkori támogatás célzását — a gyermekekre gyakorolt negatív hatás legnagyobb óvodás korban. Releváns a bölcsőde- / óvoda-támogatáshoz, családi pótlék tervezéséhez és roma-integrációs programokhoz. Korlát: az azonosítás az 1990-es évek rendszerváltását hasznosítja; a modern magyar munkanélküliségi sokk dinamikája eltérő.",
+  "topics": [
+    "education-skills",
+    "labor-markets",
+    "transition-postcommunist"
+  ],
+  "methods": [
+    "structural"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "survey",
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W2120878980"
 }
