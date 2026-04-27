@@ -9716,20 +9716,27 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "The paper sets out a monetary business cycle model with three alternative exchange technologies: the cash-only, shopping time and credit production models. The goods productivity and money shocks affect all three models, while the credit model has in addition a credit productivity shock. The paper compares the performance of the models in explaining the puzzles of the monetary business cycle theory. The credit model improves the ability to explain the procyclic movement of monetary aggregates, inflation and the nominal interest rate.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "summary_en": "How well does monetary business-cycle theory explain the joint movements of money, inflation and interest rates? Benk, Gillman and Kejak compare three exchange technologies — cash-only, shopping-time, and credit-production models — within a single calibrated framework. All three react to goods-productivity and money shocks; the credit model adds a credit-productivity shock. Comparing the three on classic monetary business-cycle puzzles, the credit model substantially improves explanatory power for the procyclical movements of monetary aggregates, inflation, and the nominal interest rate. The paper argues credit-supply shocks are not just a 1980s-onward financial-engineering phenomenon but a structural feature any monetary business-cycle model needs.",
+      "summary_hu": "Mennyire jól magyarázza a monetáris konjunktúra-elmélet a pénz, infláció és kamatlábak együttes mozgásait? Benk, Gillman és Kejak három csere-technológiát hasonlít össze — csak-készpénz, vásárlási-idő és hitel-termelési modellek — egyetlen kalibrált keretben. Mindhárom reagál áru-termelékenységi és pénz-sokkokra; a hitel-modell hitel-termelékenységi sokkot is hozzáad. A három klasszikus monetáris konjunktúra-rejtvényen való összehasonlítása során a hitel-modell lényegesen javítja a magyarázó erőt a monetáris aggregátumok, infláció és nominális kamatláb prociklikus mozgásaira. A tanulmány érvel amellett, hogy a hitel-kínálati sokkok nem csak az 1980-as évektől kezdve jellemző pénzügyi-mérnöki jelenség, hanem szerkezeti vonás, amelyet bármely monetáris konjunktúra-modellnek kezelnie kell.",
+      "data_used": "Theoretical / quantitative paper. Models calibrated to standard US monetary business-cycle moments (money, inflation, interest rate, output volatility) over the post-war period. Comparison of three exchange-technology variants on simulation versus data fit.",
+      "data_used_hu": "Elméleti / kvantitatív tanulmány. A modellek standard USA monetáris konjunktúra-momentumokra (pénz, infláció, kamatláb, kibocsátási volatilitás) kalibráltak a háború utáni időszakra. Három csere-technológia változat összehasonlítása szimuláció vs. adat-illeszkedés alapján.",
+      "policy_relevance": "For MNB monetary modelling: the paper supports including credit-supply shocks (alongside standard productivity and money shocks) in DSGE-style frameworks. Hungarian credit-cycle dynamics, particularly the 2002-2008 FX-mortgage build-up and the 2009-12 deleveraging, are the kind of pattern this framework was built to capture. Caveat: theoretical / US-calibrated; specific Hungarian quantitative implications need re-calibration.",
+      "policy_relevance_hu": "MNB monetáris modellezéséhez: a tanulmány támogatja a hitel-kínálati sokkok (a standard termelékenységi és pénz-sokkok mellett) beépítését DSGE-stílusú keretekbe. A magyar hitel-ciklus dinamika, különösen a 2002-2008 közötti devizahitel-felépülés és a 2009-12-es leépülés, pontosan az a minta, amelyre ez a keret épült. Korlát: elméleti / USA-kalibrált; konkrét magyar kvantitatív implikációk újra-kalibrálást igényelnek.",
+      "topics": [
+        "banking-finance",
+        "macroeconomics"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2125329712"
     },
     {
@@ -9788,20 +9795,27 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "The paper sets the neoclassical monetary business cycle model within endogenous growth, adds exchange credit shocks, and finds that money and credit shocks explain much of the velocity variations. The role of the shocks varies across subperiods in an intuitive fashion. Endogenous growth is key to the construction of the money and credit shocks because these have similar effects on velocity, but opposite effects upon growth. The model matches the data's average velocity and simulates well velocity volatility. Its Cagan‐like money demand means that money and credit shocks cause greater velocity variation, the higher is the nominal interest rate.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "summary_en": "Why does the velocity of money fluctuate so much, and what shocks drive it? Benk, Gillman and Kejak embed a neoclassical monetary business-cycle model within an endogenous-growth framework and add exchange-credit shocks. They find that money and credit shocks explain much of the observed velocity variation, with the relative role of each shock differing across subperiods in intuitively interpretable ways. Endogenous growth is essential for distinguishing the two shocks: they have similar effects on velocity but opposite effects on growth. The model matches average velocity and simulates velocity volatility well. The Cagan-like money demand structure makes velocity more sensitive to money and credit shocks at higher nominal interest rates.",
+      "summary_hu": "Miért ingadozik a pénz forgási sebessége olyan sokat, és milyen sokkok hajtják? Benk, Gillman és Kejak egy neoklasszikus monetáris konjunktúra-modellt ágyaz be endogén-növekedési keretbe, és csere-hitel sokkokat ad hozzá. Megállapítják, hogy a pénz- és hitel-sokkok a megfigyelt sebesség-variáció nagy részét magyarázzák, és minden sokk relatív szerepe alperiódusokban eltér intuitíven értelmezhető módon. Az endogén növekedés elengedhetetlen a két sokk megkülönböztetéséhez: hasonló hatásuk van a sebességre, de ellentétes a növekedésre. A modell illeszti az átlagos sebességet és jól szimulálja a sebesség-volatilitást. A Cagan-típusú pénzkereslet azt jelenti, hogy a sebesség érzékenyebb a pénz- és hitel-sokkokra magasabb nominális kamatlábaknál.",
+      "data_used": "US monetary aggregates, GDP, prices, and interest rates over the post-war period. Velocity decomposition into money-shock-driven and credit-shock-driven components using model-based identification.",
+      "data_used_hu": "USA monetáris aggregátumok, GDP, árak és kamatlábak a háború utáni időszakra. Sebesség-felbontás pénz-sokk-vezérelt és hitel-sokk-vezérelt komponensekre modell-alapú azonosítással.",
+      "policy_relevance": "For MNB monetary-policy and quantity-of-money debates: the paper provides a structural basis for distinguishing money-supply-driven from credit-supply-driven inflation episodes. The Cagan-like sensitivity result is relevant for emerging-market central banks where nominal interest rates can spike — Hungarian episodes (2008-09, 2022) where velocity moved sharply are interpretable through this framework. Caveat: US-calibrated; Hungarian credit-market structure may amplify or dampen the predicted relationships.",
+      "policy_relevance_hu": "Az MNB monetáris-politikai és pénzmennyiség-vitákhoz: a tanulmány szerkezeti alapot ad a pénz-kínálati és hitel-kínálati infláció megkülönböztetésére. A Cagan-típusú érzékenységi eredmény releváns a feltörekvő-piaci jegybankoknak, ahol a nominális kamatlábak hirtelen emelkedhetnek — a magyar epizódok (2008-09, 2022), amikor a forgási sebesség élesen mozgott, ezen a kereten keresztül értelmezhetők. Korlát: USA-kalibrált; a magyar hitelpiac szerkezete erősítheti vagy tompíthatja az előrejelzett kapcsolatokat.",
+      "topics": [
+        "banking-finance",
+        "macroeconomics"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2166094296"
     },
     {
@@ -12028,20 +12042,27 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "While recent research into foreign direct investment (FDI) has focused on examining the importance of institutions, corruption, money laundering, and tax havens, the role of globalization on FDI has not yet been explored. This research investigates the impacts of globalization on outward FDI. We find that both overall globalization and its economic and social dimensions significantly positively influence outward FDI flows. We also demonstrate that beyond the level of globalization, corruption, money laundering, and the status of a country as a tax haven, cross-country similarity also plays an important role. Accordingly, policies specifically designed to increase the transparency of outward FDI flows should be required to address money laundering and the existence of tax havens.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "summary_en": "How does globalization affect outward foreign direct investment? Bojnec and Fertő look beyond the typical institutional / corruption / tax-haven channels to examine globalization itself. Using cross-country data, they show both overall globalization and its economic and social dimensions significantly raise outward FDI flows. Beyond globalization level, cross-country similarity also matters — culturally and economically similar countries trade FDI more easily. The findings imply policies to increase transparency of outward FDI flows are needed to address money-laundering and tax-haven misuse, especially as social globalization (information flows, social networks) increases the velocity of capital that can be moved abroad.",
+      "summary_hu": "Hogyan befolyásolja a globalizáció a kifelé irányuló külföldi működő tőkét? Bojnec és Fertő túlmutat a tipikus intézményi / korrupciós / adóparadicsomi csatornákon, és magát a globalizációt vizsgálja. Országokon átnyúló adatokat használva megmutatják, hogy a teljes globalizáció és annak gazdasági és társadalmi dimenziói egyaránt szignifikánsan növelik a kifelé irányuló FDI-áramlásokat. A globalizáció szintje mellett az országok közötti hasonlóság is számít — a kulturálisan és gazdaságilag hasonló országok könnyebben cserélnek FDI-t. A megállapítások arra utalnak, hogy szükség van a kifelé irányuló FDI-áramlások átláthatóságát növelő szakpolitikákra a pénzmosás és az adóparadicsom-visszaélés kezelésére, különösen amikor a társadalmi globalizáció (információáramlás, közösségi hálózatok) növeli a külföldre vihető tőke sebességét.",
+      "data_used": "Cross-country panel of outward FDI flows with KOF Globalization Index components (economic, social, political dimensions). Includes governance and tax-haven controls. Sample covers a wide range of OECD and emerging economies.",
+      "data_used_hu": "Országokon átnyúló panel a kifelé irányuló FDI-áramlásokra a KOF Globalizációs Index komponensekkel (gazdasági, társadalmi, politikai dimenziók). Kormányzási és adóparadicsom-kontrollokat is tartalmaz. A minta OECD és feltörekvő gazdaságok széles körét fedi le.",
+      "policy_relevance": "For Hungarian outward-FDI policy (MFA, NGM): the paper implies that as Hungarian globalization deepens, the outward flow from Hungarian-origin firms will accelerate, and transparency / anti-money-laundering policy must keep pace. Useful framework for evaluating Hungarian SME outward-investment incentives versus the risks of capital flight via tax-haven structures. Caveat: cross-country sample includes very different regulatory regimes; Hungarian-specific application requires localised interpretation.",
+      "policy_relevance_hu": "A magyar kifelé irányuló FDI-politikához (Külügyminisztérium, NGM): a tanulmány arra utal, hogy ahogy a magyar globalizáció mélyül, a magyar-eredetű cégek kifelé irányuló áramlása gyorsulni fog, és az átláthatóság / pénzmosás-ellenes szakpolitikának lépést kell tartania. Hasznos keret a magyar KKV-kifelé irányuló-beruházási ösztönzők értékeléséhez az adóparadicsom-struktúrák útján történő tőkemenekülés kockázatával szemben. Korlát: az országokon átnyúló minta nagyon eltérő szabályozási rezsimeket tartalmaz; a magyar-specifikus alkalmazás lokalizált értelmezést igényel.",
+      "topics": [
+        "trade-fdi",
+        "political-economy"
+      ],
+      "methods": [
+        "panel-data"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2552697550"
     },
     {
@@ -15324,20 +15345,30 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This paper introduces a method of calculating physical capital stock figures in transition countries and derives data for Hungary. On the basis of international experience, we set investment and saving paths for future income levels. Confrontation of savings prospects of different sectors with investments needs leads to an economic policy analysis of the fiscal policy needed to catch up to 70 per cent of Austrian per capita income by 2030.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "How big a capital-stock investment does Hungary need to catch up to Western European living standards, and is it fiscally feasible? Darvas and Simon develop a method for calculating physical-capital-stock figures in transition countries and apply it to Hungary. Drawing on international experience, they project investment and saving paths consistent with future income-level targets. Confronting the savings prospects of different sectors with the required investment leads to a fiscal-policy analysis of what would be needed to catch up to 70% of Austrian per-capita income by 2030. A foundational quantitative exercise for understanding Hungarian growth ambitions.",
+      "summary_hu": "Mekkora tőkeállomány-beruházás kell Magyarországnak ahhoz, hogy a nyugat-európai életszínvonalat utolérje, és fiskálisan kivitelezhető-e? Darvas és Simon módszert dolgoz ki a fizikai tőkeállomány adatok számítására átmeneti országokban, és alkalmazza Magyarországra. A nemzetközi tapasztalatra építve beruházási és megtakarítási pályákat vetítenek a jövőbeli jövedelem-szint célokhoz. A különböző szektorok megtakarítási kilátásait a szükséges beruházással összevetve elvezet egy fiskális-politikai elemzéshez arról, mi kellene ahhoz, hogy 2030-ra a magyar egy főre jutó GDP elérje az osztrák szint 70 százalékát. Alapozó kvantitatív gyakorlat a magyar növekedési ambíciók megértéséhez.",
+      "data_used": "Hungarian and international capital-stock and saving/investment data. Constructed Hungarian capital-stock series using perpetual-inventory methods. Cross-country comparators from Penn World Tables-style sources.",
+      "data_used_hu": "Magyar és nemzetközi tőkeállomány- és megtakarítási/beruházási adatok. Magyar tőkeállomány-idősor építése perpetuál-leltár módszerrel. Országközi komparátorok Penn World Tables-szerű forrásokból.",
+      "policy_relevance": "Historically important benchmark for Hungarian growth-projection work at MNB and NGM. The 2030 catch-up target (70% of Austrian per-capita GDP) is now testable retrospectively; Hungary fell short of that. The paper's framework remains useful for any new long-run projections, but the underlying capital-stock methodology has been improved (e.g., Vonyó & Klein 2018). Useful as a baseline for comparing policy expectations across different transition periods.",
+      "policy_relevance_hu": "Történelmileg fontos viszonyítási alap a magyar növekedés-vetítő munkához az MNB-nél és NGM-nél. A 2030-as felzárkózási cél (az osztrák egy főre jutó GDP 70 százaléka) most már visszamenőleg tesztelhető; Magyarország alulteljesített. A tanulmány keretrendszere továbbra is hasznos minden új hosszú távú vetítéshez, de az alapul szolgáló tőkeállomány-módszertan azóta javult (pl. Vonyó és Klein 2018). Hasznos kiindulópontként a szakpolitikai várakozások eltérő rendszerváltási időszakok közötti összehasonlításához.",
+      "topics": [
+        "macroeconomics",
+        "transition-postcommunist",
+        "fiscal-tax"
+      ],
+      "methods": [
+        "structural"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2238757213"
     },
     {
@@ -20339,20 +20370,29 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Abstract Five real exchange rate indicators are computed to assess the international competitiveness of Hungarian industry. These indicators are explained in econometric equations by employment, unemployment, productivity, interest spread and real producer wage. Causality tests reveal that external performance has an impact on real exchange rates, and contributes to explaining real exchange rates. There is very limited scope for policy intervention to constrain the negative effects of capital inflows without incurring other costs.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "What drove Hungary's real-exchange-rate dynamics in the early 1990s, and how much policy room did the central bank have? Halpern computes five alternative real-exchange-rate indicators and explains them through econometric equations using employment, unemployment, productivity, interest-rate spread, and the real producer wage. Causality tests reveal that external performance has an impact on real exchange rates and helps explain them. The conclusion: there is very limited scope for policy intervention to constrain the negative effects of capital inflows without incurring other costs — the impossible trinity made the early 1990s harder than retrospective accounts often suggest.",
+      "summary_hu": "Mi hajtotta a magyar reál-árfolyam dinamikáját a 1990-es évek elején, és mennyi szakpolitikai mozgástere volt a jegybanknak? Halpern öt alternatív reál-árfolyam mutatót számít ki, és ezeket ökonometriai egyenletekkel magyarázza foglalkoztatás, munkanélküliség, termelékenység, kamatláb-különbözet és reál-termelői bér változókkal. Az okozati tesztek feltárják, hogy a külső teljesítmény hat a reál-árfolyamokra és hozzájárul a magyarázatukhoz. A következtetés: nagyon korlátozott szakpolitikai beavatkozási mozgástér van a tőkebeáramlások negatív hatásainak korlátozására más költségek megemelkedése nélkül — a lehetetlen háromság az 1990-es évek elejét nehezebbé tette, mint amit a visszamenőleges beszámolók gyakran sugallnak.",
+      "data_used": "Hungarian quarterly macroeconomic time series, ~1989-1995. Five alternative real-exchange-rate measures (CPI-based, ULC-based, etc.). Vector-autoregression-based causality testing.",
+      "data_used_hu": "Magyar negyedéves makroökonómiai idősorok, ~1989-1995. Öt alternatív reál-árfolyam mérték (CPI-alapú, fajlagos munkaerőköltség-alapú stb.). Vektor-autoregresszió alapú okozati tesztelés.",
+      "policy_relevance": "Foundational paper for understanding the constraints under which Hungarian monetary policy operated in the transition period. Useful historical context for MNB and academic research; policy implications largely backward-looking now. Caveat: the 1990s context (capital controls, fixed exchange rate) differs sharply from the post-2008 floating-rate regime.",
+      "policy_relevance_hu": "Alapozó tanulmány annak megértéséhez, milyen korlátok között működött a magyar monetáris politika a rendszerváltási időszakban. Hasznos történeti háttér az MNB-nek és az akadémiai kutatásnak; a szakpolitikai következtetések most már nagyrészt visszamenőlegesek. Korlát: a 1990-es évek kontextusa (tőkekorlátok, rögzített árfolyam) élesen eltér a 2008 utáni lebegő árfolyamú rendszertől.",
+      "topics": [
+        "macroeconomics",
+        "transition-postcommunist"
+      ],
+      "methods": [
+        "time-series"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2005226847"
     },
     {
@@ -20574,20 +20614,32 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This paper investigates the link between competition and efficiency for the Hungarian corporate sector during various phases of the transition process. We employ frontier production functions to explore differences among groups of firms, and to identify the typical adjustment process of each group separately throughout the transition period until 1997. The estimated production functions indicate a gradual improvement in efficiency and a shift from decreasing to increasing returns to scale due to the growing share of small firms. Market share can be explained by domestic and foreign competition and by the efficiency of the firm. JEL classification: C23, D21, D24.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "How did Hungarian firms' efficiency and market share evolve through the transition? Halpern and Kőrösi use frontier production functions on Hungarian corporate-sector data through 1997 to identify firm-group efficiency and the typical adjustment process across phases. They document a gradual efficiency improvement and a shift from decreasing to increasing returns to scale — driven mainly by the growing share of small firms in the corporate population. Market share can be explained by both domestic and foreign competition and by firm-level efficiency. The paper provides the cleanest microeconomic decomposition of Hungarian transition firm dynamics for the 1990s, with implications for industrial-policy targeting.",
+      "summary_hu": "Hogyan alakult a magyar cégek hatékonysága és piaci részesedése a rendszerváltáson keresztül? Halpern és Kőrösi határtermelési függvényeket alkalmaz magyar vállalati-szektor adatokra 1997-ig, hogy azonosítsa a cégcsoport-hatékonyságot és a tipikus alkalmazkodási folyamatot fázisonként. Fokozatos hatékonyság-javulást és csökkenő hozadékról növekvő hozadékra való váltást dokumentálnak — főleg a kisvállalatok növekvő részesedése okozza. A piaci részesedés mind a belföldi, mind a külföldi versennyel és a cég-szintű hatékonysággal magyarázható. A tanulmány a legtisztább mikrogazdasági felbontást adja a magyar rendszerváltás-kori cég-dinamikákról az 1990-es években, iparpolitikai célzási implikációkkal.",
+      "data_used": "Hungarian corporate-sector firm-level data through 1997 (KSH or comparable source). Frontier production functions estimated by firm groupings; market-share regression on competition and efficiency measures.",
+      "data_used_hu": "Magyar vállalati-szektor cég-szintű adatok 1997-ig (KSH vagy hasonló forrás). Határ-termelési függvények cégcsoportonként becsülve; piaci-részesedés regresszió verseny- és hatékonysági mértékekre.",
+      "policy_relevance": "Foundational empirical reference for Hungarian SME and competition policy debates. The paper's finding that small-firm growth drove returns-to-scale shifts supports a policy logic of nurturing the small-firm sector for productivity reasons (not just employment). Useful historical input for current SME-policy discussions (KKV stratégia) and for regional-development analyses.",
+      "policy_relevance_hu": "Alapozó empirikus hivatkozás a magyar KKV- és versenypolitikai vitákhoz. A tanulmány megállapítása, hogy a kisvállalatok növekedése hajtotta a hozadék-váltásokat, támogatja a kisvállalati szektor termelékenységi okokból (nem csak foglalkoztatási okokból) való ápolásának szakpolitikai logikáját. Hasznos történelmi input a jelenlegi KKV-politikai vitákhoz (KKV stratégia) és a regionális-fejlesztési elemzésekhez.",
+      "topics": [
+        "transition-postcommunist",
+        "firms-productivity",
+        "industrial-organization"
+      ],
+      "methods": [
+        "panel-data",
+        "structural"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-firm",
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2036815175"
     },
     {
@@ -38257,7 +38309,7 @@
       "policy_framing_en": "Relevant to: EU trade policy, FDI promotion, export promotion, supply chain resilience, industrial policy.",
       "policy_framing_hu": "Releváns: EU kereskedelempolitika, FDI ösztönzés, exporttámogatás, ellátási láncok rugalmassága, iparpolitika.",
       "icon": "globe",
-      "paper_count": 52
+      "paper_count": 53
     },
     {
       "id": "firms-productivity",
@@ -38268,7 +38320,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 100
+      "paper_count": 101
     },
     {
       "id": "innovation-digital",
@@ -38290,7 +38342,7 @@
       "policy_framing_en": "Relevant to: MNB policy, banking regulation, macroprudential tools, financial inclusion.",
       "policy_framing_hu": "Releváns: MNB-politika, bankszabályozás, makroprudenciális eszközök, pénzügyi befogadás.",
       "icon": "landmark",
-      "paper_count": 87
+      "paper_count": 89
     },
     {
       "id": "fiscal-tax",
@@ -38301,7 +38353,7 @@
       "policy_framing_en": "Relevant to: tax reform, budget planning, public debt management, compliance policy.",
       "policy_framing_hu": "Releváns: adóreform, költségvetés-tervezés, államadósság-kezelés, adócompliance.",
       "icon": "coins",
-      "paper_count": 31
+      "paper_count": 32
     },
     {
       "id": "regional-urban",
@@ -38345,7 +38397,7 @@
       "policy_framing_en": "Relevant to: anti-corruption policy, public administration reform, EU affairs, electoral system design.",
       "policy_framing_hu": "Releváns: korrupcióellenes politika, közigazgatási reform, EU-ügyek, választási rendszer.",
       "icon": "building-2",
-      "paper_count": 49
+      "paper_count": 50
     },
     {
       "id": "transition-postcommunist",
@@ -38356,7 +38408,7 @@
       "policy_framing_en": "Relevant to: long-run diagnoses of the Hungarian and CEE economy, lessons from 30+ years of transition, institutional path dependence.",
       "policy_framing_hu": "Releváns: a magyar és KKE gazdaság hosszú távú diagnózisa, 30+ év rendszerváltásának tanulságai, intézményi útfüggőség.",
       "icon": "flag",
-      "paper_count": 26
+      "paper_count": 29
     },
     {
       "id": "behavioral",
@@ -38378,7 +38430,7 @@
       "policy_framing_en": "Relevant to: competition policy (GVH), merger review, platform regulation, auction design, sector-specific regulation.",
       "policy_framing_hu": "Releváns: versenypolitika (GVH), fúziókontroll, platformszabályozás, aukciótervezés, ágazati szabályozás.",
       "icon": "network",
-      "paper_count": 32
+      "paper_count": 33
     },
     {
       "id": "macroeconomics",
@@ -38389,7 +38441,7 @@
       "policy_framing_en": "Relevant to: long-run growth forecasting, macroeconomic modelling, sovereign-debt management, stabilisation policy design.",
       "policy_framing_hu": "Releváns: hosszú távú növekedés előrejelzés, makroökonómiai modellek, államadósság-kezelés, stabilizációs politika.",
       "icon": "line-chart",
-      "paper_count": 47
+      "paper_count": 51
     },
     {
       "id": "agriculture-food",

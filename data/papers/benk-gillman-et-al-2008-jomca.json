@@ -18,19 +18,26 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "The paper sets the neoclassical monetary business cycle model within endogenous growth, adds exchange credit shocks, and finds that money and credit shocks explain much of the velocity variations. The role of the shocks varies across subperiods in an intuitive fashion. Endogenous growth is key to the construction of the money and credit shocks because these have similar effects on velocity, but opposite effects upon growth. The model matches the data's average velocity and simulates well velocity volatility. Its Cagan‐like money demand means that money and credit shocks cause greater velocity variation, the higher is the nominal interest rate.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "Why does the velocity of money fluctuate so much, and what shocks drive it? Benk, Gillman and Kejak embed a neoclassical monetary business-cycle model within an endogenous-growth framework and add exchange-credit shocks. They find that money and credit shocks explain much of the observed velocity variation, with the relative role of each shock differing across subperiods in intuitively interpretable ways. Endogenous growth is essential for distinguishing the two shocks: they have similar effects on velocity but opposite effects on growth. The model matches average velocity and simulates velocity volatility well. The Cagan-like money demand structure makes velocity more sensitive to money and credit shocks at higher nominal interest rates.",
+  "summary_hu": "Miért ingadozik a pénz forgási sebessége olyan sokat, és milyen sokkok hajtják? Benk, Gillman és Kejak egy neoklasszikus monetáris konjunktúra-modellt ágyaz be endogén-növekedési keretbe, és csere-hitel sokkokat ad hozzá. Megállapítják, hogy a pénz- és hitel-sokkok a megfigyelt sebesség-variáció nagy részét magyarázzák, és minden sokk relatív szerepe alperiódusokban eltér intuitíven értelmezhető módon. Az endogén növekedés elengedhetetlen a két sokk megkülönböztetéséhez: hasonló hatásuk van a sebességre, de ellentétes a növekedésre. A modell illeszti az átlagos sebességet és jól szimulálja a sebesség-volatilitást. A Cagan-típusú pénzkereslet azt jelenti, hogy a sebesség érzékenyebb a pénz- és hitel-sokkokra magasabb nominális kamatlábaknál.",
+  "data_used": "US monetary aggregates, GDP, prices, and interest rates over the post-war period. Velocity decomposition into money-shock-driven and credit-shock-driven components using model-based identification.",
+  "data_used_hu": "USA monetáris aggregátumok, GDP, árak és kamatlábak a háború utáni időszakra. Sebesség-felbontás pénz-sokk-vezérelt és hitel-sokk-vezérelt komponensekre modell-alapú azonosítással.",
+  "policy_relevance": "For MNB monetary-policy and quantity-of-money debates: the paper provides a structural basis for distinguishing money-supply-driven from credit-supply-driven inflation episodes. The Cagan-like sensitivity result is relevant for emerging-market central banks where nominal interest rates can spike — Hungarian episodes (2008-09, 2022) where velocity moved sharply are interpretable through this framework. Caveat: US-calibrated; Hungarian credit-market structure may amplify or dampen the predicted relationships.",
+  "policy_relevance_hu": "Az MNB monetáris-politikai és pénzmennyiség-vitákhoz: a tanulmány szerkezeti alapot ad a pénz-kínálati és hitel-kínálati infláció megkülönböztetésére. A Cagan-típusú érzékenységi eredmény releváns a feltörekvő-piaci jegybankoknak, ahol a nominális kamatlábak hirtelen emelkedhetnek — a magyar epizódok (2008-09, 2022), amikor a forgási sebesség élesen mozgott, ezen a kereten keresztül értelmezhetők. Korlát: USA-kalibrált; a magyar hitelpiac szerkezete erősítheti vagy tompíthatja az előrejelzett kapcsolatokat.",
+  "topics": [
+    "banking-finance",
+    "macroeconomics"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W2166094296"
 }

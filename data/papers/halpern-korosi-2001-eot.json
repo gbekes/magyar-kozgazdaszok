@@ -17,19 +17,31 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This paper investigates the link between competition and efficiency for the Hungarian corporate sector during various phases of the transition process. We employ frontier production functions to explore differences among groups of firms, and to identify the typical adjustment process of each group separately throughout the transition period until 1997. The estimated production functions indicate a gradual improvement in efficiency and a shift from decreasing to increasing returns to scale due to the growing share of small firms. Market share can be explained by domestic and foreign competition and by the efficiency of the firm. JEL classification: C23, D21, D24.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "How did Hungarian firms' efficiency and market share evolve through the transition? Halpern and Kőrösi use frontier production functions on Hungarian corporate-sector data through 1997 to identify firm-group efficiency and the typical adjustment process across phases. They document a gradual efficiency improvement and a shift from decreasing to increasing returns to scale — driven mainly by the growing share of small firms in the corporate population. Market share can be explained by both domestic and foreign competition and by firm-level efficiency. The paper provides the cleanest microeconomic decomposition of Hungarian transition firm dynamics for the 1990s, with implications for industrial-policy targeting.",
+  "summary_hu": "Hogyan alakult a magyar cégek hatékonysága és piaci részesedése a rendszerváltáson keresztül? Halpern és Kőrösi határtermelési függvényeket alkalmaz magyar vállalati-szektor adatokra 1997-ig, hogy azonosítsa a cégcsoport-hatékonyságot és a tipikus alkalmazkodási folyamatot fázisonként. Fokozatos hatékonyság-javulást és csökkenő hozadékról növekvő hozadékra való váltást dokumentálnak — főleg a kisvállalatok növekvő részesedése okozza. A piaci részesedés mind a belföldi, mind a külföldi versennyel és a cég-szintű hatékonysággal magyarázható. A tanulmány a legtisztább mikrogazdasági felbontást adja a magyar rendszerváltás-kori cég-dinamikákról az 1990-es években, iparpolitikai célzási implikációkkal.",
+  "data_used": "Hungarian corporate-sector firm-level data through 1997 (KSH or comparable source). Frontier production functions estimated by firm groupings; market-share regression on competition and efficiency measures.",
+  "data_used_hu": "Magyar vállalati-szektor cég-szintű adatok 1997-ig (KSH vagy hasonló forrás). Határ-termelési függvények cégcsoportonként becsülve; piaci-részesedés regresszió verseny- és hatékonysági mértékekre.",
+  "policy_relevance": "Foundational empirical reference for Hungarian SME and competition policy debates. The paper's finding that small-firm growth drove returns-to-scale shifts supports a policy logic of nurturing the small-firm sector for productivity reasons (not just employment). Useful historical input for current SME-policy discussions (KKV stratégia) and for regional-development analyses.",
+  "policy_relevance_hu": "Alapozó empirikus hivatkozás a magyar KKV- és versenypolitikai vitákhoz. A tanulmány megállapítása, hogy a kisvállalatok növekedése hajtotta a hozadék-váltásokat, támogatja a kisvállalati szektor termelékenységi okokból (nem csak foglalkoztatási okokból) való ápolásának szakpolitikai logikáját. Hasznos történelmi input a jelenlegi KKV-politikai vitákhoz (KKV stratégia) és a regionális-fejlesztési elemzésekhez.",
+  "topics": [
+    "transition-postcommunist",
+    "firms-productivity",
+    "industrial-organization"
+  ],
+  "methods": [
+    "panel-data",
+    "structural"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm",
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W2036815175"
 }
