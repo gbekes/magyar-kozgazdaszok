@@ -17,19 +17,23 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We study the problem of identifying a forecaster’s loss function from observations on forecasts, realizations, and the forecaster’s information set. Essentially different loss functions can lead to the same forecasts in all situations, though within the class of all continuous loss functions, this is strongly nongeneric. With the small set of exceptional cases ruled out, generic nonparametric preference recovery is theoretically possible, but identification depends critically on the amount of variation in the conditional distributions of the process being forecast. There exist processes with sufficient variability to guarantee identification, and much of this variation is also necessary for a process to have universal identifying power. We also briefly address the case in which the econometrician does not fully observe the conditional distributions used by the forecaster, and in this context we provide a practically useful set identification result for loss functions used in forecasting binary variables.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "Can we identify a forecaster's loss function from observed forecasts and outcomes? Lieli and Stinchcombe study the inverse problem of preference recovery from forecasting behaviour. Some 'essentially different' loss functions yield identical forecasts in all situations, but within the class of all continuous loss functions this is strongly nongeneric — the exceptional cases are not generic. With those ruled out, generic nonparametric preference recovery is theoretically possible. Identification depends critically on the amount of variation in the conditional distributions of the process being forecast. They also handle the case where the econometrician doesn't fully observe the forecaster's information set, providing a practically useful set-identification result for binary-outcome forecasting.",
+  "summary_hu": "Azonosíthatjuk-e egy előrejelző veszteségfüggvényét megfigyelt előrejelzésekből és kimenetekből? Lieli és Stinchcombe a preferencia-helyreállítás inverz problémáját vizsgálják az előrejelzési viselkedésből. Egyes 'lényegileg eltérő' veszteségfüggvények azonos előrejelzéseket adnak minden helyzetben, de az összes folytonos veszteségfüggvény osztályán belül ez erősen nem-generikus — a kivételes esetek nem generikusak. Ezeket kizárva a generikus nem-parametrikus preferencia-helyreállítás elméletileg lehetséges. Az azonosítás kritikusan függ az előrejelzendő folyamat feltételes eloszlásainak variációjának mennyiségétől. Az ökonometrikus által nem teljesen megfigyelt előrejelzői információs halmaz esetét is kezelik, gyakorlatilag hasznos halmaz-azonosítási eredményt adva bináris-kimenetű előrejelzésre.",
+  "data_used": "Theoretical paper; no empirical data. Identification analysis of nonparametric loss-function recovery from forecasting behaviour.",
+  "data_used_hu": "Elméleti tanulmány; empirikus adatok nélkül. A nem-parametrikus veszteségfüggvény-helyreállítás azonosítási elemzése előrejelzési viselkedésből.",
+  "policy_relevance": "Useful for analysing the implicit objectives of forecasting institutions — does the MNB's inflation forecast pattern reveal an asymmetric loss function (penalising under-forecasting more than over-forecasting)? The paper provides theoretical conditions for such identification. Relevant for academic-policy work evaluating forecaster behaviour.",
+  "policy_relevance_hu": "Hasznos az előrejelző intézmények implicit céljainak elemzéséhez — vajon az MNB inflációs előrejelzési mintája aszimmetrikus veszteségfüggvényt mutat (az alulbecslést jobban büntetve, mint a felülbecslést)? A tanulmány elméleti feltételeket ad ilyen azonosításhoz. Releváns az akadémiai-szakpolitikai munkához az előrejelzői viselkedés értékelésére.",
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W1967908399"
 }

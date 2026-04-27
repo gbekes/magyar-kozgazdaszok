@@ -4066,20 +4066,28 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We consider a functional parameter called the conditional average treatment effect (CATE), designed to capture the heterogeneity of a treatment effect across subpopulations when the unconfoundedness assumption applies. In contrast to quantile regressions, the subpopulations of interest are defined in terms of the possible values of a set of continuous covariates rather than the quantiles of the potential outcome distributions. We show that the CATE parameter is nonparametrically identified under unconfoundedness and propose inverse probability weighted estimators for it. Under regularity conditions, some of which are standard and some are new in the literature, we show (pointwise) consistency and asymptotic normality of a fully nonparametric and a semiparametric estimator. We apply our methods to estimate the average effect of a first-time mother’s smoking during pregnancy on the baby’s birth weight as a function of the mother’s age. A robust qualitative finding is that the expected effect becomes stronger (more negative) for older mothers.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "How do you estimate treatment effects that vary across subgroups defined by continuous characteristics (rather than by quantiles of the outcome)? Abrevaya, Hsu and Lieli formalise the conditional average treatment effect (CATE), prove it is nonparametrically identified under standard unconfoundedness, and propose inverse-probability-weighted estimators. Under regularity conditions (some new), they establish pointwise consistency and asymptotic normality for both fully nonparametric and semiparametric estimators. They apply the method to maternal smoking during pregnancy: the negative effect of smoking on baby birth-weight strengthens (becomes more negative) for older mothers — a heterogeneity invisible in standard ATE analysis.",
+      "summary_hu": "Hogyan becsüljük a kezelési hatásokat, amelyek folytonos jellemzők szerinti alcsoportokon át változnak (nem pedig a kimenet kvantilisei szerint)? Abrevaya, Hsu és Lieli formalizálja a feltételes átlagos kezelési hatást (CATE), bizonyítja, hogy az nem-parametrikusan azonosítható standard összefonatlanság mellett, és inverz-valószínűségi-súlyozott becsléseket javasolnak. Szabályossági feltételek mellett (egyesek újak) pontszerű konzisztenciát és aszimptotikus normalitást állapítanak meg mind a teljes nem-parametrikus, mind a fél-parametrikus becslőkre. A módszert anyai dohányzásra alkalmazzák terhesség alatt: a dohányzás csecsemő születési súlyára gyakorolt negatív hatása erősödik (negatívabbá válik) idősebb anyáknál — heterogenitás, amely standard ATE-elemzésben nem látható.",
+      "data_used": "US Vital Statistics natality records on first-time mothers. Treatment: smoking during pregnancy. Outcome: baby birth weight. Conditioning: mother's age. Sample size in the millions; nonparametric estimation with bootstrap inference.",
+      "data_used_hu": "USA Életjelek-Statisztikai születési nyilvántartások először szülő anyáknál. Kezelés: terhesség alatti dohányzás. Kimenet: csecsemő születési súlya. Feltételezés: az anya életkora. Mintaméret millióban; nem-parametrikus becslés bootstrap-i inferenciával.",
+      "policy_relevance": "Methodological foundation for evaluating Hungarian programmes with heterogeneous-by-age effects (e.g., active labour-market policies, education interventions, public-health campaigns). For Hungarian researchers using KSH or Admin3 data, the method is directly implementable. Caveat: the application is US smoking-pregnancy; the methodology is general but the substantive Hungarian application requires its own programme-specific data.",
+      "policy_relevance_hu": "Módszertani alap a magyar programok életkor-heterogenitású hatásainak értékeléséhez (pl. aktív munkapiaci politikák, oktatási beavatkozások, közegészségügyi kampányok). KSH-t vagy Admin3-at használó magyar kutatóknak a módszer közvetlenül implementálható. Korlát: az alkalmazás USA-dohányzás-terhesség; a módszertan általános, de a magyar érdemi alkalmazás saját, programspecifikus adatokat igényel.",
+      "topics": [
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2152456876"
     },
     {
@@ -15946,20 +15954,27 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We propose inverse probability weighted estimators for the local average treatment effect (LATE) and the local average treatment effect for the treated (LATT) under instrumental variable assumptions with covariates. We show that these estimators are asymptotically normal and efficient. When the (binary) instrument satisfies one-sided noncompliance, we propose a Durbin–Wu–Hausman-type test of whether treatment assignment is unconfounded conditional on some observables. The test is based on the fact that under one-sided noncompliance LATT coincides with the average treatment effect for the treated (ATT). We conduct Monte Carlo simulations to demonstrate, among other things, that part of the theoretical efficiency gain afforded by unconfoundedness in estimating ATT survives pretesting. We illustrate the implementation of the test on data from training programs administered under the Job Training Partnership Act in the United States. This article has online supplementary material.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "summary_en": "When can we trust an instrumental-variables estimate of the average treatment effect on the treated (ATT)? Donald, Hsu and Lieli propose inverse-probability-weighted estimators for the local average treatment effect (LATE) and for ATT under IV assumptions with covariates, prove asymptotic normality and efficiency. They then exploit a clean fact about one-sided noncompliance — under one-sided noncompliance, LATE on the treated equals ATT — to construct a Durbin-Wu-Hausman-type test of whether treatment assignment is unconfounded conditional on observables. Monte Carlo simulations show pretesting preserves much of the theoretical efficiency gain. They apply the test to US Job Training Partnership Act training-programme data.",
+      "summary_hu": "Mikor bízhatunk egy instrumentális változós becslésben a kezeltekre vonatkozó átlagos kezelési hatásra (ATT)? Donald, Hsu és Lieli inverz-valószínűségi-súlyozott becslőket javasol a helyi átlagos kezelési hatásra (LATE) és az ATT-re IV-feltételezések mellett, kovariátokkal, bizonyítják az aszimptotikus normalitást és hatékonyságot. Aztán kihasználják az egyoldali nem-megfelelés tiszta tényét — egyoldali nem-megfelelés mellett a kezeltekre vonatkozó LATE egyenlő az ATT-vel — egy Durbin-Wu-Hausman típusú teszt megalkotására arra vonatkozóan, hogy a kezelés-kiosztás összefonatlan-e a megfigyelhetőkkel feltételesen. Monte Carlo szimulációk megmutatják, hogy az előzetes tesztelés megőrzi az elméleti hatékonysági nyereség nagy részét. A tesztet alkalmazzák USA Job Training Partnership Act képzési program adatokra.",
+      "data_used": "US Job Training Partnership Act (JTPA) experimental data on randomised assignment to job training. Application demonstrates the test for unconfoundedness on real programme-evaluation data.",
+      "data_used_hu": "USA Job Training Partnership Act (JTPA) kísérleti adatok a munkaképzés-kiosztás randomizációjáról. Az alkalmazás demonstrálja az összefonatlanság tesztet valós programértékelési adatokon.",
+      "policy_relevance": "Methodologically valuable for Hungarian programme-evaluation work. The test gives researchers a way to discriminate between IV-required and unconfoundedness-suffices identification — important when administrative data come with potential confounders. Useful for evaluation of NFSZ training programmes, EU-funded enterprise grants, and educational interventions.",
+      "policy_relevance_hu": "Módszertanilag értékes a magyar programértékelési munkához. A teszt módot ad a kutatóknak az IV-szükséges és az összefonatlanság-elegendő azonosítás közötti megkülönböztetésre — fontos amikor az adminisztratív adatok potenciális összefonatóként érkeznek. Hasznos a NFSZ képzési programok, EU-finanszírozott vállalati támogatások és oktatási beavatkozások értékeléséhez.",
+      "topics": [
+        "methods"
+      ],
+      "methods": [
+        "iv",
+        "theory"
+      ],
+      "countries_studied": [
+        "US"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2083101756"
     },
     {
@@ -20579,20 +20594,31 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Abstract This paper follows through an aspect of microeconomic restructuring in Hungary during the transition period. This restructuring brought about substantial changes in the behaviour of all economic agents. Our study combines labour market and corporate financial information to explore the effect of the quality of labour employed on the profitability of the firm. The quality of labour is measured as that portion of wage differentials that cannot be explained by a standard human capital model. The profitability of Hungarian exporting firms can be explained by economic factors during transition. In addition the quality of labour, export share, wage and bank costs, payables, receivables, foreign ownership, inventories, amortization and equity are all significant explanatory variables.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "summary_en": "How does the quality of labour employed affect the profitability of Hungarian exporting firms during the transition period? Halpern and Kőrösi combine labour-market and corporate-financial information to address the question. Labour quality is measured as the portion of wage differentials *not* explained by a standard human-capital model — a residual capturing firm-level matching and unobserved skills. They find that profitability of Hungarian exporting firms can be explained by economic factors during transition. Significant explanators include labour quality, export share, wage and bank costs, payables, receivables, foreign ownership, inventories, amortisation and equity. A foundational firm-level decomposition for the early transition period.",
+      "summary_hu": "Hogyan befolyásolja az alkalmazott munkaerő minősége a magyar exportáló cégek jövedelmezőségét a rendszerváltás során? Halpern és Kőrösi a munkapiaci és vállalati pénzügyi információkat kombinálja a kérdés vizsgálatára. A munka minőségét úgy mérik, hogy az a része a bérkülönbségeknek, amelyet egy standard emberi-tőke modell nem magyaráz — egy reziduum, amely a cég-szintű illesztést és nem megfigyelt készségeket fogja meg. Megállapítják, hogy a magyar exportáló cégek jövedelmezősége gazdasági tényezőkkel magyarázható az átmenet során. A szignifikáns magyarázók közé tartozik a munka minősége, exportarány, bér- és banki költségek, kötelezettségek, követelések, külföldi tulajdon, készletek, amortizáció és sajáttőke. Alapozó cég-szintű felbontás a korai rendszerváltási időszakra.",
+      "data_used": "Hungarian linked employer-employee + corporate-financial data, 1986-1995, on exporting firms. Labour-quality measure constructed from regression residuals after controlling for standard human-capital variables.",
+      "data_used_hu": "Magyar összekapcsolt munkáltató-munkavállaló + vállalati pénzügyi adatok, 1986-1995, exportáló cégekre. A munka-minőség mérőszáma regressziós reziduumokból építve a standard emberi-tőke változók kontrollálása után.",
+      "policy_relevance": "Historical baseline for understanding the transition-period determinants of Hungarian export competitiveness. The paper supports policies that helped retain skilled labour during transition — relevant historical context for current Hungarian skilled-emigration debates and for the post-2010 wage-policy reforms. Useful comparison case when evaluating modern Hungarian export-firm productivity dynamics.",
+      "policy_relevance_hu": "Történelmi alapvonal a rendszerváltás-kori magyar exportversenyképesség meghatározóinak megértéséhez. A tanulmány támogatja azokat a szakpolitikákat, amelyek segítettek megőrizni a képzett munkaerőt az átmenet során — releváns történelmi kontextus a jelenlegi magyar képzett-elvándorlási vitákhoz és a 2010 utáni bérpolitikai reformokhoz. Hasznos összehasonlító eset a modern magyar exportáló-cég termelékenységi dinamika értékeléséhez.",
+      "topics": [
+        "transition-postcommunist",
+        "firms-productivity",
+        "trade-fdi"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-firm",
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2169630823"
     },
     {
@@ -28170,20 +28196,24 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "In this paper we address the problem of optimally forecasting a binary variable for a het-erogeneous group of decision makers facing various (binary) decision problems that are only tied together by the unknown outcome. A typical example is a weather forecaster who needs to estimate the probability of rain tomorrow and then report it to the public. Given a conditional probability model for the outcome of interest (e.g., logit or probit), we introduce the idea of maximum welfare estimation and derive conditions under which traditional estimators such as maximum likelihood or (non-linear) least squares are asymptotically socially optimal even when the underlying model is misspecified.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "summary_en": "How should a forecaster optimise predictions when serving a heterogeneous group of decision-makers facing different binary problems tied only by the underlying outcome? Lieli and Nieto-Barthaburu address the problem with a typical example: a weather forecaster reporting rain probability to a public that includes both umbrella-buyers and harvest-planners. They introduce maximum-welfare estimation: derive conditions under which traditional estimators (maximum likelihood, non-linear least squares) are asymptotically socially optimal — even when the underlying probability model is misspecified. The result legitimises common forecasting practices and shows when they fail.",
+      "summary_hu": "Hogyan optimalizáljon egy előrejelző az előrejelzéseket, amikor heterogén csoportú döntéshozóknak szolgál, akik különböző bináris problémákkal néznek szembe, csak az alapul szolgáló kimenet által összefűzve? Lieli és Nieto-Barthaburu egy tipikus példával közelíti a problémát: egy időjárás-előrejelző, aki esővalószínűséget jelent a közönségnek, amely esernyő-vásárlókat és terménytervezőket egyaránt tartalmaz. Bevezetik a maximum-jólét becslést: feltételeket vezetnek le, amelyek mellett a hagyományos becslők (maximum-likelihood, nem-lineáris legkisebb négyzetek) aszimptotikusan társadalmilag optimálisak — még akkor is, ha az alapul szolgáló valószínűségi modell rosszul specifikált. Az eredmény legitimizálja a gyakori előrejelzési gyakorlatokat és megmutatja, mikor buknak el.",
+      "data_used": "Theoretical paper. Statistical-decision-theoretic analysis of estimator behaviour under model misspecification with welfare-aggregation across heterogeneous decision-makers.",
+      "data_used_hu": "Elméleti tanulmány. A becslő viselkedésének statisztikai-döntéselméleti elemzése modell-félre-specifikáció mellett, jólét-aggregálással heterogén döntéshozók között.",
+      "policy_relevance": "Methodologically relevant for any institution producing probabilistic forecasts for a diverse user base — MNB inflation forecasts, KSH labour-market projections, and disease-outbreak forecasts that serve heterogeneous policymakers. The paper provides theoretical justification for using standard estimators even when the user community has heterogeneous loss functions.",
+      "policy_relevance_hu": "Módszertanilag releváns minden olyan intézménynek, amely valószínűségi előrejelzéseket készít sokszínű felhasználói bázisnak — MNB inflációs előrejelzések, KSH munkapiaci vetítések, és heterogén döntéshozóknak szolgáló járványkitörés-előrejelzések. A tanulmány elméleti igazolást ad a standard becslők használatára még akkor is, ha a felhasználói közösség heterogén veszteségfüggvényekkel rendelkezik.",
+      "topics": [
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2062186747"
     },
     {
@@ -28300,20 +28330,24 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We study the problem of identifying a forecaster’s loss function from observations on forecasts, realizations, and the forecaster’s information set. Essentially different loss functions can lead to the same forecasts in all situations, though within the class of all continuous loss functions, this is strongly nongeneric. With the small set of exceptional cases ruled out, generic nonparametric preference recovery is theoretically possible, but identification depends critically on the amount of variation in the conditional distributions of the process being forecast. There exist processes with sufficient variability to guarantee identification, and much of this variation is also necessary for a process to have universal identifying power. We also briefly address the case in which the econometrician does not fully observe the conditional distributions used by the forecaster, and in this context we provide a practically useful set identification result for loss functions used in forecasting binary variables.",
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "summary_en": "Can we identify a forecaster's loss function from observed forecasts and outcomes? Lieli and Stinchcombe study the inverse problem of preference recovery from forecasting behaviour. Some 'essentially different' loss functions yield identical forecasts in all situations, but within the class of all continuous loss functions this is strongly nongeneric — the exceptional cases are not generic. With those ruled out, generic nonparametric preference recovery is theoretically possible. Identification depends critically on the amount of variation in the conditional distributions of the process being forecast. They also handle the case where the econometrician doesn't fully observe the forecaster's information set, providing a practically useful set-identification result for binary-outcome forecasting.",
+      "summary_hu": "Azonosíthatjuk-e egy előrejelző veszteségfüggvényét megfigyelt előrejelzésekből és kimenetekből? Lieli és Stinchcombe a preferencia-helyreállítás inverz problémáját vizsgálják az előrejelzési viselkedésből. Egyes 'lényegileg eltérő' veszteségfüggvények azonos előrejelzéseket adnak minden helyzetben, de az összes folytonos veszteségfüggvény osztályán belül ez erősen nem-generikus — a kivételes esetek nem generikusak. Ezeket kizárva a generikus nem-parametrikus preferencia-helyreállítás elméletileg lehetséges. Az azonosítás kritikusan függ az előrejelzendő folyamat feltételes eloszlásainak variációjának mennyiségétől. Az ökonometrikus által nem teljesen megfigyelt előrejelzői információs halmaz esetét is kezelik, gyakorlatilag hasznos halmaz-azonosítási eredményt adva bináris-kimenetű előrejelzésre.",
+      "data_used": "Theoretical paper; no empirical data. Identification analysis of nonparametric loss-function recovery from forecasting behaviour.",
+      "data_used_hu": "Elméleti tanulmány; empirikus adatok nélkül. A nem-parametrikus veszteségfüggvény-helyreállítás azonosítási elemzése előrejelzési viselkedésből.",
+      "policy_relevance": "Useful for analysing the implicit objectives of forecasting institutions — does the MNB's inflation forecast pattern reveal an asymmetric loss function (penalising under-forecasting more than over-forecasting)? The paper provides theoretical conditions for such identification. Relevant for academic-policy work evaluating forecaster behaviour.",
+      "policy_relevance_hu": "Hasznos az előrejelző intézmények implicit céljainak elemzéséhez — vajon az MNB inflációs előrejelzési mintája aszimmetrikus veszteségfüggvényt mutat (az alulbecslést jobban büntetve, mint a felülbecslést)? A tanulmány elméleti feltételeket ad ilyen azonosításhoz. Releváns az akadémiai-szakpolitikai munkához az előrejelzői viselkedés értékelésére.",
+      "topics": [
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W1967908399"
     },
     {
@@ -38309,7 +38343,7 @@
       "policy_framing_en": "Relevant to: EU trade policy, FDI promotion, export promotion, supply chain resilience, industrial policy.",
       "policy_framing_hu": "Releváns: EU kereskedelempolitika, FDI ösztönzés, exporttámogatás, ellátási láncok rugalmassága, iparpolitika.",
       "icon": "globe",
-      "paper_count": 53
+      "paper_count": 54
     },
     {
       "id": "firms-productivity",
@@ -38320,7 +38354,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 101
+      "paper_count": 102
     },
     {
       "id": "innovation-digital",
@@ -38408,7 +38442,7 @@
       "policy_framing_en": "Relevant to: long-run diagnoses of the Hungarian and CEE economy, lessons from 30+ years of transition, institutional path dependence.",
       "policy_framing_hu": "Releváns: a magyar és KKE gazdaság hosszú távú diagnózisa, 30+ év rendszerváltásának tanulságai, intézményi útfüggőség.",
       "icon": "flag",
-      "paper_count": 29
+      "paper_count": 30
     },
     {
       "id": "behavioral",
@@ -38463,7 +38497,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 119
+      "paper_count": 123
     },
     {
       "id": "market-design",

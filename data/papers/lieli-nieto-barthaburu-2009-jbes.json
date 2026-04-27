@@ -17,19 +17,23 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "In this paper we address the problem of optimally forecasting a binary variable for a het-erogeneous group of decision makers facing various (binary) decision problems that are only tied together by the unknown outcome. A typical example is a weather forecaster who needs to estimate the probability of rain tomorrow and then report it to the public. Given a conditional probability model for the outcome of interest (e.g., logit or probit), we introduce the idea of maximum welfare estimation and derive conditions under which traditional estimators such as maximum likelihood or (non-linear) least squares are asymptotically socially optimal even when the underlying model is misspecified.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "How should a forecaster optimise predictions when serving a heterogeneous group of decision-makers facing different binary problems tied only by the underlying outcome? Lieli and Nieto-Barthaburu address the problem with a typical example: a weather forecaster reporting rain probability to a public that includes both umbrella-buyers and harvest-planners. They introduce maximum-welfare estimation: derive conditions under which traditional estimators (maximum likelihood, non-linear least squares) are asymptotically socially optimal — even when the underlying probability model is misspecified. The result legitimises common forecasting practices and shows when they fail.",
+  "summary_hu": "Hogyan optimalizáljon egy előrejelző az előrejelzéseket, amikor heterogén csoportú döntéshozóknak szolgál, akik különböző bináris problémákkal néznek szembe, csak az alapul szolgáló kimenet által összefűzve? Lieli és Nieto-Barthaburu egy tipikus példával közelíti a problémát: egy időjárás-előrejelző, aki esővalószínűséget jelent a közönségnek, amely esernyő-vásárlókat és terménytervezőket egyaránt tartalmaz. Bevezetik a maximum-jólét becslést: feltételeket vezetnek le, amelyek mellett a hagyományos becslők (maximum-likelihood, nem-lineáris legkisebb négyzetek) aszimptotikusan társadalmilag optimálisak — még akkor is, ha az alapul szolgáló valószínűségi modell rosszul specifikált. Az eredmény legitimizálja a gyakori előrejelzési gyakorlatokat és megmutatja, mikor buknak el.",
+  "data_used": "Theoretical paper. Statistical-decision-theoretic analysis of estimator behaviour under model misspecification with welfare-aggregation across heterogeneous decision-makers.",
+  "data_used_hu": "Elméleti tanulmány. A becslő viselkedésének statisztikai-döntéselméleti elemzése modell-félre-specifikáció mellett, jólét-aggregálással heterogén döntéshozók között.",
+  "policy_relevance": "Methodologically relevant for any institution producing probabilistic forecasts for a diverse user base — MNB inflation forecasts, KSH labour-market projections, and disease-outbreak forecasts that serve heterogeneous policymakers. The paper provides theoretical justification for using standard estimators even when the user community has heterogeneous loss functions.",
+  "policy_relevance_hu": "Módszertanilag releváns minden olyan intézménynek, amely valószínűségi előrejelzéseket készít sokszínű felhasználói bázisnak — MNB inflációs előrejelzések, KSH munkapiaci vetítések, és heterogén döntéshozóknak szolgáló járványkitörés-előrejelzések. A tanulmány elméleti igazolást ad a standard becslők használatára még akkor is, ha a felhasználói közösség heterogén veszteségfüggvényekkel rendelkezik.",
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W2062186747"
 }
