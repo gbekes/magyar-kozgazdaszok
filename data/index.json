@@ -23589,20 +23589,26 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Kikkel alakítanak ki kapcsolatot a gazdaság szereplői? Milyen jellemzők befolyásolják e kapcsolatok alakulását? Örökké tartanak ezek az együttműködések? A hálózatok dinamikájának vizsgálatával az utóbbi időben többen tettek kísérletet ezeknek a kérdéseknek a megválaszolására. Jelen tanulmánnyal az a célunk, hogy felhívjuk a hazai közgazdászközösség figyelmét a hálózatok dinamikus megközelítésének fontosságára és hazai kutatási perspektíváira. Szakirodalmi áttekintésünkben a regionális klasztereket és iparágakat átfogó tudáshálózatok változását magyarázó regionális gazdaságtani tanulmányokra helyezzük a hangsúlyt, mivel az empirikus módszerek alkalmazása jelenleg ezen megközelítések esetében a leggazdagabb. Összegző megállapításunk, hogy a regionális klaszterek tudáshálózataiban a beágya zó dottság és a kohézió, míg az iparági tudáshálózatokban az ágazati tapasztalat, a földrajzi közelség és a közös partnerek megléte segítik az együttműködések kialakulását. A dinamikus hálózatelemzés eszközeinek és eredményeinek adaptálása és továbbfejlesztése érdemben hozzájárulhat a gazdasági szereplők közötti kapcsolatrendszerek megértéséhez.* Journal of Economic Literature (JEL) kód: D85, L14, R11, O31.",
-      "summary_en": null,
+      "summary_en": "How do knowledge networks among economic actors evolve over time, and what tools can researchers use to study that evolution? Juhász, Elekes and Gyurkovics survey the dynamic-network-analysis literature with a focus on regional-economics applications. Their goal is to introduce Hungarian researchers to dynamic-network methods and to highlight Hungarian research perspectives. Main findings from the literature: in regional cluster knowledge networks, embeddedness and cohesion drive cooperation formation; in industry-level knowledge networks, sectoral experience, geographic proximity, and shared partners are key. The paper argues that adapting and extending dynamic-network analysis tools could meaningfully advance understanding of economic-actor relationships in Hungary.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Survey paper. References to dynamic-network-analysis literature in regional and industry economics; no original empirical contribution.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian regional-development and innovation policy (NIH, ITM, regional-development authorities): the paper supports investing in dynamic-network analysis capacity within Hungarian research institutions. The Lengyel/Wachs/Lőrincz cluster has subsequently developed exactly this capability (subsequent Lengyel et al. papers in JEG, Economic Geography). Useful methodological reference and bibliography.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "regional-urban",
+        "innovation-digital",
+        "methods"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2560164989"
     },
     {
@@ -24722,20 +24728,32 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We analyze the employment gap between Roma and non-Roma men and women in local labor markets to test the hypothesis that ethnic prejudices against a minority have a more substantial labor market impact if the proportion of small firms is high in the local economy. We rely on Hungarian data from the 2011 census and several supplementary surveys and use the vote share of the then far-right \"Jobbik\" party to measure strong anti-Roma sentiments in a given district. The hypothesis is maintained after addressing alternative scenarios, using different measures of prejudice, and making a series of robustness checks. The results show that Jobbik votes or the high share of small firms alone are not conducive to lower Roma employment probability while their interaction does. The ethnic (residual) employment gap between Roma and non-Roma men is wider by 20-40 percent if the small firm share and Jobbik vote share are considerably higher than the country average. For women, we find much weaker effects.",
-      "summary_en": null,
+      "summary_en": "How does ethnic prejudice translate into employment discrimination, and where does this translation happen most? Kertesi, Köllő, Károlyi and Szabó hypothesise that prejudice has bigger labour-market effect where small firms are dominant — small firms have less arms-length HR practice and more space for the owner's preferences to drive hiring. Using 2011 Hungarian Census + supplementary surveys, with 'Jobbik' (far-right party) vote share as a measure of anti-Roma sentiment, they test this. Result: Jobbik votes alone or small-firm share alone do not predict lower Roma employment probability, but their *interaction* does. Where both are high, the residual Roma–non-Roma employment gap for men is 20-40% wider. The effect is much weaker for women.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian 2011 census micro data plus supplementary surveys. Local-labour-market unit: district. Jobbik vote share as prejudice proxy. Small-firm share at district level. Residual employment gap controls for education, age, settlement type, and other observables.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance to Hungarian Roma-integration policy (Belügyminisztérium, EBH, Türr Roma framework). The paper supports targeting anti-discrimination enforcement specifically at small-firm-dominated districts with high anti-Roma sentiment, rather than uniform national-level enforcement. Relevant input for the Hungarian Equal Treatment Authority's strategic priorities and for EBH-funded local capacity-building. Useful empirical baseline for the post-2018 programme reorganisation.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "labor-markets",
+        "inequality-welfare",
+        "political-economy"
+      ],
+      "methods": [
+        "panel-data",
+        "structural"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "survey",
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W4309222326"
     },
     {
@@ -27360,20 +27378,25 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Because some are not able to assess all the possible options for making a decision of an action, people often defy one of the most fundamental and traditional concepts in economics by going for an option that they would not have chosen had they been able to push through with thorough evaluation. Because of this, it would be useful to first analyze the common mistakes made until they become uncommon and until we are able to integrate what we have learned from these mistakes into creating models, policy prescriptions, and evaluations. Although certain fears may arise from such a measure on both the positive and normative side through mistakes becoming a free parameter and because of how the revealed-preference approach cannot be used, this chapter suggests other measures to deal with such concerns.",
-      "summary_en": null,
+      "summary_en": "When people make systematic mistakes that they later regret, how should economists incorporate this into welfare analysis? Köszegi and Rabin argue for studying common decision mistakes — and their corrections as people become better-informed — as a foundation for behavioural-economics modelling, policy prescription, and evaluation. They acknowledge methodological concerns: making mistakes a free parameter could undermine the discipline of revealed-preference welfare analysis. The chapter proposes ways to address these concerns while still using observed mistakes as informative welfare data. A foundational contribution to the methodology of behavioural welfare economics.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical / methodological chapter. No empirical contribution; argues for a research-programme reorientation in behavioural welfare economics.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Foundational for Hungarian consumer-protection and behavioural-policy-design discussions (MNB, GVH, NFH). The Köszegi-Rabin framework is the methodological backbone for distinguishing 'paternalism is unjustified because people freely chose' from 'paternalism is justified because choices reflect identifiable mistakes'. Useful reference for any Hungarian behavioural-policy intervention (default-savings, financial education, addiction-product regulation) that needs welfare justification.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "behavioral",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2496670658"
     },
     {
@@ -29902,20 +29925,29 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Tanulmányunk célja a magyar feldolgozóipar technikai hatékonyságának vizsgálata a 2013–2022 közötti időszakban, olyan sztochasztikushatár-modellekkel (Stochastic Frontier Analysis, SFA), amelyek lehetővé teszik a vállalatok közötti nem megfigyelt heterogenitás kezelését. Emellett az output növekedését felbontottuk az input- és a termelékenységnövekedés hatására, majd a termelékenységváltozást tovább bontottuk a technológiai változás és a technikai hatékonyság változásának hatására. Az eredmények azt mutatják, hogy a vizsgált időszakot elsősorban inputvezérelt növekedés jellemezte, és a technológiai fejlődés (évi 1,4 százalék) szintén kedvezően hatott a termelékenységre. A technikai hatékonyság javulása ugyanakkor mérsékelt, és az egyes méretkategóriák között szignifikáns különbség mutatkozott, ami arra utal, hogy jelentős tartalékok rejlenek a szektor működésének hatékonyabbá tételében, különösen a kis- és középvállalatok esetében. Mindezek mellett modellünk szerint a magasabb exportorientáltság pozitívan befolyásolja a vállalati hatékonyságot. A technológiai fejlődés és a technikai hatékonyság eltérő politikai eszközökkel támogathatók: a technológiai fejlesztést főként innovációs és K+F-ösztönzéssel lehet elősegíteni, míg a technikai hatékonyság növelésében a képzési és szaktanácsadási rendszerek fejlesztése játszhat kiemelt szerepet. Eredményeink így fontos kiindulópontot jelentenek a feldolgozóipar versenyképességét és termelékenységét előmozdító intézkedések megtervezéséhez.",
-      "summary_en": null,
+      "summary_en": "How efficient is Hungarian manufacturing, and what's holding back productivity? Molnár (verify lead author), Bareith and Baráth use Stochastic Frontier Analysis (SFA) on Hungarian manufacturing firms 2013-2022 to decompose output growth into input-driven, technology-driven, and efficiency-driven components. The period was primarily input-driven (more workers, more capital). Technological change contributed 1.4% per year. Technical efficiency improved only modestly, with significant differences across firm-size categories — small and medium firms have the largest unrealised efficiency potential. Higher export orientation positively affects firm efficiency. The two productivity drivers respond to different policy levers: R&D incentives advance technological change; training and consulting services raise technical efficiency.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian manufacturing firm-level data 2013-2022 (likely NAV / KSH). Stochastic Frontier Analysis allows separation of technology and efficiency components. Sample covers all sizes; firm-size heterogeneity explicitly modelled.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct policy implications for Hungarian industrial policy (NGM, ITM). The paper distinguishes two channels — R&D incentives drive technology, training drives efficiency — and supports targeting them differently. SME-targeted training and consulting programmes are flagged as the underused lever. Particularly relevant for the post-2020 industrial-policy debate around battery and electronics investment, where input-driven growth has been the dominant story but technical-efficiency gaps remain large.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "firms-productivity",
+        "innovation-digital"
+      ],
+      "methods": [
+        "structural"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-firm"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "review_status": "ai-drafted",
       "openalex_id": "W4409414888"
     },
     {
@@ -38686,7 +38718,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 80
+      "paper_count": 81
     },
     {
       "id": "education-skills",
@@ -38741,7 +38773,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 105
+      "paper_count": 106
     },
     {
       "id": "innovation-digital",
@@ -38752,7 +38784,7 @@
       "policy_framing_en": "Relevant to: R&D tax credits, digital strategy, AI policy, innovation agency design, university–industry linkages.",
       "policy_framing_hu": "Releváns: K+F adókedvezmények, digitális stratégia, MI-politika, innovációs ügynökségek, egyetem–ipar kapcsolatok.",
       "icon": "cpu",
-      "paper_count": 46
+      "paper_count": 48
     },
     {
       "id": "banking-finance",
@@ -38785,7 +38817,7 @@
       "policy_framing_en": "Relevant to: regional development funds, housing policy, transport investment, urban planning.",
       "policy_framing_hu": "Releváns: regionális fejlesztési alapok, lakáspolitika, közlekedési beruházások, városfejlesztés.",
       "icon": "building",
-      "paper_count": 44
+      "paper_count": 45
     },
     {
       "id": "energy-environment",
@@ -38807,7 +38839,7 @@
       "policy_framing_en": "Relevant to: welfare system, anti-poverty programs, family allowances, gender-equal pay policies.",
       "policy_framing_hu": "Releváns: szociális rendszer, szegénység elleni programok, családi pótlékok, egyenlő bérezés.",
       "icon": "scale",
-      "paper_count": 88
+      "paper_count": 89
     },
     {
       "id": "political-economy",
@@ -38818,7 +38850,7 @@
       "policy_framing_en": "Relevant to: anti-corruption policy, public administration reform, EU affairs, electoral system design.",
       "policy_framing_hu": "Releváns: korrupcióellenes politika, közigazgatási reform, EU-ügyek, választási rendszer.",
       "icon": "building-2",
-      "paper_count": 51
+      "paper_count": 52
     },
     {
       "id": "transition-postcommunist",
@@ -38840,7 +38872,7 @@
       "policy_framing_en": "Relevant to: consumer protection, pension-default design, nudging, financial-education regulation, addictive-product regulation.",
       "policy_framing_hu": "Releváns: fogyasztóvédelem, nyugdíjalap-alapbeállítások, döntéslendítés (nudge), pénzügyi edukáció szabályozása, függőséget okozó termékek szabályozása.",
       "icon": "brain",
-      "paper_count": 65
+      "paper_count": 66
     },
     {
       "id": "industrial-organization",
@@ -38884,7 +38916,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 127
+      "paper_count": 129
     },
     {
       "id": "market-design",

@@ -18,19 +18,28 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Tanulmányunk célja a magyar feldolgozóipar technikai hatékonyságának vizsgálata a 2013–2022 közötti időszakban, olyan sztochasztikushatár-modellekkel (Stochastic Frontier Analysis, SFA), amelyek lehetővé teszik a vállalatok közötti nem megfigyelt heterogenitás kezelését. Emellett az output növekedését felbontottuk az input- és a termelékenységnövekedés hatására, majd a termelékenységváltozást tovább bontottuk a technológiai változás és a technikai hatékonyság változásának hatására. Az eredmények azt mutatják, hogy a vizsgált időszakot elsősorban inputvezérelt növekedés jellemezte, és a technológiai fejlődés (évi 1,4 százalék) szintén kedvezően hatott a termelékenységre. A technikai hatékonyság javulása ugyanakkor mérsékelt, és az egyes méretkategóriák között szignifikáns különbség mutatkozott, ami arra utal, hogy jelentős tartalékok rejlenek a szektor működésének hatékonyabbá tételében, különösen a kis- és középvállalatok esetében. Mindezek mellett modellünk szerint a magasabb exportorientáltság pozitívan befolyásolja a vállalati hatékonyságot. A technológiai fejlődés és a technikai hatékonyság eltérő politikai eszközökkel támogathatók: a technológiai fejlesztést főként innovációs és K+F-ösztönzéssel lehet elősegíteni, míg a technikai hatékonyság növelésében a képzési és szaktanácsadási rendszerek fejlesztése játszhat kiemelt szerepet. Eredményeink így fontos kiindulópontot jelentenek a feldolgozóipar versenyképességét és termelékenységét előmozdító intézkedések megtervezéséhez.",
-  "summary_en": null,
+  "summary_en": "How efficient is Hungarian manufacturing, and what's holding back productivity? Molnár (verify lead author), Bareith and Baráth use Stochastic Frontier Analysis (SFA) on Hungarian manufacturing firms 2013-2022 to decompose output growth into input-driven, technology-driven, and efficiency-driven components. The period was primarily input-driven (more workers, more capital). Technological change contributed 1.4% per year. Technical efficiency improved only modestly, with significant differences across firm-size categories — small and medium firms have the largest unrealised efficiency potential. Higher export orientation positively affects firm efficiency. The two productivity drivers respond to different policy levers: R&D incentives advance technological change; training and consulting services raise technical efficiency.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian manufacturing firm-level data 2013-2022 (likely NAV / KSH). Stochastic Frontier Analysis allows separation of technology and efficiency components. Sample covers all sizes; firm-size heterogeneity explicitly modelled.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct policy implications for Hungarian industrial policy (NGM, ITM). The paper distinguishes two channels — R&D incentives drive technology, training drives efficiency — and supports targeting them differently. SME-targeted training and consulting programmes are flagged as the underused lever. Particularly relevant for the post-2020 industrial-policy debate around battery and electronics investment, where input-driven growth has been the dominant story but technical-efficiency gaps remain large.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "firms-productivity",
+    "innovation-digital"
+  ],
+  "methods": [
+    "structural"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-27",
-  "review_status": "metadata-fetched",
+  "review_status": "ai-drafted",
   "openalex_id": "W4409414888"
 }
