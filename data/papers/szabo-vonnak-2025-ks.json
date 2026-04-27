@@ -17,19 +17,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "In our study, we examine how the labour market status of women with young children changed during the COVID-19 pandemic. Daycare for children was interrupted several times during the pandemic, and parents had to stay at home with their children during the closures, which put a heavy burden on families, especially mothers. The focus of our study is the labour market activity and employment of mothers with children aged 6-11 at the outbreak of the COVID-19 pandemic. Based on our estimates, the probability of leaving the labour market among mothers with young children increased by 4.9 percentage points compared to the rest of society after the closure of public education institutions. The labour market situation of mothers with small children was much worse not only during the COVID pandemic, but in the longer term, even at the end of 2023, compared to a normal, pandemic-free period.",
-  "summary_en": null,
+  "summary_en": "How did the COVID-19 pandemic affect Hungarian mothers' labour-market trajectories, and were those effects temporary or persistent? Szabó-Morvai and Vonnák focus on mothers of 6-11 year olds at the outbreak of the pandemic. Daycare was interrupted multiple times during the pandemic, putting heavy burden on parents — especially mothers. Result: the probability of leaving the labour market for mothers of young children increased by 4.9 percentage points relative to the rest of society after public-education institutions closed. The labour-market disadvantage was substantial during the pandemic but, crucially, persisted into the medium term — even at the end of 2023, mothers' labour-market situation remained worse compared to a pandemic-free counterfactual.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian admin / KSH labour-market data covering the COVID-19 pandemic period and its aftermath through end-2023. Sample focuses on mothers with children aged 6-11 at pandemic onset. Difference-in-differences against the rest of society as control.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance to Hungarian family and labour-market policy (Belügyminisztérium, EMMI, NGM). The paper documents that pandemic school-closures had persistent, not just temporary, labour-market effects on mothers — implying childcare-disruption shocks have long-lasting consequences. Useful input for childcare-availability policy and for any future pandemic-preparedness planning. Particularly relevant for evaluating the cost-effectiveness of expanded summer-childcare or extended-hours óvoda/iskolai programmes.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "labor-markets",
+    "demographics-migration",
+    "health"
+  ],
+  "methods": [
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W4406143687"
 }
