@@ -26,12 +26,10 @@
   "policy_relevance_hu": "Közvetlen magyar szakpolitikai következmény. A HIPA-nak és a Gazdasági Minisztériumnak: az import-ösztönző programok profitálnak a célzásból — a termelékeny szomszédok körzetében levő cégek elérése aránytalan szorzót ad. A térbeli közelség számít, így az egy helyre telepítő fizikai infrastruktúra-beruházások (ipari parkok) a szokásos költségmegtakarító érvelésen felül is átterjedési előnyöket hoznak. Magyar adat; azonnal operatív.",
   "topics": [
     "trade-fdi",
-    "firms-productivity",
-    "innovation-digital"
+    "firms-productivity"
   ],
   "methods": [
-    "panel-data",
-    "diff-in-diff"
+    "panel-data"
   ],
   "countries_studied": [
     "HU"
@@ -41,8 +39,8 @@
   ],
   "featured": false,
   "added_at": "2026-04-20",
-  "last_reviewed_at": "2026-04-20",
-  "review_status": "ai-drafted",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "author-approved",
   "openalex_id": "W2896986820",
   "popular_links": [
     {
@@ -53,7 +51,6 @@
   ],
   "policy_instruments": [
     "import promotion",
-    "regional industrial policy",
     "ipari parkok"
   ]
 }
