@@ -66,9 +66,6 @@
       .filter(p => (p.authors || []).includes(a.id))
       .sort((x, y) => (y.date || y.year || '').localeCompare?.(x.date || x.year || '') || 0);
 
-    const qp = a.qualifying_publication;
-    const qpLine = qp ? `<p class="small muted">Qualifying publication: <em>${EFH.esc(qp.title)}</em>, ${EFH.esc(qp.journal)}, ${qp.year}.</p>` : '';
-
     const reviewBanner = a.review_status === 'needs-verification' || a.review_status === 'stub'
       ? `<div class="banner-review">Profile status: <strong>${EFH.esc(a.review_status)}</strong> — details need verification.</div>`
       : '';
@@ -101,7 +98,6 @@
           ${reviewBanner}
           ${a.bio_en ? `<p class="bio">${EFH.esc(a.bio_en)}</p>` : ''}
           ${fields ? `<div style="margin-top:0.5rem;">${fields}</div>` : ''}
-          ${qpLine}
         </div>
       </header>`;
     root.innerHTML += `
