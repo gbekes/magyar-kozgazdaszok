@@ -16,19 +16,27 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Magyarországon korábban az átlag fölötti nyugdíjaknak a nettó keresetekhez viszonyított értékét erős degresszió csökkentette, ez ma már gyakorlatilag nincs így. Ugyanakkor a személyi jövedelemadó egykor erős progresszivitása 2013-ban teljesen megszűnt, így a megállapítandó új nyugdíjak egyre arányosabbá válnak a bruttó keresetekkel, azaz a magas nyugdíjak egyre jobban elszakadnak az átlagtól. Ha feltételezzük, hogy Magyarországon a személyi jövedelemadó még sokáig nem lesz progresszív, akkor már most érdemes lenne fokozatosan visszatérni az elfelejtett degresszív nyugdíjakhoz, hogy megakadályozzuk a magas nyugdíjak elszaladását. A kérdések elemzésére egy nagyon egyszerű modellcsaládot építünk fel, és ennek segítségével próbálunk kvantitatív megoldásokat találni.* Journal of Economic Literature (JEL) kód: H55, I14, J26.",
-  "summary_en": null,
+  "summary_en": "Have Hungary's high pensions decoupled from the average — and what would it take to rein them back in? Simonovits documents that previously, Hungarian above-average pensions were sharply reduced relative to net earnings via pension degression — but this is essentially gone today. At the same time, the personal income tax's once-strong progressivity ended in 2013, so newly assessed pensions are increasingly proportional to gross earnings. Result: high pensions are pulling away from the average. If the personal income tax remains flat for the foreseeable future, gradually reintroducing the forgotten degressivity in pensions is needed to prevent runaway high pensions. Simonovits builds a simple model family to quantify how much degression is required.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical / quantitative modelling. Hungarian personal-income-tax and pension-formula reference data, 2000s-2010s. Simple pension-system models calibrated to current Hungarian rules.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance to ongoing Hungarian pension-reform debates (NGM, ONYF). The paper supports re-introducing degressivity in pension calculation as a substitute for the now-flat PIT's previously-redistributive role. Particularly relevant for the OECD 2024 reform proposals discussion (the 2025 BI paper builds on this analysis). Concrete policy-design framework for closing the high-pension widening gap.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "fiscal-tax",
+    "demographics-migration",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W2621286350"
 }

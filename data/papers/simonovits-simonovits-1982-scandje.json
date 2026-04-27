@@ -17,19 +17,24 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "In their pioneering work Honkapohja & Ito (1980) constructed a non-Walrasian macromodel with inventory dynamics. Some of their assumptions are modified in this paper, e.g. the expected demand for goods is defined by previous rather than actual demand. The modified model yields results which are both similar and dissimilar to those of Honkapohja and Ito. For example, the Keynesian unemployment equilibrium remains invariant but the corresponding stability condition becomes milder. The chaotic behavior of the unstable systems is also analyzed.",
-  "summary_en": null,
+  "summary_en": "Can naive expectations alone destabilise a non-Walrasian macroeconomy with inventory dynamics? Building on Honkapohja and Ito's 1980 framework, the Simonovitses modify the expectations specification: expected demand is set by previous demand rather than current demand. The modified model both confirms and overturns parts of the original. The Keynesian unemployment equilibrium remains invariant, but the corresponding stability condition becomes milder — easier to fall out of stability. Crucially, the unstable systems exhibit chaotic behaviour, not just simple cycles. A foundational technical paper showing that even simple expectational mis-specifications in macromodels can generate complex dynamics.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper. Non-Walrasian macroeconomic model with inventory dynamics; comparative analysis with Honkapohja-Ito (1980); numerical investigation of chaotic regimes.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Foundational reference for understanding non-equilibrium macroeconomic dynamics. Indirectly relevant to MNB monetary-policy modelling, particularly in stress-testing where inventory adjustments and naive expectations can amplify shocks. The chaotic-regime finding is a useful caution against assuming smooth model dynamics in stress conditions.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "macroeconomics",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W1523403045"
 }

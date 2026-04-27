@@ -31724,20 +31724,28 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Magyarországon korábban az átlag fölötti nyugdíjaknak a nettó keresetekhez viszonyított értékét erős degresszió csökkentette, ez ma már gyakorlatilag nincs így. Ugyanakkor a személyi jövedelemadó egykor erős progresszivitása 2013-ban teljesen megszűnt, így a megállapítandó új nyugdíjak egyre arányosabbá válnak a bruttó keresetekkel, azaz a magas nyugdíjak egyre jobban elszakadnak az átlagtól. Ha feltételezzük, hogy Magyarországon a személyi jövedelemadó még sokáig nem lesz progresszív, akkor már most érdemes lenne fokozatosan visszatérni az elfelejtett degresszív nyugdíjakhoz, hogy megakadályozzuk a magas nyugdíjak elszaladását. A kérdések elemzésére egy nagyon egyszerű modellcsaládot építünk fel, és ennek segítségével próbálunk kvantitatív megoldásokat találni.* Journal of Economic Literature (JEL) kód: H55, I14, J26.",
-      "summary_en": null,
+      "summary_en": "Have Hungary's high pensions decoupled from the average — and what would it take to rein them back in? Simonovits documents that previously, Hungarian above-average pensions were sharply reduced relative to net earnings via pension degression — but this is essentially gone today. At the same time, the personal income tax's once-strong progressivity ended in 2013, so newly assessed pensions are increasingly proportional to gross earnings. Result: high pensions are pulling away from the average. If the personal income tax remains flat for the foreseeable future, gradually reintroducing the forgotten degressivity in pensions is needed to prevent runaway high pensions. Simonovits builds a simple model family to quantify how much degression is required.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical / quantitative modelling. Hungarian personal-income-tax and pension-formula reference data, 2000s-2010s. Simple pension-system models calibrated to current Hungarian rules.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance to ongoing Hungarian pension-reform debates (NGM, ONYF). The paper supports re-introducing degressivity in pension calculation as a substitute for the now-flat PIT's previously-redistributive role. Particularly relevant for the OECD 2024 reform proposals discussion (the 2025 BI paper builds on this analysis). Concrete policy-design framework for closing the high-pension widening gap.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "fiscal-tax",
+        "demographics-migration",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2621286350"
     },
     {
@@ -31758,20 +31766,27 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "A 2016-ban elinduló reálbérrobbanás és a 2017-ben elinduló erőltetett járulékkulcs-csökkentés új megvilágításba helyezi az új nyugdíjak valorizációját és a régi nyugdíjak indexálását. Kívánatos, hogy két nagyon hasonló életpálya apró különbségek miatt ne adjon jelentősen különböző nyugdíjpályát, még ha a nettó átlagos reálkereset évről évre szeszélyesen változik is. Ennek a kívánalomnak csak a 2000-ben megszüntetett bérindexálás tesz eleget, de ez a szabály is a valorizációs arány – az új nyugdíjak helyettesítési aránya – évenkénti karbantartását igényli. Ezt a feladatot látja el a pontrendszer. Mivel adott évjáratban a várható élettartam együtt nő az életpálya-jövedelemmel, ezért minden életjáradék torz újraelosztást okoz, amit a pontrendszer még felnagyít. Tehát a nyugdíjdegressziót (vagy a progresszív személyi jövedelemadót) is újra be kell vezetni, vállalva a csökkentett munkavállalást és járulékfizetést.*&#13;\\nJournal of Economic Literature (JEL) kód: D10, H55.",
-      "summary_en": null,
+      "summary_en": "Why should Hungary replace its pension valorisation and indexation with a points-based system? Simonovits argues that the 2016 real-wage explosion and 2017 forced contribution-rate cuts cast new light on the question. The desideratum: two very similar working lives shouldn't generate substantially different pension trajectories due to small annual differences, even when net average real wages move erratically. Only the wage-indexation rule abandoned in 2000 satisfied this property — but that rule itself requires annual maintenance of the valorisation ratio. A points system performs exactly this maintenance task automatically. Plus, since life expectancy correlates with lifetime earnings, all life annuities cause distorted redistribution that a points system magnifies — meaning pension degressivity (or progressive PIT) must accompany.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper with policy framework. Hungarian pension-rule reference data for the 2000-2017 framework. Simple model demonstrating equivalence of points systems with maintained wage-indexed valorisation.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct input for ongoing Hungarian pension-reform debates. The paper's recommendation — adopt a points system with degressivity — is a coherent framework that could replace ad hoc annual valorisation/indexation choices. Useful reference for NGM, MNB, and ONYF technical analysis. The longevity-gap argument is fundamental to any future Hungarian pension reform.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "fiscal-tax",
+        "demographics-migration"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2891646193"
     },
     {
@@ -31826,20 +31841,28 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Az öregedő társadalmak nyugdíjgondjainak megoldásában az egyik leghatékonyabb eszköz az átlagos nyugdíjba vonulási kor (az úgynevezett korcentrum) emelése. A járulékkulcs emelése vagy a nyugdíj/kereset arány csökkentése politikailag nehezebb, és gazdaságilag sem vonzó. Ehhez a minimális és az általános nyugdíjkorhatár párhuzamos emelésén kívül erősíteni kell az ösztönzőket is, például a rugalmas nyugdíjba vonulási kor bevezetésével. Ebben az áttekintésben a témában több társszerzővel együtt folytatott, 17 éven át tartó kutatásaim legfontosabb eredményeit körvonalazom, amelyekből a két legizgalmasabbat emelem ki: 1. hogyan kell az eszmei számlát módosítani, ha a népesség várható élettartama szerint heterogén? 2. Hogyan teszi bumeránggá a reálbérrobbanás a Nők40-et?* Journal of Economic Literature (JEL) kód: H55.",
-      "summary_en": null,
+      "summary_en": "Should Hungary keep its rigid retirement age, or make it flexible? Simonovits surveys 17 years of his and his co-authors' research on this question. Raising the average retirement age (the 'age centre') is the most effective tool for handling ageing-society pension pressures. Raising contribution rates or cutting benefit-to-earnings ratios is politically harder and economically less attractive. Beyond raising the minimum and statutory ages in parallel, Hungary needs stronger incentives — flexible retirement age. Two highlights from his research: (1) how to modify notional-account formulas when life expectancy is heterogeneous in the population, and (2) how the 2016 real-wage explosion turned the Women40 (early-retirement) programme into a fiscal boomerang.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Survey paper synthesising 17 years of own and co-authored research. References to Hungarian pension-rule simulations and Hungarian demographic data. No new empirical contribution.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Foundational reference for Hungarian pension-reform debates. Useful synthesis for NGM, MNB, ONYF, and academic-policy bodies. The Women40-as-boomerang argument is particularly relevant for current discussions of phasing out that programme. Provides theoretical and empirical foundations for proposed parallel-raising of minimum and statutory ages plus flexible-retirement incentives.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "fiscal-tax",
+        "demographics-migration",
+        "labor-markets"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2940218684"
     },
     {
@@ -31860,20 +31883,28 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "A magyar nyugdíjrendszert jelenleg három fő középtávú feszültség jellemzi. 1. Az egymás utáni évjáratok közötti nyugdíjolló egyre jobban szétnyílik. 2. Az új évjáratok nyugdíjai a járulékplafon eltörlése s még inkább az arányos személyi jövedelemadó bevezetése miatt polarizálódnak. 3. A nyugdíjkorhatár merevsége és a Nők40 lazasága egyre inkább szembekerül egymással. Hogyan enyhíthetők a feszültségek? Ad 1. Le kell állni a szociális hozzájárulási adó (szocho) kulcsának további csökkentésével, és korrigálni kellene a korábban megállapított nyugdíjakat. Ad 2. Vissza kell vezetni a járulékalap plafonját, és a jelenleg csak nyomaiban létező degresszió hatókörét kell jelentősen tágítani. Ad 3. Vissza kell térni a méltányos 2009-es csökkentett előrehozott nyugdíjhoz, egyúttal megszabadulva a Nők40-től.* Journal of Economic Literature (JEL) kód: H11, H55",
-      "summary_en": null,
+      "summary_en": "What are the medium-term tensions in Hungary's pension system, and how can they be eased? Simonovits identifies three: (1) the gap between successive birth-year pension cohorts is widening; (2) within-cohort pension polarisation is increasing because the contribution ceiling was abolished and the personal income tax became flat; (3) the rigid retirement age and the loose Women40 are increasingly at odds. His proposed remedies: (1) stop further szocho cuts and correct previously assigned pensions; (2) restore the contribution-base ceiling and significantly broaden the (currently vestigial) degressivity scope; (3) return to the equitable 2009 reduced-early-retirement framework while phasing out Women40.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical / quantitative modelling. Hungarian pension-rule reference data. Simple cohort-projection models of pension dynamics under current and proposed rules.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct input for Hungarian pension-reform debates. The three-tensions framework is operationally useful for NGM and ONYF strategic planning. Each tension has a concrete proposed remedy. Particularly relevant for the OECD 2024 discussion and the broader pension-reform agenda. The Women40-replacement proposal is politically sensitive but technically clean.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "fiscal-tax",
+        "demographics-migration",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W3022486826"
     },
     {
@@ -31946,20 +31977,25 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "In their pioneering work Honkapohja & Ito (1980) constructed a non-Walrasian macromodel with inventory dynamics. Some of their assumptions are modified in this paper, e.g. the expected demand for goods is defined by previous rather than actual demand. The modified model yields results which are both similar and dissimilar to those of Honkapohja and Ito. For example, the Keynesian unemployment equilibrium remains invariant but the corresponding stability condition becomes milder. The chaotic behavior of the unstable systems is also analyzed.",
-      "summary_en": null,
+      "summary_en": "Can naive expectations alone destabilise a non-Walrasian macroeconomy with inventory dynamics? Building on Honkapohja and Ito's 1980 framework, the Simonovitses modify the expectations specification: expected demand is set by previous demand rather than current demand. The modified model both confirms and overturns parts of the original. The Keynesian unemployment equilibrium remains invariant, but the corresponding stability condition becomes milder — easier to fall out of stability. Crucially, the unstable systems exhibit chaotic behaviour, not just simple cycles. A foundational technical paper showing that even simple expectational mis-specifications in macromodels can generate complex dynamics.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper. Non-Walrasian macroeconomic model with inventory dynamics; comparative analysis with Honkapohja-Ito (1980); numerical investigation of chaotic regimes.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Foundational reference for understanding non-equilibrium macroeconomic dynamics. Indirectly relevant to MNB monetary-policy modelling, particularly in stress-testing where inventory adjustments and naive expectations can amplify shocks. The chaotic-regime finding is a useful caution against assuming smooth model dynamics in stress conditions.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "macroeconomics",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W1523403045"
     },
     {
@@ -32608,20 +32644,25 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Symmetric equilibria are constructed for a class of symmetric auction games. The games all have two identical bidders bidding in two simultaneous sealed-bid auctions for identical objects. Information is complete and the objects are either complements or substitutes. In both cases a continuum of mixed-strategy equilibria are identified. All these equilibria have a surprising structure: The supports of all the mixtures that generate equilibria are two one-dimensional curves, and they surround a two-dimensional set of pure best responses.",
-      "summary_en": null,
+      "summary_en": "When two bidders bid simultaneously in two separate sealed-bid auctions for identical objects, what equilibria can arise? Szentes constructs symmetric equilibria for this class of auction games. With complete information and either complementary or substitute objects, a continuum of mixed-strategy equilibria are identified. The structural finding is striking: the supports of all the mixtures generating equilibria are two one-dimensional curves, surrounded by a two-dimensional set of pure best responses. This curve-and-region structure is unusual in the auction-equilibrium literature and has implications for designing simultaneous-bidding mechanisms.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper. Game-theoretic analysis of simultaneous sealed-bid auctions with two bidders. Mathematical construction of mixed-strategy equilibria.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Indirect relevance to the Hungarian Public Procurement Authority (Közbeszerzési Hatóság) and to MEKH spectrum / energy-block auctions: simultaneous-bid designs are common in practice but their multi-equilibrium structure is rarely modelled. The paper's curve-and-region equilibrium geometry suggests the welfare ranking of simultaneous vs sequential auctions may be more delicate than commonly assumed in policy reviews.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "mechanism-design",
+        "industrial-organization"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2139204974"
     },
     {
@@ -33342,20 +33383,27 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Abstract Foreign currency (FX)‐based loans and deposits became very popular in Central and Eastern European countries (CEECs) over the 2000–2011 period. In this paper, I simultaneously examine the demand‐side (consumer‐related) and supply‐side (bank‐related) determinants of the quick spread of FX banking. I use a newly constructed dataset on FX and domestic currency loans, deposits and interest rates, covering 16 CEECs overtime. Local‐FX interest rate and market share spreads are: (1) lower in managed currency regimes; (2) strongly affected by the prevalence of FX funding, currency mismatch and FX banking restrictions, and (3) wider after economic crises.",
-      "summary_en": null,
+      "summary_en": "Why did foreign-currency banking spread so quickly across Central and Eastern Europe in 2000-2011, and what can macroprudential policy learn from it? Temesváry uses a new dataset on FX and domestic-currency loans, deposits, and interest rates across 16 CEE countries. Both demand-side (consumer) and supply-side (bank) determinants matter. Three findings: (1) local-FX interest-rate and market-share spreads are lower in managed currency regimes, (2) they are strongly affected by FX-funding prevalence, currency mismatch, and FX banking restrictions, (3) they widen after economic crises. The paper provides the cleanest decomposition to date of the FX-banking phenomenon that became Hungary's biggest macroprudential problem.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Newly constructed dataset on FX and domestic-currency loans, deposits, and interest rates for 16 CEE countries, 2000-2011. Country-level panel regressions with currency-regime, capital-flow, and crisis controls.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance to MNB macroprudential policy and to Hungarian retrospective analysis of the 2008-2014 FX-mortgage crisis. The paper's finding that FX-banking restrictions matter supports the post-2014 Hungarian regulatory framework that explicitly limited FX household lending. Useful baseline for evaluating CEE-wide macroprudential coordination via the European Systemic Risk Board.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "banking-finance",
+        "transition-postcommunist"
+      ],
+      "methods": [
+        "panel-data"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2253297060"
     },
     {
@@ -33376,20 +33424,28 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "I study the prevalence and profitability of regulatory arbitrage in U.S. banks' foreign activities. I analyze a publicly available bank‐level data set on bilateral lending flows to 75 countries over 2003–2013. U.S. banks' affiliates lend less to borrowers in host countries with stricter bank capital regulations, and are less likely to maintain affiliates in such countries. Banks substitute from (host‐regulated) affiliate toward (U.S.‐regulated) cross‐border lending in hosts with strict bank capital rules. This is particularly so for low‐capitalized banks with lower foreign ownership shares. Banks that reduce their exposure to stricter host capital rules are more profitable in foreign activities. ( JEL F3, F4, G2)",
-      "summary_en": null,
+      "summary_en": "Do US banks engage in regulatory arbitrage when lending abroad — and is it profitable? Temesváry analyses bilateral US bank lending to 75 countries over 2003-2013. Result: US bank affiliates lend less in host countries with stricter bank-capital regulations and are less likely to maintain affiliates there. Banks substitute toward US-regulated cross-border lending in those hosts. The substitution pattern is strongest for low-capitalised banks with smaller foreign-ownership shares. Banks that successfully reduce their exposure to strict host capital rules earn higher foreign profits — clean evidence that regulatory arbitrage is both real and profitable for the bank, even if welfare-distortive at the host-country level.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "US Federal Financial Institutions Examination Council bank-level data on bilateral foreign lending to 75 countries, 2003-2013. Host-country bank-capital-regulation index. Sample includes major US international banks.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For MNB macroprudential policy and EU banking-union debates: the paper provides empirical foundation for concern that strict national capital rules push lending into less-regulated channels. Hungarian banks' subsidiaries operating across EU would face similar incentives. Supports macroprudential coordination at the EU/CEE level rather than purely-national capital rules. Useful input for the Hungarian banking-supervision strategic framework.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2800649824"
     },
     {
@@ -38718,7 +38774,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 81
+      "paper_count": 82
     },
     {
       "id": "education-skills",
@@ -38751,7 +38807,7 @@
       "policy_framing_en": "Relevant to: family policy, pension system, immigration policy, retention of skilled workers.",
       "policy_framing_hu": "Releváns: családpolitika, nyugdíjrendszer, bevándorláspolitika, szakemberek megtartása.",
       "icon": "users",
-      "paper_count": 25
+      "paper_count": 29
     },
     {
       "id": "trade-fdi",
@@ -38795,7 +38851,7 @@
       "policy_framing_en": "Relevant to: MNB policy, banking regulation, macroprudential tools, financial inclusion.",
       "policy_framing_hu": "Releváns: MNB-politika, bankszabályozás, makroprudenciális eszközök, pénzügyi befogadás.",
       "icon": "landmark",
-      "paper_count": 89
+      "paper_count": 91
     },
     {
       "id": "fiscal-tax",
@@ -38806,7 +38862,7 @@
       "policy_framing_en": "Relevant to: tax reform, budget planning, public debt management, compliance policy.",
       "policy_framing_hu": "Releváns: adóreform, költségvetés-tervezés, államadósság-kezelés, adócompliance.",
       "icon": "coins",
-      "paper_count": 34
+      "paper_count": 38
     },
     {
       "id": "regional-urban",
@@ -38839,7 +38895,7 @@
       "policy_framing_en": "Relevant to: welfare system, anti-poverty programs, family allowances, gender-equal pay policies.",
       "policy_framing_hu": "Releváns: szociális rendszer, szegénység elleni programok, családi pótlékok, egyenlő bérezés.",
       "icon": "scale",
-      "paper_count": 89
+      "paper_count": 91
     },
     {
       "id": "political-economy",
@@ -38861,7 +38917,7 @@
       "policy_framing_en": "Relevant to: long-run diagnoses of the Hungarian and CEE economy, lessons from 30+ years of transition, institutional path dependence.",
       "policy_framing_hu": "Releváns: a magyar és KKE gazdaság hosszú távú diagnózisa, 30+ év rendszerváltásának tanulságai, intézményi útfüggőség.",
       "icon": "flag",
-      "paper_count": 33
+      "paper_count": 34
     },
     {
       "id": "behavioral",
@@ -38883,7 +38939,7 @@
       "policy_framing_en": "Relevant to: competition policy (GVH), merger review, platform regulation, auction design, sector-specific regulation.",
       "policy_framing_hu": "Releváns: versenypolitika (GVH), fúziókontroll, platformszabályozás, aukciótervezés, ágazati szabályozás.",
       "icon": "network",
-      "paper_count": 34
+      "paper_count": 35
     },
     {
       "id": "macroeconomics",
@@ -38894,7 +38950,7 @@
       "policy_framing_en": "Relevant to: long-run growth forecasting, macroeconomic modelling, sovereign-debt management, stabilisation policy design.",
       "policy_framing_hu": "Releváns: hosszú távú növekedés előrejelzés, makroökonómiai modellek, államadósság-kezelés, stabilizációs politika.",
       "icon": "line-chart",
-      "paper_count": 53
+      "paper_count": 54
     },
     {
       "id": "agriculture-food",
@@ -38916,7 +38972,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 129
+      "paper_count": 130
     },
     {
       "id": "market-design",
@@ -38938,7 +38994,7 @@
       "policy_framing_en": "Relevant to: regulatory design, procurement, voting reform, contract law, antitrust analysis, committee design.",
       "policy_framing_hu": "Releváns: szabályozási tervezés, közbeszerzés, választási reform, szerződésjog, versenypolitika, bizottsági tervezés.",
       "icon": "scale",
-      "paper_count": 30
+      "paper_count": 31
     }
   ],
   "journals": [
