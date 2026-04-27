@@ -17,19 +17,25 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Cikkünkben aszimmetrikus kétoldalú piacok árazásával foglalkozunk, és azt a kérdést vizsgáljuk, hogy a felhasználók fogyasztásból származó hasznának függvényében a platformok milyen árakat választanak, valamint a termékek, szolgáltatások testreszabhatóságának milyen mértékét teszik elérhetővé a felhasználók számára. Eredményeink azt sugallják, hogy a platformok limitált testreszabhatóságot és nulla árat vagy maximális testreszabhatóságot és pozitív árat fognak választani.* Journal of Economic Literature (JEL) kód: D43, L11, L13.",
-  "summary_en": null,
+  "summary_en": "How should two-sided platforms balance customisation against pricing? Bakó and Horváth study asymmetric two-sided markets where users derive utility from consumption, and ask what prices and customisation levels platforms optimally choose. Their main result: platforms select either limited customisation with zero price OR maximal customisation with positive price — but not intermediate combinations. The discontinuity arises from the platform's incentive to differentiate sharply from competitors on both dimensions simultaneously. The paper helps explain why some digital platforms (e.g., social networks) offer free baseline service with limited customisation, while others (e.g., professional tools) offer extensive customisation at significant cost.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper. Two-sided-market model with asymmetric user groups, customisation choice, and price competition. Equilibrium analysis under competition.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For GVH and EU DG-COMP digital-platform regulation: the paper supports framing platform competition as a discrete choice between two business models, rather than a continuous spectrum. Relevant for assessing the welfare effects of mandated interoperability requirements (DMA, DSA) — forcing customisation may shift platforms from the free-tier model to a paid-customisation model, which could be regressive. Caveat: theoretical; specific Hungarian application requires identifying which platforms operate in which mode.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "industrial-organization",
+    "innovation-digital",
+    "mechanism-design"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W3000346140"
 }

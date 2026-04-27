@@ -18,19 +18,27 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Tanulmányunkban a magyarországi lakóingatlanok árszintjére ható tényezőket vizsgáljuk, egyedi adásvételi adatokat felhasználva. Kutatásunk az ingatlanok elhelyezkedésének szerepére koncentrál. Az árakra ható települési jellemzőket négy tényezőcsoportba (természetföldrajzi, elérhetőségi, oktatási-egészségügyi ellátottsági és közigazgatási funkciók) sorolva igazoljuk, hogy azok az ingatlanárak magyarázatában fontosnak bizonyulnak. Emellett azt is vizsgáljuk, hogy e tényezőcsoportok hatása hogyan változik, ha a települések népességére és belterületére, illetve a lakosok átlagos jövedelmére, azaz az agglomerációs és jövedelmi hatásokra kontrollálunk modelljeinkben. Két megállapításra jutunk. Egyrészt azt találjuk, hogy mind a négy tényezőcsoport fontos lehet az ingatlanár-különbségek megértésében: az egyes jellemzők az ingatlanárak varianciájának 2-5 százalékát, együttesen pedig mintegy 15 százalékát magyarázzák. Másrészt egy olyan hedonikus lakásármodell becslése során, amelyben az agglomerációs és jövedelemi hatásokat szerepeltetjük, a tényezőcsoportok közül elegendő a természetföldrajzi tényezőket figyelembe venni.* Journal of Economic Literature (JEL) kód: R30, R31.",
-  "summary_en": null,
+  "summary_en": "What determines residential property prices across Hungarian municipalities? Békés, Horváth and Sápi use individual transaction data to identify the role of location. They classify location characteristics into four groups — natural-geographic, accessibility, education-and-healthcare provision, and administrative functions — and confirm that all four matter for prices. Together they explain about 15% of cross-municipality price variance; individually, each group explains 2-5%. In a hedonic price model that controls for agglomeration (population, built-up area) and income effects, only the natural-geographic factors remain significant beyond the agglomeration controls — meaning much of what looks like 'location matters' is actually a proxy for population and income concentration.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian individual real-estate transaction data (likely from a national register). Municipality-level controls: population, area, average income, plus the four location-characteristic groups. Sample size in tens of thousands of transactions.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian housing-market and regional-development policy (NGM, regional-development authorities): the paper supports the conventional view that property prices reflect agglomeration and income concentration; only natural-geographic features add explanatory power beyond these. Implication for housing-supply policy: increasing housing supply in agglomerations is more important than equalising amenity provision across municipalities, since the latter has limited price effect once agglomeration is controlled for.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "regional-urban"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W2521439643"
 }

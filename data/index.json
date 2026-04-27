@@ -6965,20 +6965,29 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Tanulmányunkban a Mol Bubi kerékpármegosztó rendszer 17. FINA vizes világbajnokságra átadott új gyűjtőállomásainak esemény utáni kihasználtságát vizsgáljuk és vetjük össze a hálózathoz korábban csatolt új gyűjtőállomások kihasználtsági adataival. Két módszertani megközelítést, az eseményvizsgálatot, illetve a különbségek különbsége módszeren alapuló hatásbecslést alkalmazva megmutatjuk, hogy az új gyűjtőállomások kihasználtsága miben különbözik a korábbi bővítések során átadott, hasonló jellemzőjű gyűjtőállomások kihasználtságától. Megállapítható, hogy az újonnan átadott gyűjtőállomások a hálózat szerves részévé váltak, azonban kihasználtságuk lényegesen kisebb, mint a hálózatban korábban átadott gyűjtőállomásoké. A különbség még inkább szembetűnő – nagyságrendileg 30 százalékos –, ha a hálózat déli gyűjtőállomásaihoz viszonyítunk. Ez az alacsony kihasználtság azonban nem specifikusan a FINA-gyűjtőállomásokra, hanem általában az északi gyűjtőállomásokra vonatkozik. Eredményeink azt sugallják, hogy a kerékpármegosztó rendszer bővítése indokoltabb lett volna a hálózat más pontjain.*&#13;\\nJournal of Economic Literature (JEL) kód: C22, H54, R42.Tanulmányunkban a Mol Bubi kerékpármegosztó rendszer 17. FINA vizes világbajnokságra átadott új gyűjtőállomásainak esemény utáni kihasználtságát vizsgáljuk és vetjük össze a hálózathoz korábban csatolt új gyűjtőállomások kihasználtsági adataival. Két módszertani megközelítést, az eseményvizsgálatot, illetve a különbségek különbsége módszeren alapuló hatásbecslést alkalmazva megmutatjuk, hogy az új gyűjtőállomások kihasználtsága miben különbözik a korábbi bővítések során átadott, hasonló jellemzőjű gyűjtőállomások kihasználtságától. Megállapítható, hogy az újonnan átadott gyűjtőállomások a hálózat szerves részévé váltak, azonban kihasználtságuk lényegesen kisebb, mint a hálózatban korábban átadott gyűjtőállomásoké. A különbség még inkább szembetűnő – nagyságrendileg 30 százalékos –, ha a hálózat déli gyűjtőállomásaihoz viszonyítunk. Ez az alacsony kihasználtság azonban nem specifikusan a FINA-gyűjtőállomásokra, hanem általában az északi gyűjtőállomásokra vonatkozik. Eredményeink azt sugallják, hogy a kerékpármegosztó rendszer bővítése indokoltabb lett volna a hálózat más pontjain.*&#13;\\nJournal of Economic Literature (JEL) kód: C22, H54, R42.",
-      "summary_en": null,
+      "summary_en": "Should bike-share networks expand based on the demand of the existing service or based on hosting one-off mega-events? Bakó, Berezvai, Cseke and Isztin study Budapest's Mol Bubi expansion built for the 17th FINA Aquatic World Championships. Using event-study and difference-in-differences methods, they compare post-event utilisation of the FINA-related new docks with that of earlier expansion docks. The new docks become an organic part of the network but their utilisation is substantially lower — about 30% lower than the network's southern docks. The shortfall is not specific to FINA docks; it characterises the entire northern expansion. Conclusion: expansion would have been more cost-effective elsewhere in the network.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Mol Bubi (Budapest bike-share) administrative usage data covering all docks before and after the 2017 FINA-related expansion. Event-study comparison of new vs existing docks; difference-in-differences against pre-expansion baseline.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Budapest municipal transport policy (BKK, Főváros): the paper provides concrete evidence that mega-event-driven infrastructure choices have low long-run utilisation. Useful baseline for evaluating future Olympic / World Championship infrastructure proposals. The methodology — event-study + DiD on transit usage data — is reusable for evaluating any Hungarian transport-network expansion. Caveat: a single bike-share system in Budapest; generalisation to other Hungarian cities or modes requires city-specific analysis.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "regional-urban",
+        "fiscal-tax"
+      ],
+      "methods": [
+        "diff-in-diff"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2910309771"
     },
     {
@@ -7048,20 +7057,26 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Cikkünkben aszimmetrikus kétoldalú piacok árazásával foglalkozunk, és azt a kérdést vizsgáljuk, hogy a felhasználók fogyasztásból származó hasznának függvényében a platformok milyen árakat választanak, valamint a termékek, szolgáltatások testreszabhatóságának milyen mértékét teszik elérhetővé a felhasználók számára. Eredményeink azt sugallják, hogy a platformok limitált testreszabhatóságot és nulla árat vagy maximális testreszabhatóságot és pozitív árat fognak választani.* Journal of Economic Literature (JEL) kód: D43, L11, L13.",
-      "summary_en": null,
+      "summary_en": "How should two-sided platforms balance customisation against pricing? Bakó and Horváth study asymmetric two-sided markets where users derive utility from consumption, and ask what prices and customisation levels platforms optimally choose. Their main result: platforms select either limited customisation with zero price OR maximal customisation with positive price — but not intermediate combinations. The discontinuity arises from the platform's incentive to differentiate sharply from competitors on both dimensions simultaneously. The paper helps explain why some digital platforms (e.g., social networks) offer free baseline service with limited customisation, while others (e.g., professional tools) offer extensive customisation at significant cost.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper. Two-sided-market model with asymmetric user groups, customisation choice, and price competition. Equilibrium analysis under competition.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For GVH and EU DG-COMP digital-platform regulation: the paper supports framing platform competition as a discrete choice between two business models, rather than a continuous spectrum. Relevant for assessing the welfare effects of mandated interoperability requirements (DMA, DSA) — forcing customisation may shift platforms from the free-tier model to a paid-customisation model, which could be regressive. Caveat: theoretical; specific Hungarian application requires identifying which platforms operate in which mode.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "industrial-organization",
+        "innovation-digital",
+        "mechanism-design"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W3000346140"
     },
     {
@@ -7520,20 +7535,25 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "The impact of the COVID-19 pandemic has been hugely heterogeneous across individuals depending on their job. The present paper classifies the health risk and the labour market risk associated with each job. The health risk depends on how likely it is that someone gets infected with COVID-19 while working, whereas the labour market risk measures the likelihood that workers performing these jobs will be (temporarily) laid off. Quantifying these risks is crucial, as they measure the exposure of workers employed in each job to the two most important risks related to the pandemic. The authors then characterize the individuals most exposed to these risks and finally investigate what the state can do to protect them. The authors categorize occupations into four health risk groups: going from the safest work-from-home jobs to jobs that require at most low physical proximity without and with contact with customers, finally to unsafe jobs that...",
-      "summary_en": null,
+      "summary_en": "How should states protect workers from the joint health and labour-market risks of a pandemic? Bárány provides a discussion of an Economic Policy paper that classifies the COVID-19 health risk and labour-market risk associated with each occupation. The classification distinguishes work-from-home jobs, low-physical-proximity jobs without and with customer contact, and unsafe high-proximity jobs. Quantifying both risks reveals stark cross-occupation heterogeneity, identifies which workers are most exposed, and motivates targeted state interventions to protect them. Bárány's discussion sharpens the policy implications and raises questions about how the classification translates into operational support programmes during ongoing pandemics.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Discussion paper engaging with the underlying authors' classification of COVID-19 occupational risk based on US occupation-level data. No new empirical contribution; instead a critical reading of the classification's policy implications.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian pandemic-response design (NNK, BM, NGM): Bárány's discussion supports two-dimensional risk targeting (health × labour market) for any future similar shock. Hungarian Kurzarbeit-style support could be calibrated by risk class rather than uniform across occupations, with implications for both fairness and cost-effectiveness. Caveat: the underlying paper's classification is US-based; Hungarian occupation structure differs and would need its own classification.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "labor-markets",
+        "health"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W4289886555"
     },
     {
@@ -7554,20 +7574,25 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "The drivers of the gender wage gap and policies that could help reduce it are key issues and are widely researched. This paper analyses whether, when access to justice in cases of pay discrimination is easy, pay transparency can help reduce the unexplained component of the gender gap. On the one hand, pay transparency helps establish whether the pay workers’ receive is fair, and if access to justice is easy, workers could rectify any discrimination and thereby close gender gaps. This direct mechanism can lead to smaller gender gaps ex ante, as employers want to avoid the costs of litigation. On the other hand, pay transparency can lead to resentful employees, which can result in lower productivity and higher turnover. It can also lead to increased litigation, and providing transparent information about pay within a company can be costly. Therefore, the overall effect of these policies can in general be ambiguous.",
-      "summary_en": null,
+      "summary_en": "Does pay transparency reduce the gender wage gap? Bárány provides a discussion of an Economic Policy paper analysing this question. The author argues that when access to justice for pay discrimination is easy, pay transparency can help reduce the unexplained component of the gender wage gap by enabling workers to identify and rectify discrimination. But pay transparency also has costs: it can generate resentful employees, reduce productivity, raise turnover, and increase litigation. The overall welfare effect is therefore ambiguous. Bárány's discussion sharpens the policy implications and raises specific questions about implementation in different national legal contexts.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Discussion paper. No new empirical contribution; engages with the underlying authors' theoretical and empirical analysis of pay-transparency effects.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian gender-equality policy (EBH, NGM): the paper informs the EU Pay Transparency Directive (2023) implementation in Hungary. The trade-off — direct transparency benefit vs. resentful-worker costs — is operationally relevant. For Hungarian companies subject to the directive, the paper supports pairing transparency rules with effective grievance mechanisms (without which transparency may underperform). Caveat: discussion paper; specific Hungarian implementation requires legal-and-institutional analysis.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "labor-markets",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W4361772266"
     },
     {
@@ -8472,20 +8497,28 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Tanulmányunkban a magyarországi lakóingatlanok árszintjére ható tényezőket vizsgáljuk, egyedi adásvételi adatokat felhasználva. Kutatásunk az ingatlanok elhelyezkedésének szerepére koncentrál. Az árakra ható települési jellemzőket négy tényezőcsoportba (természetföldrajzi, elérhetőségi, oktatási-egészségügyi ellátottsági és közigazgatási funkciók) sorolva igazoljuk, hogy azok az ingatlanárak magyarázatában fontosnak bizonyulnak. Emellett azt is vizsgáljuk, hogy e tényezőcsoportok hatása hogyan változik, ha a települések népességére és belterületére, illetve a lakosok átlagos jövedelmére, azaz az agglomerációs és jövedelmi hatásokra kontrollálunk modelljeinkben. Két megállapításra jutunk. Egyrészt azt találjuk, hogy mind a négy tényezőcsoport fontos lehet az ingatlanár-különbségek megértésében: az egyes jellemzők az ingatlanárak varianciájának 2-5 százalékát, együttesen pedig mintegy 15 százalékát magyarázzák. Másrészt egy olyan hedonikus lakásármodell becslése során, amelyben az agglomerációs és jövedelemi hatásokat szerepeltetjük, a tényezőcsoportok közül elegendő a természetföldrajzi tényezőket figyelembe venni.* Journal of Economic Literature (JEL) kód: R30, R31.",
-      "summary_en": null,
+      "summary_en": "What determines residential property prices across Hungarian municipalities? Békés, Horváth and Sápi use individual transaction data to identify the role of location. They classify location characteristics into four groups — natural-geographic, accessibility, education-and-healthcare provision, and administrative functions — and confirm that all four matter for prices. Together they explain about 15% of cross-municipality price variance; individually, each group explains 2-5%. In a hedonic price model that controls for agglomeration (population, built-up area) and income effects, only the natural-geographic factors remain significant beyond the agglomeration controls — meaning much of what looks like 'location matters' is actually a proxy for population and income concentration.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian individual real-estate transaction data (likely from a national register). Municipality-level controls: population, area, average income, plus the four location-characteristic groups. Sample size in tens of thousands of transactions.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian housing-market and regional-development policy (NGM, regional-development authorities): the paper supports the conventional view that property prices reflect agglomeration and income concentration; only natural-geographic features add explanatory power beyond these. Implication for housing-supply policy: increasing housing supply in agglomerations is more important than equalising amenity provision across municipalities, since the latter has limited price effect once agglomeration is controlled for.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "regional-urban"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2521439643"
     },
     {
@@ -8677,20 +8710,30 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "A nemzetközi beszállítói láncok egyre nagyobb szerepet játszanak a modern gazdaságok termelésében és exportjában is. Egy-egy vállalat, ország vagy iparág működését alapvetően meghatározza az, hogy része-e ezeknek a globális láncoknak. Ebben a tanulmányban a magyar vállalati szintű termelési és exportadatok segítségével vizsgáljuk a köztes termékek és tőkejószágok termelését, valamint exportját a magyar feldolgozóipari vállalatok esetében. Megmutatjuk, hogy az ilyen termékek a feldolgozóipari vállalatok termelésének kétharmadát, exportjának pedig háromnegyedét teszik ki. A beszállítói termékek arányát alapvetően meghatározza a vállalat iparága, ezért a megfelelő iparágakra korlátozódó gazdaságpolitika hatásosan célozhatja meg a potenciális beszállítókat. Regressziós elemzésben bemutatjuk, hogy a tudásátterjedés lehetőségével összhangban a beszállítói termékeket gyártó vállalatok - elsősorban nagyobb méretüknek és magasabb tőkeintenzitásuknak köszönhetően - termelékenyebbek, mint a fogyasztási javakat gyártó társaik. Journal of Economic Literature (JEL) kód: D22, D24, F14, L60.",
-      "summary_en": null,
+      "summary_en": "How big a share of Hungarian manufacturing output and exports is intermediate (supplier) production rather than final consumer goods? Békés and Muraközy use Hungarian firm-level production and export data to document the answer: intermediate goods and capital equipment account for two-thirds of manufacturing output and three-quarters of exports. The share of supplier products is determined primarily by the firm's industry — meaning sector-level industrial policy can effectively target potential suppliers. Regression analysis confirms that supplier-product firms are more productive than consumer-good producers, mainly through their larger size and higher capital intensity, consistent with technology-spillover channels operating through global value chains.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian firm-level admin tax data (likely NAV) on manufacturing firms, including detailed production and export data by product category. Distinguishes intermediates / capital goods from final consumer goods. Likely covers ~2000-2010s.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Foundational for Hungarian industrial policy targeting supply-chain integration. The paper supports sectoral targeting of supplier-side support (R&D, technology, FDI integration) rather than uniform export promotion. Useful for HIPA / NGM evaluating which sectors deliver high-productivity supplier roles. Particularly relevant for the post-2020 supply-chain restructuring debates and for Hungarian car/electronics-cluster policy.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "firms-productivity",
+        "trade-fdi"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-firm",
+        "admin-tax"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2504163915"
     },
     {
@@ -12342,20 +12385,28 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "In the standard simple competitive labour market model, wage differentials between individuals are only due to differences in employees’ skills. The employer does not matter. Although many economists felt uncomfortable with this, the large boost to progress was made with the introduction of the so called AKM model, which allows researchers with access to linked employer-employee panel data sets to measure the relative importance of worker and firm fixed effects in wages. Both have turned out to be important. The original AKM article (1999) has spawned a large literature aiming at improvements in econometric methods and more recently applications to analyses of wage inequality, gender wage gaps, and many more questions.",
-      "summary_en": null,
+      "summary_en": "How do firms shape worker wages, beyond what skills alone explain? Boza's chapter surveys the modern firm-effect literature on wage formation, anchored by the Abowd-Kramarz-Margolis (AKM) model. AKM's innovation in 1999 was to use linked employer-employee panel data to decompose wages into worker and firm fixed effects — and the literature has consistently found both matter substantially, contradicting the simple competitive-labour-market assumption that only worker skills determine pay. The chapter reviews subsequent econometric refinements and applications to wage-inequality decomposition, gender pay gaps, and assortative matching. A useful reference for any researcher engaging with Hungarian linked-employer-employee admin data.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Survey chapter. References to a wide AKM-pattern empirical literature using linked employer-employee data from various countries; no new empirical contribution.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Foundational for Hungarian labour-market policy thinking (NFSZ, NGM, MNB labour-market unit): the firm-effect literature shows that wage gaps are not only about worker skills but also about which firms hire whom. For Hungarian gender wage gap or regional wage gap analyses (using KSH or KRTK Admin3 data), the AKM framework is the methodological starting point. Useful baseline reference for any Hungarian labour econometrician.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "labor-markets",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "admin-firm",
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W4386882981"
     },
     {
@@ -12377,20 +12428,28 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Kutatásunk célja annak megmutatása, hogy a volt munkakapcsolatok figyelemre méltó hatást gyakorolnak a munkahelyváltó egyének kezdőbérére, a későbbi bérek pályájára, illetve az állásvesztés valószínűségére. Az elemzés adminisztratív államigazgatási adatbázison alapul, mely a 2003–2011 közötti időszakra vonatkozóan tartalmazza a magyarországi népesség felének munkaerőpiaci adatait. Eredményeink alapján azok, akik olyan céghez nyernek felvételt, ahol dolgozik volt munkatársuk, átlagosan 2,5 százalékkal nagyobb kezdőbérre számíthatnak azokhoz viszonyítva, akiknek nincs hasonló ismerősük. Ez azonban közvetett hatás, amely valójában a jobb látens képességűek magasabb bérszintű cégekbe szelektálódásán keresztül érvényesül. A bérelőny körülbelül három évig őrződik meg, utána eltűnik; eddig mutatható ki a munkaviszony stabilitására gyakorolt pozitív hatás is. A volt munkatársak kezdőbérre gyakorolt hatása erősebb, ha az ajánló és a jelentkező foglalkozási kategóriája egymáshoz közeli, és az ajánló magasabb pozícióban van.*&#13;\\nJournal of Economic Literature (JEL) kód: J24, J31, M51, Z13.",
-      "summary_en": null,
+      "summary_en": "Do former co-workers affect your starting salary at a new employer? Boza and Ilyés use Hungarian admin data covering half the working-age population in 2003-2011 to estimate the effect of having a former co-worker at a hiring firm. Workers hired into firms employing their former colleagues earn 2.5% more on average than otherwise-similar workers without such network ties. But this is an indirect effect: better-latent-ability workers self-select into higher-paying firms via former-colleague networks. The wage premium fades after about three years (so does the job-stability advantage). The effect is stronger when the introducer has a similar occupation and a higher position.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian admin data on linked employer-employee histories, 2003–2011, covering ~50% of the Hungarian working-age population. Tracks hires, wages, and former-colleague networks across firms. Sample size in millions of worker-firm transitions.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian active labour market policy (NFSZ, NGM): the paper documents that informal networks meaningfully affect wage outcomes in Hungary, but the channel is sorting rather than productivity. Implication: subsidising network access for disadvantaged jobseekers (e.g., workshop-based mentoring) can deliver short-run wage gains, but won't close skill-driven wage gaps over the long run. Useful for evaluating NFSZ programme design.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "labor-markets"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2885048264"
     },
     {
@@ -12412,20 +12471,29 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Az Európai Unió 2023-ban elfogadott bértranszparencia-irányelvének célja, hogy a bérátláthatóság erősítésével és vállalati szintű jelentéstételi kötelezettségek bevezetésével csökkentse a nemek közötti bérkülönbségeket. Tanulmányunk célja, hogy az irányelv jelentéstételi és megfelelési logikáját adminisztratív adatokon teszteljük, és bemutassuk, hogy a mért bérkülönbségek nagysága, a munkavállalók egyenlőtlenségben való érintettsége, valamint a vállalatokra háruló megfelelési teher milyen mértékben függ a választott mérési és kategorizálási döntésektől. Elemzésünk egy 2022-re vonatkozó, a teljes hazai foglalkoztatotti népességet lefedő, anonimizált adminisztratív adatbázison alapul, amely lehetővé teszi az irányelvben előírt mutatók vizsgálatát különböző munkaköri kategorizálási szinteken. Eredményeink arról tanúskodnak, hogy a kimutatott bérkülönbségek nagysága és a potenciális megfelelési kötelezettségek mértéke nagyban függ a munkaköri kategóriák definiálásától, részletességétől, valamint attól, hogy a szabályozás milyen mértékben enged figyelembe venni olyan tényezőket, mint az életkor és a tapasztalat. A tanulmányban azonosítjuk azokat a kritikus pontokat, amelyeknek a körültekintő tagállami szabályozása hozzájárulhat ahhoz, hogy az irányelv céljai (a bérkülönbségek érdemi csökkentése és az átláthatóság erősítése) észszerű adminisztratív terhek mellett valósuljanak meg.",
-      "summary_en": null,
+      "summary_en": "How will the EU's 2023 Pay Transparency Directive actually affect Hungarian firms and the gender pay gap? Boza and Ilyés stress-test the directive's reporting and compliance logic on Hungarian admin data covering the entire 2022 employed population. The reported pay-gap magnitude, the share of workers exposed to inequality, and the compliance burden on firms all depend heavily on technical decisions about how job categories are defined, how granular they are, and the extent to which factors like age and experience can be controlled for. The paper identifies critical pivots where Hungarian implementation choices will determine whether the directive achieves its intended pay-gap reduction at reasonable administrative cost.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Anonymised Hungarian admin data for 2022 covering the full employed population, allowing direct computation of the directive-required pay-gap indicators at multiple job-category granularities. Sensitivity analysis across different aggregation choices.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct input for Hungarian implementation of the EU Pay Transparency Directive (NGM, Pénzügyminisztérium, EBH). The paper's headline finding — that measured gaps and compliance costs depend critically on category definitions — supports careful, evidence-driven choice of implementation parameters rather than defaulting to the most aggressive reporting bracket. Useful for the Hungarian Government's transposition decisions in 2026-27.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "labor-markets",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W7154972207"
     },
     {
@@ -12448,20 +12516,30 @@
       "url_pdf": "https://ojs.mtak.hu/index.php/kszemle/article/download/20909/17219",
       "url_replication": null,
       "abstract": "Az adminisztratív munkáltató-munkavállaló adatbázisok (Linked Employer-Employee Data, LEED) az utóbbi évtizedek legfontosabb adatinnovációi közé tartoznak, mivel egyszerre teszik lehetővé az egyének és munkáltatóik hosszú távú vizsgálatát. Tanulmányunk áttekinti a hazai adatforrások fejlődését, majd részletesen bemutatja a legfrissebb magyar kapcsolt munkáltató-munkavállaló adatbázist, a Kapcsolt Államigazgatási Paneladatbázist (rövidítve: Admin4), külön kitérve a hozzá kapcsolható modulokra és kiegészítő információkra. Zárásként nemzetközi kitekintést adunk, amelyben összehasonlító perspektívában értékeljük a magyar adatok sajátosságait, előnyeit és korlátait.",
-      "summary_en": null,
+      "summary_en": "Hungary's linked employer-employee admin data (Admin4) is one of the most significant data innovations of recent decades, enabling long-term study of individuals jointly with their employers. Boza, Pető and Tir document the development of these data sources and present in detail the latest Hungarian linked admin database (Admin4), with attention to the modules and supplementary information that can be linked to it. The paper closes with international comparison — assessing the Hungarian data's strengths, distinctive features, and limitations relative to similar databases in other countries. A key reference for any researcher considering Hungarian admin-data work.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Documentation paper. Surveys the structure and content of the Hungarian Admin4 panel and prior Hungarian admin data sources. International comparison uses public documentation of Swedish, German, French, Norwegian, and other linked employer-employee databases.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian research-policy infrastructure (KSH, KRTK Databank, NAV): the paper supports continued investment in the Admin4 panel and additional module integration. Useful baseline document for researchers, regulators, and parliament discussing data-access policy. The international-comparison section helps Hungarian policymakers benchmark how restrictive vs. permissive data-access rules translate into research output.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "labor-markets",
+        "methods"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual",
+        "admin-firm"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W4416297445"
     },
     {
@@ -12483,20 +12561,26 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Írásukban a szerzők a puha költségvetési korlát (pkk) kutatási programját érintve számolnak be a Kornai János 90. születésnapja alkalmából szervezett nemzetközi konferenciáról. Röviden bemutatják a pkk fogalmát, és összegzik, hogy azt 2000 óta milyen területeken és témákban alkalmazták. Főként a posztszocialista vagy átalakuló országok, különösen Kína gazdaságát elemezték a pkk segítségével, illetve a 2007–2008-as gazdasági világválság állami kezelését, a többszintű kormányzást és a vállalati ösztönzést vizsgálták nagyobb számban a kutatók. A konferencián az állam és az önkormányzatok túlköltekezésén kívül szó esett az európai és magyar futballklubok veszteségeiről is. Végül összefoglalják, hogy a pkk kutatási program mely területein történt előrelépés, és a konferencia zárszavából felidézik Kornai megszívlelendő tanácsait.",
-      "summary_en": null,
+      "summary_en": "What has economists' soft-budget-constraint research programme delivered since 2000? Branyiczki and Rosta write a conference report from the international event organised for János Kornai's 90th birthday. They briefly review the soft-budget-constraint (SBC) concept and summarise its applications since 2000 — primarily in post-socialist economies (especially China), in state crisis-response during the 2007-2008 global financial crisis, and in multi-level governance and corporate-incentive analysis. The conference also covered SBC applications to over-spending state and local governments, and to the economics of European and Hungarian football clubs. The paper closes by recapping Kornai's own concluding remarks at the conference.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Conference report. Surveys the field via the conference talks; no original empirical contribution.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Useful retrospective for Hungarian researchers and policymakers on the soft-budget-constraint research programme. The paper's subject is intellectual history rather than direct policy advice. Indirect relevance: the SBC concept remains operationally important for evaluating Hungarian SOE governance, public-sector subsidy design, and football-club regulation.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "transition-postcommunist",
+        "political-economy",
+        "fiscal-tax"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W3199635398"
     },
     {
@@ -13664,20 +13748,25 @@
       "url_pdf": "https://link.springer.com/content/pdf/10.1007/978-3-030-94273-1_15.pdf",
       "url_replication": null,
       "abstract": "Abstract High-Growth Enterprises (HGEs) have received growing interest from entrepreneurship scholars, the business press, and of course policymakers. HGEs can potentially make large contributions to economic growth, which has led to various policy initiatives. This chapter discusses the main topics surrounding policy interventions for HGEs, including a discussion of the various rationales for policy interventions. We next discuss the many areas that relate to possible HGE policy instruments. We then evaluate some previous HGE policy instruments, discuss some that have been successful, and possible areas for improvement. Our main policy suggestions are critical listening to stakeholders by policymakers, identifying the decision points (e.g., growth trigger points) to leverage the impact of growth stimuli, designing incentives in the spirit of up or out dynamics, and enhancing the coordination of HGE policies.",
-      "summary_en": null,
+      "summary_en": "What policies actually help high-growth enterprises (HGEs) flourish? Coad, Harasztosi, Pál and Teruel survey the evidence and discuss policy design. HGEs receive growing attention because of their potential macro impact, but policy interventions vary widely in success. The chapter reviews the rationales for HGE-targeted intervention, evaluates several past programmes, and identifies what's worked and what hasn't. Their main policy suggestions: critically listen to stakeholders, identify decision-points (e.g., growth trigger moments) where intervention has biggest leverage, design incentives in the spirit of 'up or out' dynamics rather than blanket support, and improve coordination across HGE policies that often run in parallel without cross-talk.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Survey chapter synthesising existing empirical literature on HGE policy interventions. References to HGE policy programmes in EU, US, UK, and other contexts. No new empirical contribution.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly relevant to Hungarian HGE policy (NIH, ITM, NGM): the paper's recommendations apply to programmes like Vinegre, Magyar Falu, Modern Városok startup-support tracks, and KKV-stratégia targeting. The 'up-or-out' framing and growth-trigger leverage point are particularly applicable to the Hungarian programme-design debate. Useful for evaluating effectiveness of past HGE programmes.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "firms-productivity",
+        "innovation-digital"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W4226513743"
     },
     {
@@ -15599,20 +15688,28 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This article studies inflation persistence with time-varying coefficient autoregressions for 12 central European countries in comparison with the United States and the euro area. We find that inflation persistence tends to be higher in times of high inflation. Since the oil price shocks, inflation persistence has declined both in the United States and the euro area. In most central and eastern European countries, for which our study covers 1993–2012, inflation persistence has also declined, with the main exceptions of the Czech Republic, Slovakia and Slovenia, where persistence seems to be rather stable. Our findings have implications for the conduct of monetary policy and for a possible membership in the euro area. Among the two time-varying coefficient methods we use, our results favour the flexible least squares smoother over the Kalman smoother. We also conclude that the OLS estimate of an autoregression is likely upward biased relative to the time-average of time-varying parameters, when the parameters change.",
-      "summary_en": null,
+      "summary_en": "How persistent is inflation in Central and Eastern European countries, and what does it mean for monetary policy? Darvas and Varga apply time-varying-coefficient autoregressions to 12 CEE countries plus the US and euro area. Inflation persistence tends to be higher when inflation itself is high. Since the oil price shocks, persistence has declined in both the US and the euro area. In most CEE countries (sample period 1993-2012), persistence has also declined, with notable exceptions in the Czech Republic, Slovakia and Slovenia, where it remains relatively stable. The findings have direct implications for monetary-policy conduct and for euro-area accession preparation. Methodologically, flexible-least-squares smoothing is preferred to Kalman smoothing for this estimation problem.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Quarterly inflation data for 12 CEE countries plus US and euro area, ~1993-2012. Time-varying-coefficient autoregression (TVC-AR) estimation using flexible-least-squares and Kalman-smoother methods.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For MNB monetary-policy analysis and euro-accession debates: the paper documents that Hungarian inflation persistence has been declining but remains non-trivial. Useful for calibrating MNB forecasting models and for evaluating whether Hungarian inflation dynamics are converging to euro-area patterns. Relevant input for any future euro-accession assessment by NGM and MNB.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "macroeconomics",
+        "transition-postcommunist",
+        "methods"
+      ],
+      "methods": [
+        "time-series"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
       "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "review_status": "ai-drafted",
       "openalex_id": "W2017644686"
     },
     {
@@ -17267,20 +17364,28 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This chapter provides an in-depth analysis of the Pacific Alliance, a regional integration initiative in Latin America that includes Colombia, Chile, Mexico, and Peru. The chapter begins by outlining the historical background and objectives of the PA, emphasising its goal of fostering economic integration, enhancing competitiveness, and promoting free trade within the region and with the Asia-Pacific. Through the use of principal component analysis (PCA), the chapter quantitatively assesses the level of integration among member countries using macroeconomic indicators from 1991 to 2019. The findings reveal that, while there is an upward trend in economic integration, the impacts are largely driven by global economic trends rather than the PA itself. The study highlights significant disparities in the economic profiles of the member countries, suggesting limited success in achieving deep integration. Nonetheless, the chapter underscores the potential of the PA, given its relatively recent establishment, and calls for continued efforts to enhance financial integration and cooperation among the member states.",
-      "summary_en": null,
+      "summary_en": "Has the Pacific Alliance — a 2011 Latin American economic-integration initiative comprising Colombia, Chile, Mexico and Peru — actually delivered deeper integration among its members? Ertl uses principal component analysis on macroeconomic indicators 1991-2019 to assess integration trends. Findings: there is an upward trend in economic integration, but it is largely driven by broader global economic trends rather than by the PA itself. Significant disparities remain in the four members' economic profiles, suggesting limited success at deep integration. The chapter argues the PA has potential given its relative youth, and calls for continued efforts on financial integration and cooperation. A useful methodological example of evaluating regional integration with quantitative tools.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Macroeconomic indicators for Colombia, Chile, Mexico, Peru, 1991-2019, drawn from World Bank / IMF databases. Principal Component Analysis (PCA) used to construct integration indices and decompose them into PA-specific vs global-trend components.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Methodological reference for Hungarian assessment of regional-integration agreements (V4, Three Seas Initiative, EU Eastern Partnership). The PCA approach is portable to Central European contexts where similar 'is integration real or just global trends?' questions arise. Indirect relevance to Hungarian foreign-policy analysis at MFA and ITM. Caveat: Latin American context; Hungarian regional-integration initiatives operate under different institutional constraints.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "trade-fdi",
+        "macroeconomics",
+        "methods"
+      ],
+      "methods": [
+        "panel-data"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W4407765213"
     },
     {
@@ -18174,23 +18279,25 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We describe a fixed-point based approach to the theory of bipartite stable matchings. By this, we provide a common framework that links together seemingly distant results, like the stable marriage theorem of Gale and Shapley, the Mendelsohn-Dulmage theorem, the Kundu-Lawler theorem, Tarski's fixed-point theorem, the Cantor-Bernstein theorem, Pym's linking theorem, or the monochromatic path theorem of Sands et al. In this framework, we formulate a matroid-generalization of the stable marriage theorem and study the lattice structure of generalized stable matchings. Based on the theory of lattice polyhedra and blocking polyhedra, we extend results of Vande Vate and Rothblum on the bipartite stable matching polytope.",
-      "summary_en": null,
+      "summary_en": "Many seemingly distant theorems about stable matchings, fixed points, and lattice structure turn out to be facets of the same underlying mathematical object. Fleiner provides a unified fixed-point-based framework that links together the stable-marriage theorem of Gale and Shapley, the Mendelsohn-Dulmage theorem, the Kundu-Lawler theorem, Tarski's fixed-point theorem, the Cantor-Bernstein theorem, Pym's linking theorem, and the monochromatic-path theorem. Within this framework he formulates a matroid generalisation of the stable marriage theorem and studies the lattice structure of generalised stable matchings. Building on lattice and blocking polyhedra theory, he extends Vande Vate and Rothblum's results on the bipartite stable-matching polytope.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data. Mathematical proofs and constructions in the language of fixed-point theory, lattice theory, and matroid theory.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Foundational mathematical paper underlying the matching-markets cluster's applied work. Indirectly relevant for any Hungarian application of stable-matching mechanisms (kidney exchange, school choice, residency matching) — they all rest on the theoretical scaffolding this paper helps build. Useful methodological reference for Hungarian operations-research and mechanism-design researchers.",
       "policy_relevance_hu": null,
       "topics": [
         "mechanism-design",
         "methods"
       ],
-      "methods": [],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-26",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W1978696336"
     },
     {
@@ -18429,23 +18536,26 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "In this note, we give a straightforward and elementary proof of a theorem by Aumann and Maschler stating that in the well-known bankruptcy problem, the so-called CG-consistent solution described by the Talmud represents the nucleolus of the corresponding coalitional game. The proof nicely fits into the hydraulic rationing framework proposed by Kaminski. We point out further interesting properties in connection with this framework.",
-      "summary_en": null,
+      "summary_en": "The Talmud's solution to the bankruptcy problem — known to economists as CG-consistent — has a deep game-theoretic justification. Fleiner and Sziklai give a clean, elementary proof of Aumann and Maschler's theorem stating that this CG-consistent solution represents the nucleolus of the corresponding coalitional game. The proof fits naturally into Kaminski's hydraulic-rationing framework. The authors highlight further interesting properties of the rationing framework that follow from this perspective. A short technical contribution that makes the Aumann-Maschler result accessible to researchers without deep coalitional-game-theory background.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper; no empirical data. Mathematical proof in the framework of cooperative game theory and hydraulic rationing.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Foundational for Hungarian researchers working on bankruptcy and rationing problems — debt restructuring, financial crisis resolution, rationing of healthcare or social benefits. The CG-consistent solution and its nucleolus interpretation provide a principled benchmark for 'fair' rationing rules. Indirect relevance to MNB resolution-procedure design and to Pénzügyminisztérium debt-restructuring policy.",
       "policy_relevance_hu": null,
       "topics": [
         "mechanism-design",
+        "methods",
         "banking-finance"
       ],
-      "methods": [],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-26",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W2158197576"
     },
     {
@@ -38500,7 +38610,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 70
+      "paper_count": 76
     },
     {
       "id": "education-skills",
@@ -38522,7 +38632,7 @@
       "policy_framing_en": "Relevant to: healthcare system design, hospital payment, prevention programs, pharmaceutical policy, mental health services.",
       "policy_framing_hu": "Releváns: egészségügyi rendszer kialakítása, kórházi finanszírozás, prevenciós programok, gyógyszerpolitika, mentális szolgáltatások.",
       "icon": "heart-pulse",
-      "paper_count": 37
+      "paper_count": 38
     },
     {
       "id": "demographics-migration",
@@ -38544,7 +38654,7 @@
       "policy_framing_en": "Relevant to: EU trade policy, FDI promotion, export promotion, supply chain resilience, industrial policy.",
       "policy_framing_hu": "Releváns: EU kereskedelempolitika, FDI ösztönzés, exporttámogatás, ellátási láncok rugalmassága, iparpolitika.",
       "icon": "globe",
-      "paper_count": 54
+      "paper_count": 56
     },
     {
       "id": "firms-productivity",
@@ -38555,7 +38665,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 102
+      "paper_count": 104
     },
     {
       "id": "innovation-digital",
@@ -38566,7 +38676,7 @@
       "policy_framing_en": "Relevant to: R&D tax credits, digital strategy, AI policy, innovation agency design, university–industry linkages.",
       "policy_framing_hu": "Releváns: K+F adókedvezmények, digitális stratégia, MI-politika, innovációs ügynökségek, egyetem–ipar kapcsolatok.",
       "icon": "cpu",
-      "paper_count": 43
+      "paper_count": 45
     },
     {
       "id": "banking-finance",
@@ -38588,7 +38698,7 @@
       "policy_framing_en": "Relevant to: tax reform, budget planning, public debt management, compliance policy.",
       "policy_framing_hu": "Releváns: adóreform, költségvetés-tervezés, államadósság-kezelés, adócompliance.",
       "icon": "coins",
-      "paper_count": 32
+      "paper_count": 34
     },
     {
       "id": "regional-urban",
@@ -38599,7 +38709,7 @@
       "policy_framing_en": "Relevant to: regional development funds, housing policy, transport investment, urban planning.",
       "policy_framing_hu": "Releváns: regionális fejlesztési alapok, lakáspolitika, közlekedési beruházások, városfejlesztés.",
       "icon": "building",
-      "paper_count": 41
+      "paper_count": 43
     },
     {
       "id": "energy-environment",
@@ -38621,7 +38731,7 @@
       "policy_framing_en": "Relevant to: welfare system, anti-poverty programs, family allowances, gender-equal pay policies.",
       "policy_framing_hu": "Releváns: szociális rendszer, szegénység elleni programok, családi pótlékok, egyenlő bérezés.",
       "icon": "scale",
-      "paper_count": 81
+      "paper_count": 84
     },
     {
       "id": "political-economy",
@@ -38632,7 +38742,7 @@
       "policy_framing_en": "Relevant to: anti-corruption policy, public administration reform, EU affairs, electoral system design.",
       "policy_framing_hu": "Releváns: korrupcióellenes politika, közigazgatási reform, EU-ügyek, választási rendszer.",
       "icon": "building-2",
-      "paper_count": 50
+      "paper_count": 51
     },
     {
       "id": "transition-postcommunist",
@@ -38643,7 +38753,7 @@
       "policy_framing_en": "Relevant to: long-run diagnoses of the Hungarian and CEE economy, lessons from 30+ years of transition, institutional path dependence.",
       "policy_framing_hu": "Releváns: a magyar és KKE gazdaság hosszú távú diagnózisa, 30+ év rendszerváltásának tanulságai, intézményi útfüggőség.",
       "icon": "flag",
-      "paper_count": 30
+      "paper_count": 32
     },
     {
       "id": "behavioral",
@@ -38665,7 +38775,7 @@
       "policy_framing_en": "Relevant to: competition policy (GVH), merger review, platform regulation, auction design, sector-specific regulation.",
       "policy_framing_hu": "Releváns: versenypolitika (GVH), fúziókontroll, platformszabályozás, aukciótervezés, ágazati szabályozás.",
       "icon": "network",
-      "paper_count": 33
+      "paper_count": 34
     },
     {
       "id": "macroeconomics",
@@ -38676,7 +38786,7 @@
       "policy_framing_en": "Relevant to: long-run growth forecasting, macroeconomic modelling, sovereign-debt management, stabilisation policy design.",
       "policy_framing_hu": "Releváns: hosszú távú növekedés előrejelzés, makroökonómiai modellek, államadósság-kezelés, stabilizációs politika.",
       "icon": "line-chart",
-      "paper_count": 51
+      "paper_count": 53
     },
     {
       "id": "agriculture-food",
@@ -38698,7 +38808,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 123
+      "paper_count": 127
     },
     {
       "id": "market-design",
@@ -38720,7 +38830,7 @@
       "policy_framing_en": "Relevant to: regulatory design, procurement, voting reform, contract law, antitrust analysis, committee design.",
       "policy_framing_hu": "Releváns: szabályozási tervezés, közbeszerzés, választási reform, szerződésjog, versenypolitika, bizottsági tervezés.",
       "icon": "scale",
-      "paper_count": 29
+      "paper_count": 30
     }
   ],
   "journals": [

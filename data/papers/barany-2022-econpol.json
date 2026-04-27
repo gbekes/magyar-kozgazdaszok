@@ -16,19 +16,24 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "The impact of the COVID-19 pandemic has been hugely heterogeneous across individuals depending on their job. The present paper classifies the health risk and the labour market risk associated with each job. The health risk depends on how likely it is that someone gets infected with COVID-19 while working, whereas the labour market risk measures the likelihood that workers performing these jobs will be (temporarily) laid off. Quantifying these risks is crucial, as they measure the exposure of workers employed in each job to the two most important risks related to the pandemic. The authors then characterize the individuals most exposed to these risks and finally investigate what the state can do to protect them. The authors categorize occupations into four health risk groups: going from the safest work-from-home jobs to jobs that require at most low physical proximity without and with contact with customers, finally to unsafe jobs that...",
-  "summary_en": null,
+  "summary_en": "How should states protect workers from the joint health and labour-market risks of a pandemic? Bárány provides a discussion of an Economic Policy paper that classifies the COVID-19 health risk and labour-market risk associated with each occupation. The classification distinguishes work-from-home jobs, low-physical-proximity jobs without and with customer contact, and unsafe high-proximity jobs. Quantifying both risks reveals stark cross-occupation heterogeneity, identifies which workers are most exposed, and motivates targeted state interventions to protect them. Bárány's discussion sharpens the policy implications and raises questions about how the classification translates into operational support programmes during ongoing pandemics.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Discussion paper engaging with the underlying authors' classification of COVID-19 occupational risk based on US occupation-level data. No new empirical contribution; instead a critical reading of the classification's policy implications.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian pandemic-response design (NNK, BM, NGM): Bárány's discussion supports two-dimensional risk targeting (health × labour market) for any future similar shock. Hungarian Kurzarbeit-style support could be calibrated by risk class rather than uniform across occupations, with implications for both fairness and cost-effectiveness. Caveat: the underlying paper's classification is US-based; Hungarian occupation structure differs and would need its own classification.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "labor-markets",
+    "health"
+  ],
+  "methods": [
+    "descriptive-survey"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W4289886555"
 }

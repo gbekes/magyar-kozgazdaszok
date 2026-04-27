@@ -16,19 +16,27 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "In the standard simple competitive labour market model, wage differentials between individuals are only due to differences in employees’ skills. The employer does not matter. Although many economists felt uncomfortable with this, the large boost to progress was made with the introduction of the so called AKM model, which allows researchers with access to linked employer-employee panel data sets to measure the relative importance of worker and firm fixed effects in wages. Both have turned out to be important. The original AKM article (1999) has spawned a large literature aiming at improvements in econometric methods and more recently applications to analyses of wage inequality, gender wage gaps, and many more questions.",
-  "summary_en": null,
+  "summary_en": "How do firms shape worker wages, beyond what skills alone explain? Boza's chapter surveys the modern firm-effect literature on wage formation, anchored by the Abowd-Kramarz-Margolis (AKM) model. AKM's innovation in 1999 was to use linked employer-employee panel data to decompose wages into worker and firm fixed effects — and the literature has consistently found both matter substantially, contradicting the simple competitive-labour-market assumption that only worker skills determine pay. The chapter reviews subsequent econometric refinements and applications to wage-inequality decomposition, gender pay gaps, and assortative matching. A useful reference for any researcher engaging with Hungarian linked-employer-employee admin data.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Survey chapter. References to a wide AKM-pattern empirical literature using linked employer-employee data from various countries; no new empirical contribution.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Foundational for Hungarian labour-market policy thinking (NFSZ, NGM, MNB labour-market unit): the firm-effect literature shows that wage gaps are not only about worker skills but also about which firms hire whom. For Hungarian gender wage gap or regional wage gap analyses (using KSH or KRTK Admin3 data), the AKM framework is the methodological starting point. Useful baseline reference for any Hungarian labour econometrician.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "labor-markets",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "descriptive-survey"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "admin-firm",
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W4386882981"
 }

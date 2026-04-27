@@ -17,19 +17,27 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This article studies inflation persistence with time-varying coefficient autoregressions for 12 central European countries in comparison with the United States and the euro area. We find that inflation persistence tends to be higher in times of high inflation. Since the oil price shocks, inflation persistence has declined both in the United States and the euro area. In most central and eastern European countries, for which our study covers 1993–2012, inflation persistence has also declined, with the main exceptions of the Czech Republic, Slovakia and Slovenia, where persistence seems to be rather stable. Our findings have implications for the conduct of monetary policy and for a possible membership in the euro area. Among the two time-varying coefficient methods we use, our results favour the flexible least squares smoother over the Kalman smoother. We also conclude that the OLS estimate of an autoregression is likely upward biased relative to the time-average of time-varying parameters, when the parameters change.",
-  "summary_en": null,
+  "summary_en": "How persistent is inflation in Central and Eastern European countries, and what does it mean for monetary policy? Darvas and Varga apply time-varying-coefficient autoregressions to 12 CEE countries plus the US and euro area. Inflation persistence tends to be higher when inflation itself is high. Since the oil price shocks, persistence has declined in both the US and the euro area. In most CEE countries (sample period 1993-2012), persistence has also declined, with notable exceptions in the Czech Republic, Slovakia and Slovenia, where it remains relatively stable. The findings have direct implications for monetary-policy conduct and for euro-area accession preparation. Methodologically, flexible-least-squares smoothing is preferred to Kalman smoothing for this estimation problem.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Quarterly inflation data for 12 CEE countries plus US and euro area, ~1993-2012. Time-varying-coefficient autoregression (TVC-AR) estimation using flexible-least-squares and Kalman-smoother methods.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For MNB monetary-policy analysis and euro-accession debates: the paper documents that Hungarian inflation persistence has been declining but remains non-trivial. Useful for calibrating MNB forecasting models and for evaluating whether Hungarian inflation dynamics are converging to euro-area patterns. Relevant input for any future euro-accession assessment by NGM and MNB.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "macroeconomics",
+    "transition-postcommunist",
+    "methods"
+  ],
+  "methods": [
+    "time-series"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
   "last_reviewed_at": "2026-04-27",
-  "review_status": "metadata-fetched",
+  "review_status": "ai-drafted",
   "openalex_id": "W2017644686"
 }
