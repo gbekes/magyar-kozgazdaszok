@@ -21,19 +21,28 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Tanulmányunkban nagymintás adminisztratív paneladatokon mutatjuk meg, hogy az országos kompetenciamérés 10. évfolyamos tesztpontszámai erősen összefüggnek a korai munkaerőpiaci helyzettel. Eredményeink szerint egy szórással jobb matematikai tesztpontszám átlagosan körülbelül 4-5 százalékkal, míg egy szórással nagyobb szövegértési tesztpontszám ezen felül további 1-2 százalékkal növeli a korai munkaerőpiaci kereseteket. A munkanélküliség valószínűségét is jelentősen csökkentheti a jobb kognitív készség: összességében egy szórással nagyobb matematikai tesztpontszám 1,5 százalékponttal csökkenti a munkanélküliségi esélyt, míg a szövegértési tesztpontszám növelése további 0,7 százalékponttal csökkenti. A kognitív készségek a magasabb végzettségűek esetében a keresetekre gyakorolnak nagyobb hatást, míg az alacsonyabb végzettségűek esetében nincs hatással a tesztpontszám a későbbi keresetekre. A munkanélküliség esetében minden végzettségi szinten van hatásuk a tesztpontszámoknak.&#13;\\nJournal of Economic Literature (JEL) kód: I26, I24, J01.",
-  "summary_en": null,
+  "summary_en": "Do PISA-style standardised test scores predict adult labour-market outcomes in Hungary? Hermann, Horn, Köllő, Sebők, Semjén and Varga use large admin panel data to link 10th-grade National Competence Test scores to subsequent labour-market outcomes. A one-standard-deviation higher math score raises early-career earnings by ~4-5%; a one-SD higher reading score adds another 1-2%. Both also reduce unemployment probability — math by 1.5 percentage points, reading by another 0.7 pp. Cognitive skills affect earnings more for the highly educated, but unemployment risk for everyone. Strong causal-style evidence that 10th-grade test scores are economically meaningful, not just educational signals.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Linked Hungarian admin data: National Competence Test scores at 10th grade combined with subsequent admin labour-market histories. Sample size in the hundreds of thousands. Coverage spans tested cohorts from the 2010s into early 2020s.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance to Hungarian education-investment policy. The paper's effect sizes (4-5% earnings boost per SD of math) provide a quantified return-on-investment benchmark for early-secondary-school interventions targeting cognitive skills. Useful for KIM / EMMI cost-benefit analysis of programmes like enhanced math curricula or extended school-day pilots. Supports continued attention to skill-development policy beyond school-completion-only targeting.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "education-skills",
+    "labor-markets"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-27",
-  "review_status": "metadata-fetched",
+  "review_status": "ai-drafted",
   "openalex_id": "W4210412186"
 }

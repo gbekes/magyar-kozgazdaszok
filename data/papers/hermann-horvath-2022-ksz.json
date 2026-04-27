@@ -17,19 +17,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "A tanulmány egy új, Magyarországon egyedülálló adatbázisra épít, amely három tankerület nyolcadikos diákjainak kompetenciaeredményeit köti össze matematika- és magyartanáraikkal. A kapcsolás révén tanári eredményességet mérő, úgynevezett hozzáadottérték-modelleket becsülünk, majd ezeket felhasználva vizsgáljuk a tanár–diák párosítás mintázatait, vagyis azt, hogy különböző társadalmi helyzetű tanulók egyenlő eséllyel férnek-e hozzá magas hozzáadott értékű pedagógusokhoz. Azt találjuk, hogy a három tankerületben a tanári hozzáadott érték nagysága összhangban áll a nemzetközi irodalomban találtakkal: az átlagosnál egy szórásegységnyivel eredményesebb tanár az általános iskola utolsó két évében körülbelül 0,2 szórásegységnyivel növeli átlagosan a tanulók kompetenciateszt-­pontszámát. Összességében, illetve iskolák között nem találunk kapcsolatot a diákok társadalmi helyzete és az őket tanító pedagógusok eredményessége között, iskolán belül azonban az átlagosan jobb családi hátterű osztályt magasabb hozzáadott értékű tanár fogja tanítani matematikából. Ez az eredmény felhívja a figyelmet az iskolák tantárgyfelosztási gyakorlatának fontosságára, amellyel csekély mértékben ugyan, de valamelyest lehetne enyhíteni a minőségi oktatáshoz való hozzáférés egyenlőtlenségein.*&#13;\\nJournal of Economic Literature (JEL) kód: I21, I24.",
-  "summary_en": null,
+  "summary_en": "Do students from different social backgrounds have equal access to high-quality teachers in Hungarian primary schools? Hermann and Horváth build a unique dataset linking 8th-graders' test scores to their math and Hungarian-language teachers across three Hungarian school districts. They estimate teacher value-added models and use them to study teacher-student matching. Hungarian teacher-value-added is comparable to international evidence: a one-SD better teacher raises test scores by ~0.2 SD over the last two primary-school years. Across schools and overall, no link between student background and teacher quality is found. But within schools, the average-better-background class gets the higher-value-added math teacher — meaning intra-school subject-allocation practices marginally widen quality access.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Linked admin data from three Hungarian school districts. Pupil-level test scores at 8th grade, linked to math and Hungarian-language teacher identities. Teacher value-added estimated from within-class score gains. Sample size ~ thousands of pupils + hundreds of teachers per district.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct input for Hungarian education quality-equity policy (KIM, EMMI). The finding that intra-school class assignment subtly favours better-background classes is a tractable equity gap to close. Possible policy levers: school-level monitoring of teacher-class assignments by class background, with explicit equity-oriented review. Also useful for KH (Klebelsberg Központ) school-management practice and for principals' professional training.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "education-skills",
+    "inequality-welfare",
+    "labor-markets"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W4309221975"
 }

@@ -18,19 +18,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Tanulmányunk a KSH időmérleg-felméréseinek és háztartási költségvetési adatfelvételeinek segítségével vizsgálja a gyermekes családok körében tapasztalható időfelhasználási és kiadási mintázatok jellegzetes társadalmi különbségeit és azok időbeli alakulását. Eredményeink szerint a magasabb iskolai végzettségű családok többet költenek készségfejlesztő eszközökre és szolgáltatásokra, mint az alacsony iskolázottságú szülőkkel rendelkező családok. Emellett a magasabb iskolai végzettségű anyák és apák több időt is fordítanak gyermekgondozásra és a gyermekeik készségeit közvetlenül vagy közvetve fejlesztő tevékenységekre, mint az alacsonyabb iskolázottságú szülők. A különbségek igen jelentősek. A felsőfokú végzettségű anyával és apával rendelkező kétgyermekes családok éves szinten átlagosan 350 órával többet töltenek gyermekgondozási tevékenységgel és 400 ezer forinttal többet költenek készségfejlesztő kiadásokra, mint a két középfokú végzettségű szülős családok. A keresztmetszeti különbségek mellett jelentős időbeli változásokat is látunk. A rendszerváltás utáni két évtizedben a gyermekekre fordított időben és a készségfejlesztő kiadásokban mért társadalmi különbségek növekedtek.*&#13;\\nJournal of Economic Literature (JEL) kód: J13, J22.",
-  "summary_en": null,
+  "summary_en": "How much does education-related parental investment vary by social background, and how has it changed since 1989? Hajdu, Kertesi and Kézdi use Hungarian Time Use Surveys and Household Budget Surveys to document patterns of time and money spent on children. The differences are substantial: families with two university-educated parents spend on average 350 hours/year more on childcare and developmental activities and 400,000 Ft/year more on skill-development than families with two upper-secondary-educated parents. The gap has widened over the post-transition decades — the social-background gradient in time-use and skill-investment expenditure both grew between the early 1990s and 2010. A key driver of inter-generational reproduction of educational inequality.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "KSH Time Use Surveys (Időmérleg-felmérés) and Household Budget Surveys (HKF), waves spanning ~1993-2010. Sample of households with children. Time-use measured in hours; skill-investment measured in HUF expenditure on education-related goods and services.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Foundational for Hungarian education and family-policy debates (KIM, EMMI, Szociális Minisztérium). The paper supports targeted early-childhood interventions (extended bölcsőde / óvoda hours, parenting support, subsidised after-school programmes) to compensate for the parental-investment gap. The widening gap over time also informs the debate on Roma educational integration and on social-mobility policy. The methodology can be re-run on more recent data to track post-2010 dynamics.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "education-skills",
+    "inequality-welfare",
+    "demographics-migration"
+  ],
+  "methods": [
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W4309221701"
 }

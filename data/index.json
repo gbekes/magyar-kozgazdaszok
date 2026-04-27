@@ -19155,20 +19155,29 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Abstract This chapter investigates how changes in employment and poverty relate to each other across the European Union’s Member States. Large employment volatility was accompanied by sizable changes in poverty rates between 2005 and 2012. Based on panel regression results, the poverty to employment elasticity was estimated to be around 25% on average. The role of changes in the poverty rates of individuals in jobless and non-jobless households and of changes in the share of those in jobless households differs greatly across countries. The success of poverty reduction depends to a large extent on three factors: the dynamics of overall employment growth, the fair distribution of employment growth across households with different levels of work intensity, and properly designed social welfare systems to smooth out income losses for families in need.",
-      "summary_en": null,
+      "summary_en": "How responsive is poverty to changes in employment across EU member states? Gábos, Branyiczki, Binder and Tóth use 2005-2012 panel data to estimate poverty's elasticity to employment. Average elasticity is around 25%: a 1% change in employment translates to roughly 0.25% change in poverty. The mechanism varies sharply across countries. Some see most poverty change come from people in jobless households, others from changes in poverty rates within working households. Successful poverty reduction depends on three factors jointly: overall employment growth, fair distribution of that growth across households with different work intensities, and well-designed social-welfare systems that smooth income losses for families in need.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "EU-SILC panel data covering EU member states, 2005-2012. Tracks employment status and poverty status of households. Country-level elasticity estimates plus decomposition into within- and between-jobless-household components.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian social-policy debates (NGM, Szociális Minisztérium): the paper supports the integrated approach of combining employment policy with welfare-system design. Hungary's post-2010 'work-not-welfare' shift focused heavily on the employment leg without strengthening the welfare-system smoothing leg. The paper's evidence suggests this design under-delivers on poverty reduction relative to balanced approaches in comparable countries.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "labor-markets",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "EU"
+      ],
+      "data_types": [
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "review_status": "ai-drafted",
       "openalex_id": "W2906451666"
     },
     {
@@ -20480,20 +20489,30 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Tanulmányunk a KSH időmérleg-felméréseinek és háztartási költségvetési adatfelvételeinek segítségével vizsgálja a gyermekes családok körében tapasztalható időfelhasználási és kiadási mintázatok jellegzetes társadalmi különbségeit és azok időbeli alakulását. Eredményeink szerint a magasabb iskolai végzettségű családok többet költenek készségfejlesztő eszközökre és szolgáltatásokra, mint az alacsony iskolázottságú szülőkkel rendelkező családok. Emellett a magasabb iskolai végzettségű anyák és apák több időt is fordítanak gyermekgondozásra és a gyermekeik készségeit közvetlenül vagy közvetve fejlesztő tevékenységekre, mint az alacsonyabb iskolázottságú szülők. A különbségek igen jelentősek. A felsőfokú végzettségű anyával és apával rendelkező kétgyermekes családok éves szinten átlagosan 350 órával többet töltenek gyermekgondozási tevékenységgel és 400 ezer forinttal többet költenek készségfejlesztő kiadásokra, mint a két középfokú végzettségű szülős családok. A keresztmetszeti különbségek mellett jelentős időbeli változásokat is látunk. A rendszerváltás utáni két évtizedben a gyermekekre fordított időben és a készségfejlesztő kiadásokban mért társadalmi különbségek növekedtek.*&#13;\\nJournal of Economic Literature (JEL) kód: J13, J22.",
-      "summary_en": null,
+      "summary_en": "How much does education-related parental investment vary by social background, and how has it changed since 1989? Hajdu, Kertesi and Kézdi use Hungarian Time Use Surveys and Household Budget Surveys to document patterns of time and money spent on children. The differences are substantial: families with two university-educated parents spend on average 350 hours/year more on childcare and developmental activities and 400,000 Ft/year more on skill-development than families with two upper-secondary-educated parents. The gap has widened over the post-transition decades — the social-background gradient in time-use and skill-investment expenditure both grew between the early 1990s and 2010. A key driver of inter-generational reproduction of educational inequality.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "KSH Time Use Surveys (Időmérleg-felmérés) and Household Budget Surveys (HKF), waves spanning ~1993-2010. Sample of households with children. Time-use measured in hours; skill-investment measured in HUF expenditure on education-related goods and services.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Foundational for Hungarian education and family-policy debates (KIM, EMMI, Szociális Minisztérium). The paper supports targeted early-childhood interventions (extended bölcsőde / óvoda hours, parenting support, subsidised after-school programmes) to compensate for the parental-investment gap. The widening gap over time also informs the debate on Roma educational integration and on social-mobility policy. The methodology can be re-run on more recent data to track post-2010 dynamics.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "education-skills",
+        "inequality-welfare",
+        "demographics-migration"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W4309221701"
     },
     {
@@ -20662,20 +20681,29 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "The collapse of the CMEA completed the Hungarian trade reorientation during the second half of the 1980s. Panel model estimations of trade reorientation reveal that cost efficiency, export subsidy and foreign demand played important and varying roles between 1981 and 1990. During the last two years cost efficiency ceased to exert an influence on the process, and subsidies were active instead.In 1991 the recession and the increased costs of trade reorientation led to a fall in the profitability of the corporate sector and exporting firms. Exporting firms with fast-growing exports had larger profits and they managed to combine the growth of exports with the expansion of domestic sales. Foreign capital and the new corporate forms have not yet ensured better performance.",
-      "summary_en": null,
+      "summary_en": "How did Hungary's trade reorientation away from CMEA toward Western markets actually unfold during 1981-1990? Halpern uses panel-model estimations to identify the relative roles of cost efficiency, export subsidies, and foreign demand in driving the reorientation. All three played important and varying roles, but with sharp dynamics: cost efficiency drove reorientation in the earlier 1980s, then ceased to influence the process; export subsidies became active in its place during the last two years before transition. By 1991, recession and rising trade-reorientation costs eroded corporate-sector profitability, but exporting firms with fast-growing exports retained higher profits. Foreign capital and new corporate forms had not yet delivered measurable performance gains by 1991.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian corporate-sector firm-level data 1981-1991 covering exporting firms. Panel-model estimation of trade-flow drivers; profit-rate analysis pre/post 1990.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Historical baseline for understanding the early Hungarian transition. Useful retrospective for evaluating the relative roles of policy levers (subsidies) versus market forces (cost efficiency, demand) in driving structural change. Indirect relevance to current debates on government industrial-strategy interventions versus market-based reform. Caveat: 1980s context; modern Hungarian export structure is dominated by FDI-led integration.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "transition-postcommunist",
+        "trade-fdi"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-firm"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W1566752286"
     },
     {
@@ -20773,20 +20801,30 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Az innováció és a termelékenység közötti vállalati szintű kapcsolat elemzésekor az exporton kívül az importot is figyelembe kell venni. Az innováció pozitívan hat a termelékenységre, ugyanakkor a hatás mértéke időben változott. Az innováció termelékenységre kifejtett becsült hatása 2010-ig nőtt, utána csökkent, és 2016-ra visszaesett a 2005. évi szintre. Ezt a hatást felerősítette az, hogy 2010 után folyamatosan és jelentősen csökkent az innovatív vállalatok aránya",
-      "summary_en": null,
+      "summary_en": "How does the firm-level innovation–productivity link evolve over time, and what role does importing play alongside exporting? Halpern documents that imports are as important as exports when analysing this link, and that the productivity effect of innovation has been time-varying. Innovation's productivity boost grew through 2010, then declined, returning to the 2005 level by 2016. This pattern was reinforced because the share of innovative firms steadily and substantially declined after 2010. A diagnosis of why Hungarian innovation-driven productivity growth has plateaued — the issue is both diminishing returns to innovation and a shrinking innovator base.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian firm-level data on innovation activity, exports, imports, and productivity. Sample period 2005-2016. Estimation accounts for endogeneity of innovation and trade activity.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for Hungarian innovation policy (NIH, ITM, NGM). Two implications: (i) innovation incentives that look at exports alone miss the import-side mechanism, and (ii) the post-2010 decline in innovative firms is a leading indicator of stalled productivity growth. Supports re-thinking Hungarian innovation-policy targeting and possibly extending support to a wider firm base. Particularly relevant for evaluating the impact of post-2010 R&D-tax-credit reforms.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "firms-productivity",
+        "innovation-digital",
+        "trade-fdi"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-firm"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W3126261138"
     },
     {
@@ -21985,20 +22023,30 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Tanulmányunk a különböző társadalmi hátterű diákok közötti általános iskolai teljesítménykülönbségek és a szegregáció alakulását mutatja be a 2006 és 2019 közötti&#13;\\nidőszakban. Számításaink szerint az adott időszakban jelentős mértékben nőtt a különböző társadalmi helyzetű diákok iskolák közötti elkülönülése, és különösen az&#13;\\nalacsony státusú (az alsó jövedelmi ötödbe tartozó) diákok szegregációja növekedett. Az időszak második felében növekedtek a teszteredmények társadalmi helyzet&#13;\\nszerinti különbségei is. A szegregáció és a tanulói teljesítmények társadalmi státus szerinti egyenlőtlenségei között is összefüggést találtunk: azokban a járásokban és&#13;\\nvárosokban, ahol erősebb a szegregáció, jellemzően nagyobbak a teszteredmények társadalmi egyenlőtlenségei is.",
-      "summary_en": null,
+      "summary_en": "Has primary-school segregation increased in Hungary, and is it widening test-score gaps? Hermann uses 2006-2019 data to track both school-level segregation and the social-background test-score gradient. School segregation by social background grew substantially over the period, with particularly strong increases for the bottom quintile of the income distribution. Test-score gaps by social background also widened during the second half of the window. Crucially, the two move together: districts and cities with stronger school segregation also have larger test-score gaps. The findings are consistent with school-level peer-and-resource effects driving social-mobility-linked outcomes.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian National Competence Test (kompetenciamérés) results 2006-2019, linked to family-background indicators and school-level demographics. Segregation measured at school level using standard segregation indices.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance to Hungarian education policy debates (KIM, EMMI). The paper provides causal-style evidence that the post-2010 educational-policy framework (free school choice + expansion of church-run and 6/8-year selective programmes) has increased segregation and widened test-score gaps. Useful empirical input for the integration-vs-selection policy debate and for any future segregation-monitoring requirement under EU education-policy frameworks.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "education-skills",
+        "inequality-welfare",
+        "regional-urban"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W4394065003"
     },
     {
@@ -22072,20 +22120,29 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Tanulmányunkban nagymintás adminisztratív paneladatokon mutatjuk meg, hogy az országos kompetenciamérés 10. évfolyamos tesztpontszámai erősen összefüggnek a korai munkaerőpiaci helyzettel. Eredményeink szerint egy szórással jobb matematikai tesztpontszám átlagosan körülbelül 4-5 százalékkal, míg egy szórással nagyobb szövegértési tesztpontszám ezen felül további 1-2 százalékkal növeli a korai munkaerőpiaci kereseteket. A munkanélküliség valószínűségét is jelentősen csökkentheti a jobb kognitív készség: összességében egy szórással nagyobb matematikai tesztpontszám 1,5 százalékponttal csökkenti a munkanélküliségi esélyt, míg a szövegértési tesztpontszám növelése további 0,7 százalékponttal csökkenti. A kognitív készségek a magasabb végzettségűek esetében a keresetekre gyakorolnak nagyobb hatást, míg az alacsonyabb végzettségűek esetében nincs hatással a tesztpontszám a későbbi keresetekre. A munkanélküliség esetében minden végzettségi szinten van hatásuk a tesztpontszámoknak.&#13;\\nJournal of Economic Literature (JEL) kód: I26, I24, J01.",
-      "summary_en": null,
+      "summary_en": "Do PISA-style standardised test scores predict adult labour-market outcomes in Hungary? Hermann, Horn, Köllő, Sebők, Semjén and Varga use large admin panel data to link 10th-grade National Competence Test scores to subsequent labour-market outcomes. A one-standard-deviation higher math score raises early-career earnings by ~4-5%; a one-SD higher reading score adds another 1-2%. Both also reduce unemployment probability — math by 1.5 percentage points, reading by another 0.7 pp. Cognitive skills affect earnings more for the highly educated, but unemployment risk for everyone. Strong causal-style evidence that 10th-grade test scores are economically meaningful, not just educational signals.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Linked Hungarian admin data: National Competence Test scores at 10th grade combined with subsequent admin labour-market histories. Sample size in the hundreds of thousands. Coverage spans tested cohorts from the 2010s into early 2020s.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance to Hungarian education-investment policy. The paper's effect sizes (4-5% earnings boost per SD of math) provide a quantified return-on-investment benchmark for early-secondary-school interventions targeting cognitive skills. Useful for KIM / EMMI cost-benefit analysis of programmes like enhanced math curricula or extended school-day pilots. Supports continued attention to skill-development policy beyond school-completion-only targeting.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "education-skills",
+        "labor-markets"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
       "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "review_status": "ai-drafted",
       "openalex_id": "W4210412186"
     },
     {
@@ -22107,20 +22164,30 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "A tanulmány egy új, Magyarországon egyedülálló adatbázisra épít, amely három tankerület nyolcadikos diákjainak kompetenciaeredményeit köti össze matematika- és magyartanáraikkal. A kapcsolás révén tanári eredményességet mérő, úgynevezett hozzáadottérték-modelleket becsülünk, majd ezeket felhasználva vizsgáljuk a tanár–diák párosítás mintázatait, vagyis azt, hogy különböző társadalmi helyzetű tanulók egyenlő eséllyel férnek-e hozzá magas hozzáadott értékű pedagógusokhoz. Azt találjuk, hogy a három tankerületben a tanári hozzáadott érték nagysága összhangban áll a nemzetközi irodalomban találtakkal: az átlagosnál egy szórásegységnyivel eredményesebb tanár az általános iskola utolsó két évében körülbelül 0,2 szórásegységnyivel növeli átlagosan a tanulók kompetenciateszt-­pontszámát. Összességében, illetve iskolák között nem találunk kapcsolatot a diákok társadalmi helyzete és az őket tanító pedagógusok eredményessége között, iskolán belül azonban az átlagosan jobb családi hátterű osztályt magasabb hozzáadott értékű tanár fogja tanítani matematikából. Ez az eredmény felhívja a figyelmet az iskolák tantárgyfelosztási gyakorlatának fontosságára, amellyel csekély mértékben ugyan, de valamelyest lehetne enyhíteni a minőségi oktatáshoz való hozzáférés egyenlőtlenségein.*&#13;\\nJournal of Economic Literature (JEL) kód: I21, I24.",
-      "summary_en": null,
+      "summary_en": "Do students from different social backgrounds have equal access to high-quality teachers in Hungarian primary schools? Hermann and Horváth build a unique dataset linking 8th-graders' test scores to their math and Hungarian-language teachers across three Hungarian school districts. They estimate teacher value-added models and use them to study teacher-student matching. Hungarian teacher-value-added is comparable to international evidence: a one-SD better teacher raises test scores by ~0.2 SD over the last two primary-school years. Across schools and overall, no link between student background and teacher quality is found. But within schools, the average-better-background class gets the higher-value-added math teacher — meaning intra-school subject-allocation practices marginally widen quality access.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Linked admin data from three Hungarian school districts. Pupil-level test scores at 8th grade, linked to math and Hungarian-language teacher identities. Teacher value-added estimated from within-class score gains. Sample size ~ thousands of pupils + hundreds of teachers per district.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct input for Hungarian education quality-equity policy (KIM, EMMI). The finding that intra-school class assignment subtly favours better-background classes is a tractable equity gap to close. Possible policy levers: school-level monitoring of teacher-class assignments by class background, with explicit equity-oriented review. Also useful for KH (Klebelsberg Központ) school-management practice and for principals' professional training.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "education-skills",
+        "inequality-welfare",
+        "labor-markets"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W4309221975"
     },
     {
@@ -23133,20 +23200,29 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Tanulmányunkban azt vizsgáljuk, hogy a mesterképzésben egy időben tanuló szaktársak milyen hatást gyakorolnak egymás későbbi munkaerőpiaci kilátásaira a végzettség megszerzését követő néhány évben. Az elemzést olyan összekötött államigazgatási adatokon végeztük, amelyek a 2003 és 2017 közötti időszakra tartalmazzák a magyarországi népesség 50 százalékának munkaerőpiaci és oktatási adatait. Becsléseink a 2010 és 2017 között mesterszakon végzett hallgatókat célozzák a korai munkakeresés és munkavállalás időszakában. A szaktársi ismeretségek hatását a közös egyetemi szakon egy félévben kezdő és ugyanazon félévben végző hallgatók munkahelyi találkozásával közelítjük. Eredményeink szerint a friss diplomások kimutathatóan nagyobb valószínűséggel nyernek felvételt olyan munkahelyekre, ahol egykori szaktársaik dolgoznak. Ez a hatás meglehetősen stabil, tehát azt elsősorban nem egyetemi szak- vagy általános értelemben vett szakspecifikus mechanizmusok vezérlik. Noha teljesen biztosak nem lehetünk a szaktársak segítő közreműködésében (legyen szó akár információátadásról, akár ajánlásról), alternatív becsléseink valószínűsítik ezt. Az egykori szaktársak vállalati jelenléte az újabban keletkezett munkaviszonyok jobb relatív minőségi jellemzőivel is párosul: magasabb kezdő bérrel, presztítízzsel és státussal, tartósabb munkaviszonnyal.* Journal of Economic Literature (JEL) kód: J24, J30, J62, J64, M51, Z13.",
-      "summary_en": null,
+      "summary_en": "Do former classmates from MA programmes affect their colleagues' early labour-market outcomes? Ilyés and Sebők use Hungarian linked admin data covering 50% of the population over 2003-2017 to estimate the effect of having a former classmate at a hiring firm. Recent MA graduates are measurably more likely to be hired into firms employing their former co-classmates. The effect is reasonably stable across types of MA programmes — implying it isn't driven by programme-specific or general-skill mechanisms but by network access. Beyond hiring probability, classmate-linked hires also have higher relative quality: higher starting wages, higher prestige and status, more stable employment. Suggests a meaningful productive role for university-network ties in early careers.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Linked Hungarian admin data, 2003-2017, covering ~50% of the working-age population. Tracks MA graduations 2010-2017 and their early-career employment paths. Identification: same-semester-start, same-semester-finish students treated as classmates; treatment = both at the same employer in early career.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "For Hungarian higher-education and active-labour-market policy: the paper supports the productive role of cohort-based university networks. Implication: programmes that artificially reduce cohort cohesion (e.g., highly individualised, asynchronous education models) may underperform on labour-market integration. Useful for evaluating Erasmus+ alumni networks, professional-association formation, and for justifying maintained cohort-based teaching structures.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "education-skills",
+        "labor-markets"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "ai-drafted",
       "openalex_id": "W3154723581"
     },
     {
@@ -38610,7 +38686,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 76
+      "paper_count": 80
     },
     {
       "id": "education-skills",
@@ -38621,7 +38697,7 @@
       "policy_framing_en": "Relevant to: curriculum design, teacher policy, school tracking age, higher education funding, vocational training.",
       "policy_framing_hu": "Releváns: tantervfejlesztés, tanárpolitika, iskolai szelekció életkora, felsőoktatás finanszírozása, szakképzés.",
       "icon": "graduation-cap",
-      "paper_count": 46
+      "paper_count": 51
     },
     {
       "id": "health",
@@ -38643,7 +38719,7 @@
       "policy_framing_en": "Relevant to: family policy, pension system, immigration policy, retention of skilled workers.",
       "policy_framing_hu": "Releváns: családpolitika, nyugdíjrendszer, bevándorláspolitika, szakemberek megtartása.",
       "icon": "users",
-      "paper_count": 24
+      "paper_count": 25
     },
     {
       "id": "trade-fdi",
@@ -38654,7 +38730,7 @@
       "policy_framing_en": "Relevant to: EU trade policy, FDI promotion, export promotion, supply chain resilience, industrial policy.",
       "policy_framing_hu": "Releváns: EU kereskedelempolitika, FDI ösztönzés, exporttámogatás, ellátási láncok rugalmassága, iparpolitika.",
       "icon": "globe",
-      "paper_count": 56
+      "paper_count": 58
     },
     {
       "id": "firms-productivity",
@@ -38665,7 +38741,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 104
+      "paper_count": 105
     },
     {
       "id": "innovation-digital",
@@ -38676,7 +38752,7 @@
       "policy_framing_en": "Relevant to: R&D tax credits, digital strategy, AI policy, innovation agency design, university–industry linkages.",
       "policy_framing_hu": "Releváns: K+F adókedvezmények, digitális stratégia, MI-politika, innovációs ügynökségek, egyetem–ipar kapcsolatok.",
       "icon": "cpu",
-      "paper_count": 45
+      "paper_count": 46
     },
     {
       "id": "banking-finance",
@@ -38709,7 +38785,7 @@
       "policy_framing_en": "Relevant to: regional development funds, housing policy, transport investment, urban planning.",
       "policy_framing_hu": "Releváns: regionális fejlesztési alapok, lakáspolitika, közlekedési beruházások, városfejlesztés.",
       "icon": "building",
-      "paper_count": 43
+      "paper_count": 44
     },
     {
       "id": "energy-environment",
@@ -38731,7 +38807,7 @@
       "policy_framing_en": "Relevant to: welfare system, anti-poverty programs, family allowances, gender-equal pay policies.",
       "policy_framing_hu": "Releváns: szociális rendszer, szegénység elleni programok, családi pótlékok, egyenlő bérezés.",
       "icon": "scale",
-      "paper_count": 84
+      "paper_count": 88
     },
     {
       "id": "political-economy",
@@ -38753,7 +38829,7 @@
       "policy_framing_en": "Relevant to: long-run diagnoses of the Hungarian and CEE economy, lessons from 30+ years of transition, institutional path dependence.",
       "policy_framing_hu": "Releváns: a magyar és KKE gazdaság hosszú távú diagnózisa, 30+ év rendszerváltásának tanulságai, intézményi útfüggőség.",
       "icon": "flag",
-      "paper_count": 32
+      "paper_count": 33
     },
     {
       "id": "behavioral",

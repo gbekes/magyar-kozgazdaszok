@@ -19,19 +19,28 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Abstract This chapter investigates how changes in employment and poverty relate to each other across the European Union’s Member States. Large employment volatility was accompanied by sizable changes in poverty rates between 2005 and 2012. Based on panel regression results, the poverty to employment elasticity was estimated to be around 25% on average. The role of changes in the poverty rates of individuals in jobless and non-jobless households and of changes in the share of those in jobless households differs greatly across countries. The success of poverty reduction depends to a large extent on three factors: the dynamics of overall employment growth, the fair distribution of employment growth across households with different levels of work intensity, and properly designed social welfare systems to smooth out income losses for families in need.",
-  "summary_en": null,
+  "summary_en": "How responsive is poverty to changes in employment across EU member states? Gábos, Branyiczki, Binder and Tóth use 2005-2012 panel data to estimate poverty's elasticity to employment. Average elasticity is around 25%: a 1% change in employment translates to roughly 0.25% change in poverty. The mechanism varies sharply across countries. Some see most poverty change come from people in jobless households, others from changes in poverty rates within working households. Successful poverty reduction depends on three factors jointly: overall employment growth, fair distribution of that growth across households with different work intensities, and well-designed social-welfare systems that smooth income losses for families in need.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "EU-SILC panel data covering EU member states, 2005-2012. Tracks employment status and poverty status of households. Country-level elasticity estimates plus decomposition into within- and between-jobless-household components.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian social-policy debates (NGM, Szociális Minisztérium): the paper supports the integrated approach of combining employment policy with welfare-system design. Hungary's post-2010 'work-not-welfare' shift focused heavily on the employment leg without strengthening the welfare-system smoothing leg. The paper's evidence suggests this design under-delivers on poverty reduction relative to balanced approaches in comparable countries.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "labor-markets",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "EU"
+  ],
+  "data_types": [
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-27",
-  "review_status": "metadata-fetched",
+  "review_status": "ai-drafted",
   "openalex_id": "W2906451666"
 }

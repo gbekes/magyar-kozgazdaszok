@@ -17,19 +17,28 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Tanulmányunkban azt vizsgáljuk, hogy a mesterképzésben egy időben tanuló szaktársak milyen hatást gyakorolnak egymás későbbi munkaerőpiaci kilátásaira a végzettség megszerzését követő néhány évben. Az elemzést olyan összekötött államigazgatási adatokon végeztük, amelyek a 2003 és 2017 közötti időszakra tartalmazzák a magyarországi népesség 50 százalékának munkaerőpiaci és oktatási adatait. Becsléseink a 2010 és 2017 között mesterszakon végzett hallgatókat célozzák a korai munkakeresés és munkavállalás időszakában. A szaktársi ismeretségek hatását a közös egyetemi szakon egy félévben kezdő és ugyanazon félévben végző hallgatók munkahelyi találkozásával közelítjük. Eredményeink szerint a friss diplomások kimutathatóan nagyobb valószínűséggel nyernek felvételt olyan munkahelyekre, ahol egykori szaktársaik dolgoznak. Ez a hatás meglehetősen stabil, tehát azt elsősorban nem egyetemi szak- vagy általános értelemben vett szakspecifikus mechanizmusok vezérlik. Noha teljesen biztosak nem lehetünk a szaktársak segítő közreműködésében (legyen szó akár információátadásról, akár ajánlásról), alternatív becsléseink valószínűsítik ezt. Az egykori szaktársak vállalati jelenléte az újabban keletkezett munkaviszonyok jobb relatív minőségi jellemzőivel is párosul: magasabb kezdő bérrel, presztítízzsel és státussal, tartósabb munkaviszonnyal.* Journal of Economic Literature (JEL) kód: J24, J30, J62, J64, M51, Z13.",
-  "summary_en": null,
+  "summary_en": "Do former classmates from MA programmes affect their colleagues' early labour-market outcomes? Ilyés and Sebők use Hungarian linked admin data covering 50% of the population over 2003-2017 to estimate the effect of having a former classmate at a hiring firm. Recent MA graduates are measurably more likely to be hired into firms employing their former co-classmates. The effect is reasonably stable across types of MA programmes — implying it isn't driven by programme-specific or general-skill mechanisms but by network access. Beyond hiring probability, classmate-linked hires also have higher relative quality: higher starting wages, higher prestige and status, more stable employment. Suggests a meaningful productive role for university-network ties in early careers.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Linked Hungarian admin data, 2003-2017, covering ~50% of the working-age population. Tracks MA graduations 2010-2017 and their early-career employment paths. Identification: same-semester-start, same-semester-finish students treated as classmates; treatment = both at the same employer in early career.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian higher-education and active-labour-market policy: the paper supports the productive role of cohort-based university networks. Implication: programmes that artificially reduce cohort cohesion (e.g., highly individualised, asynchronous education models) may underperform on labour-market integration. Useful for evaluating Erasmus+ alumni networks, professional-association formation, and for justifying maintained cohort-based teaching structures.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "education-skills",
+    "labor-markets"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W3154723581"
 }
