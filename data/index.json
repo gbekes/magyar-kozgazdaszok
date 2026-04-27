@@ -2014,6 +2014,61 @@
       "press_count": 3
     },
     {
+      "id": "laczo-sarolta",
+      "name_en": "Sarolta Laczó",
+      "name_hu": "Laczó Sarolta",
+      "affiliations": [
+        {
+          "name": "Universitat Autònoma de Barcelona",
+          "name_hu": "Barcelonai Autonóm Egyetem (UAB)",
+          "role": "Associate Professor of Economics",
+          "role_hu": "egyetemi docens, közgazdaságtan",
+          "start": 2025
+        },
+        {
+          "name": "Barcelona School of Economics",
+          "name_hu": "Barcelonai Közgazdasági Iskola (BSE)",
+          "role": "Affiliated Professor",
+          "role_hu": "kapcsolt egyetemi tanár",
+          "start": 2025
+        },
+        {
+          "name": "CEPR",
+          "name_hu": "CEPR",
+          "role": "Research Fellow",
+          "role_hu": "kutatási kapcsolattartó",
+          "start": 2020
+        }
+      ],
+      "website": "https://saroltalaczo.wixsite.com/home",
+      "email": "sarolta.laczo@uab.cat",
+      "repec_id": "pla312",
+      "scholar_id": "DTPmQbEAAAAJ",
+      "orcid": null,
+      "primary_fields": [
+        "macroeconomics",
+        "fiscal-tax",
+        "banking-finance"
+      ],
+      "bio_en": "Sarolta Laczó is an Associate Professor of Economics at the Universitat Autònoma de Barcelona and an Affiliated Professor at the Barcelona School of Economics, joining in September 2025. She is a CEPR Research Fellow. She earned her PhD from Toulouse School of Economics in 2009. Previously she was Professor of Economics at Queen Mary University of London, Lecturer at the University of Surrey, and Senior Economist at the Bank of England. Her research is in macroeconomics and public finance, with influential work on optimal taxation under commitment problems, efficient risk sharing with limited commitment, and consumption-tax design. Her papers have appeared in the Journal of Political Economy, Review of Economic Studies, Journal of the European Economic Association, Journal of Monetary Economics, the Economic Journal, and the Journal of Economic Theory.",
+      "bio_hu": "Laczó Sarolta egyetemi docens a Barcelonai Autonóm Egyetem (UAB) közgazdaságtani tanszékén, és a Barcelonai Közgazdasági Iskola (BSE) kapcsolt egyetemi tanára 2025 szeptemberétől. CEPR Research Fellow. Doktorátusát a Toulouse School of Economics-on szerezte 2009-ben. Korábban a londoni Queen Mary University Egyetem közgazdaságtan professzora, a Surrey Egyetem oktatója és a Bank of England senior közgazdásza volt. Kutatási területei a makrogazdaságtan és a közpénzügytan, különösen az elköteleződési problémákkal terhelt optimális adózás, az elkötelezettség hiányos kockázatmegosztás és a fogyasztási-adó tervezés. Tanulmányai megjelentek a Journal of Political Economy, Review of Economic Studies, Journal of the European Economic Association, Journal of Monetary Economics, Economic Journal és Journal of Economic Theory folyóiratokban.",
+      "photo_url": null,
+      "qualifying_publication": {
+        "title": "Pareto-Improving Optimal Capital and Labor Taxes",
+        "journal": "Journal of Political Economy",
+        "year": 2023
+      },
+      "deceased": false,
+      "died": null,
+      "open_to_media_en": false,
+      "open_to_media_hu": false,
+      "media_note": null,
+      "review_status": "needs-verification",
+      "paper_count": 7,
+      "policy_count": 0,
+      "press_count": 0
+    },
+    {
       "id": "lengyel-balazs",
       "name_en": "Balázs Lengyel",
       "name_hu": "Lengyel Balázs",
@@ -3901,7 +3956,7 @@
       "title": "Efficient Risk Sharing with Limited Commitment and Storage",
       "authors": [
         "abraham-arpad",
-        "Sarolta Laczó"
+        "laczo-sarolta"
       ],
       "publication_type": "article",
       "journal": "Review of Economic Studies",
@@ -3937,7 +3992,7 @@
       ],
       "featured": false,
       "added_at": "2026-04-19",
-      "last_reviewed_at": "2026-04-19",
+      "last_reviewed_at": "2026-04-27",
       "review_status": "ai-drafted",
       "openalex_id": "W2130195435",
       "policy_instruments": [
@@ -3949,7 +4004,7 @@
       "title": "Efficient risk sharing and separation",
       "authors": [
         "abraham-arpad",
-        "Sarolta Laczó"
+        "laczo-sarolta"
       ],
       "publication_type": "article",
       "journal": "Journal of Economic Theory",
@@ -3982,7 +4037,7 @@
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-27",
       "review_status": "ai-drafted",
       "openalex_id": "W4396974321",
       "policy_instruments": [
@@ -18590,6 +18645,41 @@
       ]
     },
     {
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "",
+      "summary_en": null,
+      "summary_hu": null,
+      "data_used": null,
+      "data_used_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "methods": [],
+      "countries_studied": [],
+      "data_types": [],
+      "featured": false,
+      "added_at": "2026-04-27",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "metadata-fetched",
+      "policy_instruments": [],
+      "working_paper_series": null,
+      "pages": null,
+      "issue": null,
+      "id": "gierlinger-laczo-2018-ej",
+      "title": "Matching to Share Risk without Commitment",
+      "authors": [
+        "Johannes Gierlinger",
+        "laczo-sarolta"
+      ],
+      "publication_type": "article",
+      "journal": "Economic Journal",
+      "year": 2018,
+      "doi": null,
+      "url_published": null,
+      "volume": null
+    },
+    {
       "id": "gillman-csabafi-et-al-2025-ecmod",
       "title": "Revisiting neoclassical growth theory: A primary role for inflation and capacity utilization",
       "authors": [
@@ -18921,6 +19011,42 @@
         "sovereign-CDS monitoring",
         "reserve-asset allocation"
       ]
+    },
+    {
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "",
+      "summary_en": null,
+      "summary_hu": null,
+      "data_used": null,
+      "data_used_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "methods": [],
+      "countries_studied": [],
+      "data_types": [],
+      "featured": false,
+      "added_at": "2026-04-27",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "metadata-fetched",
+      "policy_instruments": [],
+      "working_paper_series": null,
+      "pages": null,
+      "issue": "7",
+      "id": "greulich-laczo-marcet-2023-jpe",
+      "title": "Pareto-Improving Optimal Capital and Labor Taxes",
+      "authors": [
+        "Katharina Greulich",
+        "laczo-sarolta",
+        "Albert Marcet"
+      ],
+      "publication_type": "article",
+      "journal": "Journal of Political Economy",
+      "year": 2023,
+      "volume": "131",
+      "doi": null,
+      "url_published": "https://www.journals.uchicago.edu/doi/10.1086/722982"
     },
     {
       "id": "gross-layton-et-al-2022-aeri",
@@ -26114,6 +26240,109 @@
         "performance-disclosure pooling",
         "private tutoring reduction"
       ]
+    },
+    {
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "",
+      "summary_en": null,
+      "summary_hu": null,
+      "data_used": null,
+      "data_used_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "methods": [],
+      "countries_studied": [],
+      "data_types": [],
+      "featured": false,
+      "added_at": "2026-04-27",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "metadata-fetched",
+      "policy_instruments": [],
+      "working_paper_series": null,
+      "pages": null,
+      "issue": null,
+      "id": "laczo-2014-jedc",
+      "title": "Does risk sharing increase with risk aversion and risk when commitment is limited?",
+      "authors": [
+        "laczo-sarolta"
+      ],
+      "publication_type": "article",
+      "journal": "Journal of Economic Dynamics and Control",
+      "year": 2014,
+      "volume": "46",
+      "doi": "10.1016/j.jedc.2014.07.003",
+      "url_published": "https://doi.org/10.1016/j.jedc.2014.07.003"
+    },
+    {
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "",
+      "summary_en": null,
+      "summary_hu": null,
+      "data_used": null,
+      "data_used_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "methods": [],
+      "countries_studied": [],
+      "data_types": [],
+      "featured": false,
+      "added_at": "2026-04-27",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "metadata-fetched",
+      "policy_instruments": [],
+      "working_paper_series": null,
+      "pages": null,
+      "issue": "2",
+      "id": "laczo-2015-jeea",
+      "title": "Risk Sharing with Limited Commitment and Preference Heterogeneity: Structural Estimation and Testing",
+      "authors": [
+        "laczo-sarolta"
+      ],
+      "publication_type": "article",
+      "journal": "Journal of the European Economic Association",
+      "year": 2015,
+      "volume": "13",
+      "doi": "10.1111/jeea.12115",
+      "url_published": "https://doi.org/10.1111/jeea.12115"
+    },
+    {
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "",
+      "summary_en": null,
+      "summary_hu": null,
+      "data_used": null,
+      "data_used_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "methods": [],
+      "countries_studied": [],
+      "data_types": [],
+      "featured": false,
+      "added_at": "2026-04-27",
+      "last_reviewed_at": "2026-04-27",
+      "review_status": "metadata-fetched",
+      "policy_instruments": [],
+      "working_paper_series": null,
+      "pages": null,
+      "issue": null,
+      "id": "laczo-rossi-2020-jome",
+      "title": "Time-consistent consumption taxation",
+      "authors": [
+        "laczo-sarolta",
+        "Raffaele Rossi"
+      ],
+      "publication_type": "article",
+      "journal": "Journal of Monetary Economics",
+      "year": 2020,
+      "volume": "114",
+      "doi": "10.1016/j.jmoneco.2019.07.005",
+      "url_published": "https://doi.org/10.1016/j.jmoneco.2019.07.005"
     },
     {
       "id": "lafuente-acs-et-al-2019-sbe",
@@ -38294,8 +38523,8 @@
     }
   ],
   "counts": {
-    "authors": 87,
-    "papers": 698,
+    "authors": 88,
+    "papers": 703,
     "policy": 46,
     "press": 133,
     "topics": 21
