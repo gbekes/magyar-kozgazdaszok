@@ -16,7 +16,7 @@
   "url_published": "https://doi.org/10.1016/j.geb.2014.09.001",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
+  "abstract": "We show that in multi-sender communication games where senders imperfectly observe the state, if the state space is large enough, then there can exist equilibria arbitrarily close to full revelation of the state as the noise in the senders' observations gets small. In the case of replacement noise, where the senders observe the true state with high probability, we show this under mild assumptions, for both unbounded and large bounded state spaces. In the case of continuous noise, where senders observe a signal distributed continuously over a small interval around the true state, we establish this for unbounded state spaces. The results imply that when there are multiple experts from whom to solicit information, if the state space is large, then even when the state is observed imperfectly, there are communication equilibria that are strictly better for the principal than delegating the decision right to one of the experts.",
   "summary_en": null,
   "summary_hu": null,
   "data_used": null,
@@ -29,7 +29,7 @@
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
+  "last_reviewed_at": "2026-04-28",
   "review_status": "metadata-fetched",
   "openalex_id": "W2105314806"
 }
