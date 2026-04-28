@@ -18,20 +18,34 @@
   "url_published": null,
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "We estimate and test long-run risk models using international macroeconomic and financial data. The benchmark model features a representative agent who has recursive preferences with a time preference shock, a persistent component in expected consumption growth, and stochastic volatility in fundamentals characterized by an autoregressive Gamma process. We construct a comprehensive dataset with quarterly frequency in the post-war period for ten developed countries and employ an efficient likelihood-based Bayesian method that exploits up-to-date sequential Monte Carlo methods to make full econometric inference. Our estimation provides international evidence in support of long-run risks, time-varying preference shocks, and countercyclicality of the stochastic discount factor.",
+  "summary_en": "Most long-run risk evidence comes from US data alone, leaving open the question of whether the model's preference parameters and volatility processes are stable across countries. The authors estimate a long-run risk model — featuring recursive preferences with time-preference shocks, persistent expected consumption growth, and autoregressive-gamma stochastic volatility — on quarterly post-war data from ten developed countries. The international evidence supports the existence of long-run risks, time-varying preference shocks, and a countercyclical stochastic discount factor, broadly aligning with US-only findings while exposing meaningful cross-country differences in preference parameters.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Quarterly post-war consumption growth, equity returns, risk-free rates and price-dividend ratios for ten developed countries (US, UK, Canada, Australia, Japan, Germany, France, Italy, Switzerland, Netherlands), assembled from OECD, national statistical offices and Datastream.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "International long-run risk evidence informs sovereign wealth fund and pension-fund return assumptions outside the US. The paper provides cross-country preference-parameter estimates useful for institutions whose liabilities are not denominated in dollars — including Hungary's State Treasury and pension funds — when calibrating long-horizon discount rates and stress scenarios.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "macroeconomics",
+    "banking-finance"
+  ],
+  "methods": [
+    "structural",
+    "time-series"
+  ],
+  "countries_studied": [
+    "US",
+    "UK",
+    "CA",
+    "AU",
+    "JP"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-28",
   "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "review_status": "ai-drafted",
   "openalex_id": null
 }

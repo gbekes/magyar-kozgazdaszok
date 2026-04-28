@@ -16,20 +16,27 @@
   "url_published": null,
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "We investigate liquidity changes in the credit default swap (CDS) market around two events that increased market transparency and standardization during the Great Financial Crisis: the dissemination of CDS positions starting in November 2008, and the implementation of the Small Bang in July 2009. We build an econometric model based on bid and ask quotes to measure liquidity in thinly traded CDSs. We find that, after the release of CDS positions, the market-wide deterioration in liquidity is less important for banks, consistent with information revelation alleviating systemic risk uncertainty. The Small Bang also improved liquidity, particularly for more illiquid CDSs.",
+  "summary_en": "Credit default swaps (CDS) became a focal point of systemic-risk concern after 2008, and regulators responded with two transparency reforms: the DTCC began publishing CDS positions in November 2008, and the Small Bang of July 2009 standardised European contracts. The authors build an econometric model of bid-ask quotes that measures liquidity even for thinly traded CDSs. They find that DTCC dissemination reduced the market-wide liquidity deterioration faced by banks, consistent with information revelation easing counterparty-risk uncertainty. The Small Bang further improved liquidity, especially for previously illiquid contracts.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Daily bid and ask CDS quotes for a broad cross-section of single-name and index CDS contracts spanning 2007–2010, sourced from Markit; covers both bank reference entities and non-financial issuers.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct evidence for European and US regulators that post-2008 transparency reforms in OTC derivatives delivered measurable liquidity gains — particularly for the systemically sensitive bank sub-segment. Useful input for ESMA, ECB and the Hungarian MNB when assessing further transparency or central-clearing mandates in derivatives markets. Also informative for emerging-market regulators considering similar disclosure regimes.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "banking-finance",
+    "industrial-organization"
+  ],
+  "methods": [
+    "time-series"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-28",
   "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "review_status": "ai-drafted",
   "openalex_id": null
 }

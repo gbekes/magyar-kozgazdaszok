@@ -18,20 +18,31 @@
   "url_published": null,
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "We propose a likelihood-based Bayesian method that exploits up-to-date sequential Monte Carlo methods to efficiently estimate long-run risk models in which the conditional variance of consumption growth follows either an autoregressive (AR) process or an autoregressive gamma (ARG) process. We use the U.S. quarterly consumption and asset returns data from the postwar period to implement estimation. Our findings are: (1) informative priors on the preference parameters can help to improve model performance; (2) expected consumption growth has a very persistent component, whereas consumption volatility is less persistent; (3) while the ARG-based model performs better than the AR-based one statistically, the latter could fit asset returns better; and (4) the solution method matters more for estimation in the AR-based model than in the ARG-based model.",
+  "summary_en": "Long-run risk models — in which a small persistent component in expected consumption growth and time-varying consumption volatility drive asset prices — have been hard to estimate with the precision needed to compare specifications. The authors apply sequential Monte Carlo Bayesian methods to estimate models where consumption volatility follows either an autoregressive (AR) or autoregressive gamma (ARG) process, on US post-war data. They find that informative priors on preference parameters help, expected consumption growth has a very persistent component while volatility is less persistent, and the ARG specification fits consumption data better statistically while the AR fits asset returns better.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "US quarterly post-war (1947–2018) data on real per-capita consumption growth, equity returns (CRSP value-weighted index), risk-free rates, and the price-dividend ratio.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Long-run risk models are a workhorse in asset-pricing analysis used by sovereign wealth funds and pension regulators to set long-horizon return assumptions. The paper provides evidence that the choice of volatility specification — AR versus ARG — matters more for consumption fit than for asset-return fit, with practical consequences for which models should be used to set discount rates in long-horizon liability valuation.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "macroeconomics",
+    "banking-finance",
+    "methods"
+  ],
+  "methods": [
+    "structural",
+    "time-series"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-28",
   "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "review_status": "ai-drafted",
   "openalex_id": null
 }

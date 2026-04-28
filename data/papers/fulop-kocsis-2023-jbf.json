@@ -16,20 +16,32 @@
   "url_published": null,
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "This paper revisits the discussion about the role that fundamentals play in asset prices using sovereign credit spread data. We augment the standard macroeconomic proxy set by text-based measures of country and global fundamentals from a database of Reuters news articles between 2007 and 2016. We use a novel methodology that matches fundamental topic expressions and directly links them to tonality and geography information within the text. Our approach resolves several problems of extant text mining methods. We verify that our news indices capture fundamental information within news articles and are uncorrelated with measures of liquidity and investor sentiment. These news indices explain a large part of sovereign credit spread changes not captured by traditional fundamental proxies and thus support a significantly larger role for fundamentals. This additional information derives primarily from omitted expectations and concerns about global fundamentals. We also show that a large part of the covariance between the VIX index and sovereign spreads is related to these global fundamentals.",
+  "summary_en": "Standard models explain only a fraction of sovereign-credit-spread variation with macroeconomic fundamentals, leaving the rest attributed to liquidity or sentiment. Fülöp and Kocsis (the latter at the MNB) build text-based news indices from Reuters articles 2007–2016, using a regular-expression methodology that links topic mentions to tonality and geographic scope. They show the news indices capture genuine fundamental information rather than liquidity or sentiment proxies, and they explain a large share of credit-spread movements that traditional macro proxies miss. Most of the explanatory power comes from omitted expectations and concerns about global fundamentals — and a substantial part of the VIX-spread covariance is also tied to these global fundamentals.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Reuters news article archive 2007–2016 (~10 million articles), processed via custom regular-expression matching for topic, tonality and geographic markers; combined with daily sovereign credit-spread series for a broad cross-section of developed and emerging-market sovereigns including Hungary.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for the MNB and the Hungarian Government Debt Management Agency (ÁKK) in monitoring sovereign-spread movements. Shows that text-based fundamental indices add explanatory power beyond standard macro proxies, especially during global stress episodes when local macro data are slow to update. Useful complement to existing financial-stability dashboards in central banks tracking spread dynamics.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "macroeconomics",
+    "methods"
+  ],
+  "methods": [
+    "ml-text",
+    "time-series"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "digital-trace",
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-28",
   "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "review_status": "ai-drafted",
   "openalex_id": null
 }

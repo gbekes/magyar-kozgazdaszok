@@ -16,20 +16,30 @@
   "url_published": null,
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "In dynamic asset pricing models, when the model structure becomes complex and derivatives data are introduced in estimation, traditional MCMC methods converge slowly, are difficult to design efficient proposals for parameters, and have large computational cost. We propose a two-stage sequential Monte Carlo sampler based on common random numbers and a smooth particle filter. This method is robust to potential model misspecification and can deliver almost full-likelihood-based inference at a much smaller computational cost. It is applied to estimate a class of volatility models that take into account price-volatility co-jumps, non-affineness, and self-excitation. An empirical study using S&P 500 index and variance swap rates shows that both non-affineness and self-excitation need to be introduced in modeling volatility dynamics.",
+  "summary_en": "Modern asset-pricing research increasingly uses derivatives data (variance swaps, options) alongside underlying returns, but adding these informative observations makes traditional MCMC slow and unreliable. Fülöp and Li propose a two-stage sequential Monte Carlo sampler with common random numbers and a smooth particle filter, which is robust to model misspecification and approaches full-likelihood inference at much lower computational cost. Applied to S&P 500 returns plus variance-swap rates, they show that volatility models need both non-affine dynamics and self-excitation in jumps to match the data — pure affine specifications miss key features.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "S&P 500 daily index returns combined with variance-swap rates, used jointly to identify the volatility-process specification.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Variance swaps and similar volatility derivatives are now routine instruments in market-stress monitoring at the IMF, BIS and major central banks. The paper shows that estimating asset-pricing models on returns alone misses information that derivatives markets price in — and that affine workhorse specifications used for stress tests are too restrictive. Practical guidance for financial-stability research teams calibrating jump-diffusion models for systemic-risk dashboards.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "methods"
+  ],
+  "methods": [
+    "structural",
+    "time-series"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-28",
   "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "review_status": "ai-drafted",
   "openalex_id": null
 }

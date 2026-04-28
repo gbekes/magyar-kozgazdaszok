@@ -16,20 +16,30 @@
   "url_published": null,
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "This paper extends the maximum likelihood estimation method for structural credit risk models developed by Duan (1994) to account for the fact that observed equity prices may have been contaminated by trading noises. The estimation method is implemented using a particle filtering algorithm. The method is applied to estimate the Merton (1974) structural credit risk model on the Dow Jones 30 firms and on 100 randomly selected firms. The results indicate that ignoring trading noises can lead to significantly over-estimating the firm's asset volatility. The estimated magnitude of trading noise is in line with the predictions of three standard liquidity proxies. A simulation study is also conducted to verify the performance of the proposed estimation method.",
+  "summary_en": "Merton-style structural credit-risk models infer a firm's default probability from its equity price, but observed equity prices contain trading noise from market microstructure. Duan and Fülöp extend maximum-likelihood estimation with a particle filter that explicitly models this noise. Applied to the Dow Jones 30 plus 100 randomly selected US firms, they show that ignoring trading noise systematically over-estimates a firm's asset volatility — and hence its default probability. The estimated noise magnitude lines up with three standard liquidity proxies, validating the approach.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Daily equity prices, balance-sheet leverage and credit data for the Dow Jones 30 firms plus 100 randomly selected US firms over a multi-year window.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Credit-risk models drive bank capital requirements and supervisory stress tests. The paper shows that the standard structural model — used for years by rating agencies and regulators — produces systematically biased default probabilities for less-liquid firms. Filtering out trading noise lowers the implied default risk for liquid blue-chip firms and corrects upward bias for thinly traded ones. Useful for supervisors calibrating Basel-style capital models and for sovereign-credit analysts working with less-liquid emerging-market debt.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "methods"
+  ],
+  "methods": [
+    "structural",
+    "time-series"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-28",
   "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "review_status": "ai-drafted",
   "openalex_id": null
 }

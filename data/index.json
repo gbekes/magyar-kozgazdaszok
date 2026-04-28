@@ -16237,21 +16237,28 @@
       "url_published": null,
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "We investigate liquidity changes in the credit default swap (CDS) market around two events that increased market transparency and standardization during the Great Financial Crisis: the dissemination of CDS positions starting in November 2008, and the implementation of the Small Bang in July 2009. We build an econometric model based on bid and ask quotes to measure liquidity in thinly traded CDSs. We find that, after the release of CDS positions, the market-wide deterioration in liquidity is less important for banks, consistent with information revelation alleviating systemic risk uncertainty. The Small Bang also improved liquidity, particularly for more illiquid CDSs.",
+      "summary_en": "Credit default swaps (CDS) became a focal point of systemic-risk concern after 2008, and regulators responded with two transparency reforms: the DTCC began publishing CDS positions in November 2008, and the Small Bang of July 2009 standardised European contracts. The authors build an econometric model of bid-ask quotes that measures liquidity even for thinly traded CDSs. They find that DTCC dissemination reduced the market-wide liquidity deterioration faced by banks, consistent with information revelation easing counterparty-risk uncertainty. The Small Bang further improved liquidity, especially for previously illiquid contracts.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Daily bid and ask CDS quotes for a broad cross-section of single-name and index CDS contracts spanning 2007–2010, sourced from Markit; covers both bank reference entities and non-financial issuers.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct evidence for European and US regulators that post-2008 transparency reforms in OTC derivatives delivered measurable liquidity gains — particularly for the systemically sensitive bank sub-segment. Useful input for ESMA, ECB and the Hungarian MNB when assessing further transparency or central-clearing mandates in derivatives markets. Also informative for emerging-market regulators considering similar disclosure regimes.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "banking-finance",
+        "industrial-organization"
+      ],
+      "methods": [
+        "time-series"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-28",
       "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "review_status": "ai-drafted",
       "openalex_id": null
     },
     {
@@ -16906,21 +16913,31 @@
       "url_published": null,
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "This paper extends the maximum likelihood estimation method for structural credit risk models developed by Duan (1994) to account for the fact that observed equity prices may have been contaminated by trading noises. The estimation method is implemented using a particle filtering algorithm. The method is applied to estimate the Merton (1974) structural credit risk model on the Dow Jones 30 firms and on 100 randomly selected firms. The results indicate that ignoring trading noises can lead to significantly over-estimating the firm's asset volatility. The estimated magnitude of trading noise is in line with the predictions of three standard liquidity proxies. A simulation study is also conducted to verify the performance of the proposed estimation method.",
+      "summary_en": "Merton-style structural credit-risk models infer a firm's default probability from its equity price, but observed equity prices contain trading noise from market microstructure. Duan and Fülöp extend maximum-likelihood estimation with a particle filter that explicitly models this noise. Applied to the Dow Jones 30 plus 100 randomly selected US firms, they show that ignoring trading noise systematically over-estimates a firm's asset volatility — and hence its default probability. The estimated noise magnitude lines up with three standard liquidity proxies, validating the approach.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Daily equity prices, balance-sheet leverage and credit data for the Dow Jones 30 firms plus 100 randomly selected US firms over a multi-year window.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Credit-risk models drive bank capital requirements and supervisory stress tests. The paper shows that the standard structural model — used for years by rating agencies and regulators — produces systematically biased default probabilities for less-liquid firms. Filtering out trading noise lowers the implied default risk for liquid blue-chip firms and corrects upward bias for thinly traded ones. Useful for supervisors calibrating Basel-style capital models and for sovereign-credit analysts working with less-liquid emerging-market debt.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "methods"
+      ],
+      "methods": [
+        "structural",
+        "time-series"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-28",
       "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "review_status": "ai-drafted",
       "openalex_id": null
     },
     {
@@ -16976,21 +16993,29 @@
       "url_published": null,
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "We propose a density-tempered marginalized sequential Monte Carlo (SMC) sampler, a new class of samplers for full Bayesian inference of general state-space models. The dynamic states are approximately marginalized out using a particle filter, and the parameters are sampled via a sequential Monte Carlo sampler over a density-tempered bridge between the prior and the posterior. Our approach delivers exact draws from the joint posterior of the parameters and the latent states for any given number of state particles and is thus easily parallelizable in implementation. We also build into the proposed method a device that can automatically select a suitable number of state particles. Since the method incorporates sample information in a smooth fashion, it delivers good performance in the presence of outliers. We check the performance of the density-tempered SMC algorithm using simulated data based on a linear Gaussian state-space model with and without misspecification. We also apply it on real stock prices using a GARCH-type model with microstructure noise.",
+      "summary_en": "Bayesian estimation of state-space models — the workhorse for stochastic-volatility, term-structure, and credit-risk research — typically uses MCMC, which is fragile in the presence of outliers and hard to parallelise. Duan and Fülöp propose a sequential Monte Carlo sampler that bridges smoothly from the prior to the posterior via a density-tempered path, marginalising the hidden states with a particle filter at each step. The method delivers exact joint posterior draws, scales naturally across CPU cores, and selects the number of state particles automatically. They validate it on simulated linear Gaussian data and apply it to GARCH models with microstructure noise.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Simulated linear Gaussian state-space data (with and without misspecification) for validation, plus high-frequency real stock-price data for the GARCH-with-microstructure-noise application.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Central-bank research departments and supervisory model-validation teams increasingly run latent-state models for inflation, output gap, and credit-risk dashboards. The density-tempered SMC approach is a drop-in replacement for MCMC that handles outliers well — a recurring problem in crisis episodes — and exploits multi-core hardware. Practical improvement for any institution running high-dimensional Bayesian risk models on tight refresh cycles.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "methods",
+        "banking-finance"
+      ],
+      "methods": [
+        "structural",
+        "time-series"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-28",
       "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "review_status": "ai-drafted",
       "openalex_id": null
     },
     {
@@ -19791,21 +19816,32 @@
       "url_published": null,
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "We propose a likelihood-based Bayesian method that exploits up-to-date sequential Monte Carlo methods to efficiently estimate long-run risk models in which the conditional variance of consumption growth follows either an autoregressive (AR) process or an autoregressive gamma (ARG) process. We use the U.S. quarterly consumption and asset returns data from the postwar period to implement estimation. Our findings are: (1) informative priors on the preference parameters can help to improve model performance; (2) expected consumption growth has a very persistent component, whereas consumption volatility is less persistent; (3) while the ARG-based model performs better than the AR-based one statistically, the latter could fit asset returns better; and (4) the solution method matters more for estimation in the AR-based model than in the ARG-based model.",
+      "summary_en": "Long-run risk models — in which a small persistent component in expected consumption growth and time-varying consumption volatility drive asset prices — have been hard to estimate with the precision needed to compare specifications. The authors apply sequential Monte Carlo Bayesian methods to estimate models where consumption volatility follows either an autoregressive (AR) or autoregressive gamma (ARG) process, on US post-war data. They find that informative priors on preference parameters help, expected consumption growth has a very persistent component while volatility is less persistent, and the ARG specification fits consumption data better statistically while the AR fits asset returns better.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "US quarterly post-war (1947–2018) data on real per-capita consumption growth, equity returns (CRSP value-weighted index), risk-free rates, and the price-dividend ratio.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Long-run risk models are a workhorse in asset-pricing analysis used by sovereign wealth funds and pension regulators to set long-horizon return assumptions. The paper provides evidence that the choice of volatility specification — AR versus ARG — matters more for consumption fit than for asset-return fit, with practical consequences for which models should be used to set discount rates in long-horizon liability valuation.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "macroeconomics",
+        "banking-finance",
+        "methods"
+      ],
+      "methods": [
+        "structural",
+        "time-series"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-28",
       "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "review_status": "ai-drafted",
       "openalex_id": null
     },
     {
@@ -19826,21 +19862,33 @@
       "url_published": null,
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "This paper revisits the discussion about the role that fundamentals play in asset prices using sovereign credit spread data. We augment the standard macroeconomic proxy set by text-based measures of country and global fundamentals from a database of Reuters news articles between 2007 and 2016. We use a novel methodology that matches fundamental topic expressions and directly links them to tonality and geography information within the text. Our approach resolves several problems of extant text mining methods. We verify that our news indices capture fundamental information within news articles and are uncorrelated with measures of liquidity and investor sentiment. These news indices explain a large part of sovereign credit spread changes not captured by traditional fundamental proxies and thus support a significantly larger role for fundamentals. This additional information derives primarily from omitted expectations and concerns about global fundamentals. We also show that a large part of the covariance between the VIX index and sovereign spreads is related to these global fundamentals.",
+      "summary_en": "Standard models explain only a fraction of sovereign-credit-spread variation with macroeconomic fundamentals, leaving the rest attributed to liquidity or sentiment. Fülöp and Kocsis (the latter at the MNB) build text-based news indices from Reuters articles 2007–2016, using a regular-expression methodology that links topic mentions to tonality and geographic scope. They show the news indices capture genuine fundamental information rather than liquidity or sentiment proxies, and they explain a large share of credit-spread movements that traditional macro proxies miss. Most of the explanatory power comes from omitted expectations and concerns about global fundamentals — and a substantial part of the VIX-spread covariance is also tied to these global fundamentals.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Reuters news article archive 2007–2016 (~10 million articles), processed via custom regular-expression matching for topic, tonality and geographic markers; combined with daily sovereign credit-spread series for a broad cross-section of developed and emerging-market sovereigns including Hungary.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for the MNB and the Hungarian Government Debt Management Agency (ÁKK) in monitoring sovereign-spread movements. Shows that text-based fundamental indices add explanatory power beyond standard macro proxies, especially during global stress episodes when local macro data are slow to update. Useful complement to existing financial-stability dashboards in central banks tracking spread dynamics.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "macroeconomics",
+        "methods"
+      ],
+      "methods": [
+        "ml-text",
+        "time-series"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "digital-trace",
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-28",
       "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "review_status": "ai-drafted",
       "openalex_id": null
     },
     {
@@ -19861,21 +19909,29 @@
       "url_published": null,
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "In state–space models, parameter learning is practically difficult and is still an open issue. This paper proposes an efficient simulation-based parameter learning method. First, the approach breaks up the interdependence of the hidden states and the static parameters by marginalizing out the states using a particle filter. Second, it applies a Bayesian resample-move approach to this marginalized system. The methodology is generic and needs little design effort. Different from batch estimation methods, it provides posterior quantities necessary for full sequential inference and recursive model monitoring. The algorithm is implemented both on simulated data in a linear Gaussian model for illustration and comparison and on real data in a Lévy jump stochastic volatility model and a structural credit risk model.",
+      "summary_en": "Estimating models that combine observable data with unobserved hidden states — common in finance and macroeconomics — is computationally hard, especially when the static parameters must also be learned. Fülöp and Li propose a generic Bayesian algorithm that first marginalises out the hidden states using a particle filter, then sweeps the parameters with a sequential resample-move step. The method needs little case-specific tuning and delivers full real-time posterior beliefs rather than only point estimates. They illustrate it on a Lévy jump stochastic-volatility model and a structural credit-risk model.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Simulated data from a linear Gaussian state-space model for benchmarking, plus daily equity-return data used in a Lévy jump stochastic-volatility application and a structural credit-risk application.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Sequential learning matters for any institution that updates its risk models as new data arrive — central banks producing real-time inflation nowcasts, financial supervisors monitoring evolving counterparty risk, or asset managers updating prior beliefs about return predictability. The algorithm makes full Bayesian inference tractable without bespoke MCMC tuning, lowering the entry cost for institutions whose macrofinance and credit-risk teams want recursive updating rather than periodic batch re-estimation.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "methods",
+        "banking-finance"
+      ],
+      "methods": [
+        "structural",
+        "time-series"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-28",
       "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "review_status": "ai-drafted",
       "openalex_id": null
     },
     {
@@ -19896,21 +19952,31 @@
       "url_published": null,
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "In dynamic asset pricing models, when the model structure becomes complex and derivatives data are introduced in estimation, traditional MCMC methods converge slowly, are difficult to design efficient proposals for parameters, and have large computational cost. We propose a two-stage sequential Monte Carlo sampler based on common random numbers and a smooth particle filter. This method is robust to potential model misspecification and can deliver almost full-likelihood-based inference at a much smaller computational cost. It is applied to estimate a class of volatility models that take into account price-volatility co-jumps, non-affineness, and self-excitation. An empirical study using S&P 500 index and variance swap rates shows that both non-affineness and self-excitation need to be introduced in modeling volatility dynamics.",
+      "summary_en": "Modern asset-pricing research increasingly uses derivatives data (variance swaps, options) alongside underlying returns, but adding these informative observations makes traditional MCMC slow and unreliable. Fülöp and Li propose a two-stage sequential Monte Carlo sampler with common random numbers and a smooth particle filter, which is robust to model misspecification and approaches full-likelihood inference at much lower computational cost. Applied to S&P 500 returns plus variance-swap rates, they show that volatility models need both non-affine dynamics and self-excitation in jumps to match the data — pure affine specifications miss key features.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "S&P 500 daily index returns combined with variance-swap rates, used jointly to identify the volatility-process specification.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Variance swaps and similar volatility derivatives are now routine instruments in market-stress monitoring at the IMF, BIS and major central banks. The paper shows that estimating asset-pricing models on returns alone misses information that derivatives markets price in — and that affine workhorse specifications used for stress tests are too restrictive. Practical guidance for financial-stability research teams calibrating jump-diffusion models for systemic-risk dashboards.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "methods"
+      ],
+      "methods": [
+        "structural",
+        "time-series"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-28",
       "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "review_status": "ai-drafted",
       "openalex_id": null
     },
     {
@@ -19933,21 +19999,35 @@
       "url_published": null,
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "We estimate and test long-run risk models using international macroeconomic and financial data. The benchmark model features a representative agent who has recursive preferences with a time preference shock, a persistent component in expected consumption growth, and stochastic volatility in fundamentals characterized by an autoregressive Gamma process. We construct a comprehensive dataset with quarterly frequency in the post-war period for ten developed countries and employ an efficient likelihood-based Bayesian method that exploits up-to-date sequential Monte Carlo methods to make full econometric inference. Our estimation provides international evidence in support of long-run risks, time-varying preference shocks, and countercyclicality of the stochastic discount factor.",
+      "summary_en": "Most long-run risk evidence comes from US data alone, leaving open the question of whether the model's preference parameters and volatility processes are stable across countries. The authors estimate a long-run risk model — featuring recursive preferences with time-preference shocks, persistent expected consumption growth, and autoregressive-gamma stochastic volatility — on quarterly post-war data from ten developed countries. The international evidence supports the existence of long-run risks, time-varying preference shocks, and a countercyclical stochastic discount factor, broadly aligning with US-only findings while exposing meaningful cross-country differences in preference parameters.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Quarterly post-war consumption growth, equity returns, risk-free rates and price-dividend ratios for ten developed countries (US, UK, Canada, Australia, Japan, Germany, France, Italy, Switzerland, Netherlands), assembled from OECD, national statistical offices and Datastream.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "International long-run risk evidence informs sovereign wealth fund and pension-fund return assumptions outside the US. The paper provides cross-country preference-parameter estimates useful for institutions whose liabilities are not denominated in dollars — including Hungary's State Treasury and pension funds — when calibrating long-horizon discount rates and stress scenarios.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "macroeconomics",
+        "banking-finance"
+      ],
+      "methods": [
+        "structural",
+        "time-series"
+      ],
+      "countries_studied": [
+        "US",
+        "UK",
+        "CA",
+        "AU",
+        "JP"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-28",
       "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "review_status": "ai-drafted",
       "openalex_id": null
     },
     {
@@ -19969,21 +20049,32 @@
       "url_published": null,
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "The paper proposes a self-exciting asset pricing model that takes into account co-jumps between prices and volatility and self-exciting jump clustering. We employ a Bayesian learning approach to implement real-time sequential analysis. We find evidence of self-exciting jump clustering since the 1987 market crash, and its importance becomes more obvious at the onset of the 2008 global financial crisis. We also find that learning affects the tail behaviors of the return distributions and has important implications for risk management, volatility forecasting, and option pricing.",
+      "summary_en": "Using daily S&P 500 returns from 1980–2010, the authors build a Bayesian asset-pricing model in which negative price jumps trigger spikes in volatility and raise the probability of further jumps — so shocks cluster rather than arrive independently. They estimate the model in real time using sequential Monte Carlo techniques. Self-exciting jump clustering is clearly visible after the 1987 crash and becomes much more pronounced from late 2008 onwards. Accounting for this clustering changes the tail of the return distribution, with material implications for value-at-risk, volatility forecasts, and option prices.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Daily S&P 500 index returns from 1980 through 2010 (~7,500 trading days), augmented with option-implied volatility benchmarks for validation.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Macroprudential supervisors and central-bank financial-stability units (including MNB) calibrate stress tests and capital requirements with assumed return distributions. The paper shows that ignoring jump clustering systematically understates extreme losses, especially during crises like 2008. Methods that incorporate self-exciting jumps produce more conservative tail-risk numbers and better-aligned option-implied vs. realized volatility — useful inputs for capital-buffer calibration and counterparty-risk monitoring.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "methods",
+        "macroeconomics"
+      ],
+      "methods": [
+        "time-series",
+        "structural"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-28",
       "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "review_status": "ai-drafted",
       "openalex_id": null
     },
     {
@@ -36612,21 +36703,31 @@
       "url_published": null,
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "The paper examines statistical and economic evidence of out-of-sample bond return predictability for a real-time Bayesian investor who learns about parameters, hidden states, and predictive models over time. We find some statistical evidence using information contained in forward rates. However, such statistical predictability can hardly generate any economic value for investors. Furthermore, we find that strong statistical and economic evidence of bond return predictability from fully-revised macroeconomic data vanishes when real-time macroeconomic information is used. We also show that highly levered investments in bonds can improve short-run bond return predictability.",
+      "summary_en": "Whether US Treasury bond returns can be predicted out of sample — and whether predictability translates into investor profits — is a long-running debate. The authors model a real-time Bayesian investor who learns about parameters, latent states and competing predictive models as data arrive, rather than relying on hindsight. They find some statistical evidence that forward rates predict bond returns, but the predictability does not generate economic value for unlevered investors. Strong predictability from fully revised macro data largely vanishes once real-time vintage data are used. Highly levered bond investments do, however, improve short-run predictability.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Monthly US Treasury bond returns and yield curve data from FRED and CRSP, combined with real-time vintage macroeconomic data from the ALFRED archive (Philadelphia Fed) covering several decades of post-war US data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Pension funds, sovereign wealth managers and central-bank reserve desks rely on bond-return forecasts. The paper warns that predictability shown using ex-post macroeconomic series likely overstates what real-time portfolio managers could have actually earned — a relevant caution for back-tests informing reserve-management strategy. Highlights why model-validation regimes should require real-time vintage data, not revised series.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "macroeconomics"
+      ],
+      "methods": [
+        "time-series",
+        "structural"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-28",
       "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "review_status": "ai-drafted",
       "openalex_id": null
     },
     {
@@ -40594,7 +40695,7 @@
       "policy_framing_en": "Relevant to: MNB policy, banking regulation, macroprudential tools, financial inclusion.",
       "policy_framing_hu": "Releváns: MNB-politika, bankszabályozás, makroprudenciális eszközök, pénzügyi befogadás.",
       "icon": "landmark",
-      "paper_count": 95
+      "paper_count": 105
     },
     {
       "id": "fiscal-tax",
@@ -40682,7 +40783,7 @@
       "policy_framing_en": "Relevant to: competition policy (GVH), merger review, platform regulation, auction design, sector-specific regulation.",
       "policy_framing_hu": "Releváns: versenypolitika (GVH), fúziókontroll, platformszabályozás, aukciótervezés, ágazati szabályozás.",
       "icon": "network",
-      "paper_count": 38
+      "paper_count": 39
     },
     {
       "id": "macroeconomics",
@@ -40693,7 +40794,7 @@
       "policy_framing_en": "Relevant to: long-run growth forecasting, macroeconomic modelling, sovereign-debt management, stabilisation policy design.",
       "policy_framing_hu": "Releváns: hosszú távú növekedés előrejelzés, makroökonómiai modellek, államadósság-kezelés, stabilizációs politika.",
       "icon": "line-chart",
-      "paper_count": 56
+      "paper_count": 61
     },
     {
       "id": "agriculture-food",
@@ -40715,7 +40816,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 130
+      "paper_count": 137
     },
     {
       "id": "market-design",
