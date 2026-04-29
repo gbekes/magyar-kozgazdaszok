@@ -16,20 +16,26 @@
   "url_published": "https://doi.org/10.1016/j.econlet.2013.10.002",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "We model countersignaling (i.e., very high types refraining from signaling) arising from the tradeoff between persuasion and learning in a signaling game. We assume that the agent has imperfect private information regarding his/her productivity, which the signaling action provides additional verifiable information about. A higher-type agent benefits more from providing such objective, albeit imprecise, “proof” for the market, but may also gain less from learning about his/her productivity. When the latter effect dominates the former for the very high types, the equilibrium exhibits countersignaling: very high and low types pool on refraining from signaling, and only the medium types signal. Under certain conditions, the countersignaling equilibrium is the unique pure-strategy perfect sequential equilibrium.",
+  "summary_en": "In standard signaling models, higher types signal more — better candidates send stronger costly signals. But sometimes the very best types refuse to signal at all (countersignaling). Chung and Eső model this as arising from a trade-off between persuasion (signaling helps the market judge me) and learning (signaling gives me information about my own type). Higher types gain more from persuasion but less from learning, so when the learning effect dominates for the very best, equilibrium has both very-high and low types pooling on no-signal, while medium types signal. The result rationalises observed labour-market patterns where elite candidates skip credentials.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model — signaling game with persuasion-learning trade-off. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Provides theoretical foundation for understanding why elite Hungarian universities and PhD programmes face uneven signal-supplying patterns: the very best students may rationally avoid additional credentialing. Relevant for ITM and Hungarian higher-education policy when designing credentialing systems and quality assessments.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "mechanism-design",
+    "behavioral",
+    "labor-markets"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2031450844"
 }

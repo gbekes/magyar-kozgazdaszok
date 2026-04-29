@@ -14477,21 +14477,27 @@
       "url_published": "https://doi.org/10.1016/j.econlet.2013.10.002",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "We model countersignaling (i.e., very high types refraining from signaling) arising from the tradeoff between persuasion and learning in a signaling game. We assume that the agent has imperfect private information regarding his/her productivity, which the signaling action provides additional verifiable information about. A higher-type agent benefits more from providing such objective, albeit imprecise, “proof” for the market, but may also gain less from learning about his/her productivity. When the latter effect dominates the former for the very high types, the equilibrium exhibits countersignaling: very high and low types pool on refraining from signaling, and only the medium types signal. Under certain conditions, the countersignaling equilibrium is the unique pure-strategy perfect sequential equilibrium.",
+      "summary_en": "In standard signaling models, higher types signal more — better candidates send stronger costly signals. But sometimes the very best types refuse to signal at all (countersignaling). Chung and Eső model this as arising from a trade-off between persuasion (signaling helps the market judge me) and learning (signaling gives me information about my own type). Higher types gain more from persuasion but less from learning, so when the learning effect dominates for the very best, equilibrium has both very-high and low types pooling on no-signal, while medium types signal. The result rationalises observed labour-market patterns where elite candidates skip credentials.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — signaling game with persuasion-learning trade-off. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Provides theoretical foundation for understanding why elite Hungarian universities and PhD programmes face uneven signal-supplying patterns: the very best students may rationally avoid additional credentialing. Relevant for ITM and Hungarian higher-education policy when designing credentialing systems and quality assessments.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "mechanism-design",
+        "behavioral",
+        "labor-markets"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2031450844"
     },
     {
@@ -18704,21 +18710,26 @@
       "url_published": "https://doi.org/10.1007/s00182-012-0344-8",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "We expand Crawford and Sobel's (Econometrica 50(6):1431–1451, 1982) model of information transmission to allow for the costly provision of 'hard evidence' in addition to conventional cheap talk. Under mild assumptions we prove that equilibria have an interval-partition structure, where types of the Sender belonging to the same interval either all induce the same action through cheap talk or reveal their types through hard evidence. We also show that the availability of costly hard signals may reverse one of the important implications of the classical cheap talk model, namely, that diverging preferences always lead to less communication.",
+      "summary_en": "Crawford and Sobel (1982) showed that with biased communication ('cheap talk'), more divergent sender-receiver preferences mean less informative messages. Eső and Galambos extend this canonical model by allowing the sender to provide 'hard evidence' (costly verifiable proof) in addition to cheap talk. They prove equilibria have an interval-partition structure: senders within an interval either pool on the same cheap-talk message or reveal their type through hard evidence. Surprisingly, costly hard signals can reverse the classical result — diverging preferences may sometimes lead to MORE communication, not less, because more divergent senders find hard evidence relatively more attractive.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — extension of Crawford-Sobel cheap-talk framework with hard-evidence option. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for institutional design where regulators or committees solicit information from biased experts (GVH technical-economic panels, MEKH expert reviews, MNB advisory committees, EU expert groups). The paper shows that allowing experts to provide hard evidence — not just opinions — can improve information transmission even when expert preferences differ from the regulator's.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "mechanism-design",
+        "behavioral"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2100951350"
     },
     {
@@ -41750,7 +41761,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 94
+      "paper_count": 95
     },
     {
       "id": "education-skills",
@@ -41904,7 +41915,7 @@
       "policy_framing_en": "Relevant to: consumer protection, pension-default design, nudging, financial-education regulation, addictive-product regulation.",
       "policy_framing_hu": "Releváns: fogyasztóvédelem, nyugdíjalap-alapbeállítások, döntéslendítés (nudge), pénzügyi edukáció szabályozása, függőséget okozó termékek szabályozása.",
       "icon": "brain",
-      "paper_count": 109
+      "paper_count": 111
     },
     {
       "id": "industrial-organization",
@@ -41970,7 +41981,7 @@
       "policy_framing_en": "Relevant to: regulatory design, procurement, voting reform, contract law, antitrust analysis, committee design.",
       "policy_framing_hu": "Releváns: szabályozási tervezés, közbeszerzés, választási reform, szerződésjog, versenypolitika, bizottsági tervezés.",
       "icon": "scale",
-      "paper_count": 63
+      "paper_count": 65
     }
   ],
   "journals": [
