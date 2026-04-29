@@ -17,20 +17,25 @@
   "url_published": "https://doi.org/10.1007/978-3-031-15149-1_3",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "Treatment effect estimation from observational data relies on auxiliary prediction exercises. This chapter presents recent developments in the econometrics literature showing that machine learning methods can be fruitfully applied for this purpose. The double machine learning (DML) approach is concerned primarily with selecting the relevant control variables and functional forms necessary for the consistent estimation of an average treatment effect. We explain why the use of orthogonal moment conditions is crucial in this setting. Another, somewhat distinct, strand of the literature focuses on treatment effect heterogeneity through the discovery of the conditional average treatment effect (CATE) function. Here we distinguish between methods aimed at estimating the entire function and those that project it on a pre-specified coordinate.",
+  "summary_en": "How can machine-learning methods be used to estimate causal treatment effects from observational data? Lieli, Hsu and Reguly survey two complementary strands of this literature in a textbook chapter. The 'double machine learning' (DML) approach uses ML to select control variables and functional forms while keeping inference valid via orthogonal moment conditions — useful when the goal is the average treatment effect. The conditional average treatment effect (CATE) literature uses ML to discover treatment-effect heterogeneity, either by estimating the full CATE function or by projecting it on a pre-specified subspace.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Survey chapter — methodological synthesis. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungarian government and academic researchers using observational data for policy evaluation (NAV tax data, ONYF pension records, KSH survey data) increasingly use ML-augmented causal methods. The chapter provides an accessible textbook introduction to DML and CATE estimation, useful for KSH, MNB, KRTK, and the Pénzügyminisztérium evaluation units when training analysts in modern causal-ML methods.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "ml-text",
+    "structural"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W4294930895"
 }

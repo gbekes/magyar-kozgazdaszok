@@ -7,7 +7,7 @@
   ],
   "publication_type": "article",
   "journal": "Journal of Econometrics",
-  "year": 2009,
+  "year": 2010,
   "volume": "157",
   "issue": "1",
   "pages": "110-119",
@@ -16,20 +16,31 @@
   "url_published": "https://doi.org/10.1016/j.jeconom.2009.10.028",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "We examine the econometric implications of the decision problem faced by a profit/utility-maximizing lender operating in a simple “double-binary” environment, where the two actions available are “approve” or “reject”, and the two states of the world are “pay back” or “default”. In practice, such decisions are often made by applying a fixed cutoff to the maximum likelihood estimate of a parametric model of the default probability. Following Elliott and Lieli (2007), we argue that this practice might contradict the lender's economic objective and, using German loan data, we illustrate the use of “context-specific” cutoffs and an estimation method derived directly from the lender's problem. We also provide a brief discussion of how to incorporate legal constraints, such as the prohibition of disparate treatment of potential borrowers, into the lender's problem.",
+  "summary_en": "Lenders deciding whether to approve a loan face a binary decision (approve/reject) under a binary state of the world (default/repay). Standard practice estimates a default-probability model and applies a fixed cutoff. Lieli and White show this widespread method can contradict the lender's profit-maximisation problem because it ignores the loss asymmetry: a missed-payment default is more costly than a forgone good loan. Using German loan data, they illustrate how 'context-specific' cutoffs derived from the lender's economic objective produce different decisions than maximum-likelihood-plus-fixed-threshold rules, and how legal constraints (e.g., disparate-treatment prohibitions) can be embedded in the optimisation.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "German consumer-loan dataset commonly used in credit-scoring research, with default-outcome labels and applicant characteristics.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungarian banks (OTP, K&H, MKB, Erste) use credit-scoring models that the MNB supervises under Basel rules. The paper provides econometric foundations for context-specific cutoffs that align scoring with economic objectives — relevant for MNB's supervisory review of internal-ratings-based (IRB) models. Also relevant for fair-lending compliance under Hungarian Equal Treatment law.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "methods",
+    "behavioral"
+  ],
+  "methods": [
+    "theory",
+    "structural"
+  ],
+  "countries_studied": [
+    "DE"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2163171248"
 }

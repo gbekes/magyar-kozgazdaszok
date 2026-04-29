@@ -17875,21 +17875,27 @@
       "url_published": "https://doi.org/10.1016/j.jeconom.2013.01.003",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "We address the issue of using a set of covariates to categorize or predict a binary outcome. This is a common problem in many disciplines including economics. In the context of a prespecified utility (or cost) function we examine the construction of forecasts suggesting an extension of the Manski (1975, 1985) maximum score approach. We provide analytical properties of the method and compare it to more common approaches such as forecasts or classifications based on conditional probability models. Large gains over existing methods can be attained when models are misspecified.",
+      "summary_en": "Most binary-outcome predictors are built by estimating a conditional probability model (logit, probit) and applying a fixed threshold. Elliott and Lieli show that this approach is suboptimal when the underlying utility/cost function for the prediction error is asymmetric, and they extend Manski's maximum-score method to a 'utility-based' prediction framework that estimates the predictor directly from the loss function. They derive analytical properties and show that when conditional-probability models are misspecified, the utility-based approach can deliver large gains in prediction quality.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model + simulation analysis demonstrating large gains over conditional-probability-based prediction when models are misspecified. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for binary-decision problems in Hungarian regulatory institutions: GVH (merger approval), MNB (loan approval, prudential decisions), NÉBIH (food-safety decisions), MEKH (energy-permit decisions). The paper provides an econometric framework for designing decision rules that match the actual utility consequences of different errors, rather than minimising statistical likelihood.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "methods",
+        "behavioral"
+      ],
+      "methods": [
+        "theory",
+        "structural"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2114224640"
     },
     {
@@ -30226,21 +30232,26 @@
       "url_published": "https://doi.org/10.1007/978-3-031-15149-1_3",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "Treatment effect estimation from observational data relies on auxiliary prediction exercises. This chapter presents recent developments in the econometrics literature showing that machine learning methods can be fruitfully applied for this purpose. The double machine learning (DML) approach is concerned primarily with selecting the relevant control variables and functional forms necessary for the consistent estimation of an average treatment effect. We explain why the use of orthogonal moment conditions is crucial in this setting. Another, somewhat distinct, strand of the literature focuses on treatment effect heterogeneity through the discovery of the conditional average treatment effect (CATE) function. Here we distinguish between methods aimed at estimating the entire function and those that project it on a pre-specified coordinate.",
+      "summary_en": "How can machine-learning methods be used to estimate causal treatment effects from observational data? Lieli, Hsu and Reguly survey two complementary strands of this literature in a textbook chapter. The 'double machine learning' (DML) approach uses ML to select control variables and functional forms while keeping inference valid via orthogonal moment conditions — useful when the goal is the average treatment effect. The conditional average treatment effect (CATE) literature uses ML to discover treatment-effect heterogeneity, either by estimating the full CATE function or by projecting it on a pre-specified subspace.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Survey chapter — methodological synthesis. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungarian government and academic researchers using observational data for policy evaluation (NAV tax data, ONYF pension records, KSH survey data) increasingly use ML-augmented causal methods. The chapter provides an accessible textbook introduction to DML and CATE estimation, useful for KSH, MNB, KRTK, and the Pénzügyminisztérium evaluation units when training analysts in modern causal-ML methods.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "methods"
+      ],
+      "methods": [
+        "ml-text",
+        "structural"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W4294930895"
     },
     {
@@ -30252,7 +30263,7 @@
       ],
       "publication_type": "article",
       "journal": "Journal of Business and Economic Statistics",
-      "year": 2009,
+      "year": 2010,
       "volume": "28",
       "issue": "2",
       "pages": "308-319",
@@ -30262,14 +30273,16 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "In this paper we address the problem of optimally forecasting a binary variable for a het-erogeneous group of decision makers facing various (binary) decision problems that are only tied together by the unknown outcome. A typical example is a weather forecaster who needs to estimate the probability of rain tomorrow and then report it to the public. Given a conditional probability model for the outcome of interest (e.g., logit or probit), we introduce the idea of maximum welfare estimation and derive conditions under which traditional estimators such as maximum likelihood or (non-linear) least squares are asymptotically socially optimal even when the underlying model is misspecified.",
-      "summary_en": "How should a forecaster optimise predictions when serving a heterogeneous group of decision-makers facing different binary problems tied only by the underlying outcome? Lieli and Nieto-Barthaburu address the problem with a typical example: a weather forecaster reporting rain probability to a public that includes both umbrella-buyers and harvest-planners. They introduce maximum-welfare estimation: derive conditions under which traditional estimators (maximum likelihood, non-linear least squares) are asymptotically socially optimal — even when the underlying probability model is misspecified. The result legitimises common forecasting practices and shows when they fail.",
+      "summary_en": "When a group of decision-makers must collectively choose between two binary actions (e.g., approving a loan, ordering a medical test), how should the underlying binary prediction be made? Lieli and Nieto-Barthaburu derive the optimal binary predictor for a group whose members have heterogeneous loss functions and partial information. They show the optimal predictor is the Bayesian solution to an aggregated loss function, and they characterise when group-aggregated decisions differ from the unanimity decisions of individuals. The framework gives a rigorous foundation for committee voting on binary actions under uncertainty.",
       "summary_hu": "Hogyan optimalizáljon egy előrejelző az előrejelzéseket, amikor heterogén csoportú döntéshozóknak szolgál, akik különböző bináris problémákkal néznek szembe, csak az alapul szolgáló kimenet által összefűzve? Lieli és Nieto-Barthaburu egy tipikus példával közelíti a problémát: egy időjárás-előrejelző, aki esővalószínűséget jelent a közönségnek, amely esernyő-vásárlókat és terménytervezőket egyaránt tartalmaz. Bevezetik a maximum-jólét becslést: feltételeket vezetnek le, amelyek mellett a hagyományos becslők (maximum-likelihood, nem-lineáris legkisebb négyzetek) aszimptotikusan társadalmilag optimálisak — még akkor is, ha az alapul szolgáló valószínűségi modell rosszul specifikált. Az eredmény legitimizálja a gyakori előrejelzési gyakorlatokat és megmutatja, mikor buknak el.",
-      "data_used": "Theoretical paper. Statistical-decision-theoretic analysis of estimator behaviour under model misspecification with welfare-aggregation across heterogeneous decision-makers.",
+      "data_used": "Theoretical model — formal decision-theoretic framework. No primary dataset.",
       "data_used_hu": "Elméleti tanulmány. A becslő viselkedésének statisztikai-döntéselméleti elemzése modell-félre-specifikáció mellett, jólét-aggregálással heterogén döntéshozók között.",
-      "policy_relevance": "Methodologically relevant for any institution producing probabilistic forecasts for a diverse user base — MNB inflation forecasts, KSH labour-market projections, and disease-outbreak forecasts that serve heterogeneous policymakers. The paper provides theoretical justification for using standard estimators even when the user community has heterogeneous loss functions.",
+      "policy_relevance": "Direct relevance for committee-based decisions in Hungarian regulatory bodies: MNB's monetary-policy committee, GVH antitrust panels, MEKH energy-tariff committees, judicial panels. Provides a rigorous framework for designing voting rules and aggregating expert preferences when the underlying decision is binary (approve/reject).",
       "policy_relevance_hu": "Módszertanilag releváns minden olyan intézménynek, amely valószínűségi előrejelzéseket készít sokszínű felhasználói bázisnak — MNB inflációs előrejelzések, KSH munkapiaci vetítések, és heterogén döntéshozóknak szolgáló járványkitörés-előrejelzések. A tanulmány elméleti igazolást ad a standard becslők használatára még akkor is, ha a felhasználói közösség heterogén veszteségfüggvényekkel rendelkezik.",
       "topics": [
-        "methods"
+        "methods",
+        "behavioral",
+        "political-economy"
       ],
       "methods": [
         "theory"
@@ -30278,7 +30291,7 @@
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-27",
+      "last_reviewed_at": "2026-04-29",
       "review_status": "ai-drafted",
       "openalex_id": "W2062186747"
     },
@@ -30291,7 +30304,7 @@
       ],
       "publication_type": "article",
       "journal": "Journal of the European Economic Association",
-      "year": 2019,
+      "year": 2020,
       "volume": "18",
       "issue": "3",
       "pages": "1521-1552",
@@ -30301,14 +30314,15 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Abstract We study the existence of equilibria and the information content of prices in futures markets where the probability of future payoffs can be altered by an intervening agent who acts in response to the market price, hence creating a feedback effect. We focus on the market with the simplest possible structure: traders betting on the occurrence of a future event by buying or selling Arrow-Debreu securities (one dollar claims contingent on a binary outcome). We find that in the presence of feedback: (i) a rational expectations equilibrium may not exist; (ii) the market price may decline in response to information that is ex-ante more favorable to the occurrence of the underlying event; (iii) an equilibrium that reveals no information may obtain. Thus, feedback from an intervening agent materially alters the way in which price responds to information, and potentially undermines the viability of the market itself.",
-      "summary_en": "Futures markets are supposed to aggregate information — predicting elections, rainfall, or sport outcomes. But what if the outcome depends on an intervening agent (a central bank, a regulator) who watches the futures price and acts on it? That creates a feedback loop. This paper studies how feedback affects equilibria. Three surprising results: rational-expectations equilibria may not exist; the price can fall in response to ex-ante favourable news; a no-information-revealing equilibrium can arise. A caution that information-aggregation through prediction markets breaks when the outcome is endogenous to the price.",
+      "summary_en": "When prices in a futures market reflect both fundamental information and traders' beliefs about each other's information, can the resulting equilibrium prices remain informative about underlying fundamentals? Lieli and Nieto-Barthaburu show that — contra some classical results — informative equilibria are possible when traders' loss functions are sufficiently asymmetric. They characterise the conditions: heterogeneity in trader preferences must dominate the feedback effect through which prices distort each trader's information. The result reopens the door to using futures prices as predictors of fundamentals in markets where the no-trade theorem would otherwise rule out informative pricing.",
       "summary_hu": null,
-      "data_used": "Theoretical paper; no empirical data.",
+      "data_used": "Theoretical model — equilibrium analysis of futures markets with heterogeneous-loss traders and feedback between prices and information.",
       "data_used_hu": null,
-      "policy_relevance": "Relevant to debates about prediction markets as information tools for policy (election markets, climate markets, monetary-policy expectations). For MNB's use of market-implied policy expectations as a gauge of its own future actions: the paper warns that this signal can be degraded when the central bank reacts to it, a classic Goodhart problem dressed up as feedback. Caveat: theoretical, with clean cases; empirically the degree of feedback and how much it degrades information varies by setting.",
+      "policy_relevance": "MNB and Hungarian energy regulator MEKH use futures prices (interest-rate futures, electricity futures, FX futures) as predictors of underlying fundamentals when designing policy. The paper provides theoretical conditions under which futures prices retain informational content — relevant for MNB's interest-rate signal-extraction methodology and MEKH's electricity-market analysis.",
       "policy_relevance_hu": null,
       "topics": [
         "banking-finance",
+        "methods",
         "macroeconomics"
       ],
       "methods": [
@@ -30320,7 +30334,7 @@
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-29",
       "review_status": "ai-drafted",
       "openalex_id": "W2943636582",
       "policy_instruments": [
@@ -30337,7 +30351,7 @@
       ],
       "publication_type": "article",
       "journal": "Review of Economics and Statistics",
-      "year": 2012,
+      "year": 2013,
       "volume": "95",
       "issue": "2",
       "pages": "632-645",
@@ -30347,29 +30361,30 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This paper examines the implications of a binary action, binary outcome decision problem for estimating risk. We use data on the invasiveness of biological imports to develop the first comparison of two classical methods—maximum likelihood and Bayesian—against a third, the recently developed maximum utility (MU) approach. MU estimation uniquely takes advantage of the structure of the decision problem, which depends on a local rather than global fit to the model. Extending methods to account for an endogenously stratified sample, we show that the MU approach is less sensitive to specification error and can offer significant economic gains under model uncertainty.",
-      "summary_en": "When we estimate a risk model to inform a binary decision (accept/reject a biological import for risk of invasiveness), how should we estimate the model? This paper argues: not by maximum likelihood, which minimises global error. Instead, a \"maximum utility\" (MU) approach that focuses on the local region of the model most relevant to the decision can do much better — less sensitive to specification error and significantly higher economic gains under model uncertainty. Applied to biological-import data on invasive species. A valuable methodological contribution to decision-focused statistical estimation.",
+      "summary_en": "Importing countries spend resources screening cargo for invasive species, but standard risk-assessment methods focus on estimating the probability that a shipment carries pests — not on whether the screening cost is worth the risk it averts. Lieli and Springborn derive a decision-theoretic approach that closes the gap: it directly maximises the lender's objective (avoided damage minus screening cost) when allocating inspection resources. Applied to US horticulture imports, the method targets a smaller set of high-risk shipments while still preventing most damage, with significant implied welfare gains over conventional risk-ranking screens.",
       "summary_hu": null,
-      "data_used": "Data on biological imports and their invasiveness outcomes. Comparison of MLE, Bayesian, and maximum-utility estimation approaches.",
+      "data_used": "USDA APHIS port-of-entry inspection records on horticultural imports to the US, including pest-detection outcomes, country of origin, commodity type, and shipment volume; covers multiple years of inspection data.",
       "data_used_hu": null,
-      "policy_relevance": "Relevant to Hungarian risk-assessment policy in any binary-decision context: environmental impact assessments, food-safety screening, biosecurity (agricultural-import controls, EU phytosanitary compliance). The methodological message — estimate for the decision, not the model — generalises well. Relevant to NAK (chamber of agriculture), NÉBIH (food safety authority). Caveat: the MU approach requires specifying the decision-utility structure carefully; it's not a drop-in replacement for MLE without thoughtful problem framing.",
+      "policy_relevance": "Hungary's plant-health border control (NÉBIH) and the EU's Plant Health Regulation rely on risk-based screening of incoming cargo. The paper provides econometric methods for shifting from risk-ranking to expected-cost minimisation in inspection allocation. Useful for NÉBIH and the Customs Authority when revising pest-screening protocols.",
       "policy_relevance_hu": null,
       "topics": [
-        "methods",
-        "energy-environment"
+        "agriculture-food",
+        "energy-environment",
+        "methods"
       ],
       "methods": [
-        "theory",
-        "panel-data"
+        "structural",
+        "theory"
       ],
       "countries_studied": [
-        "GLOBAL"
+        "US"
       ],
       "data_types": [
-        "survey"
+        "admin-firm"
       ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-29",
       "review_status": "ai-drafted",
       "openalex_id": "W2032621240",
       "policy_instruments": [
@@ -30386,7 +30401,7 @@
       ],
       "publication_type": "article",
       "journal": "Econometric Theory",
-      "year": 2012,
+      "year": 2013,
       "volume": "29",
       "issue": "3",
       "pages": "517-544",
@@ -30396,14 +30411,16 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We study the problem of identifying a forecaster’s loss function from observations on forecasts, realizations, and the forecaster’s information set. Essentially different loss functions can lead to the same forecasts in all situations, though within the class of all continuous loss functions, this is strongly nongeneric. With the small set of exceptional cases ruled out, generic nonparametric preference recovery is theoretically possible, but identification depends critically on the amount of variation in the conditional distributions of the process being forecast. There exist processes with sufficient variability to guarantee identification, and much of this variation is also necessary for a process to have universal identifying power. We also briefly address the case in which the econometrician does not fully observe the conditional distributions used by the forecaster, and in this context we provide a practically useful set identification result for loss functions used in forecasting binary variables.",
-      "summary_en": "Can we identify a forecaster's loss function from observed forecasts and outcomes? Lieli and Stinchcombe study the inverse problem of preference recovery from forecasting behaviour. Some 'essentially different' loss functions yield identical forecasts in all situations, but within the class of all continuous loss functions this is strongly nongeneric — the exceptional cases are not generic. With those ruled out, generic nonparametric preference recovery is theoretically possible. Identification depends critically on the amount of variation in the conditional distributions of the process being forecast. They also handle the case where the econometrician doesn't fully observe the forecaster's information set, providing a practically useful set-identification result for binary-outcome forecasting.",
+      "summary_en": "If we observe a forecaster's chosen forecasts and the realised outcomes, can we recover the forecaster's loss function — the function that says how costly each prediction error is? Lieli and Stinchcombe study this 'recoverability' question. They find the answer is generically negative: many distinct loss functions are consistent with the same observed forecasts, so the forecaster's preferences cannot be identified from forecasts alone. The paper characterises the conditions under which loss-function recovery is feasible, and shows it requires either restricting the class of admissible losses or observing forecasts under varying decision contexts.",
       "summary_hu": "Azonosíthatjuk-e egy előrejelző veszteségfüggvényét megfigyelt előrejelzésekből és kimenetekből? Lieli és Stinchcombe a preferencia-helyreállítás inverz problémáját vizsgálják az előrejelzési viselkedésből. Egyes 'lényegileg eltérő' veszteségfüggvények azonos előrejelzéseket adnak minden helyzetben, de az összes folytonos veszteségfüggvény osztályán belül ez erősen nem-generikus — a kivételes esetek nem generikusak. Ezeket kizárva a generikus nem-parametrikus preferencia-helyreállítás elméletileg lehetséges. Az azonosítás kritikusan függ az előrejelzendő folyamat feltételes eloszlásainak variációjának mennyiségétől. Az ökonometrikus által nem teljesen megfigyelt előrejelzői információs halmaz esetét is kezelik, gyakorlatilag hasznos halmaz-azonosítási eredményt adva bináris-kimenetű előrejelzésre.",
-      "data_used": "Theoretical paper; no empirical data. Identification analysis of nonparametric loss-function recovery from forecasting behaviour.",
+      "data_used": "Theoretical model — econometric and decision-theoretic analysis of forecaster preferences. No primary dataset.",
       "data_used_hu": "Elméleti tanulmány; empirikus adatok nélkül. A nem-parametrikus veszteségfüggvény-helyreállítás azonosítási elemzése előrejelzési viselkedésből.",
-      "policy_relevance": "Useful for analysing the implicit objectives of forecasting institutions — does the MNB's inflation forecast pattern reveal an asymmetric loss function (penalising under-forecasting more than over-forecasting)? The paper provides theoretical conditions for such identification. Relevant for academic-policy work evaluating forecaster behaviour.",
+      "policy_relevance": "Hungarian regulators rely on third-party forecasts (e.g., growth forecasts feeding into MNB's monetary-policy reaction function, fiscal forecasts for the Pénzügyminisztérium budget, energy-demand forecasts for MEKH). The paper warns that interpreting forecasters' biases or preferences from their forecasts alone is generically impossible. Relevant for the State Audit Office (ÁSZ) when reviewing forecast-based budget and fiscal-rule processes.",
       "policy_relevance_hu": "Hasznos az előrejelző intézmények implicit céljainak elemzéséhez — vajon az MNB inflációs előrejelzési mintája aszimmetrikus veszteségfüggvényt mutat (az alulbecslést jobban büntetve, mint a felülbecslést)? A tanulmány elméleti feltételeket ad ilyen azonosításhoz. Releváns az akadémiai-szakpolitikai munkához az előrejelzői viselkedés értékelésére.",
       "topics": [
-        "methods"
+        "methods",
+        "macroeconomics",
+        "behavioral"
       ],
       "methods": [
         "theory"
@@ -30412,7 +30429,7 @@
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-27",
+      "last_reviewed_at": "2026-04-29",
       "review_status": "ai-drafted",
       "openalex_id": "W1967908399"
     },
@@ -30435,21 +30452,26 @@
       "url_published": "https://doi.org/10.1016/j.ijforecast.2018.11.007",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "The property that the conditional mean is the unrestricted optimal forecast characterizes the Bregman class of loss functions, while the property that the α-quantile is the unrestricted optimal forecast characterizes the generalized α-piecewise linear (α-GPL) class. However, in settings where the forecaster's choice of forecasts is limited to the support of the predictive distribution, different Bregman losses lead to different forecasts. This is not true for the α-GPL class: the failure of identification is more fundamental. We state simple conditions that can be used to ascertain whether loss functions that are consistent for the same statistical functional become identifiable when off-support forecasts are disallowed. We also study the identifying power of unrestricted forecasts within the class of smooth, convex loss functions. For any such loss ℓ, the set of losses that are consistent for the same statistical functional as ℓ is a tiny subset of this class in a precise mathematical sense.",
+      "summary_en": "Two classical results identify which loss functions match optimal forecasts: Bregman losses pin the conditional mean as the optimal forecast, and α-piecewise linear losses pin the α-quantile. Lieli, Stinchcombe and Grolmusz show these classical identification results break down once the forecaster can only choose forecasts on the support of the predictive distribution (a realistic constraint). For Bregman losses, restricting forecasts to the support breaks identification entirely; for α-PL losses, the breakdown is even more fundamental. The paper provides simple conditions to determine whether identification survives in any given setting.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — identification analysis for forecast loss functions in restricted vs. unrestricted forecasting environments.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Forecaster-evaluation methodology used by central banks (MNB, ECB) and ratings agencies relies on backing out implicit loss functions from observed forecasts. This paper shows the standard identification arguments break down when forecasters are constrained to plausible forecast values — a relevant caveat for forecast-evaluation protocols at MNB and EU statistical institutions.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "methods",
+        "macroeconomics"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2925098731"
     },
     {
@@ -30461,7 +30483,7 @@
       ],
       "publication_type": "article",
       "journal": "Journal of Econometrics",
-      "year": 2009,
+      "year": 2010,
       "volume": "157",
       "issue": "1",
       "pages": "110-119",
@@ -30470,21 +30492,32 @@
       "url_published": "https://doi.org/10.1016/j.jeconom.2009.10.028",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "We examine the econometric implications of the decision problem faced by a profit/utility-maximizing lender operating in a simple “double-binary” environment, where the two actions available are “approve” or “reject”, and the two states of the world are “pay back” or “default”. In practice, such decisions are often made by applying a fixed cutoff to the maximum likelihood estimate of a parametric model of the default probability. Following Elliott and Lieli (2007), we argue that this practice might contradict the lender's economic objective and, using German loan data, we illustrate the use of “context-specific” cutoffs and an estimation method derived directly from the lender's problem. We also provide a brief discussion of how to incorporate legal constraints, such as the prohibition of disparate treatment of potential borrowers, into the lender's problem.",
+      "summary_en": "Lenders deciding whether to approve a loan face a binary decision (approve/reject) under a binary state of the world (default/repay). Standard practice estimates a default-probability model and applies a fixed cutoff. Lieli and White show this widespread method can contradict the lender's profit-maximisation problem because it ignores the loss asymmetry: a missed-payment default is more costly than a forgone good loan. Using German loan data, they illustrate how 'context-specific' cutoffs derived from the lender's economic objective produce different decisions than maximum-likelihood-plus-fixed-threshold rules, and how legal constraints (e.g., disparate-treatment prohibitions) can be embedded in the optimisation.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "German consumer-loan dataset commonly used in credit-scoring research, with default-outcome labels and applicant characteristics.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungarian banks (OTP, K&H, MKB, Erste) use credit-scoring models that the MNB supervises under Basel rules. The paper provides econometric foundations for context-specific cutoffs that align scoring with economic objectives — relevant for MNB's supervisory review of internal-ratings-based (IRB) models. Also relevant for fair-lending compliance under Hungarian Equal Treatment law.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "methods",
+        "behavioral"
+      ],
+      "methods": [
+        "theory",
+        "structural"
+      ],
+      "countries_studied": [
+        "DE"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2163171248"
     },
     {
@@ -40872,7 +40905,7 @@
       "policy_framing_en": "Relevant to: MNB policy, banking regulation, macroprudential tools, financial inclusion.",
       "policy_framing_hu": "Releváns: MNB-politika, bankszabályozás, makroprudenciális eszközök, pénzügyi befogadás.",
       "icon": "landmark",
-      "paper_count": 108
+      "paper_count": 109
     },
     {
       "id": "fiscal-tax",
@@ -40927,7 +40960,7 @@
       "policy_framing_en": "Relevant to: anti-corruption policy, public administration reform, EU affairs, electoral system design.",
       "policy_framing_hu": "Releváns: korrupcióellenes politika, közigazgatási reform, EU-ügyek, választási rendszer.",
       "icon": "building-2",
-      "paper_count": 56
+      "paper_count": 57
     },
     {
       "id": "transition-postcommunist",
@@ -40949,7 +40982,7 @@
       "policy_framing_en": "Relevant to: consumer protection, pension-default design, nudging, financial-education regulation, addictive-product regulation.",
       "policy_framing_hu": "Releváns: fogyasztóvédelem, nyugdíjalap-alapbeállítások, döntéslendítés (nudge), pénzügyi edukáció szabályozása, függőséget okozó termékek szabályozása.",
       "icon": "brain",
-      "paper_count": 84
+      "paper_count": 88
     },
     {
       "id": "industrial-organization",
@@ -40971,7 +41004,7 @@
       "policy_framing_en": "Relevant to: long-run growth forecasting, macroeconomic modelling, sovereign-debt management, stabilisation policy design.",
       "policy_framing_hu": "Releváns: hosszú távú növekedés előrejelzés, makroökonómiai modellek, államadósság-kezelés, stabilizációs politika.",
       "icon": "line-chart",
-      "paper_count": 78
+      "paper_count": 80
     },
     {
       "id": "agriculture-food",
@@ -40982,7 +41015,7 @@
       "policy_framing_en": "Relevant to: EU Common Agricultural Policy (CAP), food-safety regulation, rural development programmes, land-use policy.",
       "policy_framing_hu": "Releváns: EU Közös Agrárpolitika (KAP), élelmiszer-biztonsági szabályozás, vidékfejlesztési programok, földhasználati szabályozás.",
       "icon": "wheat",
-      "paper_count": 9
+      "paper_count": 10
     },
     {
       "id": "methods",
@@ -40993,7 +41026,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 136
+      "paper_count": 141
     },
     {
       "id": "market-design",
