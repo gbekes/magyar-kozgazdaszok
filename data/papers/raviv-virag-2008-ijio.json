@@ -17,19 +17,28 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This paper provides theoretical and empirical analysis of a selling mechanism used by an Internet web-site that combines important features of auctions and gambling, and is the first analysis of such a selling mechanism, which provides insights into how the two kinds of behavior might be related in real life. The winner of the object is the bidder with the highest bid not submitted by any other bidder. In the equilibrium of the game theoretical model, each bid made with positive probability yields the same probability of winning. The theoretical predictions are that bidders are more likely to submit higher bids, and the bid distribution does not depend on the value of the object or the highest bid allowed if one controls for the number of bidders, both of which are confirmed by the data.",
-  "summary_en": null,
+  "summary_en": "An online auction site combined auction and gambling features: the winner was the bidder with the highest unique bid (one not matched by any other). Raviv and Virág develop the equilibrium theory and test it against actual bidding data. They show theoretically that every bid placed with positive probability has the same winning probability, the bid distribution doesn't depend on the object's value, and bidders skew toward higher bids. Empirical bidding patterns from the site confirm both predictions, providing rare empirical validation of a theoretical auction model.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Bid-level data from a now-defunct lowest-unique-bid online auction site, covering thousands of auctions across a range of object values; complete bid histories including bidder identifiers and submission times.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungarian online auction sites (vatera.hu, jofogás) and gambling regulator (SZF) face questions about how auction-gambling hybrids should be regulated. The paper demonstrates theoretically and empirically that such hybrid mechanisms are bidding-strategy-distinct from standard auctions. Useful for SZF and SZTNH when classifying and licensing online platforms blending auction and lottery elements.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "mechanism-design",
+    "industrial-organization",
+    "behavioral"
+  ],
+  "methods": [
+    "theory",
+    "structural"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "digital-trace"
+  ],
   "featured": false,
   "added_at": "2026-04-19",
-  "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W3123411681"
 }

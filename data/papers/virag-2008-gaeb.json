@@ -16,19 +16,24 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "In a dynamic contest the current incumbent competes against a randomly assigned entrant in a private value all pay auction each period. We focus on equilibria where the beliefs about the incumbent's type and the employed strategies are stationary. We show that inefficient types survive, even if the entrants arrive very frequently, because the entrant plays more aggressively than the incumbent, allowing a low type entrant to win against a high type incumbent. In an example we show that if the incumbent is challenged more often, then the equilibrium type of the incumbent is higher on average. When the value of the prize is the same for all players (the case studied in the public choice literature), the equilibrium rent of the bidders is fully dissipated as the incumbent is challenged infinitely often. The technical contribution lies in showing the existence of stationary equilibrium in an incomplete information game.",
-  "summary_en": null,
+  "summary_en": "In dynamic competitive environments, are inefficient incumbents pushed out as new entrants arrive? Virág studies a model where a current incumbent competes against a randomly-arriving entrant in a private-value all-pay auction each period. Counterintuitively, inefficient types of incumbent can persist indefinitely — even when entrants arrive frequently — because entrants play more aggressively, allowing low-quality entrants to defeat high-quality incumbents. As challenges become infinitely frequent and prizes are common-value, all rents are dissipated. The paper formally shows existence of stationary equilibria in this incomplete-information setting.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model — dynamic contest with all-pay auctions and incomplete information. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Provides theoretical foundation for understanding 'survival of the unfit' patterns in Hungarian markets where entry is frequent but incumbents persist (utilities, professional licences, certain regulated industries). Useful framework for GVH and MEKH when assessing whether persistent incumbent dominance reflects legitimate quality advantages or aggressive blocking.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "industrial-organization",
+    "mechanism-design"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2029319251"
 }
