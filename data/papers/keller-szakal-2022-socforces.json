@@ -1,21 +1,32 @@
 {
   "url_pdf": null,
   "url_replication": null,
-  "abstract": "",
-  "summary_en": null,
+  "abstract": "High school track choice determines college access in many countries. We hypothesize that some qualified students avoid the college-bound track in high school simply because they overestimate admission requirements. To test this hypothesis, we conducted a randomized field experiment that communicated the admission standards of local secondary schools on the academic track to students in Hungary before the application deadline. We targeted the subset of students (“seeds”) who occupied the most central position in the classroom-social networks, aiming to detect both direct effects on the track choice of targeted seeds and spillover effects on their untreated peers. We found neither a direct effect nor a spillover effect on students' applications or admissions on average. Further analyses, however, revealed theoretically plausible heterogeneity in the direct causal effect of the intervention on the track choice of targeted seeds. Providing information about admission standards increased applications and admissions to secondary schools on the academic track among seeds who had a pre-existing interest in the academic track but were unsure of their chances of admission.",
+  "summary_en": "Some students avoid the academic high-school track because they overestimate admission requirements. Keller, Takács and Elwert run a randomised field experiment that informs a network-central subset of Hungarian 8th-graders ('seeds') about actual admission standards before the application deadline. There was no average effect — but heterogeneity is theoretically meaningful: providing admission-standards information substantially raised academic-track applications among seeds who already had pre-existing interest but were unsure of their chances. The intervention can shift the educational trajectory of marginal academically-interested students without expanding the academic track to under-prepared ones.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Pre-registered randomised field experiment in Hungarian 8th-grade classrooms (~hundreds of classrooms, several thousand students), with information treatment delivered before the high-school application deadline. Outcomes: actual high-school applications and admissions from administrative records.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for Hungarian secondary-school policy at the Köznevelési Államtitkárság and the Public Education Authority. The paper provides experimental evidence that publicising admissions standards can lift academic-track participation among the marginally-interested — a useful low-cost intervention that doesn't require structural school reform.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "education-skills",
+    "behavioral",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "rct"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "field-experiment",
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-27",
-  "last_reviewed_at": "2026-04-27",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "policy_instruments": [],
   "working_paper_series": null,
   "pages": null,

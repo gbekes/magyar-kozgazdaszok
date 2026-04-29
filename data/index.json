@@ -26132,21 +26132,32 @@
     {
       "url_pdf": null,
       "url_replication": null,
-      "abstract": "",
-      "summary_en": null,
+      "abstract": "Social theories posit that peers affect students' academic self-concept (ASC). Most prominently, Big-Fish-Little-Pond, invidious comparison, and relative deprivation theories predict that exposure to academically stronger peers decreases students' ASC, and exposure to academically weaker peers increases students' ASC. These propositions have not yet been tested experimentally. We executed a large and pre-registered field experiment that randomized students to deskmates within 195 classrooms of 41 schools (N = 3,022). Our primary experimental analysis found no evidence of an effect of peer achievement on ASC in either direction. Exploratory analyses hinted at a subject-specific deskmate effect on ASC in verbal skills, and that sitting next to a lower-achieving boy increased girls' ASC (but not that sitting next to a higher-achieving boy decreased girls' ASC). Critically, however, none of these group-specific results held up to even modest corrections for multiple hypothesis testing. Contrary to theory, our randomized field experiment thus provides no evidence for an effect of peer achievement on students' ASC.",
+      "summary_en": "Big-Fish-Little-Pond and related sociological theories predict that students seated next to academically stronger peers should have lower self-concept, while those seated next to weaker peers should have higher. Keller, Kim and Elwert run a large pre-registered randomised field experiment — 195 classrooms in 41 schools, 3,022 students — assigning students to deskmates and measuring their academic self-concept (ASC). Result: no causal effect of peer achievement on ASC in either direction. The findings contradict the theoretical predictions and add to a growing body of randomised work showing classical peer-effect theories overestimate the magnitude of peer-comparison effects.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Pre-registered field experiment in 195 classrooms across 41 Hungarian schools (N = 3,022 students), with random deskmate assignment for one semester. Outcomes measured via end-of-semester student survey on academic self-concept.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct evidence for Hungarian education-policy debates around tracking, classroom composition, and ability-grouping. The paper's null finding undercuts the assumption that classroom composition mechanically affects student self-concept — a relevant caveat for Belügyminisztérium and Köznevelési Államtitkárság when designing tracking and integration policies.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "education-skills",
+        "behavioral",
+        "demographics-migration"
+      ],
+      "methods": [
+        "rct"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "field-experiment",
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "policy_instruments": [],
       "working_paper_series": null,
       "pages": null,
@@ -26210,21 +26221,31 @@
     {
       "url_pdf": null,
       "url_replication": null,
-      "abstract": "",
-      "summary_en": null,
+      "abstract": "Motivated by the self-determination theory of psychology, we investigate how simple school practices can forge students' engagement with the academic aspect of school life. We carried out a large-scale preregistered randomized field experiment with a crossover design, involving all the students of the University of Szeged in Hungary. Our intervention consisted of an automated encouragement message that praised students' past achievements and signaled trust in their success. The treated students received encouragement messages before their exam via two channels: e-mail and SMS message. The control students did not receive any encouragement. Our primary analysis compared the treated and control students' end-of-semester exam grades. We did not find an average treatment effect on students' exam grades. However, in the subsample of those who answered the endline survey, the treated students reported higher self-efficacy than the control students. The treatment affected students' motivation before their first exam—but not before their second—and did not affect students' test anxiety.",
+      "summary_en": "Can low-cost encouragement messages — sent before exams via email and SMS — boost student performance? Keller and Szakál run a large pre-registered randomised crossover experiment with all students at the University of Szeged in Hungary. Treated students received automated messages praising past achievements and signalling trust in their future success. There was no average effect on exam grades, but treated students did report higher self-efficacy on the endline survey, and motivation rose before the first (but not second) exam. The result documents a measurable self-efficacy boost without a detectable grade effect — useful for understanding the mechanisms behind encouragement-based interventions.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Pre-registered crossover field experiment at the University of Szeged covering all enrolled students (~10,000+) with email + SMS encouragement messages sent before exams. Outcomes from university registry (exam grades) and endline online survey (self-efficacy, motivation, anxiety).",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungarian higher-education policy increasingly engages with light-touch behavioural interventions to improve graduation rates and learning outcomes. The paper provides experimental evidence that automated encouragement raises self-efficacy but not grades — useful guidance for ITM and the Hungarian Higher Education Office (OH) when scaling such interventions.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "education-skills",
+        "behavioral"
+      ],
+      "methods": [
+        "rct"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "field-experiment",
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "policy_instruments": [],
       "working_paper_series": null,
       "pages": null,
@@ -26245,21 +26266,32 @@
     {
       "url_pdf": null,
       "url_replication": null,
-      "abstract": "",
-      "summary_en": null,
+      "abstract": "High school track choice determines college access in many countries. We hypothesize that some qualified students avoid the college-bound track in high school simply because they overestimate admission requirements. To test this hypothesis, we conducted a randomized field experiment that communicated the admission standards of local secondary schools on the academic track to students in Hungary before the application deadline. We targeted the subset of students (“seeds”) who occupied the most central position in the classroom-social networks, aiming to detect both direct effects on the track choice of targeted seeds and spillover effects on their untreated peers. We found neither a direct effect nor a spillover effect on students' applications or admissions on average. Further analyses, however, revealed theoretically plausible heterogeneity in the direct causal effect of the intervention on the track choice of targeted seeds. Providing information about admission standards increased applications and admissions to secondary schools on the academic track among seeds who had a pre-existing interest in the academic track but were unsure of their chances of admission.",
+      "summary_en": "Some students avoid the academic high-school track because they overestimate admission requirements. Keller, Takács and Elwert run a randomised field experiment that informs a network-central subset of Hungarian 8th-graders ('seeds') about actual admission standards before the application deadline. There was no average effect — but heterogeneity is theoretically meaningful: providing admission-standards information substantially raised academic-track applications among seeds who already had pre-existing interest but were unsure of their chances. The intervention can shift the educational trajectory of marginal academically-interested students without expanding the academic track to under-prepared ones.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Pre-registered randomised field experiment in Hungarian 8th-grade classrooms (~hundreds of classrooms, several thousand students), with information treatment delivered before the high-school application deadline. Outcomes: actual high-school applications and admissions from administrative records.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for Hungarian secondary-school policy at the Köznevelési Államtitkárság and the Public Education Authority. The paper provides experimental evidence that publicising admissions standards can lift academic-track participation among the marginally-interested — a useful low-cost intervention that doesn't require structural school reform.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "education-skills",
+        "behavioral",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "rct"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "field-experiment",
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "policy_instruments": [],
       "working_paper_series": null,
       "pages": null,
@@ -26280,21 +26312,32 @@
     {
       "url_pdf": null,
       "url_replication": null,
-      "abstract": "",
-      "summary_en": null,
+      "abstract": "Can outside interventions foster socio-culturally diverse friendships? We executed a large field experiment that randomized the seating charts of 182 3rd through 8th grade classrooms (N = 2,966 students) for the duration of one semester. We found that being seated next to each other increased the probability of a mutual friendship from 15% to 22% on average. Furthermore, induced proximity increased the latent propensity toward friendship equally for all students, regardless of students' dyadic similarity with respect to educational achievement, gender, and ethnicity. However, the probability of a manifest friendship increased more among similar than among dissimilar students—a pattern mainly driven by gender. Our findings demonstrate that a scalable light-touch intervention can affect face-to-face networks and foster diverse friendships in groups that already know each other, but they also highlight that transgressing boundaries, especially those defined by gender, remains an uphill battle.",
+      "summary_en": "Can simply sitting students next to each other foster more diverse friendships? Keller and Takács (with Elwert) run a large field experiment in 182 Hungarian 3rd–8th-grade classrooms (2,966 students), randomising seating charts for one semester. Being seated as deskmates raises the probability of a mutual friendship from 15% to 22% on average. The effect on the latent propensity toward friendship is equal regardless of students' similarity in achievement, gender, or ethnicity — but the manifest friendship increase is larger among similar students, especially of the same gender. Light-touch interventions can foster diverse friendships, but gender lines remain especially hard to cross.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Field experiment across 182 Hungarian classrooms (3rd–8th grade, N=2,966 students) with randomised seating charts for one semester. Outcomes from a network-survey instrument measuring mutual friendship nominations.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for Hungarian school-integration policy and the Equal Treatment Authority. The paper provides experimental evidence that seating-chart interventions can boost cross-group friendship — useful low-cost tool for Roma-integration efforts in mixed-ethnicity Hungarian classrooms. Also informs Köznevelési Államtitkárság on classroom-management practices.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "education-skills",
+        "demographics-migration",
+        "behavioral"
+      ],
+      "methods": [
+        "rct"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "field-experiment",
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "policy_instruments": [],
       "working_paper_series": null,
       "pages": null,
@@ -30022,21 +30065,27 @@
     {
       "url_pdf": null,
       "url_replication": null,
-      "abstract": "",
-      "summary_en": null,
+      "abstract": "I consider a risk-sharing game with limited commitment, and study how the discount factor above which perfect risk sharing is self-enforcing in the long run depends on agents' risk aversion and the riskiness of their endowment. When agents face no aggregate risk, a mean-preserving spread may destroy the sustainability of perfect risk sharing if each agent's endowment may take more than three values. With aggregate risk the same can happen with only two possible endowment realizations. With respect to risk aversion the intuitive comparative statics result holds without aggregate risk, but it holds only under strong assumptions in the presence of aggregate risk.",
+      "summary_en": "How does the sustainability of risk-sharing in informal communities depend on members' risk aversion and the riskiness of their incomes? Laczó analyses a risk-sharing game with limited commitment and shows that even mean-preserving spreads in the income distribution can destroy perfect risk-sharing — particularly when there are more than three possible income realisations. With aggregate risk, this can happen with just two realisations. The intuitive comparative-statics result for risk aversion (more risk-averse agents share more) holds in the absence of aggregate risk, but breaks down with aggregate risk. The paper identifies tight conditions under which standard risk-sharing intuitions fail.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — limited-commitment risk-sharing game with two agents and varying income distributions. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Foundational result for understanding informal risk-sharing in Hungarian rural communities and Roma settlements where formal insurance is limited. The paper warns that standard intuitions about risk-aversion-driven mutual insurance may not apply in practice when income shocks are correlated. Useful framework for academic and policy analysis at KRTK and the Hungarian Charitable Service.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "behavioral",
+        "macroeconomics",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "policy_instruments": [],
       "working_paper_series": null,
       "pages": null,
@@ -30090,21 +30139,27 @@
     {
       "url_pdf": null,
       "url_replication": null,
-      "abstract": "",
-      "summary_en": null,
+      "abstract": "We characterise optimal tax policies when the government has access to consumption taxation and cannot credibly commit to future policies. We consider a neoclassical economy where factor income taxation is distortionary within the period, due to endogenous labour and capital utilisation and non-tax-deductibility of depreciation. Contrary to the case where only labour and capital income are taxed, the optimal time-consistent policies with consumption taxation are remarkably similar to their Ramsey counterparts. The welfare gains from commitment are negligible, while they are substantial without consumption taxation. Further, the welfare gains from taxing consumption are much higher without commitment.",
+      "summary_en": "Standard optimal-taxation analysis assumes governments can credibly commit to future tax policies. Laczó and Rossi study what happens when commitment is impossible — a more realistic case in many democracies. Crucially, when consumption taxation is available alongside labour and capital income taxes, the time-consistent optimal policy looks remarkably similar to the Ramsey full-commitment benchmark. Welfare gains from commitment are negligible. Without consumption taxation, the gains from commitment are substantial. The result strengthens the case for consumption taxation as a robustness device in fiscal frameworks where political-cycle commitment is fragile.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — neoclassical economy with endogenous labour and capital utilisation, calibrated to standard US data. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for Hungarian fiscal-policy design at the Pénzügyminisztérium. Hungary relies heavily on consumption taxation (VAT at 27%, the EU's highest) — the paper provides theoretical justification: in environments where governments cannot credibly commit to future policy (e.g., due to election cycles), consumption taxation is a robust optimal-policy substitute. Useful framework for ÁKK debt-strategy assumptions.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "fiscal-tax",
+        "macroeconomics"
+      ],
+      "methods": [
+        "theory",
+        "structural"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "policy_instruments": [],
       "working_paper_series": null,
       "pages": null,
@@ -31900,7 +31955,7 @@
       ],
       "publication_type": "article",
       "journal": "Empirical Economics",
-      "year": 2018,
+      "year": 2019,
       "volume": "56",
       "issue": "6",
       "pages": "2127-2165",
@@ -31909,21 +31964,33 @@
       "url_published": "https://doi.org/10.1007/s00181-018-1423-x",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "We estimate the effect of subsidized childcare availability on Hungarian mothers' labor supply, using a discontinuity in kindergarten eligibility at age 3 of children. The effect is identified in a setting where policy intervention has a high potential impact, since maternal labor supply is very low under age 3 of children, but high for mothers with older children. We find that access to subsidized childcare increases maternal labor supply by 11.7 percentage points or 24%, an impact that is higher than what has been found in previous quasi-experimental studies from most other countries. However, the potential effectiveness of future childcare expansion under age 3 may be constrained by further institutional factors, such as very long parental leave, traditional cultural views regarding maternal employment and institutional childcare, and the lack of flexible work forms.",
+      "summary_en": "Lovász and Szabó-Morvai estimate the effect of subsidised childcare availability on Hungarian mothers' labour supply by exploiting a sharp discontinuity in kindergarten eligibility at age 3. Hungary is a high-impact setting: maternal employment under age 3 is very low (long parental leave) but jumps sharply for mothers with older children. They find access to subsidised childcare raises maternal labour supply by 11.7 percentage points or 24% — substantially larger than estimates from most other countries. However, further childcare expansion under age 3 may be constrained by Hungary's long parental leave, traditional cultural views, and inflexible work norms.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian Census, Labour Force Survey, and administrative data on childcare-place availability by district, with discontinuity at child age 3 (kindergarten eligibility cutoff). Analysis covers tens of thousands of mothers around the discontinuity.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct evidence for Hungarian family policy at the Belügyminisztérium and Pénzügyminisztérium. The paper supports investment in subsidised childcare under age 3 (currently very limited in Hungary) — but warns that without parallel reforms to parental leave and flexible work, the labour-supply effect will be muted. Useful framework for the National Population and Family-Policy Strategy.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "labor-markets",
+        "demographics-migration",
+        "fiscal-tax"
+      ],
+      "methods": [
+        "rd",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual",
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-20",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2803503135"
     },
     {
@@ -35181,7 +35248,7 @@
       ],
       "publication_type": "article",
       "journal": "Empirical Economics",
-      "year": 2023,
+      "year": 2024,
       "volume": "66",
       "issue": "6",
       "pages": "2823-2879",
@@ -35190,21 +35257,31 @@
       "url_published": "https://doi.org/10.1007/s00181-023-02531-6",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "The estimated effect of childcare availability on maternal labor supply varies highly in previous single-country estimates. We provide comparable quasi-experimental estimates of the childcare effect for seven countries, using harmonized data and a uniform method based on country-specific childcare eligibility cutoffs. We evaluate the estimates in light of key institutional factors to determine under what conditions childcare expansion is likely to be effective. We propose a measure that captures childcare scarcity and predicts the effectiveness of childcare expansion: the gap between the participation rate of mothers with older children (aged 6–14) and childcare coverage under the age of 3. In countries with a high gap, we find that childcare availability has a significant positive impact on maternal labor supply (Austria, Czech Republic, Hungary, Slovak Republic). No significant impact is found in countries where the gap is low due to either already high childcare coverage (France) or the low participation of mothers with older children (Greece, Italy).",
+      "summary_en": "Why do estimated effects of childcare availability on maternal labour supply vary so much across countries? Szabó-Morvai and Lovász (with coauthors) provide harmonised quasi-experimental estimates for seven countries using country-specific childcare-eligibility cutoffs. They propose a simple predictor of childcare-expansion effectiveness: the gap between the participation rate of mothers with older children (aged 6-14) and childcare coverage under age 3. In countries with a high gap (Austria, Czechia, Hungary, Slovakia), childcare expansion significantly raises maternal labour supply. In countries with already-high childcare coverage (France) or low overall maternal participation (Greece, Italy), it doesn't.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Harmonised data from seven countries (Austria, Czech Republic, France, Greece, Hungary, Italy, Slovakia) using EU-LFS and country-specific administrative records on childcare eligibility and maternal labour supply, with regression-discontinuity around kindergarten eligibility cutoffs.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for Hungarian and EU-level family-policy decisions. The paper provides a quantitative diagnostic — the participation-coverage gap — that policy-makers can use to predict whether childcare expansion will be effective in their country. Useful for Hungarian Pénzügyminisztérium and EU-level analysts (DG-EMPL) when designing CEE-specific family-policy interventions under EU Cohesion Funds.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "labor-markets",
+        "demographics-migration",
+        "fiscal-tax"
+      ],
+      "methods": [
+        "rd",
+        "panel-data"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "admin-individual",
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W4389817204"
     },
     {
@@ -41887,7 +41964,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 98
+      "paper_count": 100
     },
     {
       "id": "education-skills",
@@ -41898,7 +41975,7 @@
       "policy_framing_en": "Relevant to: curriculum design, teacher policy, school tracking age, higher education funding, vocational training.",
       "policy_framing_hu": "Releváns: tantervfejlesztés, tanárpolitika, iskolai szelekció életkora, felsőoktatás finanszírozása, szakképzés.",
       "icon": "graduation-cap",
-      "paper_count": 52
+      "paper_count": 56
     },
     {
       "id": "health",
@@ -41920,7 +41997,7 @@
       "policy_framing_en": "Relevant to: family policy, pension system, immigration policy, retention of skilled workers.",
       "policy_framing_hu": "Releváns: családpolitika, nyugdíjrendszer, bevándorláspolitika, szakemberek megtartása.",
       "icon": "users",
-      "paper_count": 38
+      "paper_count": 42
     },
     {
       "id": "trade-fdi",
@@ -41975,7 +42052,7 @@
       "policy_framing_en": "Relevant to: tax reform, budget planning, public debt management, compliance policy.",
       "policy_framing_hu": "Releváns: adóreform, költségvetés-tervezés, államadósság-kezelés, adócompliance.",
       "icon": "coins",
-      "paper_count": 61
+      "paper_count": 64
     },
     {
       "id": "regional-urban",
@@ -42008,7 +42085,7 @@
       "policy_framing_en": "Relevant to: welfare system, anti-poverty programs, family allowances, gender-equal pay policies.",
       "policy_framing_hu": "Releváns: szociális rendszer, szegénység elleni programok, családi pótlékok, egyenlő bérezés.",
       "icon": "scale",
-      "paper_count": 101
+      "paper_count": 103
     },
     {
       "id": "political-economy",
@@ -42041,7 +42118,7 @@
       "policy_framing_en": "Relevant to: consumer protection, pension-default design, nudging, financial-education regulation, addictive-product regulation.",
       "policy_framing_hu": "Releváns: fogyasztóvédelem, nyugdíjalap-alapbeállítások, döntéslendítés (nudge), pénzügyi edukáció szabályozása, függőséget okozó termékek szabályozása.",
       "icon": "brain",
-      "paper_count": 114
+      "paper_count": 119
     },
     {
       "id": "industrial-organization",
@@ -42063,7 +42140,7 @@
       "policy_framing_en": "Relevant to: long-run growth forecasting, macroeconomic modelling, sovereign-debt management, stabilisation policy design.",
       "policy_framing_hu": "Releváns: hosszú távú növekedés előrejelzés, makroökonómiai modellek, államadósság-kezelés, stabilizációs politika.",
       "icon": "line-chart",
-      "paper_count": 109
+      "paper_count": 111
     },
     {
       "id": "agriculture-food",

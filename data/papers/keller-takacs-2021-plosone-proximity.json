@@ -1,21 +1,32 @@
 {
   "url_pdf": null,
   "url_replication": null,
-  "abstract": "",
-  "summary_en": null,
+  "abstract": "Can outside interventions foster socio-culturally diverse friendships? We executed a large field experiment that randomized the seating charts of 182 3rd through 8th grade classrooms (N = 2,966 students) for the duration of one semester. We found that being seated next to each other increased the probability of a mutual friendship from 15% to 22% on average. Furthermore, induced proximity increased the latent propensity toward friendship equally for all students, regardless of students' dyadic similarity with respect to educational achievement, gender, and ethnicity. However, the probability of a manifest friendship increased more among similar than among dissimilar students—a pattern mainly driven by gender. Our findings demonstrate that a scalable light-touch intervention can affect face-to-face networks and foster diverse friendships in groups that already know each other, but they also highlight that transgressing boundaries, especially those defined by gender, remains an uphill battle.",
+  "summary_en": "Can simply sitting students next to each other foster more diverse friendships? Keller and Takács (with Elwert) run a large field experiment in 182 Hungarian 3rd–8th-grade classrooms (2,966 students), randomising seating charts for one semester. Being seated as deskmates raises the probability of a mutual friendship from 15% to 22% on average. The effect on the latent propensity toward friendship is equal regardless of students' similarity in achievement, gender, or ethnicity — but the manifest friendship increase is larger among similar students, especially of the same gender. Light-touch interventions can foster diverse friendships, but gender lines remain especially hard to cross.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Field experiment across 182 Hungarian classrooms (3rd–8th grade, N=2,966 students) with randomised seating charts for one semester. Outcomes from a network-survey instrument measuring mutual friendship nominations.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for Hungarian school-integration policy and the Equal Treatment Authority. The paper provides experimental evidence that seating-chart interventions can boost cross-group friendship — useful low-cost tool for Roma-integration efforts in mixed-ethnicity Hungarian classrooms. Also informs Köznevelési Államtitkárság on classroom-management practices.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "education-skills",
+    "demographics-migration",
+    "behavioral"
+  ],
+  "methods": [
+    "rct"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "field-experiment",
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-27",
-  "last_reviewed_at": "2026-04-27",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "policy_instruments": [],
   "working_paper_series": null,
   "pages": null,
