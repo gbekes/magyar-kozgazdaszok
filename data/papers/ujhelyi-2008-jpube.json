@@ -6,7 +6,7 @@
   ],
   "publication_type": "article",
   "journal": "Journal of Public Economics",
-  "year": 2008,
+  "year": 2009,
   "volume": "93",
   "issue": "3-4",
   "pages": "373-391",
@@ -15,20 +15,24 @@
   "url_published": "https://doi.org/10.1016/j.jpubeco.2008.09.009",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "Regulatory caps on contributions to political campaigns are the cornerstones of campaign finance legislation in many established democracies, and their introduction is considered by most emerging ones. Are these regulations desirable? This paper studies contribution caps in a menu auction lobbying model with limited budgets and costly entry. In the absence of entry, contribution caps improve welfare by “leveling the political playing field”. With entry, however, a competition effect and a bargaining effect may arise, resulting in inefficient entry and exit decisions. In particular, a cap may lead to worse policies than the status quo; and even if better policies are chosen, the resulting gain in welfare may be more than offset by the entry costs. Regulation can also lead to the simultaneous entry of competing groups, creating costly rent-seeking on issues previously unaffected by lobbying.",
+  "summary_en": "Most established democracies impose caps on individual political-campaign contributions, and emerging democracies routinely consider following suit. Ujhelyi develops a menu-auction lobbying model with limited budgets and costly entry to ask whether such caps are welfare-improving. Without entry decisions, caps level the playing field and raise welfare. But with endogenous entry, two new effects emerge — competition and bargaining — that can produce inefficient entry/exit decisions. Caps may end up producing worse policies than the unregulated status quo; even when policies improve, entry costs can swamp the gains and create costly rent-seeking on previously unaffected issues.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model — menu-auction lobbying framework with limited budgets and costly entry. No empirical dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungary's 2014 amendment of the Election Procedure Act and successive 2018/2022 changes to campaign-finance limits could benefit from the paper's caveats: caps are not unconditionally welfare-improving once entry decisions are endogenous. The model identifies parameter regions where caps backfire — useful for the Hungarian Parliament and the State Audit Office (ÁSZ) when assessing proposed contribution-limit changes.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "political-economy"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W3125874862"
 }

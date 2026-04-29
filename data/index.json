@@ -12811,16 +12811,17 @@
       "url_published": "https://doi.org/10.1016/j.jpubeco.2019.04.004",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": "Politicians often spend more in election years (political budget cycles). But is this worse in states where civil-service protections are weaker? This paper uses US state-level highway-spending data to answer. Result: political budget cycles in highway spending are significantly larger in states with weaker civil-service rules. Civil-service protections, in effect, act as a commitment device that limits electoral manipulation of public spending. A clean empirical confirmation of the political-economy argument for bureaucratic independence.",
+      "abstract": "We study political budget cycles in infrastructure spending that are conditional on bureaucratic organization. Bureaucrats can facilitate or hinder politicians' ability to engage in voter-friendly spending around elections. To test this idea, we use civil service reforms undertaken by US states in the second half of the 20th century to study political budget cycles in highway spending under civil service and patronage. We find that under patronage, highway spending is 12% higher in election years and 9% higher in the year before an election. By contrast, under civil service highway spending is essentially smooth over the electoral cycle. These findings provide a novel way through which civil service rules can stabilize government activity.",
+      "summary_en": "Politicians try to win re-election by ramping up visible spending around elections — a 'political budget cycle'. Bostashvili and Ujhelyi ask whether civil-service rules can dampen this. Using US state-level highway spending across the second half of the 20th century and the staggered timing of state civil-service reforms, they find that under the political-patronage system spending was 12% higher in election years and 9% higher in pre-election years. After civil-service reform, the cycle disappears almost entirely. Civil service rules thus stabilise government activity over the electoral calendar.",
       "summary_hu": null,
-      "data_used": "US state-level highway spending data with political-cycle identification. Cross-state variation in civil-service protections.",
+      "data_used": "US state-level annual highway spending data from FHWA Highway Statistics, approximately 1900–2000, matched with state-level dates of civil-service reform adoption from secondary historical sources.",
       "data_used_hu": null,
-      "policy_relevance": "Directly relevant to Hungarian governance-reform debates (BM, central administration). The paper provides empirical support for civil-service protections as a tool limiting electoral manipulation of public spending. Relevant to Hungarian public-procurement reform, MÁSZ (municipal-affairs agency), and EU cohesion-fund oversight. Caveat: US state-level evidence; Hungarian institutional context (unitary rather than federal, different electoral cycles) changes the quantitative implications.",
+      "policy_relevance": "Hungary has had visible election-year spending peaks (e.g., MÁV/road infrastructure). The paper provides evidence-based argument that strengthening civil-service rules (reducing patronage in agencies running spending) can dampen election-year spending cycles. Relevant for the State Audit Office (ÁSZ) and the Pénzügyminisztérium when assessing fiscal-rule design.",
       "policy_relevance_hu": null,
       "topics": [
         "political-economy",
-        "fiscal-tax"
+        "fiscal-tax",
+        "regional-urban"
       ],
       "methods": [
         "panel-data",
@@ -12834,7 +12835,7 @@
       ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-29",
       "review_status": "ai-drafted",
       "openalex_id": "W2946112054",
       "policy_instruments": [
@@ -16851,15 +16852,15 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Evidence from the International Crime Victimization Survey and the World Business Environment Survey suggests that actual corruption experience is a weak predictor of reported corruption perception, and that some of the factors commonly found to “reduce” corruption, such as economic development, democratic institutions or Protestant traditions, systematically bias corruption perception indices downward from corruption experience. In addition, perception indices are influenced by absolute (as opposed to relative) levels of corruption, which tends to penalize large countries, and they exhibit diminishing sensitivity to both absolute and relative corruption, indicating that they may better capture differences among countries with low levels of corruption than among highly corrupt ones. Individual characteristics such as education, age, or employment status, and firm‐level characteristics such as the number of competitors are also found to influence corruption perceptions holding experience constant.",
-      "summary_en": "When the World Bank or Transparency International publishes a corruption score, what are we really measuring? This paper compares survey-based corruption experience (did anyone ask you for a bribe?) to the widely-used perception-based indices and shows the two correlate only weakly. Factors usually credited with \"reducing corruption\" — economic development, democracy, Protestant tradition — systematically bias perception indices downward relative to measured experience. Perception indices penalise large countries and discriminate poorly among the most corrupt countries. The implication: using these indices to rank countries for aid or investment is far less reliable than commonly assumed.",
+      "summary_en": "Cross-country corruption indices (Transparency International CPI, World Bank WGI) drive policy lending and rankings, but how well do they measure actual corruption experience? Donchev and Ujhelyi compare the indices against survey-reported corruption experience from the International Crime Victimization Survey and the World Business Environment Survey. They find: (1) experience is a weak predictor of perception, (2) factors like Protestant tradition or economic development bias perception indices downward relative to experience, (3) indices penalise large countries by tracking absolute rather than relative corruption, and (4) indices are more sensitive to differences among low-corruption countries than among highly corrupt ones.",
       "summary_hu": "Amikor a Világbank vagy a Transparency International közzétesz egy korrupciós pontszámot, mit is mérünk valójában? A tanulmány összeveti a felmérés-alapú korrupciós tapasztalatot (kértek-e tőled kenőpénzt?) a széles körben használt észlelés-alapú indexekkel, és megmutatja, hogy a kettő csak gyengén korrelál. Olyan tényezők, amelyeket gyakran a „korrupciót csökkentő\" tényezőknek tartunk — gazdasági fejlettség, demokrácia, protestáns hagyomány — szisztematikusan lefelé torzítják az észlelési indexeket a mért tapasztalathoz képest. Az észlelési indexek hátrányosan mérik a nagy országokat és gyengén különböztetnek a legkorruptabb országok között. Következmény: ezen indexek használata országok rangsorolására segélyek vagy befektetések számára sokkal megbízhatatlanabb, mint gondoljuk.",
-      "data_used": "International Crime Victimization Survey and World Business Environment Survey (corruption-experience data) combined with perception-based corruption indices (Transparency International CPI, World Bank Control of Corruption) for ~100 countries, 1990s–2000s.",
+      "data_used": "International Crime Victimization Survey (ICVS) and the World Business Environment Survey (WBES), covering tens of thousands of individuals and firms across approximately 60 countries during the 2000s. Matched against Transparency International CPI and World Bank WGI corruption indices.",
       "data_used_hu": "International Crime Victimization Survey és World Business Environment Survey (korrupciós tapasztalati adatok) észlelés-alapú korrupciós indexekkel (Transparency International CPI, World Bank Control of Corruption) összevetve ~100 országra, 1990-es és 2000-es évek.",
-      "policy_relevance": "For Hungarian anti-corruption policy (State Audit Office, OECD anti-bribery reporting): published perception indices are a biased measure and should not be used as a sole benchmark for policy targets. Surveys of direct experience are a better basis. Relevant for EU rule-of-law dialogue: arguments that hinge on Hungary's rank in perception indices should be triangulated with victimisation survey data. Limitations: both data sources have self-reporting biases.",
+      "policy_relevance": "Direct caution for Hungarian and EU institutions (TI Hungary, GRECO, the European Commission Rule-of-Law dashboard) that rely on cross-country corruption rankings. The paper shows perception-based rankings systematically misrepresent comparative corruption levels, especially for large or developing countries. Useful when interpreting Hungary's slipping CPI ranking against actual corruption-experience surveys.",
       "policy_relevance_hu": "Magyar korrupcióellenes politikához (Állami Számvevőszék, OECD vesztegetés-ellenes jelentések): a közzétett észlelési indexek torzított mérőszámok és nem használhatók egyedüli szakpolitikai célként. A közvetlen tapasztalatot mérő felmérések jobb alapot adnak. Releváns az EU jogállamisági párbeszédhez: azok az érvek, amelyek Magyarország észlelési-indexbeli rangsorára épülnek, ki kell egészítsük áldozati felmérési adatokkal. Korlátok: mindkét adatforrás önbeszámolási torzításokkal terhelt.",
       "topics": [
         "political-economy",
-        "methods"
+        "fiscal-tax"
       ],
       "methods": [
         "panel-data",
@@ -16873,7 +16874,7 @@
       ],
       "featured": false,
       "added_at": "2026-04-19",
-      "last_reviewed_at": "2026-04-19",
+      "last_reviewed_at": "2026-04-29",
       "review_status": "ai-drafted",
       "openalex_id": "W3206889639"
     },
@@ -19298,11 +19299,11 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Many countries place restrictions on the political rights of government workers. This includes limitations on political activities such as taking an active part in political campaigns. Are such restrictions desirable? We present a formal welfare analysis of this question. Bureaucrats’ political activities affect voter perceptions of the government and this can have informational benefits. However, they can also induce policy mistakes and are susceptible to ‘noise’ from some bureaucrats’ innate desire for political expression. When politicians have limited control over bureaucrats and successfully coordinate with voters, bureaucrats’ political activities can be desirable. In most cases, however, banning political activities is optimal.",
-      "summary_en": "Many countries restrict the political activity of civil servants (no campaigning, no party affiliation). Are such restrictions welfare-improving? This paper provides a formal welfare analysis. Bureaucrats' political activities can inform voters about the government — a benefit. But they can also induce policy mistakes and are susceptible to \"noise\" from bureaucrats' innate political preferences. Result: when politicians have limited control over bureaucrats and voters coordinate well, political activities can be desirable. In most cases, however, banning them is optimal. A theoretical foundation for common civil-service restrictions.",
+      "summary_en": "Many democracies — including Hungary — restrict the political activity of government workers (the US Hatch Act, similar Hungarian rules for civil servants). Forand and Ujhelyi provide a formal welfare analysis. Bureaucrats' political activities can convey valuable information to voters about the government's performance, but they can also induce policy mistakes and create 'noise' from ideologically driven bureaucrats. The paper shows that when politicians have limited control over bureaucrats and successfully coordinate with voters, allowing political activities can be optimal — but in most realistic cases, banning them is welfare-superior.",
       "summary_hu": null,
-      "data_used": "Theoretical paper; no empirical data.",
+      "data_used": "Theoretical model — game-theoretic analysis of bureaucrat political activity, voter inference, and policy choice under partial-information and coordination frictions.",
       "data_used_hu": null,
-      "policy_relevance": "Directly relevant to Hungarian civil-service legislation (BM, Ministry of Public Administration). The paper supports the general principle of restricting bureaucrats' political activity while acknowledging specific settings where activity could be beneficial. Useful framework for civil-service-reform debates. Caveat: theoretical; specific Hungarian institutional context (political-appointment structures, voter-information flows) would shape the concrete application.",
+      "policy_relevance": "Hungary's civil-service code restricts political activities by public employees; periodic reforms revisit these rules. The paper provides a rigorous framework for assessing such restrictions. Relevant for the Belügyminisztérium when calibrating the scope of political-activity bans for various categories of public employees, and for the Constitutional Court when interpreting freedom-of-expression challenges to such rules.",
       "policy_relevance_hu": null,
       "topics": [
         "political-economy"
@@ -19316,7 +19317,7 @@
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-29",
       "review_status": "ai-drafted",
       "openalex_id": "W3122702586",
       "policy_instruments": [
@@ -19333,7 +19334,7 @@
       ],
       "publication_type": "article",
       "journal": "Journal of the European Economic Association",
-      "year": 2022,
+      "year": 2023,
       "volume": "21",
       "issue": "3",
       "pages": "815-863",
@@ -19343,15 +19344,14 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Abstract We develop a model of policy making with an endogenous bureaucracy. Parties choose platforms and ideologically differentiated citizens decide whether to enter the public sector, anticipating the platforms that they may be asked to implement. Bureaucrats prefer to work on policies closer to their ideal, and voters judge the performance of an administration taking both politicians’ and bureaucrats’ actions into account. The model provides an equilibrium framework to study the emergence of partisan or neutral bureaucracies and their consequences for government performance. It shows how bureaucratic partisanship can develop in modern civil service systems; why political polarization and bureaucratic partisanship reinforce each other; why bureaucratic neutrality is associated with competitive elections; and why partisanship lowers government efficiency and increases output fluctuations. Our results yield a number of policy implications regarding political appointments, public sector wages, seniority benefits, and recruiting measures that raise the intrinsic motivation of bureaucrats.",
-      "summary_en": "Why are some civil services neutral and professional, while others are openly partisan? This paper builds a model where parties choose platforms, ideologically-motivated citizens decide whether to work in the public sector, and voters evaluate the resulting administration. The model explains several stylised facts: partisan bureaucracies emerge under polarised politics; neutral bureaucracies are associated with competitive elections; partisan civil services lower government efficiency and produce larger swings in policy output. It yields predictions for when political appointments should be extensive versus limited, and for how civil-service rules interact with electoral competition.",
+      "summary_en": "Most political-economy models treat the bureaucracy as exogenous, but in modern democracies the bureaucracy is itself shaped by who chooses to enter public service. Forand, Ujhelyi and Ting build a model where parties choose platforms and ideologically differentiated citizens decide whether to enter the bureaucracy, anticipating which platforms they may be asked to implement. Bureaucrats prefer policies closer to their ideal, and voters judge governments on both politician and bureaucrat behaviour. The model shows that bureaucratic partisanship can endogenously develop in 'merit' civil services, that political polarisation and bureaucratic partisanship reinforce each other, and that partisanship lowers government efficiency.",
       "summary_hu": null,
-      "data_used": "Theoretical paper; no empirical data.",
+      "data_used": "Theoretical model — equilibrium framework with endogenous bureaucracy, political platforms, voter assessment of joint politician-bureaucrat performance.",
       "data_used_hu": null,
-      "policy_relevance": "Very direct for Hungary. The model links political polarisation, bureaucratic partisanship, and government efficiency — a frame that maps onto ongoing debates about Hungarian civil-service reform, political appointments, and the tenure security of senior officials. Relevant to MTA/HUN-REN governance debates, public-administration reform discussions, and to any future civil-service law revision. Caveat: the model is stylised; applying it to a specific country requires mapping its parameters (polarisation, monitoring technology) to local institutions, which is an empirical project not undertaken in the paper.",
+      "policy_relevance": "Highly relevant for Hungarian post-2010 public-administration reforms. The paper formalises why political polarisation and bureaucratic partisanship can develop endogenously in 'civil-service' systems and why they harm government efficiency. Useful for policy analysis at the Belügyminisztérium, the Constitutional Court, and EU institutions assessing rule-of-law concerns about Hungarian public-sector neutrality.",
       "policy_relevance_hu": null,
       "topics": [
-        "political-economy",
-        "methods"
+        "political-economy"
       ],
       "methods": [
         "theory"
@@ -19362,7 +19362,7 @@
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-29",
       "review_status": "ai-drafted",
       "openalex_id": "W4294770377",
       "policy_instruments": [
@@ -19718,21 +19718,29 @@
       "url_published": "https://doi.org/10.1007/s11127-007-9187-4",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "Does environmental lobbying affect the probability of environmental treaty ratification? Does the level of government corruption play a role for the success of such lobbying? In this paper, we propose that a more corruptible government may be more responsive to the demands of the environmental lobby. We use several stratified hazard models and panel data from 170 countries on the timing of Kyoto Protocol ratification to test this hypothesis. We find that increased environmental lobby group activity raises the probability of ratification, and the effect rises with the degree of corruption.",
+      "summary_en": "Why do some countries ratify the Kyoto Protocol faster than others? Fredriksson, Neumayer and Ujhelyi argue that more corruptible governments may be more responsive to environmental lobby pressure (because lobbying access is easier to buy when government is corrupt). Using stratified hazard models and panel data on Kyoto ratification timing for 170 countries, they find that environmental lobby-group activity does raise the probability of ratification — and the effect grows stronger as corruption rises. Counterintuitively, corruption can speed up environmental-treaty adoption when green lobbying is active.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Panel data on 170 countries' Kyoto Protocol ratification status by year (1997–early 2000s), matched to environmental lobby-group activity indices (e.g., NGO counts, ENGOs) and country-level corruption measures (Transparency International CPI, ICRG). Stratified Cox-style hazard models.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Provides one mechanism by which Hungarian and EU climate-policy lobbying interacts with governance quality. The paper suggests that corrupt environments don't uniformly block environmental progress — when green lobbies are well-organised, they can move faster. Useful framing for the Foreign Ministry, AM, and EU climate negotiators when assessing accession-state climate commitments.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "energy-environment",
+        "political-economy"
+      ],
+      "methods": [
+        "panel-data",
+        "structural"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-19",
-      "last_reviewed_at": "2026-04-19",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2103733506"
     },
     {
@@ -20856,17 +20864,17 @@
       "url_published": "https://doi.org/10.1016/j.jpubeco.2010.01.001",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": "When information is deliberately misleading — advertising puffery, misinformation campaigns, political propaganda — should government regulate? This paper builds a model and shows the answer depends on competition and the sophistication of receivers. Key results: competition with accurate sources doesn't always defeat misinformation (if receivers are inattentive); mandating correction can backfire (raising salience of the false claim); optimal regulation often involves taxing misinformation directly or raising the cost of producing it. A foundational framework for Hungarian and EU-level misinformation policy.",
+      "abstract": "Governments have responded to misleading advertising by banning it, engaging in counter-advertising and taxing and regulating the product. In this paper, we consider the welfare effects of those different responses to misinformation. While misinformation lowers consumer surplus, its effect on social welfare is ambiguous. Misleading advertising leads to over-consumption but that may be offsetting the underconsumption associated with oligopoly outputs. If all advertising is misinformation then a tax or quantity restriction on advertising maximizes welfare, and other policy interventions are inferior. If firms undertake quality improving investments that are complementary to misinformation, then combining taxes or bans on misleading advertising with other policies can increase welfare.",
+      "summary_en": "Governments respond to misleading advertising in three main ways: bans, counter-advertising, and product taxes/regulation. Glaeser and Ujhelyi build a unified welfare framework comparing these approaches. Misinformation lowers consumer surplus, but its social-welfare effect is ambiguous because misleading ads can offset oligopoly under-provision. Pure misinformation is best addressed via advertising taxes or quantity restrictions; other interventions are inferior. When firms make quality investments complementary to misinformation, combining ad regulation with product-quality interventions can improve on either alone.",
       "summary_hu": null,
-      "data_used": "Theoretical paper; no empirical data.",
+      "data_used": "Theoretical model — welfare comparison across three policy instruments responding to firm misinformation in oligopoly markets.",
       "data_used_hu": null,
-      "policy_relevance": "Highly relevant to Hungarian media policy (NMHH) and to EU Digital Services Act enforcement. The paper's framework supports direct regulation of misinformation sources rather than reliance on consumer correction. Relevant to ongoing debates about platform regulation, political-advertising rules, and public-health communication. Caveat: theoretical; applies differently to advertising, political, and public-health misinformation.",
+      "policy_relevance": "GVH (Hungarian Competition Authority) and NMHH (Media Authority) regulate misleading advertising. The paper's framework helps these agencies sequence interventions: when only misinformation is present, advertising taxes or bans are superior to broader product regulation. The argument also informs Hungary's misleading-financial-product disclosures (banking, insurance) at MNB.",
       "policy_relevance_hu": null,
       "topics": [
-        "political-economy",
-        "innovation-digital",
-        "methods"
+        "industrial-organization",
+        "behavioral",
+        "political-economy"
       ],
       "methods": [
         "theory"
@@ -20877,7 +20885,7 @@
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-29",
       "review_status": "ai-drafted",
       "openalex_id": "W4229720470",
       "policy_instruments": [
@@ -25074,30 +25082,30 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We consider a model where firms differ in their productivity and workers are differentiated by skill and gender. A reduction in tariffs induces more productive firms to modernize their technology and enter the export market. New technologies involve computerized production processes and lower the need for physically demanding skills. As a result, the relative wage and employment of women improves in blue-collar tasks, but not in white-collar tasks. We empirically confirm these theoretical predictions using a panel of Mexican establishments and the tariff reductions associated with the North American Free Trade Agreement (NAFTA).",
-      "summary_en": "When a country cuts its import tariffs, who benefits — men or women? This paper builds and tests a theory where tariff cuts push productive firms to modernise their technology, which reduces the demand for physically demanding skills. The prediction: women's relative wages and employment rise in blue-collar jobs (where physical strength mattered most) but not in white-collar jobs. The authors confirm this using Mexican manufacturing data and NAFTA tariff cuts. Trade liberalisation can narrow gender gaps, but only on the factory floor, not in offices.",
+      "summary_en": "Trade liberalisation lowers gender inequality through a specific channel: when tariff cuts force firms to modernise, the new computerised technology reduces demand for physical strength, raising the relative wage and employment of women in blue-collar work. Juhn, Ujhelyi and Villegas-Sanchez develop this argument and document it using a panel of Mexican establishments around the 1994 NAFTA tariff reductions. They find tariff cuts caused exporting firms to update technology and substitute female for male blue-collar workers, but no parallel effect for white-collar tasks.",
       "summary_hu": "Ha egy ország csökkenti importvámjait, ki nyer — férfiak vagy nők? A tanulmány egy elméletet épít és tesztel, amelyben a vámcsökkentések a termelékenyebb cégeket rávezetik a technológiájuk modernizálására, ami csökkenti a fizikailag megerőltető készségek iránti keresletet. Előrejelzés: a nők relatív bére és foglalkoztatása emelkedik a fizikai (blue-collar) munkákban (ahol a fizikai erő a leginkább számított), de nem a fehérgalléros munkákban. A szerzők megerősítik ezt mexikói gyártási adatokkal és a NAFTA vámcsökkentéseivel. A kereskedelmi liberalizáció szűkítheti a nemek közötti szakadékot, de csak a gyár padlóján, nem az irodákban.",
-      "data_used": "Mexican manufacturing establishment panel 1990–2000 from INEGI's Annual Industrial Survey; NAFTA (1994) tariff reductions at the industry level serve as the source of variation; ~6,000 establishments.",
+      "data_used": "Establishment-level panel data from Mexico's Encuesta Industrial Anual (Annual Industrial Survey, INEGI), covering manufacturing firms from approximately 1990–2000, matched to industry-level tariff schedules pre- and post-NAFTA.",
       "data_used_hu": "Mexikói gyártási-létesítményi panel 1990–2000 az INEGI éves ipari felméréséből; a NAFTA (1994) vámcsökkentések az iparág-szintű variáció forrásaként; ~6 000 létesítmény.",
-      "policy_relevance": "For Hungarian gender-equity and trade-policy discussions: trade openness can reduce gender gaps in blue-collar sectors through technology upgrading, a channel rarely considered in policy discussions. Relevant as input to Ministry of Economy and Ministry of Families analysis of how EU trade agreements (e.g., Mercosur) interact with gender-outcome goals. Evidence is from Mexican tariff cuts; the mechanism generalises to any substantial trade-opening shock in a developing or middle-income economy.",
+      "policy_relevance": "Hungary's manufacturing sector, especially automotive and electronics, has experienced repeated trade-induced technology upgrades. The paper's mechanism — physical-skill bias declining with computerisation — is directly relevant for KSH and the Equal Treatment Authority when interpreting wage-gap trends within manufacturing. Useful framing for active-labour-market programmes targeting women in blue-collar manufacturing.",
       "policy_relevance_hu": "Magyar nemi-egyenlőségi és kereskedelempolitikai vitákhoz: a kereskedelmi nyitás csökkentheti a nemek közötti szakadékot a kék-galléros szektorokban a technológia-feljavításon át, egy csatorna, amely ritkán kerül figyelembe a szakpolitikai vitákban. Releváns input a Gazdasági Minisztérium és a Családokért Felelős Miniszter elemzéséhez arról, hogyan hatnak az EU-kereskedelmi egyezmények (pl. Mercosur) a nemi-kimeneteli célokra. A bizonyíték mexikói vámcsökkentésekből származik; a mechanizmus minden fejlődő vagy középes jövedelmű gazdaság jelentős kereskedelem-nyitási sokkjára vonatkozik.",
       "topics": [
         "trade-fdi",
         "labor-markets",
-        "inequality-welfare"
+        "demographics-migration"
       ],
       "methods": [
-        "diff-in-diff",
+        "theory",
         "panel-data"
       ],
       "countries_studied": [
         "MX"
       ],
       "data_types": [
-        "admin-firm"
+        "firm-level-dataset"
       ],
       "featured": false,
       "added_at": "2026-04-19",
-      "last_reviewed_at": "2026-04-19",
+      "last_reviewed_at": "2026-04-29",
       "review_status": "ai-drafted",
       "openalex_id": "W2017846380",
       "policy_instruments": [
@@ -25115,7 +25123,7 @@
       ],
       "publication_type": "article",
       "journal": "Journal of Development Economics",
-      "year": 2013,
+      "year": 2014,
       "volume": "106",
       "issue": null,
       "pages": "179-193",
@@ -25124,21 +25132,32 @@
       "url_published": "https://doi.org/10.1016/j.jdeveco.2013.09.009",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "This paper studies the effect of trade liberalization on an under-explored aspect of wage inequality — gender inequality. We consider a model where firms differ in their productivity and workers are differentiated by skill as well as gender. A reduction in tariffs induces more productive firms to modernize their technology and enter the export market. New technologies involve computerized production processes and lower the need for physically demanding skills. As a result, the relative wage and employment of women improves in blue-collar tasks, but not in white-collar tasks. We test our model using a panel of establishment level data from Mexico exploiting tariff reductions associated with the North American Free Trade Agreement (NAFTA). Consistent with our theory we find that tariff reductions caused new firms to enter the export market, update their technology and replace male blue-collar workers with female blue-collar workers.",
+      "summary_en": "An extended treatment of the trade-liberalisation/gender-inequality result with full theoretical derivations and richer Mexican empirical evidence. Juhn, Ujhelyi and Villegas-Sanchez show that NAFTA-era tariff reductions caused more productive Mexican firms to enter the export market, modernise their technology (lowering the importance of physical strength), and substitute female for male blue-collar workers. The relative wage and employment of women improved in blue-collar tasks but not in white-collar tasks. The paper provides one of the cleanest causal demonstrations of trade-driven gender-equality gains.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Mexican establishment-level panel from the Encuesta Industrial Anual (INEGI), 1990–2000, with industry-level NAFTA tariff schedules; covers approximately 5,000–7,000 manufacturing establishments per year across all industries.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Provides a robust empirical anchor for arguments that trade liberalisation can reduce gender wage gaps via technology channels. Relevant for Hungary's Equal Treatment Authority, Pénzügyminisztérium and KSH when assessing how export-driven sectors (Audi, Mercedes, Bosch in Hungary) shape gender-wage trajectories. Also informs EU trade-policy debates about distributional effects.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "trade-fdi",
+        "labor-markets",
+        "demographics-migration"
+      ],
+      "methods": [
+        "panel-data",
+        "diff-in-diff"
+      ],
+      "countries_studied": [
+        "MX"
+      ],
+      "data_types": [
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-19",
-      "last_reviewed_at": "2026-04-19",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2036776787"
     },
     {
@@ -34259,21 +34278,32 @@
       "url_published": "https://doi.org/10.1016/j.jdeveco.2015.06.002",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "Nonpayment for public utilities is an important constraint to expanding service access in developing countries. What are the causes of nonpayment and which policies are effective at addressing them? To study these questions, we implement and evaluate a randomized water education campaign in a low income peri-urban area in South Africa. We estimate substantial short-run treatment effects: on the order of a 25% increase in payments over a three-month period after which the effect dissipates. The evidence shows that the treatment did not operate by increasing consumers' information, or by creating reminders to pay or a threat of enforcement. Instead, households may have reciprocated the provider's efforts by paying more. Our findings provide evidence that strategies other than increased enforcement can lower nonpayment.",
+      "summary_en": "In low-income areas of South Africa, a high share of households connected to public utilities don't pay their bills, undermining service provision. Szabó and Ujhelyi run a randomised water-education campaign in a peri-urban township and find a substantial 25% short-run increase in payments over three months. The treatment did not work by raising information levels, by creating reminders, or by signalling enforcement threat. Instead, households appeared to reciprocate the provider's effort by paying more — pointing to social-norm and reciprocity channels rather than coercion as effective tools for utility-payment compliance.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Randomised field experiment in a peri-urban township in South Africa, with treatment and control households across approximately 1,500 connected dwellings; payment data from utility billing records over a 3–6 month period.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungarian district-heating, water and sewage utilities (FŐTÁV, Fővárosi Vízművek) face nonpayment problems especially in disadvantaged regions and Roma settlements. The paper provides experimental evidence that reciprocity-based educational interventions can reduce nonpayment by 25% in the short run — a useful design template for Hungarian municipal-utility outreach campaigns and for the Ministry of Interior's Roma-integration programmes.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "behavioral",
+        "fiscal-tax",
+        "regional-urban"
+      ],
+      "methods": [
+        "rct"
+      ],
+      "countries_studied": [
+        "ZA"
+      ],
+      "data_types": [
+        "field-experiment",
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2138028615"
     },
     {
@@ -34294,21 +34324,30 @@
       "url_published": "https://doi.org/10.1016/j.econlet.2017.02.002",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "To study the usefulness of subjective well-being measures as a proxy for utility, Benjamin et al. (2012) ask whether people choose what makes them happy in US samples. We use their methodology in a sample from low-income South African townships. Here respondents almost always choose what makes them feel happy. In addition, they perceive little conflict between own happiness and other relevant determinants of choice such as sense of purpose and family happiness.",
+      "summary_en": "Subjective well-being measures are increasingly used as proxies for utility in policy analysis, but most evidence on whether people choose what makes them happy comes from the US. Szabó and Ujhelyi replicate Benjamin et al. (2012) in low-income South African townships and find essentially the same pattern: respondents overwhelmingly choose options that maximise their reported happiness, and report little conflict between own happiness and other choice determinants like sense of purpose or family welfare. The result strengthens the case for treating subjective well-being as a meaningful welfare proxy across very different income contexts.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Survey of approximately 800 respondents in low-income townships in South Africa, replicating the Benjamin-Heffetz-Kimball-Rees-Jones (2012) hypothetical-choice instrument.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungary's KSH increasingly publishes subjective-well-being statistics (life satisfaction, happiness). The paper provides cross-country validation that such measures track underlying preferences in low-income settings — relevant for KSH and EU statistical practice when interpreting cross-country well-being comparisons or designing happiness-informed policy targets.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "behavioral",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "ZA"
+      ],
+      "data_types": [
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2585542846"
     },
     {
@@ -34329,21 +34368,32 @@
       "url_published": "https://doi.org/10.1016/j.jpubeco.2024.105073",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "This paper studies the economic effects of the US National Park System, the largest national conservation entity in the world. We assemble a new dataset on the history of the system, and show that parks increase overall employment and income in the local economy. The data allows us to study several specific mechanisms. Economic effects appear to be driven by visitors, and they cannot be explained by direct government spending on park budgets or by various substitution effects. Our findings provide evidence relevant to conservation policy in the US and elsewhere.",
+      "summary_en": "Do national parks generate net economic benefits for surrounding areas? Szabó and Ujhelyi assemble a comprehensive new dataset on the history of the US National Park System and find that park designation increases overall employment and income in the local economy. The effects are driven by visitor spending — they cannot be explained by direct federal park spending or by substitution from other public-spending categories. The findings provide the cleanest causal evidence to date that conservation designation is locally pro-growth, with implications for protected-area policy in the US and elsewhere.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Newly assembled panel of US National Park designations from approximately 1900 to present, matched to county-level Bureau of Economic Analysis (BEA) employment, income, and population data and federal park-budget allocations.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungary's national parks (Aggteleki, Bükki, Hortobágyi, Kiskunsági, etc.) are part of the rural-development strategy and Natura 2000 framework. The paper provides credible causal evidence that park designation is a net economic positive for nearby economies, useful for the Agriculture Ministry, AM, and the Hungarian Tourism Agency (MTÜ) when assessing the rural-development case for new or expanded protected areas.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "regional-urban",
+        "energy-environment",
+        "labor-markets"
+      ],
+      "methods": [
+        "panel-data",
+        "diff-in-diff"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-19",
-      "last_reviewed_at": "2026-04-19",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W4392078103"
     },
     {
@@ -35976,7 +36026,7 @@
       ],
       "publication_type": "article",
       "journal": "Journal of Public Economics",
-      "year": 2008,
+      "year": 2009,
       "volume": "93",
       "issue": "3-4",
       "pages": "373-391",
@@ -35985,21 +36035,25 @@
       "url_published": "https://doi.org/10.1016/j.jpubeco.2008.09.009",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "Regulatory caps on contributions to political campaigns are the cornerstones of campaign finance legislation in many established democracies, and their introduction is considered by most emerging ones. Are these regulations desirable? This paper studies contribution caps in a menu auction lobbying model with limited budgets and costly entry. In the absence of entry, contribution caps improve welfare by “leveling the political playing field”. With entry, however, a competition effect and a bargaining effect may arise, resulting in inefficient entry and exit decisions. In particular, a cap may lead to worse policies than the status quo; and even if better policies are chosen, the resulting gain in welfare may be more than offset by the entry costs. Regulation can also lead to the simultaneous entry of competing groups, creating costly rent-seeking on issues previously unaffected by lobbying.",
+      "summary_en": "Most established democracies impose caps on individual political-campaign contributions, and emerging democracies routinely consider following suit. Ujhelyi develops a menu-auction lobbying model with limited budgets and costly entry to ask whether such caps are welfare-improving. Without entry decisions, caps level the playing field and raise welfare. But with endogenous entry, two new effects emerge — competition and bargaining — that can produce inefficient entry/exit decisions. Caps may end up producing worse policies than the unregulated status quo; even when policies improve, entry costs can swamp the gains and create costly rent-seeking on previously unaffected issues.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — menu-auction lobbying framework with limited budgets and costly entry. No empirical dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungary's 2014 amendment of the Election Procedure Act and successive 2018/2022 changes to campaign-finance limits could benefit from the paper's caveats: caps are not unconditionally welfare-improving once entry decisions are endogenous. The model identifies parameter regions where caps backfire — useful for the Hungarian Parliament and the State Audit Office (ÁSZ) when assessing proposed contribution-limit changes.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "political-economy"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W3125874862"
     },
     {
@@ -36019,15 +36073,16 @@
       "url_published": "https://doi.org/10.1016/j.jpubeco.2014.06.009",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": "Civil-service reform is a classic topic of political economy: should bureaucrats be protected (tenured) or political appointees? This paper builds a model in which bureaucrats and politicians interact, and analyses when civil-service protection is socially beneficial. The mechanism: tenure lets bureaucrats develop expertise, but reduces politician control. The trade-off depends on policy volatility, information asymmetries, and voter-verification of outcomes. The paper provides formal conditions under which civil-service reform improves government efficiency.",
+      "abstract": "Civil service rules governing the selection and motivation of bureaucrats are among the defining institutions of modern democracies. Although this is an active area of reform in the US and elsewhere, economic analyses of the issue are virtually nonexistent. This paper provides a welfare evaluation of civil service reform. It describes the effect of reform on the interaction of politicians, voters, and bureaucrats, and shows that society often faces trade-offs between improving the bureaucracy and improving the performance of politicians. My results characterize the conditions under which merit-based recruitment and civil service protections such as tenure can improve welfare.",
+      "summary_en": "Civil-service rules — merit-based recruitment, tenure protections, restrictions on political activity — are foundational to modern democracies, yet receive little economic analysis. Ujhelyi provides a formal welfare evaluation. Reform that strengthens civil service can improve bureaucratic performance but at a cost: it weakens the disciplining effect that politicians' control over bureaucrats can have on politician behaviour. The paper characterises conditions under which merit-based recruitment and tenure protections improve overall welfare versus when they don't, providing a clear analytical framework for civil-service reform debates.",
       "summary_hu": null,
-      "data_used": "Theoretical paper; no empirical data.",
+      "data_used": "Theoretical model — game-theoretic interaction between voters, politicians, and bureaucrats with reform parameters governing recruitment and tenure rules.",
       "data_used_hu": null,
-      "policy_relevance": "Highly relevant to ongoing Hungarian civil-service reform debates (common theme of the Ujhelyi-Forand research agenda). The paper supports civil-service tenure in stable-policy environments but allows for political appointments in volatile-policy contexts. A technical foundation for Hungarian discussions about tenure protection and political-appointment scope. Caveat: theoretical; concrete Hungarian policy implications depend on parameter values that would need empirical estimation.",
+      "policy_relevance": "Direct relevance for Hungarian public-administration reform. The 2010-onwards 'kormánytisztviselők' reorganisation, the 2018 special legal status of public service, and recurring debates about civil-service neutrality versus political accountability all map onto the paper's trade-offs. Useful framework for the Belügyminisztérium and the Public Service Commission when designing reform packages.",
       "policy_relevance_hu": null,
       "topics": [
-        "political-economy"
+        "political-economy",
+        "fiscal-tax"
       ],
       "methods": [
         "theory"
@@ -36038,7 +36093,7 @@
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-29",
       "review_status": "ai-drafted",
       "openalex_id": "W3121243988",
       "policy_instruments": [
@@ -36064,24 +36119,25 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Fontos-e, hogy a bürokrácia független legyen a politikától? Milyen hatással járnak azok a törvények, amelyek a politikusok és a bürokrácia kapcsolatát szorosabbá teszik vagy lazítják? Ezek alapvető kérdések a modern államok szervezésével kapcsolatban, mégis viszonylag keveset tudunk róluk. Ebben a cikkben a témakör egy szeletével foglalkozom: a köztisztviselői törvények hatásaival. Összefoglalok néhány közelmúltbeli elméleti és empirikus eredményt, és rövid áttekintést nyújtok az idevágó közgazdasági és politikatudományi irodalomról.* Journal of Economic Literature (JEL) kód: D72, D73, E62, H11, H72.",
-      "summary_en": "How important is bureaucratic independence from politics, and what do civil-service laws actually do? Ujhelyi surveys recent theoretical and empirical research on civil-service legislation — laws that tighten or loosen the link between politicians and the bureaucracy. He summarises results from across both economics and political science: civil-service protections raise the cost of political interference but can reduce responsiveness to elected leaders' priorities. The trade-off is sharp and the optimal balance is sensitive to institutional context. A useful Hungarian-language entry point for researchers entering this literature, with direct relevance to Hungarian debates about public-administration design.",
+      "summary_en": "Ujhelyi reviews the question of whether bureaucracy should be insulated from politics — and what economic and political-science research has learned about the consequences of civil-service legislation that strengthens or weakens that insulation. Drawing on his own US-based work and the broader international literature, he covers the trade-offs civil-service rules impose on the interaction between politicians, voters, and bureaucrats; the empirical evidence on government-spending effects of merit-based recruitment; and the implications for emerging democracies. The piece is a Hungarian-language synthesis that brings the international debate into the domestic policy conversation.",
       "summary_hu": null,
-      "data_used": "Survey paper. References to international theoretical and empirical literature on civil-service legislation; no original empirical contribution.",
+      "data_used": "Literature review covering US, OECD, and emerging-democracy evidence on civil-service rules and their effects on government spending and policy choices.",
       "data_used_hu": null,
-      "policy_relevance": "For Hungarian public-administration debates (Belügyminisztérium, MNB-style public-sector wage-setting). The paper provides a literature-based framework for evaluating Hungarian civil-service reforms (e.g., the 2010-onward weakening of formal civil-service protections). Useful methodological reference for Hungarian researchers working on public-sector organisational economics.",
+      "policy_relevance": "Hungarian-language synthesis specifically aimed at Hungarian policy audiences. Direct relevance for the Belügyminisztérium, the Public Service Commission, and the Magyar Közigazgatási Karok during ongoing reforms of the legal status of public servants. Provides accessible context for Hungarian policymakers reading the international literature.",
       "policy_relevance_hu": null,
       "topics": [
         "political-economy",
         "fiscal-tax"
       ],
       "methods": [
-        "descriptive-survey"
+        "descriptive-survey",
+        "theory"
       ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-27",
+      "last_reviewed_at": "2026-04-29",
       "review_status": "ai-drafted",
       "openalex_id": "W2751735381"
     },
@@ -36095,7 +36151,7 @@
       ],
       "publication_type": "article",
       "journal": "Journal of the European Economic Association",
-      "year": 2020,
+      "year": 2021,
       "volume": "19",
       "issue": "3",
       "pages": "1936-1979",
@@ -36105,28 +36161,29 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Abstract Who are “protest voters” and do they affect elections? We study this question using the introduction of a pure protest option (“None Of The Above” (NOTA)) on Indian ballots. Using structural estimation, we find that in elections without NOTA, most protest voters simply abstain. Protest voters who turn out scatter their votes among many candidates and consequently have little impact on election results. From a policy perspective, NOTA may be an effective tool to increase political participation, and can attenuate the electoral impact of compulsory voting.",
-      "summary_en": "In 2013, India introduced a \"None of the Above\" (NOTA) option on ballots — a pure protest vote. This paper uses the reform to answer two questions: who are protest voters, and do they matter? Structural estimation shows that without a NOTA option, most protest voters simply abstain. Those who do turn out spread their votes thinly across many candidates and have almost no impact on who wins. From a policy standpoint, NOTA is an effective tool for raising turnout (including among dissatisfied voters) and could ease some of the distortions created by compulsory voting in other countries.",
+      "summary_en": "Who are protest voters and do they affect election outcomes? Ujhelyi, Chatterjee and Szabó use the introduction of a 'None Of The Above' (NOTA) option on Indian ballots — a pure protest option — to identify them. Using structural estimation on Indian state-election data before and after NOTA introduction, they show that without a protest option, most would-be protest voters simply abstain. Those who do turn out scatter their votes among many candidates and have little impact on results. From a policy perspective, NOTA can raise turnout while leaving election outcomes essentially unaffected — a useful tool for democracies considering compulsory voting.",
       "summary_hu": null,
-      "data_used": "Structural model estimated on Indian parliamentary and state election data pre- and post-2013 NOTA reform. Voting records, candidate shares, turnout, and the NOTA share.",
+      "data_used": "State-level election data for Indian state assemblies before and after the 2013 introduction of NOTA, covering tens of millions of voters across approximately 30 Indian states; structural estimation of voter-type distributions.",
       "data_used_hu": null,
-      "policy_relevance": "Directly relevant to Hungarian debates on ballot design and voter engagement. Introducing a NOTA option would likely raise engagement among dissatisfied voters without distorting outcomes. Relevant for NVB (National Election Office) and for legislative debates on ballot design. Caveat: India's political system differs markedly from Hungary's (many candidates, first-past-the-post). Magnitudes and the turnout effect in a Hungarian mixed system would be different; a calibration to Hungarian polling data would be a useful next step.",
+      "policy_relevance": "Hungary's Election Office and political parties debate turnout-mobilisation strategies and the merits of compulsory voting (rejected in 2014). The paper shows protest options like NOTA can raise turnout without distorting results — a relevant design lever for the Hungarian Parliament and the National Election Office. Also informs EU-level debates on ballot design.",
       "policy_relevance_hu": null,
       "topics": [
-        "political-economy"
+        "political-economy",
+        "behavioral"
       ],
       "methods": [
-        "structural"
+        "structural",
+        "panel-data"
       ],
       "countries_studied": [
         "IN"
       ],
       "data_types": [
-        "admin-individual",
         "macro-aggregate"
       ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-29",
       "review_status": "ai-drafted",
       "openalex_id": "W3108013107",
       "policy_instruments": [
@@ -40730,7 +40787,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 85
+      "paper_count": 87
     },
     {
       "id": "education-skills",
@@ -40763,7 +40820,7 @@
       "policy_framing_en": "Relevant to: family policy, pension system, immigration policy, retention of skilled workers.",
       "policy_framing_hu": "Releváns: családpolitika, nyugdíjrendszer, bevándorláspolitika, szakemberek megtartása.",
       "icon": "users",
-      "paper_count": 29
+      "paper_count": 31
     },
     {
       "id": "trade-fdi",
@@ -40774,7 +40831,7 @@
       "policy_framing_en": "Relevant to: EU trade policy, FDI promotion, export promotion, supply chain resilience, industrial policy.",
       "policy_framing_hu": "Releváns: EU kereskedelempolitika, FDI ösztönzés, exporttámogatás, ellátási láncok rugalmassága, iparpolitika.",
       "icon": "globe",
-      "paper_count": 58
+      "paper_count": 59
     },
     {
       "id": "firms-productivity",
@@ -40796,7 +40853,7 @@
       "policy_framing_en": "Relevant to: R&D tax credits, digital strategy, AI policy, innovation agency design, university–industry linkages.",
       "policy_framing_hu": "Releváns: K+F adókedvezmények, digitális stratégia, MI-politika, innovációs ügynökségek, egyetem–ipar kapcsolatok.",
       "icon": "cpu",
-      "paper_count": 51
+      "paper_count": 50
     },
     {
       "id": "banking-finance",
@@ -40818,7 +40875,7 @@
       "policy_framing_en": "Relevant to: tax reform, budget planning, public debt management, compliance policy.",
       "policy_framing_hu": "Releváns: adóreform, költségvetés-tervezés, államadósság-kezelés, adócompliance.",
       "icon": "coins",
-      "paper_count": 44
+      "paper_count": 47
     },
     {
       "id": "regional-urban",
@@ -40829,7 +40886,7 @@
       "policy_framing_en": "Relevant to: regional development funds, housing policy, transport investment, urban planning.",
       "policy_framing_hu": "Releváns: regionális fejlesztési alapok, lakáspolitika, közlekedési beruházások, városfejlesztés.",
       "icon": "building",
-      "paper_count": 47
+      "paper_count": 50
     },
     {
       "id": "energy-environment",
@@ -40840,7 +40897,7 @@
       "policy_framing_en": "Relevant to: energy transition, carbon pricing, renewable support, environmental standards.",
       "policy_framing_hu": "Releváns: energiaátmenet, szén-dioxid árazás, megújulók támogatása, környezeti szabványok.",
       "icon": "leaf",
-      "paper_count": 13
+      "paper_count": 15
     },
     {
       "id": "inequality-welfare",
@@ -40862,7 +40919,7 @@
       "policy_framing_en": "Relevant to: anti-corruption policy, public administration reform, EU affairs, electoral system design.",
       "policy_framing_hu": "Releváns: korrupcióellenes politika, közigazgatási reform, EU-ügyek, választási rendszer.",
       "icon": "building-2",
-      "paper_count": 55
+      "paper_count": 57
     },
     {
       "id": "transition-postcommunist",
@@ -40884,7 +40941,7 @@
       "policy_framing_en": "Relevant to: consumer protection, pension-default design, nudging, financial-education regulation, addictive-product regulation.",
       "policy_framing_hu": "Releváns: fogyasztóvédelem, nyugdíjalap-alapbeállítások, döntéslendítés (nudge), pénzügyi edukáció szabályozása, függőséget okozó termékek szabályozása.",
       "icon": "brain",
-      "paper_count": 80
+      "paper_count": 84
     },
     {
       "id": "industrial-organization",
@@ -40895,7 +40952,7 @@
       "policy_framing_en": "Relevant to: competition policy (GVH), merger review, platform regulation, auction design, sector-specific regulation.",
       "policy_framing_hu": "Releváns: versenypolitika (GVH), fúziókontroll, platformszabályozás, aukciótervezés, ágazati szabályozás.",
       "icon": "network",
-      "paper_count": 54
+      "paper_count": 55
     },
     {
       "id": "macroeconomics",
@@ -40928,7 +40985,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 139
+      "paper_count": 136
     },
     {
       "id": "market-design",

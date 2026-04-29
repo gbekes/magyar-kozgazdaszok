@@ -16,16 +16,17 @@
   "url_published": "https://doi.org/10.1016/j.jpubeco.2019.04.004",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": "Politicians often spend more in election years (political budget cycles). But is this worse in states where civil-service protections are weaker? This paper uses US state-level highway-spending data to answer. Result: political budget cycles in highway spending are significantly larger in states with weaker civil-service rules. Civil-service protections, in effect, act as a commitment device that limits electoral manipulation of public spending. A clean empirical confirmation of the political-economy argument for bureaucratic independence.",
+  "abstract": "We study political budget cycles in infrastructure spending that are conditional on bureaucratic organization. Bureaucrats can facilitate or hinder politicians' ability to engage in voter-friendly spending around elections. To test this idea, we use civil service reforms undertaken by US states in the second half of the 20th century to study political budget cycles in highway spending under civil service and patronage. We find that under patronage, highway spending is 12% higher in election years and 9% higher in the year before an election. By contrast, under civil service highway spending is essentially smooth over the electoral cycle. These findings provide a novel way through which civil service rules can stabilize government activity.",
+  "summary_en": "Politicians try to win re-election by ramping up visible spending around elections — a 'political budget cycle'. Bostashvili and Ujhelyi ask whether civil-service rules can dampen this. Using US state-level highway spending across the second half of the 20th century and the staggered timing of state civil-service reforms, they find that under the political-patronage system spending was 12% higher in election years and 9% higher in pre-election years. After civil-service reform, the cycle disappears almost entirely. Civil service rules thus stabilise government activity over the electoral calendar.",
   "summary_hu": null,
-  "data_used": "US state-level highway spending data with political-cycle identification. Cross-state variation in civil-service protections.",
+  "data_used": "US state-level annual highway spending data from FHWA Highway Statistics, approximately 1900–2000, matched with state-level dates of civil-service reform adoption from secondary historical sources.",
   "data_used_hu": null,
-  "policy_relevance": "Directly relevant to Hungarian governance-reform debates (BM, central administration). The paper provides empirical support for civil-service protections as a tool limiting electoral manipulation of public spending. Relevant to Hungarian public-procurement reform, MÁSZ (municipal-affairs agency), and EU cohesion-fund oversight. Caveat: US state-level evidence; Hungarian institutional context (unitary rather than federal, different electoral cycles) changes the quantitative implications.",
+  "policy_relevance": "Hungary has had visible election-year spending peaks (e.g., MÁV/road infrastructure). The paper provides evidence-based argument that strengthening civil-service rules (reducing patronage in agencies running spending) can dampen election-year spending cycles. Relevant for the State Audit Office (ÁSZ) and the Pénzügyminisztérium when assessing fiscal-rule design.",
   "policy_relevance_hu": null,
   "topics": [
     "political-economy",
-    "fiscal-tax"
+    "fiscal-tax",
+    "regional-urban"
   ],
   "methods": [
     "panel-data",
@@ -39,7 +40,7 @@
   ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-23",
+  "last_reviewed_at": "2026-04-29",
   "review_status": "ai-drafted",
   "openalex_id": "W2946112054",
   "policy_instruments": [

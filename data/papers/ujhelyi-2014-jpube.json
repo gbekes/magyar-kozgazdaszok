@@ -15,15 +15,16 @@
   "url_published": "https://doi.org/10.1016/j.jpubeco.2014.06.009",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": "Civil-service reform is a classic topic of political economy: should bureaucrats be protected (tenured) or political appointees? This paper builds a model in which bureaucrats and politicians interact, and analyses when civil-service protection is socially beneficial. The mechanism: tenure lets bureaucrats develop expertise, but reduces politician control. The trade-off depends on policy volatility, information asymmetries, and voter-verification of outcomes. The paper provides formal conditions under which civil-service reform improves government efficiency.",
+  "abstract": "Civil service rules governing the selection and motivation of bureaucrats are among the defining institutions of modern democracies. Although this is an active area of reform in the US and elsewhere, economic analyses of the issue are virtually nonexistent. This paper provides a welfare evaluation of civil service reform. It describes the effect of reform on the interaction of politicians, voters, and bureaucrats, and shows that society often faces trade-offs between improving the bureaucracy and improving the performance of politicians. My results characterize the conditions under which merit-based recruitment and civil service protections such as tenure can improve welfare.",
+  "summary_en": "Civil-service rules — merit-based recruitment, tenure protections, restrictions on political activity — are foundational to modern democracies, yet receive little economic analysis. Ujhelyi provides a formal welfare evaluation. Reform that strengthens civil service can improve bureaucratic performance but at a cost: it weakens the disciplining effect that politicians' control over bureaucrats can have on politician behaviour. The paper characterises conditions under which merit-based recruitment and tenure protections improve overall welfare versus when they don't, providing a clear analytical framework for civil-service reform debates.",
   "summary_hu": null,
-  "data_used": "Theoretical paper; no empirical data.",
+  "data_used": "Theoretical model — game-theoretic interaction between voters, politicians, and bureaucrats with reform parameters governing recruitment and tenure rules.",
   "data_used_hu": null,
-  "policy_relevance": "Highly relevant to ongoing Hungarian civil-service reform debates (common theme of the Ujhelyi-Forand research agenda). The paper supports civil-service tenure in stable-policy environments but allows for political appointments in volatile-policy contexts. A technical foundation for Hungarian discussions about tenure protection and political-appointment scope. Caveat: theoretical; concrete Hungarian policy implications depend on parameter values that would need empirical estimation.",
+  "policy_relevance": "Direct relevance for Hungarian public-administration reform. The 2010-onwards 'kormánytisztviselők' reorganisation, the 2018 special legal status of public service, and recurring debates about civil-service neutrality versus political accountability all map onto the paper's trade-offs. Useful framework for the Belügyminisztérium and the Public Service Commission when designing reform packages.",
   "policy_relevance_hu": null,
   "topics": [
-    "political-economy"
+    "political-economy",
+    "fiscal-tax"
   ],
   "methods": [
     "theory"
@@ -34,7 +35,7 @@
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-23",
+  "last_reviewed_at": "2026-04-29",
   "review_status": "ai-drafted",
   "openalex_id": "W3121243988",
   "policy_instruments": [
