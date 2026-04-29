@@ -24678,31 +24678,32 @@
       "url_published": "https://www.aeaweb.org/articles?id=10.1257/aer.20150237",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": "This paper asks whether temporary trade protection can help countries develop new industries. Using Napoleon's blockade of British trade as a natural experiment, I show that French regions whose exposure to British imports was more reduced by the blockade saw faster adoption of mechanised cotton spinning and retained this advantage for decades after the blockade ended.",
-      "summary_en": "Can a country build a new industry by temporarily shielding it from foreign competition? Using Napoleon's 1806–1813 blockade of British trade — which cut off imports unevenly across French regions — this paper shows that more-protected regions adopted mechanised cotton spinning faster, and kept the advantage long after the blockade was lifted. The paper is a rare piece of credible empirical evidence for the classical infant-industry argument behind industrial policy.",
+      "abstract": "This paper uses a natural experiment to estimate the causal effect of temporary trade protection on long-term economic development. I find that regions in the French Empire which became better protected from trade with the British for exogenous reasons during the Napoleonic Wars (1803-1815) increased capacity in mechanized cotton spinning to a larger extent than regions which remained more exposed to trade. In the long run, regions with exogenously higher spinning capacity had higher activity in mechanized cotton spinning. They also had higher value added per capita in industry up to the second half of the nineteenth century, but not later.",
+      "summary_en": "Juhász uses Napoleon's 1803-1815 blockade of British trade as a natural experiment to test whether temporary trade protection causally promotes long-run industrial development. Regions of the French Empire that became more shielded from British competition for exogenous geographic reasons (proximity to enforcement zones) expanded mechanised cotton-spinning capacity more aggressively. The protected regions retained higher cotton-spinning activity for decades after Napoleon's defeat, and showed higher industrial value-added per capita through the mid-19th century. The paper provides one of the cleanest causal demonstrations that infant-industry protection can have permanent effects.",
       "summary_hu": "Egy ország kiépíthet-e egy új iparágat, ha időlegesen megvédi a külföldi versenytől? Napoleon 1806–1813-as brit-kereskedelmi blokádját használva — amely egyenetlenül vágta el a francia régiókat az importoktól —, a tanulmány megmutatja, hogy a jobban védett régiók gyorsabban adoptálták a gépesített gyapot-fonást, és megtartották az előnyt jóval a blokád feloldása után. A tanulmány ritka, hiteles empirikus bizonyíték a klasszikus „kezdő-ipar\" érvre, amely az iparpolitika mögött áll.",
-      "data_used": "Historical French administrative data on textile mills and spindles by département, 1803–1840, combined with measures of each region's effective exposure to the British blockade based on distance from the North Sea coast and shipping routes.",
+      "data_used": "French Empire industrial census records (Statistique Industrielle, Statistique Générale de la France) on plant-level cotton-spinning capacity across French départements, 1800–1900. Geographic data on Napoleonic-blockade enforcement zones from naval and military archives.",
       "data_used_hu": "Történelmi francia adminisztratív adatok textil-gyárakra és orsókra départementenként 1803–1840 között, kombinálva a brit blokádnak való tényleges kitettség mérőszámaival, amelyek az Északi-tengerből való távolságra és hajózási útvonalakra épülnek.",
-      "policy_relevance": "Offers one of the cleanest empirical cases for the idea that time-limited trade protection can seed a lasting industry. Caveats: the setting is early-19th-century textiles and a very large trade shock; generalising to modern industrial policy requires care about which industries and shock sizes are comparable. Relevant for: Hungarian Ministry of Economy officials designing targeted industrial policy under EU state-aid rules.",
+      "policy_relevance": "Foundational evidence for industrial-policy debates that the Pénzügyminisztérium and Ministry of Economic Development engage with when designing sectoral support (e.g., automotive, battery manufacturing). The paper shows temporary protection can have permanent payoff under specific conditions — relevant for evaluating whether targeted Hungarian industrial support (1990s post-transition, 2010s reindustrialisation, 2020s green transition) generates lock-in effects.",
       "policy_relevance_hu": "Az egyik legtisztább empirikus eset arra, hogy időleges kereskedelmi védelem tartós iparhoz vezethet. Figyelmeztetés: a környezet 19. század eleji textil és nagyon nagy kereskedelmi sokk; a modern iparpolitikára való általánosítás óvatosságot igényel, mely iparágakban és sokknagyságokban lehet összehasonlítható. Releváns a magyar Gazdasági Minisztérium tisztviselőinek, akik célzott iparpolitikát terveznek az EU állami-támogatási szabályok alatt.",
       "topics": [
         "trade-fdi",
-        "firms-productivity"
+        "firms-productivity",
+        "macroeconomics"
       ],
       "methods": [
-        "panel-data",
-        "diff-in-diff"
+        "diff-in-diff",
+        "panel-data"
       ],
       "countries_studied": [
-        "FR",
-        "GB"
+        "FR"
       ],
       "data_types": [
-        "historical"
+        "historical",
+        "firm-level-dataset"
       ],
       "featured": true,
       "added_at": "2026-04-19",
-      "last_reviewed_at": "2026-04-19",
+      "last_reviewed_at": "2026-04-29",
       "review_status": "ai-drafted",
       "popular_links": [
         {
@@ -24725,7 +24726,7 @@
       ],
       "publication_type": "article",
       "journal": "Small Business Economics",
-      "year": 2019,
+      "year": 2021,
       "volume": "56",
       "issue": "4",
       "pages": "1385-1404",
@@ -24734,12 +24735,12 @@
       "url_published": "https://doi.org/10.1007/s11187-019-00235-9",
       "url_pdf": "https://link.springer.com/content/pdf/10.1007/s11187-019-00235-9.pdf",
       "url_replication": null,
-      "abstract": "Abstract It is generally acknowledged that in order to have access to locally accumulated industrial knowledge, firms have to collaborate and take part in cluster knowledge networks. This study argues that the inherited capabilities of spinoff enable them to cooperate and exchange knowledge more easily and to gain more from positive knowledge externalities in clusters. The basis of the analysis is a relational dataset on a printing and paper product cluster in Hungary, and I use exponential random graph models to explain the formation of knowledge ties. I demonstrate that besides geographical proximity, ownership similarity and network structural effects, being a spinoff company enhances tie formation in the local network. Results suggest that spinoffs are indeed more likely to collaborate and take advantage of knowledge concentration.",
-      "summary_en": "Firms in industrial clusters collaborate, but who actually connects most easily? This paper studies spinoff firms — newly-founded firms whose founders came from existing cluster companies. Using data on a Hungarian printing-and-paper-products cluster, the authors fit exponential random graph models to explain knowledge-tie formation. Beyond standard factors like geographic proximity, ownership similarity, and network structure, being a spinoff significantly enhances tie formation. Inherited capabilities from the founding firm give spinoffs a head start in cluster networks.",
+      "abstract": "It is generally acknowledged that in order to have access to locally accumulated industrial knowledge, firms have to collaborate and take part in cluster knowledge networks. This study argues that the inherited capabilities of spinoff enable them to cooperate and exchange knowledge more easily and to gain more from positive knowledge externalities in clusters. The basis of the analysis is a relational dataset on a printing and paper product cluster in Hungary, and I use exponential random graph models to explain the formation of knowledge ties. I demonstrate that besides geographical proximity, ownership similarity and network structural effects, being a spinoff company enhances tie formation in the local network. Results suggest that spinoffs are indeed more likely to collaborate and take advantage of knowledge concentration.",
+      "summary_en": "Spinoff firms — those founded by employees of incumbent firms — typically have a head start: they inherit knowledge, contacts, and routines. Juhász asks whether this advantage extends to forming knowledge ties within an industry cluster. Using detailed network data on the Kecskemét printing and paper cluster in Hungary and exponential random graph models, he finds that being a spinoff substantially increases the probability of forming knowledge ties with other cluster firms, even after controlling for geographic proximity, ownership similarity, and network structural effects. Spinoffs disproportionately benefit from knowledge agglomeration.",
       "summary_hu": null,
-      "data_used": "Relational dataset on a Hungarian printing-and-paper-products cluster. Exponential random graph models of tie formation.",
+      "data_used": "Network and firm-level data on the Kecskemét (Hungary) printing and paper-products cluster, including firm origins (spinoff vs. de novo), ownership ties, geographic locations, and survey-based knowledge-tie data.",
       "data_used_hu": null,
-      "policy_relevance": "For Hungarian cluster-policy and entrepreneurship-support design (NRDI Office, regional development agencies). The paper supports spinoff-encouraging incubation policies — spinoffs connect to cluster networks more easily and can amplify productivity spillovers. Relevant to technology-parks and innovation-district design. Caveat: specific Hungarian cluster; effects in different industries may differ.",
+      "policy_relevance": "Hungarian innovation policy (IFKA, NKFI Office, NRDI Fund) targets startup firms broadly. The paper suggests spinoffs from established cluster firms have specific advantages worth distinguishing in eligibility criteria — they leverage cluster knowledge more efficiently. Useful for sharpening the design of innovation-grant programmes targeting cluster-based regional development.",
       "policy_relevance_hu": null,
       "topics": [
         "regional-urban",
@@ -24747,17 +24748,19 @@
         "firms-productivity"
       ],
       "methods": [
+        "structural",
         "panel-data"
       ],
       "countries_studied": [
         "HU"
       ],
       "data_types": [
-        "firm-level-dataset"
+        "firm-level-dataset",
+        "survey"
       ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-29",
       "review_status": "ai-drafted",
       "openalex_id": "W2965484183",
       "policy_instruments": [
@@ -24784,26 +24787,28 @@
       "url_published": "https://doi.org/10.18414/ksz.2016.12.1375",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": "Kikkel alakítanak ki kapcsolatot a gazdaság szereplői? Milyen jellemzők befolyásolják e kapcsolatok alakulását? Örökké tartanak ezek az együttműködések? A hálózatok dinamikájának vizsgálatával az utóbbi időben többen tettek kísérletet ezeknek a kérdéseknek a megválaszolására. Jelen tanulmánnyal az a célunk, hogy felhívjuk a hazai közgazdászközösség figyelmét a hálózatok dinamikus megközelítésének fontosságára és hazai kutatási perspektíváira. Szakirodalmi áttekintésünkben a regionális klasztereket és iparágakat átfogó tudáshálózatok változását magyarázó regionális gazdaságtani tanulmányokra helyezzük a hangsúlyt, mivel az empirikus módszerek alkalmazása jelenleg ezen megközelítések esetében a leggazdagabb. Összegző megállapításunk, hogy a regionális klaszterek tudáshálózataiban a beágya zó dottság és a kohézió, míg az iparági tudáshálózatokban az ágazati tapasztalat, a földrajzi közelség és a közös partnerek megléte segítik az együttműködések kialakulását. A dinamikus hálózatelemzés eszközeinek és eredményeinek adaptálása és továbbfejlesztése érdemben hozzájárulhat a gazdasági szereplők közötti kapcsolatrendszerek megértéséhez.* Journal of Economic Literature (JEL) kód: D85, L14, R11, O31.",
-      "summary_en": "How do knowledge networks among economic actors evolve over time, and what tools can researchers use to study that evolution? Juhász, Elekes and Gyurkovics survey the dynamic-network-analysis literature with a focus on regional-economics applications. Their goal is to introduce Hungarian researchers to dynamic-network methods and to highlight Hungarian research perspectives. Main findings from the literature: in regional cluster knowledge networks, embeddedness and cohesion drive cooperation formation; in industry-level knowledge networks, sectoral experience, geographic proximity, and shared partners are key. The paper argues that adapting and extending dynamic-network analysis tools could meaningfully advance understanding of economic-actor relationships in Hungary.",
+      "abstract": "A tanulmány célja, hogy felhívja a hazai közgazdász szakma figyelmét a hálózatok dinamikus szemléletű elemzésének fontosságára és hazai kutatási lehetőségeire. A szerzők áttekintik, hogyan jönnek létre a gazdasági szereplők közötti kapcsolatok, milyen tényezők alakítják ezeket, és vajon a kooperációk tartósak-e. A regionális klaszterszintű tudáshálózatokat a beágyazottság és a kohézió erősíti, míg az iparági szintű hálózatok az ágazati tapasztalat, a földrajzi közelség és a közös partnerek mentén szerveződnek. A dinamikus hálózatelemzés eszközeinek és eredményeinek hazai adaptálása lényegesen hozzájárulhat a gazdasági szereplők közötti kapcsolatok rendszerének megértéséhez.",
+      "summary_en": "Network-analysis tools have grown sophisticated, but Hungarian economics research has rarely deployed dynamic-network analysis to study how firm-to-firm relationships evolve. Juhász, Elekes and Gyurkovics survey the international literature on dynamic network analysis and outline domestic research opportunities. They show that regional cluster networks are strengthened by embeddedness and cohesion, while industry-level networks build on sectoral experience, geographic proximity, and shared partners. The paper aims to make dynamic-network methods accessible to Hungarian policy researchers.",
       "summary_hu": null,
-      "data_used": "Survey paper. References to dynamic-network-analysis literature in regional and industry economics; no original empirical contribution.",
+      "data_used": "Literature review and methodological synthesis. No primary dataset, but illustrates with Hungarian firm-network data examples from the authors' own work.",
       "data_used_hu": null,
-      "policy_relevance": "For Hungarian regional-development and innovation policy (NIH, ITM, regional-development authorities): the paper supports investing in dynamic-network analysis capacity within Hungarian research institutions. The Lengyel/Wachs/Lőrincz cluster has subsequently developed exactly this capability (subsequent Lengyel et al. papers in JEG, Economic Geography). Useful methodological reference and bibliography.",
+      "policy_relevance": "Hungarian-language methodology survey targeted at researchers in KSH, MNB, KRTK, and the regional-development community. Provides a pathway for integrating dynamic network analysis into Hungarian policy-relevant research, especially for cluster development, innovation networks, and inter-firm collaboration analysis.",
       "policy_relevance_hu": null,
       "topics": [
         "regional-urban",
-        "innovation-digital",
+        "industrial-organization",
         "methods"
       ],
       "methods": [
         "descriptive-survey"
       ],
-      "countries_studied": [],
+      "countries_studied": [
+        "HU"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-27",
+      "last_reviewed_at": "2026-04-29",
       "review_status": "ai-drafted",
       "openalex_id": "W2560164989"
     },
@@ -24827,17 +24832,17 @@
       "url_published": "https://doi.org/10.1093/jeg/lbag006",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": "Abstract Firms in industry clusters benefit from locating close to suppliers and customers. However, the pervasiveness of global value chains questions the need for co-location in buyer–supplier relationships. We propose that supply-chain partners are more likely to co-locate if they exchange not only goods but also know-how, implying superadditivity of Marshallian agglomeration channels. We test this in a coagglomeration framework using microdata for Hungary—a small, open economy deeply embedded in global value chains—examining co-location, labor flows, and value chains between firms and industries. We find that supply chains foster co-location primarily among firms in skill-related industries.",
-      "summary_en": "Why do firms in industry clusters benefit from being near their suppliers and customers? The textbook answer points to goods flows. This paper argues it's also about know-how flows. If supply-chain partners exchange not just inputs but tacit knowledge, their benefits from co-locating should be larger than Marshallian theory suggests. Using Hungarian microdata on co-location, labour flows, and firm-to-firm value chains, the authors test the prediction. Finding: supply chains foster co-location primarily among firms in skill-related industries — confirming the know-how channel. A cleaner empirical framework for thinking about industrial-cluster policy.",
+      "abstract": "Strong local clusters help firms compete on global markets. One explanation for this is that firms benefit from locating close to their suppliers and customers. However, the emergence of global supply chains shows that physical proximity is not necessarily a prerequisite to successfully manage customer-supplier relations anymore. This raises the question when firms need to colocate in value chains and when they can coordinate over longer distances. We hypothesize that one important aspect is the extent to which supply chain partners exchange not just goods but also know-how. We exploit detailed micro-data for the Hungarian economy between 2015 and 2017, linking firm registries, employer-employee matched data and firm-to-firm transaction data from value-added tax records. We show that supply chains are more likely to support coagglomeration when the industries involved are also skill related. That is, input-output and labor market channels reinforce each other, but supplier connections only matter for colocation when industries have similar labor requirements, suggesting that they employ similar types of know-how.",
+      "summary_en": "When do firms in supply-chain relationships locate near each other, and when can they manage long-distance partnerships? Juhász, Elekes, Ilyés and Neffke link Hungarian firm-to-firm VAT transaction records (2015-2017) with employer-employee data to test whether supply-chain coagglomeration is reinforced by skill-relatedness — that is, by overlapping labour-market requirements. They find that input-output and labour-market channels reinforce each other, but supplier connections only generate co-location when the trading industries also share similar skills. Goods alone don't require proximity; know-how does.",
       "summary_hu": null,
-      "data_used": "Hungarian administrative microdata on firms: inter-firm value-chain relationships, labour mobility between firms, firm-level co-location. Covers firms across all industries in Hungary.",
+      "data_used": "Hungarian firm-level VAT transaction records 2015-2017 from NAV, linked to employer-employee matched data from KSH and ONYF (~all formal firms with revenue above the VAT threshold). Cross-industry skill-relatedness measures from labour-flow data.",
       "data_used_hu": null,
-      "policy_relevance": "Directly relevant to Hungarian regional-development and industrial-policy design (ITM, local governments). The paper supports cluster-support policies that prioritize skill-related industries and recognise know-how transfer as a distinct benefit of co-location. Relevant to EU cohesion-fund targeting and to Hungarian special-economic-zone policy. Caveat: the data are recent and Hungarian; the skill-relatedness channel's strength in other settings may vary.",
+      "policy_relevance": "Direct evidence for Hungarian regional-development policy (Ministry of Economic Development, IFKA, EU Cohesion programmes). The paper shows clusters succeed when supply-chain partners share labour-market overlap, not just product transactions. Useful for sharpening industrial-park and SEZ designation criteria — co-locate skill-related firms, not just any input-output partners.",
       "policy_relevance_hu": null,
       "topics": [
         "regional-urban",
-        "firms-productivity",
-        "innovation-digital"
+        "trade-fdi",
+        "firms-productivity"
       ],
       "methods": [
         "panel-data"
@@ -24846,11 +24851,12 @@
         "HU"
       ],
       "data_types": [
-        "admin-firm"
+        "admin-firm",
+        "firm-level-dataset"
       ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-29",
       "review_status": "ai-drafted",
       "openalex_id": "W7129109926",
       "policy_instruments": [
@@ -24868,7 +24874,7 @@
       ],
       "publication_type": "article",
       "journal": "Journal of Economic Geography",
-      "year": 2017,
+      "year": 2018,
       "volume": "18",
       "issue": "6",
       "pages": "1203-1226",
@@ -24877,30 +24883,32 @@
       "url_published": "https://doi.org/10.1093/jeg/lbx039",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": "Knowledge networks are important to understand learning in industry clusters but surprisingly little is known about what drives the formation, persistence and dissolution of ties. Applying stochastic actor-oriented models on longitudinal relational data from a mature cluster in a medium-tech industry, we show that triadic closure and geographical proximity increase the probability of tie creation but does not influence tie persistence. Cognitive proximity is positively correlated to tie persistence but firms create ties to cognitively proximate firms only if they are loosely connected through common third partners. We propose a micro-perspective to understand how endogenous network effects, cognitive proximity of actors and their interplay influence the evolutionary process of network formation in clusters.",
-      "summary_en": "How do knowledge networks in industrial clusters form, grow, and dissolve? This paper uses longitudinal relational data on a mature mid-tech Hungarian cluster to answer the question with stochastic actor-oriented models. Findings: triadic closure (friends-of-friends becoming friends) and geographical proximity both increase tie creation — but neither affects tie persistence. Cognitive proximity helps ties persist, but firms only create ties to cognitively-proximate firms if they are loosely connected through common partners. A nuanced picture of when geography, cognition, and network structure matter for industrial-cluster dynamics.",
+      "abstract": "Triadic closure and geographical proximity are consistently found to be the strongest factors influencing the formation of intra-cluster knowledge ties. Less is known, however, about the persistence of such knowledge ties. We use a unique longitudinal dataset on knowledge ties in the printing and paper-products cluster of Kecskemét, Hungary, to investigate the formation versus the persistence of knowledge ties. We find that triadic closure and geographical proximity increase the probability of tie creation but do not affect tie persistence. Cognitive proximity, in contrast, is associated with longer-lasting ties. The results suggest that the formation and persistence of cluster knowledge ties are governed by different mechanisms.",
+      "summary_en": "In an industry cluster, what makes some firm-to-firm knowledge ties form, and what makes them last? Juhász and Lengyel use a unique longitudinal network dataset from the Kecskemét printing and paper-products cluster in Hungary to disentangle these. They find that triadic closure (sharing a common partner) and geographic proximity drive tie creation, but neither affects tie persistence. Persistence depends on cognitive proximity — firms doing similar work — bridged via loose intermediaries. The two phases of cluster network dynamics are governed by different mechanisms.",
       "summary_hu": "Hogyan alakulnak ki, nőnek és bomlanak fel a tudáshálózatok ipari klaszterekben? A tanulmány egy érett, közepes-tech magyar klaszter longitudinális relációs adatait használja a kérdés megválaszolására sztochasztikus szereplő-vezérelt modellekkel. Megállapítások: a triadikus zárás (barátok barátai barátokká válnak) és a földrajzi közelség egyaránt növeli a kötelékek létrejöttét — de egyik sem befolyásolja a kötelékek tartósságát. A kognitív közelség segíti a kötelékek megmaradását, de a cégek csak akkor építenek kötelékeket kognitívan közeli cégekkel, ha közös partnereken keresztül lazán kapcsolódnak. Árnyalt kép arról, mikor számít a földrajz, a megismerés és a hálózat-szerkezet az ipari klaszter-dinamikára.",
-      "data_used": "Longitudinal relational data on knowledge ties within a Hungarian industrial cluster (medium-tech sector). Stochastic actor-oriented models (SAOM).",
+      "data_used": "Longitudinal network data on knowledge ties between firms in the Kecskemét printing and paper-products cluster, Hungary, with multiple waves of survey data on firm-to-firm collaboration approximately 2010-2015.",
       "data_used_hu": "Egy magyar ipari klaszter (közepes-tech ágazat) tudáskötelékeinek longitudinális relációs adatai. Sztochasztikus szereplő-vezérelt modellek (SAOM).",
-      "policy_relevance": "For Hungarian cluster policy and regional innovation-system design. The paper supports different policy levers at different cluster-lifecycle stages: geographical proximity matters for initial tie formation, cognitive proximity for sustaining networks. Relevant to NRDI Office, regional development agencies. Caveat: a specific Hungarian cluster; effects in clusters at different lifecycle stages or sectors may differ.",
+      "policy_relevance": "Hungary's regional cluster development policy (under EU Cohesion funds, IFKA cluster programmes) typically emphasises geographic co-location as the key tool. The paper shows geography helps tie creation but not persistence — for persistent collaboration, cognitive proximity matters. Relevant for IFKA, ITM, and EU-funded regional development programmes when designing cluster interventions.",
       "policy_relevance_hu": "Magyar klaszter-politikához és a regionális innovációs rendszerek tervezéséhez. A tanulmány különböző szakpolitikai eszközöket támogat a klaszter életciklus különböző szakaszaiban: a földrajzi közelség a kezdeti kötelékek formálásánál, a kognitív közelség a hálózatok fenntartásánál számít. Releváns az NKFIH-nak, regionális fejlesztési ügynökségeknek. Korlát: egy konkrét magyar klaszter; eltérő életciklusban vagy ágazatban lévő klasztereken a hatások eltérőek lehetnek.",
       "topics": [
         "regional-urban",
         "innovation-digital",
-        "firms-productivity"
+        "industrial-organization"
       ],
       "methods": [
-        "panel-data"
+        "panel-data",
+        "structural"
       ],
       "countries_studied": [
         "HU"
       ],
       "data_types": [
-        "firm-level-dataset"
+        "firm-level-dataset",
+        "survey"
       ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-29",
       "review_status": "ai-drafted",
       "openalex_id": "W2771138162",
       "policy_instruments": [
@@ -24927,31 +24935,32 @@
       "url_published": "https://doi.org/10.1086/730205",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": "New technologies tend to be adopted slowly and – even after being adopted – take time to be reflected in higher aggregate productivity. One prominent explanation for these patterns is the need to reorganize production, which often goes hand-in-hand with major technological breakthroughs. We study a unique setting that allows us to examine the empirical relevance of this explanation: the adoption of mechanized cotton spinning during the First Industrial Revolution in France. The new technology required reorganizing production by moving workers from their homes to the newly-formed factories. Using a novel hand-collected plant-level dataset from French archival sources, we show that productivity growth in mechanized cotton spinning was driven by the disappearance of plants in the lower tail – in contrast to other sectors that did not need to reorganize when new technologies were introduced. We provide evidence that this was driven by organizational challenges such as developing optimal plant layout. A process of ‘trial and error’ led to initially low and widely dispersed productivity, and – in the subsequent decades – to high productivity growth as knowledge diffused through the economy and new entrants adopted improved methods of organizing production.",
-      "summary_en": "New technologies often take years to show up in aggregate productivity. Why? This paper shows that realising the gains usually requires reorganising production — a slow, costly transition. The empirical setting is the First Industrial Revolution in France: mechanised cotton spinning required moving workers out of their homes into the newly-formed factories. With a hand-collected plant-level dataset from French archives, the authors show that in cotton spinning, productivity growth came from the exit of low-productivity plants rather than improvements within plants. In other sectors where reorganisation was not needed, the pattern is different. Takeaway: technological breakthroughs and organisational change are inseparable.",
+      "abstract": "New technologies tend to be adopted slowly and—even after being adopted—take time to be reflected in higher aggregate productivity. One prominent explanation is that major technological breakthroughs create the need to reorganize production. We study a unique setting that allows us to examine this mechanism: the adoption of mechanized cotton spinning during the first Industrial Revolution in France. Using a novel hand-collected, plant-level dataset from French archival sources, we show that a process of “trial and error” in reorganizing production led to initially low and widely dispersed productivity across firms operating the new technology. In the subsequent decades, we observe high productivity growth as knowledge diffused through the economy and new entrants adopted improved methods of organizing production.",
+      "summary_en": "Why does productivity often fail to rise immediately when firms adopt a new technology? Juhász, Squicciarini and Voigtländer argue the answer is reorganisation cost: firms must rearrange production around the new technology, and they learn by trial and error. Using hand-collected plant-level data from French archives covering the early-19th-century mechanisation of cotton spinning, they document low and widely dispersed productivity in the first generation of mechanised plants. Productivity rose sharply over subsequent decades as knowledge of how to organise mechanised production diffused and new entrants adopted improved methods.",
       "summary_hu": null,
-      "data_used": "Hand-collected plant-level historical data from French archival sources during the First Industrial Revolution (early 1800s). Covers mechanised cotton spinning plus comparison sectors that did not require organisational reconfiguration. Plant-level outputs, inputs, and entry/exit.",
+      "data_used": "Hand-collected plant-level dataset from French archival records (departmental statistical surveys, prefectoral reports) on cotton-spinning mills 1800-1860, including output, employment, and capital measures for ~5,000 plants across France.",
       "data_used_hu": null,
-      "policy_relevance": "Directly relevant to Hungary's productivity-catch-up strategy and AI/digitalisation policy. The paper is a warning to expect quick productivity payoffs from General Purpose Technologies (AI, Industry 4.0): the gains show up as laggard firms exit, not as broad-based improvement, and the transition takes time. For the Ministry of Economic Development, SzéChenyi programmes, and EU funds earmarked for digitalisation, this implies patience in evaluation, complementary investment in management practices and reallocation support, and not expecting technology subsidies alone to raise measured productivity quickly. Caveat: the historical French case speaks to the mechanism, not to precise Hungarian magnitudes.",
+      "policy_relevance": "Hungary's productivity gap with Western Europe persists despite high foreign-direct-investment and capital-intensive technology adoption. This paper provides theoretical grounding for why catch-up takes decades — reorganisation knowledge diffuses slowly. Useful for the Pénzügyminisztérium and HIPA when calibrating expectations for productivity payoffs from greenfield-investment subsidies.",
       "policy_relevance_hu": null,
       "topics": [
         "firms-productivity",
-        "innovation-digital"
+        "innovation-digital",
+        "macroeconomics"
       ],
       "methods": [
         "panel-data",
-        "descriptive-survey"
+        "structural"
       ],
       "countries_studied": [
         "FR"
       ],
       "data_types": [
-        "firm-level-dataset",
-        "historical"
+        "historical",
+        "firm-level-dataset"
       ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-29",
       "review_status": "ai-drafted",
       "openalex_id": "W3142620845",
       "policy_instruments": [
@@ -24979,16 +24988,16 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We discuss recent work evaluating the role of the government in shaping the economy during the long nineteenth century, a practice we refer to as industrial policy. States deployed a vast variety of different policies aimed primarily, but not exclusively, at fostering industrialization. A thin but growing literature has started to evaluate the economic effects of these policies, but many questions remain open for study.",
-      "summary_en": "Industrial policy is experiencing a revival in global debate. This Annual Review piece synthesises what economic historians and applied economists have learned about industrial policy in the long 19th century, when states deployed tariffs, subsidies, export bounties, and infrastructure to try to industrialise. The authors argue that a growing, still-thin literature shows selective evidence for industrial-policy success when policy, institutions, and timing align — but that much of the older historical literature is methodologically weak. The review sets an agenda for future work.",
+      "summary_en": "Industrial policy — government interventions to promote specific sectors — has been a feature of every successful industrialisation since the 19th century. Juhász and Steinwender survey the recent quantitative literature evaluating these interventions during the 'long 19th century' (roughly 1815-1914). They show that historical industrial policy was diverse (tariffs, subsidies, infrastructure, education, state-owned enterprises) and that the empirical literature is now beginning to credibly identify which approaches worked. The paper frames the questions still open: when industrial policy succeeds, fails, and what makes the difference between the two outcomes.",
       "summary_hu": "Az iparpolitika reneszánszát éli a globális vitában. Ez az Annual Review-darab összefoglalja, amit a gazdaságtörténészek és alkalmazott közgazdászok megtanultak a hosszú 19. század iparpolitikájáról, amikor az államok vámokat, támogatásokat, export-prémiumokat és infrastruktúrát vetettek be, hogy iparosodjanak. A szerzők érvelnek, hogy egy növekvő, de még vékony irodalom válogatott bizonyítékot mutat az iparpolitika sikeressége mellett, amikor a politika, az intézmények és az időzítés összhangban vannak — de a korábbi történelmi irodalom nagy része módszertanilag gyenge. Az áttekintés agendát állít a jövőbeli munka számára.",
-      "data_used": "Review paper synthesising ~40 published studies of 19th-century industrial policy; no new data.",
+      "data_used": "Literature review covering historical industrial-policy evidence from Western Europe, the US, Japan, Hungary, and other industrialising economies during 1815-1914.",
       "data_used_hu": "Áttekintő tanulmány, amely ~40 publikált tanulmányt szintetizál a 19. századi iparpolitikáról; nincs új adat.",
-      "policy_relevance": "Framework reading for Hungarian industrial-policy debates (Ministry of Economy): supports the view that well-targeted industrial policy can work, but with strong caveats on complementary institutions (effective state capacity, education systems, trade policy alignment). Useful as a sobering antidote to casual claims that \"industrial policy worked in Korea, so it will work in Hungary\". Review format: individual policy prescriptions require reading the underlying papers.",
+      "policy_relevance": "Direct relevance for Hungarian industrial-policy discussion at the Ministry of Economic Development and HIPA. Hungary's post-2010 reindustrialisation strategy explicitly invokes 19th-century European parallels. The paper provides a credible empirical framework for evaluating which historical approaches worked — useful when assessing current state-led industrial-development plans (battery factories, automotive supply, electronics manufacturing).",
       "policy_relevance_hu": "Keret-olvasmány a magyar iparpolitikai vitákhoz (Gazdasági Minisztérium): támogatja azt a nézetet, hogy a jól célzott iparpolitika működhet, de erős kikötésekkel a kiegészítő intézményekre (hatékony állami kapacitás, oktatási rendszerek, kereskedelempolitikai összhang). Hasznos mint józan ellenszer a „az iparpolitika működött Koreában, tehát Magyarországon is működni fog\" típusú felületes állításokhoz. Áttekintő formátum: konkrét szakpolitikai előírások az alapul szolgáló tanulmányok olvasását igénylik.",
       "topics": [
         "trade-fdi",
         "firms-productivity",
-        "political-economy"
+        "macroeconomics"
       ],
       "methods": [
         "descriptive-survey"
@@ -25001,7 +25010,7 @@
       ],
       "featured": false,
       "added_at": "2026-04-19",
-      "last_reviewed_at": "2026-04-19",
+      "last_reviewed_at": "2026-04-29",
       "review_status": "ai-drafted",
       "openalex_id": "W4394688647",
       "policy_instruments": [
@@ -25029,32 +25038,31 @@
       "url_published": "https://doi.org/10.1016/j.respol.2026.105422",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": "Despite the growing importance of the digital sector, research on economic complexity and its implications continues to rely mostly on administrative records—e.g. data on exports, patents, and employment—that have blind spots when it comes to the digital economy. In this paper we use data on the geography of programming languages used in open-source software to extend economic complexity ideas to the digital economy. We estimate a country's software economic complexity index (ECI software ) and show that it complements the ability of measures of complexity based on trade, patents, and research to account for international differences in GDP per capita, income inequality, and emissions. We also show that open-source software follows the principle of relatedness, meaning that a country's entries and exits in programming languages are partly explained by its current pattern of specialization. Together, these findings help extend economic complexity ideas and their policy implications to the digital economy. • We measure countries' software economic complexity using GitHub data • Software economic complexity predicts GDP, income inequality and emissions • We show that countries diversify into related programming languages over time • We extend economic complexity methods and their policy implications to the digital sector",
-      "summary_en": "\"Economic complexity\" measures — how sophisticated a country's production mix is — have been built from exports, patents, and employment, but those sources miss the digital economy entirely. This paper extends the framework to open-source software: which programming languages a country uses, and how rare-yet-productive those languages are. The resulting Software Economic Complexity Index predicts GDP per capita, income inequality, and emissions above and beyond trade-based measures. The paper shows that software capabilities, like physical-goods capabilities, follow a \"principle of relatedness\": countries move into languages related to what they already know.",
+      "abstract": "Despite the growing importance of the digital sector, research on economic complexity and its implications continues to rely mostly on administrative records, e.g. data on exports, patents, and employment, that have blind spots when it comes to the digital economy. In this paper we use data on the geography of programming languages used in open-source software to extend economic complexity ideas to the digital economy. We estimate a country's software economic complexity index (ECIsoftware) and show that it complements the ability of measures of complexity based on trade, patents, and research to account for international differences in GDP per capita, income inequality, and emissions. We also show that open-source software follows the principle of relatedness, meaning that a country's entries and exits in programming languages are partly explained by its current pattern of specialization. Together, these findings help extend economic complexity ideas and their policy implications to the digital economy.",
+      "summary_en": "Standard economic-complexity indices (used to compare countries' industrial sophistication and predict growth) rely on data on goods exports, patents, and employment — missing the digital economy. Juhász, Wachs, Kaminski and Hidalgo build a complementary 'software ECI' from the geography of programming languages used in open-source repositories. Software complexity helps explain cross-country differences in GDP per capita, income inequality, and emissions beyond what standard ECIs capture. They also document that software specialisation follows the same 'principle of relatedness' as trade — countries enter and exit programming languages in patterns predicted by current strengths.",
       "summary_hu": "A „gazdasági komplexitás\" mérőszámok — mennyire szofisztikált egy ország termelési keveréke — exportokból, szabadalmakból és foglalkoztatásból épültek, de ezek a források teljesen kihagyják a digitális gazdaságot. A tanulmány a keretet nyílt forráskódú szoftverre bővíti: mely programozási nyelveket használ egy ország, és mennyire ritkák-de-produktívak ezek a nyelvek. Az eredményül kapott Szoftver Gazdasági Komplexitási Index előrejelzi a GDP/fő, jövedelmi egyenlőtlenség és emissziók kérdéseit a kereskedelem-alapú mérőszámokon túl. A tanulmány megmutatja, hogy a szoftver-képességek, mint a fizikai-árukhoz kötődő képességek, „kapcsolódási elvet\" követnek: az országok olyan nyelvekre lépnek át, amelyek kapcsolódnak ahhoz, amit már ismernek.",
-      "data_used": "Global GitHub activity data: country-level, programming-language-level panel of open-source-software contributions, ~2008–2023; matched to country-level macro data on GDP, inequality (Gini), and emissions.",
+      "data_used": "GitHub repository metadata covering open-source software contributions across all programming languages and contributing countries, multiple years through 2024. Cross-referenced with World Bank GDP/inequality/emissions data.",
       "data_used_hu": "Globális GitHub-tevékenységi adat: ország-szintű, programozási-nyelv-szintű panel nyílt forráskódú szoftver-hozzájárulásokról, ~2008–2023; ország-szintű makroadatokhoz illesztve a GDP-re, egyenlőtlenségre (Gini) és emissziókra.",
-      "policy_relevance": "For Hungarian digital-strategy policy (Ministry for Digital Development, NKFIH): measures a country's digital-sector readiness beyond narrow ICT-employment metrics. Relevant for deciding which programming-language ecosystems and open-source communities to support with public-sector talent-development programmes. Software specialisation, like physical-sector specialisation, exhibits path-dependence — Hungary is better positioned to advance in languages related to what Hungarian developers already contribute to.",
+      "policy_relevance": "Hungary's IT sector is a substantial export earner, but standard economic-complexity indices undervalue it. The paper provides a tool to measure software-complexity gains for ITM, the Innovation and Technology Ministry, and HIPA when assessing IT-sector industrial policy or designing competitiveness benchmarks. Useful complement to the European Innovation Scoreboard.",
       "policy_relevance_hu": "A magyar digitális-stratégiai politikához (Digitális Fejlesztési Minisztérium, NKFIH): egy ország digitális-szektor-készségét méri a szűk IKT-foglalkoztatási mérőszámokon túl. Releváns ahhoz, hogy eldöntsük, melyik programozási-nyelv-ökoszisztémákat és nyílt-forrás-közösségeket támogassuk közszféra-tehetségfejlesztő programokkal. A szoftver-specializáció, mint a fizikai-szektor-specializáció, útfüggést mutat — Magyarország jobban helyezkedik el olyan nyelvekben, amelyek kapcsolódnak a magyar fejlesztők meglévő hozzájárulásaihoz.",
       "topics": [
         "innovation-digital",
-        "firms-productivity",
-        "trade-fdi"
+        "trade-fdi",
+        "macroeconomics"
       ],
       "methods": [
-        "descriptive-survey",
-        "panel-data"
+        "panel-data",
+        "ml-text"
       ],
       "countries_studied": [
         "GLOBAL"
       ],
       "data_types": [
-        "digital-trace",
-        "macro-aggregate"
+        "digital-trace"
       ],
       "featured": false,
       "added_at": "2026-04-20",
-      "last_reviewed_at": "2026-04-22",
+      "last_reviewed_at": "2026-04-29",
       "review_status": "ai-drafted",
       "openalex_id": "W4402855175",
       "policy_instruments": [
@@ -40831,7 +40839,7 @@
       "policy_framing_en": "Relevant to: EU trade policy, FDI promotion, export promotion, supply chain resilience, industrial policy.",
       "policy_framing_hu": "Releváns: EU kereskedelempolitika, FDI ösztönzés, exporttámogatás, ellátási láncok rugalmassága, iparpolitika.",
       "icon": "globe",
-      "paper_count": 59
+      "paper_count": 60
     },
     {
       "id": "firms-productivity",
@@ -40842,7 +40850,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 110
+      "paper_count": 108
     },
     {
       "id": "innovation-digital",
@@ -40853,7 +40861,7 @@
       "policy_framing_en": "Relevant to: R&D tax credits, digital strategy, AI policy, innovation agency design, university–industry linkages.",
       "policy_framing_hu": "Releváns: K+F adókedvezmények, digitális stratégia, MI-politika, innovációs ügynökségek, egyetem–ipar kapcsolatok.",
       "icon": "cpu",
-      "paper_count": 50
+      "paper_count": 48
     },
     {
       "id": "banking-finance",
@@ -40919,7 +40927,7 @@
       "policy_framing_en": "Relevant to: anti-corruption policy, public administration reform, EU affairs, electoral system design.",
       "policy_framing_hu": "Releváns: korrupcióellenes politika, közigazgatási reform, EU-ügyek, választási rendszer.",
       "icon": "building-2",
-      "paper_count": 57
+      "paper_count": 56
     },
     {
       "id": "transition-postcommunist",
@@ -40952,7 +40960,7 @@
       "policy_framing_en": "Relevant to: competition policy (GVH), merger review, platform regulation, auction design, sector-specific regulation.",
       "policy_framing_hu": "Releváns: versenypolitika (GVH), fúziókontroll, platformszabályozás, aukciótervezés, ágazati szabályozás.",
       "icon": "network",
-      "paper_count": 55
+      "paper_count": 57
     },
     {
       "id": "macroeconomics",
@@ -40963,7 +40971,7 @@
       "policy_framing_en": "Relevant to: long-run growth forecasting, macroeconomic modelling, sovereign-debt management, stabilisation policy design.",
       "policy_framing_hu": "Releváns: hosszú távú növekedés előrejelzés, makroökonómiai modellek, államadósság-kezelés, stabilizációs politika.",
       "icon": "line-chart",
-      "paper_count": 74
+      "paper_count": 78
     },
     {
       "id": "agriculture-food",
