@@ -17,19 +17,25 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This article explores some conceptual issues in the study of well-being using the traditional economic approach of inferring preferences solely from choice behavior. We argue that choice behavior alone can never reveal which situations make people better off, even with unlimited data and under the maintained hypothesis of 100% rational choice. Ancillary assumptions or additional forms of data such as happiness measures are always needed. With such ancillary assumptions and additional data, however, the use of revealed preference to study well-being can be significantly improved, so that the choices people make can jointly identify preferences, mistakes, and well-being.",
-  "summary_en": null,
+  "summary_en": "Standard welfare economics infers preferences solely from observed choices. Kőszegi and Rabin argue this is insufficient: choice behaviour alone, even with unlimited data and assuming 100% rational choice, can never reveal which situations make people better off. Welfare statements always require ancillary assumptions or additional data such as happiness measures. The constructive part: with such ancillary assumptions or happiness data, revealed preference can be substantially extended to jointly identify preferences, mistakes, and well-being. The paper reframes how applied welfare economics should use survey-based well-being measures.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper — revealed-preference welfare analysis with happiness data. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungarian KSH increasingly publishes subjective-well-being statistics. The paper provides foundational guidance on how to combine those measures with revealed-choice data for welfare analysis — useful for KSH methodologists, Pénzügyminisztérium analysts, and EU statistical offices designing well-being indicators.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "behavioral",
+    "methods",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2000989062"
 }

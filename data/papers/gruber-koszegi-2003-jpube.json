@@ -17,19 +17,28 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "One of the most cogent criticisms of excise taxes is their regressivity, with lower income groups spending a much larger share of their income on goods such as cigarettes than do higher income groups. We argue that traditional quantity-based measures of incidence are only appropriate under a very restrictive “time-consistent” model of consumption of sin goods. A model that is much more consistent with existing evidence on smoking decisions is a time-inconsistent formulation where excise taxes on cigarettes serve a self-control function that is valued by smokers who would like to quit but cannot. This self-control function benefits lower income groups more, since they have a significantly higher price sensitivity of smoking. Calibrations show that, as a result, cigarette taxes are much less regressive than previously assumed, and are even progressive for a wide variety of parameter values.",
-  "summary_en": null,
+  "summary_en": "Cigarette excise taxes are widely criticised as regressive — lower-income groups spend a larger share of income on cigarettes. Gruber and Kőszegi argue this assessment depends on assuming time-consistent consumers. Under a time-inconsistent formulation more consistent with smoking evidence, excise taxes serve a self-control function that smokers value: those who want to quit but cannot benefit from the tax-induced commitment device. Lower-income groups have higher price sensitivity, so they benefit more from this commitment. Calibrations show cigarette taxes are far less regressive than conventionally assumed, and are progressive for a wide range of parameters.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model + calibration to US cigarette-consumption and price-elasticity data; references behavioural-economics evidence on smoker self-control problems.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for Hungarian tobacco-tax policy and broader sin-tax debates. The paper supports Hungarian excise-tax increases on cigarettes (and similar logic for alcohol) by showing the welfare incidence is much less regressive than headline numbers suggest. Useful for the Pénzügyminisztérium and ÁNTSZ when defending sin-tax-rate increases against regressivity arguments.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "behavioral",
+    "fiscal-tax",
+    "health"
+  ],
+  "methods": [
+    "theory",
+    "structural"
+  ],
+  "countries_studied": [
+    "US"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2090619147"
 }

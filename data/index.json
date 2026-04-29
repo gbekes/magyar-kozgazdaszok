@@ -16904,20 +16904,26 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Some people have self-control problems regularly. This paper adds endogenous retirement to Laibson's quasi-hyperbolic discounting savings model [Quarterly Journal of Economics 112 (1997) 443–477]. Earlier selves think that the deciding self tends to retire too early and may save less to induce later retirement. Still earlier selves may think the pre-retirement self does this too much, saving more to induce early retirement. The consumption pattern may be different from that with exponential discounting. Other observational non-equivalence includes the impact of changing mandatory retirement rules or work incentives on savings and a possibly negative marginal propensity to consume out of increased future earnings. Naive agents are briefly considered.",
-      "summary_en": null,
+      "summary_en": "Many people regularly suffer self-control problems with saving. Diamond and Kőszegi extend Laibson's quasi-hyperbolic-discounting model to include endogenous retirement choices. Earlier 'selves' think the deciding self retires too early and may under-save to induce later retirement; even-earlier selves over-correct, saving more to lock in early retirement. Resulting consumption patterns differ from exponential discounting. The model also predicts negative marginal propensities to consume future earnings and explains why mandatory-retirement rules have larger effects than in standard models.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — endogenous-retirement extension of the Laibson quasi-hyperbolic discounting savings framework. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for Hungarian pension-policy debates. The paper shows that under behavioural assumptions, raising or lowering the statutory retirement age has effects on saving that conventional models miss. Useful for the Pénzügyminisztérium and KRTK pension teams when modelling responses to retirement-age reform proposals — including the 2009 reduced-early-retirement scheme and Nők40.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "behavioral",
+        "macroeconomics",
+        "fiscal-tax"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W3125738335"
     },
     {
@@ -21760,20 +21766,29 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "One of the most cogent criticisms of excise taxes is their regressivity, with lower income groups spending a much larger share of their income on goods such as cigarettes than do higher income groups. We argue that traditional quantity-based measures of incidence are only appropriate under a very restrictive “time-consistent” model of consumption of sin goods. A model that is much more consistent with existing evidence on smoking decisions is a time-inconsistent formulation where excise taxes on cigarettes serve a self-control function that is valued by smokers who would like to quit but cannot. This self-control function benefits lower income groups more, since they have a significantly higher price sensitivity of smoking. Calibrations show that, as a result, cigarette taxes are much less regressive than previously assumed, and are even progressive for a wide variety of parameter values.",
-      "summary_en": null,
+      "summary_en": "Cigarette excise taxes are widely criticised as regressive — lower-income groups spend a larger share of income on cigarettes. Gruber and Kőszegi argue this assessment depends on assuming time-consistent consumers. Under a time-inconsistent formulation more consistent with smoking evidence, excise taxes serve a self-control function that smokers value: those who want to quit but cannot benefit from the tax-induced commitment device. Lower-income groups have higher price sensitivity, so they benefit more from this commitment. Calibrations show cigarette taxes are far less regressive than conventionally assumed, and are progressive for a wide range of parameters.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model + calibration to US cigarette-consumption and price-elasticity data; references behavioural-economics evidence on smoker self-control problems.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for Hungarian tobacco-tax policy and broader sin-tax debates. The paper supports Hungarian excise-tax increases on cigarettes (and similar logic for alcohol) by showing the welfare incidence is much less regressive than headline numbers suggest. Useful for the Pénzügyminisztérium and ÁNTSZ when defending sin-tax-rate increases against regressivity arguments.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "behavioral",
+        "fiscal-tax",
+        "health"
+      ],
+      "methods": [
+        "theory",
+        "structural"
+      ],
+      "countries_studied": [
+        "US"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2090619147"
     },
     {
@@ -23183,20 +23198,28 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We argue that in addition to the textbook exploitation of consumers, the presence of naive consumers leads to a participation distortion in competitive markets, since the additional profits from naive consumers lead competitive firms to lower transparent prices below cost in order to attract these consumers. [Source: paraphrased from publisher / Bonn working-paper description; verify against published Springer abstract.]",
-      "summary_en": null,
+      "summary_en": "Standard models of consumer exploitation focus on how firms extract surplus from naive consumers via hidden fees or complex pricing. Heidhues and Kőszegi point out a previously-overlooked second distortion: in competitive markets, the additional profits firms can earn from naive consumers push them to set transparent (headline) prices below cost in order to attract these consumers. The 'participation distortion' means too many naive consumers enter markets they should avoid. Applied to the US credit-card market, this distortion is at least as economically important as the hidden-fee distortion that has dominated the regulatory debate.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model with calibration to US credit-card market data on transparent rates, hidden fees, and naive vs. sophisticated consumer shares.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for MNB consumer-credit oversight and EU Consumer Credit Directive enforcement. The paper provides theoretical support for headline-rate regulation (not just hidden-fee transparency) in markets with naive consumers — relevant for designing Hungarian consumer-credit truth-in-lending rules and assessing the welfare effects of teaser-rate offers.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "behavioral",
+        "industrial-organization",
+        "banking-finance"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "US"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W1668711338"
     },
     {
@@ -23266,20 +23289,26 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Chapter on Behavioral Industrial Organization in the Handbook of Behavioral Economics: Applications and Foundations 1, vol. 1 (Bernheim, DellaVigna, Laibson eds., Elsevier 2018). Surveys models and evidence on consumer biases and firm responses in market settings. No standalone chapter abstract published.",
-      "summary_en": null,
+      "summary_en": "Heidhues and Kőszegi's chapter in the Handbook of Behavioral Economics surveys the mature subfield of Behavioral Industrial Organization: how consumer biases (loss aversion, present bias, naïveté, limited attention) interact with firm pricing, product design, and market competition. Topics covered include shrouded attributes and add-on pricing, screening of sophisticated vs. naive consumers, behavioural pricing, and welfare implications for consumer protection. The chapter is the canonical reference for researchers and regulators integrating behavioural insights into IO analysis.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Survey chapter — comprehensive literature review covering theoretical and empirical work on consumer biases in industrial organisation. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Reference document for Hungarian regulators integrating behavioural IO into policy analysis. Directly relevant for GVH (consumer-protection investigations of pricing practices), MNB (consumer financial-product oversight), MEKH (energy-tariff transparency), and NMHH (telecoms billing transparency). Provides the academic foundation for modern consumer-protection enforcement.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "behavioral",
+        "industrial-organization"
+      ],
+      "methods": [
+        "descriptive-survey",
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2890475528"
     },
     {
@@ -28823,20 +28852,25 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This note builds a model of patient decision-making when fears or anxiety about the future—captured as beliefs about next period's state of health—also enter the patient's utility function. Anxiety can lead the patient to avoid doctor's visits or other easily available information about her health. However, this avoidance cannot take any form: she will never avoid the doctor with small problems, and under regularity conditions she will never go to a bad doctor to limit the information received. If a patient dislikes bad news more than she likes good news (a preference called information aversion), she trades off her fear of bad news with the decision-making value of knowing her state of health. As a result, she might refuse useful information that is very cheap. For example, she might be reluctant to conduct regular self-examinations or go for physicals, even though these are crucial in prevention. [Source: paraphrased from PubMed / Bonn working-paper description; verify verbatim parity with Journal of Health Economics published abstract.]",
-      "summary_en": null,
+      "summary_en": "Why do people sometimes avoid medical information that would help them — like skipping check-ups or self-exams? Kőszegi builds a model where patients derive utility not just from physical health outcomes but also from beliefs about future health (anxiety). When patients are 'information averse' (disliking bad news more than they like equivalent good news), they may rationally avoid cheap and useful diagnostic information. The model predicts patients won't visit doctors with small problems but might also avoid screening when the bad-news cost dominates the decision-making benefit — explaining why programmes promoting routine prevention often fail.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — patient decision-making with anticipatory-utility preferences. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for Hungarian preventive-health policy. The paper shows why low cost alone is insufficient to drive screening uptake — psychological costs (anticipatory-utility loss from possible bad news) matter. Useful for NEAK and the Egészségügyi Államtitkárság when designing breast-cancer screening, colon-cancer screening, and HIV-test programmes — suggesting framing and information-design interventions.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "health",
+        "behavioral"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2165234737"
     },
     {
@@ -28940,20 +28974,25 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We develop a dynamic model of individual decisionmaking in which the agent derives utility from physical outcomes as well as from rational beliefs about physical outcomes (\"anticipation\"), and these two payoff components can interact. Beliefs and behavior are jointly determined in a personal equilibrium by the requirement that behavior given past beliefs must be consistent with those beliefs. We explore three phenomena made possible by utility from anticipation. First, the decisionmaker can be prone to self-fulfilling expectations. Second, she might be time-inconsistent even if her preferences in all periods are identical. Third, she might exhibit informational preferences, where these preferences are intimately connected to her attitudes toward disappointments. [Source: publisher / Springer landing-page description; verify verbatim parity.]",
-      "summary_en": null,
+      "summary_en": "What happens to economic decision-making when people derive utility not only from physical outcomes but also from anticipation of those outcomes? Kőszegi develops a dynamic model where beliefs and behaviour are jointly determined in 'personal equilibrium' — behaviour given past beliefs must be consistent with those beliefs. The model produces three novel predictions: agents may be prone to self-fulfilling expectations, time-inconsistent even with stable preferences, and exhibit informational preferences tied to disappointment attitudes. The framework provides a richer foundation for behavioural welfare analysis than standard discounted-utility models.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — dynamic personal-equilibrium framework with anticipatory utility. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Provides foundations for behavioural welfare analysis used by Hungarian and EU policy researchers to evaluate interventions where psychological anticipation matters: pension reforms, health-risk communication, financial-decision counselling. Useful theoretical reference for KRTK behavioural-economics researchers and Hungarian government communications units.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "behavioral",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2165999914"
     },
     {
@@ -29235,20 +29274,26 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This article explores some conceptual issues in the study of well-being using the traditional economic approach of inferring preferences solely from choice behavior. We argue that choice behavior alone can never reveal which situations make people better off, even with unlimited data and under the maintained hypothesis of 100% rational choice. Ancillary assumptions or additional forms of data such as happiness measures are always needed. With such ancillary assumptions and additional data, however, the use of revealed preference to study well-being can be significantly improved, so that the choices people make can jointly identify preferences, mistakes, and well-being.",
-      "summary_en": null,
+      "summary_en": "Standard welfare economics infers preferences solely from observed choices. Kőszegi and Rabin argue this is insufficient: choice behaviour alone, even with unlimited data and assuming 100% rational choice, can never reveal which situations make people better off. Welfare statements always require ancillary assumptions or additional data such as happiness measures. The constructive part: with such ancillary assumptions or happiness data, revealed preference can be substantially extended to jointly identify preferences, mistakes, and well-being. The paper reframes how applied welfare economics should use survey-based well-being measures.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical paper — revealed-preference welfare analysis with happiness data. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungarian KSH increasingly publishes subjective-well-being statistics. The paper provides foundational guidance on how to combine those measures with revealed-choice data for welfare analysis — useful for KSH methodologists, Pénzügyminisztérium analysts, and EU statistical offices designing well-being indicators.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "behavioral",
+        "methods",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2000989062"
     },
     {
@@ -41545,7 +41590,7 @@
       "policy_framing_en": "Relevant to: healthcare system design, hospital payment, prevention programs, pharmaceutical policy, mental health services.",
       "policy_framing_hu": "Releváns: egészségügyi rendszer kialakítása, kórházi finanszírozás, prevenciós programok, gyógyszerpolitika, mentális szolgáltatások.",
       "icon": "heart-pulse",
-      "paper_count": 47
+      "paper_count": 49
     },
     {
       "id": "demographics-migration",
@@ -41600,7 +41645,7 @@
       "policy_framing_en": "Relevant to: MNB policy, banking regulation, macroprudential tools, financial inclusion.",
       "policy_framing_hu": "Releváns: MNB-politika, bankszabályozás, makroprudenciális eszközök, pénzügyi befogadás.",
       "icon": "landmark",
-      "paper_count": 136
+      "paper_count": 137
     },
     {
       "id": "fiscal-tax",
@@ -41611,7 +41656,7 @@
       "policy_framing_en": "Relevant to: tax reform, budget planning, public debt management, compliance policy.",
       "policy_framing_hu": "Releváns: adóreform, költségvetés-tervezés, államadósság-kezelés, adócompliance.",
       "icon": "coins",
-      "paper_count": 55
+      "paper_count": 57
     },
     {
       "id": "regional-urban",
@@ -41644,7 +41689,7 @@
       "policy_framing_en": "Relevant to: welfare system, anti-poverty programs, family allowances, gender-equal pay policies.",
       "policy_framing_hu": "Releváns: szociális rendszer, szegénység elleni programok, családi pótlékok, egyenlő bérezés.",
       "icon": "scale",
-      "paper_count": 99
+      "paper_count": 100
     },
     {
       "id": "political-economy",
@@ -41677,7 +41722,7 @@
       "policy_framing_en": "Relevant to: consumer protection, pension-default design, nudging, financial-education regulation, addictive-product regulation.",
       "policy_framing_hu": "Releváns: fogyasztóvédelem, nyugdíjalap-alapbeállítások, döntéslendítés (nudge), pénzügyi edukáció szabályozása, függőséget okozó termékek szabályozása.",
       "icon": "brain",
-      "paper_count": 102
+      "paper_count": 109
     },
     {
       "id": "industrial-organization",
@@ -41688,7 +41733,7 @@
       "policy_framing_en": "Relevant to: competition policy (GVH), merger review, platform regulation, auction design, sector-specific regulation.",
       "policy_framing_hu": "Releváns: versenypolitika (GVH), fúziókontroll, platformszabályozás, aukciótervezés, ágazati szabályozás.",
       "icon": "network",
-      "paper_count": 77
+      "paper_count": 79
     },
     {
       "id": "macroeconomics",
@@ -41699,7 +41744,7 @@
       "policy_framing_en": "Relevant to: long-run growth forecasting, macroeconomic modelling, sovereign-debt management, stabilisation policy design.",
       "policy_framing_hu": "Releváns: hosszú távú növekedés előrejelzés, makroökonómiai modellek, államadósság-kezelés, stabilizációs politika.",
       "icon": "line-chart",
-      "paper_count": 100
+      "paper_count": 101
     },
     {
       "id": "agriculture-food",
@@ -41721,7 +41766,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 160
+      "paper_count": 162
     },
     {
       "id": "market-design",
