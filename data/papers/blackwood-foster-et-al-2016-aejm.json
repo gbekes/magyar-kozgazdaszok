@@ -1,27 +1,39 @@
 {
   "url_pdf": null,
   "url_replication": null,
-  "abstract": "",
-  "summary_en": null,
+  "abstract": "Firm-level, revenue-based productivity measures are ubiquitous in studies of firm dynamics and aggregate outcomes. One common measure is increasingly interpreted as reflecting “distortions” since in distortions' absence, equalization of marginal revenue products should yield no dispersion in this measure. Another common but distinct measure is the residual of the firm-level revenue function, which reflects “fundamentals.” Using micro-level US manufacturing data, we find these alternative measures are highly correlated, exhibit similar dispersion, and have similar relationships with growth and survival. However, the distinction between these alternative measures is critically important for quantitative assessment of the level and decline of allocative efficiency.",
+  "summary_en": "A central debate in modern macro is whether large within-industry productivity dispersion reflects true 'distortions' (e.g., financial frictions, regulations) or just variation in 'fundamentals' (technology, demand). Blackwood, Foster, Grim, Haltiwanger and Wolf use US manufacturing micro-data to show the two distinct measures used for these claims (the residual revenue-productivity measure and the alternative 'distortion' measure) are highly correlated and behave similarly across firm growth and survival. But the conceptual distinction matters greatly for policy: how much measured productivity dispersion is 'fixable' through reform depends critically on which measure is used.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "US Census Bureau Longitudinal Business Database and Annual Survey of Manufactures, plant-level microdata covering hundreds of thousands of US manufacturing establishments over multiple years.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungarian productivity-gap analysis (KSH, MNB, Pénzügyminisztérium) often interprets within-industry dispersion as evidence of misallocation calling for reform. The paper warns that conventional dispersion measures conflate genuine productivity differences with distortion-driven ones — a methodological caveat for HUN-REN/KRTK productivity studies and for ITM industrial-policy diagnostics.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "firms-productivity",
+    "macroeconomics",
+    "methods"
+  ],
+  "methods": [
+    "panel-data",
+    "structural"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "admin-firm",
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-27",
-  "last_reviewed_at": "2026-04-27",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "policy_instruments": [],
   "working_paper_series": null,
-  "pages": null,
-  "issue": null,
-  "volume": null,
-  "doi": null,
+  "pages": "142-172",
+  "issue": "3",
+  "volume": "13",
+  "doi": "10.1257/mac.20170282",
   "url_published": null,
   "id": "blackwood-foster-et-al-2016-aejm",
   "title": "Macro and Micro Dynamics of Productivity: From Devilish Details to Insights",
@@ -33,6 +45,6 @@
     "wolf-zoltan"
   ],
   "journal": "American Economic Journal: Macroeconomics",
-  "year": 2016,
+  "year": 2021,
   "publication_type": "article"
 }

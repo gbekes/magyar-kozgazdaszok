@@ -1,27 +1,39 @@
 {
   "url_pdf": null,
   "url_replication": null,
-  "abstract": "",
-  "summary_en": null,
+  "abstract": "This paper provides direct evidence of automation's role in production using establishment-level data from the U.S. Census Bureau's Survey of Manufacturing Technology. The data indicate that more automated plants have lower production labor share and higher capital share, higher labor productivity, and a smaller fraction of workers in production who receive higher wages. To understand the connection between automation and total factor productivity, we estimate a CES model of production where a plant chooses the degree of automation by adjusting the relative weight of capital and production labor given their relative price. Overall, broad and deep automation is concentrated in larger plants with higher total factor productivity and lower labor share, consistent with a role for automation in contributing to dispersion in input utilization and market share.",
+  "summary_en": "Direct evidence on automation's impact on plants is rare. Dinlersoz and Wolf use the US Census Bureau's Survey of Manufacturing Technology, which directly measures plant-level automation, to test how automation affects productivity, labour share, and wages. More automated plants have lower production-labour share, higher capital share, higher labour productivity, and a smaller fraction of workers earning higher wages. They estimate a CES production model where plants choose automation depth by reweighting capital vs. production labour. Broad and deep automation is concentrated in larger, higher-TFP plants — consistent with automation as a driver of productivity dispersion and market-share concentration.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "US Census Bureau's Survey of Manufacturing Technology (SMT) plus the Annual Survey of Manufactures, providing direct plant-level automation measures linked to productivity and labour outcomes for thousands of US manufacturing plants.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungarian automotive and electronics sectors are heavy automation adopters. The paper shows automation contributes to within-industry productivity dispersion and labour-share decline. Useful for KSH, MNB, and ITM when assessing the macroeconomic consequences of Hungary's automation surge — including for measurement of productivity gaps, wage-share trends, and the role of capital-deepening subsidies.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "firms-productivity",
+    "innovation-digital",
+    "labor-markets"
+  ],
+  "methods": [
+    "structural",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "admin-firm",
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-27",
-  "last_reviewed_at": "2026-04-27",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "policy_instruments": [],
   "working_paper_series": null,
-  "pages": null,
+  "pages": "604-626",
   "issue": "4",
   "volume": "33",
-  "doi": null,
+  "doi": "10.1080/10438599.2023.2233081",
   "url_published": null,
   "id": "dinlersoz-wolf-2024-eint",
   "title": "Automation, Labor Share, and Productivity: Plant-Level Evidence from U.S. Manufacturing",

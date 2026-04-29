@@ -1,27 +1,39 @@
 {
   "url_pdf": null,
   "url_replication": null,
-  "abstract": "",
-  "summary_en": null,
+  "abstract": "We examine the consequences of a sudden increase in household debt burdens by exploiting variation in exposure to household foreign currency debt during Hungary's late-2008 currency crisis. The revaluation of debt burdens causes higher default rates and a collapse in spending. These responses lead to a worse local recession, driven by a decline in local demand, and negative spillover effects on nearby borrowers without foreign currency debt. The estimates translate into an output multiplier on higher debt service of 1.67. The impact of debt revaluation is particularly severe when foreign currency debt is concentrated on household, rather than firm, balance sheets.",
+  "summary_en": "When the Hungarian forint collapsed in late 2008, households holding Swiss-franc and euro mortgages saw their debt service jump 30-50%. Verner and Gyöngyösi exploit cross-region variation in foreign-currency-mortgage exposure to causally estimate the impact on the local economy. Affected districts experienced higher default rates, collapsed consumption spending, and deeper recessions — even spilling over to nearby borrowers without FX debt. The implied output multiplier on debt-service shocks is 1.67. Crucially, the impact was much worse when FX debt was on household rather than firm balance sheets.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian regional administrative records on household foreign-currency mortgage exposure (MNB, ÁKK), default outcomes, household consumption (KSH), and local labour-market outcomes by district 2008-2014.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Foundational evidence for Hungarian macroprudential policy at MNB. The paper demonstrates household-FX-debt risks are systemically larger than firm-FX-debt risks — directly informing MNB's 2014 conversion of the FX-mortgage stock into forint and ongoing macroprudential limits. Also relevant for the Pénzügyminisztérium and other Eastern European central banks (NBR, NBP, NBS) addressing similar legacy stocks.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "macroeconomics",
+    "regional-urban"
+  ],
+  "methods": [
+    "diff-in-diff",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual",
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-27",
-  "last_reviewed_at": "2026-04-27",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "policy_instruments": [],
   "working_paper_series": null,
-  "pages": null,
-  "issue": null,
-  "volume": null,
-  "doi": null,
+  "pages": "2667-2702",
+  "issue": "9",
+  "volume": "110",
+  "doi": "10.1257/aer.20181585",
   "url_published": null,
   "id": "verner-gyongyosi-2020-aer",
   "title": "Household debt revaluation and the real economy: Evidence from a foreign currency debt crisis",

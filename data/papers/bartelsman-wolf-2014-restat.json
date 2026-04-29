@@ -1,27 +1,39 @@
 {
   "url_pdf": null,
   "url_replication": null,
-  "abstract": "",
-  "summary_en": null,
+  "abstract": "In this paper, we explore whether information from firm-level data can improve forecasts of aggregate productivity growth. We generate firm-level productivity measures and aggregate them into time-series components that capture within-firm productivity and the productivity contribution of reallocation. We show that these components improve aggregate total factor productivity forecasts in a simple univariate setting, even when firm-level data are available with a time lag. Lagged firm-level information also improves aggregate productivity forecasts when we combine results from a variety of different multivariate forecasting models using Bayesian model averaging techniques.",
+  "summary_en": "Aggregate productivity statistics arrive with substantial lag, making real-time forecasting difficult. Bartelsman and Wolf show that decomposing firm-level productivity into within-firm and reallocation components — even when the firm-level data themselves are lagged — improves aggregate TFP forecasts. Combining the firm-level information with multivariate forecasting models via Bayesian model averaging delivers further accuracy gains over univariate approaches that rely on aggregate data alone.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "US Census Bureau plant-level manufacturing data from the Annual Survey of Manufactures, decomposed into firm-level productivity components, combined with aggregate TFP series from BLS for forecasting comparisons.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungary's KSH publishes aggregate productivity with a substantial lag. The paper shows that firm-level micro-data — even when only available with delay — meaningfully improve aggregate productivity forecasts. Useful methodology for KSH and MNB when designing real-time productivity nowcasts using NAV firm-level data.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "firms-productivity",
+    "macroeconomics",
+    "methods"
+  ],
+  "methods": [
+    "time-series",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "firm-level-dataset",
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-27",
-  "last_reviewed_at": "2026-04-27",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "policy_instruments": [],
   "working_paper_series": null,
-  "pages": null,
+  "pages": "745-755",
   "issue": "4",
   "volume": "96",
-  "doi": null,
+  "doi": "10.1162/REST_a_00395",
   "url_published": null,
   "id": "bartelsman-wolf-2014-restat",
   "title": "Forecasting Aggregate Productivity using Information from Firm-Level Data",

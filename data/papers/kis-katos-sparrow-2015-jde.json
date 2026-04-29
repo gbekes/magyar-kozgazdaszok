@@ -1,28 +1,39 @@
 {
   "url_pdf": null,
   "url_replication": null,
-  "abstract": "",
-  "summary_en": null,
+  "abstract": "We measure the effects of trade liberalization over the period of 1993–2002 on regional poverty levels in 259 Indonesian districts, and investigate the labor market mechanisms behind these effects. The identification strategy relies on combining information on initial regional labor and product market structure with the exogenous tariff reduction schedule over four three-year periods. We add to the literature on local labor market effects of trade policies by distinguishing between tariffs for output markets and for intermediate inputs, and finding that poverty reduced especially in districts with a greater sector exposure to input tariff liberalization. Among the potential channels behind this effect, we show that low-skilled work participation and middle-skilled wages were more responsive to reductions in import tariffs on intermediate goods than to reductions in import tariffs on final outputs.",
+  "summary_en": "Trade liberalisation's effects on poverty depend critically on the specific tariff cuts and labour-market structure. Kis-Katos and Sparrow analyse 259 Indonesian districts during 1993-2002, distinguishing between cuts in output tariffs and intermediate-input tariffs. Districts with greater exposure to intermediate-input liberalisation saw the largest poverty reductions. The mechanism: input-tariff cuts raise firm competitiveness, which expands low-skilled employment and lifts middle-skilled wages — channels less responsive to output-tariff cuts.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Indonesian National Socioeconomic Survey (Susenas) household-level data 1993-2002, aggregated to 259 district-year observations, matched to district-specific input vs. output tariff exposure measures derived from initial sectoral structure.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for Hungarian rural-poverty policy and EU Cohesion Fund interventions in lagging regions. The paper shows that targeting intermediate-input access (rather than just output-market access) is more effective for raising low-skilled employment in poor regions — useful for the Pénzügyminisztérium's regional-development strategy and for the Ministry of Foreign Affairs and Trade (KKM) trade-policy decisions.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "trade-fdi",
+    "inequality-welfare",
+    "regional-urban"
+  ],
+  "methods": [
+    "diff-in-diff",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "ID"
+  ],
+  "data_types": [
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-27",
-  "last_reviewed_at": "2026-04-27",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "policy_instruments": [],
   "working_paper_series": null,
   "pages": "94-106",
   "issue": null,
   "volume": "117",
-  "doi": null,
-  "url_published": null,
+  "doi": "10.1016/j.jdeveco.2015.06.003",
+  "url_published": "https://doi.org/10.1016/j.jdeveco.2015.06.003",
   "id": "kis-katos-sparrow-2015-jde",
   "title": "Poverty, labour markets and trade liberalization in Indonesia",
   "authors": [

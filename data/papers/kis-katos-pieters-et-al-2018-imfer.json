@@ -1,28 +1,39 @@
 {
   "url_pdf": null,
   "url_replication": null,
-  "abstract": "",
-  "summary_en": null,
+  "abstract": "We analyze the gender-specific effects of trade liberalization on participation in market work, domestic duties, and marriage rates in Indonesia. We show that female work participation increased and participation in domestic duties declined in regions that were more exposed to input tariff reductions. The effects of output tariff reductions were much less pronounced, and we find little impacts on men. Among the potential channels, we find that reductions in input tariffs led to a relative expansion of more female-intensive sectors as well as a decrease in sectoral gender segregation, especially among the low skilled. Liberalization also led to delayed marriage among both sexes and reduced fertility among less educated women.",
+  "summary_en": "Trade liberalisation creates winners and losers — but its effects on women's economic role and household behaviour are under-studied. Kis-Katos, Pieters and Sparrow examine Indonesia's 1993-2002 tariff reductions and find that input-tariff cuts (lowering imported intermediate prices) significantly increased female labour-force participation, reduced women's domestic-duties share, and delayed marriage and childbearing for both genders. Output-tariff cuts had much weaker effects, and male labour outcomes were largely unchanged. The female gains came via expansion of female-intensive sectors and reduced gender segregation, especially for less-educated women.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Indonesian National Socioeconomic Survey (Susenas) household-level data 1993-2002, ~250,000 households, matched to the World Bank's regional tariff exposure measures based on initial sectoral employment.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungary's EU accession and subsequent FTA expansion changed input-tariff structures significantly. The paper provides a template for assessing gender-specific effects of trade-policy changes — useful for the Equal Treatment Authority, the Foreign Trade Department, and KSH when analysing distributional effects of trade-policy changes on Hungarian women's labour-market outcomes.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "trade-fdi",
+    "labor-markets",
+    "demographics-migration"
+  ],
+  "methods": [
+    "diff-in-diff",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "ID"
+  ],
+  "data_types": [
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-27",
-  "last_reviewed_at": "2026-04-27",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "policy_instruments": [],
   "working_paper_series": null,
   "pages": "763-793",
   "issue": "4",
   "volume": "66",
-  "doi": null,
-  "url_published": null,
+  "doi": "10.1057/s41308-018-0065-5",
+  "url_published": "https://doi.org/10.1057/s41308-018-0065-5",
   "id": "kis-katos-pieters-et-al-2018-imfer",
   "title": "Globalization and social change: Gender-specific effects of trade liberalization in Indonesia",
   "authors": [

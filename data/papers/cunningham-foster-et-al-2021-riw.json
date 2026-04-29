@@ -1,27 +1,39 @@
 {
   "url_pdf": null,
   "url_replication": null,
-  "abstract": "",
-  "summary_en": null,
+  "abstract": "We describe new experimental productivity dispersion statistics, Dispersion Statistics on Productivity (DiSP), jointly produced by the Bureau of Labor Statistics (BLS) and the Census Bureau, that complement the official BLS industry-level productivity statistics. Dispersion in productivity across businesses can provide information about the nature of competition and frictions within sectors and the sources of rising wage inequality across businesses. DiSP data show enormous differences in productivity across establishments within industries in the manufacturing sector. We find substantial variation in dispersion across industries, increasing dispersion from 1997 to 2016, and countercyclical total factor productivity dispersion.",
+  "summary_en": "How do you publish productivity-dispersion statistics across firms in a way that's both informative and protects business confidentiality? Cunningham, Foster, Grim, Haltiwanger, Pabilonia, Stewart and Wolf describe DiSP (Dispersion Statistics on Productivity), a new BLS-Census joint product that complements traditional industry-average productivity series. The DiSP data show enormous dispersion across establishments within manufacturing industries, increasing dispersion from 1997 to 2016, and counter-cyclical TFP dispersion. Provides a US benchmark and a methodological template for other statistical agencies.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Joint BLS-Census project linking the BLS Productivity Database with Census micro-data on US manufacturing establishments, 1997-2016+. Aggregated to industry-level dispersion statistics protecting confidentiality.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungarian KSH publishes industry productivity averages but no dispersion statistics. The paper provides a methodological template — a Hungarian DiSP could be built from NAV/KSH micro-data — and the substantive finding (rising dispersion + counter-cyclical TFP dispersion) is a useful US benchmark when KSH considers expanding its productivity-statistics programme.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "firms-productivity",
+    "methods",
+    "macroeconomics"
+  ],
+  "methods": [
+    "panel-data",
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "admin-firm",
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-27",
-  "last_reviewed_at": "2026-04-27",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "policy_instruments": [],
   "working_paper_series": null,
-  "pages": null,
+  "pages": "999-1032",
   "issue": "4",
   "volume": "69",
-  "doi": null,
+  "doi": "10.1111/roiw.12616",
   "url_published": null,
   "id": "cunningham-foster-et-al-2021-riw",
   "title": "Dispersion in Dispersion: Measuring Establishment-Level Differences in Productivity",
@@ -35,6 +47,6 @@
     "wolf-zoltan"
   ],
   "journal": "Review of Income and Wealth",
-  "year": 2021,
+  "year": 2023,
   "publication_type": "article"
 }

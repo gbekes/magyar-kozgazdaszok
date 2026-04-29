@@ -1,27 +1,39 @@
 {
   "url_pdf": null,
   "url_replication": null,
-  "abstract": "",
-  "summary_en": null,
+  "abstract": "We study the impact of debtor distress on support for a populist far-right political party during a financial crisis. Our empirical approach exploits variation in exposure to foreign currency household loans during a currency crisis in Hungary. Foreign currency debt exposure leads to a large, persistent increase in support for the populist far right. We document that the far right advocated for foreign currency debtors' interests by proposing aggressive debt relief and was rewarded with support from these voters. Our findings are consistent with theories emphasizing that conflict between creditors and debtors can shape political outcomes after financial crises.",
+  "summary_en": "Did Hungary's foreign-currency debt crisis fuel the rise of Jobbik (the populist far right) after 2008? Gyöngyösi and Verner exploit cross-region variation in household foreign-currency-mortgage exposure to causally identify the political-economy effects. Districts with higher FX-debt exposure saw substantially larger and persistent gains in Jobbik vote share. The mechanism: Jobbik (and later Fidesz) advocated aggressive debt relief for FX-mortgage holders and were rewarded electorally. The findings support theories that creditor-debtor conflict shapes post-crisis political outcomes — a Hungarian case study with broader implications for EU populism.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian district-level election results (2006, 2010, 2014, 2018) matched to MNB administrative data on foreign-currency mortgage exposure by district. Also detailed text analysis of party manifestos and parliamentary debates on debt-relief positions.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Highly relevant for the Hungarian political-economy literature and for European institutions assessing EU populism. The paper shows financial-crisis-driven debtor distress directly fuels far-right support when mainstream parties fail to address it. Useful for political-economy analysts at the European Commission, ECB, and Hungarian academic institutions interpreting the rise of populism in Central-Eastern Europe.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "political-economy",
+    "banking-finance",
+    "regional-urban"
+  ],
+  "methods": [
+    "diff-in-diff",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual",
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-27",
-  "last_reviewed_at": "2026-04-27",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "policy_instruments": [],
   "working_paper_series": null,
   "pages": "2471-2523",
   "issue": "4",
   "volume": "77",
-  "doi": null,
+  "doi": "10.1111/jofi.13138",
   "url_published": null,
   "id": "gyongyosi-verner-2022-jof",
   "title": "Financial crisis, creditor-debtor conflict, and populism",

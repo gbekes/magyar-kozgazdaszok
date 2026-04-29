@@ -1,27 +1,39 @@
 {
   "url_pdf": null,
   "url_replication": null,
-  "abstract": "",
-  "summary_en": null,
+  "abstract": "Combining data from China's population and firm censuses between 1990 and 2005, this paper relates prefecture-level employment by gender to the regionalized measure of exposure to tariff reductions. We find that increasing import competition kept more females in the workforce, reducing an otherwise growing gender employment gap in the long run. These dynamics were present both in local economies as a whole and among private firms in the formal industrial sector. The gendered employment effects of trade-induced competitive pressures can be attributed to an expansion of female-intensive industries, a reduction in gender discrimination, and technology upgrades through computerization.",
+  "summary_en": "Did trade liberalisation reduce China's gender employment gap? Kis-Katos, Pieters and Sparrow link China's population census and firm census 1990-2005 with prefecture-level tariff exposure. They find import-competition pressure kept more women in the workforce, slowing the otherwise-growing gender employment gap. The mechanism: female-intensive industries expanded, gender discrimination decreased, and computerisation (which reduces physical-skill demand) accelerated. Effects appear in both the local economy as a whole and among private formal-sector firms.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "China's 1990 and 2000 population censuses + 2004 economic census, prefecture-level (n~330 prefectures), matched to product-level tariff schedules under WTO accession (2001) and earlier liberalisations.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Provides international benchmark for Hungary's experience with trade-induced female-employment effects (post-1990 transition, post-2004 EU accession). The paper's mechanism — import competition forcing technology upgrades that reduce physical-skill premium — applies to Hungarian sectors with similar structure. Useful framing for the Equal Treatment Authority and KSH when interpreting decade-long gender-gap trends.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "trade-fdi",
+    "labor-markets",
+    "demographics-migration"
+  ],
+  "methods": [
+    "diff-in-diff",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "CN"
+  ],
+  "data_types": [
+    "admin-individual",
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-27",
-  "last_reviewed_at": "2026-04-27",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "policy_instruments": [],
   "working_paper_series": null,
   "pages": "1830-1864",
   "issue": "6",
   "volume": "59",
-  "doi": null,
+  "doi": "10.3368/jhr.0521-11697R1",
   "url_published": null,
   "id": "kis-katos-pieters-et-al-2025-jhr",
   "title": "Trade liberalization and the gender employment gap in China",
@@ -31,6 +43,6 @@
     "Robert Sparrow"
   ],
   "journal": "Journal of Human Resources",
-  "year": 2025,
+  "year": 2024,
   "publication_type": "article"
 }

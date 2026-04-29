@@ -8522,27 +8522,39 @@
     {
       "url_pdf": null,
       "url_replication": null,
-      "abstract": "",
-      "summary_en": null,
+      "abstract": "In this paper, we explore whether information from firm-level data can improve forecasts of aggregate productivity growth. We generate firm-level productivity measures and aggregate them into time-series components that capture within-firm productivity and the productivity contribution of reallocation. We show that these components improve aggregate total factor productivity forecasts in a simple univariate setting, even when firm-level data are available with a time lag. Lagged firm-level information also improves aggregate productivity forecasts when we combine results from a variety of different multivariate forecasting models using Bayesian model averaging techniques.",
+      "summary_en": "Aggregate productivity statistics arrive with substantial lag, making real-time forecasting difficult. Bartelsman and Wolf show that decomposing firm-level productivity into within-firm and reallocation components — even when the firm-level data themselves are lagged — improves aggregate TFP forecasts. Combining the firm-level information with multivariate forecasting models via Bayesian model averaging delivers further accuracy gains over univariate approaches that rely on aggregate data alone.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "US Census Bureau plant-level manufacturing data from the Annual Survey of Manufactures, decomposed into firm-level productivity components, combined with aggregate TFP series from BLS for forecasting comparisons.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungary's KSH publishes aggregate productivity with a substantial lag. The paper shows that firm-level micro-data — even when only available with delay — meaningfully improve aggregate productivity forecasts. Useful methodology for KSH and MNB when designing real-time productivity nowcasts using NAV firm-level data.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "firms-productivity",
+        "macroeconomics",
+        "methods"
+      ],
+      "methods": [
+        "time-series",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "firm-level-dataset",
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "policy_instruments": [],
       "working_paper_series": null,
-      "pages": null,
+      "pages": "745-755",
       "issue": "4",
       "volume": "96",
-      "doi": null,
+      "doi": "10.1162/REST_a_00395",
       "url_published": null,
       "id": "bartelsman-wolf-2014-restat",
       "title": "Forecasting Aggregate Productivity using Information from Firm-Level Data",
@@ -12576,27 +12588,39 @@
     {
       "url_pdf": null,
       "url_replication": null,
-      "abstract": "",
-      "summary_en": null,
+      "abstract": "Firm-level, revenue-based productivity measures are ubiquitous in studies of firm dynamics and aggregate outcomes. One common measure is increasingly interpreted as reflecting “distortions” since in distortions' absence, equalization of marginal revenue products should yield no dispersion in this measure. Another common but distinct measure is the residual of the firm-level revenue function, which reflects “fundamentals.” Using micro-level US manufacturing data, we find these alternative measures are highly correlated, exhibit similar dispersion, and have similar relationships with growth and survival. However, the distinction between these alternative measures is critically important for quantitative assessment of the level and decline of allocative efficiency.",
+      "summary_en": "A central debate in modern macro is whether large within-industry productivity dispersion reflects true 'distortions' (e.g., financial frictions, regulations) or just variation in 'fundamentals' (technology, demand). Blackwood, Foster, Grim, Haltiwanger and Wolf use US manufacturing micro-data to show the two distinct measures used for these claims (the residual revenue-productivity measure and the alternative 'distortion' measure) are highly correlated and behave similarly across firm growth and survival. But the conceptual distinction matters greatly for policy: how much measured productivity dispersion is 'fixable' through reform depends critically on which measure is used.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "US Census Bureau Longitudinal Business Database and Annual Survey of Manufactures, plant-level microdata covering hundreds of thousands of US manufacturing establishments over multiple years.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungarian productivity-gap analysis (KSH, MNB, Pénzügyminisztérium) often interprets within-industry dispersion as evidence of misallocation calling for reform. The paper warns that conventional dispersion measures conflate genuine productivity differences with distortion-driven ones — a methodological caveat for HUN-REN/KRTK productivity studies and for ITM industrial-policy diagnostics.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "firms-productivity",
+        "macroeconomics",
+        "methods"
+      ],
+      "methods": [
+        "panel-data",
+        "structural"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "admin-firm",
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "policy_instruments": [],
       "working_paper_series": null,
-      "pages": null,
-      "issue": null,
-      "volume": null,
-      "doi": null,
+      "pages": "142-172",
+      "issue": "3",
+      "volume": "13",
+      "doi": "10.1257/mac.20170282",
       "url_published": null,
       "id": "blackwood-foster-et-al-2016-aejm",
       "title": "Macro and Micro Dynamics of Productivity: From Devilish Details to Insights",
@@ -12608,7 +12632,7 @@
         "wolf-zoltan"
       ],
       "journal": "American Economic Journal: Macroeconomics",
-      "year": 2016,
+      "year": 2021,
       "publication_type": "article"
     },
     {
@@ -15651,27 +15675,39 @@
     {
       "url_pdf": null,
       "url_replication": null,
-      "abstract": "",
-      "summary_en": null,
+      "abstract": "We describe new experimental productivity dispersion statistics, Dispersion Statistics on Productivity (DiSP), jointly produced by the Bureau of Labor Statistics (BLS) and the Census Bureau, that complement the official BLS industry-level productivity statistics. Dispersion in productivity across businesses can provide information about the nature of competition and frictions within sectors and the sources of rising wage inequality across businesses. DiSP data show enormous differences in productivity across establishments within industries in the manufacturing sector. We find substantial variation in dispersion across industries, increasing dispersion from 1997 to 2016, and countercyclical total factor productivity dispersion.",
+      "summary_en": "How do you publish productivity-dispersion statistics across firms in a way that's both informative and protects business confidentiality? Cunningham, Foster, Grim, Haltiwanger, Pabilonia, Stewart and Wolf describe DiSP (Dispersion Statistics on Productivity), a new BLS-Census joint product that complements traditional industry-average productivity series. The DiSP data show enormous dispersion across establishments within manufacturing industries, increasing dispersion from 1997 to 2016, and counter-cyclical TFP dispersion. Provides a US benchmark and a methodological template for other statistical agencies.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Joint BLS-Census project linking the BLS Productivity Database with Census micro-data on US manufacturing establishments, 1997-2016+. Aggregated to industry-level dispersion statistics protecting confidentiality.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungarian KSH publishes industry productivity averages but no dispersion statistics. The paper provides a methodological template — a Hungarian DiSP could be built from NAV/KSH micro-data — and the substantive finding (rising dispersion + counter-cyclical TFP dispersion) is a useful US benchmark when KSH considers expanding its productivity-statistics programme.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "firms-productivity",
+        "methods",
+        "macroeconomics"
+      ],
+      "methods": [
+        "panel-data",
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "admin-firm",
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "policy_instruments": [],
       "working_paper_series": null,
-      "pages": null,
+      "pages": "999-1032",
       "issue": "4",
       "volume": "69",
-      "doi": null,
+      "doi": "10.1111/roiw.12616",
       "url_published": null,
       "id": "cunningham-foster-et-al-2021-riw",
       "title": "Dispersion in Dispersion: Measuring Establishment-Level Differences in Productivity",
@@ -15685,7 +15721,7 @@
         "wolf-zoltan"
       ],
       "journal": "Review of Income and Wealth",
-      "year": 2021,
+      "year": 2023,
       "publication_type": "article"
     },
     {
@@ -16571,27 +16607,39 @@
     {
       "url_pdf": null,
       "url_replication": null,
-      "abstract": "",
-      "summary_en": null,
+      "abstract": "This paper provides direct evidence of automation's role in production using establishment-level data from the U.S. Census Bureau's Survey of Manufacturing Technology. The data indicate that more automated plants have lower production labor share and higher capital share, higher labor productivity, and a smaller fraction of workers in production who receive higher wages. To understand the connection between automation and total factor productivity, we estimate a CES model of production where a plant chooses the degree of automation by adjusting the relative weight of capital and production labor given their relative price. Overall, broad and deep automation is concentrated in larger plants with higher total factor productivity and lower labor share, consistent with a role for automation in contributing to dispersion in input utilization and market share.",
+      "summary_en": "Direct evidence on automation's impact on plants is rare. Dinlersoz and Wolf use the US Census Bureau's Survey of Manufacturing Technology, which directly measures plant-level automation, to test how automation affects productivity, labour share, and wages. More automated plants have lower production-labour share, higher capital share, higher labour productivity, and a smaller fraction of workers earning higher wages. They estimate a CES production model where plants choose automation depth by reweighting capital vs. production labour. Broad and deep automation is concentrated in larger, higher-TFP plants — consistent with automation as a driver of productivity dispersion and market-share concentration.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "US Census Bureau's Survey of Manufacturing Technology (SMT) plus the Annual Survey of Manufactures, providing direct plant-level automation measures linked to productivity and labour outcomes for thousands of US manufacturing plants.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungarian automotive and electronics sectors are heavy automation adopters. The paper shows automation contributes to within-industry productivity dispersion and labour-share decline. Useful for KSH, MNB, and ITM when assessing the macroeconomic consequences of Hungary's automation surge — including for measurement of productivity gaps, wage-share trends, and the role of capital-deepening subsidies.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "firms-productivity",
+        "innovation-digital",
+        "labor-markets"
+      ],
+      "methods": [
+        "structural",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "admin-firm",
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "policy_instruments": [],
       "working_paper_series": null,
-      "pages": null,
+      "pages": "604-626",
       "issue": "4",
       "volume": "33",
-      "doi": null,
+      "doi": "10.1080/10438599.2023.2233081",
       "url_published": null,
       "id": "dinlersoz-wolf-2024-eint",
       "title": "Automation, Labor Share, and Productivity: Plant-Level Evidence from U.S. Manufacturing",
@@ -19380,27 +19428,38 @@
     {
       "url_pdf": null,
       "url_replication": null,
-      "abstract": "",
-      "summary_en": null,
+      "abstract": "We explore current interpretations of firm-level dispersion in revenue-based productivity measures. Since revenue function estimates using proxy methods differ from factor elasticities, the residual emerging from this method remains a combination of demand and technical efficiency shocks, and is not equal to the concept of revenue productivity that plays an important role in recent literature on misallocation. This has implications for applications where measured revenue productivity dispersion is used as an indicator of misallocation. Our empirical evidence suggests, under iso-elastic demand, measured dispersion may indicate either distortions or variation in demand shocks and technical efficiency or all of the above.",
+      "summary_en": "Foster, Grim, Haltiwanger and Wolf address a methodological gap in firm-level productivity measurement: residuals from proxy-variable estimation methods (Olley-Pakes, Levinsohn-Petrin) combine demand shocks, technical efficiency, and price effects — they are not equivalent to the 'revenue productivity' concept central to the misallocation literature. Using US manufacturing microdata, they show that under iso-elastic demand, observed dispersion in measured productivity can reflect distortions, demand shocks, or technical-efficiency variation — or any combination. The paper challenges naive interpretations of dispersion as evidence of misallocation.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "US Census Bureau plant-level manufacturing micro-data, Annual Survey of Manufactures.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungarian misallocation diagnostics (KSH/MNB/KRTK studies of TFP dispersion) typically report dispersion as a proxy for reform potential. The paper shows this interpretation depends on demand and technology assumptions that often do not hold in Hungarian sectors with concentrated buyers (energy, public procurement). Caveat important for ITM and Pénzügyminisztérium productivity-gap analyses.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "firms-productivity",
+        "macroeconomics",
+        "methods"
+      ],
+      "methods": [
+        "structural",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "admin-firm"
+      ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "policy_instruments": [],
       "working_paper_series": null,
-      "pages": null,
+      "pages": "95-98",
       "issue": "5",
       "volume": "106",
-      "doi": null,
+      "doi": "10.1257/aer.p20161102",
       "url_published": null,
       "id": "foster-grim-et-al-2016-aer",
       "title": "Firm-Level Dispersion in Productivity: Is the Devil in the Details?",
@@ -21496,27 +21555,39 @@
     {
       "url_pdf": null,
       "url_replication": null,
-      "abstract": "",
-      "summary_en": null,
+      "abstract": "We study the impact of debtor distress on support for a populist far-right political party during a financial crisis. Our empirical approach exploits variation in exposure to foreign currency household loans during a currency crisis in Hungary. Foreign currency debt exposure leads to a large, persistent increase in support for the populist far right. We document that the far right advocated for foreign currency debtors' interests by proposing aggressive debt relief and was rewarded with support from these voters. Our findings are consistent with theories emphasizing that conflict between creditors and debtors can shape political outcomes after financial crises.",
+      "summary_en": "Did Hungary's foreign-currency debt crisis fuel the rise of Jobbik (the populist far right) after 2008? Gyöngyösi and Verner exploit cross-region variation in household foreign-currency-mortgage exposure to causally identify the political-economy effects. Districts with higher FX-debt exposure saw substantially larger and persistent gains in Jobbik vote share. The mechanism: Jobbik (and later Fidesz) advocated aggressive debt relief for FX-mortgage holders and were rewarded electorally. The findings support theories that creditor-debtor conflict shapes post-crisis political outcomes — a Hungarian case study with broader implications for EU populism.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian district-level election results (2006, 2010, 2014, 2018) matched to MNB administrative data on foreign-currency mortgage exposure by district. Also detailed text analysis of party manifestos and parliamentary debates on debt-relief positions.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Highly relevant for the Hungarian political-economy literature and for European institutions assessing EU populism. The paper shows financial-crisis-driven debtor distress directly fuels far-right support when mainstream parties fail to address it. Useful for political-economy analysts at the European Commission, ECB, and Hungarian academic institutions interpreting the rise of populism in Central-Eastern Europe.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "political-economy",
+        "banking-finance",
+        "regional-urban"
+      ],
+      "methods": [
+        "diff-in-diff",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual",
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "policy_instruments": [],
       "working_paper_series": null,
       "pages": "2471-2523",
       "issue": "4",
       "volume": "77",
-      "doi": null,
+      "doi": "10.1111/jofi.13138",
       "url_published": null,
       "id": "gyongyosi-verner-2022-jof",
       "title": "Financial crisis, creditor-debtor conflict, and populism",
@@ -26110,28 +26181,39 @@
     {
       "url_pdf": null,
       "url_replication": null,
-      "abstract": "",
-      "summary_en": null,
+      "abstract": "We analyze the gender-specific effects of trade liberalization on participation in market work, domestic duties, and marriage rates in Indonesia. We show that female work participation increased and participation in domestic duties declined in regions that were more exposed to input tariff reductions. The effects of output tariff reductions were much less pronounced, and we find little impacts on men. Among the potential channels, we find that reductions in input tariffs led to a relative expansion of more female-intensive sectors as well as a decrease in sectoral gender segregation, especially among the low skilled. Liberalization also led to delayed marriage among both sexes and reduced fertility among less educated women.",
+      "summary_en": "Trade liberalisation creates winners and losers — but its effects on women's economic role and household behaviour are under-studied. Kis-Katos, Pieters and Sparrow examine Indonesia's 1993-2002 tariff reductions and find that input-tariff cuts (lowering imported intermediate prices) significantly increased female labour-force participation, reduced women's domestic-duties share, and delayed marriage and childbearing for both genders. Output-tariff cuts had much weaker effects, and male labour outcomes were largely unchanged. The female gains came via expansion of female-intensive sectors and reduced gender segregation, especially for less-educated women.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Indonesian National Socioeconomic Survey (Susenas) household-level data 1993-2002, ~250,000 households, matched to the World Bank's regional tariff exposure measures based on initial sectoral employment.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungary's EU accession and subsequent FTA expansion changed input-tariff structures significantly. The paper provides a template for assessing gender-specific effects of trade-policy changes — useful for the Equal Treatment Authority, the Foreign Trade Department, and KSH when analysing distributional effects of trade-policy changes on Hungarian women's labour-market outcomes.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "trade-fdi",
+        "labor-markets",
+        "demographics-migration"
+      ],
+      "methods": [
+        "diff-in-diff",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "ID"
+      ],
+      "data_types": [
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "policy_instruments": [],
       "working_paper_series": null,
       "pages": "763-793",
       "issue": "4",
       "volume": "66",
-      "doi": null,
-      "url_published": null,
+      "doi": "10.1057/s41308-018-0065-5",
+      "url_published": "https://doi.org/10.1057/s41308-018-0065-5",
       "id": "kis-katos-pieters-et-al-2018-imfer",
       "title": "Globalization and social change: Gender-specific effects of trade liberalization in Indonesia",
       "authors": [
@@ -26146,27 +26228,39 @@
     {
       "url_pdf": null,
       "url_replication": null,
-      "abstract": "",
-      "summary_en": null,
+      "abstract": "Combining data from China's population and firm censuses between 1990 and 2005, this paper relates prefecture-level employment by gender to the regionalized measure of exposure to tariff reductions. We find that increasing import competition kept more females in the workforce, reducing an otherwise growing gender employment gap in the long run. These dynamics were present both in local economies as a whole and among private firms in the formal industrial sector. The gendered employment effects of trade-induced competitive pressures can be attributed to an expansion of female-intensive industries, a reduction in gender discrimination, and technology upgrades through computerization.",
+      "summary_en": "Did trade liberalisation reduce China's gender employment gap? Kis-Katos, Pieters and Sparrow link China's population census and firm census 1990-2005 with prefecture-level tariff exposure. They find import-competition pressure kept more women in the workforce, slowing the otherwise-growing gender employment gap. The mechanism: female-intensive industries expanded, gender discrimination decreased, and computerisation (which reduces physical-skill demand) accelerated. Effects appear in both the local economy as a whole and among private formal-sector firms.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "China's 1990 and 2000 population censuses + 2004 economic census, prefecture-level (n~330 prefectures), matched to product-level tariff schedules under WTO accession (2001) and earlier liberalisations.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Provides international benchmark for Hungary's experience with trade-induced female-employment effects (post-1990 transition, post-2004 EU accession). The paper's mechanism — import competition forcing technology upgrades that reduce physical-skill premium — applies to Hungarian sectors with similar structure. Useful framing for the Equal Treatment Authority and KSH when interpreting decade-long gender-gap trends.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "trade-fdi",
+        "labor-markets",
+        "demographics-migration"
+      ],
+      "methods": [
+        "diff-in-diff",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "CN"
+      ],
+      "data_types": [
+        "admin-individual",
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "policy_instruments": [],
       "working_paper_series": null,
       "pages": "1830-1864",
       "issue": "6",
       "volume": "59",
-      "doi": null,
+      "doi": "10.3368/jhr.0521-11697R1",
       "url_published": null,
       "id": "kis-katos-pieters-et-al-2025-jhr",
       "title": "Trade liberalization and the gender employment gap in China",
@@ -26176,34 +26270,45 @@
         "Robert Sparrow"
       ],
       "journal": "Journal of Human Resources",
-      "year": 2025,
+      "year": 2024,
       "publication_type": "article"
     },
     {
       "url_pdf": null,
       "url_replication": null,
-      "abstract": "",
-      "summary_en": null,
+      "abstract": "We measure the effects of trade liberalization over the period of 1993–2002 on regional poverty levels in 259 Indonesian districts, and investigate the labor market mechanisms behind these effects. The identification strategy relies on combining information on initial regional labor and product market structure with the exogenous tariff reduction schedule over four three-year periods. We add to the literature on local labor market effects of trade policies by distinguishing between tariffs for output markets and for intermediate inputs, and finding that poverty reduced especially in districts with a greater sector exposure to input tariff liberalization. Among the potential channels behind this effect, we show that low-skilled work participation and middle-skilled wages were more responsive to reductions in import tariffs on intermediate goods than to reductions in import tariffs on final outputs.",
+      "summary_en": "Trade liberalisation's effects on poverty depend critically on the specific tariff cuts and labour-market structure. Kis-Katos and Sparrow analyse 259 Indonesian districts during 1993-2002, distinguishing between cuts in output tariffs and intermediate-input tariffs. Districts with greater exposure to intermediate-input liberalisation saw the largest poverty reductions. The mechanism: input-tariff cuts raise firm competitiveness, which expands low-skilled employment and lifts middle-skilled wages — channels less responsive to output-tariff cuts.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Indonesian National Socioeconomic Survey (Susenas) household-level data 1993-2002, aggregated to 259 district-year observations, matched to district-specific input vs. output tariff exposure measures derived from initial sectoral structure.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for Hungarian rural-poverty policy and EU Cohesion Fund interventions in lagging regions. The paper shows that targeting intermediate-input access (rather than just output-market access) is more effective for raising low-skilled employment in poor regions — useful for the Pénzügyminisztérium's regional-development strategy and for the Ministry of Foreign Affairs and Trade (KKM) trade-policy decisions.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "trade-fdi",
+        "inequality-welfare",
+        "regional-urban"
+      ],
+      "methods": [
+        "diff-in-diff",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "ID"
+      ],
+      "data_types": [
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "policy_instruments": [],
       "working_paper_series": null,
       "pages": "94-106",
       "issue": null,
       "volume": "117",
-      "doi": null,
-      "url_published": null,
+      "doi": "10.1016/j.jdeveco.2015.06.003",
+      "url_published": "https://doi.org/10.1016/j.jdeveco.2015.06.003",
       "id": "kis-katos-sparrow-2015-jde",
       "title": "Poverty, labour markets and trade liberalization in Indonesia",
       "authors": [
@@ -36443,27 +36548,39 @@
     {
       "url_pdf": null,
       "url_replication": null,
-      "abstract": "",
-      "summary_en": null,
+      "abstract": "We examine the consequences of a sudden increase in household debt burdens by exploiting variation in exposure to household foreign currency debt during Hungary's late-2008 currency crisis. The revaluation of debt burdens causes higher default rates and a collapse in spending. These responses lead to a worse local recession, driven by a decline in local demand, and negative spillover effects on nearby borrowers without foreign currency debt. The estimates translate into an output multiplier on higher debt service of 1.67. The impact of debt revaluation is particularly severe when foreign currency debt is concentrated on household, rather than firm, balance sheets.",
+      "summary_en": "When the Hungarian forint collapsed in late 2008, households holding Swiss-franc and euro mortgages saw their debt service jump 30-50%. Verner and Gyöngyösi exploit cross-region variation in foreign-currency-mortgage exposure to causally estimate the impact on the local economy. Affected districts experienced higher default rates, collapsed consumption spending, and deeper recessions — even spilling over to nearby borrowers without FX debt. The implied output multiplier on debt-service shocks is 1.67. Crucially, the impact was much worse when FX debt was on household rather than firm balance sheets.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian regional administrative records on household foreign-currency mortgage exposure (MNB, ÁKK), default outcomes, household consumption (KSH), and local labour-market outcomes by district 2008-2014.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Foundational evidence for Hungarian macroprudential policy at MNB. The paper demonstrates household-FX-debt risks are systemically larger than firm-FX-debt risks — directly informing MNB's 2014 conversion of the FX-mortgage stock into forint and ongoing macroprudential limits. Also relevant for the Pénzügyminisztérium and other Eastern European central banks (NBR, NBP, NBS) addressing similar legacy stocks.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "macroeconomics",
+        "regional-urban"
+      ],
+      "methods": [
+        "diff-in-diff",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual",
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "policy_instruments": [],
       "working_paper_series": null,
-      "pages": null,
-      "issue": null,
-      "volume": null,
-      "doi": null,
+      "pages": "2667-2702",
+      "issue": "9",
+      "volume": "110",
+      "doi": "10.1257/aer.20181585",
       "url_published": null,
       "id": "verner-gyongyosi-2020-aer",
       "title": "Household debt revaluation and the real economy: Evidence from a foreign currency debt crisis",
@@ -40906,7 +41023,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 87
+      "paper_count": 90
     },
     {
       "id": "education-skills",
@@ -40939,7 +41056,7 @@
       "policy_framing_en": "Relevant to: family policy, pension system, immigration policy, retention of skilled workers.",
       "policy_framing_hu": "Releváns: családpolitika, nyugdíjrendszer, bevándorláspolitika, szakemberek megtartása.",
       "icon": "users",
-      "paper_count": 32
+      "paper_count": 34
     },
     {
       "id": "trade-fdi",
@@ -40950,7 +41067,7 @@
       "policy_framing_en": "Relevant to: EU trade policy, FDI promotion, export promotion, supply chain resilience, industrial policy.",
       "policy_framing_hu": "Releváns: EU kereskedelempolitika, FDI ösztönzés, exporttámogatás, ellátási láncok rugalmassága, iparpolitika.",
       "icon": "globe",
-      "paper_count": 60
+      "paper_count": 63
     },
     {
       "id": "firms-productivity",
@@ -40961,7 +41078,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 108
+      "paper_count": 113
     },
     {
       "id": "innovation-digital",
@@ -40972,7 +41089,7 @@
       "policy_framing_en": "Relevant to: R&D tax credits, digital strategy, AI policy, innovation agency design, university–industry linkages.",
       "policy_framing_hu": "Releváns: K+F adókedvezmények, digitális stratégia, MI-politika, innovációs ügynökségek, egyetem–ipar kapcsolatok.",
       "icon": "cpu",
-      "paper_count": 48
+      "paper_count": 49
     },
     {
       "id": "banking-finance",
@@ -40983,7 +41100,7 @@
       "policy_framing_en": "Relevant to: MNB policy, banking regulation, macroprudential tools, financial inclusion.",
       "policy_framing_hu": "Releváns: MNB-politika, bankszabályozás, makroprudenciális eszközök, pénzügyi befogadás.",
       "icon": "landmark",
-      "paper_count": 112
+      "paper_count": 114
     },
     {
       "id": "fiscal-tax",
@@ -41005,7 +41122,7 @@
       "policy_framing_en": "Relevant to: regional development funds, housing policy, transport investment, urban planning.",
       "policy_framing_hu": "Releváns: regionális fejlesztési alapok, lakáspolitika, közlekedési beruházások, városfejlesztés.",
       "icon": "building",
-      "paper_count": 52
+      "paper_count": 55
     },
     {
       "id": "energy-environment",
@@ -41027,7 +41144,7 @@
       "policy_framing_en": "Relevant to: welfare system, anti-poverty programs, family allowances, gender-equal pay policies.",
       "policy_framing_hu": "Releváns: szociális rendszer, szegénység elleni programok, családi pótlékok, egyenlő bérezés.",
       "icon": "scale",
-      "paper_count": 92
+      "paper_count": 93
     },
     {
       "id": "political-economy",
@@ -41038,7 +41155,7 @@
       "policy_framing_en": "Relevant to: anti-corruption policy, public administration reform, EU affairs, electoral system design.",
       "policy_framing_hu": "Releváns: korrupcióellenes politika, közigazgatási reform, EU-ügyek, választási rendszer.",
       "icon": "building-2",
-      "paper_count": 60
+      "paper_count": 61
     },
     {
       "id": "transition-postcommunist",
@@ -41082,7 +41199,7 @@
       "policy_framing_en": "Relevant to: long-run growth forecasting, macroeconomic modelling, sovereign-debt management, stabilisation policy design.",
       "policy_framing_hu": "Releváns: hosszú távú növekedés előrejelzés, makroökonómiai modellek, államadósság-kezelés, stabilizációs politika.",
       "icon": "line-chart",
-      "paper_count": 80
+      "paper_count": 85
     },
     {
       "id": "agriculture-food",
@@ -41104,7 +41221,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 144
+      "paper_count": 148
     },
     {
       "id": "market-design",
