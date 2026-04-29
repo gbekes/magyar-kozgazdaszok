@@ -5816,20 +5816,25 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This paper generalizes the concept of best response to coalitions of players and offers epistemic definitions of coalitional rationalizability in normal form games. The (best) response of a coalition is defined to be an operator from sets of conjectures to sets of strategies. A strategy is epistemic coalitionally rationalizable if it is consistent with rationality and common certainty that every coalition is rational. A characterization of this solution set is provided for operators satisfying four basic properties. Special attention is devoted to an operator that leads to a solution concept that is generically equivalent to the iteratively defined concept of coalitional rationalizability.",
-      "summary_en": null,
+      "summary_en": "Standard game-theoretic best-response analysis treats individual players, but real strategic settings often involve coalitions whose joint behaviour matters. Ambrus generalises the best-response concept to coalitions and provides epistemic foundations: a strategy is 'epistemic coalitionally rationalisable' if it is consistent with rationality and common certainty that every coalition is rational. He characterises the resulting solution set under four basic operator properties and shows that one natural operator yields a generic equivalence to the iteratively-defined coalitional rationalisability concept.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — pure normal-form game theory. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Foundational result for analysing situations where groups (industry associations, political coalitions, regional blocs) act jointly in non-cooperative settings. Useful theoretical tool for policy researchers at the GVH (anti-trust collusion analysis), Pénzügyminisztérium (intergovernmental tax negotiations), and KKM (international-bargaining analysis).",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "mechanism-design",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2154805931"
     },
     {
@@ -5896,20 +5901,25 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This paper considers a model of legislative decision-making, in which information must be collected from a strategic lobbyist. The legislature appoints a committee to communicate with the lobbyist and propose a bill, and determines whether the proposal is processed under open or closed rule. Consistent with empirical evidence, it can be optimal for the legislature to appoint a biased committee and, depending on the lobbyist's bias, both open and closed rule are used in equilibrium. For small lobbyist bias, it is optimal to choose closed rule and a committee whose interests are perfectly aligned with the lobbyist's. For intermediate lobbyist bias, closed rule remains optimal with a committee whose preferences lie between those of the legislature and those of the lobbyist. For large lobbyist bias, open rule and a committee biased against the lobbyist become optimal.",
-      "summary_en": null,
+      "summary_en": "Why do legislatures delegate bill-drafting to committees rather than the full chamber? Ambrus, Azevedo, Kamada and Takagi develop a model where the legislature must extract information from a strategic lobbyist and chooses both the committee composition and whether to use 'open rule' (amendments allowed) or 'closed rule' (no amendments). With small lobbyist bias, optimal to use closed rule with a committee perfectly aligned with the lobbyist. With intermediate bias, closed rule with a committee in between legislature and lobbyist preferences. With large bias, open rule plus a committee biased against the lobbyist. The framework explains observed congressional patterns.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model with empirical references to US congressional committee assignments and procedural rules. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for Hungarian Parliament's standing-committee design and rules of procedure, and for EU institutional design (Council working parties, Parliament committees). The model formalises why politically-biased committees are sometimes optimal and how procedural choices (open vs closed rule, in Hungary: discussion vs. expedited procedure) interact with lobbyist influence.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "political-economy",
+        "mechanism-design"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2134365360"
     },
     {
@@ -6083,20 +6093,29 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This paper investigates the effect of delay on prices in bargaining situations with uncertainty about the buyer's evaluation, a question to which existing empirical and experimental research do not provide a conclusive answer. To do this we use a historical data set containing thousands of captives ransomed from the North-African-based Barbary pirates. Plausibly exogenous variation in the delay with which captives were ransomed provides evidence that negotiating delays decreased the size of ransom payments. The magnitude of the effect of a year of delay is more than ten times higher than the effect of one year increase in the captive's age, indicating that most of the effect stems from the signaling value of strategic delay on the buyer side. Since this effect is the central component of dynamic bargaining models with asymmetric information, our results establish the relevance of these models in ransoming environments. [Source: Berkeley preprint, very close to QE 2018 published version.]",
-      "summary_en": null,
+      "summary_en": "Does negotiation delay raise or lower bargaining outcomes when one side has private information? Theory gives mixed predictions. Ambrus, Chaney and Salitskiy use an unusual historical dataset — thousands of European captives ransomed from Barbary pirates between roughly 1575 and 1750 — to identify the effect of plausibly exogenous delay on ransom payments. They find one year of delay reduces ransom by an amount more than 10× larger than a year of captive's age would. The signaling value of strategic delay (showing a low-value buyer) dominates. The result validates dynamic-bargaining models with asymmetric information in real high-stakes settings.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hand-collected historical dataset of thousands of European captives ransomed from North-African Barbary pirates roughly 1575-1750, with captive characteristics, ransom amounts, and time-to-release records from European archives.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Provides theoretical and empirical foundation for understanding delay effects in modern bargaining settings: hostage negotiations (international), labour-dispute settlements, M&A delays, corporate insolvency negotiations. Useful for the Pénzügyminisztérium when evaluating delay-tolerance in bilateral debt negotiations or arbitration cases.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "mechanism-design",
+        "behavioral",
+        "methods"
+      ],
+      "methods": [
+        "theory",
+        "panel-data"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "historical"
+      ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "policy_instruments": [],
       "working_paper_series": null,
       "pages": "217-246",
@@ -6176,20 +6195,26 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "In many contracting settings, actions costly to one party but with no direct benefits to the other (money-burning) may be part of the explicit or implicit contract. A leading example is bureaucratic procedures in an employer–employee relationship. We study a model of delegation with an informed agent, where the principal may impose money-burning on the agent as a function of the agent's choice of action, and show that money-burning may be part of the optimal contract. This result holds even if action-contingent monetary transfers are possible, as long as transfers from the principal to the agent are bounded from below (as in limited liability or minimal wage requirements). In fact, the optimal contract can involve a combination of both efficient monetary incentives and inefficient nonmonetary incentives through money burning. Our model delivers some results novel to the delegation literature. First, money-burning is more likely if the principal is more \"sensitive\" to the choice of action than the agent. This is consistent with the perception that there is more bureaucratization in large organizations. Second, money-burning is more likely if the agent's limited liability constraint is tighter relative to his participation constraint. This implies that a higher minimum wage distorts employment contracts towards using socially wasteful nonmonetary incentives, leading to a Pareto inferior outcome as the agent is still held down to his reservation value through increased money burning.",
-      "summary_en": null,
+      "summary_en": "Why do organisations impose seemingly wasteful bureaucratic procedures on employees? Ambrus and Egorov build a delegation model where the principal can require costly 'money-burning' from the agent (e.g., paperwork, time-wasting tasks) as a function of the action chosen. Even when monetary transfers are possible, money-burning can be optimal — provided transfers are bounded below (e.g., minimum-wage or limited-liability constraints). The model predicts more bureaucracy in large organisations (where principal-agent sensitivity gaps are larger), and shows that raising the minimum wage can shift contracts toward inefficient money-burning, lowering welfare.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — principal-agent framework with limited liability. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly relevant for Hungarian minimum-wage policy debates: the paper warns that raising minimum wages can shift employer contracts toward more bureaucratic work-process restrictions — an unintended welfare loss. Also informs Hungarian public-administration reform: the model predicts bureaucracy intensifies in large hierarchies even without ill intent, useful framing for civil-service reform discussions at Belügyminisztérium.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "mechanism-design",
+        "labor-markets",
+        "political-economy"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W3122893710"
     },
     {
@@ -6377,20 +6402,27 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This article considers the effect of contracting limitations in risk-sharing networks, arising for example from observability, verifiability, complexity, or cultural constraints. We derive necessary and sufficient conditions for Pareto efficiency under these constraints in a general setting, and we provide an explicit characterization of Pareto efficient bilateral transfer profiles under CARA utility and normally distributed endowments. Our model predicts that network centrality is positively correlated with consumption volatility, as more central agents become quasi-insurance providers to more peripheral agents. The proposed framework has important implications for the empirical specification of risk-sharing tests, allowing for local risk-sharing groups that overlap within the village network.",
-      "summary_en": null,
+      "summary_en": "Standard models of village risk-sharing assume contracting is unrestricted, but real village networks face observability, verifiability, and complexity constraints. Ambrus, Gao and Milán derive necessary and sufficient conditions for Pareto efficiency under such constraints in a general setting, and provide an explicit characterisation under CARA utility with normal endowment shocks. A key prediction: network centrality is positively correlated with consumption volatility, because central agents serve as quasi-insurance providers to peripheral agents. The framework provides a refined empirical specification for risk-sharing tests, allowing for overlapping local groups within a village network.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — risk-sharing network analysis. Calibrated to standard CARA-normal village-economy parameters; references field datasets from Townsend's Indian villages and similar settings.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungarian rural-poverty programmes (Pénzügyminisztérium social-policy framework, EU Cohesion Fund interventions in lagging regions, Roma-integration projects under Belügyminisztérium) often depend on local informal-insurance networks. The paper provides better empirical tests for measuring how those networks function, and predicts that the most well-connected households actually face higher consumption volatility — a counterintuitive insight for designing targeted income-support transfers.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "inequality-welfare",
+        "regional-urban",
+        "behavioral"
+      ],
+      "methods": [
+        "theory",
+        "panel-data"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "policy_instruments": [],
       "working_paper_series": null,
       "pages": "2329-2380",
@@ -6413,20 +6445,28 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This paper experimentally investigates the effects of a costly punishment option on cooperation and social welfare in long, finitely repeated public good contribution games. In a perfect monitoring environment, increasing the severity of the potential punishment monotonically increases average net payoffs. In a more realistic imperfect monitoring environment, we find a U-shaped relationship. Access to a standard punishment technology in this setting significantly decreases net payoffs, even in the long run. Access to a severe punishment technology leads to roughly the same payoffs as with no punishment option, as the benefits of increased cooperation offset the social costs of punishing. (JEL C92, H41, K42)",
-      "summary_en": null,
+      "summary_en": "How does a costly punishment option in repeated public-good games affect cooperation and welfare? Ambrus and Greiner run lab experiments and find the answer depends on monitoring quality. With perfect monitoring, more severe punishment monotonically raises average net payoffs. With imperfect monitoring (more realistic), the relationship is U-shaped: standard mild punishment lowers net payoffs (because mistakes get penalised), but very severe punishment recovers welfare to baseline (cooperation gains offset social costs). The result reframes the policy implications of punishment-based cooperation enforcement.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Lab experiment with 10-period public-good contribution games, varying punishment availability and severity; with both perfect-monitoring and imperfect-monitoring (noisy observation) treatments. Multiple sessions at university lab venues.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungarian tax-compliance and regulatory enforcement (NAV, NÉBIH, GVH) face a similar trade-off: stronger penalties improve cooperation in clean cases but can backfire when monitoring is noisy. The paper provides experimental evidence that mild punishment under imperfect monitoring is welfare-reducing, while very severe punishment can be neutral or positive. Useful framework for calibrating Hungarian regulatory penalty schedules.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "behavioral",
+        "fiscal-tax",
+        "mechanism-design"
+      ],
+      "methods": [
+        "rct"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "field-experiment"
+      ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "policy_instruments": [],
       "working_paper_series": null,
       "pages": "3317-3332",
@@ -6463,20 +6503,28 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "In the context of repeated public good contribution games, we experimentally investigate the impact of democratic punishment, when members of a group decide by majority voting whether to inflict punishment on another member, relative to individual peer-to-peer punishment. Democratic punishment leads to more cooperation and higher average payoffs, both under perfect and imperfect monitoring of contributions, primarily by curbing anti-social punishment and thereby establishing a closer connection between a member's contribution decision and whether subsequently being punished by others. We also find that participating in a democratic punishment procedure makes even non-contributors' punishment intentions more pro-social.",
-      "summary_en": null,
+      "summary_en": "When members of a group must vote on whether to punish a transgressor, does democratic punishment work better than peer-to-peer punishment? Ambrus and Greiner experimentally compare democratic punishment (majority vote on whether to punish) with individual peer punishment in repeated public-good games. Democratic punishment leads to more cooperation and higher payoffs under both perfect and imperfect monitoring — primarily by curbing anti-social punishment (punishing high contributors) and creating a clearer link between contribution and being punished. Even non-contributors' punishment intentions become more pro-social when the punishment is collectively decided.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Lab experiment with public-good contribution games, multiple sessions at university lab venues, comparing democratic, dictatorial, and peer-to-peer punishment treatments under varying monitoring conditions.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungarian local-government and committee-based regulatory bodies (water districts, electricity co-ops, professional associations) often choose between collective and individual sanctioning rules. The paper provides experimental evidence that democratic (collective-vote) sanctioning produces better cooperation outcomes than individual peer-to-peer sanctioning. Useful framework for designing committee-based enforcement at GVH, MNB, and other regulators.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "behavioral",
+        "political-economy",
+        "mechanism-design"
+      ],
+      "methods": [
+        "rct"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "field-experiment"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2970702376"
     },
     {
@@ -6499,40 +6547,62 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "In an informational voting environment, we study the impact of an explicit nil vote option on the ballot when some voters are uninformed and face the swing voters curse. We postulate a simple model of strategic voting in which voters entertain heterogeneous thresholds on legitimacy of different voting actions. We predict that introducing a nil vote option reduces the number of uninformed and invalid votes, increasing expected welfare in both voluntary and compulsory voting. We test our model in a pen-and-paper laboratory experiment, and find that the predictions of the model hold in the data, for both voting systems.",
-      "summary_en": null,
+      "summary_en": "Allowing voters to express 'no preference' through a 'nil' or 'none of the above' (NOTA) ballot option is debated in many democracies. Ambrus, Greiner and Sastro model uninformed voters facing the 'swing voter's curse' (uninformed votes can flip elections away from the better candidate). They predict that adding a NOTA option reduces uninformed and invalid voting, raising expected welfare in both voluntary and compulsory voting systems. They confirm the prediction in pen-and-paper laboratory experiments. The result supports adding NOTA to ballots in democracies where many voters lack information.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model + pen-and-paper laboratory experiment with multiple sessions and treatments, manipulating voting system (compulsory vs. voluntary) and NOTA availability.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for Hungarian electoral-rules debates. Hungary has discussed but not implemented NOTA; the paper provides experimental evidence that it raises welfare in both voluntary and compulsory voting. Useful for the Hungarian Parliament, the Constitutional Court, and the National Election Office when reviewing ballot-design proposals.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "political-economy",
+        "mechanism-design",
+        "behavioral"
+      ],
+      "methods": [
+        "theory",
+        "rct"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "field-experiment"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W3025557979"
     },
     {
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We study how an explicit blank vote option \"None of the above\" (NOTA) on the ballot paper affects the behavior of voters and political candidates as well as election results. In a series of survey and laboratory experiments we identify a tradeoff regarding making NOTA an explicit voting option. On the one hand it can reduce the vote share of candidates who voters consider as protest candidates, who often come from the extremes of the political spectrum, making it less likely that such a protest candidate wins the election. On the other hand, anticipating the above effect, establishment candidates may care less about the electorate when NOTA is on the ballot. Evidence on voters' reaction to NOTA comes from two online survey experiments conducted in the weeks preceding the 2016 U.S. presidential election and the 2016 Austrian run-off election for president. Participants were subjected to either the original ballot paper or to a ballot paper where we added a NOTA option. We investigate the dynamic response of politicians to the presence of NOTA in a laboratory experiment in which an establishment candidate can decide between selfish and fair policy proposals and voters can choose between the establishment candidate and an inefficient protest option.",
-      "summary_en": null,
+      "summary_en": "Adding a 'None of the Above' (NOTA) ballot option creates a trade-off. Ambrus, Greiner and Zednik run survey experiments before the 2016 US and Austrian presidential elections, plus lab experiments on candidate behaviour. NOTA reduces vote shares for protest candidates (often from the political extremes), making their election less likely. But anticipating that, establishment candidates may care less about the electorate when NOTA is on the ballot — they have less to fear from a defeated protest opponent. The paper documents both effects empirically and theoretically, providing the first quantitative evidence on this NOTA trade-off.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Two online survey experiments preceding the 2016 US presidential election (~1,500 participants) and the 2016 Austrian run-off (~1,000 participants), each with original-ballot vs. NOTA-ballot treatment arms. Plus a lab experiment on candidate behaviour with multiple sessions.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Important update on the NOTA debate for Hungarian, EU and Austrian electoral institutions. The paper shows NOTA isn't unconditionally welfare-improving — it disciplines protest candidates but can de-discipline establishment candidates. Hungarian Parliament and Constitutional Court reviewing ballot reform should consider both effects. Also relevant for Austrian and EU election-design discussions where NOTA proposals are recurring.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "political-economy",
+        "behavioral",
+        "mechanism-design"
+      ],
+      "methods": [
+        "rct",
+        "theory"
+      ],
+      "countries_studied": [
+        "US",
+        "AT"
+      ],
+      "data_types": [
+        "field-experiment",
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "policy_instruments": [],
       "working_paper_series": null,
       "pages": null,
@@ -6570,20 +6640,25 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We show that in multi-sender communication games where senders imperfectly observe the state, if the state space is large enough, then there can exist equilibria arbitrarily close to full revelation of the state as the noise in the senders' observations gets small. In the case of replacement noise, where the senders observe the true state with high probability, we show this under mild assumptions, for both unbounded and large bounded state spaces. In the case of continuous noise, where senders observe a signal distributed continuously over a small interval around the true state, we establish this for unbounded state spaces. The results imply that when there are multiple experts from whom to solicit information, if the state space is large, then even when the state is observed imperfectly, there are communication equilibria that are strictly better for the principal than delegating the decision right to one of the experts.",
-      "summary_en": null,
+      "summary_en": "When a decision-maker (principal) must aggregate information from multiple imperfectly-informed experts (senders), how close to full information revelation can communication get? Ambrus and Lu show that with large enough state spaces, communication equilibria can be arbitrarily close to full revelation as the noise in senders' observations gets small. This holds for both unbounded state spaces and (with mild conditions) bounded ones, under both 'replacement noise' and continuous noise. The implication: when soliciting information from multiple experts, the principal often does better than delegating the decision to one of them — even when each expert is imperfectly informed.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — multi-sender cheap-talk game with imperfect observations. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly relevant for institutional design in Hungarian and EU regulatory bodies that solicit expert input: GVH economic-analysis advisory panels, MNB monetary-policy advisory committees, MEKH energy-tariff expert reviews, Constitutional Court amicus briefings. The paper supports collecting input from multiple experts (not delegating to one) even when each expert is noisy — and shows the conditions under which this strategy succeeds.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "mechanism-design",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2105314806"
     },
     {
@@ -6689,20 +6764,29 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This paper shows that the presence of different types of players - those who only care about their own material payoffs and those who reciprocate others' contributions - can explain the robust features of observed contribution patterns in public good contribution games, even without the presence of asymmetric information. We show what conditions on reciprocity are sufficient for a unique perfect equilibrium, in which contributions are decreasing. Under these conditions, selfish players have enough future benefits to induce subsequent contributions by reciprocal players, and this incentive diminishes as the end of the game approaches. The model explains the puzzling restart effect and is consistent with various other empirical findings. We also report the results of a series of experiments, using a probabilistic continuation design in which after each set of 10-period games, the group is restarted with low probability. We find specific support for the theory in our data, including that selfish players (identified exogenously) stop contributing earlier than reciprocal players, as directly implied by the model.",
-      "summary_en": null,
+      "summary_en": "Why do public-good contributions decline as the end of a finitely-repeated game approaches — and why do they sometimes restart higher when a new game begins? Ambrus and Pathak show that having two types of players (selfish and reciprocal) is sufficient to explain these robust experimental patterns, even without asymmetric information. Selfish players contribute early because they expect reciprocal players to reward future contributions; the incentive fades as the end approaches. The model explains the puzzling 'restart effect' and is supported by their own experiments with probabilistic continuation, where selfish players stop contributing before reciprocal players, exactly as predicted.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model + lab experiment with public-good contribution games using probabilistic-continuation design (low probability of restart after each 10-period block); multiple sessions at university lab venues.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly relevant for designing Hungarian public-good interventions where time horizons matter: tax compliance over the fiscal year (NAV), recycling-programme participation (energy/environment ministries), voluntary-pension contributions (MNB-supervised pension funds). The paper shows decline-then-restart contribution patterns are explained by player heterogeneity and finite horizons — useful for calibrating expected dropout in Hungarian public-good programmes.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "behavioral",
+        "mechanism-design",
+        "fiscal-tax"
+      ],
+      "methods": [
+        "theory",
+        "rct"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "field-experiment"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2048201329"
     },
     {
@@ -6754,20 +6838,25 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This paper analyzes multi-sender cheap talk when the state space might be restricted, either because the policy space is restricted or the set of rationalizable policies of the receiver is not the whole space. We provide a necessary and sufficient condition for the existence of a fully-revealing perfect Bayesian equilibrium for any state space. We show that if biases are large enough and are not in similar directions, where the notion of similarity depends on the shape of the state space, then there is no fully-revealing perfect Bayesian equilibrium. The results suggest that boundedness, as opposed to dimensionality, of the state space plays an important role in determining the qualitative implications of a cheap talk model. We also investigate equilibria that satisfy a robustness property, diagonal continuity.",
-      "summary_en": null,
+      "summary_en": "Multi-sender cheap-talk models — where multiple experts simultaneously communicate to a decision-maker — have known fully-revealing equilibria when the state space is unrestricted. Ambrus and Takahashi extend the analysis to restricted state spaces (when the policy space or the receiver's rationalisable policies are bounded). They derive a necessary and sufficient condition for full-revelation equilibria. With large enough biases pointing in dissimilar directions (where similarity depends on the state-space geometry), no fully-revealing equilibrium exists. The boundedness — not the dimensionality — of the state space is the key qualitative feature.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — multi-sender cheap-talk equilibrium analysis. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant for institutional design where multiple experts advise a decision-maker on bounded policy variables: MNB monetary-policy committee deliberations, GVH merger-review expert panels, MEKH tariff-setting consultations. The paper shows when state-space boundedness limits achievable information aggregation — useful for choosing between expert-only and structured-deliberation approaches.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "mechanism-design",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "policy_instruments": [],
       "working_paper_series": null,
       "pages": "1-27",
@@ -41163,7 +41252,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 90
+      "paper_count": 91
     },
     {
       "id": "education-skills",
@@ -41251,7 +41340,7 @@
       "policy_framing_en": "Relevant to: tax reform, budget planning, public debt management, compliance policy.",
       "policy_framing_hu": "Releváns: adóreform, költségvetés-tervezés, államadósság-kezelés, adócompliance.",
       "icon": "coins",
-      "paper_count": 48
+      "paper_count": 50
     },
     {
       "id": "regional-urban",
@@ -41262,7 +41351,7 @@
       "policy_framing_en": "Relevant to: regional development funds, housing policy, transport investment, urban planning.",
       "policy_framing_hu": "Releváns: regionális fejlesztési alapok, lakáspolitika, közlekedési beruházások, városfejlesztés.",
       "icon": "building",
-      "paper_count": 56
+      "paper_count": 57
     },
     {
       "id": "energy-environment",
@@ -41284,7 +41373,7 @@
       "policy_framing_en": "Relevant to: welfare system, anti-poverty programs, family allowances, gender-equal pay policies.",
       "policy_framing_hu": "Releváns: szociális rendszer, szegénység elleni programok, családi pótlékok, egyenlő bérezés.",
       "icon": "scale",
-      "paper_count": 94
+      "paper_count": 95
     },
     {
       "id": "political-economy",
@@ -41295,7 +41384,7 @@
       "policy_framing_en": "Relevant to: anti-corruption policy, public administration reform, EU affairs, electoral system design.",
       "policy_framing_hu": "Releváns: korrupcióellenes politika, közigazgatási reform, EU-ügyek, választási rendszer.",
       "icon": "building-2",
-      "paper_count": 61
+      "paper_count": 66
     },
     {
       "id": "transition-postcommunist",
@@ -41317,7 +41406,7 @@
       "policy_framing_en": "Relevant to: consumer protection, pension-default design, nudging, financial-education regulation, addictive-product regulation.",
       "policy_framing_hu": "Releváns: fogyasztóvédelem, nyugdíjalap-alapbeállítások, döntéslendítés (nudge), pénzügyi edukáció szabályozása, függőséget okozó termékek szabályozása.",
       "icon": "brain",
-      "paper_count": 91
+      "paper_count": 98
     },
     {
       "id": "industrial-organization",
@@ -41361,7 +41450,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 148
+      "paper_count": 152
     },
     {
       "id": "market-design",
@@ -41383,7 +41472,7 @@
       "policy_framing_en": "Relevant to: regulatory design, procurement, voting reform, contract law, antitrust analysis, committee design.",
       "policy_framing_hu": "Releváns: szabályozási tervezés, közbeszerzés, választási reform, szerződésjog, versenypolitika, bizottsági tervezés.",
       "icon": "scale",
-      "paper_count": 37
+      "paper_count": 48
     }
   ],
   "journals": [

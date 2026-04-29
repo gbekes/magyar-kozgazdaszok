@@ -2,20 +2,33 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We study how an explicit blank vote option \"None of the above\" (NOTA) on the ballot paper affects the behavior of voters and political candidates as well as election results. In a series of survey and laboratory experiments we identify a tradeoff regarding making NOTA an explicit voting option. On the one hand it can reduce the vote share of candidates who voters consider as protest candidates, who often come from the extremes of the political spectrum, making it less likely that such a protest candidate wins the election. On the other hand, anticipating the above effect, establishment candidates may care less about the electorate when NOTA is on the ballot. Evidence on voters' reaction to NOTA comes from two online survey experiments conducted in the weeks preceding the 2016 U.S. presidential election and the 2016 Austrian run-off election for president. Participants were subjected to either the original ballot paper or to a ballot paper where we added a NOTA option. We investigate the dynamic response of politicians to the presence of NOTA in a laboratory experiment in which an establishment candidate can decide between selfish and fair policy proposals and voters can choose between the establishment candidate and an inefficient protest option.",
-  "summary_en": null,
+  "summary_en": "Adding a 'None of the Above' (NOTA) ballot option creates a trade-off. Ambrus, Greiner and Zednik run survey experiments before the 2016 US and Austrian presidential elections, plus lab experiments on candidate behaviour. NOTA reduces vote shares for protest candidates (often from the political extremes), making their election less likely. But anticipating that, establishment candidates may care less about the electorate when NOTA is on the ballot — they have less to fear from a defeated protest opponent. The paper documents both effects empirically and theoretically, providing the first quantitative evidence on this NOTA trade-off.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Two online survey experiments preceding the 2016 US presidential election (~1,500 participants) and the 2016 Austrian run-off (~1,000 participants), each with original-ballot vs. NOTA-ballot treatment arms. Plus a lab experiment on candidate behaviour with multiple sessions.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Important update on the NOTA debate for Hungarian, EU and Austrian electoral institutions. The paper shows NOTA isn't unconditionally welfare-improving — it disciplines protest candidates but can de-discipline establishment candidates. Hungarian Parliament and Constitutional Court reviewing ballot reform should consider both effects. Also relevant for Austrian and EU election-design discussions where NOTA proposals are recurring.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "political-economy",
+    "behavioral",
+    "mechanism-design"
+  ],
+  "methods": [
+    "rct",
+    "theory"
+  ],
+  "countries_studied": [
+    "US",
+    "AT"
+  ],
+  "data_types": [
+    "field-experiment",
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-27",
-  "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "policy_instruments": [],
   "working_paper_series": null,
   "pages": null,

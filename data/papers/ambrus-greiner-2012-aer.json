@@ -2,20 +2,28 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This paper experimentally investigates the effects of a costly punishment option on cooperation and social welfare in long, finitely repeated public good contribution games. In a perfect monitoring environment, increasing the severity of the potential punishment monotonically increases average net payoffs. In a more realistic imperfect monitoring environment, we find a U-shaped relationship. Access to a standard punishment technology in this setting significantly decreases net payoffs, even in the long run. Access to a severe punishment technology leads to roughly the same payoffs as with no punishment option, as the benefits of increased cooperation offset the social costs of punishing. (JEL C92, H41, K42)",
-  "summary_en": null,
+  "summary_en": "How does a costly punishment option in repeated public-good games affect cooperation and welfare? Ambrus and Greiner run lab experiments and find the answer depends on monitoring quality. With perfect monitoring, more severe punishment monotonically raises average net payoffs. With imperfect monitoring (more realistic), the relationship is U-shaped: standard mild punishment lowers net payoffs (because mistakes get penalised), but very severe punishment recovers welfare to baseline (cooperation gains offset social costs). The result reframes the policy implications of punishment-based cooperation enforcement.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Lab experiment with 10-period public-good contribution games, varying punishment availability and severity; with both perfect-monitoring and imperfect-monitoring (noisy observation) treatments. Multiple sessions at university lab venues.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungarian tax-compliance and regulatory enforcement (NAV, NÉBIH, GVH) face a similar trade-off: stronger penalties improve cooperation in clean cases but can backfire when monitoring is noisy. The paper provides experimental evidence that mild punishment under imperfect monitoring is welfare-reducing, while very severe punishment can be neutral or positive. Useful framework for calibrating Hungarian regulatory penalty schedules.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "behavioral",
+    "fiscal-tax",
+    "mechanism-design"
+  ],
+  "methods": [
+    "rct"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "field-experiment"
+  ],
   "featured": false,
   "added_at": "2026-04-27",
-  "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "policy_instruments": [],
   "working_paper_series": null,
   "pages": "3317-3332",

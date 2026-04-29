@@ -17,19 +17,24 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We show that in multi-sender communication games where senders imperfectly observe the state, if the state space is large enough, then there can exist equilibria arbitrarily close to full revelation of the state as the noise in the senders' observations gets small. In the case of replacement noise, where the senders observe the true state with high probability, we show this under mild assumptions, for both unbounded and large bounded state spaces. In the case of continuous noise, where senders observe a signal distributed continuously over a small interval around the true state, we establish this for unbounded state spaces. The results imply that when there are multiple experts from whom to solicit information, if the state space is large, then even when the state is observed imperfectly, there are communication equilibria that are strictly better for the principal than delegating the decision right to one of the experts.",
-  "summary_en": null,
+  "summary_en": "When a decision-maker (principal) must aggregate information from multiple imperfectly-informed experts (senders), how close to full information revelation can communication get? Ambrus and Lu show that with large enough state spaces, communication equilibria can be arbitrarily close to full revelation as the noise in senders' observations gets small. This holds for both unbounded state spaces and (with mild conditions) bounded ones, under both 'replacement noise' and continuous noise. The implication: when soliciting information from multiple experts, the principal often does better than delegating the decision to one of them — even when each expert is imperfectly informed.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model — multi-sender cheap-talk game with imperfect observations. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly relevant for institutional design in Hungarian and EU regulatory bodies that solicit expert input: GVH economic-analysis advisory panels, MNB monetary-policy advisory committees, MEKH energy-tariff expert reviews, Constitutional Court amicus briefings. The paper supports collecting input from multiple experts (not delegating to one) even when each expert is noisy — and shows the conditions under which this strategy succeeds.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "mechanism-design",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2105314806"
 }

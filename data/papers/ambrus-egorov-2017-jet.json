@@ -17,19 +17,25 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "In many contracting settings, actions costly to one party but with no direct benefits to the other (money-burning) may be part of the explicit or implicit contract. A leading example is bureaucratic procedures in an employer–employee relationship. We study a model of delegation with an informed agent, where the principal may impose money-burning on the agent as a function of the agent's choice of action, and show that money-burning may be part of the optimal contract. This result holds even if action-contingent monetary transfers are possible, as long as transfers from the principal to the agent are bounded from below (as in limited liability or minimal wage requirements). In fact, the optimal contract can involve a combination of both efficient monetary incentives and inefficient nonmonetary incentives through money burning. Our model delivers some results novel to the delegation literature. First, money-burning is more likely if the principal is more \"sensitive\" to the choice of action than the agent. This is consistent with the perception that there is more bureaucratization in large organizations. Second, money-burning is more likely if the agent's limited liability constraint is tighter relative to his participation constraint. This implies that a higher minimum wage distorts employment contracts towards using socially wasteful nonmonetary incentives, leading to a Pareto inferior outcome as the agent is still held down to his reservation value through increased money burning.",
-  "summary_en": null,
+  "summary_en": "Why do organisations impose seemingly wasteful bureaucratic procedures on employees? Ambrus and Egorov build a delegation model where the principal can require costly 'money-burning' from the agent (e.g., paperwork, time-wasting tasks) as a function of the action chosen. Even when monetary transfers are possible, money-burning can be optimal — provided transfers are bounded below (e.g., minimum-wage or limited-liability constraints). The model predicts more bureaucracy in large organisations (where principal-agent sensitivity gaps are larger), and shows that raising the minimum wage can shift contracts toward inefficient money-burning, lowering welfare.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model — principal-agent framework with limited liability. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly relevant for Hungarian minimum-wage policy debates: the paper warns that raising minimum wages can shift employer contracts toward more bureaucratic work-process restrictions — an unintended welfare loss. Also informs Hungarian public-administration reform: the model predicts bureaucracy intensifies in large hierarchies even without ill intent, useful framing for civil-service reform discussions at Belügyminisztérium.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "mechanism-design",
+    "labor-markets",
+    "political-economy"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W3122893710"
 }

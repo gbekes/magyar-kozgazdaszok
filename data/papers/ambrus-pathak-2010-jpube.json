@@ -17,19 +17,28 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This paper shows that the presence of different types of players - those who only care about their own material payoffs and those who reciprocate others' contributions - can explain the robust features of observed contribution patterns in public good contribution games, even without the presence of asymmetric information. We show what conditions on reciprocity are sufficient for a unique perfect equilibrium, in which contributions are decreasing. Under these conditions, selfish players have enough future benefits to induce subsequent contributions by reciprocal players, and this incentive diminishes as the end of the game approaches. The model explains the puzzling restart effect and is consistent with various other empirical findings. We also report the results of a series of experiments, using a probabilistic continuation design in which after each set of 10-period games, the group is restarted with low probability. We find specific support for the theory in our data, including that selfish players (identified exogenously) stop contributing earlier than reciprocal players, as directly implied by the model.",
-  "summary_en": null,
+  "summary_en": "Why do public-good contributions decline as the end of a finitely-repeated game approaches — and why do they sometimes restart higher when a new game begins? Ambrus and Pathak show that having two types of players (selfish and reciprocal) is sufficient to explain these robust experimental patterns, even without asymmetric information. Selfish players contribute early because they expect reciprocal players to reward future contributions; the incentive fades as the end approaches. The model explains the puzzling 'restart effect' and is supported by their own experiments with probabilistic continuation, where selfish players stop contributing before reciprocal players, exactly as predicted.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model + lab experiment with public-good contribution games using probabilistic-continuation design (low probability of restart after each 10-period block); multiple sessions at university lab venues.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly relevant for designing Hungarian public-good interventions where time horizons matter: tax compliance over the fiscal year (NAV), recycling-programme participation (energy/environment ministries), voluntary-pension contributions (MNB-supervised pension funds). The paper shows decline-then-restart contribution patterns are explained by player heterogeneity and finite horizons — useful for calibrating expected dropout in Hungarian public-good programmes.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "behavioral",
+    "mechanism-design",
+    "fiscal-tax"
+  ],
+  "methods": [
+    "theory",
+    "rct"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "field-experiment"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2048201329"
 }
