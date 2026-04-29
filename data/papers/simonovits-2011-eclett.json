@@ -15,20 +15,28 @@
   "url_published": "https://doi.org/10.1016/j.econlet.2011.01.031",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "The mandatory pension pillar is usually supplemented by a voluntary one. In our simple model, voluntary pensions partly replace mandatory ones without affecting the outcomes: the voluntary pensions are indifferent. This result may serve as benchmark.",
+  "summary_en": "Hungary's pension system combines a mandatory public pillar with various voluntary private pension schemes. Simonovits builds a simple analytical model showing that under standard assumptions, voluntary pensions partly substitute for mandatory ones without affecting overall lifetime outcomes — they are 'indifferent' for the household's consumption path. The result provides a benchmark against which deviations from indifference (driven by tax incentives, informational frictions, or behavioural biases) can be measured. It clarifies why purely voluntary pillars need additional design features to genuinely raise retirement savings.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model — no dataset. Lifecycle saving model with mandatory and voluntary pension components.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for Hungarian pension policy. Voluntary pension funds (Önkéntes Nyugdíjpénztár) have stagnated since 2010 reforms despite tax incentives. The paper provides a theoretical baseline showing that without specific tax or behavioural-design features, voluntary pensions just substitute for mandatory contributions. Useful for the Pénzügyminisztérium when assessing whether to increase the voluntary-pension tax credit.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "fiscal-tax",
+    "macroeconomics",
+    "behavioral"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W1970032485"
 }

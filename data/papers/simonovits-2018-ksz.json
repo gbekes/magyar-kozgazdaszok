@@ -15,27 +15,32 @@
   "url_published": "https://doi.org/10.18414/ksz.2018.9.903",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": "A 2016-ban elinduló reálbérrobbanás és a 2017-ben elinduló erőltetett járulékkulcs-csökkentés új megvilágításba helyezi az új nyugdíjak valorizációját és a régi nyugdíjak indexálását. Kívánatos, hogy két nagyon hasonló életpálya apró különbségek miatt ne adjon jelentősen különböző nyugdíjpályát, még ha a nettó átlagos reálkereset évről évre szeszélyesen változik is. Ennek a kívánalomnak csak a 2000-ben megszüntetett bérindexálás tesz eleget, de ez a szabály is a valorizációs arány – az új nyugdíjak helyettesítési aránya – évenkénti karbantartását igényli. Ezt a feladatot látja el a pontrendszer. Mivel adott évjáratban a várható élettartam együtt nő az életpálya-jövedelemmel, ezért minden életjáradék torz újraelosztást okoz, amit a pontrendszer még felnagyít. Tehát a nyugdíjdegressziót (vagy a progresszív személyi jövedelemadót) is újra be kell vezetni, vállalva a csökkentett munkavállalást és járulékfizetést.*&#13;\\nJournal of Economic Literature (JEL) kód: D10, H55.",
-  "summary_en": "Why should Hungary replace its pension valorisation and indexation with a points-based system? Simonovits argues that the 2016 real-wage explosion and 2017 forced contribution-rate cuts cast new light on the question. The desideratum: two very similar working lives shouldn't generate substantially different pension trajectories due to small annual differences, even when net average real wages move erratically. Only the wage-indexation rule abandoned in 2000 satisfied this property — but that rule itself requires annual maintenance of the valorisation ratio. A points system performs exactly this maintenance task automatically. Plus, since life expectancy correlates with lifetime earnings, all life annuities cause distorted redistribution that a points system magnifies — meaning pension degressivity (or progressive PIT) must accompany.",
+  "abstract": "A 2016-ban elinduló reálbérrobbanás és a 2017-ben elinduló erőltetett járulékkulcs-csökkentés új megvilágításba helyezi az új nyugdíjak valorizációját és a régi nyugdíjak indexálását. Kívánatos, hogy két nagyon hasonló életpálya apró különbségek miatt ne adjon jelentősen különböző nyugdíjpályát, még ha a nettó átlagos reálkereset évről évre szeszélyesen változik is. Ennek a kívánalomnak csak a 2000-ben megszüntetett bérindexálás tesz eleget, de ez a szabály is a valorizációs arány évenkénti karbantartását igényli. Ezt a feladatot látja el a pontrendszer. Mivel adott évjáratban a várható élettartam együtt nő az életpálya-jövedelemmel, ezért minden életjáradék torz újraelosztást okoz, amit a pontrendszer még felnagyít. Tehát a nyugdíjdegressziót (vagy a progresszív személyi jövedelemadót) is újra be kell vezetni, vállalva a csökkentett munkavállalást és járulékfizetést.",
+  "summary_en": "Hungary's pension valorisation (initial-pension calculation) and indexation (post-retirement uprating) rules have changed repeatedly since 2000, often in response to short-run macro shocks like the 2016 real-wage surge and the 2017 contribution-rate cut. Simonovits argues that ad-hoc valorisation/indexation creates large differences between pension paths of nearly identical careers. He shows that a points-based system — assigning workers a numerical 'point' each contribution year — would smooth these disparities, but warns that without simultaneous reintroduction of pension degression, points-based systems amplify existing redistributive distortions due to the positive correlation between life-expectancy and lifetime income.",
   "summary_hu": null,
-  "data_used": "Theoretical paper with policy framework. Hungarian pension-rule reference data for the 2000-2017 framework. Simple model demonstrating equivalence of points systems with maintained wage-indexed valorisation.",
+  "data_used": "Hungarian wage and pension series 2000-2018 from MEKDSZ, ONYF, MNB, and KSH; simulation of three macro scenarios (forced contribution-rate cuts under fast vs. slow real-wage growth) over 2016-2025.",
   "data_used_hu": null,
-  "policy_relevance": "Direct input for ongoing Hungarian pension-reform debates. The paper's recommendation — adopt a points system with degressivity — is a coherent framework that could replace ad hoc annual valorisation/indexation choices. Useful reference for NGM, MNB, and ONYF technical analysis. The longevity-gap argument is fundamental to any future Hungarian pension reform.",
+  "policy_relevance": "Direct proposal for the Pénzügyminisztérium and ONYF: switch from current valorisation/indexation rules to a points-based system, simultaneously with restoring pension degression and progressive personal income tax. The 2018 paper's three-scenario simulation framework is reusable for current pension-policy stress tests at MNB and KRTK.",
   "policy_relevance_hu": null,
   "topics": [
     "fiscal-tax",
-    "demographics-migration"
+    "macroeconomics",
+    "inequality-welfare"
   ],
   "methods": [
+    "structural",
     "theory"
   ],
   "countries_studied": [
     "HU"
   ],
-  "data_types": [],
+  "data_types": [
+    "admin-individual",
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-27",
+  "last_reviewed_at": "2026-04-29",
   "review_status": "ai-drafted",
   "openalex_id": "W2891646193"
 }

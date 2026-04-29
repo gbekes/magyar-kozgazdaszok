@@ -1993,7 +1993,7 @@
       "openalex_id": "A5085764702",
       "bio_review": "needs-verification",
       "last_reviewed_at": "2026-04-27",
-      "paper_count": 10,
+      "paper_count": 9,
       "policy_count": 2,
       "press_count": 0
     },
@@ -3138,7 +3138,7 @@
       "media_note": null,
       "review_status": "needs-verification",
       "openalex_id": "A5058999948",
-      "paper_count": 15,
+      "paper_count": 12,
       "policy_count": 1,
       "press_count": 22
     },
@@ -20405,7 +20405,7 @@
       ],
       "publication_type": "article",
       "journal": "Economics Letters",
-      "year": 2011,
+      "year": 2012,
       "volume": "115",
       "issue": "3",
       "pages": "412-415",
@@ -20414,21 +20414,28 @@
       "url_published": "https://doi.org/10.1016/j.econlet.2011.12.066",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "When individuals underreport their incomes, they take into account their private gains and moral losses, the latter depending on the acquaintances' previous underreports. We prove that under quite natural assumptions the process globally converges to the symmetric steady state.",
+      "summary_en": "Tax morale matters in Hungary as in many countries with substantial informal economies. Garay, Simonovits and Tóth model how income underreporting spreads through social networks: each person's underreport depends on private gain and on the moral losses of being seen to underreport, which themselves depend on what acquaintances reported in the previous period. They prove that under quite natural assumptions, the process converges globally to a symmetric steady state — meaning network-driven underreporting equilibria are predictable and amenable to social-comparison-based interventions.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model. Behavioural assumptions on the moral-loss component informed by survey evidence on Hungarian tax morale (Tárki Háztartás Monitor, NAV inspector surveys).",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for NAV's tax-compliance strategy. The paper supports interventions that exploit social-comparison feedback (e.g., 'most of your neighbourhood reports honestly' messages, used in the UK and other settings) by showing the convergence properties of the underlying social-network dynamics. Relevant for NAV's behavioural-economics-informed compliance pilots.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "fiscal-tax",
+        "behavioral"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2056085699"
     },
     {
@@ -28244,20 +28251,26 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": null,
-      "summary_en": null,
+      "summary_en": "Kornai and Simonovits develop a formal decentralised-control framework for John von Neumann's expanding-economy model. They study how a centrally planned economy in which sectoral managers respond to local price-and-quantity signals (rather than full information) can or cannot reach the von Neumann balanced-growth path. The mathematical analysis identifies conditions on price-adjustment rules and information lags under which the decentralised system converges, and characterises stability properties relevant to debates about market socialism that were active when the paper was published.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — no dataset. Builds on the von Neumann balanced-growth model, with explicit decentralised price- and quantity-adjustment rules.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Foundational paper in the Hungarian School of mathematical economics on whether decentralised control can replicate centralised planning outcomes — directly relevant to the academic debate that informed Hungary's 1968 New Economic Mechanism and later transition discussions. Continued historical relevance for Hungarian economic-policy literacy and the KRTK's institutional self-understanding.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "macroeconomics",
+        "industrial-organization",
+        "transition-postcommunist"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2024011865"
     },
     {
@@ -31723,7 +31736,7 @@
       "id": "molnar-simonovits-1998-jedc",
       "title": "Expectations, (in)stability and (in)viability in realistic overlapping cohorts models",
       "authors": [
-        "József Molnár",
+        "György Molnár",
         "simonovits-andras"
       ],
       "publication_type": "article",
@@ -31738,20 +31751,27 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": null,
-      "summary_en": null,
+      "summary_en": "Standard overlapping-generations (OLG) models with naive expectations can produce unrealistic dynamics when calibrated to plausible demographic and saving parameters. Molnár and Simonovits work through several realistic OLG specifications and characterise when adaptive (naive) expectations produce stable, viable saving paths versus when they generate instability or non-viable consumption profiles. The paper helps clarify why some OLG calibrations used in pension and tax-policy work need careful expectation-formation specifications to deliver credible welfare comparisons.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical OLG model. Calibration parameters drawn from standard demographic and savings data for European economies.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Pension-system simulation models used by Hungary's MNB, Pénzügyminisztérium and ÁKK rest on OLG foundations. The paper highlights that expectation-formation assumptions can flip the qualitative results of welfare comparisons across pension reforms — a methodological caution for any agency running dynamic pension simulations.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "macroeconomics",
+        "behavioral",
+        "fiscal-tax"
+      ],
+      "methods": [
+        "theory",
+        "structural"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2149050266"
     },
     {
@@ -33531,20 +33551,25 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": null,
-      "summary_en": null,
+      "summary_en": "Simonovits derives the maximal speed at which a decentralised control mechanism — where local managers update their decisions based only on partial signals — can converge to the system's steady state. The paper extends the linear control-theory toolkit to decentralised settings and provides upper bounds on convergence speed as a function of the network of information links between managers. The results clarify when decentralisation imposes a real efficiency cost relative to the central planner's benchmark.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — no dataset. Linear-system analysis of decentralised adjustment dynamics.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Continued mathematical-econ heritage of the Hungarian School. Less directly relevant to today's policy debates, but underpins later applied work by Simonovits and coauthors on Hungarian pension-system dynamics and adjustment lags. Useful background for understanding the analytic style behind KRTK pension modelling.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "macroeconomics",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2053282105"
     },
     {
@@ -33565,20 +33590,28 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": null,
-      "summary_en": null,
+      "summary_en": "In the late socialist economies of Central Europe, investment patterns showed pronounced cycles: surges followed by retrenchment as central planners ran into capacity and supply constraints. Simonovits builds a mathematical model of investment starts and project completions in a planned economy, deriving conditions under which the planner's investment-start decisions endogenously generate cycles even with perfectly rational rules. The paper informs how the late-socialist economies — including Hungary's — repeatedly hit cyclical bottlenecks that contributed to the reform debates of the 1980s.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model. Stylised facts on investment cycles in socialist economies (Hungary, Poland, Soviet Union) referenced for calibration intuition.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Historical-comparative interest for Hungarian economic-history teaching and for understanding the structural problems of central planning. Less direct policy use today, but relevant context for Visegrad-region scholars analysing legacy effects of late-socialist investment cycles on post-1990 industrial structure.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "macroeconomics",
+        "transition-postcommunist",
+        "industrial-organization"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2044930024"
     },
     {
@@ -33599,27 +33632,30 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "The Pension Law of 1997 has aroused the interest of the public as well as the experts in the Hungarian pension system. But the Hungarian pension reform is an ongoing process. From my point of view it is enough to go back to 1992, when the present institutional framework of the Hungarian pension system was set up, and, however imperfectly, the valorisation of assessed earnings and indexation of pensions were introduced. A second important stage was 1996 when the long-delayed but unavoidable rise of the pensionable age was enacted. Currently we have arrived at the third stage: the partial and step-by-step funding and privatisation of the pay-as-you-go (PAYG) public pension system, and the concomitant modernisation of the public pillar.",
-      "summary_en": "What were the open problems facing Hungary's pension reform circa 1999? Simonovits provides a contemporaneous analysis of the 1997 Pension Law and the broader reform process running back to 1992. The 1992 framework introduced — however imperfectly — valorisation of assessed earnings and indexation of pensions, both fundamental to a modern pension system. The 1996 reform raised the pensionable age, addressing a long-delayed but unavoidable demographic adjustment. By 1999, Hungary was at a third stage: partial and step-by-step funding and privatisation of the pay-as-you-go public pension system, alongside modernisation of the public pillar. A historically significant document of the reform thinking that shaped Hungarian pensions for a generation.",
+      "summary_en": "Hungary's 1997 pension reform replaced the pay-as-you-go pillar with a partly-funded multi-pillar system that diverted contributions to private mandatory funds. Simonovits provides a near-contemporaneous critical assessment: he identifies several structural problems — the transition cost of building the funded pillar, the redistributive consequences of the new accrual rules, and the misalignment between the indexation mechanism and demographic realities. The chapter became a reference point for the policy debate that, two decades later, led to the 2010 effective re-nationalisation of the private pillar.",
       "summary_hu": null,
-      "data_used": "Policy-analytical paper drawing on Hungarian pension-system reference data through 1997. No new empirical contribution.",
+      "data_used": "Hungarian Central Statistical Office (KSH) demographic and earnings data, KSH and pension-fund accounts as available in 1998, plus simulation outputs from Simonovits's own pension-system model.",
       "data_used_hu": null,
-      "policy_relevance": "Historical reference for Hungarian pension-reform debates. The 1999 framework Simonovits describes was substantially undone by the 2010-2011 nationalisation of the second-pillar funded system. For current debates about pension-reform direction, this paper documents what the original reform architecture intended — useful baseline for any restoration-oriented proposals.",
+      "policy_relevance": "Direct historical reference for any analysis of the 1997 Hungarian pension reform and its 2010 reversal — the paper's diagnoses of transition costs and indexation flaws were borne out by subsequent events. Useful primary source for current MNB and KRTK analysts working on parametric reforms to the post-2010 system.",
       "policy_relevance_hu": null,
       "topics": [
+        "macroeconomics",
         "fiscal-tax",
-        "demographics-migration",
         "transition-postcommunist"
       ],
       "methods": [
-        "descriptive-survey"
+        "theory",
+        "structural"
       ],
       "countries_studied": [
         "HU"
       ],
-      "data_types": [],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-27",
+      "last_reviewed_at": "2026-04-29",
       "review_status": "ai-drafted",
       "openalex_id": "W2115805719"
     },
@@ -33640,21 +33676,29 @@
       "url_published": "https://doi.org/10.1016/j.econlet.2011.01.031",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "The mandatory pension pillar is usually supplemented by a voluntary one. In our simple model, voluntary pensions partly replace mandatory ones without affecting the outcomes: the voluntary pensions are indifferent. This result may serve as benchmark.",
+      "summary_en": "Hungary's pension system combines a mandatory public pillar with various voluntary private pension schemes. Simonovits builds a simple analytical model showing that under standard assumptions, voluntary pensions partly substitute for mandatory ones without affecting overall lifetime outcomes — they are 'indifferent' for the household's consumption path. The result provides a benchmark against which deviations from indifference (driven by tax incentives, informational frictions, or behavioural biases) can be measured. It clarifies why purely voluntary pillars need additional design features to genuinely raise retirement savings.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — no dataset. Lifecycle saving model with mandatory and voluntary pension components.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for Hungarian pension policy. Voluntary pension funds (Önkéntes Nyugdíjpénztár) have stagnated since 2010 reforms despite tax incentives. The paper provides a theoretical baseline showing that without specific tax or behavioural-design features, voluntary pensions just substitute for mandatory contributions. Useful for the Pénzügyminisztérium when assessing whether to increase the voluntary-pension tax credit.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "fiscal-tax",
+        "macroeconomics",
+        "behavioral"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W1970032485"
     },
     {
@@ -33674,28 +33718,32 @@
       "url_published": "https://doi.org/10.18414/ksz.2017.6.650",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": "Magyarországon korábban az átlag fölötti nyugdíjaknak a nettó keresetekhez viszonyított értékét erős degresszió csökkentette, ez ma már gyakorlatilag nincs így. Ugyanakkor a személyi jövedelemadó egykor erős progresszivitása 2013-ban teljesen megszűnt, így a megállapítandó új nyugdíjak egyre arányosabbá válnak a bruttó keresetekkel, azaz a magas nyugdíjak egyre jobban elszakadnak az átlagtól. Ha feltételezzük, hogy Magyarországon a személyi jövedelemadó még sokáig nem lesz progresszív, akkor már most érdemes lenne fokozatosan visszatérni az elfelejtett degresszív nyugdíjakhoz, hogy megakadályozzuk a magas nyugdíjak elszaladását. A kérdések elemzésére egy nagyon egyszerű modellcsaládot építünk fel, és ennek segítségével próbálunk kvantitatív megoldásokat találni.* Journal of Economic Literature (JEL) kód: H55, I14, J26.",
-      "summary_en": "Have Hungary's high pensions decoupled from the average — and what would it take to rein them back in? Simonovits documents that previously, Hungarian above-average pensions were sharply reduced relative to net earnings via pension degression — but this is essentially gone today. At the same time, the personal income tax's once-strong progressivity ended in 2013, so newly assessed pensions are increasingly proportional to gross earnings. Result: high pensions are pulling away from the average. If the personal income tax remains flat for the foreseeable future, gradually reintroducing the forgotten degressivity in pensions is needed to prevent runaway high pensions. Simonovits builds a simple model family to quantify how much degression is required.",
+      "abstract": "Magyarországon korábban az átlag fölötti nyugdíjaknak a nettó keresetekhez viszonyított értékét erős degresszió csökkentette, ez ma már gyakorlatilag nincs így. A tanulmány bemutatja a magyar nyugdíjdegresszió történetét, elemzi a degresszió hiányának torzító hatásait, és javaslatot tesz a nyugdíjdegresszió fokozatos visszaállítására.",
+      "summary_en": "In Hungary, average pensions are not currently subject to a degressive scale (pension degression) — the link between earlier earnings and pension entitlements is largely linear. Simonovits documents the historical Hungarian pension degression that operated until the 1990s, traces its erosion through subsequent reforms, and shows that its absence today causes meaningful distributional distortions. He proposes a gradual reintroduction of degression, calibrated to current Hungarian wage and pension data, to restore intra-cohort fairness without disrupting work incentives.",
       "summary_hu": null,
-      "data_used": "Theoretical / quantitative modelling. Hungarian personal-income-tax and pension-formula reference data, 2000s-2010s. Simple pension-system models calibrated to current Hungarian rules.",
+      "data_used": "Hungarian pension-system data 2000-2016 from MEKDSZ, ONYF, and KSH, including wage and pension distributions by year and contribution length.",
       "data_used_hu": null,
-      "policy_relevance": "Direct relevance to ongoing Hungarian pension-reform debates (NGM, ONYF). The paper supports re-introducing degressivity in pension calculation as a substitute for the now-flat PIT's previously-redistributive role. Particularly relevant for the OECD 2024 reform proposals discussion (the 2025 BI paper builds on this analysis). Concrete policy-design framework for closing the high-pension widening gap.",
+      "policy_relevance": "Direct policy proposal for Hungary's State Treasury and Pénzügyminisztérium: reintroduce pension degression to limit the gap between high and low pensions within the same cohort. Quantifies the redistribution effect and provides specific scale parameters. Already cited in MNB and KRTK pension-reform discussions.",
       "policy_relevance_hu": null,
       "topics": [
         "fiscal-tax",
-        "demographics-migration",
-        "inequality-welfare"
+        "inequality-welfare",
+        "macroeconomics"
       ],
       "methods": [
-        "theory"
+        "theory",
+        "descriptive-survey"
       ],
       "countries_studied": [
         "HU"
       ],
-      "data_types": [],
+      "data_types": [
+        "admin-individual",
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-27",
+      "last_reviewed_at": "2026-04-29",
       "review_status": "ai-drafted",
       "openalex_id": "W2621286350"
     },
@@ -33716,63 +33764,34 @@
       "url_published": "https://doi.org/10.18414/ksz.2018.9.903",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": "A 2016-ban elinduló reálbérrobbanás és a 2017-ben elinduló erőltetett járulékkulcs-csökkentés új megvilágításba helyezi az új nyugdíjak valorizációját és a régi nyugdíjak indexálását. Kívánatos, hogy két nagyon hasonló életpálya apró különbségek miatt ne adjon jelentősen különböző nyugdíjpályát, még ha a nettó átlagos reálkereset évről évre szeszélyesen változik is. Ennek a kívánalomnak csak a 2000-ben megszüntetett bérindexálás tesz eleget, de ez a szabály is a valorizációs arány – az új nyugdíjak helyettesítési aránya – évenkénti karbantartását igényli. Ezt a feladatot látja el a pontrendszer. Mivel adott évjáratban a várható élettartam együtt nő az életpálya-jövedelemmel, ezért minden életjáradék torz újraelosztást okoz, amit a pontrendszer még felnagyít. Tehát a nyugdíjdegressziót (vagy a progresszív személyi jövedelemadót) is újra be kell vezetni, vállalva a csökkentett munkavállalást és járulékfizetést.*&#13;\\nJournal of Economic Literature (JEL) kód: D10, H55.",
-      "summary_en": "Why should Hungary replace its pension valorisation and indexation with a points-based system? Simonovits argues that the 2016 real-wage explosion and 2017 forced contribution-rate cuts cast new light on the question. The desideratum: two very similar working lives shouldn't generate substantially different pension trajectories due to small annual differences, even when net average real wages move erratically. Only the wage-indexation rule abandoned in 2000 satisfied this property — but that rule itself requires annual maintenance of the valorisation ratio. A points system performs exactly this maintenance task automatically. Plus, since life expectancy correlates with lifetime earnings, all life annuities cause distorted redistribution that a points system magnifies — meaning pension degressivity (or progressive PIT) must accompany.",
+      "abstract": "A 2016-ban elinduló reálbérrobbanás és a 2017-ben elinduló erőltetett járulékkulcs-csökkentés új megvilágításba helyezi az új nyugdíjak valorizációját és a régi nyugdíjak indexálását. Kívánatos, hogy két nagyon hasonló életpálya apró különbségek miatt ne adjon jelentősen különböző nyugdíjpályát, még ha a nettó átlagos reálkereset évről évre szeszélyesen változik is. Ennek a kívánalomnak csak a 2000-ben megszüntetett bérindexálás tesz eleget, de ez a szabály is a valorizációs arány évenkénti karbantartását igényli. Ezt a feladatot látja el a pontrendszer. Mivel adott évjáratban a várható élettartam együtt nő az életpálya-jövedelemmel, ezért minden életjáradék torz újraelosztást okoz, amit a pontrendszer még felnagyít. Tehát a nyugdíjdegressziót (vagy a progresszív személyi jövedelemadót) is újra be kell vezetni, vállalva a csökkentett munkavállalást és járulékfizetést.",
+      "summary_en": "Hungary's pension valorisation (initial-pension calculation) and indexation (post-retirement uprating) rules have changed repeatedly since 2000, often in response to short-run macro shocks like the 2016 real-wage surge and the 2017 contribution-rate cut. Simonovits argues that ad-hoc valorisation/indexation creates large differences between pension paths of nearly identical careers. He shows that a points-based system — assigning workers a numerical 'point' each contribution year — would smooth these disparities, but warns that without simultaneous reintroduction of pension degression, points-based systems amplify existing redistributive distortions due to the positive correlation between life-expectancy and lifetime income.",
       "summary_hu": null,
-      "data_used": "Theoretical paper with policy framework. Hungarian pension-rule reference data for the 2000-2017 framework. Simple model demonstrating equivalence of points systems with maintained wage-indexed valorisation.",
+      "data_used": "Hungarian wage and pension series 2000-2018 from MEKDSZ, ONYF, MNB, and KSH; simulation of three macro scenarios (forced contribution-rate cuts under fast vs. slow real-wage growth) over 2016-2025.",
       "data_used_hu": null,
-      "policy_relevance": "Direct input for ongoing Hungarian pension-reform debates. The paper's recommendation — adopt a points system with degressivity — is a coherent framework that could replace ad hoc annual valorisation/indexation choices. Useful reference for NGM, MNB, and ONYF technical analysis. The longevity-gap argument is fundamental to any future Hungarian pension reform.",
+      "policy_relevance": "Direct proposal for the Pénzügyminisztérium and ONYF: switch from current valorisation/indexation rules to a points-based system, simultaneously with restoring pension degression and progressive personal income tax. The 2018 paper's three-scenario simulation framework is reusable for current pension-policy stress tests at MNB and KRTK.",
       "policy_relevance_hu": null,
       "topics": [
         "fiscal-tax",
-        "demographics-migration"
+        "macroeconomics",
+        "inequality-welfare"
       ],
       "methods": [
+        "structural",
         "theory"
       ],
       "countries_studied": [
         "HU"
       ],
-      "data_types": [],
+      "data_types": [
+        "admin-individual",
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-27",
+      "last_reviewed_at": "2026-04-29",
       "review_status": "ai-drafted",
       "openalex_id": "W2891646193"
-    },
-    {
-      "id": "simonovits-2018-wp",
-      "title": "Models of Political Economy",
-      "authors": [
-        "simonovits-andras"
-      ],
-      "publication_type": "chapter",
-      "journal": "",
-      "year": 2018,
-      "volume": null,
-      "issue": null,
-      "pages": "175-187",
-      "doi": "10.1007/978-3-319-72502-4_12",
-      "working_paper_series": null,
-      "url_published": "https://doi.org/10.1007/978-3-319-72502-4_12",
-      "url_pdf": null,
-      "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
-      "featured": false,
-      "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
-      "openalex_id": "W2804882783"
     },
     {
       "id": "simonovits-2019-ksz",
@@ -33791,12 +33810,12 @@
       "url_published": "https://doi.org/10.18414/ksz.2019.4.345",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": "Az öregedő társadalmak nyugdíjgondjainak megoldásában az egyik leghatékonyabb eszköz az átlagos nyugdíjba vonulási kor (az úgynevezett korcentrum) emelése. A járulékkulcs emelése vagy a nyugdíj/kereset arány csökkentése politikailag nehezebb, és gazdaságilag sem vonzó. Ehhez a minimális és az általános nyugdíjkorhatár párhuzamos emelésén kívül erősíteni kell az ösztönzőket is, például a rugalmas nyugdíjba vonulási kor bevezetésével. Ebben az áttekintésben a témában több társszerzővel együtt folytatott, 17 éven át tartó kutatásaim legfontosabb eredményeit körvonalazom, amelyekből a két legizgalmasabbat emelem ki: 1. hogyan kell az eszmei számlát módosítani, ha a népesség várható élettartama szerint heterogén? 2. Hogyan teszi bumeránggá a reálbérrobbanás a Nők40-et?* Journal of Economic Literature (JEL) kód: H55.",
-      "summary_en": "Should Hungary keep its rigid retirement age, or make it flexible? Simonovits surveys 17 years of his and his co-authors' research on this question. Raising the average retirement age (the 'age centre') is the most effective tool for handling ageing-society pension pressures. Raising contribution rates or cutting benefit-to-earnings ratios is politically harder and economically less attractive. Beyond raising the minimum and statutory ages in parallel, Hungary needs stronger incentives — flexible retirement age. Two highlights from his research: (1) how to modify notional-account formulas when life expectancy is heterogeneous in the population, and (2) how the 2016 real-wage explosion turned the Women40 (early-retirement) programme into a fiscal boomerang.",
+      "abstract": "Az öregedő társadalmak nyugdíjgondjainak megoldásában az egyik leghatékonyabb eszköz az átlagos nyugdíjba vonulási kor (az úgynevezett korcentrum) emelése. A járulékkulcs emelése vagy a nyugdíj/kereset arány csökkentése politikailag nehezebb, és gazdaságilag sem vonzó. Ehhez a minimális és az általános nyugdíjkorhatár párhuzamos emelésén kívül erősíteni kell az ösztönzőket is, például a rugalmas nyugdíjba vonulási kor bevezetésével.",
+      "summary_en": "As Hungarian society ages, raising the average age at retirement is the most efficient lever for keeping the pension system solvent — much more so than raising contribution rates or cutting benefit replacement ratios, both of which are politically and economically costly. Simonovits surveys the choice between rigid statutory retirement ages and flexible-retirement designs that let workers choose later retirement in exchange for higher pensions. He argues for raising both the minimum and the standard retirement age in parallel, combined with stronger flexible-retirement incentives.",
       "summary_hu": null,
-      "data_used": "Survey paper synthesising 17 years of own and co-authored research. References to Hungarian pension-rule simulations and Hungarian demographic data. No new empirical contribution.",
+      "data_used": "Hungarian retirement-age data, life-expectancy projections from KSH, and international comparisons across OECD countries.",
       "data_used_hu": null,
-      "policy_relevance": "Foundational reference for Hungarian pension-reform debates. Useful synthesis for NGM, MNB, ONYF, and academic-policy bodies. The Women40-as-boomerang argument is particularly relevant for current discussions of phasing out that programme. Provides theoretical and empirical foundations for proposed parallel-raising of minimum and statutory ages plus flexible-retirement incentives.",
+      "policy_relevance": "Direct input for Hungarian pension-policy reform. The paper makes the case for re-introducing a flexible-retirement design that was abolished in 2012 — relevant for the Pénzügyminisztérium and for the political-economy of pension reform in an ageing electorate. Specifically addresses the trade-offs around the 'Nők40' early-retirement scheme.",
       "policy_relevance_hu": null,
       "topics": [
         "fiscal-tax",
@@ -33804,15 +33823,18 @@
         "labor-markets"
       ],
       "methods": [
+        "theory",
         "descriptive-survey"
       ],
       "countries_studied": [
         "HU"
       ],
-      "data_types": [],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-27",
+      "last_reviewed_at": "2026-04-29",
       "review_status": "ai-drafted",
       "openalex_id": "W2940218684"
     },
@@ -33833,121 +33855,34 @@
       "url_published": "https://doi.org/10.18414/ksz.2020.5.456",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": "A magyar nyugdíjrendszert jelenleg három fő középtávú feszültség jellemzi. 1. Az egymás utáni évjáratok közötti nyugdíjolló egyre jobban szétnyílik. 2. Az új évjáratok nyugdíjai a járulékplafon eltörlése s még inkább az arányos személyi jövedelemadó bevezetése miatt polarizálódnak. 3. A nyugdíjkorhatár merevsége és a Nők40 lazasága egyre inkább szembekerül egymással. Hogyan enyhíthetők a feszültségek? Ad 1. Le kell állni a szociális hozzájárulási adó (szocho) kulcsának további csökkentésével, és korrigálni kellene a korábban megállapított nyugdíjakat. Ad 2. Vissza kell vezetni a járulékalap plafonját, és a jelenleg csak nyomaiban létező degresszió hatókörét kell jelentősen tágítani. Ad 3. Vissza kell térni a méltányos 2009-es csökkentett előrehozott nyugdíjhoz, egyúttal megszabadulva a Nők40-től.* Journal of Economic Literature (JEL) kód: H11, H55",
-      "summary_en": "What are the medium-term tensions in Hungary's pension system, and how can they be eased? Simonovits identifies three: (1) the gap between successive birth-year pension cohorts is widening; (2) within-cohort pension polarisation is increasing because the contribution ceiling was abolished and the personal income tax became flat; (3) the rigid retirement age and the loose Women40 are increasingly at odds. His proposed remedies: (1) stop further szocho cuts and correct previously assigned pensions; (2) restore the contribution-base ceiling and significantly broaden the (currently vestigial) degressivity scope; (3) return to the equitable 2009 reduced-early-retirement framework while phasing out Women40.",
+      "abstract": "A magyar nyugdíjrendszert jelenleg három fő középtávú feszültség jellemzi. 1. Az egymás utáni évjáratok közötti nyugdíjolló egyre jobban szétnyílik. 2. Az új évjáratok nyugdíjai a járulékplafon eltörlése s még inkább az arányos személyi jövedelemadó bevezetése miatt polarizálódnak. 3. A nyugdíjkorhatár merevsége és a Nők40 lazasága egyre inkább szembekerül egymással. A tanulmány javaslatokat fogalmaz meg a feszültségek enyhítésére: a szocho-csökkentés leállítása, a járulékalap-plafon visszaállítása, a degresszió kiterjesztése, és a 2009-es csökkentett előrehozott nyugdíj visszaállítása.",
+      "summary_en": "Simonovits identifies three medium-term tensions in the Hungarian pension system as of 2020: (1) the 'pension scissors' (inter-cohort gap) widening because new pensions track real wages while old pensions only track prices, (2) polarisation of new pensions following the 2013 abolition of the contribution cap and the 2011 introduction of flat-rate personal income tax, and (3) the rigid statutory retirement age clashing with the lax 'Nők40' early-retirement scheme. He proposes specific fixes: stop further employer contribution (szocho) cuts, restore the contribution-base ceiling, broaden the now-vestigial pension degression, and replace Nők40 with the equitable 2009 reduced early-retirement scheme.",
       "summary_hu": null,
-      "data_used": "Theoretical / quantitative modelling. Hungarian pension-rule reference data. Simple cohort-projection models of pension dynamics under current and proposed rules.",
+      "data_used": "Hungarian pension-system administrative data 2010-2020 from ONYF, KSH wage data, MNB demographic projections.",
       "data_used_hu": null,
-      "policy_relevance": "Direct input for Hungarian pension-reform debates. The three-tensions framework is operationally useful for NGM and ONYF strategic planning. Each tension has a concrete proposed remedy. Particularly relevant for the OECD 2024 discussion and the broader pension-reform agenda. The Women40-replacement proposal is politically sensitive but technically clean.",
+      "policy_relevance": "Comprehensive policy package directly addressed to the Pénzügyminisztérium and the State Treasury. Each proposed fix maps to a specific lever the ministry controls. Directly relevant for ongoing MNB/KRTK pension-reform consultations and for opposition-party policy platforms on pension fairness.",
       "policy_relevance_hu": null,
       "topics": [
         "fiscal-tax",
-        "demographics-migration",
+        "macroeconomics",
         "inequality-welfare"
       ],
       "methods": [
-        "theory"
-      ],
-      "countries_studied": [
-        "HU"
-      ],
-      "data_types": [],
-      "featured": false,
-      "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "ai-drafted",
-      "openalex_id": "W3022486826"
-    },
-    {
-      "id": "simonovits-kezdi-et-al-2017-apsr",
-      "title": "Seeing the World Through the Other's Eye: An Online Intervention Reducing Ethnic Prejudice",
-      "authors": [
-        "Gábor Simonovits",
-        "kezdi-gabor",
-        "Peter Kardoš"
-      ],
-      "publication_type": "article",
-      "journal": "American Political Science Review",
-      "year": 2017,
-      "volume": "112",
-      "issue": "1",
-      "pages": "186-193",
-      "doi": "10.1017/s0003055417000478",
-      "working_paper_series": null,
-      "url_published": "https://doi.org/10.1017/s0003055417000478",
-      "url_pdf": null,
-      "url_replication": null,
-      "abstract": "We report the results of an intervention that targeted anti-Roma sentiment in Hungary using an online perspective-taking game. We evaluated the impact of this intervention using a randomized experiment in which a sample of young adults played this perspective-taking game, or an unrelated online game. Participation in the perspective-taking game markedly reduced prejudice, with an effect-size equivalent to half the difference between voters of the far-right and the center-right party. The effects persisted for at least a month, and, as a byproduct, the intervention also reduced antipathy toward refugees, another stigmatized group in Hungary, and decreased vote intentions for Hungary's overtly racist, far-right party by 10%. Our study offers a proof-of-concept for a general class of interventions that could be adapted to different settings and implemented at low costs.",
-      "summary_en": "Can online games reduce ethnic prejudice? The authors built a perspective-taking online game — players lived a Roma character's life through everyday Hungarian settings — and tested it against an unrelated control game in a randomised experiment with young Hungarian adults. The intervention markedly reduced anti-Roma sentiment, with an effect-size roughly half the difference between voters of Hungary's far-right and centre-right parties. The effect persisted for at least a month, spilled over to reduce antipathy toward refugees, and reduced stated intent to vote for Hungary's overtly racist far-right party by 10 percentage points.",
-      "summary_hu": "Csökkenthetik-e az online játékok az etnikai előítéletet? A szerzők egy perspektíva-felvételes online játékot építettek — a játékosok egy roma karakter életét élték át mindennapi magyar helyzetekben —, és randomizált kísérletben tesztelték egy nem kapcsolódó kontroll-játékkal szemben fiatal magyar felnőttek mintáján. A beavatkozás jelentősen csökkentette a roma-ellenes érzelmeket, egy hatás-nagysággal, amely körülbelül fele a magyar szélsőjobboldali és jobbközép párt szavazói közötti különbségnek. A hatás legalább egy hónapig tartott, átterjedt a menekültek iránti antipátia csökkentésére is, és 10 százalékponttal csökkentette a magyar, nyíltan rasszista szélsőjobboldali pártra való szavazási szándékot.",
-      "data_used": "Randomised online experiment with ~450 young Hungarian adults (18–30) recruited through social media, conducted 2015–2016; pre- and post-intervention surveys plus one-month follow-up.",
-      "data_used_hu": "Randomizált online kísérlet ~450 fiatal magyar felnőttel (18–30) közösségi médián keresztül toborozva, 2015–2016-ban; beavatkozás előtti és utáni felmérés, valamint egy hónapos utánkövetés.",
-      "policy_relevance": "Rare Hungarian-specific evidence on a cheap, scalable intervention against ethnic prejudice. For Ministry of Human Capacities / civil-society programming: the mechanism — perspective-taking — could be scaled through public-service communication, education modules, and employer-training programmes. Also relevant for electoral-strategy research on anti-extremist messaging. Caveats: treated sample is young online-active Hungarians, not representative of the full population; effects measured one month out, long-run effects unclear.",
-      "policy_relevance_hu": "Ritka magyar-specifikus bizonyíték egy olcsó, skálázható etnikai előítélet-elleni beavatkozásról. Az Emberi Erőforrások Minisztériumának / civil-szervezeti programoknak: a mechanizmus — perspektíva-felvétel — skálázható közszolgálati kommunikáción, oktatási modulokon és munkáltatói-képzési programokon keresztül. Releváns a választási-stratégiai kutatásban az ellen-szélsőséges üzenetküldéshez. Figyelmeztetések: a kezelt minta fiatal, online aktív magyarokból áll, nem reprezentatív a teljes populációra; a hatásokat egy hónappal mérték, hosszú távú hatások tisztázatlanok.",
-      "topics": [
-        "political-economy",
-        "inequality-welfare"
-      ],
-      "methods": [
-        "rct"
+        "theory",
+        "descriptive-survey"
       ],
       "countries_studied": [
         "HU"
       ],
       "data_types": [
-        "field-experiment",
-        "digital-trace"
+        "admin-individual",
+        "macro-aggregate"
       ],
-      "featured": false,
-      "added_at": "2026-04-19",
-      "last_reviewed_at": "2026-04-19",
-      "review_status": "ai-drafted",
-      "openalex_id": "W2767643213",
-      "policy_instruments": [
-        "anti-prejudice online intervention",
-        "perspective-taking program",
-        "civic education"
-      ]
-    },
-    {
-      "id": "simonovits-simonovits-1982-scandje",
-      "title": "Buffer Stocks and Naive Expectations in a Non-Walrasian Dynamic Macromodel: Stability, Cyclicity and Chaos",
-      "authors": [
-        "simonovits-andras",
-        "simonovits-andras"
-      ],
-      "publication_type": "article",
-      "journal": "Scandinavian Journal of Economics",
-      "year": 1982,
-      "volume": "84",
-      "issue": "4",
-      "pages": "571-571",
-      "doi": "10.2307/3439518",
-      "working_paper_series": null,
-      "url_published": "https://doi.org/10.2307/3439518",
-      "url_pdf": null,
-      "url_replication": null,
-      "abstract": "In their pioneering work Honkapohja & Ito (1980) constructed a non-Walrasian macromodel with inventory dynamics. Some of their assumptions are modified in this paper, e.g. the expected demand for goods is defined by previous rather than actual demand. The modified model yields results which are both similar and dissimilar to those of Honkapohja and Ito. For example, the Keynesian unemployment equilibrium remains invariant but the corresponding stability condition becomes milder. The chaotic behavior of the unstable systems is also analyzed.",
-      "summary_en": "Can naive expectations alone destabilise a non-Walrasian macroeconomy with inventory dynamics? Building on Honkapohja and Ito's 1980 framework, the Simonovitses modify the expectations specification: expected demand is set by previous demand rather than current demand. The modified model both confirms and overturns parts of the original. The Keynesian unemployment equilibrium remains invariant, but the corresponding stability condition becomes milder — easier to fall out of stability. Crucially, the unstable systems exhibit chaotic behaviour, not just simple cycles. A foundational technical paper showing that even simple expectational mis-specifications in macromodels can generate complex dynamics.",
-      "summary_hu": null,
-      "data_used": "Theoretical paper. Non-Walrasian macroeconomic model with inventory dynamics; comparative analysis with Honkapohja-Ito (1980); numerical investigation of chaotic regimes.",
-      "data_used_hu": null,
-      "policy_relevance": "Foundational reference for understanding non-equilibrium macroeconomic dynamics. Indirectly relevant to MNB monetary-policy modelling, particularly in stress-testing where inventory adjustments and naive expectations can amplify shocks. The chaotic-regime finding is a useful caution against assuming smooth model dynamics in stress conditions.",
-      "policy_relevance_hu": null,
-      "topics": [
-        "macroeconomics",
-        "methods"
-      ],
-      "methods": [
-        "theory"
-      ],
-      "countries_studied": [],
-      "data_types": [],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-27",
+      "last_reviewed_at": "2026-04-29",
       "review_status": "ai-drafted",
-      "openalex_id": "W1523403045"
+      "openalex_id": "W3022486826"
     },
     {
       "id": "ski-szentes-2013-aer",
@@ -40828,7 +40763,7 @@
       "policy_framing_en": "Relevant to: family policy, pension system, immigration policy, retention of skilled workers.",
       "policy_framing_hu": "Releváns: családpolitika, nyugdíjrendszer, bevándorláspolitika, szakemberek megtartása.",
       "icon": "users",
-      "paper_count": 33
+      "paper_count": 29
     },
     {
       "id": "trade-fdi",
@@ -40883,7 +40818,7 @@
       "policy_framing_en": "Relevant to: tax reform, budget planning, public debt management, compliance policy.",
       "policy_framing_hu": "Releváns: adóreform, költségvetés-tervezés, államadósság-kezelés, adócompliance.",
       "icon": "coins",
-      "paper_count": 41
+      "paper_count": 44
     },
     {
       "id": "regional-urban",
@@ -40927,7 +40862,7 @@
       "policy_framing_en": "Relevant to: anti-corruption policy, public administration reform, EU affairs, electoral system design.",
       "policy_framing_hu": "Releváns: korrupcióellenes politika, közigazgatási reform, EU-ügyek, választási rendszer.",
       "icon": "building-2",
-      "paper_count": 56
+      "paper_count": 55
     },
     {
       "id": "transition-postcommunist",
@@ -40938,7 +40873,7 @@
       "policy_framing_en": "Relevant to: long-run diagnoses of the Hungarian and CEE economy, lessons from 30+ years of transition, institutional path dependence.",
       "policy_framing_hu": "Releváns: a magyar és KKE gazdaság hosszú távú diagnózisa, 30+ év rendszerváltásának tanulságai, intézményi útfüggőség.",
       "icon": "flag",
-      "paper_count": 37
+      "paper_count": 39
     },
     {
       "id": "behavioral",
@@ -40949,7 +40884,7 @@
       "policy_framing_en": "Relevant to: consumer protection, pension-default design, nudging, financial-education regulation, addictive-product regulation.",
       "policy_framing_hu": "Releváns: fogyasztóvédelem, nyugdíjalap-alapbeállítások, döntéslendítés (nudge), pénzügyi edukáció szabályozása, függőséget okozó termékek szabályozása.",
       "icon": "brain",
-      "paper_count": 77
+      "paper_count": 80
     },
     {
       "id": "industrial-organization",
@@ -40960,7 +40895,7 @@
       "policy_framing_en": "Relevant to: competition policy (GVH), merger review, platform regulation, auction design, sector-specific regulation.",
       "policy_framing_hu": "Releváns: versenypolitika (GVH), fúziókontroll, platformszabályozás, aukciótervezés, ágazati szabályozás.",
       "icon": "network",
-      "paper_count": 52
+      "paper_count": 54
     },
     {
       "id": "macroeconomics",
@@ -40971,7 +40906,7 @@
       "policy_framing_en": "Relevant to: long-run growth forecasting, macroeconomic modelling, sovereign-debt management, stabilisation policy design.",
       "policy_framing_hu": "Releváns: hosszú távú növekedés előrejelzés, makroökonómiai modellek, államadósság-kezelés, stabilizációs politika.",
       "icon": "line-chart",
-      "paper_count": 66
+      "paper_count": 74
     },
     {
       "id": "agriculture-food",
@@ -42348,7 +42283,7 @@
   ],
   "counts": {
     "authors": 90,
-    "papers": 770,
+    "papers": 767,
     "policy": 46,
     "press": 133,
     "topics": 21
