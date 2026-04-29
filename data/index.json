@@ -20871,21 +20871,31 @@
       "url_published": null,
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "We propose a synthesis of two lines of sociological research on boundary spanning in cultural production and consumption. One, research on cultural omnivorousness, analyzes choice by heterogeneous audiences facing an array of crisp cultural offerings. The other, research on categories in markets, analyzes reactions by homogeneous audiences to objects that vary in the degree to which they conform to categorical codes. We develop a model of heterogeneous audiences evaluating objects that vary in typicality. This allows consideration of orientations on two dimensions of cultural preference: variety and typicality. We propose a novel analytic framework to map consumption behavior in these two dimensions. We argue that one audience type, those who value variety and typicality, are especially resistant to objects that span boundaries. We test this argument by developing a typicality measure based on the topic distributions of films and books on the Internet Movie Database (IMDb) and Goodreads.",
+      "summary_en": "Sociologists studying cultural consumption have two long-standing strands: 'omnivorousness' (heterogeneous audiences sampling diverse but distinct genres) and 'category spanning' (homogeneous audiences punishing genre-blurring objects). Goldberg, Hannan and Kovács unify these by mapping consumers along two independent preference dimensions: variety and typicality. Using IMDb film ratings and Goodreads book ratings, they show that audiences who value both variety and typicality are particularly hostile to objects that span genre boundaries, while variety-loving but atypicality-tolerant audiences embrace the same objects.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "IMDb film ratings and Goodreads book ratings (millions of ratings, tens of thousands of items), with topic distributions estimated from text features used to construct continuous typicality measures.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Cultural and creative-industries policy in Hungary (NMHH, NKA grant programmes) often funds genre-blurring projects in the name of innovation. The paper provides a more nuanced view: cross-genre work succeeds with audiences who tolerate atypicality but is punished by audiences who value both variety and typicality. Useful for grant-evaluation criteria that balance artistic risk against audience reach.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "behavioral",
+        "industrial-organization"
+      ],
+      "methods": [
+        "panel-data",
+        "ml-text"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "digital-trace"
+      ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": null
     },
     {
@@ -24074,65 +24084,86 @@
       "publication_type": "article",
       "journal": "Organization Science",
       "year": 2018,
-      "volume": null,
-      "issue": null,
-      "pages": null,
-      "doi": null,
+      "volume": "29",
+      "issue": "1",
+      "pages": "172-190",
+      "doi": "10.1287/orsc.2017.1167",
       "working_paper_series": null,
-      "url_published": null,
+      "url_published": "https://doi.org/10.1287/orsc.2017.1167",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "When recreational cannabis dispensaries first entered the U.S. market in 2014, how did incumbent medical cannabis dispensaries react? Did they emphasize their distinct identity as medical providers, distancing themselves from recreational dispensaries and those consumers who consume cannabis recreationally? Or did they downplay their medical orientation to compete directly for potential resources? In this study, we propose that how incumbent organizations position their identities in response to increasing competition from an emerging rival form depends on key audiences' acceptance of the new form. Using data on the evolving cannabis markets in the states of Colorado and Washington during the year following the initial emergence of the recreational category, we find a sharpening of identity among medical dispensaries in communities with low voter support for recreational-use legalization. Medical dispensaries accentuated the medical orientation of their identities as recreational dispensaries increasingly set up operations and as buyers inclined more toward recreational use. In contrast, we find a blurring of medical/recreational identity in communities where voters demonstrated support for recreational-use legalization.",
+      "summary_en": "When recreational cannabis became legal in Colorado and Washington in 2014, incumbent medical-cannabis dispensaries faced a strategic dilemma: emphasise their distinct medical identity or blur with the new recreational segment. Using detailed dispensary-level data from the year following legalisation, Hsu, Koçak and Kovács show that the response varied with local audience attitudes. In communities where voters had supported recreational legalisation, medical dispensaries blurred their identity; in communities with low voter support, they sharpened it. Identity strategy depends on which audience the firm prioritises.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Dispensary-level identity claims (descriptions, marketing, product mix) for cannabis dispensaries in Colorado and Washington over the year following recreational-use legalisation in 2014, matched to county-level recreational-use ballot outcomes.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "When deregulation creates new firm types, regulators often assume incumbents will compete by lowering quality (race to the bottom) or by exiting. The paper shows incumbents instead reshape identity claims, with the direction depending on local public attitudes. Relevant for Hungarian regulators handling deregulation in pharmacy chains, alternative medicine, or other professional services where identity boundaries matter for licensing.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "industrial-organization",
+        "political-economy",
+        "health"
+      ],
+      "methods": [
+        "panel-data",
+        "diff-in-diff"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": null
     },
     {
       "id": "hsu-kovacs-kocak-2019-smj",
-      "title": "Identity Lost and Regained: Lessons from When Hipsters Get Aboard",
+      "title": "Experientially diverse customers and organizational adaptation in changing demand landscapes: A study of US cannabis markets, 2014–2016",
       "authors": [
         "Greta Hsu",
         "kovacs-balazs",
-        "Ozgecan Kocak"
+        "Özgecan Koçak"
       ],
       "publication_type": "article",
       "journal": "Strategic Management Journal",
       "year": 2019,
-      "volume": null,
-      "issue": null,
-      "pages": null,
-      "doi": null,
+      "volume": "40",
+      "issue": "13",
+      "pages": "2214-2241",
+      "doi": "10.1002/smj.3078",
       "working_paper_series": null,
-      "url_published": null,
+      "url_published": "https://doi.org/10.1002/smj.3078",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "In this study, we contribute to strategy and organizational theories of organizational adaptation by developing theory about the kinds of customers that facilitate an organization's ability to adapt to changing demand-side conditions. We propose that customers who have previously interacted with diverse types of organizations in the market convey informationally rich feedback that better enables organizations to understand and adapt to change—particularly in more rapidly changing contexts. We further expect that organizations that position themselves congruently with market preferences will be stronger market competitors. We test and find support for our arguments using a unique dataset of over 8,000 cannabis dispensaries operating in seven states that were listed on Weedmaps.com between July 2014 and June 2016.",
+      "summary_en": "When customer preferences are evolving rapidly, which customers help an organisation adapt fastest? Hsu, Kovács and Koçak argue that customers who have previously bought from a wide variety of competitors carry richer information about market trends than do narrow loyalists. Using data on over 8,000 US cannabis dispensaries listed on Weedmaps.com (July 2014 – June 2016), they show that dispensaries with experientially diverse customer bases adapt their product mix more quickly to changing market preferences and outperform competitors that lack such customers.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Online customer reviews and product-mix data for over 8,000 cannabis dispensaries operating across seven US states with legal medical or recreational cannabis markets, listed on Weedmaps.com between July 2014 and June 2016.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Industrial-policy programmes that subsidise small or local firms (Hungary's Széchenyi Kártya, IFKA) often emphasise serving a narrow loyal customer base. The paper suggests an alternative metric: firms whose customers also patronise diverse competitors learn faster and adapt better in changing markets. Useful diagnostic for SME support programmes during sectoral transitions (e.g., post-EU-accession retail, recent green transitions).",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "industrial-organization",
+        "firms-productivity"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "firm-level-dataset",
+        "digital-trace"
+      ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": null
     },
     {
@@ -28747,57 +28778,79 @@
       "url_published": null,
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "We present two studies that together test a fundamental yet rarely examined assumption underlying the contemporary appeal of authenticity—namely, that consumers assign higher value ratings to organizations regarded as authentic. Study 1 conducts content analysis of unsolicited online restaurant reviews entered voluntarily by consumers in three major U.S. metropolitan areas from October 2004 to October 2011. The data contain information from 1,271,796 reviews written by 252,359 unique reviewers of 18,869 restaurants. The findings show that consumers assign higher ratings to restaurants regarded as authentic, even after controlling for restaurant quality in several ways. In addition, we find that consumers perceive independent, family-owned, and specialist (single-category) restaurants as more authentic than chain, non-family-owned, and generalist establishments. Study 2 uses a controlled experiment with fictitious restaurants to provide further evidence on the causal effect of authenticity on consumer ratings.",
+      "summary_en": "Using 1.27 million Yelp-style restaurant reviews from three large US metro areas (Oct 2004 – Oct 2011), Kovács, Carroll and Lehman test whether consumers reward perceived authenticity over and above objective restaurant quality. They find that restaurants described in authenticity-related language receive significantly higher star ratings even after controlling for cuisine, price, and chain status, and that independent, family-owned and single-cuisine restaurants are perceived as more authentic than chains and generalists. A controlled experiment with fictitious restaurants confirms the causal effect.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "1,271,796 unsolicited online restaurant reviews by 252,359 reviewers covering 18,869 US restaurants (San Francisco, New York, Los Angeles), 2004–2011. Plus a controlled online experiment with fictitious restaurant descriptions varying authenticity cues.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungarian tourism, hospitality and small-business policy attaches importance to certifications of authentic regional cuisine (Hungarikumok). The study provides evidence that consumers genuinely value authenticity signals — independence, family ownership, single-category specialisation — independent of food quality, suggesting that schemes promoting locally rooted small operators have measurable demand-side payoff and not merely cultural value.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "industrial-organization",
+        "behavioral",
+        "firms-productivity"
+      ],
+      "methods": [
+        "panel-data",
+        "rct"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "digital-trace",
+        "field-experiment"
+      ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": null
     },
     {
       "id": "kovacs-jensen-sorenson-2018-natbiotech",
-      "title": "Authorship Order and Research Quality in the Life Sciences",
+      "title": "Gender differences in obtaining and maintaining patent rights",
       "authors": [
+        "Kyle Jensen",
         "kovacs-balazs",
-        "Bence Jensen",
         "Olav Sorenson"
       ],
       "publication_type": "article",
       "journal": "Nature Biotechnology",
       "year": 2018,
-      "volume": null,
-      "issue": null,
-      "pages": null,
-      "doi": null,
+      "volume": "36",
+      "issue": "4",
+      "pages": "307-309",
+      "doi": "10.1038/nbt.4120",
       "working_paper_series": null,
-      "url_published": null,
+      "url_published": "https://doi.org/10.1038/nbt.4120",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "An examination of the prosecution and maintenance histories of approximately 2.7 million US patent applications indicates that women have less favorable outcomes than men. Although women make up half of the population, they represent just 10% of US patent inventors and only 15% of inventors in the life sciences. Patent applications by women inventors were found to be more likely to be rejected than those of men, and those rejections were less likely to be appealed by the applicant team (inventor, assignee, and prosecuting attorney). Conditional on being granted, patent applications by women inventors had a smaller fraction of their claims allowed, on average, than did applications by men.",
+      "summary_en": "Using approximately 2.7 million US patent applications, Jensen, Kovács and Sorenson document large gender gaps at every stage of the patent process. Women make up just 10% of US inventors and 15% in the life sciences. Conditional on filing, women's applications are significantly more likely to be rejected; conditional on rejection, women-led teams (inventor, assignee, prosecuting attorney) are less likely to appeal; and conditional on grant, fewer of their claims survive. The differences hold across technology areas and applicant types.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "~2.7 million US patent applications with full prosecution and maintenance histories from the USPTO, covering all technology areas and applicant types, with inventor names matched to gender via name-matching algorithms.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct policy relevance for Hungary's SZTNH (national IP office) and innovation-policy bodies designing R&D funding programmes targeting under-represented groups. The paper identifies multiple specific stages — initial examiner decision, decision to appeal, claim allowance — where gender gaps compound, suggesting interventions can be targeted at each step rather than relying on a single upstream programme.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "innovation-digital",
+        "demographics-migration",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": null
     },
     {
@@ -29515,21 +29568,32 @@
       "url_published": null,
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "We examine how consumers evaluate restaurants when their evaluations are informed by competing schemes — a science-based code of hygiene involving compliance with local health regulations, and a context-activated code of authenticity involving conformity to cultural norms. We argue that violations of the hygiene code recede in importance when the authenticity code is activated. Empirical analyses of more than 442,000 online consumer reviews and approximately 52,740 governmental health inspections collected from 2004 to 2011 of restaurants located in three major U.S. metropolitan areas support our argument: violations of the hygiene code lead to lower restaurant ratings from consumers, but this negative effect is significantly weaker for restaurants viewed by consumers as authentic. Implications for theory and practice are discussed.",
+      "summary_en": "Are consumers willing to overlook hygiene problems at restaurants they consider authentic? Lehman, Kovács and Carroll match 442,000 online consumer reviews to 52,740 government health-inspection records for restaurants in three US metros (2004–2011). Hygiene violations lower consumer ratings on average — but this penalty is significantly weaker for restaurants seen as authentic. The finding shows that two evaluation codes (regulatory hygiene and cultural authenticity) compete, and authenticity can blunt the reputational cost of failing inspections.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "442,000+ Yelp-style restaurant reviews matched at the establishment level to ~52,740 routine health-inspection scores from city health departments, three US metros, 2004–2011.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Health authorities (Hungary's NÉBIH for food safety) rely on the assumption that publishing inspection results disciplines restaurants via consumer pressure. The paper shows the disciplining effect is meaningfully weaker for restaurants with strong authenticity reputations — a relevant caveat when designing transparency regimes that aim to harness consumer reaction as an enforcement complement.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "industrial-organization",
+        "behavioral",
+        "health"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "digital-trace",
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": null
     },
     {
@@ -29552,28 +29616,33 @@
       "url_published": null,
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "The concept of authenticity informs a number of central topics in management studies. On the surface, it might seem that a consensus exists about its meaning; there is indeed widespread agreement that authenticity refers to that which is “real” or “genuine” or “true.” Below the surface, however, there is much less agreement; scholars use the same lexical term but often approach the concept from different perspectives and apply different meanings. This review outlines three fundamental but distinct perspectives found in the literature: authenticity as (1) consistency between an entity's internal values and its external expressions, (2) conformity of an entity to the norms of its social category, and (3) connection between an entity and a person, place, or time as claimed. The aim of this review was to critically appraise the various research themes within each perspective, highlighting similarities, differences, and relationships between them.",
+      "summary_en": "Authenticity is a heavily used concept in management research, but scholars use the same word for very different ideas. This Annals review identifies three fundamentally distinct perspectives in the literature: authenticity as (1) consistency between an entity's internal values and its external expressions, (2) conformity to the norms of a social category, and (3) genuine connection to a claimed person, place or time. The authors map empirical findings to each perspective, surface contradictions across them, and propose research directions that respect the distinctions.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Systematic review of the management, sociology and consumer-behaviour literature on authenticity through 2018, covering papers in major outlets (AMR, AMJ, Org Sci, ASQ, Mgmt Sci, JCR, ASR).",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "When public-sector branding bodies (HIPA, MTÜ, Hungarikum Bizottság) adopt 'authenticity' as a central concept, they often conflate three distinct senses — internal-external consistency, category conformity, and genuine origin. The review provides a usable taxonomy that helps those programmes specify which claim is being certified, reducing inconsistency in eligibility and evaluation criteria.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "industrial-organization",
+        "behavioral"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": null
     },
     {
       "id": "lemens-kovacs-hannan-pros-2023-pnas",
-      "title": "Using Machine Learning to Uncover the Semantics of Concepts: How Well Do Typicality Measures Extracted from a BERT Text Classifier Match Human Judgments of Genre Typicality?",
+      "title": "Uncovering the semantics of concepts using GPT-4",
       "authors": [
-        "Gael Le Mens",
+        "Gaël Le Mens",
         "kovacs-balazs",
         "Michael T. Hannan",
         "Guillem Pros"
@@ -29581,29 +29650,38 @@
       "publication_type": "article",
       "journal": "Proceedings of the National Academy of Sciences",
       "year": 2023,
-      "volume": null,
-      "issue": null,
-      "pages": null,
-      "doi": null,
+      "volume": "120",
+      "issue": "49",
+      "pages": "e2309350120",
+      "doi": "10.1073/pnas.2309350120",
       "working_paper_series": null,
-      "url_published": null,
+      "url_published": "https://doi.org/10.1073/pnas.2309350120",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "The ability of recent Large Language Models (LLMs) such as GPT-3.5 and GPT-4 to generate human-like texts suggests that social scientists could use these LLMs to construct measures of semantic similarity that match human judgment. In this article, we provide an empirical test of this intuition. We use GPT-4 to construct a measure of typicality—the similarity of a text document to a concept. We evaluate its performance against other model-based typicality measures in terms of the correlation with human typicality ratings. We conduct this comparative analysis in two domains: the typicality of books in literary genres (using an existing dataset of book descriptions) and the typicality of tweets authored by US Congress members in the Democratic and Republican parties (using a novel dataset). The typicality measure produced with GPT-4 meets or exceeds the performance of the previous state-of-the-art typicality measure. It accomplishes this without any training with the research data (it is zero-shot learning). This is a breakthrough because the previous state-of-the-art measure required fine-tuning an LLM on hundreds of thousands of text documents to achieve its performance.",
+      "summary_en": "Can social scientists use large language models like GPT-4 to measure how typical a text is of a concept (e.g., how typical a book is of the romance genre)? Le Mens, Kovács, Hannan and Pros build a typicality measure using GPT-4 zero-shot, with no fine-tuning, and compare it to (a) human typicality ratings and (b) the previous state-of-the-art measure (a fine-tuned BERT classifier requiring hundreds of thousands of training documents). They test it on book genres and on US Congress members' tweets. GPT-4 zero-shot matches or beats the fine-tuned benchmark.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "An existing book-description dataset with human typicality ratings across literary genres, plus a novel dataset of tweets by US Congress members labelled by political party (Democratic vs Republican). Compared GPT-4 zero-shot, fine-tuned BERT, and several baseline typicality measures.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungarian central-government and academic researchers using LLMs for text analysis of policy documents, news, or political speech can adopt zero-shot LLM-based measures and skip the costly fine-tuning step that previously required hundreds of thousands of labelled documents. Practical implication for ELKH/HUN-REN research groups, MNB sentiment dashboards, and government communications units.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "methods",
+        "behavioral"
+      ],
+      "methods": [
+        "ml-text"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "digital-trace"
+      ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": null
     },
     {
@@ -33258,38 +33336,49 @@
       ]
     },
     {
-      "id": "sharkey-kovacs-2018-asq",
-      "title": "The Many Gifts of Status: How Attending High-Status Schools Affects Income",
+      "id": "sharkey-kovacs-2018-mansci",
+      "title": "The Many Gifts of Status: How Attending to Audience Reactions Drives the Use of Status",
       "authors": [
         "Amanda J. Sharkey",
         "kovacs-balazs"
       ],
       "publication_type": "article",
-      "journal": "Administrative Science Quarterly",
+      "journal": "Management Science",
       "year": 2018,
-      "volume": null,
-      "issue": null,
-      "pages": null,
-      "doi": null,
+      "volume": "64",
+      "issue": "11",
+      "pages": "5422-5443",
+      "doi": "10.1287/mnsc.2017.2879",
       "working_paper_series": null,
-      "url_published": null,
+      "url_published": "https://doi.org/10.1287/mnsc.2017.2879",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "The majority of extant studies involving status argue that status enters into choice and evaluation because people personally believe that status serves as a signal of quality. However, this mechanism seems less plausible in cases when consensus on the meaning of quality is lacking. To understand how and why status often nonetheless enters into evaluation in those cases, this paper contributes to a growing body of work that proposes that individuals and organizations are particularly likely to base their choices and evaluations on status when they are concerned with the reactions of others. We provide an empirical test of this argument by analyzing how the sales gap between prizewinning books and their shortlisted-only peers (as well as a second similar-content control group) changes during the December holidays, when the purchase of books as gifts increases relative to purchases for one's own personal use. Results show that the sales gap widens with the increased orientation toward gift giving, consistent with our theoretical arguments about how attending to audience reactions drives the use of status. Analyses of two online experiments allow for further clarification of the mechanism behind our findings.",
+      "summary_en": "Why do people use status as a quality signal even when objective quality is hard to verify? Sharkey and Kovács argue people lean on status most when they care about how others will react to their choice. They test this using book sales: the gap between prizewinners (e.g., Booker, Pulitzer) and equally similar shortlisted books widens during the December gift-giving season — when buyers anticipate other people's reactions — and narrows again afterwards. Two online experiments confirm the audience-reaction mechanism.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Weekly Nielsen BookScan sales data for prize-winning and shortlisted books across multiple major literary prizes (Booker, Pulitzer, National Book Award, etc.) over multiple years, plus two online experiments manipulating gift-vs-personal-purchase framing.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungary's cultural-grant system (Hungarian Book Foundation, NKA literary prizes) treats prize-winning as a signal of quality. The paper suggests prize effects on consumer behaviour are amplified specifically when consumers think about audience reactions — gifts, public displays — and weaker for purely private use. Useful framing for funders deciding how prizes interact with broader cultural-consumption goals.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "behavioral",
+        "industrial-organization"
+      ],
+      "methods": [
+        "panel-data",
+        "rct"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "digital-trace",
+        "field-experiment"
+      ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": null
     },
     {
@@ -40640,7 +40729,7 @@
       "policy_framing_en": "Relevant to: healthcare system design, hospital payment, prevention programs, pharmaceutical policy, mental health services.",
       "policy_framing_hu": "Releváns: egészségügyi rendszer kialakítása, kórházi finanszírozás, prevenciós programok, gyógyszerpolitika, mentális szolgáltatások.",
       "icon": "heart-pulse",
-      "paper_count": 39
+      "paper_count": 41
     },
     {
       "id": "demographics-migration",
@@ -40651,7 +40740,7 @@
       "policy_framing_en": "Relevant to: family policy, pension system, immigration policy, retention of skilled workers.",
       "policy_framing_hu": "Releváns: családpolitika, nyugdíjrendszer, bevándorláspolitika, szakemberek megtartása.",
       "icon": "users",
-      "paper_count": 32
+      "paper_count": 33
     },
     {
       "id": "trade-fdi",
@@ -40673,7 +40762,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 106
+      "paper_count": 108
     },
     {
       "id": "innovation-digital",
@@ -40684,7 +40773,7 @@
       "policy_framing_en": "Relevant to: R&D tax credits, digital strategy, AI policy, innovation agency design, university–industry linkages.",
       "policy_framing_hu": "Releváns: K+F adókedvezmények, digitális stratégia, MI-politika, innovációs ügynökségek, egyetem–ipar kapcsolatok.",
       "icon": "cpu",
-      "paper_count": 46
+      "paper_count": 47
     },
     {
       "id": "banking-finance",
@@ -40739,7 +40828,7 @@
       "policy_framing_en": "Relevant to: welfare system, anti-poverty programs, family allowances, gender-equal pay policies.",
       "policy_framing_hu": "Releváns: szociális rendszer, szegénység elleni programok, családi pótlékok, egyenlő bérezés.",
       "icon": "scale",
-      "paper_count": 91
+      "paper_count": 92
     },
     {
       "id": "political-economy",
@@ -40750,7 +40839,7 @@
       "policy_framing_en": "Relevant to: anti-corruption policy, public administration reform, EU affairs, electoral system design.",
       "policy_framing_hu": "Releváns: korrupcióellenes politika, közigazgatási reform, EU-ügyek, választási rendszer.",
       "icon": "building-2",
-      "paper_count": 55
+      "paper_count": 56
     },
     {
       "id": "transition-postcommunist",
@@ -40772,7 +40861,7 @@
       "policy_framing_en": "Relevant to: consumer protection, pension-default design, nudging, financial-education regulation, addictive-product regulation.",
       "policy_framing_hu": "Releváns: fogyasztóvédelem, nyugdíjalap-alapbeállítások, döntéslendítés (nudge), pénzügyi edukáció szabályozása, függőséget okozó termékek szabályozása.",
       "icon": "brain",
-      "paper_count": 66
+      "paper_count": 72
     },
     {
       "id": "industrial-organization",
@@ -40783,7 +40872,7 @@
       "policy_framing_en": "Relevant to: competition policy (GVH), merger review, platform regulation, auction design, sector-specific regulation.",
       "policy_framing_hu": "Releváns: versenypolitika (GVH), fúziókontroll, platformszabályozás, aukciótervezés, ágazati szabályozás.",
       "icon": "network",
-      "paper_count": 39
+      "paper_count": 46
     },
     {
       "id": "macroeconomics",
@@ -40816,7 +40905,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 137
+      "paper_count": 138
     },
     {
       "id": "market-design",

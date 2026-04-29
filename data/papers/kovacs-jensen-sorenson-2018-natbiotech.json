@@ -1,36 +1,46 @@
 {
   "id": "kovacs-jensen-sorenson-2018-natbiotech",
-  "title": "Authorship Order and Research Quality in the Life Sciences",
+  "title": "Gender differences in obtaining and maintaining patent rights",
   "authors": [
+    "Kyle Jensen",
     "kovacs-balazs",
-    "Bence Jensen",
     "Olav Sorenson"
   ],
   "publication_type": "article",
   "journal": "Nature Biotechnology",
   "year": 2018,
-  "volume": null,
-  "issue": null,
-  "pages": null,
-  "doi": null,
+  "volume": "36",
+  "issue": "4",
+  "pages": "307-309",
+  "doi": "10.1038/nbt.4120",
   "working_paper_series": null,
-  "url_published": null,
+  "url_published": "https://doi.org/10.1038/nbt.4120",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "An examination of the prosecution and maintenance histories of approximately 2.7 million US patent applications indicates that women have less favorable outcomes than men. Although women make up half of the population, they represent just 10% of US patent inventors and only 15% of inventors in the life sciences. Patent applications by women inventors were found to be more likely to be rejected than those of men, and those rejections were less likely to be appealed by the applicant team (inventor, assignee, and prosecuting attorney). Conditional on being granted, patent applications by women inventors had a smaller fraction of their claims allowed, on average, than did applications by men.",
+  "summary_en": "Using approximately 2.7 million US patent applications, Jensen, Kovács and Sorenson document large gender gaps at every stage of the patent process. Women make up just 10% of US inventors and 15% in the life sciences. Conditional on filing, women's applications are significantly more likely to be rejected; conditional on rejection, women-led teams (inventor, assignee, prosecuting attorney) are less likely to appeal; and conditional on grant, fewer of their claims survive. The differences hold across technology areas and applicant types.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "~2.7 million US patent applications with full prosecution and maintenance histories from the USPTO, covering all technology areas and applicant types, with inventor names matched to gender via name-matching algorithms.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct policy relevance for Hungary's SZTNH (national IP office) and innovation-policy bodies designing R&D funding programmes targeting under-represented groups. The paper identifies multiple specific stages — initial examiner decision, decision to appeal, claim allowance — where gender gaps compound, suggesting interventions can be targeted at each step rather than relying on a single upstream programme.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "innovation-digital",
+    "demographics-migration",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-27",
-  "last_reviewed_at": "2026-04-27",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": null
 }

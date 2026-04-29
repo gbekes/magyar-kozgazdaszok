@@ -17,20 +17,30 @@
   "url_published": null,
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "We propose a synthesis of two lines of sociological research on boundary spanning in cultural production and consumption. One, research on cultural omnivorousness, analyzes choice by heterogeneous audiences facing an array of crisp cultural offerings. The other, research on categories in markets, analyzes reactions by homogeneous audiences to objects that vary in the degree to which they conform to categorical codes. We develop a model of heterogeneous audiences evaluating objects that vary in typicality. This allows consideration of orientations on two dimensions of cultural preference: variety and typicality. We propose a novel analytic framework to map consumption behavior in these two dimensions. We argue that one audience type, those who value variety and typicality, are especially resistant to objects that span boundaries. We test this argument by developing a typicality measure based on the topic distributions of films and books on the Internet Movie Database (IMDb) and Goodreads.",
+  "summary_en": "Sociologists studying cultural consumption have two long-standing strands: 'omnivorousness' (heterogeneous audiences sampling diverse but distinct genres) and 'category spanning' (homogeneous audiences punishing genre-blurring objects). Goldberg, Hannan and Kovács unify these by mapping consumers along two independent preference dimensions: variety and typicality. Using IMDb film ratings and Goodreads book ratings, they show that audiences who value both variety and typicality are particularly hostile to objects that span genre boundaries, while variety-loving but atypicality-tolerant audiences embrace the same objects.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "IMDb film ratings and Goodreads book ratings (millions of ratings, tens of thousands of items), with topic distributions estimated from text features used to construct continuous typicality measures.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Cultural and creative-industries policy in Hungary (NMHH, NKA grant programmes) often funds genre-blurring projects in the name of innovation. The paper provides a more nuanced view: cross-genre work succeeds with audiences who tolerate atypicality but is punished by audiences who value both variety and typicality. Useful for grant-evaluation criteria that balance artistic risk against audience reach.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "behavioral",
+    "industrial-organization"
+  ],
+  "methods": [
+    "panel-data",
+    "ml-text"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "digital-trace"
+  ],
   "featured": false,
   "added_at": "2026-04-27",
-  "last_reviewed_at": "2026-04-27",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": null
 }

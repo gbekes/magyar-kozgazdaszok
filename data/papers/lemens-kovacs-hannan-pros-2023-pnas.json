@@ -1,8 +1,8 @@
 {
   "id": "lemens-kovacs-hannan-pros-2023-pnas",
-  "title": "Using Machine Learning to Uncover the Semantics of Concepts: How Well Do Typicality Measures Extracted from a BERT Text Classifier Match Human Judgments of Genre Typicality?",
+  "title": "Uncovering the semantics of concepts using GPT-4",
   "authors": [
-    "Gael Le Mens",
+    "Gaël Le Mens",
     "kovacs-balazs",
     "Michael T. Hannan",
     "Guillem Pros"
@@ -10,28 +10,37 @@
   "publication_type": "article",
   "journal": "Proceedings of the National Academy of Sciences",
   "year": 2023,
-  "volume": null,
-  "issue": null,
-  "pages": null,
-  "doi": null,
+  "volume": "120",
+  "issue": "49",
+  "pages": "e2309350120",
+  "doi": "10.1073/pnas.2309350120",
   "working_paper_series": null,
-  "url_published": null,
+  "url_published": "https://doi.org/10.1073/pnas.2309350120",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "The ability of recent Large Language Models (LLMs) such as GPT-3.5 and GPT-4 to generate human-like texts suggests that social scientists could use these LLMs to construct measures of semantic similarity that match human judgment. In this article, we provide an empirical test of this intuition. We use GPT-4 to construct a measure of typicality—the similarity of a text document to a concept. We evaluate its performance against other model-based typicality measures in terms of the correlation with human typicality ratings. We conduct this comparative analysis in two domains: the typicality of books in literary genres (using an existing dataset of book descriptions) and the typicality of tweets authored by US Congress members in the Democratic and Republican parties (using a novel dataset). The typicality measure produced with GPT-4 meets or exceeds the performance of the previous state-of-the-art typicality measure. It accomplishes this without any training with the research data (it is zero-shot learning). This is a breakthrough because the previous state-of-the-art measure required fine-tuning an LLM on hundreds of thousands of text documents to achieve its performance.",
+  "summary_en": "Can social scientists use large language models like GPT-4 to measure how typical a text is of a concept (e.g., how typical a book is of the romance genre)? Le Mens, Kovács, Hannan and Pros build a typicality measure using GPT-4 zero-shot, with no fine-tuning, and compare it to (a) human typicality ratings and (b) the previous state-of-the-art measure (a fine-tuned BERT classifier requiring hundreds of thousands of training documents). They test it on book genres and on US Congress members' tweets. GPT-4 zero-shot matches or beats the fine-tuned benchmark.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "An existing book-description dataset with human typicality ratings across literary genres, plus a novel dataset of tweets by US Congress members labelled by political party (Democratic vs Republican). Compared GPT-4 zero-shot, fine-tuned BERT, and several baseline typicality measures.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungarian central-government and academic researchers using LLMs for text analysis of policy documents, news, or political speech can adopt zero-shot LLM-based measures and skip the costly fine-tuning step that previously required hundreds of thousands of labelled documents. Practical implication for ELKH/HUN-REN research groups, MNB sentiment dashboards, and government communications units.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "methods",
+    "behavioral"
+  ],
+  "methods": [
+    "ml-text"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "digital-trace"
+  ],
   "featured": false,
   "added_at": "2026-04-27",
-  "last_reviewed_at": "2026-04-27",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": null
 }

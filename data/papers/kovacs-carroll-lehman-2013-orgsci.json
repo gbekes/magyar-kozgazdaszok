@@ -17,20 +17,32 @@
   "url_published": null,
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "We present two studies that together test a fundamental yet rarely examined assumption underlying the contemporary appeal of authenticity—namely, that consumers assign higher value ratings to organizations regarded as authentic. Study 1 conducts content analysis of unsolicited online restaurant reviews entered voluntarily by consumers in three major U.S. metropolitan areas from October 2004 to October 2011. The data contain information from 1,271,796 reviews written by 252,359 unique reviewers of 18,869 restaurants. The findings show that consumers assign higher ratings to restaurants regarded as authentic, even after controlling for restaurant quality in several ways. In addition, we find that consumers perceive independent, family-owned, and specialist (single-category) restaurants as more authentic than chain, non-family-owned, and generalist establishments. Study 2 uses a controlled experiment with fictitious restaurants to provide further evidence on the causal effect of authenticity on consumer ratings.",
+  "summary_en": "Using 1.27 million Yelp-style restaurant reviews from three large US metro areas (Oct 2004 – Oct 2011), Kovács, Carroll and Lehman test whether consumers reward perceived authenticity over and above objective restaurant quality. They find that restaurants described in authenticity-related language receive significantly higher star ratings even after controlling for cuisine, price, and chain status, and that independent, family-owned and single-cuisine restaurants are perceived as more authentic than chains and generalists. A controlled experiment with fictitious restaurants confirms the causal effect.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "1,271,796 unsolicited online restaurant reviews by 252,359 reviewers covering 18,869 US restaurants (San Francisco, New York, Los Angeles), 2004–2011. Plus a controlled online experiment with fictitious restaurant descriptions varying authenticity cues.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungarian tourism, hospitality and small-business policy attaches importance to certifications of authentic regional cuisine (Hungarikumok). The study provides evidence that consumers genuinely value authenticity signals — independence, family ownership, single-category specialisation — independent of food quality, suggesting that schemes promoting locally rooted small operators have measurable demand-side payoff and not merely cultural value.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "industrial-organization",
+    "behavioral",
+    "firms-productivity"
+  ],
+  "methods": [
+    "panel-data",
+    "rct"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "digital-trace",
+    "field-experiment"
+  ],
   "featured": false,
   "added_at": "2026-04-27",
-  "last_reviewed_at": "2026-04-27",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": null
 }

@@ -17,20 +17,31 @@
   "url_published": null,
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "We examine how consumers evaluate restaurants when their evaluations are informed by competing schemes — a science-based code of hygiene involving compliance with local health regulations, and a context-activated code of authenticity involving conformity to cultural norms. We argue that violations of the hygiene code recede in importance when the authenticity code is activated. Empirical analyses of more than 442,000 online consumer reviews and approximately 52,740 governmental health inspections collected from 2004 to 2011 of restaurants located in three major U.S. metropolitan areas support our argument: violations of the hygiene code lead to lower restaurant ratings from consumers, but this negative effect is significantly weaker for restaurants viewed by consumers as authentic. Implications for theory and practice are discussed.",
+  "summary_en": "Are consumers willing to overlook hygiene problems at restaurants they consider authentic? Lehman, Kovács and Carroll match 442,000 online consumer reviews to 52,740 government health-inspection records for restaurants in three US metros (2004–2011). Hygiene violations lower consumer ratings on average — but this penalty is significantly weaker for restaurants seen as authentic. The finding shows that two evaluation codes (regulatory hygiene and cultural authenticity) compete, and authenticity can blunt the reputational cost of failing inspections.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "442,000+ Yelp-style restaurant reviews matched at the establishment level to ~52,740 routine health-inspection scores from city health departments, three US metros, 2004–2011.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Health authorities (Hungary's NÉBIH for food safety) rely on the assumption that publishing inspection results disciplines restaurants via consumer pressure. The paper shows the disciplining effect is meaningfully weaker for restaurants with strong authenticity reputations — a relevant caveat when designing transparency regimes that aim to harness consumer reaction as an enforcement complement.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "industrial-organization",
+    "behavioral",
+    "health"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "digital-trace",
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-27",
-  "last_reviewed_at": "2026-04-27",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": null
 }
