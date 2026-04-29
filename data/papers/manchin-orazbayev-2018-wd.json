@@ -16,21 +16,30 @@
   "url_published": "https://doi.org/10.1016/j.worlddev.2018.05.011",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "Using a large individual-level survey spanning several years and more than 150 countries, we examine the importance of social networks in influencing individuals' intention to migrate internationally and locally. We distinguish close social networks (composed of friends and family) abroad and at the current location, and broad social networks (composed of same-country residents with intention to migrate, either internationally or locally). We find that social networks abroad are the most important driving forces of international migration intentions, with close and broad networks jointly explaining about 37% of variation in the probability intentions. Social networks are found to be more important factors driving migration intentions than work-related aspects or wealth (wealth accounts for less than 3% of the variation). In addition, we find that having stronger close social networks at home has the opposite effect by reducing the likelihood of migration intentions, both internationally and locally.",
+  "summary_en": "What predicts whether someone intends to migrate internationally — economic conditions, or social networks? Manchin and Orazbayev use Gallup World Poll individual-level survey data spanning 150+ countries and several years. The most important driver is social networks abroad (close family/friends + broader same-country residents with migration intent), accounting for ~37% of variation in migration probability. Wealth accounts for less than 3% of the variation. Strong close networks at the current location actually reduce migration intent. The result reframes migration policy as much about networks as about economic conditions.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Gallup World Poll individual-level survey data ~2008-2016, covering 150+ countries with hundreds of thousands of respondents per wave; includes detailed migration-intent, network, work, and wealth measures.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for Hungarian migration policy and the Hungarian Office of Immigration and Asylum. The paper shows networks dominate economic factors in explaining migration intent — useful for predicting future Hungarian inflows from regions with established Hungarian or co-ethnic diasporas (e.g., Ukraine, Romania, Serbia). Also relevant for EU migration-policy analysis at DG-HOME.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "demographics-migration",
+    "behavioral",
+    "labor-markets"
+  ],
+  "methods": [
+    "panel-data",
+    "descriptive-survey"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-20",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2584950468",
   "policy_instruments": [
     "migration networks policy"

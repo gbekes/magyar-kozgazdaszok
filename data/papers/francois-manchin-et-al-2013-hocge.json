@@ -17,20 +17,27 @@
   "url_published": "https://doi.org/10.1016/b978-0-444-59568-3.00024-9",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "We provide an overview of several approaches to modeling market structure in multisector general equilibrium (MSGE) models, including both oligopoly and monopolistic competition. We emphasize open economy models and applications to international economic policy. We map out practical strategies for implementing variations on market structure, including functional forms and calibration strategies. We also identify areas that, in our view, are promising for further research. This includes both exploring the implications of moving away from average cost pricing models (including monopolistic competition) for labor market outcomes and inequality, and better methods for econometric estimation of parameters and confronting alternative forms of market structure against measures of model performance (specification testing).",
+  "summary_en": "Computable General Equilibrium (CGE) models are the workhorse for trade-policy quantification — but how should they handle market structure? Francois, Manchin and Martin's Handbook chapter provides a comprehensive survey of approaches, covering oligopoly, monopolistic competition, and combinations. They map practical implementation strategies (functional forms, calibration), emphasise open-economy applications, and identify two open research areas: implications of moving beyond average-cost pricing for labour-market and inequality outcomes, and better econometric estimation/specification testing for market-structure assumptions.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Survey chapter — methodological synthesis covering existing CGE models in trade analysis. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Reference document for Hungarian and EU CGE-modelling teams (KSH, MNB, KRTK, European Commission DG-TRADE, JRC). Provides accessible guidance on market-structure choices in trade-policy CGE analyses — relevant for any Hungarian impact assessment of EU trade agreements (CETA, EU-Mercosur, EU-China).",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "trade-fdi",
+    "industrial-organization",
+    "methods"
+  ],
+  "methods": [
+    "descriptive-survey",
+    "structural"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W39278734"
 }

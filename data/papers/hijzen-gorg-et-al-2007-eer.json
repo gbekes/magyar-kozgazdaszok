@@ -17,20 +17,29 @@
   "url_published": "https://doi.org/10.1016/j.euroecorev.2007.07.002",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "Cross-border mergers and acquisitions (M&As) have increased dramatically over the last two decades. This paper analyses the role of trade costs in explaining the increase in the number of cross-border M&As. In particular, we distinguish horizontal and non-horizontal M&As and investigate whether trade costs affect these two types of mergers differently. We analyse this question using industry data for 23 OECD countries for the period 1990-2001. Our findings suggest that while in the aggregate trade costs affect cross-border merger activity negatively its impact differs importantly across horizontal and non-horizontal mergers. The impact of trade costs is less negative for horizontal mergers, which is consistent with the tariff-jumping argument.",
+  "summary_en": "Cross-border mergers and acquisitions (M&As) surged in the 1990s and 2000s. Hijzen, Görg and Manchin test whether trade costs help explain this. Using industry data for 23 OECD countries 1990-2001, they distinguish horizontal mergers (same industry, often tariff-jumping motivated) from non-horizontal mergers (vertical or conglomerate). They find that on average, lower trade costs spur more cross-border M&A — but the relationship differs sharply by type. Horizontal mergers respond less negatively to trade costs, consistent with the tariff-jumping motive: when tariffs fall, firms substitute exports for affiliates.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Industry-level cross-border M&A data for 23 OECD countries 1990-2001 from Thomson Financial Securities Data Company (SDC), combined with bilateral tariff data and other trade-cost measures.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for Hungarian inward-FDI policy. The paper shows that tariff reductions through EU integration drove some M&A inflows in the 1990s but that horizontal M&As (tariff-jumping) are less sensitive — a Hungarian-relevant pattern given the high share of foreign-owned manufacturing. Useful for HIPA and Pénzügyminisztérium when analysing how EU trade integration interacts with FDI.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "trade-fdi",
+    "industrial-organization",
+    "firms-productivity"
+  ],
+  "methods": [
+    "panel-data"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "macro-aggregate",
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W3121177134"
 }

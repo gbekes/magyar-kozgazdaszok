@@ -9585,21 +9585,30 @@
       "url_published": "https://doi.org/10.1016/j.euroecorev.2012.02.005",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "We compare three theoretical explanations for the positive empirical relationship between importer income per capita and traded goods prices. A first explanation is that consumers with higher incomes demand higher quality goods with higher prices. A second explanation is that wealthier people exhibit an increased willingness to pay for necessary goods as more goods enter the consumption set in a hierarchic demand system, and can thus be charged higher markups. A third explanation is that consumers with higher incomes are more finicky regarding their preferred variety in an ideal variety framework and can thus be charged higher markups. We discriminate between these three theories by focusing on the effect of income inequality on trade prices. Based on a large dataset with bilateral HS6 level data on 1260 final goods categories from more than 100 countries between 2000 and 2004, we find a highly significant negative effect of income inequality on unit values.",
+      "summary_en": "Why do richer importing countries pay higher prices for the same products? Three theories: higher quality demand (income elasticity), willingness-to-pay for necessities under hierarchic demand, or finickyness for preferred variety. Bekkers, Francois and Manchin discriminate between them by examining how income inequality affects trade prices. Using bilateral HS6 trade data on 1,260 product categories from 100+ countries 2000-2004, they find a strongly negative effect of income inequality on unit values — supporting the hierarchic-demand explanation against the quality and finickyness theories.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "UN Comtrade bilateral HS6-level trade flow data 2000-2004, covering 1,260 final goods categories across 100+ countries; combined with World Bank/UNU-WIDER income-inequality measures.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungarian export-pricing strategy at HIPA and KKM. The paper supports targeting markets with broad middle-class growth (where hierarchic demand operates) over markets with concentrated wealth, when seeking high-margin export opportunities. Also informs trade-policy analysis at the European Commission DG-TRADE.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "trade-fdi",
+        "industrial-organization",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "panel-data",
+        "structural"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2161955285"
     },
     {
@@ -13441,21 +13450,29 @@
       "url_published": "https://doi.org/10.1142/9789814603386_0014",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": "A key element of the EU's free trade and preferential trade agreements is the extent to which they deliver improved market access and so contribute to the EU's foreign policy objectives towards developing countries and neighbouring countries in Europe, including the countries of the Balkans. Previous preferential trade schemes have been ineffective in delivering improved access to the EU market since only a small proportion of the available preferences have actually been utilised. The main reason for this is probably the very restrictive rules of origin that the EU imposes, coupled with the costs of proving consistency with these rules. If the EU wants the 'Everything but Arms' agreement and free trade agreements with countries in the Balkans to generate substantial improvements in access to the EU market for products from these countries then it will have to reconsider the current rules of origin and implement less restrictive rules backed up by a careful safeguards policy. [Source: original World Economy 2003 article (DOI 10.1111/1467-9701.00545); the 2014 World Scientific entry is a reprint.]",
-      "summary_en": null,
+      "abstract": "A key element of the EU's free trade and preferential trade agreements is the extent to which they deliver improved market access and so contribute to the EU's foreign policy objectives towards developing countries and neighbouring countries in Europe, including the countries of the Balkans. Previous preferential trade schemes have been ineffective in delivering improved access to the EU market since only a small proportion of the available preferences have actually been utilised. The main reason for this is probably the very restrictive rules of origin that the EU imposes, coupled with the costs of proving consistency with these rules. If the EU wants the 'Everything but Arms' agreement and free trade agreements with countries in the Balkans to generate substantial improvements in access to the EU market for products from these countries then it will have to reconsider the current rules of origin and implement less restrictive rules backed up by a careful safeguards policy.",
+      "summary_en": "EU free-trade and preferential agreements with developing and neighbouring countries (Balkans, ACP states, 'Everything but Arms') often deliver less market access than promised. Brenton and Manchin show why: highly restrictive EU rules of origin, plus the cost of proving compliance, render most preference margins effectively unusable. Only a small share of available preferences are claimed in practice. The paper recommends substantial liberalisation of rules of origin combined with careful safeguards to make EU preferential agreements actually deliver on their stated objectives.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "EU preference utilisation data from Eurostat, covering bilateral preference-eligible trade flows under 'Everything but Arms' and other EU preferential agreements; product-level analysis of rules-of-origin restrictiveness.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for Hungarian KKM and EU DG-TRADE when negotiating or revising EU preferential agreements. Also relevant for HIPA in advising Hungarian exporters about realistic market access under EU preferences for developing-country partners.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "trade-fdi",
+        "political-economy"
+      ],
+      "methods": [
+        "descriptive-survey",
+        "panel-data"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2739087232"
     },
     {
@@ -20004,21 +20021,30 @@
       "url_published": "https://doi.org/10.1016/j.worlddev.2013.02.009",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "We work with a panel of bilateral trade, exploring the influence of infrastructure and institutional quality on patterns of trade with a Poisson estimator, extended with the Baier and Berstrand method for multilateral resistance and accounting for firm heterogeneity and selection. Trade depends on institutional quality and exporter and importer access to well developed transport and communications infrastructure. While we emphasize exports of developing countries, low institutional and infrastructure quality in the South also limits market access for exports from the North. The pattern of results implies that policy emphasis on developing country market access while not providing enough support for trade facilitation, may be misplaced.",
+      "summary_en": "Do bad institutions and poor infrastructure limit trade volumes? Francois and Manchin use bilateral panel trade data with a Poisson estimator (handling firm heterogeneity and selection) to test the joint role of institutional quality and transport/communications infrastructure. Both matter substantially. Although the empirical focus is on developing-country exports, low Southern institutional and infrastructure quality also limits Northern market access — affecting trade in both directions. The implication: policy that pushes for tariff-cut market access without paying for trade-facilitation infrastructure may be misplaced.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Bilateral panel trade data covering ~150 countries over multiple years, combined with World Bank Doing Business institutional indicators, UNCTAD trade-and-transport indices, and ITU communications-infrastructure measures.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for EU development-policy and Hungarian KKM trade-policy analysis. The paper supports prioritising aid-for-trade infrastructure investment alongside tariff preferences when working with developing trade partners — useful framing for Hungarian and EU positions in WTO and Cotonou-successor agreements.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "trade-fdi",
+        "political-economy",
+        "regional-urban"
+      ],
+      "methods": [
+        "panel-data",
+        "structural"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W3124985005"
     },
     {
@@ -20174,21 +20200,28 @@
       "url_published": "https://doi.org/10.1016/b978-0-444-59568-3.00024-9",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "We provide an overview of several approaches to modeling market structure in multisector general equilibrium (MSGE) models, including both oligopoly and monopolistic competition. We emphasize open economy models and applications to international economic policy. We map out practical strategies for implementing variations on market structure, including functional forms and calibration strategies. We also identify areas that, in our view, are promising for further research. This includes both exploring the implications of moving away from average cost pricing models (including monopolistic competition) for labor market outcomes and inequality, and better methods for econometric estimation of parameters and confronting alternative forms of market structure against measures of model performance (specification testing).",
+      "summary_en": "Computable General Equilibrium (CGE) models are the workhorse for trade-policy quantification — but how should they handle market structure? Francois, Manchin and Martin's Handbook chapter provides a comprehensive survey of approaches, covering oligopoly, monopolistic competition, and combinations. They map practical implementation strategies (functional forms, calibration), emphasise open-economy applications, and identify two open research areas: implications of moving beyond average-cost pricing for labour-market and inequality outcomes, and better econometric estimation/specification testing for market-structure assumptions.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Survey chapter — methodological synthesis covering existing CGE models in trade analysis. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Reference document for Hungarian and EU CGE-modelling teams (KSH, MNB, KRTK, European Commission DG-TRADE, JRC). Provides accessible guidance on market-structure choices in trade-policy CGE analyses — relevant for any Hungarian impact assessment of EU trade agreements (CETA, EU-Mercosur, EU-China).",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "trade-fdi",
+        "industrial-organization",
+        "methods"
+      ],
+      "methods": [
+        "descriptive-survey",
+        "structural"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W39278734"
     },
     {
@@ -24433,21 +24466,30 @@
       "url_published": "https://doi.org/10.1016/j.euroecorev.2007.07.002",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "Cross-border mergers and acquisitions (M&As) have increased dramatically over the last two decades. This paper analyses the role of trade costs in explaining the increase in the number of cross-border M&As. In particular, we distinguish horizontal and non-horizontal M&As and investigate whether trade costs affect these two types of mergers differently. We analyse this question using industry data for 23 OECD countries for the period 1990-2001. Our findings suggest that while in the aggregate trade costs affect cross-border merger activity negatively its impact differs importantly across horizontal and non-horizontal mergers. The impact of trade costs is less negative for horizontal mergers, which is consistent with the tariff-jumping argument.",
+      "summary_en": "Cross-border mergers and acquisitions (M&As) surged in the 1990s and 2000s. Hijzen, Görg and Manchin test whether trade costs help explain this. Using industry data for 23 OECD countries 1990-2001, they distinguish horizontal mergers (same industry, often tariff-jumping motivated) from non-horizontal mergers (vertical or conglomerate). They find that on average, lower trade costs spur more cross-border M&A — but the relationship differs sharply by type. Horizontal mergers respond less negatively to trade costs, consistent with the tariff-jumping motive: when tariffs fall, firms substitute exports for affiliates.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Industry-level cross-border M&A data for 23 OECD countries 1990-2001 from Thomson Financial Securities Data Company (SDC), combined with bilateral tariff data and other trade-cost measures.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for Hungarian inward-FDI policy. The paper shows that tariff reductions through EU integration drove some M&A inflows in the 1990s but that horizontal M&As (tariff-jumping) are less sensitive — a Hungarian-relevant pattern given the high share of foreign-owned manufacturing. Useful for HIPA and Pénzügyminisztérium when analysing how EU trade integration interacts with FDI.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "trade-fdi",
+        "industrial-organization",
+        "firms-productivity"
+      ],
+      "methods": [
+        "panel-data"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "macro-aggregate",
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W3121177134"
     },
     {
@@ -32177,21 +32219,30 @@
       "url_published": "https://doi.org/10.1016/j.worlddev.2018.05.011",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "Using a large individual-level survey spanning several years and more than 150 countries, we examine the importance of social networks in influencing individuals' intention to migrate internationally and locally. We distinguish close social networks (composed of friends and family) abroad and at the current location, and broad social networks (composed of same-country residents with intention to migrate, either internationally or locally). We find that social networks abroad are the most important driving forces of international migration intentions, with close and broad networks jointly explaining about 37% of variation in the probability intentions. Social networks are found to be more important factors driving migration intentions than work-related aspects or wealth (wealth accounts for less than 3% of the variation). In addition, we find that having stronger close social networks at home has the opposite effect by reducing the likelihood of migration intentions, both internationally and locally.",
+      "summary_en": "What predicts whether someone intends to migrate internationally — economic conditions, or social networks? Manchin and Orazbayev use Gallup World Poll individual-level survey data spanning 150+ countries and several years. The most important driver is social networks abroad (close family/friends + broader same-country residents with migration intent), accounting for ~37% of variation in migration probability. Wealth accounts for less than 3% of the variation. Strong close networks at the current location actually reduce migration intent. The result reframes migration policy as much about networks as about economic conditions.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Gallup World Poll individual-level survey data ~2008-2016, covering 150+ countries with hundreds of thousands of respondents per wave; includes detailed migration-intent, network, work, and wealth measures.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for Hungarian migration policy and the Hungarian Office of Immigration and Asylum. The paper shows networks dominate economic factors in explaining migration intent — useful for predicting future Hungarian inflows from regions with established Hungarian or co-ethnic diasporas (e.g., Ukraine, Romania, Serbia). Also relevant for EU migration-policy analysis at DG-HOME.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "demographics-migration",
+        "behavioral",
+        "labor-markets"
+      ],
+      "methods": [
+        "panel-data",
+        "descriptive-survey"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-20",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2584950468",
       "policy_instruments": [
         "migration networks policy"
@@ -41815,7 +41866,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 96
+      "paper_count": 97
     },
     {
       "id": "education-skills",
@@ -41848,7 +41899,7 @@
       "policy_framing_en": "Relevant to: family policy, pension system, immigration policy, retention of skilled workers.",
       "policy_framing_hu": "Releváns: családpolitika, nyugdíjrendszer, bevándorláspolitika, szakemberek megtartása.",
       "icon": "users",
-      "paper_count": 37
+      "paper_count": 38
     },
     {
       "id": "trade-fdi",
@@ -41859,7 +41910,7 @@
       "policy_framing_en": "Relevant to: EU trade policy, FDI promotion, export promotion, supply chain resilience, industrial policy.",
       "policy_framing_hu": "Releváns: EU kereskedelempolitika, FDI ösztönzés, exporttámogatás, ellátási láncok rugalmassága, iparpolitika.",
       "icon": "globe",
-      "paper_count": 82
+      "paper_count": 87
     },
     {
       "id": "firms-productivity",
@@ -41870,7 +41921,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 131
+      "paper_count": 132
     },
     {
       "id": "innovation-digital",
@@ -41914,7 +41965,7 @@
       "policy_framing_en": "Relevant to: regional development funds, housing policy, transport investment, urban planning.",
       "policy_framing_hu": "Releváns: regionális fejlesztési alapok, lakáspolitika, közlekedési beruházások, városfejlesztés.",
       "icon": "building",
-      "paper_count": 64
+      "paper_count": 65
     },
     {
       "id": "energy-environment",
@@ -41936,7 +41987,7 @@
       "policy_framing_en": "Relevant to: welfare system, anti-poverty programs, family allowances, gender-equal pay policies.",
       "policy_framing_hu": "Releváns: szociális rendszer, szegénység elleni programok, családi pótlékok, egyenlő bérezés.",
       "icon": "scale",
-      "paper_count": 100
+      "paper_count": 101
     },
     {
       "id": "political-economy",
@@ -41947,7 +41998,7 @@
       "policy_framing_en": "Relevant to: anti-corruption policy, public administration reform, EU affairs, electoral system design.",
       "policy_framing_hu": "Releváns: korrupcióellenes politika, közigazgatási reform, EU-ügyek, választási rendszer.",
       "icon": "building-2",
-      "paper_count": 68
+      "paper_count": 70
     },
     {
       "id": "transition-postcommunist",
@@ -41969,7 +42020,7 @@
       "policy_framing_en": "Relevant to: consumer protection, pension-default design, nudging, financial-education regulation, addictive-product regulation.",
       "policy_framing_hu": "Releváns: fogyasztóvédelem, nyugdíjalap-alapbeállítások, döntéslendítés (nudge), pénzügyi edukáció szabályozása, függőséget okozó termékek szabályozása.",
       "icon": "brain",
-      "paper_count": 111
+      "paper_count": 112
     },
     {
       "id": "industrial-organization",
@@ -41980,7 +42031,7 @@
       "policy_framing_en": "Relevant to: competition policy (GVH), merger review, platform regulation, auction design, sector-specific regulation.",
       "policy_framing_hu": "Releváns: versenypolitika (GVH), fúziókontroll, platformszabályozás, aukciótervezés, ágazati szabályozás.",
       "icon": "network",
-      "paper_count": 84
+      "paper_count": 87
     },
     {
       "id": "macroeconomics",
@@ -42013,7 +42064,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 169
+      "paper_count": 170
     },
     {
       "id": "market-design",
