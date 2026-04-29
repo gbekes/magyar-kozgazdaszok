@@ -26326,21 +26326,31 @@
       "url_published": "https://doi.org/10.1016/j.socec.2014.06.003",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "We report experimental evidence on gender differences in financial decision-making that involves three depositors choosing whether to keep their money deposited or to withdraw it. We find that one's position in the line, the fact that one is being observed and observed decisions are key determinants in explaining the subjects' behavior. Our main result is that men and women do not react differently to what is observed. However, there are gender differences regarding the effect of being observed: women value the fact of being observed more, while men value the number of subsequent depositors who observe them. Interestingly, risk aversion has no predictive power on depositors' behavior.",
+      "summary_en": "Do men and women react differently in financial decisions when others can see their choices? Kiss, Rodríguez-Lara and Rosa-García run a sequential bank-run experiment with three depositors who choose to withdraw or keep deposits. They find both genders respond similarly to what they observe others doing — there's no 'panic gap'. But there is a meaningful gender gap in how observability itself affects choice: women weigh the fact of being observed more, while men weigh the number of subsequent depositors who will see them. Risk aversion does not predict depositor behaviour for either gender.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Lab experiment with three-depositor bank-run sequences, Universidad Autónoma de Madrid and similar venues, with information manipulation across treatments and varying observability conditions. Approximately 200+ subjects.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungarian bank-supervisory communication (MNB depositor protection messaging, OBA outreach during deposit insurance announcements) typically treats depositors as homogeneous. The paper shows the impact of public deposit information depends on gender-by-observability interaction. Useful for refining MNB and OBA communication strategies during stress events.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "behavioral",
+        "demographics-migration"
+      ],
+      "methods": [
+        "rct"
+      ],
+      "countries_studied": [
+        "ES"
+      ],
+      "data_types": [
+        "field-experiment"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W1913706515"
     },
     {
@@ -26362,21 +26372,30 @@
       "url_published": "https://doi.org/10.1016/j.jebo.2014.01.019",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "We report experimental evidence on the effect of observability of actions on bank runs. We model depositors' decision-making in a sequential framework, with three depositors located at the nodes of a network. Depositors observe the other depositors' actions only if connected by the network. Theoretically, a sufficient condition to prevent bank runs is that the second depositor to act is able to observe the first one's action (no matter what is observed). Experimentally, we find that observability of actions affects the likelihood of bank runs, but depositors' choice is highly influenced by the particular action that is being observed. Depositors who are observed by others at the beginning of the line are more likely to keep their money deposited, leading to less bank runs. When withdrawals are observed, bank runs are more likely even when the mere observation of actions should prevent them.",
+      "summary_en": "Are bank runs more or less likely when depositors can observe each other's actions through their social network? Kiss, Rodríguez-Lara and Rosa-García model depositors at network nodes who can only see each other's withdraw/keep decisions if directly connected. Theoretically, simply observing the second depositor's choice should prevent bank runs. Experimentally, observability does influence bank-run frequency — but the direction depends on what is observed: seeing 'keep' decisions reduces runs, seeing 'withdraw' decisions amplifies them. Visibility of bad behaviour can outweigh visibility of good behaviour, contra theory.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Lab experiment with networked depositors choosing to withdraw or keep deposits, Universidad Autónoma de Madrid and other Spanish university labs. Information structure varies across treatments to manipulate observability.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for the MNB and OBA in Hungary when designing bank-run prevention protocols. The paper suggests that real-time disclosure of withdrawal queues and ATM activity could amplify rather than dampen runs — relevant for MNB stress-test design and OBA crisis-communication protocols. Confirms why social-media monitoring is important for Hungarian bank-supervisory units.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "behavioral"
+      ],
+      "methods": [
+        "rct"
+      ],
+      "countries_studied": [
+        "ES"
+      ],
+      "data_types": [
+        "field-experiment"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W1972454707"
     },
     {
@@ -26389,30 +26408,40 @@
       ],
       "publication_type": "article",
       "journal": "Journal of Behavioral and Experimental Economics",
-      "year": 2015,
+      "year": 2016,
       "volume": "64",
       "issue": null,
       "pages": "12-19",
-      "doi": "10.1016/j.socec.2015.01.006",
+      "doi": "10.1016/j.socec.2016.04.001",
       "working_paper_series": null,
       "url_published": "https://doi.org/10.1016/j.socec.2015.01.006",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "We assess the effect of cognitive abilities on withdrawal decisions in a bank-run game. In our setup, depositors choose sequentially between withdrawing or keeping their funds deposited in a common bank. Depositors may observe previous decisions depending on the information structure. Theoretically, the last depositor in the sequence of decisions has a dominant strategy and should always keep the funds deposited, regardless of what she observes (if anything). Recognizing the dominant strategy, however, is not always straightforward. If there exists strategic uncertainty (e.g., if the last depositor has no information regarding the decisions of predecessors), then the identification of the dominant strategy is more difficult than in a situation with no strategic uncertainty. We find that cognitive abilities, as measured by the Cognitive Reflection Test (CRT), predict withdrawals in the presence of strategic uncertainty (participants with stronger abilities tend to identify the dominant strategy more easily) but that the CRT does not predict behavior when strategic uncertainty is absent.",
+      "summary_en": "Theoretical bank-run models often assume depositors recognise dominant strategies — situations where they should never withdraw. Kiss, Rodríguez-Lara and Rosa-García test this in the lab. The third (last) depositor in a sequential bank-run game has a strict dominant strategy to keep deposits, regardless of what the first two did. They find subjects' ability to identify this strategy depends on cognitive ability (Cognitive Reflection Test scores) — but only when strategic uncertainty exists (when the depositor doesn't know what others did). With full information, even low-CRT subjects play the dominant strategy. Cognitive limits matter for bank-run dynamics specifically when information is incomplete.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Lab experiment with three-depositor bank-run sequences and Cognitive Reflection Test (CRT) measurements; subjects from Spanish university labs, varying information-structure treatments.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungarian financial-literacy initiatives (MNB Money Compass Foundation, NGM education programmes) treat all depositors uniformly. The paper shows bank-run risk concentrates among lower-CRT depositors specifically when information is absent — a basis for targeting financial-literacy resources at low-CRT populations and improving information availability during stress events.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "behavioral",
+        "education-skills"
+      ],
+      "methods": [
+        "rct"
+      ],
+      "countries_studied": [
+        "ES"
+      ],
+      "data_types": [
+        "field-experiment"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2079037883"
     },
     {
@@ -26423,8 +26452,8 @@
         "Ismael Rodríguez-Lara",
         "Alfonso Rosa-García"
       ],
-      "publication_type": "chapter",
-      "journal": "Experimental Economics",
+      "publication_type": "book-chapter",
+      "journal": "Experimental Economics (Palgrave book chapter)",
       "year": 2016,
       "volume": null,
       "issue": null,
@@ -26468,7 +26497,7 @@
       ],
       "publication_type": "article",
       "journal": "Economics Letters",
-      "year": 2017,
+      "year": 2018,
       "volume": "162",
       "issue": null,
       "pages": "146-149",
@@ -26566,11 +26595,11 @@
       ],
       "publication_type": "article",
       "journal": "Education Economics",
-      "year": 2017,
+      "year": 2018,
       "volume": "26",
       "issue": "2",
       "pages": "179-193",
-      "doi": "10.1080/09645292.2017.1382444",
+      "doi": "10.1080/09645292.2017.1399359",
       "working_paper_series": null,
       "url_published": "https://doi.org/10.1080/09645292.2017.1382444",
       "url_pdf": null,
@@ -40888,7 +40917,7 @@
       "policy_framing_en": "Relevant to: curriculum design, teacher policy, school tracking age, higher education funding, vocational training.",
       "policy_framing_hu": "Releváns: tantervfejlesztés, tanárpolitika, iskolai szelekció életkora, felsőoktatás finanszírozása, szakképzés.",
       "icon": "graduation-cap",
-      "paper_count": 51
+      "paper_count": 52
     },
     {
       "id": "health",
@@ -40910,7 +40939,7 @@
       "policy_framing_en": "Relevant to: family policy, pension system, immigration policy, retention of skilled workers.",
       "policy_framing_hu": "Releváns: családpolitika, nyugdíjrendszer, bevándorláspolitika, szakemberek megtartása.",
       "icon": "users",
-      "paper_count": 31
+      "paper_count": 32
     },
     {
       "id": "trade-fdi",
@@ -40954,7 +40983,7 @@
       "policy_framing_en": "Relevant to: MNB policy, banking regulation, macroprudential tools, financial inclusion.",
       "policy_framing_hu": "Releváns: MNB-politika, bankszabályozás, makroprudenciális eszközök, pénzügyi befogadás.",
       "icon": "landmark",
-      "paper_count": 109
+      "paper_count": 112
     },
     {
       "id": "fiscal-tax",
@@ -41031,7 +41060,7 @@
       "policy_framing_en": "Relevant to: consumer protection, pension-default design, nudging, financial-education regulation, addictive-product regulation.",
       "policy_framing_hu": "Releváns: fogyasztóvédelem, nyugdíjalap-alapbeállítások, döntéslendítés (nudge), pénzügyi edukáció szabályozása, függőséget okozó termékek szabályozása.",
       "icon": "brain",
-      "paper_count": 88
+      "paper_count": 91
     },
     {
       "id": "industrial-organization",

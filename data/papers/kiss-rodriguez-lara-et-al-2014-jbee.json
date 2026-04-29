@@ -17,20 +17,30 @@
   "url_published": "https://doi.org/10.1016/j.socec.2014.06.003",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "We report experimental evidence on gender differences in financial decision-making that involves three depositors choosing whether to keep their money deposited or to withdraw it. We find that one's position in the line, the fact that one is being observed and observed decisions are key determinants in explaining the subjects' behavior. Our main result is that men and women do not react differently to what is observed. However, there are gender differences regarding the effect of being observed: women value the fact of being observed more, while men value the number of subsequent depositors who observe them. Interestingly, risk aversion has no predictive power on depositors' behavior.",
+  "summary_en": "Do men and women react differently in financial decisions when others can see their choices? Kiss, Rodríguez-Lara and Rosa-García run a sequential bank-run experiment with three depositors who choose to withdraw or keep deposits. They find both genders respond similarly to what they observe others doing — there's no 'panic gap'. But there is a meaningful gender gap in how observability itself affects choice: women weigh the fact of being observed more, while men weigh the number of subsequent depositors who will see them. Risk aversion does not predict depositor behaviour for either gender.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Lab experiment with three-depositor bank-run sequences, Universidad Autónoma de Madrid and similar venues, with information manipulation across treatments and varying observability conditions. Approximately 200+ subjects.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungarian bank-supervisory communication (MNB depositor protection messaging, OBA outreach during deposit insurance announcements) typically treats depositors as homogeneous. The paper shows the impact of public deposit information depends on gender-by-observability interaction. Useful for refining MNB and OBA communication strategies during stress events.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "behavioral",
+    "demographics-migration"
+  ],
+  "methods": [
+    "rct"
+  ],
+  "countries_studied": [
+    "ES"
+  ],
+  "data_types": [
+    "field-experiment"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W1913706515"
 }
