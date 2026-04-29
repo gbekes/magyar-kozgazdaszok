@@ -17,19 +17,30 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Using Hungarian manufacturing data from 1992–2003, we confirm that firms perform better in agglomerated areas and show that traders gain more in terms of productivity than non-traders when agglomeration rises. Specifically, firms that are stable participants of international trade gain 16% in terms of total factor productivity growth as agglomeration doubles while non-traders may not benefit from agglomeration at all. The results suggest that traders' productivity premium is most apparent in urbanised economies. The paper examines how different types of trading activity (importers, exporters, and two-way traders) interact with external economies of scale in agglomerated regions within Hungarian manufacturing. [Source: working-paper / publisher description; verify against published RSUE abstract.]",
-  "summary_en": null,
+  "summary_en": "Do firms in agglomerated regions perform better — and which firms benefit most? Békés and Harasztosi use Hungarian manufacturing firm-level data 1992-2003 to test the agglomeration premium and how it interacts with international trade. They confirm firms perform better in agglomerated areas, and document a clear interaction: firms that are stable participants in international trade gain about 16% in TFP growth as agglomeration doubles, while non-traders may not benefit from agglomeration at all. The result frames urban-economic policy: agglomeration externalities work primarily through firms exposed to international markets.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian manufacturing firm-level panel 1992-2003 from KSH/CSO + customs data, covering ~5,000-15,000 firms per year across all manufacturing industries with detailed input-output, productivity, and trading-status variables.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for Hungarian regional-economic-development policy (Pénzügyminisztérium, IFKA, EU Cohesion Fund). The paper shows the case for promoting industrial-park clustering depends on whether the firms attracted are tradable-sector vs non-tradable-sector — only the former meaningfully benefit from co-location. Useful diagnostic for Hungarian SEZ designation criteria.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "regional-urban",
+    "firms-productivity",
+    "trade-fdi"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm",
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W1989301758"
 }

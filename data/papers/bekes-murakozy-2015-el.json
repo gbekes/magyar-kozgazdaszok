@@ -17,19 +17,27 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This paper shows that estimating productivity premia for internationalization modes requires information compression when firms can choose from many modes. Using a unique database of European firms, we illustrate different approaches and suggest that researchers should deliberately choose from them. [Source: publisher description; verify against published Economics Letters abstract.]",
-  "summary_en": null,
+  "summary_en": "When firms can choose from many modes of internationalisation (direct exports, indirect exports, FDI, outsourcing, etc.), how should researchers estimate the productivity premium associated with each mode? Békés and Murakozy show that with many modes, naive comparison of mode-specific productivity is misleading, and information compression of mode categories is needed. Using a multi-country European firm dataset, they illustrate different approaches and argue researchers should make explicit choices about how to compress modes rather than implicit ones.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Multi-country European firm-level dataset (likely EFIGE or comparable), with explicit mode-of-internationalisation information for tens of thousands of firms across 5-7 countries.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Methodological contribution relevant for KSH, MNB, and EU statistical offices studying internationalisation patterns. The paper warns against naive productivity-mode comparisons that don't compress mode categories — useful guidance for KSH foreign-affiliate-trade statistics and for HIPA when ranking 'export' vs 'FDI' performance of Hungarian firms.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "trade-fdi",
+    "firms-productivity",
+    "methods"
+  ],
+  "methods": [
+    "panel-data"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2215100028"
 }

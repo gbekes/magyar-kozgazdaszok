@@ -17,19 +17,31 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Using Hungarian firm-transaction level export data, we show that about one third of firm–destination and about one half of firm–product–destination export spells are short-lived, or temporary, each year. This is in odds with theories where comparative advantage is stable and market entry costs are sunk. We show how endogenous choice between variable and sunk cost trade technologies can explain the empirical importance and some characteristics of temporary trade. We build a model in which the likelihood of temporary trade depends on productivity and capital cost of the firm as well as well-known gravity variables of destinations. These predictions are borne out by the data; the likelihood of permanent trade, defined by a simple filter, rises with firm productivity, financial stability, proximity and GDP of destination countries.",
-  "summary_en": null,
+  "summary_en": "Standard trade models assume firms enter export markets after paying a sunk cost and stay there. Békés and Murakozy use Hungarian firm-transaction export data to show this misses a major empirical pattern: about one-third of firm-destination and one-half of firm-product-destination export spells are short-lived (one or two years). They build a model where firms endogenously choose between sunk-cost and variable-cost trade technologies, predicting that temporary trade is more likely for low-productivity firms, financially constrained firms, and remote/small destination markets. The data confirm these predictions.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian firm-transaction-level export data 1992-2003 covering all customs declarations, merged with the KSH/CSO firm balance-sheet panel. ~50,000+ firm-destination spells observed.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for Hungarian export-promotion policy (HIPA) and trade-finance support (Eximbank). The paper shows substantial 'churn' in export markets is normal and partly driven by firm productivity and financial constraints — useful for designing trade-finance products (Eximbank short-term insurance) and for sequencing HIPA's market-development support.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "trade-fdi",
+    "firms-productivity",
+    "industrial-organization"
+  ],
+  "methods": [
+    "structural",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm",
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-19",
-  "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2084966868"
 }

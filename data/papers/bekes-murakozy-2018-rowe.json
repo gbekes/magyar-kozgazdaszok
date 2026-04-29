@@ -17,19 +17,28 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We investigate how firms sort into a rich set of internationalization modes, called the 'ladder of internationalization'. We use a unique multi-country firm-level dataset which provides explicit information on a number of internationalization modes: indirect exporting, outsourced manufacturing and service FDI, in addition to direct exporting and FDI. We present a theoretical framework in which modes requiring higher and higher commitment have progressively higher fixed and lower marginal costs. By estimating multinomial and ordered logit models, we present evidence in line with such a sorting framework with respect to TFP and innovativeness. We find that the set of internationalization modes can be described as a ladder, with higher rungs associated with higher levels of productivity and innovation. This ladder has three main steps – indirect exports, direct exports and outsourcing, and service and manufacturing FDI: indirect exporters are similar to non-exporters, direct exporters and outsourced manufacturers constitute a second cluster while service and manufacturing FDI are the most demanding internationalization modes.",
-  "summary_en": null,
+  "summary_en": "Békés and Murakozy show that firms sort across a rich set of internationalisation modes — from indirect exporting to direct exporting, from outsourced manufacturing to service and manufacturing FDI — in a clear 'ladder of internationalisation' shape. Higher rungs require more commitment (higher fixed costs, lower marginal costs). Using a unique multi-country European firm-level dataset, they show three main steps: indirect exporters resemble non-exporters; direct exporters and outsourced manufacturers form a middle cluster; service and manufacturing FDI are the most demanding modes. Higher rungs are associated with higher TFP and innovativeness.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Multi-country European firm-level dataset (likely EFIGE) covering ~12,000 firms across 7 countries with explicit information on each firm's mode of internationalisation, plus productivity and innovation measures.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungarian internationalisation-promotion policy (HIPA, Eximbank, KKM) typically focuses on direct exports and FDI. The paper provides evidence that indirect exporters and outsourced manufacturers occupy distinct positions on the internationalisation ladder — useful framework for designing tiered HIPA support programmes that meet firms at their current rung rather than pushing all toward FDI.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "trade-fdi",
+    "firms-productivity",
+    "industrial-organization"
+  ],
+  "methods": [
+    "panel-data",
+    "structural"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2794240247"
 }

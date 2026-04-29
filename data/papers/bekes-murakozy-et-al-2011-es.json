@@ -18,19 +18,31 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This paper provides a detailed description of Hungarian trade data and key patterns drawn at the firm and product level. In the Bernard et al. (2007) tradition, statistics describe the prevalence of trading activity, typology of firms by internationalisation, and concentration of trade volume within and across sectors both for exports and imports. There are several similarities as well as differences to key US and EU findings. Trade concentration in Hungary is slightly higher than in most European countries and foreign ownership and the role of foreign firms in trade is higher. Furthermore, firm heterogeneity is also studied in terms of traded products as well as partner countries. While the share of single-product exporters is similar to the US, there are certainly fewer Hungarian single-country exporters. With some transition-related differences, we find Hungarian trade activity to broadly match most open economy evidence. Throughout the paper, we use the IEHAS-CEFiG Hungary dataset, an almost universal panel of balance sheet information (1992-2006) merged with firm-product-country level customs data (1992-2003) taken until the 2004 EU accession.",
-  "summary_en": null,
+  "summary_en": "What does Hungarian trade look like at the firm and product level? Békés, Murakozy and Harasztosi follow the Bernard-Jensen-Redding-Schott approach to provide a comprehensive descriptive picture of Hungarian trade 1992-2006. Trade concentration is higher in Hungary than in most European countries (a smaller share of firms accounts for more total trade), and foreign ownership plays a larger role in trade than elsewhere. The share of single-product exporters is similar to the US, but Hungarian firms export to fewer countries on average. The paper documents both the broad similarity of Hungarian trade patterns to other open economies and the transition-era distinctive features.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "IEHAS-CEFiG Hungary dataset: an almost-universal panel of Hungarian firm balance-sheet information 1992-2006 merged with firm-product-country customs declarations 1992-2003, covering tens of thousands of firms.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct foundational reference for Hungarian trade-policy analysis. Documents the high foreign-ownership concentration in Hungarian trade and the transition-era structural patterns. Useful for KKM, HIPA, and Pénzügyminisztérium when interpreting Hungarian export performance and assessing implications of foreign-ownership concentration for trade-policy resilience.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "trade-fdi",
+    "firms-productivity",
+    "transition-postcommunist"
+  ],
+  "methods": [
+    "descriptive-survey",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm",
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W1995657946"
 }

@@ -19,19 +19,31 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We analyze how firms adjust to differences in market size and demand uncertainty by changing the frequency and the size of their export shipments. In our inventory model, transportation costs and optimal shipment frequency are determined on the basis of demand as well as inventory and per shipments costs. Using detailed monthly firm-product-destination level French export data, we show that firms adjust on both margins for market size. In a stochastic setting, increased demand uncertainty is associated with larger logistics costs as well as a more convex marginal cost function. Firms adjust to increased uncertainty by reducing their sales and, for a given export volume, by reducing their number of shipments and increasing their shipment size, which is in line with patterns in the data. [Source: working-paper / publisher description; verify against published Springer abstract.]",
-  "summary_en": null,
+  "summary_en": "How do exporters adjust shipment frequency vs. shipment size in response to demand uncertainty? Békés, Fontagné, Murakozy and Vicard build an inventory model where transportation, inventory, and per-shipment costs jointly determine optimal shipment patterns. Using monthly French firm-product-destination export data, they find firms adjust on both margins: larger markets get more frequent shipments, while increased demand uncertainty leads to fewer shipments and larger consignments. The patterns match the theoretical predictions of an inventory-management model with logistics cost convexity, providing micro-foundations for trade-elasticity estimates.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "French monthly firm-product-destination export data from French customs, ~tens of thousands of exporting firms across thousands of destinations and products, multiple years.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungarian export-promotion policy (HIPA, KKM) and statistics agencies tracking export performance (KSH) typically use monthly aggregate trade data. The paper shows shipment-frequency vs shipment-size adjustments are economically important channels — relevant for designing HIPA logistics-support programmes and for KSH when interpreting volatility in monthly export series.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "trade-fdi",
+    "firms-productivity",
+    "industrial-organization"
+  ],
+  "methods": [
+    "panel-data",
+    "structural"
+  ],
+  "countries_studied": [
+    "FR"
+  ],
+  "data_types": [
+    "admin-firm",
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W3121485329"
 }
