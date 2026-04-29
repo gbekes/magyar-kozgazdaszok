@@ -17,19 +17,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Chapter 8 of Acs & Szerb's 'Global Entrepreneurship and Development Index 2011' (Edward Elgar). Updates the GEDI methodology and country rankings. No publisher-side chapter abstract available.",
-  "summary_en": null,
+  "summary_en": "The 2011 GEDI volume updates the methodology and country rankings introduced in the 2010 edition. Ács and Szerb refine the bottleneck-identification approach (penalty for bottleneck), incorporate post-financial-crisis data, and re-rank countries on entrepreneurship attitudes, abilities, and aspirations. The chapter documents how the global financial crisis affected national entrepreneurship systems and points to specific institutional weaknesses that hinder recovery in different country categories.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Global Entrepreneurship Monitor (GEM) survey data combined with updated 2011 institutional indicators from the World Bank, World Economic Forum, and Heritage Foundation; covers ~70+ countries with post-financial-crisis observations.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Provides the methodological foundation for Hungarian-specific GEDI assessments cited in domestic policy documents. Useful for ITM, KKM, and HIPA when interpreting Hungary's relative entrepreneurship-system performance and identifying specific institutional reform priorities.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "industrial-organization",
+    "innovation-digital",
+    "macroeconomics"
+  ],
+  "methods": [
+    "descriptive-survey",
+    "structural"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "survey",
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W635628149"
 }

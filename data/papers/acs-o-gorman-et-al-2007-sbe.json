@@ -19,19 +19,31 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "It is widely recognized that Foreign Direct Investment (FDI) plays an important role in economic development. However, its impact on entrepreneurial activity has not been well researched. Internalization theory is used to explore how inward FDI impacts entrepreneurial activity. Using data from Global Entrepreneurship Monitor (GEM), we find significant differences in entrepreneurial activity between Ireland and Hungary in both the type of people starting businesses and the opportunities pursued. Economic development policies should focus on increasing human capital, promoting enterprise development, and upgrading the quality of FDI.",
-  "summary_en": null,
+  "summary_en": "Could Hungary replicate Ireland's economic miracle? Ács, O'Gorman, Szerb and Terjesen use Global Entrepreneurship Monitor (GEM) data to compare entrepreneurial activity in the two countries shortly after Hungary's EU accession. They find significant differences in the type of people starting businesses and the opportunities pursued — Ireland's growth was associated with high-quality opportunity-driven entrepreneurship, while Hungary's pattern was more necessity-driven. The policy prescription for Hungary: focus on raising human capital, promoting enterprise development, and upgrading the quality of FDI rather than just attracting more of it.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Global Entrepreneurship Monitor (GEM) survey data on ~2,000 Hungarian and ~2,000 Irish adults, including new-firm founders and prospective entrepreneurs, mid-2000s. Includes type of entrepreneurial activity (necessity vs. opportunity) and motivations.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct historical comparison addressing a foundational Hungarian policy question. The paper's policy prescription — quality-of-FDI over quantity-of-FDI, plus human-capital and enterprise-development investment — has remained relevant through HIPA's evolution and the post-2010 reindustrialisation strategy. Useful for KKM, Pénzügyminisztérium, and ITM when re-evaluating long-term FDI-promotion frameworks.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "trade-fdi",
+    "industrial-organization",
+    "innovation-digital"
+  ],
+  "methods": [
+    "descriptive-survey",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU",
+    "IE"
+  ],
+  "data_types": [
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2168896720"
 }

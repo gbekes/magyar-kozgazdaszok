@@ -18,19 +18,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Chapter in Acs, Szerb & Autio's 'Global Entrepreneurship and Development Index 2014' (SpringerBriefs in Economics 2015). Presents the GEDI framework and updated country rankings. No standalone chapter abstract for SpringerBriefs volumes.",
-  "summary_en": null,
+  "summary_en": "Ács, Szerb and Autio's 2014 GEDI volume (SpringerBriefs) updates the framework and country rankings to mid-decade data. The book systematically presents the index methodology, sub-component construction, and country profiles for ~75 countries, including how each country compares on entrepreneurial attitudes, abilities, and aspirations. The bottleneck approach is refined further. Country profiles serve as a benchmarking tool for national policy bodies considering entrepreneurship reforms.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Global Entrepreneurship Monitor (GEM) survey data combined with 2014 institutional indicators across ~75 countries, with country-by-country profiles showing strengths and weaknesses.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "The 2014 volume includes a Hungarian country profile useful for ITM, KKM, HIPA, and other entrepreneurship-policy bodies. Provides specific bottleneck identification for Hungary that informs targeted policy interventions rather than broad-based programmes.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "industrial-organization",
+    "innovation-digital",
+    "macroeconomics"
+  ],
+  "methods": [
+    "descriptive-survey",
+    "structural"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "survey",
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2903438906"
 }

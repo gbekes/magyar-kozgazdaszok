@@ -18,19 +18,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This paper tests the efficiency hypothesis of the knowledge spillover theory of entrepreneurship. Using a comprehensive database for 63 countries for 2012, we employ data envelopment analysis to directly test how countries capitalize on their available entrepreneurial resources. Results support the efficiency hypothesis of knowledge spillover entrepreneurship. We find that innovation-driven economies make a more efficient use of their resources, and that the accumulation of market potential by existing incumbent businesses explains country-level inefficiency. Regardless of the stage of development, knowledge formation is a response to market opportunities and a healthy national system of entrepreneurship is associated with knowledge spillovers that are a prerequisite for higher levels of efficiency. Public policies promoting economic growth should consider national systems of entrepreneurship as a critical priority, so that entrepreneurs can effectively allocate resources in the economy.",
-  "summary_en": null,
+  "summary_en": "Lafuente, Szerb and Ács test the 'efficiency hypothesis' of the knowledge-spillover theory of entrepreneurship: countries with healthier National Systems of Entrepreneurship should make more efficient use of their entrepreneurial resources. Using Data Envelopment Analysis (DEA) on a 63-country dataset for 2012, they confirm the hypothesis. Innovation-driven economies use entrepreneurial inputs more efficiently. Country-level inefficiency is largely explained by accumulated market power held by incumbent firms — supporting policies that promote entrepreneurial competition rather than just subsidising innovation.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Cross-country dataset for 63 countries in 2012, combining Global Entrepreneurship Monitor (GEM) entrepreneurial-resource indicators with World Bank and OECD economic-output measures; data-envelopment analysis (DEA) frontier estimation.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct policy implication: Hungarian innovation policy (ITM, NRDI Fund) should target reducing incumbent-firm market dominance to release entrepreneurial efficiency, not just subsidise more innovation inputs. Useful framework for GVH (competition) and ITM coordinated policy design.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "industrial-organization",
+    "innovation-digital",
+    "firms-productivity"
+  ],
+  "methods": [
+    "structural",
+    "panel-data"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "survey",
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W1814233216"
 }

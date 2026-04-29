@@ -4577,20 +4577,30 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We introduce a novel concept of National Systems of Entrepreneurship and provide an approach to characterizing them. National Systems of Entrepreneurship are fundamentally resource allocation systems that are driven by individual-level opportunity pursuit, through the creation of new ventures, with this activity and its outcomes regulated by country-specific institutional characteristics. In contrast with the institutional emphasis of the National Systems of Innovation frameworks, where institutions engender and regulate action, National Systems of Entrepreneurship are driven by individuals, with institutions regulating who acts and the outcomes of individual action. Building on these principles, we also introduce a novel index methodology to characterize National Systems of Entrepreneurship. The distinctive features of the methodology are: (1) systemic approach, which allows interactions between components of National Systems of Entrepreneurship; (2) the Penalty for Bottleneck feature, which identifies bottleneck factors that hold back system performance; (3) contextualization, which recognizes that national entrepreneurship processes are always embedded in a given country's institutional framework.",
-      "summary_en": null,
+      "summary_en": "Why do some countries generate more entrepreneurial activity than others? Ács, Autio and Szerb introduce 'National Systems of Entrepreneurship' (NSE) — a complement to the older 'National Systems of Innovation' framework that better captures individual-driven opportunity pursuit. They develop an index that combines individual-level entrepreneurship measures with country-specific institutional moderators, identifies bottleneck factors holding back system performance (a 'penalty for bottleneck' feature), and contextualises everything within national institutional frameworks. The result is a tool for policymakers to diagnose specific weaknesses in their entrepreneurship ecosystem.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Country-level data combining Global Entrepreneurship Monitor (GEM) individual-level survey responses (~2,000 individuals per country) with World Bank, World Economic Forum, Heritage Foundation institutional indicators, covering ~60+ countries.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for the Hungarian Innovation and Technology Ministry (ITM, now KKM) when designing entrepreneurship-promotion policies under the Hungarian National Smart Specialisation Strategy. The paper's bottleneck-identification methodology provides a diagnostic tool for finding which specific institutional barriers (regulatory, financial, cultural) most constrain Hungarian entrepreneurship — useful for targeted policy interventions rather than across-the-board programmes.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "industrial-organization",
+        "innovation-digital",
+        "political-economy"
+      ],
+      "methods": [
+        "structural",
+        "panel-data"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "survey",
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W3125376737"
     },
     {
@@ -4703,20 +4713,32 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "It is widely recognized that Foreign Direct Investment (FDI) plays an important role in economic development. However, its impact on entrepreneurial activity has not been well researched. Internalization theory is used to explore how inward FDI impacts entrepreneurial activity. Using data from Global Entrepreneurship Monitor (GEM), we find significant differences in entrepreneurial activity between Ireland and Hungary in both the type of people starting businesses and the opportunities pursued. Economic development policies should focus on increasing human capital, promoting enterprise development, and upgrading the quality of FDI.",
-      "summary_en": null,
+      "summary_en": "Could Hungary replicate Ireland's economic miracle? Ács, O'Gorman, Szerb and Terjesen use Global Entrepreneurship Monitor (GEM) data to compare entrepreneurial activity in the two countries shortly after Hungary's EU accession. They find significant differences in the type of people starting businesses and the opportunities pursued — Ireland's growth was associated with high-quality opportunity-driven entrepreneurship, while Hungary's pattern was more necessity-driven. The policy prescription for Hungary: focus on raising human capital, promoting enterprise development, and upgrading the quality of FDI rather than just attracting more of it.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Global Entrepreneurship Monitor (GEM) survey data on ~2,000 Hungarian and ~2,000 Irish adults, including new-firm founders and prospective entrepreneurs, mid-2000s. Includes type of entrepreneurial activity (necessity vs. opportunity) and motivations.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct historical comparison addressing a foundational Hungarian policy question. The paper's policy prescription — quality-of-FDI over quantity-of-FDI, plus human-capital and enterprise-development investment — has remained relevant through HIPA's evolution and the post-2010 reindustrialisation strategy. Useful for KKM, Pénzügyminisztérium, and ITM when re-evaluating long-term FDI-promotion frameworks.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "trade-fdi",
+        "industrial-organization",
+        "innovation-digital"
+      ],
+      "methods": [
+        "descriptive-survey",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU",
+        "IE"
+      ],
+      "data_types": [
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2168896720"
     },
     {
@@ -4741,20 +4763,30 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "The emergence of digital technologies has significantly reduced the economic costs of data—search, storage, computation, transmission—and enabled new economic activities. Over the years, firms able to create a platform-based ecosystem have become a force of \"creative construction.\" Economic activities (C2C, B2C, B2B) have been reorganized around platform-based ecosystems for value creation and value appropriation, which are orchestrated by multisided platforms via the \"digital hand.\" To further understanding of the Digital Platform Economy, this paper provides a conceptual framework consisting of three interrelated concepts: digital technology infrastructure, multisided digital platforms, and platform-based ecosystems (users and entrepreneurs). Using a unique database over five decades, we revisit the hypothesis that new firms were needed to introduce digital technologies.",
-      "summary_en": null,
+      "summary_en": "Digital platforms (Amazon, Uber, Airbnb, Alibaba) have reorganised global economic activity around 'platform-based ecosystems' that handle search, matching, and transactions through what the authors call the 'digital hand' (vs. Adam Smith's invisible hand). Ács, Song, Szerb, Audretsch and Komlósi build a 50-year database of digital platform development (1971–2021) and propose a three-part conceptual framework: digital infrastructure, multisided platforms, and ecosystems. They revisit the question of whether digital revolution required new firms (rather than existing-firm adoption) and document how the platform economy has evolved.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Custom database of digital platform companies and their evolution 1971-2021, drawing from corporate filings, technology histories, founder backgrounds, and platform-economy participation indicators across all major platform companies.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungarian competition policy (GVH) and digital-economy regulation (NMHH, ITM) increasingly engage with platform regulation under the EU Digital Markets Act and Digital Services Act. The paper provides a quantitative historical baseline and conceptual framework useful for Hungarian implementation of these EU regulations. Also relevant for HIPA when assessing platform-based foreign-direct-investment opportunities.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "innovation-digital",
+        "industrial-organization",
+        "trade-fdi"
+      ],
+      "methods": [
+        "descriptive-survey",
+        "panel-data"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "historical",
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W3214515521"
     },
     {
@@ -4776,20 +4808,26 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This paper is an introduction to the second Global Entrepreneurship Research Conference. The conference focused on developing a better understanding of the relationships among entrepreneurship, economic growth and public policy, and variations according to the stage of economic development. The papers in this special issue conduct analysis with GEM micro-and-macro data, and offer several important policy recommendations. First, middle-income countries should focus on increasing human capital, upgrading technology availability and promoting enterprise development. It is important to start enterprise development policies early because the main drivers are perceptual variables that are difficult to change in the short run. Second, for developed economies, reducing entry regulations, in most cases, will not result in more high-potential startups. Both labor market reform and deregulation of financial markets may be needed to support growth of high-performance ventures.",
-      "summary_en": null,
+      "summary_en": "Ács and Szerb's introduction to the second Global Entrepreneurship Research Conference draws together cross-country evidence on the entrepreneurship-growth-policy relationship. They argue that the appropriate entrepreneurship policy depends on a country's stage of development. Middle-income countries (including Hungary) should focus on raising human capital, upgrading technology availability, and promoting enterprise development. Developed economies, by contrast, may not see more high-potential startups simply from reducing entry regulations — labour-market reform and financial-market deregulation may be needed.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Cross-country meta-review of papers in the Small Business Economics special issue (2007) using Global Entrepreneurship Monitor (GEM) micro and macro data, covering 30+ countries at varying development stages.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for Hungary's evolving entrepreneurship-policy framework. The paper supports the case that Hungary, as a middle-income economy, should prioritise human-capital and technology-upgrading investments over deregulation. Useful framing for ITM, Pénzügyminisztérium, and Hungarian academic institutions when designing the Hungarian National Smart Specialisation Strategy.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "industrial-organization",
+        "innovation-digital",
+        "macroeconomics"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2059383461"
     },
     {
@@ -4811,20 +4849,30 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Chapter 8 of Acs & Szerb's 'Global Entrepreneurship and Development Index 2010' (Edward Elgar). Develops the methodology and country rankings of the Global Entrepreneurship and Development Index. No publisher-side chapter abstract available.",
-      "summary_en": null,
+      "summary_en": "Chapter 8 of the Edward Elgar volume Global Entrepreneurship and Development Index 2010 develops the GEDI methodology that combines individual-level entrepreneurship indicators with country-level institutional moderators to produce a comparable cross-country entrepreneurship index. The chapter explains the construction (component sub-indices for attitudes, abilities, aspirations) and applies it to country rankings. The methodology becomes the foundation for subsequent annual GEDI reports widely cited in entrepreneurship-policy circles.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Global Entrepreneurship Monitor (GEM) individual-level survey responses combined with country-level institutional indicators from the World Bank, World Economic Forum, and Heritage Foundation, covering ~70+ countries for 2010.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "GEDI rankings are referenced by the European Commission DG-GROW, OECD, and national entrepreneurship-policy bodies including Hungary's ITM and KKM. The chapter explains the methodology underlying those references, useful for analysts at the Pénzügyminisztérium and HIPA when interpreting Hungary's GEDI position.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "industrial-organization",
+        "innovation-digital",
+        "macroeconomics"
+      ],
+      "methods": [
+        "descriptive-survey",
+        "structural"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "survey",
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2889307847"
     },
     {
@@ -4846,20 +4894,30 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Chapter 8 of Acs & Szerb's 'Global Entrepreneurship and Development Index 2011' (Edward Elgar). Updates the GEDI methodology and country rankings. No publisher-side chapter abstract available.",
-      "summary_en": null,
+      "summary_en": "The 2011 GEDI volume updates the methodology and country rankings introduced in the 2010 edition. Ács and Szerb refine the bottleneck-identification approach (penalty for bottleneck), incorporate post-financial-crisis data, and re-rank countries on entrepreneurship attitudes, abilities, and aspirations. The chapter documents how the global financial crisis affected national entrepreneurship systems and points to specific institutional weaknesses that hinder recovery in different country categories.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Global Entrepreneurship Monitor (GEM) survey data combined with updated 2011 institutional indicators from the World Bank, World Economic Forum, and Heritage Foundation; covers ~70+ countries with post-financial-crisis observations.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Provides the methodological foundation for Hungarian-specific GEDI assessments cited in domestic policy documents. Useful for ITM, KKM, and HIPA when interpreting Hungary's relative entrepreneurship-system performance and identifying specific institutional reform priorities.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "industrial-organization",
+        "innovation-digital",
+        "macroeconomics"
+      ],
+      "methods": [
+        "descriptive-survey",
+        "structural"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "survey",
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W635628149"
     },
     {
@@ -4884,20 +4942,32 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Ács Z. J., Szerb L., Ortega-Argilés R., Aidis R. and Coduras A. The regional application of the Global Entrepreneurship and Development Index (GEDI): the case of Spain, Regional Studies. This paper constructs a regional application of the Global Entrepreneurship and Development Index (GEDI) that captures the contextual features of entrepreneurship across regions. Using institutional data and survey data, weaknesses in the incentive structure that affect regional development can be identified. The entrepreneurial disparities among regions are analysed at the country and regional levels using a penalty for bottleneck methodology. The methodology allows public policy action to be coordinated at both national and regional levels. It is found that GEDI provides a valuable tool for understanding regional differences across Spanish regions.",
-      "summary_en": null,
+      "summary_en": "Can the GEDI methodology — designed for cross-country comparisons — be adapted to compare regions within a single country? Ács, Szerb, Ortega-Argilés, Aidis and Coduras apply a regional GEDI to Spanish autonomous communities, identifying which regions have weaknesses in attitudes, abilities, or aspirations relative to the national institutional context. The 'penalty for bottleneck' methodology lets policymakers see which specific factor is dragging each region down — a more actionable diagnostic than overall entrepreneurship rankings.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Regional GEM data for Spanish autonomous communities (~17 regions), combined with regional-level institutional indicators from Spanish national statistics, the World Bank, and OECD; covers multiple years of post-financial-crisis observations.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct template for applying GEDI methodology to Hungarian regions (Budapest, Central Hungary, Western Transdanubia, Northern Great Plain, etc.). Useful for ITM, MFB, and EU Cohesion Fund administrators when allocating regional development funds. The bottleneck approach helps identify whether a lagging Hungarian region needs human-capital investment, technology infrastructure, or finance access.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "regional-urban",
+        "industrial-organization",
+        "innovation-digital"
+      ],
+      "methods": [
+        "structural",
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "ES"
+      ],
+      "data_types": [
+        "survey",
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2154496153"
     },
     {
@@ -4920,20 +4990,30 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Chapter in Acs, Szerb & Autio's 'Global Entrepreneurship and Development Index 2014' (SpringerBriefs in Economics 2015). Presents the GEDI framework and updated country rankings. No standalone chapter abstract for SpringerBriefs volumes.",
-      "summary_en": null,
+      "summary_en": "Ács, Szerb and Autio's 2014 GEDI volume (SpringerBriefs) updates the framework and country rankings to mid-decade data. The book systematically presents the index methodology, sub-component construction, and country profiles for ~75 countries, including how each country compares on entrepreneurial attitudes, abilities, and aspirations. The bottleneck approach is refined further. Country profiles serve as a benchmarking tool for national policy bodies considering entrepreneurship reforms.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Global Entrepreneurship Monitor (GEM) survey data combined with 2014 institutional indicators across ~75 countries, with country-by-country profiles showing strengths and weaknesses.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "The 2014 volume includes a Hungarian country profile useful for ITM, KKM, HIPA, and other entrepreneurship-policy bodies. Provides specific bottleneck identification for Hungary that informs targeted policy interventions rather than broad-based programmes.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "industrial-organization",
+        "innovation-digital",
+        "macroeconomics"
+      ],
+      "methods": [
+        "descriptive-survey",
+        "structural"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "survey",
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2903438906"
     },
     {
@@ -4956,20 +5036,30 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Chapter in Acs, Szerb & Lloyd's 'The Global Entrepreneurship Index 2017' (SpringerBriefs in Economics 2017). Updates the GEI framework and country rankings. No standalone chapter abstract for SpringerBriefs volumes.",
-      "summary_en": null,
+      "summary_en": "The 2017 GEI volume — successor to GEDI — refines the country-level entrepreneurship index methodology and extends rankings through 2016. Ács, Szerb and Autio (with Lloyd) make the index more accessible to policymakers, expand the country coverage, and add deeper institutional moderators. Country profiles include diagnostic dashboards highlighting specific bottlenecks holding back each country's entrepreneurship system.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Global Entrepreneurship Monitor (GEM) survey data plus institutional indicators for ~75 countries through 2016, with country-profile dashboards summarising strengths and weaknesses.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungarian country profile available for use by ITM, KKM, HIPA, and the Hungarian Innovation Office when interpreting Hungary's entrepreneurship-system performance over time. Also useful for cross-country benchmarking against Visegrad and EU peers.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "industrial-organization",
+        "innovation-digital",
+        "macroeconomics"
+      ],
+      "methods": [
+        "descriptive-survey",
+        "structural"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "survey",
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2762684523"
     },
     {
@@ -29711,20 +29801,30 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This paper tests the efficiency hypothesis of the knowledge spillover theory of entrepreneurship. Using a comprehensive database for 63 countries for 2012, we employ data envelopment analysis to directly test how countries capitalize on their available entrepreneurial resources. Results support the efficiency hypothesis of knowledge spillover entrepreneurship. We find that innovation-driven economies make a more efficient use of their resources, and that the accumulation of market potential by existing incumbent businesses explains country-level inefficiency. Regardless of the stage of development, knowledge formation is a response to market opportunities and a healthy national system of entrepreneurship is associated with knowledge spillovers that are a prerequisite for higher levels of efficiency. Public policies promoting economic growth should consider national systems of entrepreneurship as a critical priority, so that entrepreneurs can effectively allocate resources in the economy.",
-      "summary_en": null,
+      "summary_en": "Lafuente, Szerb and Ács test the 'efficiency hypothesis' of the knowledge-spillover theory of entrepreneurship: countries with healthier National Systems of Entrepreneurship should make more efficient use of their entrepreneurial resources. Using Data Envelopment Analysis (DEA) on a 63-country dataset for 2012, they confirm the hypothesis. Innovation-driven economies use entrepreneurial inputs more efficiently. Country-level inefficiency is largely explained by accumulated market power held by incumbent firms — supporting policies that promote entrepreneurial competition rather than just subsidising innovation.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Cross-country dataset for 63 countries in 2012, combining Global Entrepreneurship Monitor (GEM) entrepreneurial-resource indicators with World Bank and OECD economic-output measures; data-envelopment analysis (DEA) frontier estimation.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct policy implication: Hungarian innovation policy (ITM, NRDI Fund) should target reducing incumbent-firm market dominance to release entrepreneurial efficiency, not just subsidise more innovation inputs. Useful framework for GVH (competition) and ITM coordinated policy design.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "industrial-organization",
+        "innovation-digital",
+        "firms-productivity"
+      ],
+      "methods": [
+        "structural",
+        "panel-data"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "survey",
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W1814233216"
     },
     {
@@ -41335,7 +41435,7 @@
       "policy_framing_en": "Relevant to: EU trade policy, FDI promotion, export promotion, supply chain resilience, industrial policy.",
       "policy_framing_hu": "Releváns: EU kereskedelempolitika, FDI ösztönzés, exporttámogatás, ellátási láncok rugalmassága, iparpolitika.",
       "icon": "globe",
-      "paper_count": 70
+      "paper_count": 72
     },
     {
       "id": "firms-productivity",
@@ -41346,7 +41446,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 114
+      "paper_count": 115
     },
     {
       "id": "innovation-digital",
@@ -41357,7 +41457,7 @@
       "policy_framing_en": "Relevant to: R&D tax credits, digital strategy, AI policy, innovation agency design, university–industry linkages.",
       "policy_framing_hu": "Releváns: K+F adókedvezmények, digitális stratégia, MI-politika, innovációs ügynökségek, egyetem–ipar kapcsolatok.",
       "icon": "cpu",
-      "paper_count": 49
+      "paper_count": 59
     },
     {
       "id": "banking-finance",
@@ -41390,7 +41490,7 @@
       "policy_framing_en": "Relevant to: regional development funds, housing policy, transport investment, urban planning.",
       "policy_framing_hu": "Releváns: regionális fejlesztési alapok, lakáspolitika, közlekedési beruházások, városfejlesztés.",
       "icon": "building",
-      "paper_count": 57
+      "paper_count": 58
     },
     {
       "id": "energy-environment",
@@ -41423,7 +41523,7 @@
       "policy_framing_en": "Relevant to: anti-corruption policy, public administration reform, EU affairs, electoral system design.",
       "policy_framing_hu": "Releváns: korrupcióellenes politika, közigazgatási reform, EU-ügyek, választási rendszer.",
       "icon": "building-2",
-      "paper_count": 66
+      "paper_count": 67
     },
     {
       "id": "transition-postcommunist",
@@ -41456,7 +41556,7 @@
       "policy_framing_en": "Relevant to: competition policy (GVH), merger review, platform regulation, auction design, sector-specific regulation.",
       "policy_framing_hu": "Releváns: versenypolitika (GVH), fúziókontroll, platformszabályozás, aukciótervezés, ágazati szabályozás.",
       "icon": "network",
-      "paper_count": 66
+      "paper_count": 76
     },
     {
       "id": "macroeconomics",
@@ -41467,7 +41567,7 @@
       "policy_framing_en": "Relevant to: long-run growth forecasting, macroeconomic modelling, sovereign-debt management, stabilisation policy design.",
       "policy_framing_hu": "Releváns: hosszú távú növekedés előrejelzés, makroökonómiai modellek, államadósság-kezelés, stabilizációs politika.",
       "icon": "line-chart",
-      "paper_count": 94
+      "paper_count": 99
     },
     {
       "id": "agriculture-food",
