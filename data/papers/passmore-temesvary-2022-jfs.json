@@ -17,19 +17,30 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We construct a model of a bank's optimal funding choice, where the bank negotiates with both safety-driven short-term bondholders and (mostly) risk-taking long-term bondholders. We establish that investor demands for safety create a negative relationship between the bank's capital choices and short-term funding, as well as negative relationships between capital and common measures of bank liquidity. Short-term investors' demands for safety force the bank to hold more collateral, which diminishes the demands by long-term bondholders for higher holdings of bank capital. Consistent with our model, our bank-level empirical analysis of these capital–liquidity trade-offs shows that bank liquidity measures have a strong and negative relationship to the capital ratio. Furthermore, we show that this trade-off does not appear to be regulation related and has diminished in size over time.",
-  "summary_en": null,
+  "summary_en": "Banks must trade off capital adequacy and liquidity — but standard models treat the trade-off as regulation-driven. Passmore and Temesváry build a model where investor demand for safety creates the trade-off endogenously: short-term bondholders demand collateral (forcing banks to hold liquid assets), which in turn reduces the demand by long-term bondholders for higher capital ratios. Their bank-level US empirical analysis confirms a strong negative correlation between liquidity measures and capital ratios that does not appear regulation-driven and has weakened over time. The trade-off is built into the funding-market structure, not just rule-driven.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "US bank-level panel data from Federal Reserve regulatory filings (FR Y-9C) and Call Reports, covering thousands of US commercial banks over multiple years, with detailed funding-mix, capital-ratio, and liquidity measures.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "MNB's bank supervisory framework treats capital and liquidity rules as separately calibrated. The paper shows market forces create a natural capital-liquidity trade-off independent of regulation — relevant for MNB stress-test scenario design and EU Banking Authority calibration. Useful caveat against over-attributing observed bank balance-sheet patterns to regulatory choices.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "macroeconomics"
+  ],
+  "methods": [
+    "structural",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "admin-firm",
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W4212875551"
 }

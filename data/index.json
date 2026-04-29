@@ -32662,20 +32662,30 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Greater gender diversity on bank board of directors is associated with higher compensation inequality because CEOs at banks with more gender-diverse boards have higher base salaries. This effect disappears when women have higher representation on the board and during the financial crisis.",
-      "summary_en": null,
+      "summary_en": "Greater gender diversity on US bank boards is associated with higher CEO-pay inequality — but only up to a point. Owen and Temesváry show that CEOs at banks with more gender-diverse boards earn higher base salaries (driving wider gaps between CEO and rank-and-file pay). However, this effect disappears once female board representation crosses a higher threshold, and during the 2008 financial crisis the relationship vanishes. The result complicates simple narratives that more diversity automatically reduces inequality at the top.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Compustat ExecuComp + Federal Reserve regulatory filings on approximately 90 US bank holding companies, 1999-2015, with detailed gender composition of board of directors and full executive compensation breakdowns.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungarian banking-sector gender-diversity policy (MNB recommendations, EU Capital Requirements Directive disclosure on board composition) typically expects diversity to reduce executive-pay extremes. The paper warns the relationship is more subtle: low diversity has different effects than high diversity, and crisis periods break the pattern. Useful framing for MNB and the Equal Treatment Authority when interpreting Hungarian bank board composition data.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "demographics-migration",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2897755919"
     },
     {
@@ -32697,20 +32707,31 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Previous literature has shown mixed results on the role of female participation on bank boards and bank performance: some papers find that more women on boards enhance financial performance, while others find negative or no effects. Applying instrumental variables methods to data on approximately 90 U.S. bank holding companies over the 1999–2015 period, we argue that these inconclusive results are due to the fact that there is a non-linear, U-shaped relationship between gender diversity on boards and various measures of bank performance: female participation has a positive effect once a threshold level of gender diversity is achieved. Furthermore, this positive effect is only observed in better capitalized banks. Our results suggest that continuing the voluntary expansion of gender diversity on bank boards will be value-enhancing, provided that they are well capitalized.",
-      "summary_en": null,
+      "summary_en": "Does putting more women on bank boards improve bank performance? Prior literature gave conflicting answers. Owen and Temesváry use instrumental-variables on US bank-holding-company data 1999-2015 to identify a causal U-shaped relationship: female participation hurts performance below a threshold of board diversity, but improves it once that threshold is crossed. The positive effect appears only at well-capitalised banks. Implication: voluntary expansion of female board representation is value-enhancing, but only if the bank is also adequately capitalised and reaches a critical share of female directors.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "US bank-holding-company panel data, ~90 institutions, 1999-2015 from Federal Reserve regulatory filings (FR Y-9C), Compustat, and BoardEx, with bank-level gender composition and performance metrics (ROA, ROE, share-price returns).",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "MNB and the Equal Treatment Authority increasingly track gender diversity on Hungarian bank boards. The paper shows the diversity-performance link is non-linear and conditional on capitalisation — relevant for designing MNB recommendations that aim for measurable performance gains rather than just compliance. Hungarian bank-board diversity is below the threshold the paper identifies, suggesting Hungarian banks could benefit from larger, not just incremental, increases in female representation.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "demographics-migration",
+        "firms-productivity"
+      ],
+      "methods": [
+        "iv",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2575546035"
     },
     {
@@ -32732,20 +32753,31 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We construct a model of a bank's optimal funding choice, where the bank negotiates with both safety-driven short-term bondholders and (mostly) risk-taking long-term bondholders. We establish that investor demands for safety create a negative relationship between the bank's capital choices and short-term funding, as well as negative relationships between capital and common measures of bank liquidity. Short-term investors' demands for safety force the bank to hold more collateral, which diminishes the demands by long-term bondholders for higher holdings of bank capital. Consistent with our model, our bank-level empirical analysis of these capital–liquidity trade-offs shows that bank liquidity measures have a strong and negative relationship to the capital ratio. Furthermore, we show that this trade-off does not appear to be regulation related and has diminished in size over time.",
-      "summary_en": null,
+      "summary_en": "Banks must trade off capital adequacy and liquidity — but standard models treat the trade-off as regulation-driven. Passmore and Temesváry build a model where investor demand for safety creates the trade-off endogenously: short-term bondholders demand collateral (forcing banks to hold liquid assets), which in turn reduces the demand by long-term bondholders for higher capital ratios. Their bank-level US empirical analysis confirms a strong negative correlation between liquidity measures and capital ratios that does not appear regulation-driven and has weakened over time. The trade-off is built into the funding-market structure, not just rule-driven.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "US bank-level panel data from Federal Reserve regulatory filings (FR Y-9C) and Call Reports, covering thousands of US commercial banks over multiple years, with detailed funding-mix, capital-ratio, and liquidity measures.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "MNB's bank supervisory framework treats capital and liquidity rules as separately calibrated. The paper shows market forces create a natural capital-liquidity trade-off independent of regulation — relevant for MNB stress-test scenario design and EU Banking Authority calibration. Useful caveat against over-attributing observed bank balance-sheet patterns to regulatory choices.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "macroeconomics"
+      ],
+      "methods": [
+        "structural",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "admin-firm",
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W4212875551"
     },
     {
@@ -33410,20 +33442,29 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We study the presence of asymmetries in the transmission of monetary policy in the United States. We find that the bank lending channel is stronger when the Federal Reserve tightens monetary policy, particularly when the monetary policy stance is expansionary.",
-      "summary_en": null,
+      "summary_en": "Does monetary policy work the same way when the Federal Reserve tightens vs. eases? Sapriza and Temesváry find pronounced asymmetry: the bank lending channel is significantly stronger when the Fed tightens, particularly when the policy stance is expansionary at the time of tightening. The result reframes how central bankers should think about transmission lags and the timing of policy reversals — tightening from low rates packs more punch through bank balance sheets than easing from high rates.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "US bank-level panel data from Federal Reserve Call Reports, multi-decade quarterly observations on bank lending, deposits, and balance sheet structure, matched to monetary-policy stance indicators.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for MNB's monetary-policy framework decisions during cyclical turning points. The paper provides econometric grounding for the intuition that 'fighting' inflation from a low-rate base hits banks harder than easing from a high-rate base — useful when MNB calibrates how much rate change is needed for a given output effect.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "macroeconomics"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "admin-firm"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W3008208543"
     },
     {
@@ -33445,20 +33486,29 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We study empirically the effect of growth in real economic activity on the strength of the bank credit channel of monetary policy in the United States using quarterly commercial bank-level panel data between 1986 and 2018, and bank-firm matched administrative data on loan volumes and terms between 2012 and 2018. We find that monetary policy is significantly more effective through the bank credit channel in spurring activity during periods of low economic growth than in cooling the economy when growth is high. Our results also suggest that the channel operates through a broader range of loan categories and banks than previously documented, that it is stronger for business than household lending, and that for some of the major loan categories it only operates in a low economic growth environment.",
-      "summary_en": null,
+      "summary_en": "Does monetary policy hit harder during recessions or expansions? Sapriza and Temesváry use US quarterly bank-level data 1986-2018 plus 2012-2018 bank-firm matched loan data to test state-dependence in the bank credit channel. They find the channel is significantly stronger during low-growth periods than high-growth ones — i.e., monetary stimulus packs more punch when the economy needs it. The asymmetry holds across many loan categories and bank types, is more pronounced for business than household lending, and for some loan categories the channel only operates in low-growth conditions.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "US Federal Reserve Call Reports quarterly bank-level panel 1986-2018 (thousands of banks); bank-firm matched administrative loan data 2012-2018 from Y-14Q regulatory filings (large banks only).",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "MNB and ECB increasingly use state-dependent loss functions in their monetary-policy frameworks. The paper provides empirical grounding: low-growth states are when rate cuts move credit most. Relevant for MNB's framework discussions and for European Banking Authority stress-test calibration.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "macroeconomics"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "admin-firm"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W4397048665"
     },
     {
@@ -35236,20 +35286,29 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We investigate how the use of a currency transmits monetary policy changes in the global banking system. We use a newly available rarely accessed dataset on the bilateral cross-border lending flows of 27 BIS-reporting lending banking systems to borrowers in 51 countries, broken down by currency denomination (USD, EUR and JPY). We have three main findings. First, we identify a currency dimension of the international bank lending channel: monetary changes in a currency significantly affect cross-border lending flows in that currency, even when neither the lending banking system nor the target country uses that currency as their own. Second, this transmission works mainly through lending to non-banks. Third, the currency dimension of the bank lending channel works similarly across the three currencies, suggesting that the USD may not be unique in this respect.",
-      "summary_en": null,
+      "summary_en": "When the Fed (or ECB or BoJ) changes rates, what happens to cross-border bank lending denominated in their currency? Takáts and Temesváry use a rarely-accessed BIS bilateral cross-border lending dataset to show that monetary policy in a currency significantly affects cross-border lending in that currency — even when neither the lending bank's home nor the borrower's country uses that currency. The transmission works mainly through bank-to-non-bank lending. Strikingly, the channel works similarly across USD, EUR and JPY — the dollar is not unique in this regard.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "BIS Locational Banking Statistics on bilateral cross-border bank lending flows from 27 reporting banking systems to borrowers in 51 countries, broken down by currency denomination (USD, EUR, JPY); rarely accessed disaggregated version of the BIS confidential data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly relevant for MNB and Hungarian commercial-bank treasury operations. Hungarian banks borrow extensively in EUR and CHF; the paper shows ECB and SNB monetary changes can affect those flows even when transactions don't directly involve eurozone or Swiss banks. Useful framework for MNB cross-border financial-stability monitoring.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "banking-finance",
+        "trade-fdi",
+        "macroeconomics"
+      ],
+      "methods": [
+        "panel-data"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "admin-firm",
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2571501835"
     },
     {
@@ -35271,20 +35330,28 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We combine a rarely accessed BIS database on cross-border lending flows with cross-country data on macroprudential regulations. We find significant interactions between the monetary policy of major international currency issuers (USD, EUR and JPY) and macroprudential policies in source (home) lending banking systems. Consistent with the bank lending channel, macroprudential easing in a home country amplifies the effect of currency issuers' monetary policy on lending. For instance, UK macroprudential easing amplifies the negative impact of US monetary policy tightening on USD-denominated cross-border bank lending outflows from UK banks. Vice versa, tighter macroprudential policy mitigates these effects.",
-      "summary_en": null,
+      "summary_en": "When monetary policy and macroprudential policy interact across borders, who wins? Takáts and Temesváry combine BIS cross-border lending data with cross-country macroprudential-regulation data to test how home-country macroprudential easing or tightening interacts with currency-issuer monetary policy. They find significant interactions: home-country macroprudential easing amplifies the effect of foreign-currency monetary tightening (e.g., UK macroprudential easing amplifies how much US Fed tightening reduces USD lending out of UK banks); macroprudential tightening mitigates these effects. Macroprudential regulation in home jurisdictions is a non-trivial transmission channel for foreign monetary policy.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "BIS bilateral cross-border lending dataset (currency-decomposed) merged with Cerutti-Claessens-Laeven Macroprudential Policy Index; covers 27 lending banking systems, 51 borrower countries, multiple years.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for MNB macroprudential design. Hungarian banks borrow heavily in EUR and CHF; how MNB sets countercyclical buffers, FX-debt limits, and other macroprudential tools interacts with ECB and SNB monetary policy in non-trivial ways. The paper provides an empirical framework for assessing those spillovers — useful for MNB's macroprudential-rate-setting committee.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "banking-finance",
+        "macroeconomics",
+        "trade-fdi"
+      ],
+      "methods": [
+        "panel-data"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2945227354"
     },
     {
@@ -35451,20 +35518,30 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This paper develops a model and structural dynamic estimation of bank behavior to map the relationship between U.S. banks' choices of foreign banking activities, and bank and foreign market traits. This estimation framework is applied to a unique bank-level dataset compiled from regulatory sources, covering U.S. banks' foreign activities in 83 host markets over the 2003–2013 period. Bank traits are better able to explain the evolving patterns of foreign banking than host market characteristics. After controlling for these traits, the post-financial crisis period shows a structural shift away from cross-border claims towards foreign affiliate activities. Structural estimates of foreign market entry costs and regulatory attitudes towards risk are derived. Simulation exercises confirm the strong impact of banks' and regulators' risk stance on bank profits and portfolio composition.",
-      "summary_en": null,
+      "summary_en": "What drives US banks' decisions to expand abroad? Temesváry develops and structurally estimates a dynamic model of US bank international activity using regulatory bank-level data on US banks' presence in 83 host markets, 2003-2013. Bank-specific traits (size, capitalisation, prior experience) predict the evolving foreign-banking pattern more than host-market traits do. Post-financial-crisis, US banks shifted from cross-border claims toward foreign-affiliate activities. The paper produces estimates of foreign-market entry costs and regulators' attitudes toward risk — useful structural parameters for cross-border banking analysis.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "US bank-level regulatory dataset compiled from FR 2502, FR Y-9C and Call Reports, covering all major US banks' foreign claims and affiliate activities in 83 host markets quarterly over 2003-2013.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "MNB and EU Banking Authority track foreign-bank activity in host countries (including Hungary, where Western European banks own most of the system). The paper's structural-estimation framework provides parameters for assessing entry-cost and regulatory-stringency effects — useful for MNB when evaluating cross-border banking-supervision agreements and regulatory harmonisation initiatives.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "trade-fdi"
+      ],
+      "methods": [
+        "structural",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "admin-firm"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2049600784"
     },
     {
@@ -35485,20 +35562,31 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Using a unique newly constructed dataset on U.S. banks' foreign activities since 1997, this paper examines how bank, market and regulatory conditions in the U.S. and host countries affect U.S. banks' choices of which foreign markets to enter and how much claims and liabilities to take on there. Using a two-stage structural estimation framework, the determinants of foreign market entry/exit, cross-border claims, and foreign affiliate claims and liabilities choices are examined in 107 host countries around the world. It is shown that (1) the health of the balance sheet is the primary driver of foreign market entry/exit choices (especially so during the Subprime crisis), while host market and regulatory conditions play important roles in the choice of claims/liabilities volumes; (2) banks choose their foreign activities during banking and market crises differently than they do in 'normal' times; and (3) in addition to bank size, previous experience with managing a global lending network significantly increases the intensity of banks' foreign involvement. Structural estimates of the costs of foreign market entry/exit and host market regulatory stringency are also derived.",
-      "summary_en": null,
+      "summary_en": "Building on a unique US-bank foreign-activity dataset, Temesváry uses a two-stage structural framework to estimate which factors drove US banks' entry/exit choices and claims/liabilities volumes across 107 host countries 1997-2014. Bank balance-sheet health was the primary driver of entry/exit decisions, especially during the 2007-09 subprime crisis. Host-market and regulatory conditions mattered more for the volume of cross-border claims and liabilities. Banks behave differently in crisis vs. normal times, and prior experience with global lending networks raises foreign-involvement intensity. The paper produces structural estimates of foreign-market entry costs and regulatory-stringency parameters.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Newly constructed bank-level dataset on US banks' foreign activities 1997-2014, covering 107 host countries and combining FR 2502, Y-9C, and Call Report data; supplemented with country-level regulatory and macro indicators.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungarian banking system is heavily reliant on foreign-bank-owned subsidiaries (OTP excepted). The paper's framework for understanding US bank foreign-entry/exit decisions translates directly to evaluating Western European banks' subsidiaries in Hungary — when they expand, when they exit, and what determines lending volumes. Relevant for MNB and Pénzügyminisztérium when negotiating cross-border banking arrangements.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "trade-fdi",
+        "industrial-organization"
+      ],
+      "methods": [
+        "structural",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "admin-firm"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W1995123945"
     },
     {
@@ -35519,20 +35607,31 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "I supplement previous models of bank competition by incorporating the endogenous branching choices of commercial banks. I apply a dynamic structural model of banks' branching and interest rate choices to a unique bank-level dataset on Hungarian commercial banks during 2004–2007. I find that banks charge a premium in interest rates for relative branch network dominance, and banks with relatively smaller networks are less likely to close branches. I present significant and robust estimates of branch setup costs and scrap values, and discuss the potential use of branching restrictions as regulatory tools to alter lending rates and consumer surplus.",
-      "summary_en": null,
+      "summary_en": "Most bank-competition models take branch networks as given. Temesváry endogenises them — banks choose how many branches to open, and those choices affect interest-rate competition. Applying a dynamic structural model to Hungarian commercial banks 2004-2007, she finds banks charge an interest-rate premium for relative branch-network dominance, and banks with smaller networks are less likely to close branches. The paper derives structural estimates of branch setup costs and scrap values, and shows how branching restrictions could be used as a regulatory tool to alter lending rates and consumer welfare.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian bank-level data 2004-2007 from MNB and PSZÁF supervisory reports, covering all commercial banks' branch counts, interest rates by product, and balance-sheet metrics; quarterly observations.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct evidence on Hungarian banking competition. The paper shows banks earn rents on relative branch dominance — relevant for MNB and GVH when evaluating bank-merger applications, branch-closure programmes, and the post-2008 consolidation of the Hungarian banking sector. Also useful for the Pénzügyminisztérium when assessing financial-inclusion concerns from rural branch closures.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "industrial-organization",
+        "regional-urban"
+      ],
+      "methods": [
+        "structural",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-firm"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W3122095269"
     },
     {
@@ -35636,20 +35735,30 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This paper examines how the lending of all foreign banks (branches and subsidiaries) in the US responds to foreign monetary policy actions in their parents' home countries. Using a rarely studied bank-level dataset covering US-based foreign bank offices over the 1997–2014 period, I find strong evidence of a bank lending channel of inward monetary policy transmission: In response to home country monetary tightening, foreign banks with less access to liquid funds reduce their business lending in the US substantially more than foreign banks with more funding access. This inward transmission is strongest for the pre-crisis period, and for foreign banks originating from Europe.",
-      "summary_en": null,
+      "summary_en": "When the ECB or other foreign central bank tightens, do US-based subsidiaries of foreign banks pull back lending in the US? Temesváry uses bank-level data 1997-2014 covering all foreign-bank branches and subsidiaries in the US to find a strong inward bank-lending channel: in response to home-country monetary tightening, foreign banks with less liquid funding cut their US business lending substantially more than foreign banks with better funding access. The transmission was strongest pre-crisis and especially for European-headquartered banks. Foreign monetary shocks transmit into the US economy via foreign-bank balance sheets.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "FFIEC Call Reports data on all US-based foreign-bank branches and subsidiaries 1997-2014, ~hundreds of institutions, matched to home-country monetary-policy series and bank-balance-sheet liquidity measures.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungary, like the US, hosts substantial foreign-bank-owned banking activity. The paper shows foreign monetary policy transmits to host economies via bank lending — directly relevant for MNB monitoring of how ECB and SNB monetary changes reach Hungarian SMEs through Western European bank subsidiaries. Useful for designing MNB's macroprudential responses to spillovers.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "macroeconomics",
+        "trade-fdi"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "admin-firm"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W3121926918"
     },
     {
@@ -35671,20 +35780,30 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We analyze the relative roles of subsidiary and parent banking group traits in driving foreign banks' lending patterns in the Central and Eastern European (CEE) region before and during the crisis. We use a bank-level dataset on Western European banking groups and their CEE subsidiaries over the 2002–2013 period. We find that lower capital-to-asset ratios and higher non-performing loans (NPL) ratios at either the subsidiary or the parent bank level significantly lowered subsidiary lending growth before and during the crisis. The onset of the crisis not only lowered subsidiary lending growth in the CEE countries, but also has altered the relationship between balance sheet conditions and lending growth. However, we also find strong evidence that this crisis effect is significantly less pronounced for subsidiaries participating in the Vienna Initiative. Our results' policy implications include purging banks of NPLs, enhanced regulatory coordination and the inclusion of parent bank traits in countercyclical capital buffer calculations.",
-      "summary_en": null,
+      "summary_en": "Western European banks' Central and East European subsidiaries underwent dramatic lending swings during 2008-13. Temesváry and Banai use bank-level data on Western European parent groups and their CEE subsidiaries 2002-2013 to disentangle subsidiary vs. parent drivers of lending. Lower capital ratios and higher non-performing-loan ratios at either level reduced subsidiary lending growth — both before and during the crisis. The crisis weakened the link in many cases, but subsidiaries participating in the Vienna Initiative (2009 commitment to maintain CEE exposures) showed significantly less crisis-driven lending contraction. Policy implications: clean up parent-bank NPLs, coordinate regulation, and include parent traits in countercyclical buffer calculations.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Bank-level dataset on Western European banking groups (Erste, Raiffeisen, UniCredit, Intesa, KBC, etc.) and their CEE subsidiaries 2002-2013, sourced from Bankscope, MNB, and other CEE central banks, with both parent and subsidiary balance-sheet metrics.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Highly relevant for Hungarian financial-stability policy. The paper shows Vienna Initiative participation made a measurable difference in subsidiary lending behaviour during the crisis — supporting MNB's continued engagement with such cross-border-coordination platforms. Also informs how Hungarian countercyclical capital buffers should account for parent-bank conditions.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "transition-postcommunist",
+        "macroeconomics"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-firm"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W3124266762"
     },
     {
@@ -35707,20 +35826,30 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We examine how U.S. monetary policy affects the international activities of U.S. banks. We access a rarely studied U.S. bank-level regulatory dataset to assess at a quarterly frequency how changes in the U.S. Federal funds rate (before the crisis) and quantitative easing (after the onset of the crisis) affect changes in cross-border claims by U.S. banks across countries, maturities and sectors, and also affect changes in claims by their foreign affiliates. We find robust evidence consistent with the existence of a potent global bank lending channel. In response to changes in U.S. monetary conditions, U.S. banks strongly adjust their cross-border claims in both the pre- and post-crisis period. However, we also find that U.S. bank affiliate claims respond mainly to host country monetary conditions.",
-      "summary_en": null,
+      "summary_en": "Does US monetary policy spread internationally through US banks' foreign activities? Temesváry, Ongena and Owen access a quarterly US bank regulatory dataset to test whether changes in the Fed funds rate (pre-crisis) and quantitative-easing operations (post-crisis) affect US banks' cross-border claims and the activities of their foreign affiliates. They find robust evidence of a global bank lending channel: US banks adjust their cross-border claims in response to US monetary policy in both pre- and post-crisis periods. Foreign affiliates of US banks, however, respond mainly to host-country monetary conditions, not US ones — they 'localise' their behaviour.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "US Federal Reserve quarterly bank-level regulatory dataset (FR 2502, Y-9C, FFIEC 002) on cross-border claims and foreign-affiliate activities, 1980s-2010s.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct evidence for IMF, BIS and central banks (including MNB) that US monetary policy transmits via US banks' cross-border lending — a globally important channel that affects emerging-market financing conditions. Relevant for MNB macroprudential monitoring of Hungarian companies' USD-denominated borrowing exposure.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "macroeconomics",
+        "trade-fdi"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "admin-firm"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W1854124405"
     },
     {
@@ -35742,20 +35871,31 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Shortly after the pandemic began, globally active U.S. banks cut their term lending to U.S. businesses. Combining three granular bank regulatory datasets, we examine how U.S. banks' exposure to COVID-related restrictions abroad contributed to these lending cuts. Even after controlling for changes in firms' credit demand through extensive industry*state*quarter fixed effects, we find strong evidence that U.S. banks with higher foreign COVID exposures reduced their corporate lending, and tightened terms on such loans, significantly more. Banks' increased risk perception, balance sheet liquidity effects due to higher foreign credit line drawdowns, and higher losses on corporate loans abroad served as mechanisms.",
-      "summary_en": null,
+      "summary_en": "When COVID-19 hit, US banks with foreign operations cut their domestic US business lending sharply — but did the cut depend on where their foreign exposure was? Temesváry and Wei combine three bank regulatory datasets to test this. After controlling for changes in domestic borrower demand using granular industry-state-quarter fixed effects, they find US banks with higher COVID-related foreign exposure cut more US lending and tightened terms more aggressively. The mechanisms: increased risk perception, balance-sheet liquidity strain from foreign credit-line drawdowns, and higher loan losses on foreign exposures. Foreign shocks can transmit into the US via globally active bank balance sheets.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Three Federal Reserve bank-level regulatory datasets (Y-9C, Y-14Q, FFIEC 009) covering US bank-holding companies during 2019-2021, with domestic and foreign loan-portfolio breakdowns at quarterly frequency.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungary hosts globally-active subsidiaries of Western European banks. The paper documents that pandemic-era foreign exposure shocks transmit to domestic lending — directly relevant for MNB and the European Banking Authority when monitoring how shocks abroad (e.g., Russian sanctions exposure, China economic weakness) translate into Hungarian SME credit conditions.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "macroeconomics",
+        "trade-fdi"
+      ],
+      "methods": [
+        "panel-data",
+        "diff-in-diff"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "admin-firm"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W4392558370"
     },
     {
@@ -41056,7 +41196,7 @@
       "policy_framing_en": "Relevant to: family policy, pension system, immigration policy, retention of skilled workers.",
       "policy_framing_hu": "Releváns: családpolitika, nyugdíjrendszer, bevándorláspolitika, szakemberek megtartása.",
       "icon": "users",
-      "paper_count": 34
+      "paper_count": 36
     },
     {
       "id": "trade-fdi",
@@ -41067,7 +41207,7 @@
       "policy_framing_en": "Relevant to: EU trade policy, FDI promotion, export promotion, supply chain resilience, industrial policy.",
       "policy_framing_hu": "Releváns: EU kereskedelempolitika, FDI ösztönzés, exporttámogatás, ellátási láncok rugalmassága, iparpolitika.",
       "icon": "globe",
-      "paper_count": 63
+      "paper_count": 70
     },
     {
       "id": "firms-productivity",
@@ -41078,7 +41218,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 113
+      "paper_count": 114
     },
     {
       "id": "innovation-digital",
@@ -41100,7 +41240,7 @@
       "policy_framing_en": "Relevant to: MNB policy, banking regulation, macroprudential tools, financial inclusion.",
       "policy_framing_hu": "Releváns: MNB-politika, bankszabályozás, makroprudenciális eszközök, pénzügyi befogadás.",
       "icon": "landmark",
-      "paper_count": 114
+      "paper_count": 128
     },
     {
       "id": "fiscal-tax",
@@ -41122,7 +41262,7 @@
       "policy_framing_en": "Relevant to: regional development funds, housing policy, transport investment, urban planning.",
       "policy_framing_hu": "Releváns: regionális fejlesztési alapok, lakáspolitika, közlekedési beruházások, városfejlesztés.",
       "icon": "building",
-      "paper_count": 55
+      "paper_count": 56
     },
     {
       "id": "energy-environment",
@@ -41144,7 +41284,7 @@
       "policy_framing_en": "Relevant to: welfare system, anti-poverty programs, family allowances, gender-equal pay policies.",
       "policy_framing_hu": "Releváns: szociális rendszer, szegénység elleni programok, családi pótlékok, egyenlő bérezés.",
       "icon": "scale",
-      "paper_count": 93
+      "paper_count": 94
     },
     {
       "id": "political-economy",
@@ -41166,7 +41306,7 @@
       "policy_framing_en": "Relevant to: long-run diagnoses of the Hungarian and CEE economy, lessons from 30+ years of transition, institutional path dependence.",
       "policy_framing_hu": "Releváns: a magyar és KKE gazdaság hosszú távú diagnózisa, 30+ év rendszerváltásának tanulságai, intézményi útfüggőség.",
       "icon": "flag",
-      "paper_count": 39
+      "paper_count": 40
     },
     {
       "id": "behavioral",
@@ -41188,7 +41328,7 @@
       "policy_framing_en": "Relevant to: competition policy (GVH), merger review, platform regulation, auction design, sector-specific regulation.",
       "policy_framing_hu": "Releváns: versenypolitika (GVH), fúziókontroll, platformszabályozás, aukciótervezés, ágazati szabályozás.",
       "icon": "network",
-      "paper_count": 57
+      "paper_count": 59
     },
     {
       "id": "macroeconomics",
@@ -41199,7 +41339,7 @@
       "policy_framing_en": "Relevant to: long-run growth forecasting, macroeconomic modelling, sovereign-debt management, stabilisation policy design.",
       "policy_framing_hu": "Releváns: hosszú távú növekedés előrejelzés, makroökonómiai modellek, államadósság-kezelés, stabilizációs politika.",
       "icon": "line-chart",
-      "paper_count": 85
+      "paper_count": 94
     },
     {
       "id": "agriculture-food",

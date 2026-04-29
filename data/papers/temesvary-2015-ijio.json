@@ -16,19 +16,30 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "I supplement previous models of bank competition by incorporating the endogenous branching choices of commercial banks. I apply a dynamic structural model of banks' branching and interest rate choices to a unique bank-level dataset on Hungarian commercial banks during 2004–2007. I find that banks charge a premium in interest rates for relative branch network dominance, and banks with relatively smaller networks are less likely to close branches. I present significant and robust estimates of branch setup costs and scrap values, and discuss the potential use of branching restrictions as regulatory tools to alter lending rates and consumer surplus.",
-  "summary_en": null,
+  "summary_en": "Most bank-competition models take branch networks as given. Temesváry endogenises them — banks choose how many branches to open, and those choices affect interest-rate competition. Applying a dynamic structural model to Hungarian commercial banks 2004-2007, she finds banks charge an interest-rate premium for relative branch-network dominance, and banks with smaller networks are less likely to close branches. The paper derives structural estimates of branch setup costs and scrap values, and shows how branching restrictions could be used as a regulatory tool to alter lending rates and consumer welfare.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian bank-level data 2004-2007 from MNB and PSZÁF supervisory reports, covering all commercial banks' branch counts, interest rates by product, and balance-sheet metrics; quarterly observations.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct evidence on Hungarian banking competition. The paper shows banks earn rents on relative branch dominance — relevant for MNB and GVH when evaluating bank-merger applications, branch-closure programmes, and the post-2008 consolidation of the Hungarian banking sector. Also useful for the Pénzügyminisztérium when assessing financial-inclusion concerns from rural branch closures.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "industrial-organization",
+    "regional-urban"
+  ],
+  "methods": [
+    "structural",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W3122095269"
 }

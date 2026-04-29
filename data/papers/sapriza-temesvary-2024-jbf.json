@@ -17,19 +17,28 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We study empirically the effect of growth in real economic activity on the strength of the bank credit channel of monetary policy in the United States using quarterly commercial bank-level panel data between 1986 and 2018, and bank-firm matched administrative data on loan volumes and terms between 2012 and 2018. We find that monetary policy is significantly more effective through the bank credit channel in spurring activity during periods of low economic growth than in cooling the economy when growth is high. Our results also suggest that the channel operates through a broader range of loan categories and banks than previously documented, that it is stronger for business than household lending, and that for some of the major loan categories it only operates in a low economic growth environment.",
-  "summary_en": null,
+  "summary_en": "Does monetary policy hit harder during recessions or expansions? Sapriza and Temesváry use US quarterly bank-level data 1986-2018 plus 2012-2018 bank-firm matched loan data to test state-dependence in the bank credit channel. They find the channel is significantly stronger during low-growth periods than high-growth ones — i.e., monetary stimulus packs more punch when the economy needs it. The asymmetry holds across many loan categories and bank types, is more pronounced for business than household lending, and for some loan categories the channel only operates in low-growth conditions.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "US Federal Reserve Call Reports quarterly bank-level panel 1986-2018 (thousands of banks); bank-firm matched administrative loan data 2012-2018 from Y-14Q regulatory filings (large banks only).",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "MNB and ECB increasingly use state-dependent loss functions in their monetary-policy frameworks. The paper provides empirical grounding: low-growth states are when rate cuts move credit most. Relevant for MNB's framework discussions and for European Banking Authority stress-test calibration.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "macroeconomics"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W4397048665"
 }

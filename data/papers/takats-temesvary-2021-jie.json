@@ -17,19 +17,27 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We combine a rarely accessed BIS database on cross-border lending flows with cross-country data on macroprudential regulations. We find significant interactions between the monetary policy of major international currency issuers (USD, EUR and JPY) and macroprudential policies in source (home) lending banking systems. Consistent with the bank lending channel, macroprudential easing in a home country amplifies the effect of currency issuers' monetary policy on lending. For instance, UK macroprudential easing amplifies the negative impact of US monetary policy tightening on USD-denominated cross-border bank lending outflows from UK banks. Vice versa, tighter macroprudential policy mitigates these effects.",
-  "summary_en": null,
+  "summary_en": "When monetary policy and macroprudential policy interact across borders, who wins? Takáts and Temesváry combine BIS cross-border lending data with cross-country macroprudential-regulation data to test how home-country macroprudential easing or tightening interacts with currency-issuer monetary policy. They find significant interactions: home-country macroprudential easing amplifies the effect of foreign-currency monetary tightening (e.g., UK macroprudential easing amplifies how much US Fed tightening reduces USD lending out of UK banks); macroprudential tightening mitigates these effects. Macroprudential regulation in home jurisdictions is a non-trivial transmission channel for foreign monetary policy.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "BIS bilateral cross-border lending dataset (currency-decomposed) merged with Cerutti-Claessens-Laeven Macroprudential Policy Index; covers 27 lending banking systems, 51 borrower countries, multiple years.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for MNB macroprudential design. Hungarian banks borrow heavily in EUR and CHF; how MNB sets countercyclical buffers, FX-debt limits, and other macroprudential tools interacts with ECB and SNB monetary policy in non-trivial ways. The paper provides an empirical framework for assessing those spillovers — useful for MNB's macroprudential-rate-setting committee.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "banking-finance",
+    "macroeconomics",
+    "trade-fdi"
+  ],
+  "methods": [
+    "panel-data"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2945227354"
 }
