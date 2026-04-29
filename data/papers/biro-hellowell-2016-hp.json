@@ -17,19 +17,30 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We examine the demand for private health insurance (PHI) in the United Kingdom and relate this to changes in the supply of public and private healthcare. Using a novel collection of administrative, private sector and survey data, we re-assess the relationships between the quality and availability of public and private sector inpatient care, and the demand for PHI. We find that PHI coverage in the United Kingdom is positively related to the median of the region- and year-specific public sector waiting times. We find that PHI prevalence ceteris paribus increases with being self-employed and employed, while it decreases with having financial difficulties. In addition, we highlight the complexities of inter-sectoral relations and their impact on PHI demand. Within a region, we find that an increase in private healthcare supply is associated with a decrease in public sector waiting times, implying lower PHI demand. This may be explained by the usage of private facilities by NHS commissioners. These results have important implications for policymakers interested in the role of private healthcare supply in enhancing the availability of and equitable access to acute inpatient care.",
-  "summary_en": null,
+  "summary_en": "How does the supply of public vs. private healthcare interact to determine private health insurance demand? Bíró and Hellowell study the UK case using novel administrative, private-sector, and survey data. PHI coverage is positively related to public NHS waiting times — longer waits push more people to buy private insurance. They also find that increased private-healthcare supply within a region actually reduces NHS waiting times (because NHS commissioners use private facilities), which paradoxically reduces PHI demand. The interaction between sectors is non-trivial and matters for designing dual public-private health systems.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "UK administrative data on NHS waiting times by region and procedure, private hospital sector capacity data, plus survey data on private health insurance ownership; covers regional variation across England over multiple years.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungarian health-system debates increasingly involve dual-sector arrangements (public hospitals plus private providers). The paper shows expanding private-sector capacity can reduce public waiting times if commissioners can purchase private services — relevant for the Egészségügyi Államtitkárság when designing the relationship between NEAK funding and private hospital capacity.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "health",
+    "industrial-organization",
+    "fiscal-tax"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "GB"
+  ],
+  "data_types": [
+    "admin-individual",
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2347076733"
 }

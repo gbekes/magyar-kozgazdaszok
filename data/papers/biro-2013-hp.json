@@ -16,19 +16,27 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "I analyze the relationship between health care institutions and the utilization of outpatient services by individuals aged 50 and above. I use cross-sectional micro data from thirteen European countries. I focus on the out-of-pocket costs of health care utilization, the gatekeeper role of general practitioners, and how these institutional settings are related to public and private care utilization. I find that copayments are related negatively to the probability of visiting a general practitioner among those in good health condition. I estimate the utilization of private specialist care to be higher in countries where copayments are required for public specialist care, and where the general practitioners have gatekeeper role. These estimated associations with private specialist care utilization are relatively large in magnitude, and are driven by individuals in the top income quartile.",
-  "summary_en": null,
+  "summary_en": "How do copayments and the gatekeeper role of GPs jointly shape health-care utilisation in Europe? Bíró analyses cross-sectional data on individuals aged 50+ in 13 European countries. Copayments reduce GP visits among healthy individuals. Crucially, when GPs act as gatekeepers AND copayments apply to public specialists, the use of private specialist care rises substantially — driven mainly by top-income-quartile patients. The institutional combination shifts higher-income patients out of public specialist care.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Survey of Health, Ageing and Retirement in Europe (SHARE) waves 1-2, ~13 European countries, individuals aged 50+. Cross-referenced with national copayment levels and GP gatekeeper rules from the European Observatory on Health Systems.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungarian health-system reform debates: when policymakers consider introducing copayments, the paper shows institutional context (GP gatekeeper rules) determines whether the result is welfare-improving or just shifts high-income patients to private care. Directly relevant for NEAK, the Egészségügyi Államtitkárság, and the Egészségbiztosítási Pénztár.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "health",
+    "fiscal-tax",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "panel-data"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2093847648"
 }

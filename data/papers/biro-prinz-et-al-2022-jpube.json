@@ -18,19 +18,30 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We study the taxation of the minimum wage in an environment with imperfect enforcement and informality. We leverage an increase in the audit threat for earnings below a reporting threshold at twice the minimum wage in Hungary and estimate reporting and employment responses with administrative panel data. Using bunching estimators and difference-in-differences methods, we show that a substantial share of those who report earning the minimum wage earn at least the same amount off the books. When enforcement is imperfect, a taxed minimum wage serves as a backstop on underreporting and recovers some revenue but also increases informality.",
-  "summary_en": null,
+  "summary_en": "Bíró, Prinz and Sándor study the taxation of the minimum wage in Hungary, where enforcement is imperfect and substantial informal pay coexists with formal reporting. They exploit a 2007 increase in audit threat for earnings below a reporting threshold at twice the minimum wage. Using bunching estimators and difference-in-differences with administrative panel data, they show that a large share of workers reporting minimum-wage earnings actually earn at least as much off the books. When enforcement is imperfect, a taxed minimum wage serves as a backstop on under-reporting — recovering some revenue but increasing informality.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian administrative panel data from NAV (tax) and ONYF (employment) covering all formal-sector workers around the minimum-wage threshold, 2003-2014. Includes detailed earnings, hours, and audit-status records.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for Hungarian minimum-wage policy and tax-enforcement design at NAV. The paper shows raising the minimum wage in environments with imperfect enforcement generates a trade-off between revenue and informality — useful for the Pénzügyminisztérium and NAV when calibrating audit thresholds and minimum-wage levels jointly. Already widely cited in Hungarian wage-policy debates.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "fiscal-tax",
+    "labor-markets",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "diff-in-diff",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W4303649626"
 }
