@@ -17,19 +17,24 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "When institutional investors rearrange their portfolios, they should consider both the temporary and the permanent price impacts. After a temporary price impact the order book fully recovers, whereas a permanent price impact changes the equilibrium price, having effects on the resulting portfolio.",
-  "summary_en": null,
+  "summary_en": "When institutional investors rearrange large positions, both temporary and permanent price impacts matter. Csóka and Hevér show that standard portfolio-valuation models that focus on temporary impacts (where the order book recovers fully) miss the permanent component — which actually shifts the equilibrium price and changes the resulting portfolio's valuation. They develop a framework for portfolio valuation that incorporates both impacts under liquidity constraints, providing more accurate marking-to-market for large or illiquid positions.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model — portfolio valuation under price-impact constraints. No primary firm-level dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for MNB and ÁKK when valuing large Hungarian positions in illiquid securities (smaller corporate bonds, infrastructure debt, distressed assets). Also relevant for the Pension Fund Supervision (when reviewing how Hungarian pension funds value large illiquid holdings) and for OBA when valuing failed-bank asset portfolios during resolution.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "banking-finance",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2792848946"
 }

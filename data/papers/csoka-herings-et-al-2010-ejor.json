@@ -19,19 +19,24 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We generalize exactness to games with non-transferable utility (NTU). A game is exact if for each coalition there is a core allocation on the boundary of its payoff set. Convex games with transferable utility are well-known to be exact. We consider five generalizations of convexity in the NTU setting. We show that each of ordinal, coalition merge, individual merge and marginal convexity can be unified under NTU exactness. We provide an example of a cardinally convex game which is not NTU exact. Finally, we relate the classes of Π-balanced, totally Π-balanced, NTU exact, totally NTU exact, ordinally convex, cardinally convex, coalition merge convex, individual merge convex and marginal convex games to one another.",
-  "summary_en": null,
+  "summary_en": "In cooperative games with non-transferable utility (NTU) — meaning payoffs cannot be simply summed across coalition members — many useful concepts from the transferable-utility (TU) world need careful generalisation. Csóka, Herings, Kóczy and Pintér study five different generalisations of TU 'convexity' in the NTU setting. They show that ordinal convexity, coalition-merge convexity, individual-merge convexity, and marginal convexity can all be unified under the concept of 'NTU exactness'. They give an example of a cardinally-convex game that is not NTU-exact, and map out the relationships among the various NTU game classes.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model — cooperative game theory in the NTU setting. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant for analysing situations where utility is not directly transferable — bargaining, shared resource allocation, joint procurement (common in EU institutional arrangements and Hungarian inter-agency cooperation). The paper sharpens the toolkit for assessing whether stable cooperative outcomes exist in such settings.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "mechanism-design",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2168654026"
 }

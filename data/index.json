@@ -7990,20 +7990,27 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "If a financial unit (a bank, an insurance company, a portfolio, the financial system of a country, etc.) consists of subunits (divisions, subportfolios, etc.), then the risk of the main unit should be allocated to the subunits using a risk capital allocation method in a fair way.",
-      "summary_en": null,
+      "summary_en": "When a bank, insurance company, or financial system is composed of subunits, the total risk capital must be allocated back to those subunits in a defensible way for internal capital management and regulatory reporting. Balog, Bátyi, Csóka and Pintér survey and compare the major risk-capital-allocation methods (proportional, marginal, Aumann-Shapley, Shapley-value, etc.) on three core fairness axioms: efficiency, no-undercut (no subunit pays more than its standalone risk), and consistency. They show no method satisfies all properties simultaneously, providing a clear reference for practitioners and supervisors choosing between methods.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical comparison plus simulation analysis of risk-allocation methods applied to standardised portfolio examples. No primary firm-level dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for MNB's supervisory review of internal capital adequacy assessment processes (ICAAP) at Hungarian banks. The paper provides a clean framework for evaluating how Hungarian banks attribute risk capital across business lines — useful when MNB challenges allocations or sets ICAAP guidance. Also relevant for OTP, MKB, and other large Hungarian banks designing internal capital-allocation systems.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "banking-finance",
+        "methods",
+        "mechanism-design"
+      ],
+      "methods": [
+        "theory",
+        "structural"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2548213636"
     },
     {
@@ -15056,20 +15063,27 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Let us consider a financial firm having some divisions which have invested into some risky assets. Using coherent measures of risk there is some diversification benefit that should be allocated somehow. We use cooperative game theory and simulations to assess the possibility to jointly satisfy three inherent fairness requirements for allocating risk capital in illiquid markets: Core Compatibility, Equal Treatment Property, and Strong Monotonicity. We show that practically it is not possible to allocate risk in illiquid markets satisfying the three fairness notions at the same time, one has to give up at least one of them.",
-      "summary_en": null,
+      "summary_en": "When a financial firm's divisions hold positions in illiquid assets, allocating the diversification benefit fairly back to divisions is harder than for liquid markets. Csóka uses cooperative-game-theory tools and simulations to test whether three intuitive fairness requirements — Core Compatibility (the allocation lies in the core), Equal Treatment Property, and Strong Monotonicity — can be jointly satisfied. He shows the answer is no in practice: at least one fairness property must be sacrificed when allocating risk in illiquid markets. The paper helps regulators and practitioners understand the unavoidable trade-offs.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Simulation analysis of cooperative risk-allocation games under varying market-liquidity assumptions. No primary firm-level dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "MNB's supervisory framework for internal capital allocation must address illiquid markets (Hungarian sovereign bonds in stressed conditions, real estate, private equity). The paper documents that no allocation method satisfies all desirable fairness properties simultaneously — a concrete caveat for MNB ICAAP guidance and for Hungarian banks' Pillar 2 risk-allocation reporting.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "banking-finance",
+        "methods",
+        "mechanism-design"
+      ],
+      "methods": [
+        "theory",
+        "structural"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W588761289"
     },
     {
@@ -15132,20 +15146,26 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "During a bank run, the bank observes massive withdrawals but cannot distinguish between genuine liquidity-needs and panic withdrawals. Optimal policy responses—e.g., rescheduling or suspending convertibility—depend on the bank's beliefs about the liquidity needs of those yet to be served. We revisit Ennis and Keister (2009), relaxing their assumption that the share of impatient depositors still in line mirrors the population share, allowing arbitrary feasible beliefs. Our analysis shows that greater bank pessimism—i.e., a higher perceived share of impatient depositors still in line—increases fragility, defined as the likelihood that a bank-run equilibrium coexists with the efficient no-run outcome, regardless of the policy tool employed. This suggests that managing banks' beliefs—by reducing undue pessimism—before a crisis may mitigate run incentives. In an era of real-time data and AI-driven monitoring, banks may strive to infer more precise information on remaining depositors—potentially pivotal for preventing panic-driven runs.",
-      "summary_en": null,
+      "summary_en": "During a bank run, the bank cannot tell whether withdrawals are panic-driven or genuine liquidity needs. Csóka, Erb and Kiss revisit the Ennis-Keister (2009) bank-run model, relaxing the assumption that the share of impatient depositors still in line equals their population share. With more flexible beliefs, they show that pessimistic banks (overestimating impatient depositors remaining) face higher fragility — meaning bank-run equilibria are more likely to coexist with efficient no-run equilibria. The implication: banks should be helped to form accurate (not pessimistic) beliefs before a crisis. Real-time data and AI-driven monitoring may help.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — bank-run equilibrium analysis extending Ennis-Keister (2009) framework with arbitrary feasible beliefs. Numerical examples calibrated to standard bank-run model parameters.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for MNB and OBA crisis-management protocols. The paper supports investment in real-time depositor-data infrastructure that helps banks form accurate beliefs about depositor type-mix during stress events. Useful framework for designing the next generation of MNB's bank-resolution playbook.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "banking-finance",
+        "behavioral",
+        "mechanism-design"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-20",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W4416763895"
     },
     {
@@ -15167,20 +15187,26 @@
       "url_pdf": "https://www.sciencedirect.com/science/article/pii/S0378426614002842",
       "url_replication": null,
       "abstract": "Risk allocation games are cooperative games that are used to attribute the risk of a financial entity to its divisions. In this paper, we extend the literature on risk allocation games by incorporating liquidity considerations. A liquidity policy specifies state-dependent liquidity requirements that a portfolio should obey. To comply with the liquidity policy, a financial entity may have to liquidate part of its assets, which is costly.",
-      "summary_en": null,
+      "summary_en": "Standard risk-allocation games assume liquid markets where divisional positions can be unwound costlessly. Csóka and Herings extend the framework to incorporate liquidity policies that require state-dependent liquidity holdings — meaning the financial entity may need to liquidate assets at a cost to comply. They derive how liquidity constraints modify the cooperative-game structure of risk allocation, showing how the diversification-benefit allocation across divisions changes when illiquidity is binding. The framework provides a more realistic basis for internal capital-allocation systems at financial institutions facing liquidity regulation.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — cooperative risk-allocation games with liquidity policies. No primary firm-level dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "MNB's Liquidity Coverage Ratio (LCR) and Net Stable Funding Ratio (NSFR) supervisory framework imposes liquidity policies on Hungarian banks. The paper provides a rigorous extension of risk-capital-allocation theory to handle these constraints — useful for MNB's ICAAP review and for Hungarian banks designing their internal liquidity-aware risk-attribution systems.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "banking-finance",
+        "methods",
+        "mechanism-design"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2123400365"
     },
     {
@@ -15248,20 +15274,26 @@
       "url_pdf": "https://www.sciencedirect.com/science/article/pii/S0899825619300776",
       "url_replication": null,
       "abstract": "We analyze the question of how to distribute the asset value of an insolvent firm among its creditors and the firm itself. Compared to standard bankruptcy games as studied in the game-theoretic literature, we treat the firm as a player and define a new class of transferable utility games called liability games. We show that the core of a liability game is empty. We analyze the nucleolus of the game. The firm always gets a positive payment, at most equal to half of the asset value. Creditors with higher liabilities receive higher payments, but also suffer from higher deficiencies. We provide conditions under which the nucleolus coincides with a generalized proportional rule.",
-      "summary_en": null,
+      "summary_en": "When a firm becomes insolvent, how should its remaining assets be distributed among creditors and the firm itself? Csóka and Herings introduce 'liability games' — cooperative transferable-utility games that treat the firm as a player. They prove the core is always empty (no allocation makes everyone happy), which forces using the nucleolus solution concept. The firm always receives a positive payment up to half the asset value; creditors with higher liabilities get higher payments but also suffer larger deficiencies. The paper provides conditions under which the nucleolus coincides with a generalised proportional rule, a tractable approximation for practical use.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — cooperative game theory framework for bankruptcy/insolvency proceedings. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for Hungarian insolvency law (Csődeljárási tv.) and the practice of insolvency administrators. The paper provides a rigorous framework for assessing whether observed Hungarian bankruptcy distributions align with cooperative-game-theoretic fairness. Useful framework for the Igazságügyi Minisztérium (Justice Ministry) when reviewing insolvency-procedure efficiency.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "banking-finance",
+        "mechanism-design",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W4251283516"
     },
     {
@@ -15468,20 +15500,26 @@
       "url_pdf": "https://www.sciencedirect.com/science/article/pii/S0378426607000404",
       "url_replication": null,
       "abstract": "Coherent measures of risk defined by the axioms of monotonicity, subadditivity, positive homogeneity, and translation invariance are recent tools in risk management to assess the amount of risk agents are exposed to. If they also satisfy law invariance and comonotonic additivity, then we get a subclass of them: spectral measures of risk. Expected shortfall is a well-known spectral measure of risk. We investigate the above mentioned six axioms using tools from general equilibrium (GE) theory. Coherent and spectral measures of risk are compared to the natural measure of risk derived from an exchange economy model, which we call GE measure of risk. We prove that GE measures of risk are coherent measures of risk. We also show that spectral measures of risk are GE measures of risk only under stringent conditions, since spectral measures of risk do not take the regulated entity's relation to the market portfolio into account.",
-      "summary_en": null,
+      "summary_en": "Coherent measures of risk (e.g., Expected Shortfall) are central to financial regulation. Csóka, Herings and Kóczy investigate the standard axiomatic foundations of these measures — monotonicity, subadditivity, positive homogeneity, translation invariance — using general-equilibrium (GE) theory. They show GE-derived risk measures are always coherent, but spectral measures of risk (a subclass of coherent measures including Expected Shortfall) coincide with GE measures only under stringent conditions, because spectral measures don't account for the regulated entity's relationship to the market portfolio. The paper sharpens the conditions under which regulatory risk measures match equilibrium-derived ones.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — general-equilibrium foundations for axiomatic risk measures. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for MNB's adoption of Expected Shortfall under Basel III/IV and EU banking regulation. The paper shows Expected Shortfall is a coherent risk measure but doesn't always align with general-equilibrium-derived measures — a theoretical caveat when interpreting regulatory capital requirements as economically optimal. Useful framework for MNB stress-test design.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "banking-finance",
+        "methods",
+        "mechanism-design"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2118181412"
     },
     {
@@ -15504,20 +15542,26 @@
       "url_pdf": "https://www.sciencedirect.com/science/article/pii/S0899825608002042",
       "url_replication": null,
       "abstract": "The measurement and the allocation of risk are fundamental problems of portfolio management. Coherent measures of risk provide an axiomatic approach to the former problem. In an environment given by a coherent measure of risk and the various portfolios' realization vectors, risk allocation games aim at solving the second problem: How to distribute the diversification benefits of the various portfolios? Understanding these cooperative games helps us to find stable, efficient, and fair allocations of risk. We show that the class of risk allocation and totally balanced games coincide, hence a stable allocation of risk is always possible. When the aggregate portfolio is riskless, the class of risk allocation games coincides with the class of exact games. As in exact games any subcoalition may be subject to marginalization even in core allocations, our result further emphasizes the responsibility involved in allocating risk.",
-      "summary_en": null,
+      "summary_en": "How should diversification benefits be fairly allocated to a financial firm's divisions when the firm uses a coherent risk measure? Csóka, Herings and Kóczy show that risk-allocation games (cooperative games defined by coherent risk measures and portfolio realisation vectors) coincide exactly with the class of totally balanced games — meaning a stable, fair allocation always exists. When the aggregate portfolio is riskless, the class equals the class of exact games. The result establishes that risk-allocation games inherit the rich solution-concept structure of game theory and shows that even within the core, sub-coalitions may face marginalisation, emphasising the responsibility involved in risk allocation.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — characterisation of cooperative risk-allocation games using coherent risk measures. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Foundational result for the coherent-risk-measures literature underpinning Basel III/IV bank regulation, directly relevant to MNB's supervisory framework. The paper guarantees that fair internal capital-allocation methods exist in principle — useful theoretical background for Hungarian banks' ICAAP processes and for MNB's review of those processes.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "banking-finance",
+        "methods",
+        "mechanism-design"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2138106469"
     },
     {
@@ -15541,20 +15585,25 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We generalize exactness to games with non-transferable utility (NTU). A game is exact if for each coalition there is a core allocation on the boundary of its payoff set. Convex games with transferable utility are well-known to be exact. We consider five generalizations of convexity in the NTU setting. We show that each of ordinal, coalition merge, individual merge and marginal convexity can be unified under NTU exactness. We provide an example of a cardinally convex game which is not NTU exact. Finally, we relate the classes of Π-balanced, totally Π-balanced, NTU exact, totally NTU exact, ordinally convex, cardinally convex, coalition merge convex, individual merge convex and marginal convex games to one another.",
-      "summary_en": null,
+      "summary_en": "In cooperative games with non-transferable utility (NTU) — meaning payoffs cannot be simply summed across coalition members — many useful concepts from the transferable-utility (TU) world need careful generalisation. Csóka, Herings, Kóczy and Pintér study five different generalisations of TU 'convexity' in the NTU setting. They show that ordinal convexity, coalition-merge convexity, individual-merge convexity, and marginal convexity can all be unified under the concept of 'NTU exactness'. They give an example of a cardinally-convex game that is not NTU-exact, and map out the relationships among the various NTU game classes.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — cooperative game theory in the NTU setting. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant for analysing situations where utility is not directly transferable — bargaining, shared resource allocation, joint procurement (common in EU institutional arrangements and Hungarian inter-agency cooperation). The paper sharpens the toolkit for assessing whether stable cooperative outcomes exist in such settings.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "mechanism-design",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2168654026"
     },
     {
@@ -15576,20 +15625,25 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "When institutional investors rearrange their portfolios, they should consider both the temporary and the permanent price impacts. After a temporary price impact the order book fully recovers, whereas a permanent price impact changes the equilibrium price, having effects on the resulting portfolio.",
-      "summary_en": null,
+      "summary_en": "When institutional investors rearrange large positions, both temporary and permanent price impacts matter. Csóka and Hevér show that standard portfolio-valuation models that focus on temporary impacts (where the order book recovers fully) miss the permanent component — which actually shifts the equilibrium price and changes the resulting portfolio's valuation. They develop a framework for portfolio valuation that incorporates both impacts under liquidity constraints, providing more accurate marking-to-market for large or illiquid positions.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — portfolio valuation under price-impact constraints. No primary firm-level dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for MNB and ÁKK when valuing large Hungarian positions in illiquid securities (smaller corporate bonds, infrastructure debt, distressed assets). Also relevant for the Pension Fund Supervision (when reviewing how Hungarian pension funds value large illiquid holdings) and for OBA when valuing failed-bank asset portfolios during resolution.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "banking-finance",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2792848946"
     },
     {
@@ -41468,7 +41522,7 @@
       "policy_framing_en": "Relevant to: MNB policy, banking regulation, macroprudential tools, financial inclusion.",
       "policy_framing_hu": "Releváns: MNB-politika, bankszabályozás, makroprudenciális eszközök, pénzügyi befogadás.",
       "icon": "landmark",
-      "paper_count": 128
+      "paper_count": 136
     },
     {
       "id": "fiscal-tax",
@@ -41545,7 +41599,7 @@
       "policy_framing_en": "Relevant to: consumer protection, pension-default design, nudging, financial-education regulation, addictive-product regulation.",
       "policy_framing_hu": "Releváns: fogyasztóvédelem, nyugdíjalap-alapbeállítások, döntéslendítés (nudge), pénzügyi edukáció szabályozása, függőséget okozó termékek szabályozása.",
       "icon": "brain",
-      "paper_count": 99
+      "paper_count": 100
     },
     {
       "id": "industrial-organization",
@@ -41589,7 +41643,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 152
+      "paper_count": 160
     },
     {
       "id": "market-design",
@@ -41611,7 +41665,7 @@
       "policy_framing_en": "Relevant to: regulatory design, procurement, voting reform, contract law, antitrust analysis, committee design.",
       "policy_framing_hu": "Releváns: szabályozási tervezés, közbeszerzés, választási reform, szerződésjog, versenypolitika, bizottsági tervezés.",
       "icon": "scale",
-      "paper_count": 55
+      "paper_count": 63
     }
   ],
   "journals": [

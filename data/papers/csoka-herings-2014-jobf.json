@@ -17,19 +17,25 @@
   "url_pdf": "https://www.sciencedirect.com/science/article/pii/S0378426614002842",
   "url_replication": null,
   "abstract": "Risk allocation games are cooperative games that are used to attribute the risk of a financial entity to its divisions. In this paper, we extend the literature on risk allocation games by incorporating liquidity considerations. A liquidity policy specifies state-dependent liquidity requirements that a portfolio should obey. To comply with the liquidity policy, a financial entity may have to liquidate part of its assets, which is costly.",
-  "summary_en": null,
+  "summary_en": "Standard risk-allocation games assume liquid markets where divisional positions can be unwound costlessly. Csóka and Herings extend the framework to incorporate liquidity policies that require state-dependent liquidity holdings — meaning the financial entity may need to liquidate assets at a cost to comply. They derive how liquidity constraints modify the cooperative-game structure of risk allocation, showing how the diversification-benefit allocation across divisions changes when illiquidity is binding. The framework provides a more realistic basis for internal capital-allocation systems at financial institutions facing liquidity regulation.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model — cooperative risk-allocation games with liquidity policies. No primary firm-level dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "MNB's Liquidity Coverage Ratio (LCR) and Net Stable Funding Ratio (NSFR) supervisory framework imposes liquidity policies on Hungarian banks. The paper provides a rigorous extension of risk-capital-allocation theory to handle these constraints — useful for MNB's ICAAP review and for Hungarian banks designing their internal liquidity-aware risk-attribution systems.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "banking-finance",
+    "methods",
+    "mechanism-design"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2123400365"
 }

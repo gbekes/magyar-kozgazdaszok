@@ -16,19 +16,26 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Let us consider a financial firm having some divisions which have invested into some risky assets. Using coherent measures of risk there is some diversification benefit that should be allocated somehow. We use cooperative game theory and simulations to assess the possibility to jointly satisfy three inherent fairness requirements for allocating risk capital in illiquid markets: Core Compatibility, Equal Treatment Property, and Strong Monotonicity. We show that practically it is not possible to allocate risk in illiquid markets satisfying the three fairness notions at the same time, one has to give up at least one of them.",
-  "summary_en": null,
+  "summary_en": "When a financial firm's divisions hold positions in illiquid assets, allocating the diversification benefit fairly back to divisions is harder than for liquid markets. Csóka uses cooperative-game-theory tools and simulations to test whether three intuitive fairness requirements — Core Compatibility (the allocation lies in the core), Equal Treatment Property, and Strong Monotonicity — can be jointly satisfied. He shows the answer is no in practice: at least one fairness property must be sacrificed when allocating risk in illiquid markets. The paper helps regulators and practitioners understand the unavoidable trade-offs.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Simulation analysis of cooperative risk-allocation games under varying market-liquidity assumptions. No primary firm-level dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "MNB's supervisory framework for internal capital allocation must address illiquid markets (Hungarian sovereign bonds in stressed conditions, real estate, private equity). The paper documents that no allocation method satisfies all desirable fairness properties simultaneously — a concrete caveat for MNB ICAAP guidance and for Hungarian banks' Pillar 2 risk-allocation reporting.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "banking-finance",
+    "methods",
+    "mechanism-design"
+  ],
+  "methods": [
+    "theory",
+    "structural"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W588761289"
 }
