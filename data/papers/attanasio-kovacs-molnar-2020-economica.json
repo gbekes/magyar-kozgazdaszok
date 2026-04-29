@@ -1,0 +1,47 @@
+{
+  "id": "attanasio-kovacs-molnar-2020-economica",
+  "title": "Euler Equations, Subjective Expectations and Income Shocks",
+  "authors": [
+    "Orazio Attanasio",
+    "Agnes Kovács",
+    "molnar-kriszta"
+  ],
+  "publication_type": "article",
+  "journal": "Economica",
+  "year": 2020,
+  "volume": "87",
+  "issue": "346",
+  "pages": "406-441",
+  "doi": "10.1111/ecca.12318",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1111/ecca.12318",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "In this paper, we make three substantive contributions. First, we use elicited subjective income expectations to identify the levels of permanent and transitory income shocks in a lifecycle framework. Second, we use these shocks to assess whether households' consumption is insulated from them. Third, we use the shock data to estimate an Euler equation for consumption. We find that households are able to smooth transitory shocks, but adjust their consumption in response to permanent shocks, albeit not fully. The estimates of the Euler equation parameters with and without expectational errors are similar, which is consistent with rational expectations.",
+  "summary_en": "Standard tests of the consumption Euler equation rely on assumptions about how households perceive income shocks — usually that expectations are rational and shocks are inferred ex post by the econometrician. Attanasio, Kovács and Molnár use directly elicited subjective income-expectations data to identify permanent versus transitory income shocks at the household level. They find households fully smooth transitory shocks but only partially smooth permanent ones, and that Euler-equation estimates with and without expectational-error correction are very similar — supporting (rather than rejecting) rational expectations in this dimension.",
+  "summary_hu": null,
+  "data_used": "UK Household Longitudinal Study (Understanding Society) plus directly elicited subjective probability distributions over future income from the same households, covering several thousand households across multiple waves.",
+  "data_used_hu": null,
+  "policy_relevance": "Hungarian household-finance and pension-policy modelling (MNB household surveys, Tárki Magyar Háztartás Panel) typically infers permanent vs transitory income shocks indirectly. The paper shows direct elicitation of household income expectations is feasible and yields cleaner identification of consumption responses — useful for calibrating welfare effects of pension reforms or income-stabilisation programmes for self-employed households.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "macroeconomics",
+    "behavioral",
+    "labor-markets"
+  ],
+  "methods": [
+    "panel-data",
+    "structural"
+  ],
+  "countries_studied": [
+    "GB"
+  ],
+  "data_types": [
+    "survey"
+  ],
+  "featured": false,
+  "added_at": "2026-04-27",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
+  "openalex_id": null
+}

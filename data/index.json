@@ -7126,29 +7126,82 @@
       "publication_type": "article",
       "journal": "Management Science",
       "year": 2008,
-      "volume": null,
-      "issue": null,
-      "pages": null,
-      "doi": null,
+      "volume": "54",
+      "issue": "10",
+      "pages": "1731-1746",
+      "doi": "10.1287/mnsc.1080.0893",
       "working_paper_series": null,
-      "url_published": null,
+      "url_published": "https://doi.org/10.1287/mnsc.1080.0893",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "The profitability of remanufacturing systems for different cost, technology, and logistics structures has been extensively investigated in the literature. We provide an alternative and somewhat complementary approach that considers demand-related issues, such as the existence of green segments, original equipment manufacturer competition, and product life-cycle effects. The profitability of a remanufacturing system strongly depends on these issues as well as on their interactions. For a monopolist, we show that there exist thresholds on the remanufacturing cost savings, the green segment size, market growth rate, and consumer valuations for the remanufactured products, above which remanufacturing is profitable. More important, we show that under competition remanufacturing can become an effective marketing strategy, which allows the manufacturer to defend its market share via price discrimination.",
+      "summary_en": "Should manufacturers remanufacture their used products as a deliberate marketing strategy rather than only for cost reasons? Atasu, Sárváry and Van Wassenhove model demand-side considerations including green-conscious consumer segments, life-cycle effects, and competition. For monopolists, profitable remanufacturing requires sufficient cost savings, a large enough green segment, fast market growth, or high consumer valuations of remanufactured units. Crucially, under competition, remanufacturing becomes a way to defend market share via price discrimination — even when individual cost incentives are weak.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model with comparative-statics analysis. No dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungarian implementation of the EU circular-economy package and extended-producer-responsibility directives often assumes remanufacturing is driven by cost incentives. The paper shows that under competition, remanufacturing emerges as a strategic price-discrimination tool, which means policy levers should target competition structure (entry of independent remanufacturers, secondary-market design) rather than only cost subsidies. Useful for the Innovation and Technology Ministry's circular-economy roadmap.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "industrial-organization",
+        "energy-environment",
+        "firms-productivity"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
+      "openalex_id": null
+    },
+    {
+      "id": "attanasio-kovacs-molnar-2020-economica",
+      "title": "Euler Equations, Subjective Expectations and Income Shocks",
+      "authors": [
+        "Orazio Attanasio",
+        "Agnes Kovács",
+        "molnar-kriszta"
+      ],
+      "publication_type": "article",
+      "journal": "Economica",
+      "year": 2020,
+      "volume": "87",
+      "issue": "346",
+      "pages": "406-441",
+      "doi": "10.1111/ecca.12318",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1111/ecca.12318",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "In this paper, we make three substantive contributions. First, we use elicited subjective income expectations to identify the levels of permanent and transitory income shocks in a lifecycle framework. Second, we use these shocks to assess whether households' consumption is insulated from them. Third, we use the shock data to estimate an Euler equation for consumption. We find that households are able to smooth transitory shocks, but adjust their consumption in response to permanent shocks, albeit not fully. The estimates of the Euler equation parameters with and without expectational errors are similar, which is consistent with rational expectations.",
+      "summary_en": "Standard tests of the consumption Euler equation rely on assumptions about how households perceive income shocks — usually that expectations are rational and shocks are inferred ex post by the econometrician. Attanasio, Kovács and Molnár use directly elicited subjective income-expectations data to identify permanent versus transitory income shocks at the household level. They find households fully smooth transitory shocks but only partially smooth permanent ones, and that Euler-equation estimates with and without expectational-error correction are very similar — supporting (rather than rejecting) rational expectations in this dimension.",
+      "summary_hu": null,
+      "data_used": "UK Household Longitudinal Study (Understanding Society) plus directly elicited subjective probability distributions over future income from the same households, covering several thousand households across multiple waves.",
+      "data_used_hu": null,
+      "policy_relevance": "Hungarian household-finance and pension-policy modelling (MNB household surveys, Tárki Magyar Háztartás Panel) typically infers permanent vs transitory income shocks indirectly. The paper shows direct elicitation of household income expectations is feasible and yields cleaner identification of consumption responses — useful for calibrating welfare effects of pension reforms or income-stabilisation programmes for self-employed households.",
+      "policy_relevance_hu": null,
+      "topics": [
+        "macroeconomics",
+        "behavioral",
+        "labor-markets"
+      ],
+      "methods": [
+        "panel-data",
+        "structural"
+      ],
+      "countries_studied": [
+        "GB"
+      ],
+      "data_types": [
+        "survey"
+      ],
+      "featured": false,
+      "added_at": "2026-04-27",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": null
     },
     {
@@ -8430,29 +8483,40 @@
       "publication_type": "article",
       "journal": "Journal of Marketing Research",
       "year": 2014,
-      "volume": null,
-      "issue": null,
-      "pages": null,
-      "doi": null,
+      "volume": "51",
+      "issue": "3",
+      "pages": "270-285",
+      "doi": "10.1509/jmr.13.0503",
       "working_paper_series": null,
-      "url_published": null,
+      "url_published": "https://doi.org/10.1509/jmr.13.0503",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "The authors examine which product characteristics are likely to be associated with mobile display advertising (MDA) campaigns that are effective in increasing consumers' favorable attitudes towards products and purchase intentions. Using data from a large-scale test-control field experiment covering 54 U.S. MDA campaigns run between 2007 and 2010 and involving 39,946 consumers, the results show that MDA campaigns significantly increased consumers' favorable attitudes and purchase intentions only when the campaigns advertised products that were higher (vs. lower) involvement and utilitarian (vs. hedonic). The authors discuss the implications of this finding for the design and evaluation of mobile advertising campaigns by marketers.",
+      "summary_en": "Bart, Stephen and Sárváry run a large field experiment across 54 US mobile-display ad campaigns reaching 39,946 consumers (2007–2010), measuring whether mobile ads shift product attitudes and purchase intentions. The headline result: mobile display advertising works only for products that are both higher-involvement (significant purchase decisions) and utilitarian (function-driven, not hedonic). For low-involvement or hedonic products, effects are negligible. The finding gives advertisers and platforms an empirically grounded targeting rule on when to spend mobile budgets.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Test-control field experiment across 54 mobile display advertising campaigns in the US between 2007 and 2010, with 39,946 consumers responding to attitude and purchase-intention surveys; campaigns spanned multiple product categories.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungarian advertising regulation (Hungarian Advertising Code, NMHH oversight of digital ad markets) and Hungary's media-and-communications strategy increasingly engage with mobile-platform power. The paper provides empirical baseline effect sizes for mobile display ads — showing they are heterogeneous across product types — relevant for assessing the consumer-welfare consequences of regulating ad targeting on mobile platforms.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "industrial-organization",
+        "innovation-digital",
+        "behavioral"
+      ],
+      "methods": [
+        "rct",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "field-experiment"
+      ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": null
     },
     {
@@ -25272,29 +25336,38 @@
       "publication_type": "article",
       "journal": "Journal of Marketing Research",
       "year": 2011,
-      "volume": null,
-      "issue": null,
-      "pages": null,
-      "doi": null,
+      "volume": "48",
+      "issue": "3",
+      "pages": "425-443",
+      "doi": "10.1509/jmkr.48.3.425",
       "working_paper_series": null,
-      "url_published": null,
+      "url_published": "https://doi.org/10.1509/jmkr.48.3.425",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "This article discusses the diffusion process in an online social network given the individual connections between members. The authors model the adoption decision of individuals as a binary choice affected by three factors: (1) the local network structure formed by already adopted neighbors, (2) the average characteristics of adopted neighbors (influencers), and (3) the characteristics of the potential adopters. Focusing on the first factor, the authors find two marked effects. First, an individual who is connected to many adopters has a greater adoption probability (degree effect). Second, the density of connections in a group of already adopted consumers has a strong positive effect on the adoption of individuals connected to this group (clustering effect). The article also records significant effects for influencer and adopter characteristics. An interesting counterintuitive finding is that the average influential power of individuals decreases with the total number of their contacts. These results have practical implications for viral marketing.",
+      "summary_en": "Using anonymised adoption data from a large European online social network, Katona, Zubcsek and Sárváry quantify how an individual's adoption probability depends on three factors: who they are connected to, who in their neighbourhood already adopted, and the local network structure. They find two strong network effects: connection to many adopters raises adoption probability (degree effect), and density of connections among already-adopted neighbours has a strong positive influence (clustering effect). Counterintuitively, individuals with very many contacts have less average influence per contact than those with moderate networks.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Anonymised adoption-timing and friendship-graph data from a large European online social network of millions of users, observed during the platform's diffusion period in the mid-2000s.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungarian public-information campaigns (vaccination uptake, energy-efficiency rebates, financial-literacy initiatives) increasingly use social-network targeting. The paper provides directly usable parameters: target dense clusters of early adopters rather than the highest-degree influencers (the latter have lower per-contact influence). Useful for NEAK, MEKH, and the Money Compass Foundation when designing peer-influenced behavioural campaigns.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "innovation-digital",
+        "behavioral",
+        "industrial-organization"
+      ],
+      "methods": [
+        "panel-data",
+        "structural"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "digital-trace"
+      ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": null
     },
     {
@@ -29332,6 +29405,46 @@
       "openalex_id": "W1814233216"
     },
     {
+      "id": "lal-sarvary-1999-marsci",
+      "title": "When and How Is the Internet Likely to Decrease Price Competition?",
+      "authors": [
+        "Rajiv Lal",
+        "sarvary-miklos"
+      ],
+      "publication_type": "article",
+      "journal": "Marketing Science",
+      "year": 1999,
+      "volume": "18",
+      "issue": "4",
+      "pages": "485-503",
+      "doi": "10.1287/mksc.18.4.485",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1287/mksc.18.4.485",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "We challenge the assumption that the Internet intensifies price competition. Instead, we develop conditions under which the Internet may decrease competition. We develop an analytic model showing that the introduction of the Internet might lead to monopoly pricing when (1) the proportion of Internet users is high enough, (2) when nondigital attributes are relevant but not overwhelming, (3) when consumers have a more favorable prior about the brand they currently own, and (4) when the purchase situation can be characterized by 'destination shopping'. The Internet can increase consumer loyalty by raising effective search costs for products requiring physical inspection. The paper concludes that stores may become more important for customer acquisition while the Internet handles demand fulfillment for certain product categories.",
+      "summary_en": "It was widely assumed in the late 1990s that the internet would intensify price competition by lowering search costs. Lal and Sárváry argue the opposite can happen: when products have both 'digital' attributes (easily described online) and 'nondigital' attributes (requiring physical inspection), heavy internet adoption can soften price competition by making consumers stickier to brands they already know. Their analytic model shows that internet diffusion above a threshold can produce monopoly-like pricing rather than the predicted price war, with stores remaining important for customer acquisition.",
+      "summary_hu": null,
+      "data_used": "Theoretical model — no dataset. The model considers two competing brands, consumers with priors about non-digital product attributes, and a hybrid retail-internet distribution channel; comparative statics on price competition derived analytically.",
+      "data_used_hu": null,
+      "policy_relevance": "Hungarian competition policy (GVH) routinely assumes that e-commerce intensifies price competition. The paper provides a theoretical caveat: for product categories with high non-digital content (clothes, furniture, fresh food), e-commerce can soften price competition rather than tighten it. Useful for the GVH and the National Trade Council when assessing retail-market mergers and digital-marketplace dominance cases.",
+      "policy_relevance_hu": null,
+      "topics": [
+        "industrial-organization",
+        "innovation-digital"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [],
+      "data_types": [],
+      "featured": false,
+      "added_at": "2026-04-27",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
+      "openalex_id": null
+    },
+    {
       "id": "lauermann-merzyn-et-al-2017-restud",
       "title": "Learning and Price Discovery in a Search Market",
       "authors": [
@@ -31386,6 +31499,50 @@
       "openalex_id": "W2334115192"
     },
     {
+      "id": "mele-molnar-santoro-2020-jome",
+      "title": "On the Perils of Stabilizing Prices when Agents are Learning",
+      "authors": [
+        "Antonio Mele",
+        "molnar-kriszta",
+        "Sergio Santoro"
+      ],
+      "publication_type": "article",
+      "journal": "Journal of Monetary Economics",
+      "year": 2020,
+      "volume": "115",
+      "issue": "C",
+      "pages": "339-353",
+      "doi": "10.1016/j.jmoneco.2019.09.005",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1016/j.jmoneco.2019.09.005",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "The main advantage of price level stabilization compared with inflation stabilization rests on the central bank's ability to shape expectations. We show that stabilizing prices is no longer optimal when the central bank can shape expectations of agents with incomplete knowledge, who have to learn about the policy implemented. Disinflating in the short run more than agents expect generates short-term gains without triggering an abrupt loss of confidence, because agents update expectations sluggishly. Following this policy, in the long run, the central bank loses the ability to shape agents' beliefs, and the economy converges to a rational expectations equilibrium in which policy does not stabilize prices, economic volatility is high, and agents suffer the corresponding welfare losses. However, these losses are outweighed by short-term gains from the learning phase.",
+      "summary_en": "Price-level targeting is often advocated as superior to inflation targeting because it lets the central bank shape long-run expectations. Mele, Molnár and Santoro show this argument breaks down when households and firms must *learn* the policy rule rather than starting with rational expectations. A central bank can win short-run welfare gains by disinflating more than agents expect — they update sluggishly — but in the long run the economy converges to a rational-expectations equilibrium where the central bank no longer stabilises prices, volatility rises, and welfare drops. The short-run gains can outweigh long-run losses, but the trade-off is non-trivial.",
+      "summary_hu": null,
+      "data_used": "Sticky-price macroeconomic model with adaptive-learning agents; calibrated to standard quarterly US data for welfare and policy-comparison exercises.",
+      "data_used_hu": null,
+      "policy_relevance": "When the MNB or ECB consider switching frameworks (price-level targeting, average inflation targeting), the standard argument that price-level targeting helps anchor expectations assumes rational agents. The paper shows under realistic adaptive learning, the long-run gain disappears and the policy may converge to a worse equilibrium. Important when interpreting the ECB's 2021 'symmetric inflation target' transition and any future MNB framework reviews.",
+      "policy_relevance_hu": null,
+      "topics": [
+        "macroeconomics",
+        "banking-finance"
+      ],
+      "methods": [
+        "structural",
+        "theory"
+      ],
+      "countries_studied": [],
+      "data_types": [
+        "macro-aggregate"
+      ],
+      "featured": false,
+      "added_at": "2026-04-27",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
+      "openalex_id": null
+    },
+    {
       "id": "molnar-2026-jhr",
       "title": "Can Academic Redshirting Shrink the Education Gender Gap? Causal Evidence on Student Achievement and Mental Health",
       "authors": [
@@ -31480,108 +31637,43 @@
       "openalex_id": "W4409414888"
     },
     {
-      "id": "molnar-eusepi-preston-2015-jmcb",
-      "title": "Expectations, Learning and Business Cycle Fluctuations",
-      "authors": [
-        "Stefano Eusepi",
-        "molnar-kriszta",
-        "Bruce Preston"
-      ],
-      "publication_type": "article",
-      "journal": "Journal of Money, Credit and Banking",
-      "year": 2015,
-      "volume": null,
-      "issue": null,
-      "pages": null,
-      "doi": null,
-      "working_paper_series": null,
-      "url_published": null,
-      "url_pdf": null,
-      "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
-      "featured": false,
-      "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
-      "openalex_id": null
-    },
-    {
       "id": "molnar-kriszta-2007-jeea",
-      "title": "Learning about the Long-Run Determinants of Real Exchange Rates",
+      "title": "Learning with Expert Advice",
       "authors": [
         "molnar-kriszta"
       ],
       "publication_type": "article",
       "journal": "Journal of the European Economic Association",
       "year": 2007,
-      "volume": null,
-      "issue": null,
-      "pages": null,
-      "doi": null,
+      "volume": "5",
+      "issue": "2-3",
+      "pages": "420-432",
+      "doi": "10.1162/jeea.2007.5.2-3.420",
       "working_paper_series": null,
-      "url_published": null,
+      "url_published": "https://doi.org/10.1162/jeea.2007.5.2-3.420",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "Surveys of inflation forecasts show that expectations combine forward-looking and backward-looking elements. This contradicts conventional wisdom: in the presence of rational agents, adaptive agents would be driven out of the market. In our paper, we rationalize this finding in an equilibrium framework. Our model has two types of agents, one having rational expectations and the other using adaptive learning. The proportion of these agents in the population evolves according to their past forecasting performance. We show that even an underparameterized learning algorithm survives competition with rational expectations.",
+      "summary_en": "Survey-based forecasts of inflation typically blend forward-looking and backward-looking elements, contradicting the textbook prediction that rational agents should drive adaptive forecasters out of the market. Molnár builds a model with both agent types whose population shares evolve based on past forecasting accuracy. She shows that even a deliberately under-parameterised adaptive-learning rule can survive in equilibrium against rational expectations — providing a microfounded reason why real-world inflation expectations stay heterogeneous, and why central-bank surveys consistently find a mix of expectation types.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model. Calibration draws on stylised features of inflation-expectation surveys (Survey of Professional Forecasters, Michigan Survey) showing the persistent coexistence of forward- and backward-looking forecasters.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "MNB's inflation-expectations surveys consistently show heterogeneous forecasters. The paper provides a theoretical justification for treating this mix as a stable equilibrium feature, not a transitional artefact — which matters when the central bank communicates forecasts and decides how much weight to give backward-looking versus forward-looking signals in policy decisions.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
-      "featured": false,
-      "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
-      "openalex_id": null
-    },
-    {
-      "id": "molnar-reppa-2020-economica",
-      "title": "Expectations and Monetary Policy: Evidence from the Laboratory",
-      "authors": [
-        "molnar-kriszta",
-        "Zoltan Reppa"
+      "topics": [
+        "macroeconomics",
+        "behavioral",
+        "banking-finance"
       ],
-      "publication_type": "article",
-      "journal": "Economica",
-      "year": 2020,
-      "volume": null,
-      "issue": null,
-      "pages": null,
-      "doi": null,
-      "working_paper_series": null,
-      "url_published": null,
-      "url_pdf": null,
-      "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": null
     },
     {
@@ -31594,29 +31686,37 @@
       "publication_type": "article",
       "journal": "European Economic Review",
       "year": 2014,
-      "volume": null,
-      "issue": null,
-      "pages": null,
-      "doi": null,
+      "volume": "66",
+      "issue": "C",
+      "pages": "39-62",
+      "doi": "10.1016/j.euroecorev.2013.11.012",
       "working_paper_series": null,
-      "url_published": null,
+      "url_published": "https://doi.org/10.1016/j.euroecorev.2013.11.012",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "We derive optimal monetary policy in a sticky price model when private agents follow adaptive learning. We show that this slight departure from rationality has important implications for policy design. The central bank faces a new intertemporal trade-off, not present under rational expectations: it is optimal to forego stabilizing the economy in the present in order to facilitate private sector learning and thus ease the future intratemporal inflation-output gap trade-offs. The policy recommendation is robust: the welfare loss entailed by optimal policy under learning if the private sector actually has rational expectations is much smaller than if the central bank mistakenly assumes rational expectations when in fact agents are learning.",
+      "summary_en": "Standard optimal-monetary-policy models assume firms and households have rational expectations, but real agents learn over time. Molnár and Santoro show that when private agents are adaptive learners rather than fully rational, the central bank faces a new intertemporal trade-off: stabilising the economy aggressively today slows learning and worsens the inflation-output trade-off tomorrow. They derive a robust policy recommendation — accept some short-run instability to teach agents about the policy rule — and show the welfare cost of wrongly assuming rational expectations is much larger than the cost of wrongly assuming learning.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Sticky-price New Keynesian DSGE model with adaptive-learning agents; calibrated to standard quarterly US data (output gap, inflation, interest rate) for parameter values in the welfare comparisons.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct implication for MNB and ECB monetary-policy frameworks: the central bank should weight teaching-the-private-sector-about-the-rule against immediate stabilisation, especially after regime changes (e.g., MNB's 2017 self-financing programme, ECB's 2021 strategy review). The asymmetric welfare loss — rational-expectations-policy-under-learning is much costlier than the reverse — argues for a precautionary bias toward learning-aware policy when expectations may be drifting.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "macroeconomics",
+        "banking-finance"
+      ],
+      "methods": [
+        "structural",
+        "theory"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": null
     },
     {
@@ -31653,41 +31753,6 @@
       "last_reviewed_at": "2026-04-27",
       "review_status": "metadata-fetched",
       "openalex_id": "W2149050266"
-    },
-    {
-      "id": "molnar-tortorice-2020-jome",
-      "title": "Expectations and Monetary Policy",
-      "authors": [
-        "molnar-kriszta",
-        "Daniel L. Tortorice"
-      ],
-      "publication_type": "article",
-      "journal": "Journal of Monetary Economics",
-      "year": 2020,
-      "volume": null,
-      "issue": null,
-      "pages": null,
-      "doi": null,
-      "working_paper_series": null,
-      "url_published": null,
-      "url_pdf": null,
-      "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
-      "featured": false,
-      "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
-      "openalex_id": null
     },
     {
       "id": "molnar-virag-2007-el",
@@ -32198,29 +32263,34 @@
       "publication_type": "article",
       "journal": "Marketing Science",
       "year": 2011,
-      "volume": null,
-      "issue": null,
-      "pages": null,
-      "doi": null,
+      "volume": "30",
+      "issue": "1",
+      "pages": "42-60",
+      "doi": "10.1287/mksc.1100.0588",
       "working_paper_series": null,
-      "url_published": null,
+      "url_published": "https://doi.org/10.1287/mksc.1100.0588",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "The Internet has increased the flexibility of retailers, allowing them to operate an online arm in addition to their physical stores. The online channel offers potential benefits in selling to customer segments that value the convenience of online shopping, but it also raises new challenges. These include the higher likelihood of costly product returns when customers' ability to “touch and feel” products is important in determining fit. We study competing retailers that can operate dual channels (“bricks and clicks”) and examine how pricing strategies and physical store assistance levels change as a result of the additional Internet outlet. A central result we obtain is that when differentiation among competing retailers is not too high, having an online channel can actually increase investment in store assistance levels (e.g., greater shelf display, more-qualified sales staff, floor samples) and decrease profits. Consequently, when the decision to open an Internet channel is endogenized, there can exist an asymmetric equilibrium where only one retailer elects to operate an online arm but earns lower profits than its bricks-only rival.",
+      "summary_en": "Multichannel retailers face a costly fit problem: customers who can't 'touch and feel' products online return more of them. Ofek, Katona and Sárváry build a model of competing retailers choosing whether to open an online channel and how much in-store sales assistance to offer. Counterintuitively, when product differentiation is modest, opening an internet channel raises optimal investment in store assistance and lowers profits. In equilibrium, sometimes only one retailer goes online — and earns less than the bricks-only rival.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model with comparative statics on retailer pricing, store-assistance levels, and channel-entry decisions.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungarian retail-trade policy (Trade Act amendments, restrictions on Sunday opening hours, tax breaks for SME retailers) shapes how brick-and-mortar firms compete with online entrants. The paper shows that opening an online channel can backfire when products require physical inspection, raising the in-store cost burden. Useful for the Ministry of National Economy when assessing the competitive balance between domestic retailers and cross-border e-commerce platforms.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "industrial-organization",
+        "innovation-digital"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": null
     },
     {
@@ -32233,29 +32303,81 @@
       "publication_type": "article",
       "journal": "Management Science",
       "year": 2001,
-      "volume": null,
-      "issue": null,
-      "pages": null,
-      "doi": null,
+      "volume": "47",
+      "issue": "11",
+      "pages": "1441-1456",
+      "doi": "10.1287/mnsc.47.11.1441.10252",
       "working_paper_series": null,
-      "url_published": null,
+      "url_published": "https://doi.org/10.1287/mnsc.47.11.1441.10252",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "Professional services firms (e.g., consultants, accounting firms, or advertising agencies) generate and sell business solutions to their customers. In doing so, they can leverage the cumulative experience gained from serving their customer base to either reduce their variable costs or increase the quality of their products/services. In other words, their “production technology” exhibits some form of increasing returns to scale. Growth and globalization, coupled with recent advances in information technology, have led many of these firms to introduce sophisticated knowledge management (KM) systems in order to create sustainable competitive advantage. In this paper, the authors analyze how KM is likely to affect competition among such professional services firms. The results shed light on the current literature exploring the deployment of KM systems by suggesting that in a competitive setting, when firms' ability to leverage their customer base is high, KM should lead to quality improvement rather than cost reductions. In a dynamic setting, it is also shown that when firms use their KM system to improve product quality, higher ability to leverage the customer base may actually hurt profits and lead to industry shakeout.",
+      "summary_en": "Professional-services firms (consultants, accountants, advertising agencies) increasingly invest in knowledge-management systems, and the question is whether these systems are best deployed for cost reduction or for quality improvement. Ofek and Sárváry develop a competitive model showing that when a firm's ability to leverage its customer base is high, equilibrium dictates investing in quality rather than cost. In dynamic settings, very high leverage ability can actually reduce profits and trigger industry shakeout — fitting observed mergers and the rise of 'retail consulting' in the 2000s.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model with empirical anchoring to descriptive industry trends in the consulting and advertising sectors during the 1990s.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungarian innovation-policy programmes that subsidise knowledge-management or digital-transformation investment in the professional-services sector (Digitális Jólét Program, IFKA support schemes) typically assume KM lowers costs. The paper shows that in competitive markets the equilibrium use of KM is quality enhancement, not cost cutting — relevant when calibrating productivity-uplift assumptions in business-case templates for such programmes.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "industrial-organization",
+        "firms-productivity"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
+      "openalex_id": null
+    },
+    {
+      "id": "ormeno-molnar-2015-jmcb",
+      "title": "Using Survey Data of Inflation Expectations in the Estimation of Learning and Rational Expectations Models",
+      "authors": [
+        "Arturo Ormeño",
+        "molnar-kriszta"
+      ],
+      "publication_type": "article",
+      "journal": "Journal of Money, Credit and Banking",
+      "year": 2015,
+      "volume": "47",
+      "issue": "4",
+      "pages": "673-699",
+      "doi": "10.1111/jmcb.12219",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1111/jmcb.12219",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "Does survey data contain useful information for estimating macroeconomic models? We address this question by using survey data of inflation expectations to estimate the New Keynesian model by Smets and Wouters and compare its performance under rational expectations and adaptive learning. The survey information serves as an additional moment restriction and helps us to determine the learning agents' forecasting model for inflation. Adaptive learning fares similarly to rational expectations in fitting macro data, but clearly outperforms rational expectations in fitting macro and survey data simultaneously. In other words, survey data contain additional information that is not present in the macro data alone.",
+      "summary_en": "Does the inflation-expectation survey data that central banks already collect actually help estimate macro models? Ormeño and Molnár re-estimate the canonical Smets–Wouters New Keynesian model under both rational expectations and adaptive learning, using survey forecasts as an additional moment restriction. Adaptive learning matches macro data about as well as rational expectations alone, but clearly outperforms it when matching macro data and survey data jointly. Survey data thus contain information missing from the macro time series — and learning-based models exploit that information.",
+      "summary_hu": null,
+      "data_used": "Quarterly US macro data (output, inflation, interest rate, etc.) plus the Survey of Professional Forecasters inflation expectations, post-1968. Bayesian estimation of the Smets-Wouters model with and without survey-data moments.",
+      "data_used_hu": null,
+      "policy_relevance": "MNB and the Hungarian Central Statistical Office (KSH) collect inflation-expectation surveys (Reuters/MNB monthly survey, Tárki business surveys). The paper shows that integrating these into structural-model estimation materially improves fit, and that adaptive-learning specifications use the survey data better than rational-expectations specifications. Useful guidance for MNB modelling teams designing the next-generation MEDEA/PHM forecasting models.",
+      "policy_relevance_hu": null,
+      "topics": [
+        "macroeconomics",
+        "behavioral",
+        "methods"
+      ],
+      "methods": [
+        "structural",
+        "time-series"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "macro-aggregate",
+        "survey"
+      ],
+      "featured": false,
+      "added_at": "2026-04-27",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": null
     },
     {
@@ -33075,40 +33197,6 @@
       "last_reviewed_at": "2026-04-28",
       "review_status": "metadata-fetched",
       "openalex_id": "W4397048665"
-    },
-    {
-      "id": "sarvary-1999-marsci",
-      "title": "Knowledge Management and Competition in the Consulting Industry",
-      "authors": [
-        "sarvary-miklos"
-      ],
-      "publication_type": "article",
-      "journal": "Marketing Science",
-      "year": 1999,
-      "volume": null,
-      "issue": null,
-      "pages": null,
-      "doi": null,
-      "working_paper_series": null,
-      "url_published": null,
-      "url_pdf": null,
-      "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
-      "summary_hu": null,
-      "data_used": null,
-      "data_used_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
-      "featured": false,
-      "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
-      "openalex_id": null
     },
     {
       "id": "schiltz-masci-et-al-2018-ae",
@@ -40707,7 +40795,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 84
+      "paper_count": 85
     },
     {
       "id": "education-skills",
@@ -40762,7 +40850,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 108
+      "paper_count": 110
     },
     {
       "id": "innovation-digital",
@@ -40773,7 +40861,7 @@
       "policy_framing_en": "Relevant to: R&D tax credits, digital strategy, AI policy, innovation agency design, university–industry linkages.",
       "policy_framing_hu": "Releváns: K+F adókedvezmények, digitális stratégia, MI-politika, innovációs ügynökségek, egyetem–ipar kapcsolatok.",
       "icon": "cpu",
-      "paper_count": 47
+      "paper_count": 51
     },
     {
       "id": "banking-finance",
@@ -40784,7 +40872,7 @@
       "policy_framing_en": "Relevant to: MNB policy, banking regulation, macroprudential tools, financial inclusion.",
       "policy_framing_hu": "Releváns: MNB-politika, bankszabályozás, makroprudenciális eszközök, pénzügyi befogadás.",
       "icon": "landmark",
-      "paper_count": 105
+      "paper_count": 108
     },
     {
       "id": "fiscal-tax",
@@ -40817,7 +40905,7 @@
       "policy_framing_en": "Relevant to: energy transition, carbon pricing, renewable support, environmental standards.",
       "policy_framing_hu": "Releváns: energiaátmenet, szén-dioxid árazás, megújulók támogatása, környezeti szabványok.",
       "icon": "leaf",
-      "paper_count": 12
+      "paper_count": 13
     },
     {
       "id": "inequality-welfare",
@@ -40861,7 +40949,7 @@
       "policy_framing_en": "Relevant to: consumer protection, pension-default design, nudging, financial-education regulation, addictive-product regulation.",
       "policy_framing_hu": "Releváns: fogyasztóvédelem, nyugdíjalap-alapbeállítások, döntéslendítés (nudge), pénzügyi edukáció szabályozása, függőséget okozó termékek szabályozása.",
       "icon": "brain",
-      "paper_count": 72
+      "paper_count": 77
     },
     {
       "id": "industrial-organization",
@@ -40872,7 +40960,7 @@
       "policy_framing_en": "Relevant to: competition policy (GVH), merger review, platform regulation, auction design, sector-specific regulation.",
       "policy_framing_hu": "Releváns: versenypolitika (GVH), fúziókontroll, platformszabályozás, aukciótervezés, ágazati szabályozás.",
       "icon": "network",
-      "paper_count": 46
+      "paper_count": 52
     },
     {
       "id": "macroeconomics",
@@ -40883,7 +40971,7 @@
       "policy_framing_en": "Relevant to: long-run growth forecasting, macroeconomic modelling, sovereign-debt management, stabilisation policy design.",
       "policy_framing_hu": "Releváns: hosszú távú növekedés előrejelzés, makroökonómiai modellek, államadósság-kezelés, stabilizációs politika.",
       "icon": "line-chart",
-      "paper_count": 61
+      "paper_count": 66
     },
     {
       "id": "agriculture-food",
@@ -40905,7 +40993,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 138
+      "paper_count": 139
     },
     {
       "id": "market-design",
