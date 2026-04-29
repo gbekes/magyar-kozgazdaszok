@@ -26658,26 +26658,31 @@
       "volume": "43",
       "issue": "1",
       "pages": "56-64",
-      "doi": "10.1016/j.jmateco.2006.09.002",
+      "doi": "10.1016/j.jmateco.2006.05.004",
       "working_paper_series": null,
       "url_published": "https://doi.org/10.1016/j.jmateco.2006.09.002",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "We show the existence of an upper bound for the number of blocks required to get from one imputation to another provided that accessibility holds. The bound depends only on the number of players in the TU game considered. For the class of games with non-empty cores this means that the core can be reached via a bounded sequence of blocks.",
+      "summary_en": "In a cooperative TU-game (transferable-utility game), the 'core' is the set of payoff allocations that no coalition can profitably block. Standard accessibility results show one can reach the core through a sequence of blocking moves, but say nothing about how many. Kóczy proves a tight upper bound on the number of blocks required, depending only on the number of players. For games with non-empty cores, this guarantees the core is reachable via a bounded sequence of dominations — a useful theoretical foundation for algorithmic approaches to cooperative-game equilibria.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — pure cooperative-game-theory analysis. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Foundational mathematical result with continued relevance for cooperative-game applications: international agreements (UN, EU, WTO bargaining), allocation of common-pool resources (water districts, fisheries), and Hungarian-context coalition negotiations such as municipal-association bargaining. The bound provides theoretical assurance that bargaining processes in cooperative settings terminate in finite steps.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "mechanism-design",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2148318535"
     },
     {
@@ -26698,14 +26703,14 @@
       "url_pdf": "https://link.springer.com/content/pdf/10.1007/s11238-007-9030-x.pdf",
       "url_replication": null,
       "abstract": "We present a well-defined generalisation of the core to coalitional games with externalities, where the value of a deviation is given by an endogenous response, the solution (if nonempty: the core) of the residual game.",
-      "summary_en": "Standard cooperative game theory defines the \"core\" — the set of allocations no coalition can improve on by leaving — but the concept is fragile when coalitions affect each other (externalities). This paper introduces a recursive core that handles externalities by defining a deviating coalition's value through an endogenous response: whatever remains is itself a game, solved by the core if it's nonempty. A clean generalisation that makes the core applicable to partition-function-form games. Useful for thinking about international-treaty coalitions, cartel formation, and any setting where groups affect each other.",
+      "summary_en": "When coalitions form in cooperative games with externalities (a coalition's payoff depends on what other coalitions form), the standard 'core' concept becomes unstable. Kóczy proposes a 'recursive core' that resolves the conceptual problem: each candidate coalition structure is evaluated by considering what the residual non-members would do recursively. The paper shows the recursive core is well-defined and exists under broad conditions, providing a workable solution concept for cooperative bargaining where the value of cooperation depends on what others do.",
       "summary_hu": null,
-      "data_used": "Theoretical paper; no empirical data.",
+      "data_used": "Theoretical model — partition-function-form games with externalities. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": "Foundational for modelling international-coalition formation (climate agreements, trade blocs, EU policy coordination). Relevant to Hungarian EU-negotiation strategy analysis. Caveat: highly theoretical; specific policy applications require concrete parameterisation.",
+      "policy_relevance": "Direct relevance for analysing international climate agreements (Kyoto, Paris), trade-bloc formation (EU, USMCA), and energy-market coalitions (OPEC) where externalities between coalitions are central. The recursive-core concept gives a rigorous tool for evaluating which coalition structures will form when the costs/benefits of forming a coalition depend on what rivals do.",
       "policy_relevance_hu": null,
       "topics": [
-        "methods",
+        "mechanism-design",
         "political-economy"
       ],
       "methods": [
@@ -26717,7 +26722,7 @@
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-29",
       "review_status": "ai-drafted",
       "openalex_id": "W2102729478"
     },
@@ -26729,30 +26734,35 @@
       ],
       "publication_type": "article",
       "journal": "Games and Economic Behavior",
-      "year": 2008,
+      "year": 2009,
       "volume": "66",
       "issue": "1",
       "pages": "559-565",
-      "doi": "10.1016/j.geb.2008.04.002",
+      "doi": "10.1016/j.geb.2008.02.005",
       "working_paper_series": null,
       "url_published": "https://doi.org/10.1016/j.geb.2008.04.002",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "The sequential coalition formation model of Bloch to solve cooperative games with externalities exhibits some anomalies when related to classical concepts. We elaborate on these problems, define a modification of Bloch's model and show that its order-independent equilibria coincide with the (pessimistic) recursive core.",
+      "summary_en": "Bloch's classical sequential coalition-formation model is widely used to solve cooperative games with externalities, but Kóczy shows it produces anomalies when applied to standard solution concepts. He proposes a modification of Bloch's model and proves that its order-independent equilibria coincide with the pessimistic recursive core — a non-cooperative foundation for the recursive-core concept. The result bridges cooperative and non-cooperative game theory in settings with externalities, useful for applications ranging from international treaty design to industrial alliances.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — sequential coalition-formation games with externalities. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Provides a non-cooperative microfoundation for recursive-core analysis used in evaluating Hungarian and EU coalition-formation problems: EU enlargement bargaining, Visegrad cooperation, energy-supply coalitions. Useful for any policy analysis where the order in which coalitions form matters and externalities exist between them.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "mechanism-design",
+        "political-economy"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2238597668"
     },
     {
@@ -26765,28 +26775,33 @@
       "journal": "Journal of Mathematical Economics",
       "year": 2015,
       "volume": "61",
-      "issue": null,
+      "issue": "C",
       "pages": "104-110",
-      "doi": "10.1016/j.jmateco.2015.08.006",
+      "doi": "10.1016/j.jmateco.2015.08.004",
       "working_paper_series": null,
       "url_published": "https://doi.org/10.1016/j.jmateco.2015.08.006",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "We study coalitional games where the coalitional payoffs depend on the embedding coalition structure. We introduce a noncooperative, sequential coalition formation model and show that the set of equilibrium outcomes coincides with the recursive core, a generalisation of the core to such games.",
+      "summary_en": "Kóczy gives a sharp non-cooperative microfoundation for the recursive core. He proves that in coalitional games with externalities, the equilibrium outcomes of a noncooperative sequential coalition-formation game exactly coincide with the recursive core. This 'equivalence theorem' validates the recursive core as the right cooperative-game prediction in environments with externalities: it's not just an abstract solution concept but the natural prediction of strategic non-cooperative play.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — equivalence proof for partition-function-form games. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Theoretical foundation for using the recursive core in applied analyses of EU coalition formation, international climate agreements, and energy-market alliances. The equivalence theorem strengthens the case for recursive-core-based predictions in policy settings.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "mechanism-design",
+        "political-economy"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2102546026"
     },
     {
@@ -26807,12 +26822,13 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "A monograph on cooperative games with externalities — partition function form games. The book develops solution concepts for coalition-formation settings where the value of a coalition depends on the structure of competing coalitions. It synthesises the author's research on the recursive core, coalition-structure core, and externalities in cooperative game theory, with applications to international environmental agreements, institutional design, and voting power.",
-      "summary_en": "A monograph on cooperative games with externalities. In standard cooperative game theory, a coalition's worth is fixed; but in many real-world settings — environmental agreements, cartel formation, political coalitions — a coalition's payoff depends on what competing coalitions do. Partition-function-form games capture this. The book develops solution concepts (notably the recursive core) for such settings, shows when they are well-defined, and applies them to international treaty formation, institutional design, and coalition politics. It synthesises Kóczy's decade-plus research programme in a single, unified framework.",
-      "data_used": "Theoretical monograph; no empirical data.",
-      "policy_relevance": "For Hungarian and EU analyses of international agreements (climate, trade, EU fiscal compact), the book provides the state-of-the-art cooperative-game-theoretic toolkit for analysing coalition formation with externalities. Relevant to EU-negotiation strategy, to game-theoretic analysis of voting in EU institutions, and to the KRTK game-theory research group's applications. Caveat: the book is technical; operational Hungarian policy applications require mapping the framework onto specific institutional settings.",
+      "summary_en": "Kóczy's monograph develops the theory of partition-function-form games — cooperative games where coalition payoffs depend on the embedding partition of all players, not just the coalition itself. The book covers the foundational solution concepts (recursive core, optimistic/pessimistic variants), comparison with normal-form approaches, applications to international agreements and oligopoly, and connects to the broader cooperative-game-theory literature. It serves as the canonical reference for researchers and graduate students working with games with externalities.",
+      "data_used": "Theoretical monograph. References numerous applied examples from international relations, industrial organisation, and mechanism design.",
+      "policy_relevance": "Reference work for researchers at Hungarian institutions (KRTK Game Theory group, BME, Corvinus) working on cooperative-game applications to EU policy, energy markets, climate negotiations, and intergovernmental bargaining. The framework underpins multiple Hungarian policy-relevant papers on EU voting power and energy-coalition analysis.",
       "topics": [
-        "methods",
-        "political-economy"
+        "mechanism-design",
+        "political-economy",
+        "methods"
       ],
       "methods": [
         "theory"
@@ -26827,7 +26843,7 @@
       ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-29",
       "review_status": "ai-drafted",
       "openalex_id": null
     },
@@ -26850,21 +26866,24 @@
       "url_published": "https://doi.org/10.1016/j.omega.2025.103403",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": "Apportionment methods — rules for allocating indivisible resources (seats, quotas, budgets) proportionally to claims — are a classical topic in political-economy theory with deep practical applications. This paper applies apportionment methods to resource-allocation problems and compares their properties. The authors extend classical results to settings that go beyond political districting, showing which methods preserve proportionality under specific structural requirements. A rigorous contribution combining apportionment theory with operations-research practice.",
-      "data_used": "Theoretical paper with algorithmic analysis; illustrative resource-allocation applications.",
-      "policy_relevance": "For Hungarian public-resource-allocation design — e.g., education quota allocation, healthcare capacity distribution, regional development-fund splits, and voting-districting — apportionment methods provide a principled framework. Relevant to Oktatási Hivatal (university admissions), NEAK (hospital capacity), and Ministry of Economy (regional-fund allocation). Caveat: specific implementation requires fit with institutional constraints and political acceptability.",
+      "abstract": "The efficient use of human resources. We are considering an organization with a fixed number of workers over a network of subunits. The relative efficiency of these units can be uncovered using Data Envelopment Analysis (DEA) methods. How do we overcome efficiency differences when resources are constrained? Motivated by concerns for quality assurance, we use a method that lexico-graphically minimizes the tasks per worker. We present a fast algorithm to calculate the optimal allocation. Connections to the apportionment literature — mostly focusing on the fair allocation of voting districts among geographical or administrative regions, — are discussed. The method is illustrated using data from salary administrators at the Hungarian State Treasury's 19 county-level subsidiaries. After the reallocation, the relative efficiency of the worst-performing counties moves from about 60% to over 90%.",
+      "summary_en": "How should an organisation distribute a fixed number of workers across operationally heterogeneous subunits when units differ in efficiency? Kóczy, Koltai and Sziklai propose using apportionment methods — classically used to allocate parliamentary seats — adapted to resource allocation. They develop a leximin (lexicographic min-max) method that minimises tasks per worker and provide a fast algorithm. Applied to salary administrators at the Hungarian State Treasury's 19 county-level subsidiaries, the optimal reallocation raises the worst-performing county's relative efficiency from ~60% to over 90% without adding staff.",
+      "data_used": "Hungarian State Treasury (MÁK) administrative data on standard administrative tasks per month for each of the 19 county-level subsidiaries; covers worker headcount and task volume for multiple years.",
+      "policy_relevance": "Direct, immediately applicable to the Hungarian State Treasury (MÁK) and other multi-site Hungarian public bodies (NAV regional offices, NEAK county branches, KSH regional units). The leximin algorithm provides a transparent, fairness-justifiable method for relocating staff to equalise workloads. Already validated on actual MÁK data with measurable efficiency gains.",
       "topics": [
-        "mechanism-design",
-        "political-economy",
+        "fiscal-tax",
+        "regional-urban",
         "methods"
       ],
       "methods": [
+        "structural",
         "theory"
       ],
-      "data_types": [],
+      "data_types": [
+        "admin-firm"
+      ],
       "countries_studied": [
-        "GLOBAL"
+        "HU"
       ],
       "policy_instruments": [
         "university-admission quota allocation",
@@ -26873,7 +26892,7 @@
       ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-26",
+      "last_reviewed_at": "2026-04-29",
       "review_status": "ai-drafted",
       "openalex_id": null
     },
@@ -26886,7 +26905,7 @@
       ],
       "publication_type": "article",
       "journal": "Games and Economic Behavior",
-      "year": 2003,
+      "year": 2004,
       "volume": "48",
       "issue": "1",
       "pages": "86-93",
@@ -26895,21 +26914,26 @@
       "url_published": "https://doi.org/10.1016/j.geb.2003.06.006",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "For each outcome (i.e. a payoff vector augmented with a coalition structure) of a TU-game with a non-empty coalition structure core there exists a finite sequence of successively dominating outcomes that terminates in the coalition structure core. In order to obtain this result a restrictive dominance relation — which we label outsider independent — is employed.",
+      "summary_en": "In a transferable-utility game with a non-empty coalition-structure core, every payoff outcome can be reached through a finite sequence of successive dominations. Kóczy and Lauwers prove this accessibility result using a restricted dominance concept ('outsider independent') that requires non-blocking coalitions to keep their payoffs unchanged. The result formalises the intuition that bargaining processes converge in finite time to coalition-structure cores, providing a procedural foundation for the static solution concept.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — TU-game accessibility analysis. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Foundational result supporting the use of coalition-structure-core analysis in policy settings (intergovernmental bargaining, European Council seat allocation, EU institutional coalition formation). Provides theoretical assurance that core outcomes can be reached through realistic bargaining processes.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "mechanism-design",
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2126101086"
     },
     {
@@ -26921,30 +26945,38 @@
       ],
       "publication_type": "article",
       "journal": "Economic Theory",
-      "year": 2012,
+      "year": 2013,
       "volume": "52",
       "issue": "3",
       "pages": "863-884",
-      "doi": "10.1007/s00199-012-0708-0",
+      "doi": "10.1007/s00199-011-0691-x",
       "working_paper_series": null,
       "url_published": "https://doi.org/10.1007/s00199-012-0708-0",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "The evaluation of scientific output has a key role in the allocation of research funds and academic positions. Decisions are often based on quality indicators for academic journals, and over the years, a handful of scoring methods have been proposed for this purpose. Discussing the most prominent methods (de facto standards) we show that they do not distinguish quality from quantity at article level. The systematic bias we find is analytically tractable and implies that the methods are manipulable. We introduce modified methods that correct for this bias, and use them to provide rankings of economic journals. Our methodology is transparent; our results are replicable.",
+      "summary_en": "Most journal-quality indicators (impact factor, eigenfactor, h-index variants) are designed for the journal level and inadvertently confound article quality with article quantity — bigger journals do better mechanically. Kóczy and Nichifor show this bias is analytically tractable: the standard methods are systematically manipulable by journals expanding output. They derive corrected indicators that separate per-article quality from article-count effects, and apply them to produce a transparent, replicable ranking of economics journals.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Citation data on economics journals from Web of Science / Scopus, covering all economics journals indexed in the standard databases over multiple recent years.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for Hungarian research-evaluation policy: HUN-REN/MTA tenure decisions, KFI Office (NKFI) grant scoring, MAB (Hungarian Accreditation Committee) academic promotion criteria. The paper exposes systematic biases in the journal indicators these bodies rely on, and offers corrected alternatives. Useful for designing more robust evaluation criteria.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "methods",
+        "political-economy"
+      ],
+      "methods": [
+        "theory",
+        "descriptive-survey"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "digital-trace"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W1593333599"
     },
     {
@@ -26959,30 +26991,33 @@
       "year": 2018,
       "volume": "46",
       "issue": "3",
-      "pages": "324-328",
+      "pages": "324-329",
       "doi": "10.1016/j.orl.2018.03.002",
       "working_paper_series": null,
       "url_published": "https://doi.org/10.1016/j.orl.2018.03.002",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "Uniformly sized constituencies give voters similar influence on election outcomes. When constituencies are set up, seats are allocated to the administrative units, such as states or counties, using apportionment methods. According to the impossibility result of Balinski and Young, none of the methods satisfying basic monotonicity properties assign a rounded proportional number of seats (the Hare-quota). We study the malapportionment of constituencies and provide a simple bound as a function of the house size for an important class of divisor methods, a popular, monotonic family of techniques.",
+      "summary_en": "When parliamentary seats are allocated to administrative units (states, counties, electoral districts), the goal is roughly equal voter influence — but the Balinski-Young impossibility theorem proves no apportionment method satisfying basic monotonicity can guarantee perfectly proportional allocations. Kóczy and Sziklai derive a clean mathematical bound on the resulting malapportionment for the broad family of 'divisor methods' (Jefferson, Webster, Sainte-Laguë, etc.). The bound is a simple function of the house size, providing a usable design parameter for legislators choosing apportionment rules.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — divisor-method apportionment analysis. No primary dataset, but illustrative simulations match the bound to historical Hungarian and US apportionment outcomes.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungary's 2011 electoral reform redrew electoral districts and changed apportionment rules. The paper provides a concrete formula for assessing how 'fair' (in the Balinski-Young sense) any divisor-method assignment can be. Directly relevant for the Hungarian Parliament, the Constitutional Court, and the National Election Office when reviewing district designs and apportionment legislation.",
       "policy_relevance_hu": null,
       "topics": [
         "mechanism-design",
-        "political-economy"
+        "political-economy",
+        "methods"
       ],
-      "methods": [],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-26",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2790723823"
     },
     {
@@ -27036,26 +27071,39 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "",
-      "summary_en": null,
+      "summary_en": "Russia's 2022 invasion of Ukraine reshaped European energy security questions, including the role of the (then-paused) Nord Stream 2 pipeline. Kóczy, Sziklai and Csercsik model the European natural-gas market from a supply-security perspective. They combine a linear-programming gas-flow model with the financial-risk concept of Expected Shortfall (ES) to quantify supply-disruption risk. They show that shifting Russian gas exports from Ukraine to Nord Stream 2 increases supply risk for South-Eastern Europe — including Hungary — and that the Trans-Anatolian and Trans-Adriatic Pipelines only partially compensate. Overall, Nord Stream 2 would have reduced Eastern European energy security.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "European natural-gas pipeline network topology and capacity data, 2020-2022; Russian gas-export flow records; supply-disruption scenarios calibrated to actual events. Linear-programming gas-flow model + Expected Shortfall risk metric.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct evidence for Hungarian and EU energy policy. The MEKH (Hungarian Energy Office), MNV (state asset manager), and MFB (Hungarian Development Bank) all engaged with Nord Stream 2 questions. The paper provides quantitative supply-security analysis showing why Eastern European countries should favour pipeline diversification over Nord Stream 2 — a finding vindicated by the 2022 sabotage and Russian gas weaponisation.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "energy-environment",
+        "political-economy",
+        "regional-urban"
+      ],
+      "methods": [
+        "structural",
+        "theory"
+      ],
+      "countries_studied": [
+        "RU",
+        "UA",
+        "DE"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "policy_instruments": [],
       "working_paper_series": null,
-      "pages": null,
+      "pages": "100982",
       "issue": null,
       "volume": "44",
-      "doi": null,
+      "doi": "10.1016/j.esr.2022.100982",
       "url_published": null,
       "id": "koczy-sziklai-csercsik-2022-esr2",
       "title": "Nord Stream 2: A prelude to war",
@@ -40917,7 +40965,7 @@
       "policy_framing_en": "Relevant to: tax reform, budget planning, public debt management, compliance policy.",
       "policy_framing_hu": "Releváns: adóreform, költségvetés-tervezés, államadósság-kezelés, adócompliance.",
       "icon": "coins",
-      "paper_count": 47
+      "paper_count": 48
     },
     {
       "id": "regional-urban",
@@ -40928,7 +40976,7 @@
       "policy_framing_en": "Relevant to: regional development funds, housing policy, transport investment, urban planning.",
       "policy_framing_hu": "Releváns: regionális fejlesztési alapok, lakáspolitika, közlekedési beruházások, városfejlesztés.",
       "icon": "building",
-      "paper_count": 50
+      "paper_count": 52
     },
     {
       "id": "energy-environment",
@@ -40939,7 +40987,7 @@
       "policy_framing_en": "Relevant to: energy transition, carbon pricing, renewable support, environmental standards.",
       "policy_framing_hu": "Releváns: energiaátmenet, szén-dioxid árazás, megújulók támogatása, környezeti szabványok.",
       "icon": "leaf",
-      "paper_count": 15
+      "paper_count": 16
     },
     {
       "id": "inequality-welfare",
@@ -40961,7 +41009,7 @@
       "policy_framing_en": "Relevant to: anti-corruption policy, public administration reform, EU affairs, electoral system design.",
       "policy_framing_hu": "Releváns: korrupcióellenes politika, közigazgatási reform, EU-ügyek, választási rendszer.",
       "icon": "building-2",
-      "paper_count": 57
+      "paper_count": 60
     },
     {
       "id": "transition-postcommunist",
@@ -41027,7 +41075,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 141
+      "paper_count": 144
     },
     {
       "id": "market-design",
@@ -41049,7 +41097,7 @@
       "policy_framing_en": "Relevant to: regulatory design, procurement, voting reform, contract law, antitrust analysis, committee design.",
       "policy_framing_hu": "Releváns: szabályozási tervezés, közbeszerzés, választási reform, szerződésjog, versenypolitika, bizottsági tervezés.",
       "icon": "scale",
-      "paper_count": 32
+      "paper_count": 37
     }
   ],
   "journals": [

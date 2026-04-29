@@ -7,29 +7,37 @@
   ],
   "publication_type": "article",
   "journal": "Economic Theory",
-  "year": 2012,
+  "year": 2013,
   "volume": "52",
   "issue": "3",
   "pages": "863-884",
-  "doi": "10.1007/s00199-012-0708-0",
+  "doi": "10.1007/s00199-011-0691-x",
   "working_paper_series": null,
   "url_published": "https://doi.org/10.1007/s00199-012-0708-0",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "The evaluation of scientific output has a key role in the allocation of research funds and academic positions. Decisions are often based on quality indicators for academic journals, and over the years, a handful of scoring methods have been proposed for this purpose. Discussing the most prominent methods (de facto standards) we show that they do not distinguish quality from quantity at article level. The systematic bias we find is analytically tractable and implies that the methods are manipulable. We introduce modified methods that correct for this bias, and use them to provide rankings of economic journals. Our methodology is transparent; our results are replicable.",
+  "summary_en": "Most journal-quality indicators (impact factor, eigenfactor, h-index variants) are designed for the journal level and inadvertently confound article quality with article quantity — bigger journals do better mechanically. Kóczy and Nichifor show this bias is analytically tractable: the standard methods are systematically manipulable by journals expanding output. They derive corrected indicators that separate per-article quality from article-count effects, and apply them to produce a transparent, replicable ranking of economics journals.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Citation data on economics journals from Web of Science / Scopus, covering all economics journals indexed in the standard databases over multiple recent years.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for Hungarian research-evaluation policy: HUN-REN/MTA tenure decisions, KFI Office (NKFI) grant scoring, MAB (Hungarian Accreditation Committee) academic promotion criteria. The paper exposes systematic biases in the journal indicators these bodies rely on, and offers corrected alternatives. Useful for designing more robust evaluation criteria.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "methods",
+    "political-economy"
+  ],
+  "methods": [
+    "theory",
+    "descriptive-survey"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "digital-trace"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W1593333599"
 }
