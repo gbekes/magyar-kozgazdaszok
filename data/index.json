@@ -17444,7 +17444,7 @@
       ],
       "publication_type": "article",
       "journal": "Games and Economic Behavior",
-      "year": 2024,
+      "year": 2025,
       "volume": "150",
       "issue": null,
       "pages": "106-130",
@@ -17453,21 +17453,27 @@
       "url_published": "https://doi.org/10.1016/j.geb.2024.11.019",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "We study a two-sided dynamic matching market where agents arrive randomly. An arriving agent is immediately matched if agents are waiting on the other side. Otherwise, the agent decides whether to exit the market or join a queue to wait for a match. Waiting is costly: agents discount the future and incur costs while they wait. We characterize the equilibrium and socially optimal queue sizes under first-come, first-served. Depending on the model parameters, equilibrium queues can be shorter or longer than efficiency would require them to be. Indeed, socially optimal queues may be unbounded, even if equilibrium queues are not. By contrast, when agents only incur flow costs while they wait, equilibrium queues are typically longer than socially optimal ones (cf. Baccara et al., 2020). Unlike one-sided markets, the comparison between equilibrium and socially optimal queues in two-sided markets depends on agents' time preferences.",
+      "summary_en": "When agents on both sides of a matching market arrive over time and incur waiting costs, when should regulators encourage queueing? Doval and Szentes characterise both equilibrium and socially optimal queue sizes in a two-sided dynamic matching market with future discounting and per-period waiting costs. Depending on parameters, equilibrium queues can be shorter or longer than optimal — and optimal queues may be unbounded even when equilibrium queues are not. The comparison depends critically on time preferences (discounting) — pure-flow-cost analysis (Baccara et al. 2020) misses this dimension entirely. Two-sided markets need richer policy tools than one-sided ones.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — two-sided dynamic matching market with random arrivals, discounting, and waiting costs. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for Hungarian markets organised as queueing systems: organ-donation matching (OVSZ), housing-allocation queues (kommunális ingatlankezelés), and labour-market matching at NFSZ. The paper shows two-sided queue regulation requires policies beyond simple admission control or caps — useful framing for Belügyminisztérium and Igazságügyi Minisztérium when designing matching protocols.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "mechanism-design",
+        "labor-markets",
+        "behavioral"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W4405105861"
     },
     {
@@ -21035,21 +21041,26 @@
       "url_published": "https://doi.org/10.1016/j.jet.2023.105621",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "This paper considers a moral hazard model with agent limited liability. Prior to interacting with the principal, the agent designs the production technology, which is a specification of his cost of generating each output distribution. After observing the production technology, the principal offers a payment scheme and then the agent chooses a distribution over outputs. We show that there is an optimal design involving only binary distributions (i.e., the cost of any other distribution is prohibitively high), and we characterize the equilibrium technology defined on the binary distributions. Notably, the equilibrium payoff of both players is 1/e.",
+      "summary_en": "In standard moral-hazard problems, the principal designs incentives for an agent with given costs of producing different output distributions. Garrett, Georgiadis, Smolin and Szentes flip this: what if the agent designs the production technology BEFORE the principal sees it? They show the agent's optimal design is surprisingly simple — restrict the technology to only binary output distributions, making any continuous distribution prohibitively costly. The equilibrium payoff of both players turns out to be exactly 1/e (~37%) — a striking constant emerging from the equilibrium structure. The result reframes how to think about agent-driven technology choice.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — moral-hazard framework with agent technology design and limited liability. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant for Hungarian regulators designing principal-agent contracts: state-asset management (MNV), public-procurement contracts (Public Procurement Authority KH), R&D-grant terms (NRDI Fund). The paper shows that allowing the agent to choose the cost structure produces sharp equilibrium properties — useful theoretical reference for analysing performance-based public contracts.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "mechanism-design",
+        "industrial-organization"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W4319971686"
     },
     {
@@ -21264,7 +21275,7 @@
       ],
       "publication_type": "article",
       "journal": "Journal of Economic Theory",
-      "year": 2008,
+      "year": 2009,
       "volume": "144",
       "issue": "1",
       "pages": "36-68",
@@ -21273,21 +21284,26 @@
       "url_published": "https://doi.org/10.1016/j.jet.2008.02.004",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "A group of individuals with identical preferences must make a decision under uncertainty about which decision is best. Before the decision is made, each agent can privately acquire a costly and imperfect signal. We discuss how to design a mechanism for eliciting and aggregating the collected information so as to maximize ex-ante social welfare. We first show that, of all mechanisms, a sequential one is optimal and works as follows. At random, one agent at a time is selected to acquire information and report the resulting signal. Agents are informed of neither their position in the sequence nor of other reports. Acquiring information when called upon and reporting truthfully is an equilibrium. We next characterize the ex-ante optimal scheme among all ex-post efficient mechanisms. In this mechanism, a decision is made when the precision of the posterior exceeds a cut-off that decreases with each additional report. The restriction to ex-post efficiency is shown to be without loss when the available signals are sufficiently imprecise. On the other hand, ex-post efficient mechanisms are shown to be suboptimal when the cost of information acquisition is sufficiently small.",
+      "summary_en": "When a committee must make a decision under uncertainty and members can privately acquire costly imperfect signals, what's the optimal voting/aggregation scheme? Gershkov and Szentes show a sequential mechanism is optimal: members are randomly drawn one at a time, asked to acquire and report a signal, with no knowledge of their position or others' reports. Truth-telling is an equilibrium. Among ex-post-efficient mechanisms, the optimal rule decides once posterior precision exceeds a threshold that declines with each additional report. The restriction to ex-post efficiency is costless when signals are imprecise — but matters when information-acquisition costs are small.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — committee voting with costly information acquisition. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for committee-based decision design at MNB monetary-policy committee, GVH antitrust panels, MEKH regulatory bodies, and Constitutional Court panels. The paper provides specific guidance on when sequential information-acquisition is optimal and when ex-post-efficiency restrictions are costly. Useful framework for institutional design at Hungarian and EU regulatory bodies.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "mechanism-design",
+        "political-economy"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-19",
-      "last_reviewed_at": "2026-04-19",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2103553799"
     },
     {
@@ -33792,21 +33808,26 @@
       "url_published": "https://doi.org/10.1016/j.jet.2017.10.002",
       "url_pdf": "https://www.sciencedirect.com/science/article/pii/S0022053117301047",
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "This paper considers a continuous-time biological model in which the growth rate of a population is determined by the risk attitude of its individuals. We consider choices over lotteries which determine the number of offspring and involve both idiosyncratic and aggregate risks. We distinguish between two types of aggregate risk: environmental variations and natural disasters. Environmental variations influence the death and birth rates, while natural disasters result in instantaneous drops in population size.",
+      "summary_en": "Where do human risk preferences come from? Robatto and Szentes build a continuous-time biological model in which a population's growth rate depends on its members' risk attitudes when faced with lotteries that determine offspring count. They distinguish two types of aggregate risk — environmental variations affecting birth/death rates, and natural disasters causing instantaneous population drops. The model derives evolutionarily stable risk preferences from biological fundamentals. The result links observed human risk attitudes (loss aversion, idiosyncratic vs. aggregate risk handling) to ancestral selection pressures.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — continuous-time biological population dynamics with idiosyncratic and aggregate risk. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Provides foundations for behavioural-economics interventions used by Hungarian and EU policy researchers when designing risk-communication strategies: pension auto-enrolment defaults (MNB), insurance-take-up nudges, financial-literacy campaigns. Useful theoretical reference for understanding why people respond to aggregate vs. idiosyncratic risks differently.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "behavioral",
+        "macroeconomics"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-19",
-      "last_reviewed_at": "2026-04-19",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2189502241"
     },
     {
@@ -35472,7 +35493,7 @@
       ],
       "publication_type": "article",
       "journal": "Journal of Economic Theory",
-      "year": 2004,
+      "year": 2005,
       "volume": "120",
       "issue": "2",
       "pages": "175-205",
@@ -41866,7 +41887,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 97
+      "paper_count": 98
     },
     {
       "id": "education-skills",
@@ -41998,7 +42019,7 @@
       "policy_framing_en": "Relevant to: anti-corruption policy, public administration reform, EU affairs, electoral system design.",
       "policy_framing_hu": "Releváns: korrupcióellenes politika, közigazgatási reform, EU-ügyek, választási rendszer.",
       "icon": "building-2",
-      "paper_count": 70
+      "paper_count": 71
     },
     {
       "id": "transition-postcommunist",
@@ -42020,7 +42041,7 @@
       "policy_framing_en": "Relevant to: consumer protection, pension-default design, nudging, financial-education regulation, addictive-product regulation.",
       "policy_framing_hu": "Releváns: fogyasztóvédelem, nyugdíjalap-alapbeállítások, döntéslendítés (nudge), pénzügyi edukáció szabályozása, függőséget okozó termékek szabályozása.",
       "icon": "brain",
-      "paper_count": 112
+      "paper_count": 114
     },
     {
       "id": "industrial-organization",
@@ -42031,7 +42052,7 @@
       "policy_framing_en": "Relevant to: competition policy (GVH), merger review, platform regulation, auction design, sector-specific regulation.",
       "policy_framing_hu": "Releváns: versenypolitika (GVH), fúziókontroll, platformszabályozás, aukciótervezés, ágazati szabályozás.",
       "icon": "network",
-      "paper_count": 87
+      "paper_count": 88
     },
     {
       "id": "macroeconomics",
@@ -42042,7 +42063,7 @@
       "policy_framing_en": "Relevant to: long-run growth forecasting, macroeconomic modelling, sovereign-debt management, stabilisation policy design.",
       "policy_framing_hu": "Releváns: hosszú távú növekedés előrejelzés, makroökonómiai modellek, államadósság-kezelés, stabilizációs politika.",
       "icon": "line-chart",
-      "paper_count": 108
+      "paper_count": 109
     },
     {
       "id": "agriculture-food",
@@ -42086,7 +42107,7 @@
       "policy_framing_en": "Relevant to: regulatory design, procurement, voting reform, contract law, antitrust analysis, committee design.",
       "policy_framing_hu": "Releváns: szabályozási tervezés, közbeszerzés, választási reform, szerződésjog, versenypolitika, bizottsági tervezés.",
       "icon": "scale",
-      "paper_count": 65
+      "paper_count": 68
     }
   ],
   "journals": [

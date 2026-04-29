@@ -18,20 +18,25 @@
   "url_published": "https://doi.org/10.1016/j.jet.2023.105621",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "This paper considers a moral hazard model with agent limited liability. Prior to interacting with the principal, the agent designs the production technology, which is a specification of his cost of generating each output distribution. After observing the production technology, the principal offers a payment scheme and then the agent chooses a distribution over outputs. We show that there is an optimal design involving only binary distributions (i.e., the cost of any other distribution is prohibitively high), and we characterize the equilibrium technology defined on the binary distributions. Notably, the equilibrium payoff of both players is 1/e.",
+  "summary_en": "In standard moral-hazard problems, the principal designs incentives for an agent with given costs of producing different output distributions. Garrett, Georgiadis, Smolin and Szentes flip this: what if the agent designs the production technology BEFORE the principal sees it? They show the agent's optimal design is surprisingly simple — restrict the technology to only binary output distributions, making any continuous distribution prohibitively costly. The equilibrium payoff of both players turns out to be exactly 1/e (~37%) — a striking constant emerging from the equilibrium structure. The result reframes how to think about agent-driven technology choice.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model — moral-hazard framework with agent technology design and limited liability. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant for Hungarian regulators designing principal-agent contracts: state-asset management (MNV), public-procurement contracts (Public Procurement Authority KH), R&D-grant terms (NRDI Fund). The paper shows that allowing the agent to choose the cost structure produces sharp equilibrium properties — useful theoretical reference for analysing performance-based public contracts.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "mechanism-design",
+    "industrial-organization"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W4319971686"
 }
