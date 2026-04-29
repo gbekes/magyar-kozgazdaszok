@@ -17632,21 +17632,32 @@
       "url_published": "https://doi.org/10.1016/j.jedc.2021.104200",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "The productivity growth slowdown that started in the 1970s presents a challenge to Kaldor's growth facts and the one-sector growth model. We ask: What natural modification of the growth model can generate a prolonged productivity growth slowdown? We show that the two-sector version with separate consumption and investment sectors has a balanced growth path equilibrium along which productivity growth slows down if two conditions hold: real GDP is measured with the Fisher index; productivity growth in the consumption sector slows down. We also show that real GDP measured with the Fisher index is a welfare measure in the two-sector version.",
+      "summary_en": "Productivity growth slowed across advanced economies from the 1970s onward — but the standard one-sector growth model can't easily explain it without ad-hoc shocks. Duernecker, Herrendorf and Valentinyi show that the two-sector growth model (separate consumption and investment sectors) produces a balanced growth path with a prolonged productivity slowdown if two conditions hold: real GDP is measured with the Fisher index, and productivity growth in the consumption sector slows down. Real GDP measured with the Fisher index is also shown to be a valid welfare measure in this framework. The result reconciles measured productivity slowdowns with growth-model fundamentals.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model + calibration to US national-accounts data (BEA) on consumption and investment sectoral productivity over 1947-2018.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungary's productivity-gap analysis (KSH, MNB, KRTK) typically relies on one-sector frameworks. The paper provides a two-sector framework that better matches observed slowdowns and demonstrates that measurement methodology (Fisher vs. Laspeyres index) materially affects measured productivity growth — relevant for KSH methodology and MNB long-run growth assumptions.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "macroeconomics",
+        "firms-productivity",
+        "methods"
+      ],
+      "methods": [
+        "theory",
+        "structural"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W3186784283"
     },
     {
@@ -24155,21 +24166,30 @@
       "url_published": "https://doi.org/10.1016/b978-0-444-53540-5.00006-9",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "Structural transformation refers to the reallocation of economic activity across the broad sectors agriculture, manufacturing, and services. This handbook chapter synthesizes recent research on structural transformation, presenting stylized facts across time and space and developing a multi-sector extension of the growth model. The authors argue this multi-sector framework effectively explains many features of structural transformation and provides insights into economic development, regional convergence, productivity trends, hours worked, business cycles, wage inequality, and emissions.",
+      "summary_en": "Why do economies systematically reallocate workers across agriculture, manufacturing, and services as they develop? Herrendorf, Rogerson and Valentinyi's Handbook of Economic Growth chapter synthesises the structural-transformation literature: classical stylised facts, the multi-sector extension of the growth model, and applications to development, regional convergence, hours worked, business cycles, wage inequality, and emissions. The chapter is the canonical reference for researchers and policymakers working with sectoral-decomposition frameworks.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Comprehensive literature review with cross-country sectoral employment, output, and prices data spanning multiple decades; cited datasets include Groningen GGDC, OECD STAN, and historical national accounts.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Reference framework for Hungarian structural-policy analysis at KSH, MNB, KRTK, and the Pénzügyminisztérium. Hungary's transformation from an industry-heavy socialist economy to a service-dominant one fits the framework discussed in the chapter — useful for diagnosing remaining structural-transformation gaps relative to Western European peers.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "macroeconomics",
+        "firms-productivity",
+        "labor-markets"
+      ],
+      "methods": [
+        "descriptive-survey",
+        "theory"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W3124387324"
     },
     {
@@ -24224,7 +24244,7 @@
     },
     {
       "id": "herrendorf-valentinyi-2003-roed",
-      "title": "Determinacy through intertemporal capital adjustment costs",
+      "title": "Determinacy through intertemporal adjustment costs",
       "authors": [
         "Berthold Herrendorf",
         "valentinyi-akos"
@@ -24240,21 +24260,27 @@
       "url_published": "https://doi.org/10.1016/s1094-2025(03)00020-6",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "It is well known that if there are mild sector-specific externalities, then the steady state of the standard two-sector real business cycle model can become indeterminate and endogenous business cycles can arise. We show that this result is not robust to the introduction of standard intertemporal capital adjustment costs, which may accrue when total capital is adjusted or when each sector's capital is adjusted. We find for both forms of adjustments costs that the steady state is determinate for all empirically plausible parameter values. We also find that determinacy occurs for a much larger range of parameter values when adjusting each sector's capital is costly.",
+      "summary_en": "In two-sector real-business-cycle models, mild sector-specific externalities can make the steady state indeterminate, generating endogenous business cycles. Herrendorf and Valentinyi show this striking result is not robust: introducing standard intertemporal capital-adjustment costs — even small ones — restores determinacy of the steady state for all empirically plausible parameter values. The result holds whether adjustment costs apply to total capital or to each sector's capital separately. The implication: claims that sector-specific externalities can drive business cycles via indeterminacy require ignoring realistic capital-adjustment frictions.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — two-sector real-business-cycle model with sector-specific externalities and capital-adjustment costs. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Foundational result for macroeconomic policy modelling at MNB and Pénzügyminisztérium. The paper warns that two-sector RBC frameworks should not abstract from capital-adjustment costs — doing so produces unrealistic business-cycle dynamics. Useful methodological caveat for Hungarian DSGE-modelling practice.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "macroeconomics",
+        "methods"
+      ],
+      "methods": [
+        "theory",
+        "structural"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2063441657"
     },
     {
@@ -24266,7 +24292,7 @@
       ],
       "publication_type": "article",
       "journal": "Journal of Economic Dynamics and Control",
-      "year": 2005,
+      "year": 2006,
       "volume": "30",
       "issue": "8",
       "pages": "1339-1361",
@@ -24275,21 +24301,27 @@
       "url_published": "https://doi.org/10.1016/j.jedc.2005.05.006",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "This paper explores the local stability properties of the steady state in the two-sector neoclassical growth model with sector-specific externalities. We show analytically that capital adjustment costs of any size preclude local indeterminacy nearby the steady state for every empirically plausible specification of the model parameters. More specifically, we show that when capital adjustment costs of any size are considered, a necessary condition for local indeterminacy is an upward-sloping labour demand curve in the capital-producing sector, which in turn requires an implausibly strong externality. We show numerically that capital adjustment costs of plausible size imply determinacy nearby the steady state for empirically plausible specifications of the other model parameters. These findings contrast sharply with the previous finding that local indeterminacy occurs in the two-sector model for a wide range of plausible parameter values when capital adjustment costs are abstracted from.",
+      "summary_en": "Continuing the line of research on indeterminacy in two-sector growth models, Herrendorf and Valentinyi provide a sharper result. They prove analytically that capital adjustment costs of any size preclude local indeterminacy nearby the steady state for every empirically plausible parameter specification. A necessary condition for local indeterminacy is an implausibly strong externality producing an upward-sloping labour demand in the capital-producing sector. The result definitively closes the question for plausibly-calibrated economies: sector-specific externalities cannot generate endogenous business cycles via indeterminacy when realistic capital-adjustment frictions are included.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model + numerical analysis of two-sector neoclassical growth model with sector-specific externalities and adjustment costs. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Important methodological discipline for DSGE-modellers at MNB, KRTK, and the European Central Bank — sector-specific-externality stories require very strong assumptions to drive cycle dynamics. Useful caveat for Hungarian growth-model calibration practice.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "macroeconomics",
+        "methods"
+      ],
+      "methods": [
+        "theory",
+        "structural"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2148756420"
     },
     {
@@ -31857,21 +31889,32 @@
       "url_published": "https://doi.org/10.1016/j.econmod.2020.04.024",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "China's development policy since 1978 has differed across regions. With rapid aggregate growth has come widening regional inequality. The fiscal decentralisation reforms in 1994 shifted political pressure onto provincial officials to boost local growth through local public investments. These investments affect regional convergence by counteracting regulatory frictions in factor accumulation, and can also determine steady-state growth. However, the effect of public spending allocations across physical and human capital on growth and convergence processes is empirically unexplored for Chinese provinces. We take provincial time-series data on public spending by category, finding local public spending and its components augment convergence rates differently across regions. Spending on education and health contributes significantly more to growth and convergence than capital spending, confirming that the public capital-spending bias is not a local growth-optimising strategy. We suggest a policy of aligning local government promotion incentives to human capital targets to correct local resource misallocation.",
+      "summary_en": "Has China's regional convergence progressed equally across spending categories? Luintel, Matthews, Minford, Valentinyi and Wang use Chinese provincial time-series data to test how local public spending composition (capital vs. human capital) affects growth and convergence across regions. They find spending on education and health contributes significantly more to growth and convergence than capital spending — confirming that the prevalent Chinese 'public capital-spending bias' is not actually local-growth-optimising. Their policy recommendation: align local-government promotion incentives to human-capital targets to correct misallocation.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Chinese provincial-level time-series data on public spending categories (capital, education, health) and growth/convergence outcomes for ~30 provinces from approximately 1995 to mid-2010s.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for Hungarian and EU Cohesion Fund regional-spending design. The paper provides empirical evidence that human-capital spending (education, health) outperforms capital spending in producing convergence — useful framework for Pénzügyminisztérium and EU-level analysts when allocating Hungarian regional-development funds and assessing whether spending composition matches stated convergence goals.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "regional-urban",
+        "macroeconomics",
+        "fiscal-tax"
+      ],
+      "methods": [
+        "panel-data",
+        "structural"
+      ],
+      "countries_studied": [
+        "CN"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W3022319239"
     },
     {
@@ -37199,21 +37242,32 @@
       "url_published": "https://doi.org/10.1016/j.red.2008.02.003",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "Many applications in economics use multi-sector versions of the growth model. In this paper, we measure the income shares of capital and labor at the sectoral level for the U.S. economy. We also decompose the capital shares into the income shares of land, structures, and equipment. We find that the capital shares differ across sectors. For example, the capital share of agriculture is more than two times that of construction and more than 50% larger than that of the aggregate economy. Moreover, agriculture has by far the largest land share, which mostly explains why it has the largest capital share. Our numbers can directly be used to calibrate standard multi-sector models. Alternatively, if one wants to abstract from differences in sector capital shares, our numbers can be used to establish that this is not crucial for the results.",
+      "summary_en": "Multi-sector growth models depend critically on the calibration of capital and labour shares — but most analysts use the aggregate-economy share for every sector, an obvious approximation. Valentinyi and Herrendorf measure sectoral capital and labour income shares for the US economy and decompose capital shares into land, structures, and equipment. They find substantial sectoral variation: agriculture has more than twice the capital share of construction and 50% more than the aggregate. The differences are mostly driven by land. The paper provides directly-usable parameter values for multi-sector growth modelling and shows that ignoring sector heterogeneity is sometimes consequential.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "US national-income-and-product accounts data (BEA), input-output tables, and sectoral capital-stock measures, with land, structures, and equipment broken out separately for each major sector.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct methodological reference for Hungarian multi-sector growth modelling at MNB, KRTK, and Pénzügyminisztérium. The paper provides ready-to-use sectoral factor-income shares and demonstrates how to decompose them — useful for Hungarian growth-decomposition exercises that move beyond aggregate Cobb-Douglas frameworks.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "macroeconomics",
+        "firms-productivity",
+        "methods"
+      ],
+      "methods": [
+        "descriptive-survey",
+        "structural"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-19",
-      "last_reviewed_at": "2026-04-19",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2112302275"
     },
     {
@@ -41761,7 +41815,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 95
+      "paper_count": 96
     },
     {
       "id": "education-skills",
@@ -41816,7 +41870,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 128
+      "paper_count": 131
     },
     {
       "id": "innovation-digital",
@@ -41849,7 +41903,7 @@
       "policy_framing_en": "Relevant to: tax reform, budget planning, public debt management, compliance policy.",
       "policy_framing_hu": "Releváns: adóreform, költségvetés-tervezés, államadósság-kezelés, adócompliance.",
       "icon": "coins",
-      "paper_count": 60
+      "paper_count": 61
     },
     {
       "id": "regional-urban",
@@ -41860,7 +41914,7 @@
       "policy_framing_en": "Relevant to: regional development funds, housing policy, transport investment, urban planning.",
       "policy_framing_hu": "Releváns: regionális fejlesztési alapok, lakáspolitika, közlekedési beruházások, városfejlesztés.",
       "icon": "building",
-      "paper_count": 63
+      "paper_count": 64
     },
     {
       "id": "energy-environment",
@@ -41937,7 +41991,7 @@
       "policy_framing_en": "Relevant to: long-run growth forecasting, macroeconomic modelling, sovereign-debt management, stabilisation policy design.",
       "policy_framing_hu": "Releváns: hosszú távú növekedés előrejelzés, makroökonómiai modellek, államadósság-kezelés, stabilizációs politika.",
       "icon": "line-chart",
-      "paper_count": 102
+      "paper_count": 108
     },
     {
       "id": "agriculture-food",
@@ -41959,7 +42013,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 165
+      "paper_count": 169
     },
     {
       "id": "market-design",

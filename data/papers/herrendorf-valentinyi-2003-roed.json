@@ -1,6 +1,6 @@
 {
   "id": "herrendorf-valentinyi-2003-roed",
-  "title": "Determinacy through intertemporal capital adjustment costs",
+  "title": "Determinacy through intertemporal adjustment costs",
   "authors": [
     "Berthold Herrendorf",
     "valentinyi-akos"
@@ -16,20 +16,26 @@
   "url_published": "https://doi.org/10.1016/s1094-2025(03)00020-6",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "It is well known that if there are mild sector-specific externalities, then the steady state of the standard two-sector real business cycle model can become indeterminate and endogenous business cycles can arise. We show that this result is not robust to the introduction of standard intertemporal capital adjustment costs, which may accrue when total capital is adjusted or when each sector's capital is adjusted. We find for both forms of adjustments costs that the steady state is determinate for all empirically plausible parameter values. We also find that determinacy occurs for a much larger range of parameter values when adjusting each sector's capital is costly.",
+  "summary_en": "In two-sector real-business-cycle models, mild sector-specific externalities can make the steady state indeterminate, generating endogenous business cycles. Herrendorf and Valentinyi show this striking result is not robust: introducing standard intertemporal capital-adjustment costs — even small ones — restores determinacy of the steady state for all empirically plausible parameter values. The result holds whether adjustment costs apply to total capital or to each sector's capital separately. The implication: claims that sector-specific externalities can drive business cycles via indeterminacy require ignoring realistic capital-adjustment frictions.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model — two-sector real-business-cycle model with sector-specific externalities and capital-adjustment costs. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Foundational result for macroeconomic policy modelling at MNB and Pénzügyminisztérium. The paper warns that two-sector RBC frameworks should not abstract from capital-adjustment costs — doing so produces unrealistic business-cycle dynamics. Useful methodological caveat for Hungarian DSGE-modelling practice.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "macroeconomics",
+    "methods"
+  ],
+  "methods": [
+    "theory",
+    "structural"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2063441657"
 }

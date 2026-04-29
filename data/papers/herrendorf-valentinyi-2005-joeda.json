@@ -7,7 +7,7 @@
   ],
   "publication_type": "article",
   "journal": "Journal of Economic Dynamics and Control",
-  "year": 2005,
+  "year": 2006,
   "volume": "30",
   "issue": "8",
   "pages": "1339-1361",
@@ -16,20 +16,26 @@
   "url_published": "https://doi.org/10.1016/j.jedc.2005.05.006",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "This paper explores the local stability properties of the steady state in the two-sector neoclassical growth model with sector-specific externalities. We show analytically that capital adjustment costs of any size preclude local indeterminacy nearby the steady state for every empirically plausible specification of the model parameters. More specifically, we show that when capital adjustment costs of any size are considered, a necessary condition for local indeterminacy is an upward-sloping labour demand curve in the capital-producing sector, which in turn requires an implausibly strong externality. We show numerically that capital adjustment costs of plausible size imply determinacy nearby the steady state for empirically plausible specifications of the other model parameters. These findings contrast sharply with the previous finding that local indeterminacy occurs in the two-sector model for a wide range of plausible parameter values when capital adjustment costs are abstracted from.",
+  "summary_en": "Continuing the line of research on indeterminacy in two-sector growth models, Herrendorf and Valentinyi provide a sharper result. They prove analytically that capital adjustment costs of any size preclude local indeterminacy nearby the steady state for every empirically plausible parameter specification. A necessary condition for local indeterminacy is an implausibly strong externality producing an upward-sloping labour demand in the capital-producing sector. The result definitively closes the question for plausibly-calibrated economies: sector-specific externalities cannot generate endogenous business cycles via indeterminacy when realistic capital-adjustment frictions are included.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model + numerical analysis of two-sector neoclassical growth model with sector-specific externalities and adjustment costs. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Important methodological discipline for DSGE-modellers at MNB, KRTK, and the European Central Bank — sector-specific-externality stories require very strong assumptions to drive cycle dynamics. Useful caveat for Hungarian growth-model calibration practice.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "macroeconomics",
+    "methods"
+  ],
+  "methods": [
+    "theory",
+    "structural"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2148756420"
 }

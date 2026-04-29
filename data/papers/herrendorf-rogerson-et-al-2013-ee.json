@@ -17,20 +17,29 @@
   "url_published": "https://doi.org/10.1016/b978-0-444-53540-5.00006-9",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "Structural transformation refers to the reallocation of economic activity across the broad sectors agriculture, manufacturing, and services. This handbook chapter synthesizes recent research on structural transformation, presenting stylized facts across time and space and developing a multi-sector extension of the growth model. The authors argue this multi-sector framework effectively explains many features of structural transformation and provides insights into economic development, regional convergence, productivity trends, hours worked, business cycles, wage inequality, and emissions.",
+  "summary_en": "Why do economies systematically reallocate workers across agriculture, manufacturing, and services as they develop? Herrendorf, Rogerson and Valentinyi's Handbook of Economic Growth chapter synthesises the structural-transformation literature: classical stylised facts, the multi-sector extension of the growth model, and applications to development, regional convergence, hours worked, business cycles, wage inequality, and emissions. The chapter is the canonical reference for researchers and policymakers working with sectoral-decomposition frameworks.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Comprehensive literature review with cross-country sectoral employment, output, and prices data spanning multiple decades; cited datasets include Groningen GGDC, OECD STAN, and historical national accounts.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Reference framework for Hungarian structural-policy analysis at KSH, MNB, KRTK, and the Pénzügyminisztérium. Hungary's transformation from an industry-heavy socialist economy to a service-dominant one fits the framework discussed in the chapter — useful for diagnosing remaining structural-transformation gaps relative to Western European peers.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "macroeconomics",
+    "firms-productivity",
+    "labor-markets"
+  ],
+  "methods": [
+    "descriptive-survey",
+    "theory"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W3124387324"
 }

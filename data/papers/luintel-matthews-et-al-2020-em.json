@@ -19,20 +19,31 @@
   "url_published": "https://doi.org/10.1016/j.econmod.2020.04.024",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "China's development policy since 1978 has differed across regions. With rapid aggregate growth has come widening regional inequality. The fiscal decentralisation reforms in 1994 shifted political pressure onto provincial officials to boost local growth through local public investments. These investments affect regional convergence by counteracting regulatory frictions in factor accumulation, and can also determine steady-state growth. However, the effect of public spending allocations across physical and human capital on growth and convergence processes is empirically unexplored for Chinese provinces. We take provincial time-series data on public spending by category, finding local public spending and its components augment convergence rates differently across regions. Spending on education and health contributes significantly more to growth and convergence than capital spending, confirming that the public capital-spending bias is not a local growth-optimising strategy. We suggest a policy of aligning local government promotion incentives to human capital targets to correct local resource misallocation.",
+  "summary_en": "Has China's regional convergence progressed equally across spending categories? Luintel, Matthews, Minford, Valentinyi and Wang use Chinese provincial time-series data to test how local public spending composition (capital vs. human capital) affects growth and convergence across regions. They find spending on education and health contributes significantly more to growth and convergence than capital spending — confirming that the prevalent Chinese 'public capital-spending bias' is not actually local-growth-optimising. Their policy recommendation: align local-government promotion incentives to human-capital targets to correct misallocation.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Chinese provincial-level time-series data on public spending categories (capital, education, health) and growth/convergence outcomes for ~30 provinces from approximately 1995 to mid-2010s.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for Hungarian and EU Cohesion Fund regional-spending design. The paper provides empirical evidence that human-capital spending (education, health) outperforms capital spending in producing convergence — useful framework for Pénzügyminisztérium and EU-level analysts when allocating Hungarian regional-development funds and assessing whether spending composition matches stated convergence goals.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "regional-urban",
+    "macroeconomics",
+    "fiscal-tax"
+  ],
+  "methods": [
+    "panel-data",
+    "structural"
+  ],
+  "countries_studied": [
+    "CN"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W3022319239"
 }

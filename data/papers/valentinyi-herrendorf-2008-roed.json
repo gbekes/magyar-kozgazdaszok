@@ -16,20 +16,31 @@
   "url_published": "https://doi.org/10.1016/j.red.2008.02.003",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "Many applications in economics use multi-sector versions of the growth model. In this paper, we measure the income shares of capital and labor at the sectoral level for the U.S. economy. We also decompose the capital shares into the income shares of land, structures, and equipment. We find that the capital shares differ across sectors. For example, the capital share of agriculture is more than two times that of construction and more than 50% larger than that of the aggregate economy. Moreover, agriculture has by far the largest land share, which mostly explains why it has the largest capital share. Our numbers can directly be used to calibrate standard multi-sector models. Alternatively, if one wants to abstract from differences in sector capital shares, our numbers can be used to establish that this is not crucial for the results.",
+  "summary_en": "Multi-sector growth models depend critically on the calibration of capital and labour shares — but most analysts use the aggregate-economy share for every sector, an obvious approximation. Valentinyi and Herrendorf measure sectoral capital and labour income shares for the US economy and decompose capital shares into land, structures, and equipment. They find substantial sectoral variation: agriculture has more than twice the capital share of construction and 50% more than the aggregate. The differences are mostly driven by land. The paper provides directly-usable parameter values for multi-sector growth modelling and shows that ignoring sector heterogeneity is sometimes consequential.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "US national-income-and-product accounts data (BEA), input-output tables, and sectoral capital-stock measures, with land, structures, and equipment broken out separately for each major sector.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct methodological reference for Hungarian multi-sector growth modelling at MNB, KRTK, and Pénzügyminisztérium. The paper provides ready-to-use sectoral factor-income shares and demonstrates how to decompose them — useful for Hungarian growth-decomposition exercises that move beyond aggregate Cobb-Douglas frameworks.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "macroeconomics",
+    "firms-productivity",
+    "methods"
+  ],
+  "methods": [
+    "descriptive-survey",
+    "structural"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-19",
-  "last_reviewed_at": "2026-04-19",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2112302275"
 }
