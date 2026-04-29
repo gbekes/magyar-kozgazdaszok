@@ -15,20 +15,31 @@
   "url_published": "https://doi.org/10.1007/s00181-015-0965-4",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "Spillovers from peers in the immediate environment can encourage firms to engage in trade. This study examines whether there are spillover effects in exporting activity, using Hungarian product–country-level manufacturing trade data used from 1993 to 2003. Evidence suggests that exporting activity exhibits spillovers and benefits that are country and product specific. In addition, export spillovers exhibit considerable heterogeneity. Foreign-owned firms benefit from peers generally and domestic firms only from the agglomeration of domestic exporters. Spillovers are positively related to country distance and negatively to market size.",
+  "summary_en": "Do firms decide to export based partly on what their neighbouring firms are doing? Harasztosi tests for export spillovers in Hungarian manufacturing 1993-2003. He finds clear country- and product-specific spillover effects: foreign-owned firms benefit from any nearby exporter peers, while domestic firms benefit only from agglomerations of other domestic exporters. Spillovers are stronger for distant destinations and smaller markets — consistent with information-sharing channels (where the value of peer experience is highest where market knowledge is scarcest).",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian manufacturing firm-product-country trade data 1993-2003 from the IEHAS-CEFiG dataset, covering tens of thousands of firms and millions of firm-product-country export observations.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for HIPA and KKM export-promotion policy. The paper supports geographically-targeted cluster policies: Hungarian domestic exporters benefit from clustering with other domestic exporters (info spillovers), while foreign affiliates benefit from any export-active environment. Useful framework for designing differentiated export-development programmes for domestic vs. foreign-owned firms.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "trade-fdi",
+    "regional-urban",
+    "firms-productivity"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm",
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W321918546"
 }

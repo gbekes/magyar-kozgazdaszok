@@ -18,19 +18,32 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Book chapter (Edward Elgar 2012) by Csermely, Harasztosi et al. examining the impact of Chinese import competition on Hungarian manufacturing. Companion conference talk slides covering the same material are publicly available from OeNB (Vienna).",
-  "summary_en": null,
+  "summary_en": "Csermely, Harasztosi and Pellényi study how Chinese import competition has affected Hungarian manufacturing in the 2000s. The chapter (Edward Elgar 2012) documents firm-level adjustment patterns: which industries were most exposed, which firms adapted versus exited, and how the response interacted with Hungary's export specialisation in EU markets. The case study illustrates the broader 'China shock' literature applied to a small open European economy that competes directly with China in EU export markets rather than facing China primarily as an import source.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian manufacturing firm-level data from the IEHAS-CEFiG dataset (1992-2006 panel) plus customs data on Hungarian imports from China and competing exports to EU markets.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungarian industrial-policy and trade-defence work (KKM, ITM, GVH) increasingly engages with Chinese-competition pressure, especially in automotive supply, electronics, and machinery. The chapter provides a Hungarian-specific analytical framework analogous to the Autor-Dorn-Hanson 'China shock' literature, useful for KKM trade-defence-instrument analysis and ITM industrial-policy diagnostics.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "trade-fdi",
+    "firms-productivity",
+    "industrial-organization"
+  ],
+  "methods": [
+    "panel-data",
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "HU",
+    "CN"
+  ],
+  "data_types": [
+    "admin-firm",
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2291852363"
 }

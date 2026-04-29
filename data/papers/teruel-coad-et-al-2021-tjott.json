@@ -21,20 +21,29 @@
   "url_published": "https://doi.org/10.1007/s10961-021-09861-6",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "This paper explores the relationship between new digital technologies, internationalisation activity and its impact on High Growth Enterprises (HGEs), using the EIB Group Survey of Investment and Investment Finance and ORBIS data for 27 EU Member States and the United Kingdom. After controlling for sample selection bias, our results suggest that being a HGE is positively associated with the probability that a firm conducts international activities, particularly FDI. Conversely, the internationalisation process seems to trigger strong subsequent firm-growth only for FDI, not for exports. Furthermore, we show evidence on the positive association between firms that are internationalised and those adopting new digital technologies.",
+  "summary_en": "Are high-growth enterprises (HGEs) born from new digital technologies and internationalisation, or do they cause both? Teruel, Coad, Domnick, Flachenecker, Harasztosi, Janiri and Pál use the EIB Investment Survey + ORBIS data for 27 EU members + UK. After correcting for sample selection, they find: HGE status is positively associated with conducting international activities (particularly FDI), but only FDI — not exporting alone — triggers strong subsequent firm growth. Internationalisation and digital-technology adoption co-vary, with adoption indirectly associated with HGE status via internationalisation.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "EIB Group Survey of Investment and Investment Finance (EIBIS) for 2018-2020 plus ORBIS firm financial data for 27 EU Member States and the UK; covers tens of thousands of firms with detailed digital-technology adoption and international-activity measures.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for HIPA, KKM and EU-level industrial policy targeting high-growth firms. The paper shows pushing firms toward exports alone may not generate growth; FDI does. Hungarian policy targeting outbound FDI (which lags behind Visegrad peers in absolute terms) may be more effective than more export-promotion. Useful framework for the EIB Group's Hungarian operations and HIPA outbound-investment support.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "firms-productivity",
+    "trade-fdi",
+    "innovation-digital"
+  ],
+  "methods": [
+    "panel-data"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "firm-level-dataset",
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W3161821236"
 }

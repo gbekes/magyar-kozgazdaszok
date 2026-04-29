@@ -14126,21 +14126,36 @@
       "url_published": "https://doi.org/10.1007/s10290-018-0312-x",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "The literature shows that openness to trade improves long-term growth but also that it may increase exposure to high output volatility. In this vein, our paper investigates whether exporting and export diversification at the firm level have an effect on the output volatility of firms. We use large representative firm-level databases from Estonia, Hungary, Romania, Slovakia and Slovenia over the last boom-bust cycle in 2004-2012. The results confirm that exporting is related to higher volatility at the firm level. There is also evidence that this effect increased during the Great Recession due to the large negative shocks in export markets. In contrast to the literature and empirical findings for large or advanced countries we do not find a statistically significant and consistent mitigating effect from export diversification in the Central and Eastern European countries. In addition, exporting more products or serving more markets does not necessarily result in higher stability of firm sales.",
+      "summary_en": "Does exporting raise or lower firm-level output volatility, and does diversification help? Čede, Chiriacescu, Harasztosi, Lalinsky and Meriküll use harmonised firm-level databases from five Central and Eastern European countries (Estonia, Hungary, Romania, Slovakia, Slovenia) covering the 2004-2012 boom-bust cycle. They find exporting is associated with higher firm-level volatility — and the effect grew during the Great Recession. Crucially, contra findings for advanced economies, export diversification (more products or more markets) does not significantly mitigate volatility for CEE firms.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Harmonised firm-level manufacturing data from Estonia, Hungary, Romania, Slovakia and Slovenia 2004-2012, drawn from each country's central-bank or statistical-office firm registers; covers tens of thousands of manufacturing firms across the region.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for Hungarian and CEE export-promotion policy. The paper warns that the standard 'diversification reduces volatility' insight from advanced-economy data does NOT extend to CEE — Hungarian exporters' volatility may not be tamed by simply pushing into more products or markets. Useful caveat for HIPA, KKM, and the Eximbank when designing export-support programmes.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "trade-fdi",
+        "firms-productivity",
+        "transition-postcommunist"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU",
+        "EE",
+        "RO",
+        "SK",
+        "SI"
+      ],
+      "data_types": [
+        "admin-firm",
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W3123490317"
     },
     {
@@ -15084,20 +15099,33 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Book chapter (Edward Elgar 2012) by Csermely, Harasztosi et al. examining the impact of Chinese import competition on Hungarian manufacturing. Companion conference talk slides covering the same material are publicly available from OeNB (Vienna).",
-      "summary_en": null,
+      "summary_en": "Csermely, Harasztosi and Pellényi study how Chinese import competition has affected Hungarian manufacturing in the 2000s. The chapter (Edward Elgar 2012) documents firm-level adjustment patterns: which industries were most exposed, which firms adapted versus exited, and how the response interacted with Hungary's export specialisation in EU markets. The case study illustrates the broader 'China shock' literature applied to a small open European economy that competes directly with China in EU export markets rather than facing China primarily as an import source.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian manufacturing firm-level data from the IEHAS-CEFiG dataset (1992-2006 panel) plus customs data on Hungarian imports from China and competing exports to EU markets.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungarian industrial-policy and trade-defence work (KKM, ITM, GVH) increasingly engages with Chinese-competition pressure, especially in automotive supply, electronics, and machinery. The chapter provides a Hungarian-specific analytical framework analogous to the Autor-Dorn-Hanson 'China shock' literature, useful for KKM trade-defence-instrument analysis and ITM industrial-policy diagnostics.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "trade-fdi",
+        "firms-productivity",
+        "industrial-organization"
+      ],
+      "methods": [
+        "panel-data",
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "HU",
+        "CN"
+      ],
+      "data_types": [
+        "admin-firm",
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2291852363"
     },
     {
@@ -18361,12 +18389,12 @@
       "url_published": "https://doi.org/10.1016/j.ememar.2014.09.003",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": "Hungarian firms borrowed heavily in foreign currency before 2008. When the forint depreciated, the value of their FX liabilities jumped. Did this constrain investment? Using detailed firm-level data, the authors document a large negative effect of FX debt on corporate investment after the crisis: the more a firm was borrowed in FX at the start, the more its investment fell when the forint weakened. The channel is balance-sheet-mediated: FX-debt firms lose net worth on depreciation and cut capital expenditure. A textbook demonstration of the 'currency mismatch' balance-sheet channel in a CEE context.",
+      "abstract": "The paper investigates the impact of foreign currency lending on investment. Using Hungarian firm level data, we test whether foreign currency lending contributed to larger investment before the crisis and whether the depreciation during the Great Recession resulted in lower investment rate for firms with foreign currency loans. Results of OLS and matching estimations show that before the crisis FX lending increased investment rates and during the crisis the investment rate of firms with FX loans declined more because of the balance sheet effects triggered by the depreciation. These effects were found to be more pronounced for liquidity constrained firms.",
+      "summary_en": "Did Hungary's foreign-currency lending boom in the 2000s actually drive higher firm investment, and how badly did the 2008 forint depreciation hit affected firms? Endrész and Harasztosi use Hungarian firm-level data to test both. Before the crisis, FX-denominated loans were associated with higher investment rates — confirming the 'cheap funding boost' channel. During the crisis, firms with FX loans cut investment substantially more than peers, due to balance-sheet effects from the depreciation. Both pre- and post-crisis effects were stronger for liquidity-constrained firms.",
       "summary_hu": "A magyar vállalatok 2008 előtt erősen deviza-hitelből finanszírozták magukat. A forint leértékelődésekor a devizakötelezettségek értéke megugrott. Korlátozta-e ez a beruházásokat? Részletes vállalati szintű adatokon a szerzők nagy negatív hatást mutatnak ki: minél jobban devizaadós volt egy cég a válság előtt, annál nagyobbat esett a beruházása a forint gyengülésekor. A csatorna mérlegalapú: a devizás vállalatok nettó vagyona csökken a leértékeléssel, és ezért csökkentik a beruházásokat. Tankönyvszerű példa a 'currency mismatch' mérleghatásra a KKE régióban.",
-      "data_used": "Hungarian firm-level financial and investment data for the years around 2008 (NAV tax filings / MNB balance-sheet data). Firms classified by share of FX liabilities pre-crisis. Panel estimation with firm fixed effects.",
+      "data_used": "Hungarian firm-level panel data from MNB and KSH covering ~50,000+ firms over 2003-2012, with detailed currency-composition of debt, investment, and balance-sheet measures. OLS and matching-estimator analyses.",
       "data_used_hu": "Magyar vállalati szintű pénzügyi és beruházási adatok a 2008 körüli évekből (NAV / MNB mérlegadatok). Vállalatok osztályozása a válság előtti devizahitel-arány szerint. Panelbecslés cég-fix hatásokkal.",
-      "policy_relevance": "Foundational evidence for MNB's post-crisis foreign-currency-lending regulation (forintosítás, limits on FX consumer lending, corporate FX rules). Supports the view that prudential limits on FX exposure are justified on real-economy grounds, not only on consumer-protection grounds. Caveat: the crisis was idiosyncratic; effect size is likely bounded to events with large HUF depreciation.",
+      "policy_relevance": "Direct evidence for MNB's 2014 FX-mortgage conversion programme and ongoing macroprudential limits on corporate FX-lending. The paper documents both the upside (pre-crisis investment boost) and the downside (crisis-time balance-sheet damage) of corporate FX borrowing — useful framing for MNB and Pénzügyminisztérium when calibrating macroprudential limits and assessing the ÁKK debt-management strategy.",
       "policy_relevance_hu": "Alapozó bizonyíték az MNB válság utáni deviza-hitelezési szabályozásához (forintosítás, lakossági és vállalati deviza-hitelezési korlátok). Támogatja azt az álláspontot, hogy a devizakitettségre vonatkozó prudenciális korlátok reálgazdasági alapon is indokoltak, nem csak fogyasztóvédelmi alapon. Korlát: idioszinkratikus válság; a hatás mérete valószínűleg nagy HUF-gyengülésekhez kötött.",
       "topics": [
         "banking-finance",
@@ -18374,18 +18402,18 @@
         "macroeconomics"
       ],
       "methods": [
-        "diff-in-diff",
         "panel-data"
       ],
       "countries_studied": [
         "HU"
       ],
       "data_types": [
-        "admin-firm"
+        "admin-firm",
+        "firm-level-dataset"
       ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-24",
+      "last_reviewed_at": "2026-04-29",
       "review_status": "ai-drafted",
       "openalex_id": "W2143162058",
       "policy_instruments": [
@@ -22758,21 +22786,32 @@
       "url_published": "https://doi.org/10.1007/s00181-015-0965-4",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "Spillovers from peers in the immediate environment can encourage firms to engage in trade. This study examines whether there are spillover effects in exporting activity, using Hungarian product–country-level manufacturing trade data used from 1993 to 2003. Evidence suggests that exporting activity exhibits spillovers and benefits that are country and product specific. In addition, export spillovers exhibit considerable heterogeneity. Foreign-owned firms benefit from peers generally and domestic firms only from the agglomeration of domestic exporters. Spillovers are positively related to country distance and negatively to market size.",
+      "summary_en": "Do firms decide to export based partly on what their neighbouring firms are doing? Harasztosi tests for export spillovers in Hungarian manufacturing 1993-2003. He finds clear country- and product-specific spillover effects: foreign-owned firms benefit from any nearby exporter peers, while domestic firms benefit only from agglomerations of other domestic exporters. Spillovers are stronger for distant destinations and smaller markets — consistent with information-sharing channels (where the value of peer experience is highest where market knowledge is scarcest).",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian manufacturing firm-product-country trade data 1993-2003 from the IEHAS-CEFiG dataset, covering tens of thousands of firms and millions of firm-product-country export observations.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for HIPA and KKM export-promotion policy. The paper supports geographically-targeted cluster policies: Hungarian domestic exporters benefit from clustering with other domestic exporters (info spillovers), while foreign affiliates benefit from any export-active environment. Useful framework for designing differentiated export-development programmes for domestic vs. foreign-owned firms.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "trade-fdi",
+        "regional-urban",
+        "firms-productivity"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-firm",
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W321918546"
     },
     {
@@ -36436,21 +36475,30 @@
       "url_published": "https://doi.org/10.1007/s10961-021-09861-6",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "This paper explores the relationship between new digital technologies, internationalisation activity and its impact on High Growth Enterprises (HGEs), using the EIB Group Survey of Investment and Investment Finance and ORBIS data for 27 EU Member States and the United Kingdom. After controlling for sample selection bias, our results suggest that being a HGE is positively associated with the probability that a firm conducts international activities, particularly FDI. Conversely, the internationalisation process seems to trigger strong subsequent firm-growth only for FDI, not for exports. Furthermore, we show evidence on the positive association between firms that are internationalised and those adopting new digital technologies.",
+      "summary_en": "Are high-growth enterprises (HGEs) born from new digital technologies and internationalisation, or do they cause both? Teruel, Coad, Domnick, Flachenecker, Harasztosi, Janiri and Pál use the EIB Investment Survey + ORBIS data for 27 EU members + UK. After correcting for sample selection, they find: HGE status is positively associated with conducting international activities (particularly FDI), but only FDI — not exporting alone — triggers strong subsequent firm growth. Internationalisation and digital-technology adoption co-vary, with adoption indirectly associated with HGE status via internationalisation.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "EIB Group Survey of Investment and Investment Finance (EIBIS) for 2018-2020 plus ORBIS firm financial data for 27 EU Member States and the UK; covers tens of thousands of firms with detailed digital-technology adoption and international-activity measures.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for HIPA, KKM and EU-level industrial policy targeting high-growth firms. The paper shows pushing firms toward exports alone may not generate growth; FDI does. Hungarian policy targeting outbound FDI (which lags behind Visegrad peers in absolute terms) may be more effective than more export-promotion. Useful framework for the EIB Group's Hungarian operations and HIPA outbound-investment support.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "firms-productivity",
+        "trade-fdi",
+        "innovation-digital"
+      ],
+      "methods": [
+        "panel-data"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "firm-level-dataset",
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W3161821236"
     },
     {
@@ -41687,7 +41735,7 @@
       "policy_framing_en": "Relevant to: EU trade policy, FDI promotion, export promotion, supply chain resilience, industrial policy.",
       "policy_framing_hu": "Releváns: EU kereskedelempolitika, FDI ösztönzés, exporttámogatás, ellátási láncok rugalmassága, iparpolitika.",
       "icon": "globe",
-      "paper_count": 78
+      "paper_count": 82
     },
     {
       "id": "firms-productivity",
@@ -41698,7 +41746,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 122
+      "paper_count": 126
     },
     {
       "id": "innovation-digital",
@@ -41709,7 +41757,7 @@
       "policy_framing_en": "Relevant to: R&D tax credits, digital strategy, AI policy, innovation agency design, university–industry linkages.",
       "policy_framing_hu": "Releváns: K+F adókedvezmények, digitális stratégia, MI-politika, innovációs ügynökségek, egyetem–ipar kapcsolatok.",
       "icon": "cpu",
-      "paper_count": 59
+      "paper_count": 60
     },
     {
       "id": "banking-finance",
@@ -41742,7 +41790,7 @@
       "policy_framing_en": "Relevant to: regional development funds, housing policy, transport investment, urban planning.",
       "policy_framing_hu": "Releváns: regionális fejlesztési alapok, lakáspolitika, közlekedési beruházások, városfejlesztés.",
       "icon": "building",
-      "paper_count": 61
+      "paper_count": 62
     },
     {
       "id": "energy-environment",
@@ -41786,7 +41834,7 @@
       "policy_framing_en": "Relevant to: long-run diagnoses of the Hungarian and CEE economy, lessons from 30+ years of transition, institutional path dependence.",
       "policy_framing_hu": "Releváns: a magyar és KKE gazdaság hosszú távú diagnózisa, 30+ év rendszerváltásának tanulságai, intézményi útfüggőség.",
       "icon": "flag",
-      "paper_count": 43
+      "paper_count": 44
     },
     {
       "id": "behavioral",
@@ -41808,7 +41856,7 @@
       "policy_framing_en": "Relevant to: competition policy (GVH), merger review, platform regulation, auction design, sector-specific regulation.",
       "policy_framing_hu": "Releváns: versenypolitika (GVH), fúziókontroll, platformszabályozás, aukciótervezés, ágazati szabályozás.",
       "icon": "network",
-      "paper_count": 82
+      "paper_count": 83
     },
     {
       "id": "macroeconomics",

@@ -19,20 +19,35 @@
   "url_published": "https://doi.org/10.1007/s10290-018-0312-x",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "The literature shows that openness to trade improves long-term growth but also that it may increase exposure to high output volatility. In this vein, our paper investigates whether exporting and export diversification at the firm level have an effect on the output volatility of firms. We use large representative firm-level databases from Estonia, Hungary, Romania, Slovakia and Slovenia over the last boom-bust cycle in 2004-2012. The results confirm that exporting is related to higher volatility at the firm level. There is also evidence that this effect increased during the Great Recession due to the large negative shocks in export markets. In contrast to the literature and empirical findings for large or advanced countries we do not find a statistically significant and consistent mitigating effect from export diversification in the Central and Eastern European countries. In addition, exporting more products or serving more markets does not necessarily result in higher stability of firm sales.",
+  "summary_en": "Does exporting raise or lower firm-level output volatility, and does diversification help? Čede, Chiriacescu, Harasztosi, Lalinsky and Meriküll use harmonised firm-level databases from five Central and Eastern European countries (Estonia, Hungary, Romania, Slovakia, Slovenia) covering the 2004-2012 boom-bust cycle. They find exporting is associated with higher firm-level volatility — and the effect grew during the Great Recession. Crucially, contra findings for advanced economies, export diversification (more products or more markets) does not significantly mitigate volatility for CEE firms.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Harmonised firm-level manufacturing data from Estonia, Hungary, Romania, Slovakia and Slovenia 2004-2012, drawn from each country's central-bank or statistical-office firm registers; covers tens of thousands of manufacturing firms across the region.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for Hungarian and CEE export-promotion policy. The paper warns that the standard 'diversification reduces volatility' insight from advanced-economy data does NOT extend to CEE — Hungarian exporters' volatility may not be tamed by simply pushing into more products or markets. Useful caveat for HIPA, KKM, and the Eximbank when designing export-support programmes.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "trade-fdi",
+    "firms-productivity",
+    "transition-postcommunist"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU",
+    "EE",
+    "RO",
+    "SK",
+    "SI"
+  ],
+  "data_types": [
+    "admin-firm",
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W3123490317"
 }
