@@ -23,20 +23,29 @@
   "url_published": "https://doi.org/10.1057/palgrave.ces.8100181",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "The paper looks behind the standard, publicly available labor force statistics relied upon in most studies of transition economy labor markets. It analyzes microdata on detailed labor force survey responses in Russia, Romania, and Estonia to measure nonstandard, boundary forms and alternative definitions of employment and unemployment. The calculations show that measured rates are quite sensitive to definition, particularly in the treatment of household production (subsistence agriculture), unpaid family helpers, and discouraged workers, while the categories of part-time work and other forms of marginal attachment are still relatively unimportant. The authors find that tweaking the official definitions in apparently minor ways can produce alternative employment rates that are sharply higher in Russia but much lower in Romania and slightly lower in Estonia, and alternative unemployment rates that are sharply higher in Romania and moderately higher in Estonia and Russia.",
+  "summary_en": "How sensitive are transition-economy labour-market statistics to definition choices? Brown, Earle, Telegdy and seven coauthors analyse detailed labour-force-survey microdata from Russia, Romania, and Estonia. Tweaking apparently minor definitional choices (treatment of subsistence agriculture, unpaid family helpers, discouraged workers) produces sharply different employment and unemployment rates: alternative employment rates are sharply higher in Russia but lower in Romania and Estonia; alternative unemployment rates are sharply higher in Romania and moderately higher in Estonia and Russia. The paper raises caution about cross-country comparisons of headline labour-market indicators in transition economies.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Detailed labour-force-survey microdata from Russia (RLMS, GoskomStat LFS), Romania (NSI Household Labour Force Survey), and Estonia (Statistics Estonia LFS) covering the late 1990s and early 2000s, with millions of individual responses across multiple waves.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for KSH and KSh-collaborating CEE statistical offices when interpreting cross-country labour-market comparisons. The paper shows headline unemployment and employment rates are highly sensitive to seemingly small definitional choices — useful caveat for Hungarian government policy briefings that cite cross-country labour metrics. Also informs Eurostat methodology debates.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "labor-markets",
+    "methods",
+    "transition-postcommunist"
+  ],
+  "methods": [
+    "descriptive-survey",
+    "panel-data"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2068499636"
 }

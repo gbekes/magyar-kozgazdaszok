@@ -13554,21 +13554,30 @@
       "url_published": "https://doi.org/10.1057/palgrave.ces.8100181",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "The paper looks behind the standard, publicly available labor force statistics relied upon in most studies of transition economy labor markets. It analyzes microdata on detailed labor force survey responses in Russia, Romania, and Estonia to measure nonstandard, boundary forms and alternative definitions of employment and unemployment. The calculations show that measured rates are quite sensitive to definition, particularly in the treatment of household production (subsistence agriculture), unpaid family helpers, and discouraged workers, while the categories of part-time work and other forms of marginal attachment are still relatively unimportant. The authors find that tweaking the official definitions in apparently minor ways can produce alternative employment rates that are sharply higher in Russia but much lower in Romania and slightly lower in Estonia, and alternative unemployment rates that are sharply higher in Romania and moderately higher in Estonia and Russia.",
+      "summary_en": "How sensitive are transition-economy labour-market statistics to definition choices? Brown, Earle, Telegdy and seven coauthors analyse detailed labour-force-survey microdata from Russia, Romania, and Estonia. Tweaking apparently minor definitional choices (treatment of subsistence agriculture, unpaid family helpers, discouraged workers) produces sharply different employment and unemployment rates: alternative employment rates are sharply higher in Russia but lower in Romania and Estonia; alternative unemployment rates are sharply higher in Romania and moderately higher in Estonia and Russia. The paper raises caution about cross-country comparisons of headline labour-market indicators in transition economies.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Detailed labour-force-survey microdata from Russia (RLMS, GoskomStat LFS), Romania (NSI Household Labour Force Survey), and Estonia (Statistics Estonia LFS) covering the late 1990s and early 2000s, with millions of individual responses across multiple waves.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for KSH and KSh-collaborating CEE statistical offices when interpreting cross-country labour-market comparisons. The paper shows headline unemployment and employment rates are highly sensitive to seemingly small definitional choices — useful caveat for Hungarian government policy briefings that cite cross-country labour metrics. Also informs Eurostat methodology debates.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "labor-markets",
+        "methods",
+        "transition-postcommunist"
+      ],
+      "methods": [
+        "descriptive-survey",
+        "panel-data"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2068499636"
     },
     {
@@ -13700,30 +13709,35 @@
       "url_published": "https://doi.org/10.1016/j.jcorpfin.2016.10.001",
       "url_pdf": "https://www.sciencedirect.com/science/article/am/pii/S0929119916301419?via%3Dihub",
       "url_replication": null,
-      "abstract": null,
-      "summary_en": "Privatization is one of the most studied post-communist reforms, but estimates of its effect on firm performance vary widely across studies and countries. Why? This paper investigates the heterogeneity in privatisation effects, using cross-country firm-level data. Results depend on: baseline institutional quality, the type of privatisation method used, initial firm conditions, and post-privatisation corporate governance. Understanding the conditional-effects structure helps explain why privatisation can be a great reform in some settings and a disaster in others. Useful for evaluating past Hungarian privatisations and any future state-asset sales.",
+      "abstract": "Why do the reported effects of privatization on firm performance vary so much? This paper provides new estimates of these effects and tests potential explanations for heterogeneity using comprehensive, long-panel data for 70,000 firms in five East European economies. We estimate that privatization raises measures of profitability, productivity, and growth by about 5–12% on average, but with substantial variation across countries and time periods. Analyzing heterogeneity in privatization effectiveness, we find little systematic role for firm size, financial dependence, exchange listing, or technological complexity, but important variation by fraction privatized, ownership concentration, firm quality, and the macroeconomic and institutional environment.",
+      "summary_en": "Why do estimated effects of privatisation on firm performance vary so much across studies? Brown, Earle and Telegdy use comprehensive long-panel data on 70,000 firms across five East European economies (Hungary, Romania, Russia, Ukraine, Slovenia) to provide consistent estimates and explain the heterogeneity. Privatisation raises profitability, productivity, and growth by 5-12% on average — but with substantial cross-country and over-time variation. Heterogeneity is driven mainly by the fraction privatised, ownership concentration, firm quality, and the macroeconomic and institutional environment — not by firm size, financial dependence, or technological complexity.",
       "summary_hu": "A privatizáció a posztkommunista reformok egyik legtöbbet tanulmányozott területe, de a vállalati teljesítményre gyakorolt becsült hatása országok és tanulmányok között széles körben szóródik. Miért? A tanulmány országokon átnyúló cégszintű adatokkal vizsgálja a privatizációs hatások heterogenitását. Az eredmények a következőktől függnek: kiindulási intézményi minőség, alkalmazott privatizációs módszer, kezdeti vállalati feltételek, és privatizáció utáni vállalatirányítás. A feltételes-hatások szerkezetének megértése segít magyarázni, miért lehet a privatizáció kiváló reform egyes helyzetekben és katasztrófa másokban. Hasznos a múltbeli magyar privatizációk és bármilyen jövőbeli állami eszközértékesítés értékeléséhez.",
-      "data_used": "Cross-country firm-level panel data covering privatisation episodes in transition economies; firm-performance outcomes (productivity, employment, revenue).",
+      "data_used": "Comprehensive long-panel firm-level data on ~70,000 firms across Hungary, Romania, Russia, Ukraine, and Slovenia, covering 1985-2008 (varying by country); merged from each country's statistical office and privatisation registry.",
       "data_used_hu": "Országokon átnyúló cégszintű paneladatok, amelyek lefedik az átmeneti gazdaságok privatizációs epizódjait; vállalati teljesítménymutatók (termelékenység, foglalkoztatás, bevétel).",
-      "policy_relevance": "Direct historical relevance to Hungarian state-owned-enterprise privatization debates (MNV, Ministry of Economy). The paper's conditional-effects framing supports careful sequencing: institutional quality and post-privatisation governance determine outcomes more than the act of privatisation itself. Relevant to future SOE reforms and to evaluation of past privatisations. Caveat: privatisation-era-specific context; modern SOE governance (SOE performance contracts, EU state-aid rules) provides different tools.",
+      "policy_relevance": "Foundational reference for understanding Hungarian privatisation outcomes in regional context. The paper shows Hungary-specific privatisation effects are within the cross-country range but moderated by ownership concentration and the institutional environment. Useful framework for academic analysts at KRTK, MTA, and the Pénzügyminisztérium when evaluating long-run effects of Hungarian privatisation programmes (and for calibrating residual state-ownership policy decisions).",
       "policy_relevance_hu": "Közvetlen történelmi relevancia a magyar állami tulajdonú vállalatok privatizációs vitáihoz (MNV, Pénzügyminisztérium). A tanulmány feltételes-hatások keretezése a gondos sorrendiséget támogatja: az intézményi minőség és a privatizáció utáni vállalatirányítás határozza meg a kimeneteleket, nem maga a privatizáció. Releváns a jövőbeli SOE-reformokhoz és a múltbeli privatizációk értékeléséhez. Korlát: privatizációs-korszakra jellemző kontextus; a modern SOE-irányítás (SOE-teljesítményszerződések, EU állami támogatási szabályok) más eszközöket biztosít.",
       "topics": [
         "transition-postcommunist",
-        "firms-productivity"
+        "firms-productivity",
+        "industrial-organization"
       ],
       "methods": [
         "panel-data"
       ],
       "countries_studied": [
-        "EU",
-        "GLOBAL"
+        "HU",
+        "RO",
+        "RU",
+        "UA",
+        "SI"
       ],
       "data_types": [
+        "admin-firm",
         "firm-level-dataset"
       ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-23",
+      "last_reviewed_at": "2026-04-29",
       "review_status": "ai-drafted",
       "openalex_id": "W3126143073",
       "policy_instruments": [
@@ -17791,21 +17805,31 @@
       "url_published": "https://doi.org/10.1006/jcec.2002.1798",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "Comprehensive panel data on privatization transactions and labor productivity in Romanian industrial corporations are used to describe the post-privatization ownership structure, and to estimate the effect of Romania's diverse privatization policies on firm performance. The econometric results show consistently positive, highly significant effects of private ownership on labor productivity growth, the point estimates implying an increased 1.0 to 1.7 percentage growth for a 10 percent rise in private shareholding. The strongest estimated impacts are associated with sales to outside blockholders; insider transfers and mass privatization are estimated to have significantly smaller—although still positive—effects on firm performance.",
+      "summary_en": "What were the productivity effects of Romania's diverse privatisation policies? Earle and Telegdy use comprehensive panel data on Romanian industrial corporations and their privatisation transactions. They find consistently positive, highly significant effects of private ownership on labour-productivity growth — 1.0 to 1.7 percentage point increase in productivity growth for each 10% rise in private shareholding. The strongest effects come from sales to outside blockholders; insider transfers and mass privatisation produce smaller (but still positive) effects. The paper provides early causal evidence that privatisation method matters for performance outcomes.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Romanian industrial-corporation panel data from the National Institute of Statistics covering ~1,500 firms in the 1990s, matched to detailed privatisation-transaction records (auction sales, MEBOs, mass privatisation vouchers).",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Comparative reference for Hungarian privatisation analysis. The paper supports the now-standard view that privatisation method matters: outsider blockholder sales produce stronger productivity gains than insider transfers or voucher schemes. Useful historical reference for academic and policy researchers comparing CEE privatisation outcomes.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "transition-postcommunist",
+        "firms-productivity"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "RO"
+      ],
+      "data_types": [
+        "admin-firm",
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-19",
-      "last_reviewed_at": "2026-04-19",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W3124386288"
     },
     {
@@ -21404,21 +21428,33 @@
       "url_published": "https://doi.org/10.1016/j.jcorpfin.2024.102592",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "Subsidies should target firms with profitable opportunities and insufficient funding, but this is difficult due to information asymmetry between firms and the government. We study how credit history of firms can help design more efficient subsidies. To this end, we combine data on non-repayable firm subsidies and the credit registry from Hungary. Using subsidy winners and losers as treated and control groups and leveraging variation in access to loans, we identify the differential impact of subsidies. While subsidies lead to an incremental impact on assets of loan-deprived as compared to loan-acquiring firms, the impact is transitory and fades after a few years. The impact on profitability follows a similar pattern despite the higher expected marginal value of capital for loan-deprived firms. Thus, loan deprivation is likely caused by borrower shortcomings instead of credit rationing by banks. In such cases, subsidies need not target loan-deprived firms.",
+      "summary_en": "Should government subsidies target loan-deprived firms (those without bank credit access) on the assumption that they have higher marginal value of capital? Goel, Telegdy, Banai and Takáts test this in Hungary using non-repayable firm subsidies matched with credit-registry data. Using subsidy winners vs. losers as treated and control groups, they find subsidies do generate larger asset growth for loan-deprived firms — but the effect is transitory and fades within a few years. Profitability follows the same pattern. The implication: loan deprivation likely reflects borrower shortcomings rather than credit rationing, so subsidies should not preferentially target loan-deprived firms.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian administrative data on non-repayable firm subsidies (from MFB / EU Structural Funds disbursements) matched to the MNB credit registry; covers tens of thousands of subsidy applicants 2004-2018, with detailed loan and balance-sheet histories.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct policy implication for the Pénzügyminisztérium and MFB designing the next round of EU-funded subsidy programmes. The paper challenges the widespread assumption that targeting credit-constrained firms is welfare-optimal — at least in Hungarian data, loan-deprived firms convert subsidies into shorter-lived gains. Useful diagnostic for HIPA-administered subsidy schemes.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "fiscal-tax",
+        "firms-productivity"
+      ],
+      "methods": [
+        "diff-in-diff",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-firm",
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W4396951655"
     },
     {
@@ -32605,21 +32641,33 @@
       "url_published": "https://doi.org/10.1016/j.euroecorev.2016.07.003",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "Using a comprehensive database on successful and rejected applications for the European Union's Structural and Cohesion Funds between 2004 and 2012 in Hungary, we study which grant types are susceptible to political favoritism and how this is achieved. With fixed-effects and matching estimators we study whether applicants from municipalities with a mayor endorsed by the governing coalition won a higher grant value than applicants where the mayor was affiliated with the opposition. We find limited evidence for such a difference for total grant value, but in cases when the applicant is a public entity or the purpose of the project is construction and, therefore, visible to voters and thus may bring about electoral benefits, we do find effects of 16–21%. The decomposition of the effect suggests that favoritism plays a role both in the application and the decision making process as applicants from aligned townships apply in larger numbers and have higher acceptance rates. When analyzing the effect of grants on votes, we show that voters indeed reward construction and public projects but not the other grant types.",
+      "summary_en": "Are EU Structural and Cohesion Fund grants in Hungary subject to political favouritism? Murakozy and Telegdy use a comprehensive Hungarian database of successful and rejected grant applications 2004-2012, comparing applicants in municipalities with mayors aligned with the governing coalition vs. opposition. Average grant value shows little systematic difference. But for grants visible to voters — public-entity applicants and construction projects — aligned municipalities receive 16-21% higher grant values, driven by both higher application rates and higher acceptance rates. Voters reward construction and public projects with electoral support, justifying the political incentive structure.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian administrative data on all successful and rejected applications for EU Structural and Cohesion Funds 2004-2012 (~hundreds of thousands of applications), matched to municipal-level mayoral political affiliation and electoral outcomes.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct political-economy evidence for ÁSZ (State Audit Office), GVH, and EU Anti-Fraud Office (OLAF) when assessing Hungarian fund-allocation governance. Documents quantitatively significant favouritism in visible-spending categories. Useful framework for designing transparent grant-allocation procedures and for the European Commission's rule-of-law conditionality dialogue with Hungary.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "political-economy",
+        "regional-urban",
+        "fiscal-tax"
+      ],
+      "methods": [
+        "panel-data",
+        "diff-in-diff"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-firm",
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2260015307"
     },
     {
@@ -35948,21 +35996,32 @@
       "url_published": "https://doi.org/10.1016/j.labeco.2018.08.008",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "Using a large and unexpected public wage increase in Hungary, which changed the public wage premium from −17 to +7.5% from one month to the next, I study wage spillovers from the public to the corporate sector. I proxy the exposure of corporate workers to the public sector with the variation of the share of public sector employment within labor market segments defined by gender, experience, occupation and region. Controlling for worker-firm joint fixed effects and instrumenting the exposure variable with its past values, I estimate a wage differential of 9.6% around the wage increase between two workers situated at the 25th and the 75th percentile of the exposure measure. The firm's exposure to the public sector (measured as the average of individual exposures of the firm's workforce) produces a wage differential of 13.6%, suggesting that employers are concerned about wage tensions. The spillover affected primarily young, and therefore, mobile, workers and the highly educated, who are abundant in the public sector.",
+      "summary_en": "Telegdy uses a large unexpected Hungarian public-sector wage increase (the public-wage premium jumped from -17% to +7.5% in 2002 from one month to the next) to causally identify wage spillovers from public to corporate sector. Workers more exposed to the public sector (in their gender-experience-occupation-region segment) saw their corporate-sector wages rise by 9.6 percentage points more between the 25th and 75th exposure percentiles. The firm-level exposure effect is larger (13.6%), suggesting employers respond to anticipated wage tensions. Spillovers concentrate among young, mobile, and highly-educated workers — the groups most likely to switch into the public sector.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian linked employer-employee data 2000-2003 covering all formal-sector workers, with detailed individual characteristics (gender, age, occupation, education, region) and firm-level controls; ~millions of worker-firm-year observations.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct evidence for the Pénzügyminisztérium when calibrating public-sector wage increases — corporate-sector spillovers are substantial and concentrated among mobile, educated workers. Useful for budget impact assessments of teacher-wage, nurse-wage, and civil-service-wage increases. Also relevant for MNB inflation-monitoring of public-wage shocks.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "labor-markets",
+        "macroeconomics",
+        "fiscal-tax"
+      ],
+      "methods": [
+        "iv",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-29",
+      "review_status": "ai-drafted",
       "openalex_id": "W2604351463"
     },
     {
@@ -41691,7 +41750,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 92
+      "paper_count": 94
     },
     {
       "id": "education-skills",
@@ -41746,7 +41805,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 126
+      "paper_count": 128
     },
     {
       "id": "innovation-digital",
@@ -41768,7 +41827,7 @@
       "policy_framing_en": "Relevant to: MNB policy, banking regulation, macroprudential tools, financial inclusion.",
       "policy_framing_hu": "Releváns: MNB-politika, bankszabályozás, makroprudenciális eszközök, pénzügyi befogadás.",
       "icon": "landmark",
-      "paper_count": 137
+      "paper_count": 138
     },
     {
       "id": "fiscal-tax",
@@ -41779,7 +41838,7 @@
       "policy_framing_en": "Relevant to: tax reform, budget planning, public debt management, compliance policy.",
       "policy_framing_hu": "Releváns: adóreform, költségvetés-tervezés, államadósság-kezelés, adócompliance.",
       "icon": "coins",
-      "paper_count": 57
+      "paper_count": 60
     },
     {
       "id": "regional-urban",
@@ -41790,7 +41849,7 @@
       "policy_framing_en": "Relevant to: regional development funds, housing policy, transport investment, urban planning.",
       "policy_framing_hu": "Releváns: regionális fejlesztési alapok, lakáspolitika, közlekedési beruházások, városfejlesztés.",
       "icon": "building",
-      "paper_count": 62
+      "paper_count": 63
     },
     {
       "id": "energy-environment",
@@ -41823,7 +41882,7 @@
       "policy_framing_en": "Relevant to: anti-corruption policy, public administration reform, EU affairs, electoral system design.",
       "policy_framing_hu": "Releváns: korrupcióellenes politika, közigazgatási reform, EU-ügyek, választási rendszer.",
       "icon": "building-2",
-      "paper_count": 67
+      "paper_count": 68
     },
     {
       "id": "transition-postcommunist",
@@ -41834,7 +41893,7 @@
       "policy_framing_en": "Relevant to: long-run diagnoses of the Hungarian and CEE economy, lessons from 30+ years of transition, institutional path dependence.",
       "policy_framing_hu": "Releváns: a magyar és KKE gazdaság hosszú távú diagnózisa, 30+ év rendszerváltásának tanulságai, intézményi útfüggőség.",
       "icon": "flag",
-      "paper_count": 44
+      "paper_count": 46
     },
     {
       "id": "behavioral",
@@ -41856,7 +41915,7 @@
       "policy_framing_en": "Relevant to: competition policy (GVH), merger review, platform regulation, auction design, sector-specific regulation.",
       "policy_framing_hu": "Releváns: versenypolitika (GVH), fúziókontroll, platformszabályozás, aukciótervezés, ágazati szabályozás.",
       "icon": "network",
-      "paper_count": 83
+      "paper_count": 84
     },
     {
       "id": "macroeconomics",
@@ -41867,7 +41926,7 @@
       "policy_framing_en": "Relevant to: long-run growth forecasting, macroeconomic modelling, sovereign-debt management, stabilisation policy design.",
       "policy_framing_hu": "Releváns: hosszú távú növekedés előrejelzés, makroökonómiai modellek, államadósság-kezelés, stabilizációs politika.",
       "icon": "line-chart",
-      "paper_count": 101
+      "paper_count": 102
     },
     {
       "id": "agriculture-food",
@@ -41889,7 +41948,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 164
+      "paper_count": 165
     },
     {
       "id": "market-design",

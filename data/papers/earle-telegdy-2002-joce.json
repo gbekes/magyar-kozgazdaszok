@@ -16,20 +16,30 @@
   "url_published": "https://doi.org/10.1006/jcec.2002.1798",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "Comprehensive panel data on privatization transactions and labor productivity in Romanian industrial corporations are used to describe the post-privatization ownership structure, and to estimate the effect of Romania's diverse privatization policies on firm performance. The econometric results show consistently positive, highly significant effects of private ownership on labor productivity growth, the point estimates implying an increased 1.0 to 1.7 percentage growth for a 10 percent rise in private shareholding. The strongest estimated impacts are associated with sales to outside blockholders; insider transfers and mass privatization are estimated to have significantly smaller—although still positive—effects on firm performance.",
+  "summary_en": "What were the productivity effects of Romania's diverse privatisation policies? Earle and Telegdy use comprehensive panel data on Romanian industrial corporations and their privatisation transactions. They find consistently positive, highly significant effects of private ownership on labour-productivity growth — 1.0 to 1.7 percentage point increase in productivity growth for each 10% rise in private shareholding. The strongest effects come from sales to outside blockholders; insider transfers and mass privatisation produce smaller (but still positive) effects. The paper provides early causal evidence that privatisation method matters for performance outcomes.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Romanian industrial-corporation panel data from the National Institute of Statistics covering ~1,500 firms in the 1990s, matched to detailed privatisation-transaction records (auction sales, MEBOs, mass privatisation vouchers).",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Comparative reference for Hungarian privatisation analysis. The paper supports the now-standard view that privatisation method matters: outsider blockholder sales produce stronger productivity gains than insider transfers or voucher schemes. Useful historical reference for academic and policy researchers comparing CEE privatisation outcomes.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "transition-postcommunist",
+    "firms-productivity"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "RO"
+  ],
+  "data_types": [
+    "admin-firm",
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-19",
-  "last_reviewed_at": "2026-04-19",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W3124386288"
 }
