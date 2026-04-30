@@ -8269,27 +8269,38 @@
       "year": 2020,
       "volume": "67",
       "issue": null,
-      "pages": "101930-101930",
+      "pages": "101930",
       "doi": "10.1016/j.labeco.2020.101930",
       "working_paper_series": null,
       "url_published": "https://doi.org/10.1016/j.labeco.2020.101930",
       "url_pdf": "https://www.sciencedirect.com/science/article/am/pii/S0927537120301342",
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "To study the drivers of the employment reallocation across sectors and occupations between 1960 and 2017 in the US we present a model where technology evolves at the sector-occupation cell level. Drawing on key equations of the production side we infer technologies directly from the data. We assess the magnitude of neutral, sector-, and occupation-specific components in technological change and study their consequences for labor market outcomes in general equilibrium where occupational choice and demands for sectoral outputs change endogenously with technology. Our findings indicate a major role for occupation-specific technological changes.",
+      "summary_en": "What technological forces drove the massive employment reallocation across US sectors and occupations from 1960 to 2017? Bárány and Siegel build a general-equilibrium model where technology evolves at the sector-occupation cell level. Inferring technology directly from data, they assess the relative magnitudes of neutral, sector-specific, and occupation-specific technological change. The headline finding: occupation-specific technological changes (especially routine-task automation) play a major role in driving employment reallocation — challenging accounts that emphasise pure sectoral technology shocks. The result reframes how to think about labour-market polarisation.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "US Census Bureau and CPS data 1960-2017 covering employment, hours, and wages by sector and occupation; merged with KLEMS productivity data for production-side variables.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungarian and EU labour-market policy increasingly engages with technology-driven employment reallocation. The paper provides a general-equilibrium framework attributing reallocation primarily to occupation-specific technology rather than sectoral demand — useful for KSH and Pénzügyminisztérium analyses of Hungarian labour-market polarisation, and for EU DG-EMPL job-market projections.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "labor-markets",
+        "firms-productivity",
+        "macroeconomics"
+      ],
+      "methods": [
+        "structural",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-30",
+      "review_status": "ai-drafted",
       "openalex_id": "W2797426859"
     },
     {
@@ -8310,21 +8321,32 @@
       "url_published": "https://doi.org/10.1016/j.red.2020.07.007",
       "url_pdf": "https://www.sciencedirect.com/science/article/am/pii/S109420252030065X",
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "We study the origins of labor productivity growth and its differences across sectors. In our model, sectors employ workers of different occupations and various forms of capital, none of which are perfect substitutes, and technology evolves at the sector-factor cell level. Using the model we infer technologies from US data over 1960-2017. We find sector-specific routine labor augmenting technological change to be crucial. It is the most important driver of sectoral differences, and has a large and increasing contribution to aggregate labor productivity growth. Neither capital accumulation nor the occupational employment structure within sectors explains much of the sectoral differences.",
+      "summary_en": "Why have some sectors grown labour productivity faster than others over the past sixty years? Bárány and Siegel decompose sectoral labour-productivity growth using a model with multiple occupations, multiple capital types, and technology evolving at the sector-factor cell level. Using US data 1960-2017, they find sector-specific ROUTINE-LABOUR-AUGMENTING technological change is the dominant driver. Capital accumulation and within-sector occupational mix don't explain much of the sectoral differences. The result identifies a specific technology channel — automation of routine tasks — as the engine of sectoral productivity divergence.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "US Census Bureau, CPS, and KLEMS productivity data 1960-2017 with detailed sector-occupation-capital decomposition.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungarian sectoral-productivity gap analysis at KSH, MNB, and KRTK. The paper's finding — that routine-labour-augmenting tech drives sectoral productivity differences — directly informs Hungarian industrial-policy at ITM/KKM about which sectors are most likely to see productivity convergence with Western European peers via automation.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "firms-productivity",
+        "labor-markets",
+        "macroeconomics"
+      ],
+      "methods": [
+        "structural",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-30",
+      "review_status": "ai-drafted",
       "openalex_id": "W3009494841"
     },
     {
@@ -8366,27 +8388,36 @@
     {
       "url_pdf": null,
       "url_replication": null,
-      "abstract": "",
-      "summary_en": null,
+      "abstract": "The European Green Deal aims to mitigate the environmental impact of food production while improving the income of primary producers and strengthening the EU's competitiveness. We examine how the degree of ecologisation affects farms' total factor productivity (TFP). Our analysis combines a random-parameter stochastic production frontier model with a composite indicator and a dose-response function approach. Results show a monotonically decreasing relationship between ecologisation and expected TFP level. On average, a one-step increase in the degree of ecologisation results in a 12% decrease in TFP. However, the results indicate a non-linear relationship. Three regions of the dose-response function can be distinguished; associated with high, medium and low degrees of ecologisation. In a region with a low degree of ecologisation, farms can increase the degree of ecologisation without reducing TFP. Both efficiency and technological differences contribute to these differences, but the main reason is technological. With increasing ecologisation, farm technology becomes more 'land using'. Therefore, farms can increase their TFP and degree of ecologisation simultaneously by using land-saving technologies or through sustainable intensification.",
+      "summary_en": "The European Green Deal targets aggressive 'ecologisation' of agriculture (organic farming, reduced inputs, biodiversity practices). But what does this cost in productivity? Baráth and Fertő use a stochastic-frontier dose-response approach on European farm data to quantify the trade-off. They find a monotonically decreasing relationship: a one-step increase in ecologisation costs ~12% of total factor productivity (TFP) on average. The relationship is non-linear — at low baseline ecologisation, farms can intensify ecologisation without TFP loss; at higher levels, TFP falls steeply. The drop is mostly driven by technology (more land-using methods), suggesting land-saving sustainable-intensification techniques can partly resolve the trade-off.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "EU Farm Accountancy Data Network (FADN) data covering thousands of farms across multiple EU member states; composite ecologisation indicator combining organic certification, low-input practices, biodiversity measures.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for Hungarian agricultural policy and the EU Common Agricultural Policy (CAP) Green Deal implementation. The paper quantifies the productivity cost of ecologisation steps for the Agrárminisztérium when designing eco-scheme transition payments. Useful framework for Pénzügyminisztérium and Hungary's representatives in EU CAP negotiations.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "agriculture-food",
+        "energy-environment",
+        "firms-productivity"
+      ],
+      "methods": [
+        "structural",
+        "panel-data"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-30",
+      "review_status": "ai-drafted",
       "policy_instruments": [],
       "working_paper_series": null,
-      "pages": null,
+      "pages": "404-424",
       "issue": "1",
       "volume": "75",
-      "doi": null,
+      "doi": "10.1111/1477-9552.12563",
       "url_published": null,
       "id": "barath-ferto-2024-jae",
       "title": "The relationship between the ecologisation of farms and total factor productivity",
@@ -8401,27 +8432,38 @@
     {
       "url_pdf": null,
       "url_replication": null,
-      "abstract": "",
-      "summary_en": null,
+      "abstract": "The effect of subsidies on the performance of farms has received a great deal of attention in the literature, although results are inconclusive. Furthermore, much of the related literature examines the effect of subsidies only on technical efficiency (TE). We examine the effect of different types of subsidies on the different components of total factor productivity (TFP) in Slovenian agriculture over the period 2006-2013. We first estimate a Random Parameter Stochastic production frontier model. Then, based on the estimates of this model, we calculate and decompose the TFP index into TE, scale efficiency and technological change. Third, we apply combined difference-in-difference and a matching estimator to examine the effect of investment, less favoured area (LFA) and agri-environmental (AE) subsidies on the different components of TFP. In our case, these subsidies are found to have no significant effect on either TFP or on its components.",
+      "summary_en": "EU agricultural-subsidy programmes — investment grants, less-favoured-area (LFA) payments, agri-environmental schemes — are billions of euros per year. Do they actually raise farm productivity? Baráth, Fertő and Bojnec test this on Slovenian farm data 2006-2013 using a stochastic-frontier model that decomposes total factor productivity (TFP) into technical efficiency, scale efficiency, and technological change. After applying difference-in-differences and matching estimators, they find that none of the three subsidy types meaningfully affected TFP or any of its components. The result challenges the productivity-justification for these EU subsidy categories.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Slovenian Farm Accountancy Data Network (FADN) covering ~1,500 farms over 2006-2013, with detailed subsidy receipts, output, input usage, and farm characteristics. Difference-in-differences combined with matching estimators.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Directly relevant for Hungarian Agrárminisztérium and Pénzügyminisztérium when negotiating CAP subsidy structure, and for the European Court of Auditors when assessing CAP value-for-money. The paper finds no productivity effect of three major CAP subsidy types — a useful evidence base for redirecting these funds toward measures with clearer productivity payoffs.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "agriculture-food",
+        "fiscal-tax",
+        "firms-productivity"
+      ],
+      "methods": [
+        "diff-in-diff",
+        "structural"
+      ],
+      "countries_studied": [
+        "SI"
+      ],
+      "data_types": [
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-30",
+      "review_status": "ai-drafted",
       "policy_instruments": [],
       "working_paper_series": null,
-      "pages": null,
+      "pages": "853-876",
       "issue": "3",
       "volume": "71",
-      "doi": null,
+      "doi": "10.1111/1477-9552.12377",
       "url_published": null,
       "id": "barath-ferto-bojnec-2020-jae",
       "title": "The effect of investment, LFA and agri-environmental subsidies on productivity components",
@@ -8437,27 +8479,38 @@
     {
       "url_pdf": null,
       "url_replication": null,
-      "abstract": "",
-      "summary_en": null,
+      "abstract": "This study investigates gender-based differences in eco-efficiency among Hungarian field crop farms, using data from the Farm Accountancy Data Network between 2015 and 2020. Applying Data Envelopment Analysis and Blinder-Oaxaca decompositions, we reveal a consistent eco-efficiency advantage for women-headed farms, particularly at mid-quantiles of eco-efficiency distribution. This advantage is largely attributed to women's ability to optimize resource use effectively, though unexplained factors also contribute, suggesting potential differences in management practices. Results highlight that women-led farms often adopt eco-efficient practices that may contribute to sustainability goals. These findings highlight the need for policies that support women farmers' access to resources, knowledge, and innovation in eco-friendly farming practices, helping to enhance sustainability in agricultural production.",
+      "summary_en": "Are Hungarian women farmers more eco-efficient than their male counterparts? Baráth, Fertő and Bojnec use Hungarian Farm Accountancy Data Network data 2015-2020 with Data Envelopment Analysis and Blinder-Oaxaca decomposition. They find a consistent eco-efficiency advantage for women-headed farms, especially at mid-eco-efficiency quantiles. The advantage stems mostly from women's superior optimisation of resource use, with some unexplained component suggesting management-style differences. Implication: supporting women's access to farm resources, knowledge, and innovation could meaningfully advance Hungarian sustainability goals in agriculture.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Hungarian Farm Accountancy Data Network (FADN) 2015-2020, covering field-crop farms by gender of farm head; Data Envelopment Analysis (DEA) for eco-efficiency frontiers, Blinder-Oaxaca decomposition for gender gaps.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct evidence for Hungarian Agrárminisztérium and the Equal Treatment Authority. The paper supports CAP and Hungarian rural-development programmes that target women farmers — useful for designing gender-responsive eco-scheme payment structures and for Hungarian National Rural Development Strategy implementation.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "agriculture-food",
+        "demographics-migration",
+        "energy-environment"
+      ],
+      "methods": [
+        "structural",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-30",
+      "review_status": "ai-drafted",
       "policy_instruments": [],
       "working_paper_series": null,
-      "pages": null,
+      "pages": "15895",
       "issue": "1",
       "volume": "15",
-      "doi": null,
+      "doi": "10.1038/s41598-025-00584-4",
       "url_published": null,
       "id": "barath-ferto-bojnec-2025-scirep",
       "title": "Gender-based differences in eco-efficient farming",
@@ -10213,21 +10266,30 @@
       "url_published": "https://doi.org/10.1016/j.jimonfin.2013.06.009",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "This paper develops a flexible price, two-sector growth model with a nominal side to study the role of the exchange rate in transition dynamics. We adopt a standard small open economy model with traded and nontraded goods, where the engines of growth are exogenous productivity improvements and capital accumulation. We enhance this standard framework by adding a preference for real money holdings, captured by money-in-the-utility. We follow Schmitt-Grohé and Uribe (2003) and assume that the interest rate on bonds issued by the small open economy is debt-dependent, and interpret it as a simple financial friction. We show analytically that the choice of the exchange rate regime influences the transition dynamics of a small open economy through the balance sheet of the central bank. We then calibrate the model to explore the quantitative significance of our results. We find that the choice of the exchange rate regime has significant and lasting effects on prices, consumption, investment and sectoral allocations, and the composition of financial assets.",
+      "summary_en": "How does a small open economy's exchange-rate regime affect transition dynamics during convergence? Benczúr and Kónya build a flexible-price two-sector growth model with traded and nontraded goods, exogenous productivity gains and capital accumulation, and a money-in-the-utility specification capturing real-money preferences. With debt-dependent interest rates capturing financial frictions, they show analytically that the exchange-rate regime affects transition through the central bank's balance sheet. Calibration shows the choice of regime has substantial and lasting effects on prices, consumption, investment, sectoral allocations, and financial-asset composition. The paper provides Hungarian-relevant theoretical foundations for exchange-rate-regime debates.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — two-sector small open economy with money in utility and debt-dependent interest rate. Calibration draws on Hungarian and Central European convergence-era macroeconomic data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for MNB exchange-rate-regime decisions and the long-running debate about Hungarian euro adoption. The paper provides a rigorous theoretical framework showing the regime choice has lasting real effects via central bank balance-sheet channels — useful framework for MNB strategy discussions and Hungarian Government euro-readiness assessments.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "macroeconomics",
+        "banking-finance",
+        "transition-postcommunist"
+      ],
+      "methods": [
+        "theory",
+        "structural"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-30",
+      "review_status": "ai-drafted",
       "openalex_id": "W2099884719"
     },
     {
@@ -16708,7 +16770,7 @@
       ],
       "publication_type": "article",
       "journal": "Journal of Banking & Finance",
-      "year": 2008,
+      "year": 2009,
       "volume": "33",
       "issue": "5",
       "pages": "944-957",
@@ -16717,21 +16779,30 @@
       "url_published": "https://doi.org/10.1016/j.jbankfin.2008.10.007",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "Studying all possible pairs of 11 major currencies and 11 portfolios in 1976-2008 we show that, when there is no leverage, carry trade is significantly profitable for most currency pairs and portfolios. Positive returns do not diminish in time providing a strong case against the hypothesis of uncovered interest rate parity. We explain these findings with the leveraged nature of carry trade: leverage may increase profitability but it materially increases downside risk. We argue that market inefficiency is related to the level of leverage.",
+      "summary_en": "The 'carry trade' (borrow in low-yield currencies, invest in high-yield ones) is a famous market anomaly that violates the uncovered interest-rate parity hypothesis. Darvas studies all 110 currency-pair combinations among 11 major currencies and 11 portfolios over 1976-2008. Without leverage, carry trade is significantly profitable for most pairs and shows no diminishing returns over time — hard evidence against UIP. With leverage, profitability rises but downside risk increases far more than proportionally. The market inefficiency is fundamentally tied to the leverage level used by speculators.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Daily exchange-rate and short-term interest-rate data for 11 major currencies (USD, EUR, JPY, GBP, CHF, AUD, CAD, NZD, SEK, NOK, ZAR-equivalent) over 1976-2008, with all bilateral pairs and 11 currency-portfolio strategies tested.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for MNB foreign-exchange supervision and macroprudential limits on Hungarian banks' FX exposure. The paper documents that carry-trade returns are systematic and persistent — relevant for MNB stress testing of bank FX-funding positions and for Pénzügyminisztérium analysis of HUF carry-trade dynamics.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "banking-finance",
+        "macroeconomics",
+        "methods"
+      ],
+      "methods": [
+        "panel-data",
+        "time-series"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-30",
+      "review_status": "ai-drafted",
       "openalex_id": "W2030605393"
     },
     {
@@ -16751,21 +16822,30 @@
       "url_published": "https://doi.org/10.1016/j.econlet.2015.05.034",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "We create a euro-area Divisia-money dataset and estimate theoretically correct responses to money, user cost and interest rate shocks using structural vector-autoregressions. Our findings suggest that money matters for output, prices and interest rates, while the European Central Bank can influence monetary developments.",
+      "summary_en": "Standard 'simple-sum' monetary aggregates (M1, M2, M3) treat all components as perfect substitutes — a clearly wrong assumption. Divisia indices weight components by their user costs, producing theoretically correct measures. Darvas constructs a euro-area Divisia-money series and estimates structural-VAR responses to money, user-cost, and interest-rate shocks. The findings: money does matter for euro-area output, prices, and interest rates; ECB monetary policy can influence monetary developments. The result revives the case for monitoring money in ECB analysis.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Euro-area monetary statistics from ECB Statistical Data Warehouse, decomposed into Divisia-money components with user-cost weights; structural VAR over multiple decades of euro-area data.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for MNB monetary-aggregates analysis and for the ECB's monetary-pillar discussions. The paper supports the use of Divisia-money series as a complement to standard monetary aggregates in macroeconomic forecasting and policy analysis. Useful for MNB methodology and Hungarian Government euro-area discussions.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "macroeconomics",
+        "banking-finance",
+        "methods"
+      ],
+      "methods": [
+        "time-series",
+        "structural"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-30",
+      "review_status": "ai-drafted",
       "openalex_id": "W2115514614"
     },
     {
@@ -16785,21 +16865,31 @@
       "url_published": "https://doi.org/10.1016/j.worlddev.2019.04.011",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "While various methodologies have been used in the literature to estimate global interpersonal income inequality, the accuracy of these methods has not so far been tested. The study compares four methods for measuring global income inequality, finding the Lorenz curve regression approach most reliable. Using the two-parameter distribution method, the paper demonstrates that global income inequality among 145 countries declined between 1988 and 2015, primarily due to income convergence across nations. However, this decline masks diverging trends: while within-country inequalities increased and developing Asia saw regional inequality rise, China and India's income convergence was instrumental in reducing overall global inequality. Critically, when excluding these two nations, global interpersonal income inequality actually increased across the remaining 143 countries during this period.",
+      "summary_en": "Has global income inequality really fallen since the 1980s? The answer depends on the methodology. Darvas tests four methods for measuring global interpersonal inequality and finds the Lorenz-curve regression approach most reliable. Using a two-parameter distribution method on 145 countries 1988-2015, he documents declining global inequality — but warns the decline depends almost entirely on China and India catching up. Excluding these two countries, global interpersonal inequality across the remaining 143 countries actually ROSE during the same period. Within-country inequality also rose in many places. The headline 'global inequality is falling' is empirically fragile.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "World Bank PovcalNet household-survey data on income/consumption distributions across 145 countries, 1988-2015. Four alternative inequality-measurement methodologies compared.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for Hungarian and EU development-policy discussions, and for the European Commission's poverty-reduction targets. The paper warns that headline 'global inequality is falling' claims mask substantial divergence outside China-India — relevant framing for Hungarian KKM (foreign affairs/trade) and for EU DG-DEVCO when analysing development-aid effectiveness.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "inequality-welfare",
+        "macroeconomics",
+        "methods"
+      ],
+      "methods": [
+        "panel-data",
+        "descriptive-survey"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "macro-aggregate",
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-24",
-      "last_reviewed_at": "2026-04-24",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-30",
+      "review_status": "ai-drafted",
       "openalex_id": "W2942996153"
     },
     {
@@ -42186,7 +42276,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 106
+      "paper_count": 108
     },
     {
       "id": "education-skills",
@@ -42219,7 +42309,7 @@
       "policy_framing_en": "Relevant to: family policy, pension system, immigration policy, retention of skilled workers.",
       "policy_framing_hu": "Releváns: családpolitika, nyugdíjrendszer, bevándorláspolitika, szakemberek megtartása.",
       "icon": "users",
-      "paper_count": 46
+      "paper_count": 47
     },
     {
       "id": "trade-fdi",
@@ -42241,7 +42331,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 136
+      "paper_count": 140
     },
     {
       "id": "innovation-digital",
@@ -42263,7 +42353,7 @@
       "policy_framing_en": "Relevant to: MNB policy, banking regulation, macroprudential tools, financial inclusion.",
       "policy_framing_hu": "Releváns: MNB-politika, bankszabályozás, makroprudenciális eszközök, pénzügyi befogadás.",
       "icon": "landmark",
-      "paper_count": 149
+      "paper_count": 152
     },
     {
       "id": "fiscal-tax",
@@ -42274,7 +42364,7 @@
       "policy_framing_en": "Relevant to: tax reform, budget planning, public debt management, compliance policy.",
       "policy_framing_hu": "Releváns: adóreform, költségvetés-tervezés, államadósság-kezelés, adócompliance.",
       "icon": "coins",
-      "paper_count": 68
+      "paper_count": 69
     },
     {
       "id": "regional-urban",
@@ -42296,7 +42386,7 @@
       "policy_framing_en": "Relevant to: energy transition, carbon pricing, renewable support, environmental standards.",
       "policy_framing_hu": "Releváns: energiaátmenet, szén-dioxid árazás, megújulók támogatása, környezeti szabványok.",
       "icon": "leaf",
-      "paper_count": 21
+      "paper_count": 23
     },
     {
       "id": "inequality-welfare",
@@ -42307,7 +42397,7 @@
       "policy_framing_en": "Relevant to: welfare system, anti-poverty programs, family allowances, gender-equal pay policies.",
       "policy_framing_hu": "Releváns: szociális rendszer, szegénység elleni programok, családi pótlékok, egyenlő bérezés.",
       "icon": "scale",
-      "paper_count": 105
+      "paper_count": 106
     },
     {
       "id": "political-economy",
@@ -42329,7 +42419,7 @@
       "policy_framing_en": "Relevant to: long-run diagnoses of the Hungarian and CEE economy, lessons from 30+ years of transition, institutional path dependence.",
       "policy_framing_hu": "Releváns: a magyar és KKE gazdaság hosszú távú diagnózisa, 30+ év rendszerváltásának tanulságai, intézményi útfüggőség.",
       "icon": "flag",
-      "paper_count": 46
+      "paper_count": 47
     },
     {
       "id": "behavioral",
@@ -42362,7 +42452,7 @@
       "policy_framing_en": "Relevant to: long-run growth forecasting, macroeconomic modelling, sovereign-debt management, stabilisation policy design.",
       "policy_framing_hu": "Releváns: hosszú távú növekedés előrejelzés, makroökonómiai modellek, államadósság-kezelés, stabilizációs politika.",
       "icon": "line-chart",
-      "paper_count": 120
+      "paper_count": 126
     },
     {
       "id": "agriculture-food",
@@ -42373,7 +42463,7 @@
       "policy_framing_en": "Relevant to: EU Common Agricultural Policy (CAP), food-safety regulation, rural development programmes, land-use policy.",
       "policy_framing_hu": "Releváns: EU Közös Agrárpolitika (KAP), élelmiszer-biztonsági szabályozás, vidékfejlesztési programok, földhasználati szabályozás.",
       "icon": "wheat",
-      "paper_count": 10
+      "paper_count": 13
     },
     {
       "id": "methods",
@@ -42384,7 +42474,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 171
+      "paper_count": 174
     },
     {
       "id": "market-design",

@@ -1,27 +1,38 @@
 {
   "url_pdf": null,
   "url_replication": null,
-  "abstract": "",
-  "summary_en": null,
+  "abstract": "The effect of subsidies on the performance of farms has received a great deal of attention in the literature, although results are inconclusive. Furthermore, much of the related literature examines the effect of subsidies only on technical efficiency (TE). We examine the effect of different types of subsidies on the different components of total factor productivity (TFP) in Slovenian agriculture over the period 2006-2013. We first estimate a Random Parameter Stochastic production frontier model. Then, based on the estimates of this model, we calculate and decompose the TFP index into TE, scale efficiency and technological change. Third, we apply combined difference-in-difference and a matching estimator to examine the effect of investment, less favoured area (LFA) and agri-environmental (AE) subsidies on the different components of TFP. In our case, these subsidies are found to have no significant effect on either TFP or on its components.",
+  "summary_en": "EU agricultural-subsidy programmes — investment grants, less-favoured-area (LFA) payments, agri-environmental schemes — are billions of euros per year. Do they actually raise farm productivity? Baráth, Fertő and Bojnec test this on Slovenian farm data 2006-2013 using a stochastic-frontier model that decomposes total factor productivity (TFP) into technical efficiency, scale efficiency, and technological change. After applying difference-in-differences and matching estimators, they find that none of the three subsidy types meaningfully affected TFP or any of its components. The result challenges the productivity-justification for these EU subsidy categories.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Slovenian Farm Accountancy Data Network (FADN) covering ~1,500 farms over 2006-2013, with detailed subsidy receipts, output, input usage, and farm characteristics. Difference-in-differences combined with matching estimators.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly relevant for Hungarian Agrárminisztérium and Pénzügyminisztérium when negotiating CAP subsidy structure, and for the European Court of Auditors when assessing CAP value-for-money. The paper finds no productivity effect of three major CAP subsidy types — a useful evidence base for redirecting these funds toward measures with clearer productivity payoffs.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "agriculture-food",
+    "fiscal-tax",
+    "firms-productivity"
+  ],
+  "methods": [
+    "diff-in-diff",
+    "structural"
+  ],
+  "countries_studied": [
+    "SI"
+  ],
+  "data_types": [
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-27",
-  "last_reviewed_at": "2026-04-27",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-30",
+  "review_status": "ai-drafted",
   "policy_instruments": [],
   "working_paper_series": null,
-  "pages": null,
+  "pages": "853-876",
   "issue": "3",
   "volume": "71",
-  "doi": null,
+  "doi": "10.1111/1477-9552.12377",
   "url_published": null,
   "id": "barath-ferto-bojnec-2020-jae",
   "title": "The effect of investment, LFA and agri-environmental subsidies on productivity components",

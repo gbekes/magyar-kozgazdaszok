@@ -16,20 +16,29 @@
   "url_published": "https://doi.org/10.1016/j.jimonfin.2013.06.009",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "This paper develops a flexible price, two-sector growth model with a nominal side to study the role of the exchange rate in transition dynamics. We adopt a standard small open economy model with traded and nontraded goods, where the engines of growth are exogenous productivity improvements and capital accumulation. We enhance this standard framework by adding a preference for real money holdings, captured by money-in-the-utility. We follow Schmitt-Grohé and Uribe (2003) and assume that the interest rate on bonds issued by the small open economy is debt-dependent, and interpret it as a simple financial friction. We show analytically that the choice of the exchange rate regime influences the transition dynamics of a small open economy through the balance sheet of the central bank. We then calibrate the model to explore the quantitative significance of our results. We find that the choice of the exchange rate regime has significant and lasting effects on prices, consumption, investment and sectoral allocations, and the composition of financial assets.",
+  "summary_en": "How does a small open economy's exchange-rate regime affect transition dynamics during convergence? Benczúr and Kónya build a flexible-price two-sector growth model with traded and nontraded goods, exogenous productivity gains and capital accumulation, and a money-in-the-utility specification capturing real-money preferences. With debt-dependent interest rates capturing financial frictions, they show analytically that the exchange-rate regime affects transition through the central bank's balance sheet. Calibration shows the choice of regime has substantial and lasting effects on prices, consumption, investment, sectoral allocations, and financial-asset composition. The paper provides Hungarian-relevant theoretical foundations for exchange-rate-regime debates.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model — two-sector small open economy with money in utility and debt-dependent interest rate. Calibration draws on Hungarian and Central European convergence-era macroeconomic data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for MNB exchange-rate-regime decisions and the long-running debate about Hungarian euro adoption. The paper provides a rigorous theoretical framework showing the regime choice has lasting real effects via central bank balance-sheet channels — useful framework for MNB strategy discussions and Hungarian Government euro-readiness assessments.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "macroeconomics",
+    "banking-finance",
+    "transition-postcommunist"
+  ],
+  "methods": [
+    "theory",
+    "structural"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-30",
+  "review_status": "ai-drafted",
   "openalex_id": "W2099884719"
 }

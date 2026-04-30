@@ -16,20 +16,31 @@
   "url_published": "https://doi.org/10.1016/j.red.2020.07.007",
   "url_pdf": "https://www.sciencedirect.com/science/article/am/pii/S109420252030065X",
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "We study the origins of labor productivity growth and its differences across sectors. In our model, sectors employ workers of different occupations and various forms of capital, none of which are perfect substitutes, and technology evolves at the sector-factor cell level. Using the model we infer technologies from US data over 1960-2017. We find sector-specific routine labor augmenting technological change to be crucial. It is the most important driver of sectoral differences, and has a large and increasing contribution to aggregate labor productivity growth. Neither capital accumulation nor the occupational employment structure within sectors explains much of the sectoral differences.",
+  "summary_en": "Why have some sectors grown labour productivity faster than others over the past sixty years? Bárány and Siegel decompose sectoral labour-productivity growth using a model with multiple occupations, multiple capital types, and technology evolving at the sector-factor cell level. Using US data 1960-2017, they find sector-specific ROUTINE-LABOUR-AUGMENTING technological change is the dominant driver. Capital accumulation and within-sector occupational mix don't explain much of the sectoral differences. The result identifies a specific technology channel — automation of routine tasks — as the engine of sectoral productivity divergence.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "US Census Bureau, CPS, and KLEMS productivity data 1960-2017 with detailed sector-occupation-capital decomposition.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungarian sectoral-productivity gap analysis at KSH, MNB, and KRTK. The paper's finding — that routine-labour-augmenting tech drives sectoral productivity differences — directly informs Hungarian industrial-policy at ITM/KKM about which sectors are most likely to see productivity convergence with Western European peers via automation.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "firms-productivity",
+    "labor-markets",
+    "macroeconomics"
+  ],
+  "methods": [
+    "structural",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-30",
+  "review_status": "ai-drafted",
   "openalex_id": "W3009494841"
 }

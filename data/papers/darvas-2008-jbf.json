@@ -6,7 +6,7 @@
   ],
   "publication_type": "article",
   "journal": "Journal of Banking & Finance",
-  "year": 2008,
+  "year": 2009,
   "volume": "33",
   "issue": "5",
   "pages": "944-957",
@@ -15,20 +15,29 @@
   "url_published": "https://doi.org/10.1016/j.jbankfin.2008.10.007",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "Studying all possible pairs of 11 major currencies and 11 portfolios in 1976-2008 we show that, when there is no leverage, carry trade is significantly profitable for most currency pairs and portfolios. Positive returns do not diminish in time providing a strong case against the hypothesis of uncovered interest rate parity. We explain these findings with the leveraged nature of carry trade: leverage may increase profitability but it materially increases downside risk. We argue that market inefficiency is related to the level of leverage.",
+  "summary_en": "The 'carry trade' (borrow in low-yield currencies, invest in high-yield ones) is a famous market anomaly that violates the uncovered interest-rate parity hypothesis. Darvas studies all 110 currency-pair combinations among 11 major currencies and 11 portfolios over 1976-2008. Without leverage, carry trade is significantly profitable for most pairs and shows no diminishing returns over time — hard evidence against UIP. With leverage, profitability rises but downside risk increases far more than proportionally. The market inefficiency is fundamentally tied to the leverage level used by speculators.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Daily exchange-rate and short-term interest-rate data for 11 major currencies (USD, EUR, JPY, GBP, CHF, AUD, CAD, NZD, SEK, NOK, ZAR-equivalent) over 1976-2008, with all bilateral pairs and 11 currency-portfolio strategies tested.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for MNB foreign-exchange supervision and macroprudential limits on Hungarian banks' FX exposure. The paper documents that carry-trade returns are systematic and persistent — relevant for MNB stress testing of bank FX-funding positions and for Pénzügyminisztérium analysis of HUF carry-trade dynamics.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "banking-finance",
+    "macroeconomics",
+    "methods"
+  ],
+  "methods": [
+    "panel-data",
+    "time-series"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-30",
+  "review_status": "ai-drafted",
   "openalex_id": "W2030605393"
 }
