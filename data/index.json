@@ -13693,20 +13693,25 @@
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Science aspires to be cumulative. Reproducibility efforts strengthen science by testing the reliability of published findings, promoting self-correction, and informing policy-making. Computational reproductions, whereby independent researchers reproduce the results of published studies, are an essential diagnostic tool. Such efforts should have greater visibility. However, little social science reproduction and robustness has been conducted at scale. Here we reproduced original analyses and conducted robustness checks of 110 articles that were published in leading economics and political science journals with mandatory data and code sharing policies. We found that more than 85% of published claims were computationally reproducible. In robustness checks, our reanalyses showed that 72% of statistically significant estimates remain significant and in the same direction, and the median reproduced effect size is nearly the same as the originally published effect size (that is, 99% of the published effect size). Additionally, 6 independent research teams examined 12 pre-specified hypotheses about determinants of robustness. Research teams with more experience found lower levels of robustness, and robustness did not correlate with author characteristics or data availability.",
-      "summary_en": null,
+      "summary_en": "How reproducible are top economics and political-science papers? Brodeur and a large multi-author team — including Hungarian Attila Gáspár — reproduced the original analyses and ran robustness checks on 110 articles in leading journals. The paper documents systematic patterns in computational reproducibility (most articles can be reproduced from posted code/data, but with notable exceptions) and in robustness (results are typically less robust than the published reporting suggests). The finding informs replication and registration policy in social-science research and the broader effort to strengthen scientific self-correction.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "110 articles published in leading economics and political-science journals; for each, the original code/data were re-run and a battery of robustness checks applied. Effort coordinated through the Institute for Replication.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for Hungarian and EU research-evaluation policy at MAB (Hungarian Accreditation Committee), NRDI Office, KSH research-quality standards, and the European Commission DG-RTD. The paper provides a quantitative baseline for the reliability of social-science evidence — useful framework for designing reproducibility-incentive policies in Hungarian research funding.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "methods",
+        "political-economy"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-28",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-30",
+      "review_status": "ai-drafted",
       "policy_instruments": [],
       "working_paper_series": null,
       "pages": null,
@@ -18274,7 +18279,7 @@
       ],
       "publication_type": "article",
       "journal": "Journal of Banking & Finance",
-      "year": 2005,
+      "year": 2006,
       "volume": "30",
       "issue": "5",
       "pages": "1359-1374",
@@ -18283,21 +18288,30 @@
       "url_published": "https://doi.org/10.1016/j.jbankfin.2005.07.001",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "This paper analyses the ever-growing literature on equilibrium exchange rates in the new EU member states of Central and Eastern Europe in a quantitative manner using meta-regression analysis. The results indicate that the real misalignments reported in the literature are systematically influenced, inter alia, by the underlying theoretical concepts (Balassa-Samuelson effect, Behavioural Equilibrium Exchange Rate, Fundamental Equilibrium Exchange Rate) and by the econometric estimation methods. The important implication of these findings is that a systematic analysis is needed in terms of both alternative economic and econometric specifications to assess equilibrium exchange rates.",
+      "summary_en": "How much do equilibrium exchange-rate estimates for Central and Eastern European EU member states actually vary across studies, and why? Égert and Halpern apply meta-regression analysis to a large literature comparing real-misalignment estimates. They find that reported misalignments are systematically influenced by both the underlying theoretical concept (Balassa-Samuelson, Behavioural Equilibrium Exchange Rate, Fundamental Equilibrium Exchange Rate) and the econometric estimation method. The implication: any single estimate of CEE equilibrium exchange rates is fragile, and a systematic robustness analysis across alternative theory-method combinations is needed for credible misalignment assessment.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Meta-regression analysis of 60+ empirical studies on equilibrium exchange rates in Central and Eastern European EU member states (Hungary, Poland, Czechia, Slovakia, Slovenia, Estonia, Latvia, Lithuania), covering both BEER, FEER, and Balassa-Samuelson approaches.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for MNB exchange-rate-monitoring methodology and Hungarian Government euro-readiness assessments. The paper warns that equilibrium-exchange-rate estimates are model-sensitive — useful caution for MNB strategy discussions and for the European Commission's CEE convergence reports.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "macroeconomics",
+        "banking-finance",
+        "transition-postcommunist"
+      ],
+      "methods": [
+        "panel-data",
+        "structural"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-22",
-      "last_reviewed_at": "2026-04-22",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-30",
+      "review_status": "ai-drafted",
       "openalex_id": "W3123665960"
     },
     {
@@ -18658,27 +18672,37 @@
     {
       "url_pdf": null,
       "url_replication": null,
-      "abstract": "",
-      "summary_en": null,
+      "abstract": "This paper assesses the network robustness of the technological capability base of 269 European metropolitan areas against the potential elimination of some of their capabilities. By doing so it provides systematic evidence on how network robustness conditioned the economic resilience of these regions in the context of the 2008 economic crisis. The analysis concerns calls in the relevant literature for more in-depth analysis on the link between regional economic network structures and the resilience of regions to economic shocks. By adopting a network science approach that is novel to economic geographic inquiry, the objective is to stress-test the technological resilience of regions by utilizing information on the co-classification of CPC classes listed on European Patent Office patent documents. Findings from a regression analysis indicate that metropolitan regions with a more robust technological knowledge network structure exhibit higher levels of resilience with respect to changes in employment rates. Regions with high levels of employment in industry but with vulnerable technological capability base are particularly challenged by this aspect of regional economic resilience.",
+      "summary_en": "How does the network structure of regional technological capabilities affect economic resilience to crises? Tóth, Elekes, Whittle, Lee and Kogler analyse 269 European metropolitan areas using EPO patent CPC-class co-classification data, applying network-science 'stress tests' that simulate elimination of technological capabilities. Regions with more robust technological-knowledge network structure showed higher economic resilience (employment-rate stability) during the 2008 crisis, robust to random and targeted elimination strategies. Regions with high industrial employment but fragile technological networks are particularly vulnerable.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "European Patent Office (EPO) patent metadata for ~269 European NUTS-3 metropolitan areas, with CPC-class co-classification networks; regional employment and economic-resilience measures from Eurostat, covering 2007-2014 (the crisis and recovery period).",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for Hungarian regional-development policy and EU Cohesion Fund investments. The paper provides a network-based diagnostic tool for assessing which Hungarian regions have technologically resilient versus fragile capability bases — useful for ITM and Pénzügyminisztérium when allocating regional R&D and innovation funding to maximize crisis resilience.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "regional-urban",
+        "innovation-digital",
+        "firms-productivity"
+      ],
+      "methods": [
+        "panel-data",
+        "structural"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "digital-trace",
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-30",
+      "review_status": "ai-drafted",
       "policy_instruments": [],
       "working_paper_series": null,
-      "pages": null,
-      "issue": null,
-      "volume": null,
-      "doi": null,
+      "pages": "355-378",
+      "issue": "4",
+      "volume": "98",
+      "doi": "10.1080/00130095.2022.2035715",
       "url_published": null,
       "id": "elekes-stojkoski-et-al-2022-eg",
       "title": "Technology Network Structure Conditions the Economic Resilience of Regions",
@@ -21378,29 +21402,42 @@
       "publication_type": "article",
       "journal": "Journal of Development Economics",
       "year": 2025,
-      "volume": null,
+      "volume": "177",
       "issue": null,
-      "pages": null,
+      "pages": "103526",
       "doi": "10.1016/j.jdeveco.2025.103459",
       "working_paper_series": null,
       "url_published": "https://www.sciencedirect.com/science/article/pii/S030438782500077X",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "This paper shows that corruption generates extremism, but mainly on the opposition side. While corruption hurts all citizens, only voters on the minority side may desire to switch to a more extreme representative when they perceive a more corrupt political system. In our model, campaigning on a corruption scandal against the incumbent gives a higher winning probability for the opposition politician but simultaneously reduces expected future rents from office. As extremist politicians normally are less likely to win against a moderate opponent, they have a stronger incentive to take a stand against corruption. Given that the side of the political minority has a lower chance of having their representative elected to office, they face a smaller opportunity cost of voting for extremists. Our main result is that minorities are more likely to react to corruption with more extremism. We provide causal evidence for this novel asymmetric prediction from Indonesia and Brazil.",
+      "summary_en": "Does corruption fuel political extremism, and if so on which side of the political spectrum? Gáspár, Giommoni, Morelli and Nicolò develop a model where extremist politicians, who normally lose to moderates, have stronger incentives to campaign against corruption — and minority voters, with lower opportunity cost of supporting an unlikely winner, are more responsive. The prediction: corruption raises political extremism, but mainly on the OPPOSITION/minority side. They provide causal evidence from Indonesia and Brazil. The asymmetric prediction is novel and helps explain why anti-corruption movements often produce extremist insurgent parties rather than moderate reform.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Indonesian and Brazilian electoral data with corruption-scandal occurrence (audit-based corruption measures in Brazil; reform-era Indonesian politicians' corruption convictions), at the local-government level over multiple election cycles.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Highly relevant for Hungarian political-economy analysis. The paper provides causal evidence that corruption generates extremism mainly on the political minority side — useful framework for European Commission rule-of-law conditionality discussions, GVH/ÁSZ corruption-monitoring impact assessments, and academic analysis of Hungarian politics during the post-2010 period.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "political-economy",
+        "behavioral",
+        "fiscal-tax"
+      ],
+      "methods": [
+        "theory",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "ID",
+        "BR"
+      ],
+      "data_types": [
+        "macro-aggregate",
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-25",
-      "last_reviewed_at": "2026-04-25",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-30",
+      "review_status": "ai-drafted",
       "openalex_id": null
     },
     {
@@ -42331,7 +42368,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 140
+      "paper_count": 141
     },
     {
       "id": "innovation-digital",
@@ -42342,7 +42379,7 @@
       "policy_framing_en": "Relevant to: R&D tax credits, digital strategy, AI policy, innovation agency design, university–industry linkages.",
       "policy_framing_hu": "Releváns: K+F adókedvezmények, digitális stratégia, MI-politika, innovációs ügynökségek, egyetem–ipar kapcsolatok.",
       "icon": "cpu",
-      "paper_count": 60
+      "paper_count": 61
     },
     {
       "id": "banking-finance",
@@ -42353,7 +42390,7 @@
       "policy_framing_en": "Relevant to: MNB policy, banking regulation, macroprudential tools, financial inclusion.",
       "policy_framing_hu": "Releváns: MNB-politika, bankszabályozás, makroprudenciális eszközök, pénzügyi befogadás.",
       "icon": "landmark",
-      "paper_count": 152
+      "paper_count": 153
     },
     {
       "id": "fiscal-tax",
@@ -42364,7 +42401,7 @@
       "policy_framing_en": "Relevant to: tax reform, budget planning, public debt management, compliance policy.",
       "policy_framing_hu": "Releváns: adóreform, költségvetés-tervezés, államadósság-kezelés, adócompliance.",
       "icon": "coins",
-      "paper_count": 69
+      "paper_count": 70
     },
     {
       "id": "regional-urban",
@@ -42375,7 +42412,7 @@
       "policy_framing_en": "Relevant to: regional development funds, housing policy, transport investment, urban planning.",
       "policy_framing_hu": "Releváns: regionális fejlesztési alapok, lakáspolitika, közlekedési beruházások, városfejlesztés.",
       "icon": "building",
-      "paper_count": 65
+      "paper_count": 66
     },
     {
       "id": "energy-environment",
@@ -42408,7 +42445,7 @@
       "policy_framing_en": "Relevant to: anti-corruption policy, public administration reform, EU affairs, electoral system design.",
       "policy_framing_hu": "Releváns: korrupcióellenes politika, közigazgatási reform, EU-ügyek, választási rendszer.",
       "icon": "building-2",
-      "paper_count": 73
+      "paper_count": 75
     },
     {
       "id": "transition-postcommunist",
@@ -42419,7 +42456,7 @@
       "policy_framing_en": "Relevant to: long-run diagnoses of the Hungarian and CEE economy, lessons from 30+ years of transition, institutional path dependence.",
       "policy_framing_hu": "Releváns: a magyar és KKE gazdaság hosszú távú diagnózisa, 30+ év rendszerváltásának tanulságai, intézményi útfüggőség.",
       "icon": "flag",
-      "paper_count": 47
+      "paper_count": 48
     },
     {
       "id": "behavioral",
@@ -42430,7 +42467,7 @@
       "policy_framing_en": "Relevant to: consumer protection, pension-default design, nudging, financial-education regulation, addictive-product regulation.",
       "policy_framing_hu": "Releváns: fogyasztóvédelem, nyugdíjalap-alapbeállítások, döntéslendítés (nudge), pénzügyi edukáció szabályozása, függőséget okozó termékek szabályozása.",
       "icon": "brain",
-      "paper_count": 122
+      "paper_count": 123
     },
     {
       "id": "industrial-organization",
@@ -42452,7 +42489,7 @@
       "policy_framing_en": "Relevant to: long-run growth forecasting, macroeconomic modelling, sovereign-debt management, stabilisation policy design.",
       "policy_framing_hu": "Releváns: hosszú távú növekedés előrejelzés, makroökonómiai modellek, államadósság-kezelés, stabilizációs politika.",
       "icon": "line-chart",
-      "paper_count": 126
+      "paper_count": 127
     },
     {
       "id": "agriculture-food",
@@ -42474,7 +42511,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 174
+      "paper_count": 175
     },
     {
       "id": "market-design",

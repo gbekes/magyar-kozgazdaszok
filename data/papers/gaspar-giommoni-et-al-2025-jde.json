@@ -10,28 +10,41 @@
   "publication_type": "article",
   "journal": "Journal of Development Economics",
   "year": 2025,
-  "volume": null,
+  "volume": "177",
   "issue": null,
-  "pages": null,
+  "pages": "103526",
   "doi": "10.1016/j.jdeveco.2025.103459",
   "working_paper_series": null,
   "url_published": "https://www.sciencedirect.com/science/article/pii/S030438782500077X",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "This paper shows that corruption generates extremism, but mainly on the opposition side. While corruption hurts all citizens, only voters on the minority side may desire to switch to a more extreme representative when they perceive a more corrupt political system. In our model, campaigning on a corruption scandal against the incumbent gives a higher winning probability for the opposition politician but simultaneously reduces expected future rents from office. As extremist politicians normally are less likely to win against a moderate opponent, they have a stronger incentive to take a stand against corruption. Given that the side of the political minority has a lower chance of having their representative elected to office, they face a smaller opportunity cost of voting for extremists. Our main result is that minorities are more likely to react to corruption with more extremism. We provide causal evidence for this novel asymmetric prediction from Indonesia and Brazil.",
+  "summary_en": "Does corruption fuel political extremism, and if so on which side of the political spectrum? Gáspár, Giommoni, Morelli and Nicolò develop a model where extremist politicians, who normally lose to moderates, have stronger incentives to campaign against corruption — and minority voters, with lower opportunity cost of supporting an unlikely winner, are more responsive. The prediction: corruption raises political extremism, but mainly on the OPPOSITION/minority side. They provide causal evidence from Indonesia and Brazil. The asymmetric prediction is novel and helps explain why anti-corruption movements often produce extremist insurgent parties rather than moderate reform.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Indonesian and Brazilian electoral data with corruption-scandal occurrence (audit-based corruption measures in Brazil; reform-era Indonesian politicians' corruption convictions), at the local-government level over multiple election cycles.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Highly relevant for Hungarian political-economy analysis. The paper provides causal evidence that corruption generates extremism mainly on the political minority side — useful framework for European Commission rule-of-law conditionality discussions, GVH/ÁSZ corruption-monitoring impact assessments, and academic analysis of Hungarian politics during the post-2010 period.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "political-economy",
+    "behavioral",
+    "fiscal-tax"
+  ],
+  "methods": [
+    "theory",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "ID",
+    "BR"
+  ],
+  "data_types": [
+    "macro-aggregate",
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-25",
-  "last_reviewed_at": "2026-04-25",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-30",
+  "review_status": "ai-drafted",
   "openalex_id": null
 }
