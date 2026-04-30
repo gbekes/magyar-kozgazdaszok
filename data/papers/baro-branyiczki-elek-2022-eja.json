@@ -1,26 +1,35 @@
 {
   "url_pdf": null,
   "url_replication": null,
-  "abstract": "",
-  "summary_en": null,
+  "abstract": "Using data from the COVID-19 questionnaire of the Survey of Health, Ageing and Retirement in Europe (SHARE), we investigate the time patterns of precautionary health behaviours of individuals aged 50 years and above during the summer of 2020, an easing phase of the COVID-19 pandemic in Europe. We also examine how these health behaviours differ by the presence of chronic conditions such as hypertension, high cholesterol level, heart disease, diabetes or chronic bronchitis, which can be considered as risk factors for COVID-19. Our results suggest that while on average, people became less precautious during the analysed time period, this is less so for those who are at higher risk. We also document large regional differences in precautionary health behaviours and show that higher-risk individuals are on average more cautious in all regions. We conclude that people adjusted their health behaviours in line with the generally understood risk of the COVID-19 disease. At the same time, our results also point out divergences in the level of willingness to take different precautionary steps.",
+  "summary_en": "Did older Europeans relax their COVID-19 precautions equally during the summer 2020 easing phase, or did high-risk individuals stay cautious longer? Bíró, Branyiczki and Elek use the SHARE COVID-19 questionnaire on Europeans aged 50+ and find a clear differential: people with chronic conditions (hypertension, heart disease, diabetes, etc.) reduced precautions less than healthy peers as restrictions eased. The pattern holds across European regions despite large overall differences in baseline behaviour. Older Europeans largely calibrated their precautions to their understood disease risk.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Survey of Health, Ageing and Retirement in Europe (SHARE) COVID-19 questionnaire wave, summer 2020. Tens of thousands of respondents aged 50+ across multiple European countries with health-conditions data and self-reported precautionary behaviours.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for Hungarian public-health communication strategy at NNK and the Egészségügyi Államtitkárság during pandemic-easing phases. The paper shows risk-stratified populations adjust their behaviour rationally — useful framework for designing differentiated precaution-messaging campaigns.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "health",
+    "demographics-migration",
+    "behavioral"
+  ],
+  "methods": [
+    "panel-data",
+    "descriptive-survey"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-27",
-  "last_reviewed_at": "2026-04-27",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-30",
+  "review_status": "ai-drafted",
   "policy_instruments": [],
   "working_paper_series": null,
-  "pages": null,
-  "issue": null,
-  "volume": null,
+  "pages": "837-848",
+  "issue": "3",
+  "volume": "19",
   "id": "baro-branyiczki-elek-2022-eja",
   "title": "Time patterns of precautionary health behaviours during an easing phase of the COVID-19 pandemic in Europe",
   "authors": [
@@ -31,6 +40,6 @@
   "publication_type": "article",
   "journal": "European Journal of Ageing",
   "year": 2022,
-  "doi": null,
+  "doi": "10.1007/s10433-021-00636-4",
   "url_published": null
 }
