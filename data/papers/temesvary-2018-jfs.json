@@ -15,20 +15,30 @@
   "url_published": "https://doi.org/10.1016/j.jfs.2018.09.003",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "This paper examines how the lending of all foreign banks (branches and subsidiaries) in the US responds to foreign monetary policy actions in their parents' home countries. Using a rarely studied bank-level dataset covering US-based foreign bank offices over the 1997–2014 period, I find strong evidence of a bank lending channel of inward monetary policy transmission: In response to home country monetary tightening, foreign banks with less access to liquid funds reduce their business lending in the US substantially more than foreign banks with more funding access. This inward transmission is strongest for the pre-crisis period, and for foreign banks originating from Europe.",
+  "summary_en": "When the ECB or other foreign central bank tightens, do US-based subsidiaries of foreign banks pull back lending in the US? Temesváry uses bank-level data 1997-2014 covering all foreign-bank branches and subsidiaries in the US to find a strong inward bank-lending channel: in response to home-country monetary tightening, foreign banks with less liquid funding cut their US business lending substantially more than foreign banks with better funding access. The transmission was strongest pre-crisis and especially for European-headquartered banks. Foreign monetary shocks transmit into the US economy via foreign-bank balance sheets.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "FFIEC Call Reports data on all US-based foreign-bank branches and subsidiaries 1997-2014, ~hundreds of institutions, matched to home-country monetary-policy series and bank-balance-sheet liquidity measures.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungary, like the US, hosts substantial foreign-bank-owned banking activity. The paper shows foreign monetary policy transmits to host economies via bank lending — directly relevant for MNB monitoring of how ECB and SNB monetary changes reach Hungarian SMEs through Western European bank subsidiaries. Useful for designing MNB's macroprudential responses to spillovers.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "macroeconomics",
+    "trade-fdi"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W3121926918"
 }

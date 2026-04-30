@@ -1,0 +1,43 @@
+{
+  "id": "duan-fulop-2015-jbes",
+  "title": "Density-Tempered Marginalized Sequential Monte Carlo Samplers",
+  "authors": [
+    "Jin-Chuan Duan",
+    "fulop-andras"
+  ],
+  "publication_type": "article",
+  "journal": "Journal of Business and Economic Statistics",
+  "year": 2015,
+  "volume": null,
+  "issue": null,
+  "pages": null,
+  "doi": null,
+  "working_paper_series": null,
+  "url_published": null,
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "We propose a density-tempered marginalized sequential Monte Carlo (SMC) sampler, a new class of samplers for full Bayesian inference of general state-space models. The dynamic states are approximately marginalized out using a particle filter, and the parameters are sampled via a sequential Monte Carlo sampler over a density-tempered bridge between the prior and the posterior. Our approach delivers exact draws from the joint posterior of the parameters and the latent states for any given number of state particles and is thus easily parallelizable in implementation. We also build into the proposed method a device that can automatically select a suitable number of state particles. Since the method incorporates sample information in a smooth fashion, it delivers good performance in the presence of outliers. We check the performance of the density-tempered SMC algorithm using simulated data based on a linear Gaussian state-space model with and without misspecification. We also apply it on real stock prices using a GARCH-type model with microstructure noise.",
+  "summary_en": "Bayesian estimation of state-space models — the workhorse for stochastic-volatility, term-structure, and credit-risk research — typically uses MCMC, which is fragile in the presence of outliers and hard to parallelise. Duan and Fülöp propose a sequential Monte Carlo sampler that bridges smoothly from the prior to the posterior via a density-tempered path, marginalising the hidden states with a particle filter at each step. The method delivers exact joint posterior draws, scales naturally across CPU cores, and selects the number of state particles automatically. They validate it on simulated linear Gaussian data and apply it to GARCH models with microstructure noise.",
+  "summary_hu": null,
+  "data_used": "Simulated linear Gaussian state-space data (with and without misspecification) for validation, plus high-frequency real stock-price data for the GARCH-with-microstructure-noise application.",
+  "data_used_hu": null,
+  "policy_relevance": "Central-bank research departments and supervisory model-validation teams increasingly run latent-state models for inflation, output gap, and credit-risk dashboards. The density-tempered SMC approach is a drop-in replacement for MCMC that handles outliers well — a recurring problem in crisis episodes — and exploits multi-core hardware. Practical improvement for any institution running high-dimensional Bayesian risk models on tight refresh cycles.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "methods",
+    "banking-finance"
+  ],
+  "methods": [
+    "structural",
+    "time-series"
+  ],
+  "countries_studied": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
+  "featured": false,
+  "added_at": "2026-04-28",
+  "last_reviewed_at": "2026-04-28",
+  "review_status": "ai-drafted",
+  "openalex_id": null
+}

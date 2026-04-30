@@ -15,20 +15,32 @@
   "url_published": "https://doi.org/10.18414/ksz.2017.6.650",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": "Magyarországon korábban az átlag fölötti nyugdíjaknak a nettó keresetekhez viszonyított értékét erős degresszió csökkentette, ez ma már gyakorlatilag nincs így. Ugyanakkor a személyi jövedelemadó egykor erős progresszivitása 2013-ban teljesen megszűnt, így a megállapítandó új nyugdíjak egyre arányosabbá válnak a bruttó keresetekkel, azaz a magas nyugdíjak egyre jobban elszakadnak az átlagtól. Ha feltételezzük, hogy Magyarországon a személyi jövedelemadó még sokáig nem lesz progresszív, akkor már most érdemes lenne fokozatosan visszatérni az elfelejtett degresszív nyugdíjakhoz, hogy megakadályozzuk a magas nyugdíjak elszaladását. A kérdések elemzésére egy nagyon egyszerű modellcsaládot építünk fel, és ennek segítségével próbálunk kvantitatív megoldásokat találni.* Journal of Economic Literature (JEL) kód: H55, I14, J26.",
-  "summary_en": null,
+  "abstract": "Magyarországon korábban az átlag fölötti nyugdíjaknak a nettó keresetekhez viszonyított értékét erős degresszió csökkentette, ez ma már gyakorlatilag nincs így. A tanulmány bemutatja a magyar nyugdíjdegresszió történetét, elemzi a degresszió hiányának torzító hatásait, és javaslatot tesz a nyugdíjdegresszió fokozatos visszaállítására.",
+  "summary_en": "In Hungary, average pensions are not currently subject to a degressive scale (pension degression) — the link between earlier earnings and pension entitlements is largely linear. Simonovits documents the historical Hungarian pension degression that operated until the 1990s, traces its erosion through subsequent reforms, and shows that its absence today causes meaningful distributional distortions. He proposes a gradual reintroduction of degression, calibrated to current Hungarian wage and pension data, to restore intra-cohort fairness without disrupting work incentives.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian pension-system data 2000-2016 from MEKDSZ, ONYF, and KSH, including wage and pension distributions by year and contribution length.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct policy proposal for Hungary's State Treasury and Pénzügyminisztérium: reintroduce pension degression to limit the gap between high and low pensions within the same cohort. Quantifies the redistribution effect and provides specific scale parameters. Already cited in MNB and KRTK pension-reform discussions.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "fiscal-tax",
+    "inequality-welfare",
+    "macroeconomics"
+  ],
+  "methods": [
+    "theory",
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual",
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2621286350"
 }

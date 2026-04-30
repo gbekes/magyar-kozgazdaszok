@@ -29,12 +29,17 @@
   "bio_en": "Tamás Fleiner is a researcher affiliated with the KRTK Institute of Economics, working on matching theory and combinatorial optimization.",
   "bio_hu": "Fleiner Tamás a KRTK Közgazdaság-tudományi Intézet kutatója, a párosítási elmélet és a kombinatorikus optimalizálás területén.",
   "photo_url": "https://kti.krtk.hu/wp-content/uploads/2025/06/Fleiner-Tamas-scaled-1.jpg",
-  "qualifying_publication": null,
+  "qualifying_publication": {
+    "title": "Trading Networks With Frictions",
+    "journal": "Econometrica",
+    "year": 2019
+  },
   "deceased": false,
   "died": null,
   "open_to_media_en": false,
   "open_to_media_hu": false,
   "media_note": null,
   "review_status": "needs-verification",
-  "openalex_id": "A5055177344"
+  "openalex_id": "A5055177344",
+  "last_reviewed_at": "2026-04-27"
 }

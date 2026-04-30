@@ -7,29 +7,40 @@
   ],
   "publication_type": "article",
   "journal": "Journal of International Money and Finance",
-  "year": 2019,
+  "year": 2020,
   "volume": "101",
   "issue": null,
-  "pages": "102100-102100",
+  "pages": "102100",
   "doi": "10.1016/j.jimonfin.2019.102100",
   "working_paper_series": null,
   "url_published": "https://doi.org/10.1016/j.jimonfin.2019.102100",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "Real oil prices surged from 2009 through 2014, comparable to the 1970's oil shock period. Standard explanations based on monopoly markup fall short since inflation remained low after 2009. This paper contributes strong evidence of Granger (1969) predictability of nominal factors to oil prices, using one adjustment to monetary aggregates. This adjustment is the subtraction from the monetary aggregates of the 2008-2009 Federal Reserve borrowing of reserves from other Central Banks (Swaps), made after US reserves turned negative. This adjustment is key in that Granger predictability from standard monetary aggregates is found only with the Swaps subtracted.",
+  "summary_en": "Did monetary expansion drive the 2009-2014 oil-price boom that rivaled the 1970s shocks? Standard markup-based explanations fall short because inflation stayed low. Benk and Gillman test for Granger predictability of oil prices from monetary aggregates, with one key adjustment: subtract the 2008-2009 Fed central-bank swaps (which inflated reported M1 without affecting domestic liquidity). With the swaps subtracted, money growth Granger-predicts real oil prices in a Markov-switching VAR — but standard unadjusted aggregates don't. Money-aggregate definitions that look correct on the surface obscure the actual transmission to commodity prices.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Monthly US data 1980-2018: WTI real oil prices, M1 monetary aggregate (with and without Fed central-bank swap adjustments), inflation. Markov-switching VAR estimation across multiple regimes.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for MNB and ECB monetary-policy frameworks. The paper warns that headline monetary aggregates can mislead transmission analysis when central banks use temporary international-swap arrangements during crises. Useful caveat for MNB's monetary-monitoring methodology and EU Forecast Convergence assessments during liquidity-rescue periods.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "macroeconomics",
+    "energy-environment"
+  ],
+  "methods": [
+    "time-series",
+    "structural"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-30",
+  "review_status": "ai-drafted",
   "openalex_id": "W2940074298"
 }

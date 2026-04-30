@@ -17,19 +17,27 @@
   "url_pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1468-0343.2009.00364.x",
   "url_replication": null,
   "abstract": "Exploiting a unique institutional feature of early Romanian privatization, when a group of firms was explicitly barred from privatization and another was partially privatized by management–employee buyouts, we test how politicians select firms into privatization programs. Using comprehensive firm data, we estimate the relation between preprivatization firm characteristics – the information known to politicians at the time of decision‐making – and the effect of privatization on employment, efficiency, and wages. With the estimated coefficients we simulate the effect of privatization on non‐privatizable and privatizable firms. We find that politicians expected privatization to increase employment in the privatizable group by 7%–10%, while to decrease it in the non‐privatizable group by 10%–30%, depending on the first‐stage estimation method, ordinary least squares with or without matching. We do not find such discrepancies in the expected change in firm efficiency; the simulated efficiency effect of privatization is large and positive for both groups of firms, and it is 52%–65% for non‐privatizable and 41%–43% for privatizable firms. The analysis does not support the hypothesis that wages played an important role in privatization decisions. Our study suggests that employment concerns played the key role in selecting firms for privatization, even if efficiency gains had to be sacrificed.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "How did politicians choose which firms to privatise? Szentpéteri and Telegdy exploit a unique feature of early Romanian privatisation: a group of firms was explicitly barred from privatisation, while another group was partially privatised through management-employee buyouts. Using comprehensive firm data, they relate pre-privatisation firm characteristics — exactly what politicians knew at decision time — to the actual subsequent privatisation effects on employment, efficiency, and wages. Result: politicians expected privatisation to raise employment in privatisable firms by 7-10% but to cut employment by 10-30% in non-privatisable firms. Efficiency expectations are similar across groups (~50%). Wages played little role. Conclusion: employment concerns dominated privatisation selection, even at substantial efficiency cost.",
+  "summary_hu": "Hogyan választották ki a politikusok, melyik cégeket privatizálják? Szentpéteri és Telegdy egy egyedi román privatizációs jellegzetességet használ ki: egy csoport céget kifejezetten kizártak a privatizációból, míg egy másik csoportot részlegesen privatizáltak menedzsment-munkavállalói kivásárlásokkal. Átfogó vállalati adatokkal a privatizáció előtti vállalatjellemzőket — pontosan azt, amit a politikusok döntéskor tudtak — a tényleges későbbi foglalkoztatásra, hatékonyságra és bérekre gyakorolt privatizációs hatásokhoz kapcsolják. Eredmény: a politikusok 7-10 százalékos foglalkoztatás-növekedést vártak a privatizálható cégeknél, de 10-30 százalékos csökkenést a nem privatizálhatóknál. A hatékonyság-várakozások hasonlóak a csoportok között (~50 százalék). A bérek alig játszottak szerepet. Következtetés: a foglalkoztatási aggályok dominálták a privatizációs kiválasztást, jelentős hatékonyság-költség mellett is.",
+  "data_used": "Comprehensive Romanian firm-level data covering early-1990s privatisation programmes, including pre-privatisation firm characteristics and post-privatisation outcomes.",
+  "data_used_hu": "Átfogó román cégszintű adatok az 1990-es évek eleji privatizációs programokról, beleértve a privatizáció előtti vállalatjellemzőket és a privatizáció utáni kimeneteleket.",
+  "policy_relevance": "Historical relevance for Hungarian and CEE privatisation lessons. The paper's identification of employment-bias in privatisation selection is a cautionary tale for any future SOE-reform programme — political objectives can dominate efficiency objectives. Relevant to MNV restructuring debates and to broader discussions about privatisation methodology in Hungarian academic-policy circles.",
+  "policy_relevance_hu": "Történelmi relevancia a magyar és KKE privatizációs tanulságokhoz. A tanulmány foglalkoztatási elfogultság-azonosítása a privatizációs kiválasztásban óvó mese minden jövőbeli SOE-reformprogramnak — a politikai célok dominálhatják a hatékonysági célokat. Releváns az MNV-átszervezési vitákhoz és a privatizációs módszertanról szóló szélesebb beszélgetésekhez magyar akadémiai-szakpolitikai körökben.",
+  "topics": [
+    "transition-postcommunist",
+    "political-economy",
+    "firms-productivity"
+  ],
+  "methods": [
+    "structural"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "admin-firm"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W2162054233"
 }

@@ -17,19 +17,25 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "Kornai and Simonovits develop a formal decentralised-control framework for John von Neumann's expanding-economy model. They study how a centrally planned economy in which sectoral managers respond to local price-and-quantity signals (rather than full information) can or cannot reach the von Neumann balanced-growth path. The mathematical analysis identifies conditions on price-adjustment rules and information lags under which the decentralised system converges, and characterises stability properties relevant to debates about market socialism that were active when the paper was published.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model — no dataset. Builds on the von Neumann balanced-growth model, with explicit decentralised price- and quantity-adjustment rules.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Foundational paper in the Hungarian School of mathematical economics on whether decentralised control can replicate centralised planning outcomes — directly relevant to the academic debate that informed Hungary's 1968 New Economic Mechanism and later transition discussions. Continued historical relevance for Hungarian economic-policy literacy and the KRTK's institutional self-understanding.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "macroeconomics",
+    "industrial-organization",
+    "transition-postcommunist"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2024011865"
 }

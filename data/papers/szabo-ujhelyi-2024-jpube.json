@@ -16,20 +16,31 @@
   "url_published": "https://doi.org/10.1016/j.jpubeco.2024.105073",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "This paper studies the economic effects of the US National Park System, the largest national conservation entity in the world. We assemble a new dataset on the history of the system, and show that parks increase overall employment and income in the local economy. The data allows us to study several specific mechanisms. Economic effects appear to be driven by visitors, and they cannot be explained by direct government spending on park budgets or by various substitution effects. Our findings provide evidence relevant to conservation policy in the US and elsewhere.",
+  "summary_en": "Do national parks generate net economic benefits for surrounding areas? Szabó and Ujhelyi assemble a comprehensive new dataset on the history of the US National Park System and find that park designation increases overall employment and income in the local economy. The effects are driven by visitor spending — they cannot be explained by direct federal park spending or by substitution from other public-spending categories. The findings provide the cleanest causal evidence to date that conservation designation is locally pro-growth, with implications for protected-area policy in the US and elsewhere.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Newly assembled panel of US National Park designations from approximately 1900 to present, matched to county-level Bureau of Economic Analysis (BEA) employment, income, and population data and federal park-budget allocations.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungary's national parks (Aggteleki, Bükki, Hortobágyi, Kiskunsági, etc.) are part of the rural-development strategy and Natura 2000 framework. The paper provides credible causal evidence that park designation is a net economic positive for nearby economies, useful for the Agriculture Ministry, AM, and the Hungarian Tourism Agency (MTÜ) when assessing the rural-development case for new or expanded protected areas.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "regional-urban",
+    "energy-environment",
+    "labor-markets"
+  ],
+  "methods": [
+    "panel-data",
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-19",
-  "last_reviewed_at": "2026-04-19",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W4392078103"
 }

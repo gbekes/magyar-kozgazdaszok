@@ -7,7 +7,7 @@
   ],
   "publication_type": "article",
   "journal": "Journal of Economic Theory",
-  "year": 2009,
+  "year": 2010,
   "volume": "145",
   "issue": "3",
   "pages": "974-1004",
@@ -16,20 +16,29 @@
   "url_published": "https://doi.org/10.1016/j.jet.2009.10.006",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "This paper endogenizes the borrowing constraints on capital in a production economy with incomplete markets. We find that these limits get looser with income, a property that is consistent with US data on credit limits. The framework with endogenous limits is then used to study the effects of a revenue neutral tax reform that eliminates capital income taxes. Our results illustrate that it is very important to take into account the effects of tax policies on the limits. Throughout the transition, these effects can be big enough to change the overall conclusion about the desirability of a tax reform.",
+  "summary_en": "Standard incomplete-markets models impose ad-hoc borrowing constraints on capital, but where do these constraints actually come from? Ábrahám and Cárceles-Poveda endogenise them as the natural outcome of agents' incentive to default in a production economy. The endogenous limits get looser with income — matching US credit-card and mortgage-limit data. Using this framework to evaluate a revenue-neutral tax reform that eliminates capital income tax, they find the credit-limit response to taxation is so important that taking it into account can flip the welfare verdict on the reform. Standard analyses that hold credit limits fixed miss a major channel.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model — incomplete-markets production economy with endogenous default-driven borrowing constraints. Calibration to US Survey of Consumer Finances on credit-limit-by-income patterns.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for Hungarian fiscal-policy modelling at MNB and Pénzügyminisztérium. The paper warns that tax-reform welfare assessments based on fixed credit-limits substantially mis-state the reform's effects. Useful framework for Hungarian capital-income-tax reform analysis (the 2011 flat-tax reform, ongoing investment-allowance discussions) when modelling household credit-access channels.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "macroeconomics",
+    "fiscal-tax",
+    "banking-finance"
+  ],
+  "methods": [
+    "theory",
+    "structural"
+  ],
+  "countries_studied": [
+    "US"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-19",
-  "last_reviewed_at": "2026-04-19",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-30",
+  "review_status": "ai-drafted",
   "openalex_id": "W2154875240"
 }

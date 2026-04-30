@@ -1,0 +1,44 @@
+{
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "The European Green Deal aims to mitigate the environmental impact of food production while improving the income of primary producers and strengthening the EU's competitiveness. We examine how the degree of ecologisation affects farms' total factor productivity (TFP). Our analysis combines a random-parameter stochastic production frontier model with a composite indicator and a dose-response function approach. Results show a monotonically decreasing relationship between ecologisation and expected TFP level. On average, a one-step increase in the degree of ecologisation results in a 12% decrease in TFP. However, the results indicate a non-linear relationship. Three regions of the dose-response function can be distinguished; associated with high, medium and low degrees of ecologisation. In a region with a low degree of ecologisation, farms can increase the degree of ecologisation without reducing TFP. Both efficiency and technological differences contribute to these differences, but the main reason is technological. With increasing ecologisation, farm technology becomes more 'land using'. Therefore, farms can increase their TFP and degree of ecologisation simultaneously by using land-saving technologies or through sustainable intensification.",
+  "summary_en": "The European Green Deal targets aggressive 'ecologisation' of agriculture (organic farming, reduced inputs, biodiversity practices). But what does this cost in productivity? Baráth and Fertő use a stochastic-frontier dose-response approach on European farm data to quantify the trade-off. They find a monotonically decreasing relationship: a one-step increase in ecologisation costs ~12% of total factor productivity (TFP) on average. The relationship is non-linear — at low baseline ecologisation, farms can intensify ecologisation without TFP loss; at higher levels, TFP falls steeply. The drop is mostly driven by technology (more land-using methods), suggesting land-saving sustainable-intensification techniques can partly resolve the trade-off.",
+  "summary_hu": null,
+  "data_used": "EU Farm Accountancy Data Network (FADN) data covering thousands of farms across multiple EU member states; composite ecologisation indicator combining organic certification, low-input practices, biodiversity measures.",
+  "data_used_hu": null,
+  "policy_relevance": "Direct relevance for Hungarian agricultural policy and the EU Common Agricultural Policy (CAP) Green Deal implementation. The paper quantifies the productivity cost of ecologisation steps for the Agrárminisztérium when designing eco-scheme transition payments. Useful framework for Pénzügyminisztérium and Hungary's representatives in EU CAP negotiations.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "agriculture-food",
+    "energy-environment",
+    "firms-productivity"
+  ],
+  "methods": [
+    "structural",
+    "panel-data"
+  ],
+  "countries_studied": [],
+  "data_types": [
+    "firm-level-dataset"
+  ],
+  "featured": false,
+  "added_at": "2026-04-27",
+  "last_reviewed_at": "2026-04-30",
+  "review_status": "ai-drafted",
+  "policy_instruments": [],
+  "working_paper_series": null,
+  "pages": "404-424",
+  "issue": "1",
+  "volume": "75",
+  "doi": "10.1111/1477-9552.12563",
+  "url_published": null,
+  "id": "barath-ferto-2024-jae",
+  "title": "The relationship between the ecologisation of farms and total factor productivity",
+  "authors": [
+    "barath-lajos",
+    "ferto-imre"
+  ],
+  "journal": "Journal of Agricultural Economics",
+  "year": 2024,
+  "publication_type": "article"
+}

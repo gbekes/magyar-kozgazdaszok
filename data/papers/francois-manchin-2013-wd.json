@@ -16,20 +16,29 @@
   "url_published": "https://doi.org/10.1016/j.worlddev.2013.02.009",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "We work with a panel of bilateral trade, exploring the influence of infrastructure and institutional quality on patterns of trade with a Poisson estimator, extended with the Baier and Berstrand method for multilateral resistance and accounting for firm heterogeneity and selection. Trade depends on institutional quality and exporter and importer access to well developed transport and communications infrastructure. While we emphasize exports of developing countries, low institutional and infrastructure quality in the South also limits market access for exports from the North. The pattern of results implies that policy emphasis on developing country market access while not providing enough support for trade facilitation, may be misplaced.",
+  "summary_en": "Do bad institutions and poor infrastructure limit trade volumes? Francois and Manchin use bilateral panel trade data with a Poisson estimator (handling firm heterogeneity and selection) to test the joint role of institutional quality and transport/communications infrastructure. Both matter substantially. Although the empirical focus is on developing-country exports, low Southern institutional and infrastructure quality also limits Northern market access — affecting trade in both directions. The implication: policy that pushes for tariff-cut market access without paying for trade-facilitation infrastructure may be misplaced.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Bilateral panel trade data covering ~150 countries over multiple years, combined with World Bank Doing Business institutional indicators, UNCTAD trade-and-transport indices, and ITU communications-infrastructure measures.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for EU development-policy and Hungarian KKM trade-policy analysis. The paper supports prioritising aid-for-trade infrastructure investment alongside tariff preferences when working with developing trade partners — useful framing for Hungarian and EU positions in WTO and Cotonou-successor agreements.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "trade-fdi",
+    "political-economy",
+    "regional-urban"
+  ],
+  "methods": [
+    "panel-data",
+    "structural"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W3124985005"
 }

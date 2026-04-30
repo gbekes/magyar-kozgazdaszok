@@ -1,0 +1,46 @@
+{
+  "id": "wan-fulop-li-2022-jeconometrics",
+  "title": "Real-Time Bayesian Learning and Bond Return Predictability",
+  "authors": [
+    "Runqing Wan",
+    "fulop-andras",
+    "Junye Li"
+  ],
+  "publication_type": "article",
+  "journal": "Journal of Econometrics",
+  "year": 2022,
+  "volume": null,
+  "issue": null,
+  "pages": null,
+  "doi": null,
+  "working_paper_series": null,
+  "url_published": null,
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "The paper examines statistical and economic evidence of out-of-sample bond return predictability for a real-time Bayesian investor who learns about parameters, hidden states, and predictive models over time. We find some statistical evidence using information contained in forward rates. However, such statistical predictability can hardly generate any economic value for investors. Furthermore, we find that strong statistical and economic evidence of bond return predictability from fully-revised macroeconomic data vanishes when real-time macroeconomic information is used. We also show that highly levered investments in bonds can improve short-run bond return predictability.",
+  "summary_en": "Whether US Treasury bond returns can be predicted out of sample — and whether predictability translates into investor profits — is a long-running debate. The authors model a real-time Bayesian investor who learns about parameters, latent states and competing predictive models as data arrive, rather than relying on hindsight. They find some statistical evidence that forward rates predict bond returns, but the predictability does not generate economic value for unlevered investors. Strong predictability from fully revised macro data largely vanishes once real-time vintage data are used. Highly levered bond investments do, however, improve short-run predictability.",
+  "summary_hu": null,
+  "data_used": "Monthly US Treasury bond returns and yield curve data from FRED and CRSP, combined with real-time vintage macroeconomic data from the ALFRED archive (Philadelphia Fed) covering several decades of post-war US data.",
+  "data_used_hu": null,
+  "policy_relevance": "Pension funds, sovereign wealth managers and central-bank reserve desks rely on bond-return forecasts. The paper warns that predictability shown using ex-post macroeconomic series likely overstates what real-time portfolio managers could have actually earned — a relevant caution for back-tests informing reserve-management strategy. Highlights why model-validation regimes should require real-time vintage data, not revised series.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "banking-finance",
+    "macroeconomics"
+  ],
+  "methods": [
+    "time-series",
+    "structural"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
+  "featured": false,
+  "added_at": "2026-04-28",
+  "last_reviewed_at": "2026-04-28",
+  "review_status": "ai-drafted",
+  "openalex_id": null
+}

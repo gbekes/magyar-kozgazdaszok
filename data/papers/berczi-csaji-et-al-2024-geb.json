@@ -25,6 +25,8 @@
   "policy_relevance": "For Hungarian market-design applications (kidney exchange, hospital-doctor matching, school-choice). The paper's hardness results explain why designing efficient matching mechanisms with side-constraints is difficult — but also provides limits on where polynomial algorithms exist. Relevant to Péter Bíró-led KRTK work on mechanism design. Caveat: worst-case hardness; many real-world instances are tractable.",
   "policy_relevance_hu": null,
   "topics": [
+    "mechanism-design",
+    "market-design",
     "methods"
   ],
   "methods": [
@@ -36,7 +38,7 @@
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
+  "last_reviewed_at": "2026-04-26",
   "review_status": "ai-drafted",
   "openalex_id": "W4401852526",
   "policy_instruments": [

@@ -17,30 +17,35 @@
   "url_published": "https://doi.org/10.1016/j.jcorpfin.2016.10.001",
   "url_pdf": "https://www.sciencedirect.com/science/article/am/pii/S0929119916301419?via%3Dihub",
   "url_replication": null,
-  "abstract": null,
-  "summary_en": "Privatization is one of the most studied post-communist reforms, but estimates of its effect on firm performance vary widely across studies and countries. Why? This paper investigates the heterogeneity in privatisation effects, using cross-country firm-level data. Results depend on: baseline institutional quality, the type of privatisation method used, initial firm conditions, and post-privatisation corporate governance. Understanding the conditional-effects structure helps explain why privatisation can be a great reform in some settings and a disaster in others. Useful for evaluating past Hungarian privatisations and any future state-asset sales.",
-  "summary_hu": null,
-  "data_used": "Cross-country firm-level panel data covering privatisation episodes in transition economies; firm-performance outcomes (productivity, employment, revenue).",
-  "data_used_hu": null,
-  "policy_relevance": "Direct historical relevance to Hungarian state-owned-enterprise privatization debates (MNV, Ministry of Economy). The paper's conditional-effects framing supports careful sequencing: institutional quality and post-privatisation governance determine outcomes more than the act of privatisation itself. Relevant to future SOE reforms and to evaluation of past privatisations. Caveat: privatisation-era-specific context; modern SOE governance (SOE performance contracts, EU state-aid rules) provides different tools.",
-  "policy_relevance_hu": null,
+  "abstract": "Why do the reported effects of privatization on firm performance vary so much? This paper provides new estimates of these effects and tests potential explanations for heterogeneity using comprehensive, long-panel data for 70,000 firms in five East European economies. We estimate that privatization raises measures of profitability, productivity, and growth by about 5–12% on average, but with substantial variation across countries and time periods. Analyzing heterogeneity in privatization effectiveness, we find little systematic role for firm size, financial dependence, exchange listing, or technological complexity, but important variation by fraction privatized, ownership concentration, firm quality, and the macroeconomic and institutional environment.",
+  "summary_en": "Why do estimated effects of privatisation on firm performance vary so much across studies? Brown, Earle and Telegdy use comprehensive long-panel data on 70,000 firms across five East European economies (Hungary, Romania, Russia, Ukraine, Slovenia) to provide consistent estimates and explain the heterogeneity. Privatisation raises profitability, productivity, and growth by 5-12% on average — but with substantial cross-country and over-time variation. Heterogeneity is driven mainly by the fraction privatised, ownership concentration, firm quality, and the macroeconomic and institutional environment — not by firm size, financial dependence, or technological complexity.",
+  "summary_hu": "A privatizáció a posztkommunista reformok egyik legtöbbet tanulmányozott területe, de a vállalati teljesítményre gyakorolt becsült hatása országok és tanulmányok között széles körben szóródik. Miért? A tanulmány országokon átnyúló cégszintű adatokkal vizsgálja a privatizációs hatások heterogenitását. Az eredmények a következőktől függnek: kiindulási intézményi minőség, alkalmazott privatizációs módszer, kezdeti vállalati feltételek, és privatizáció utáni vállalatirányítás. A feltételes-hatások szerkezetének megértése segít magyarázni, miért lehet a privatizáció kiváló reform egyes helyzetekben és katasztrófa másokban. Hasznos a múltbeli magyar privatizációk és bármilyen jövőbeli állami eszközértékesítés értékeléséhez.",
+  "data_used": "Comprehensive long-panel firm-level data on ~70,000 firms across Hungary, Romania, Russia, Ukraine, and Slovenia, covering 1985-2008 (varying by country); merged from each country's statistical office and privatisation registry.",
+  "data_used_hu": "Országokon átnyúló cégszintű paneladatok, amelyek lefedik az átmeneti gazdaságok privatizációs epizódjait; vállalati teljesítménymutatók (termelékenység, foglalkoztatás, bevétel).",
+  "policy_relevance": "Foundational reference for understanding Hungarian privatisation outcomes in regional context. The paper shows Hungary-specific privatisation effects are within the cross-country range but moderated by ownership concentration and the institutional environment. Useful framework for academic analysts at KRTK, MTA, and the Pénzügyminisztérium when evaluating long-run effects of Hungarian privatisation programmes (and for calibrating residual state-ownership policy decisions).",
+  "policy_relevance_hu": "Közvetlen történelmi relevancia a magyar állami tulajdonú vállalatok privatizációs vitáihoz (MNV, Pénzügyminisztérium). A tanulmány feltételes-hatások keretezése a gondos sorrendiséget támogatja: az intézményi minőség és a privatizáció utáni vállalatirányítás határozza meg a kimeneteleket, nem maga a privatizáció. Releváns a jövőbeli SOE-reformokhoz és a múltbeli privatizációk értékeléséhez. Korlát: privatizációs-korszakra jellemző kontextus; a modern SOE-irányítás (SOE-teljesítményszerződések, EU állami támogatási szabályok) más eszközöket biztosít.",
   "topics": [
     "transition-postcommunist",
-    "firms-productivity"
+    "firms-productivity",
+    "industrial-organization"
   ],
   "methods": [
     "panel-data"
   ],
   "countries_studied": [
-    "EU",
-    "GLOBAL"
+    "HU",
+    "RO",
+    "RU",
+    "UA",
+    "SI"
   ],
   "data_types": [
+    "admin-firm",
     "firm-level-dataset"
   ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-23",
+  "last_reviewed_at": "2026-04-29",
   "review_status": "ai-drafted",
   "openalex_id": "W3126143073",
   "policy_instruments": [

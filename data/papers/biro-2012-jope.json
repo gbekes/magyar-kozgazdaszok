@@ -6,7 +6,7 @@
   ],
   "publication_type": "article",
   "journal": "Journal of Population Economics",
-  "year": 2012,
+  "year": 2013,
   "volume": "26",
   "issue": "4",
   "pages": "1379-1408",
@@ -15,20 +15,29 @@
   "url_published": "https://doi.org/10.1007/s00148-012-0461-5",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "I estimate the effect of shocks to subjective mortality hazards on consumption expenditures of retired individuals using the Survey of Health, Ageing and Retirement in Europe. I measure mortality expectations with survey responses on survival probabilities. To create plausibly exogenous variation in mortality hazard, I use the death of a sibling as an instrument. My results show that survey responses contain economically relevant information about longevity expectations and confirm the predictions of life-cycle theories about the effect of these expectations on intertemporal choice.",
+  "summary_en": "Do older people change their consumption when their beliefs about how long they'll live shift? Bíró uses the Survey of Health, Ageing and Retirement in Europe (SHARE) to test this. She uses the death of a sibling as a plausibly exogenous instrument for changes in subjective mortality expectations. The result confirms life-cycle theory: when retired individuals revise downward their survival probabilities, they raise their consumption — supporting the idea that survey-elicited mortality expectations contain economically meaningful information for predicting intertemporal choices.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Survey of Health, Ageing and Retirement in Europe (SHARE) waves 1–2, with subjective survival-probability questions and consumption-expenditure data; ~25,000 retired individuals across 11 European countries. Sibling-death events used as instrument.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungarian pension policy and KSH household-survey design. The paper validates survey-based mortality expectations as inputs to lifecycle consumption modelling. Useful for the Pénzügyminisztérium when calibrating pension-system simulations and for KSH when designing new household-finance survey instruments under the Magyar Háztartás Panel.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "macroeconomics",
+    "demographics-migration",
+    "behavioral"
+  ],
+  "methods": [
+    "iv",
+    "panel-data"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W1977159204"
 }

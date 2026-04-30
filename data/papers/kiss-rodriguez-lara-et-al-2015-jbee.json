@@ -8,7 +8,7 @@
   ],
   "publication_type": "article",
   "journal": "Journal of Behavioral and Experimental Economics",
-  "year": 2015,
+  "year": 2016,
   "volume": "64",
   "issue": null,
   "pages": "12-19",
@@ -17,20 +17,30 @@
   "url_published": "https://doi.org/10.1016/j.socec.2015.01.006",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "We assess the effect of cognitive abilities on withdrawal decisions in a bank-run game. In our setup, depositors choose sequentially between withdrawing or keeping their funds deposited in a common bank. Depositors may observe previous decisions depending on the information structure. Theoretically, the last depositor in the sequence of decisions has a dominant strategy and should always keep the funds deposited, regardless of what she observes (if anything). Recognizing the dominant strategy, however, is not always straightforward. If there exists strategic uncertainty (e.g., if the last depositor has no information regarding the decisions of predecessors), then the identification of the dominant strategy is more difficult than in a situation with no strategic uncertainty. We find that cognitive abilities, as measured by the Cognitive Reflection Test (CRT), predict withdrawals in the presence of strategic uncertainty (participants with stronger abilities tend to identify the dominant strategy more easily) but that the CRT does not predict behavior when strategic uncertainty is absent.",
+  "summary_en": "Theoretical bank-run models often assume depositors recognise dominant strategies — situations where they should never withdraw. Kiss, Rodríguez-Lara and Rosa-García test this in the lab. The third (last) depositor in a sequential bank-run game has a strict dominant strategy to keep deposits, regardless of what the first two did. They find subjects' ability to identify this strategy depends on cognitive ability (Cognitive Reflection Test scores) — but only when strategic uncertainty exists (when the depositor doesn't know what others did). With full information, even low-CRT subjects play the dominant strategy. Cognitive limits matter for bank-run dynamics specifically when information is incomplete.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Lab experiment with three-depositor bank-run sequences and Cognitive Reflection Test (CRT) measurements; subjects from Spanish university labs, varying information-structure treatments.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungarian financial-literacy initiatives (MNB Money Compass Foundation, NGM education programmes) treat all depositors uniformly. The paper shows bank-run risk concentrates among lower-CRT depositors specifically when information is absent — a basis for targeting financial-literacy resources at low-CRT populations and improving information availability during stress events.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "behavioral",
+    "education-skills"
+  ],
+  "methods": [
+    "rct"
+  ],
+  "countries_studied": [
+    "ES"
+  ],
+  "data_types": [
+    "field-experiment"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2079037883"
 }

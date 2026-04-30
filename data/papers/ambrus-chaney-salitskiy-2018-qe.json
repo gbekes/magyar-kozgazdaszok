@@ -1,0 +1,45 @@
+{
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "This paper investigates the effect of delay on prices in bargaining situations with uncertainty about the buyer's evaluation, a question to which existing empirical and experimental research do not provide a conclusive answer. To do this we use a historical data set containing thousands of captives ransomed from the North-African-based Barbary pirates. Plausibly exogenous variation in the delay with which captives were ransomed provides evidence that negotiating delays decreased the size of ransom payments. The magnitude of the effect of a year of delay is more than ten times higher than the effect of one year increase in the captive's age, indicating that most of the effect stems from the signaling value of strategic delay on the buyer side. Since this effect is the central component of dynamic bargaining models with asymmetric information, our results establish the relevance of these models in ransoming environments. [Source: Berkeley preprint, very close to QE 2018 published version.]",
+  "summary_en": "Does negotiation delay raise or lower bargaining outcomes when one side has private information? Theory gives mixed predictions. Ambrus, Chaney and Salitskiy use an unusual historical dataset — thousands of European captives ransomed from Barbary pirates between roughly 1575 and 1750 — to identify the effect of plausibly exogenous delay on ransom payments. They find one year of delay reduces ransom by an amount more than 10× larger than a year of captive's age would. The signaling value of strategic delay (showing a low-value buyer) dominates. The result validates dynamic-bargaining models with asymmetric information in real high-stakes settings.",
+  "summary_hu": null,
+  "data_used": "Hand-collected historical dataset of thousands of European captives ransomed from North-African Barbary pirates roughly 1575-1750, with captive characteristics, ransom amounts, and time-to-release records from European archives.",
+  "data_used_hu": null,
+  "policy_relevance": "Provides theoretical and empirical foundation for understanding delay effects in modern bargaining settings: hostage negotiations (international), labour-dispute settlements, M&A delays, corporate insolvency negotiations. Useful for the Pénzügyminisztérium when evaluating delay-tolerance in bilateral debt negotiations or arbitration cases.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "mechanism-design",
+    "behavioral",
+    "methods"
+  ],
+  "methods": [
+    "theory",
+    "panel-data"
+  ],
+  "countries_studied": [],
+  "data_types": [
+    "historical"
+  ],
+  "featured": false,
+  "added_at": "2026-04-27",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
+  "policy_instruments": [],
+  "working_paper_series": null,
+  "pages": "217-246",
+  "issue": "1",
+  "volume": "9",
+  "doi": null,
+  "url_published": null,
+  "id": "ambrus-chaney-salitskiy-2018-qe",
+  "title": "Pirates of the Mediterranean: An Empirical Investigation of Bargaining with Asymmetric Information",
+  "authors": [
+    "ambrus-attila",
+    "Eric Chaney",
+    "Igor Salitskiy"
+  ],
+  "journal": "Quantitative Economics",
+  "year": 2018,
+  "publication_type": "article"
+}

@@ -15,20 +15,30 @@
   "url_published": "https://doi.org/10.1016/j.worlddev.2019.04.011",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "While various methodologies have been used in the literature to estimate global interpersonal income inequality, the accuracy of these methods has not so far been tested. The study compares four methods for measuring global income inequality, finding the Lorenz curve regression approach most reliable. Using the two-parameter distribution method, the paper demonstrates that global income inequality among 145 countries declined between 1988 and 2015, primarily due to income convergence across nations. However, this decline masks diverging trends: while within-country inequalities increased and developing Asia saw regional inequality rise, China and India's income convergence was instrumental in reducing overall global inequality. Critically, when excluding these two nations, global interpersonal income inequality actually increased across the remaining 143 countries during this period.",
+  "summary_en": "Has global income inequality really fallen since the 1980s? The answer depends on the methodology. Darvas tests four methods for measuring global interpersonal inequality and finds the Lorenz-curve regression approach most reliable. Using a two-parameter distribution method on 145 countries 1988-2015, he documents declining global inequality — but warns the decline depends almost entirely on China and India catching up. Excluding these two countries, global interpersonal inequality across the remaining 143 countries actually ROSE during the same period. Within-country inequality also rose in many places. The headline 'global inequality is falling' is empirically fragile.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "World Bank PovcalNet household-survey data on income/consumption distributions across 145 countries, 1988-2015. Four alternative inequality-measurement methodologies compared.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for Hungarian and EU development-policy discussions, and for the European Commission's poverty-reduction targets. The paper warns that headline 'global inequality is falling' claims mask substantial divergence outside China-India — relevant framing for Hungarian KKM (foreign affairs/trade) and for EU DG-DEVCO when analysing development-aid effectiveness.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "inequality-welfare",
+    "macroeconomics",
+    "methods"
+  ],
+  "methods": [
+    "panel-data",
+    "descriptive-survey"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "macro-aggregate",
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-30",
+  "review_status": "ai-drafted",
   "openalex_id": "W2942996153"
 }

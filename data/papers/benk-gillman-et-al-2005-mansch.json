@@ -18,19 +18,26 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "The paper sets out a monetary business cycle model with three alternative exchange technologies: the cash-only, shopping time and credit production models. The goods productivity and money shocks affect all three models, while the credit model has in addition a credit productivity shock. The paper compares the performance of the models in explaining the puzzles of the monetary business cycle theory. The credit model improves the ability to explain the procyclic movement of monetary aggregates, inflation and the nominal interest rate.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "How well does monetary business-cycle theory explain the joint movements of money, inflation and interest rates? Benk, Gillman and Kejak compare three exchange technologies — cash-only, shopping-time, and credit-production models — within a single calibrated framework. All three react to goods-productivity and money shocks; the credit model adds a credit-productivity shock. Comparing the three on classic monetary business-cycle puzzles, the credit model substantially improves explanatory power for the procyclical movements of monetary aggregates, inflation, and the nominal interest rate. The paper argues credit-supply shocks are not just a 1980s-onward financial-engineering phenomenon but a structural feature any monetary business-cycle model needs.",
+  "summary_hu": "Mennyire jól magyarázza a monetáris konjunktúra-elmélet a pénz, infláció és kamatlábak együttes mozgásait? Benk, Gillman és Kejak három csere-technológiát hasonlít össze — csak-készpénz, vásárlási-idő és hitel-termelési modellek — egyetlen kalibrált keretben. Mindhárom reagál áru-termelékenységi és pénz-sokkokra; a hitel-modell hitel-termelékenységi sokkot is hozzáad. A három klasszikus monetáris konjunktúra-rejtvényen való összehasonlítása során a hitel-modell lényegesen javítja a magyarázó erőt a monetáris aggregátumok, infláció és nominális kamatláb prociklikus mozgásaira. A tanulmány érvel amellett, hogy a hitel-kínálati sokkok nem csak az 1980-as évektől kezdve jellemző pénzügyi-mérnöki jelenség, hanem szerkezeti vonás, amelyet bármely monetáris konjunktúra-modellnek kezelnie kell.",
+  "data_used": "Theoretical / quantitative paper. Models calibrated to standard US monetary business-cycle moments (money, inflation, interest rate, output volatility) over the post-war period. Comparison of three exchange-technology variants on simulation versus data fit.",
+  "data_used_hu": "Elméleti / kvantitatív tanulmány. A modellek standard USA monetáris konjunktúra-momentumokra (pénz, infláció, kamatláb, kibocsátási volatilitás) kalibráltak a háború utáni időszakra. Három csere-technológia változat összehasonlítása szimuláció vs. adat-illeszkedés alapján.",
+  "policy_relevance": "For MNB monetary modelling: the paper supports including credit-supply shocks (alongside standard productivity and money shocks) in DSGE-style frameworks. Hungarian credit-cycle dynamics, particularly the 2002-2008 FX-mortgage build-up and the 2009-12 deleveraging, are the kind of pattern this framework was built to capture. Caveat: theoretical / US-calibrated; specific Hungarian quantitative implications need re-calibration.",
+  "policy_relevance_hu": "MNB monetáris modellezéséhez: a tanulmány támogatja a hitel-kínálati sokkok (a standard termelékenységi és pénz-sokkok mellett) beépítését DSGE-stílusú keretekbe. A magyar hitel-ciklus dinamika, különösen a 2002-2008 közötti devizahitel-felépülés és a 2009-12-es leépülés, pontosan az a minta, amelyre ez a keret épült. Korlát: elméleti / USA-kalibrált; konkrét magyar kvantitatív implikációk újra-kalibrálást igényelnek.",
+  "topics": [
+    "banking-finance",
+    "macroeconomics"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W2125329712"
 }

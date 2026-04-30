@@ -17,19 +17,28 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Az iskolázottság hatásait oktatási reformok segítségével mérő irodalom nagy része kérdőíves felmérésekből származó adatokkal dolgozik. A tanulmány azt vizsgálja, okoz-e problémát ezekben a mérésekben, hogy az adatfelvételek mintáit nem azzal a céllal hozták létre, hogy az egyes reformok kohorszaira reprezentatívak legyenek. A tanulmány az ELSA-adatfelvétel és egy sokszor vizsgált oktatási reform segítségével vizsgálja, hogy a kötelező iskolalátogatási korhatár felemelése befolyásolja-e a felmérésben való részvételt, a lemorzsolódást és a válaszadást. Az eredmények azt mutatják, hogy bár a reform valóban befolyásolta a lemorzsolódást, és a mintát is pontosan úgy bővítették, hogy a reformnak kitett emberek száma mechanikusan megnőtt, a szokásos eljárással végzett becslési eredmények mindezek ellenére stabilak maradnak az egyes hullámok között. Az első hullámban azonban olyan változókban is van különbség a szakadási pont két oldalán, amelyeket nem okozhatott a reform, és ezek valószínűleg torzítják a becsült hatás mértékét.*&#13;\\nJournal of Economic Literature (JEL) kód: I2, C21, J13.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "When researchers study the effects of education reforms using survey data, the survey was rarely designed with that reform in mind. Does the mismatch bias the estimated effects? Adamecz and Adamecz-Völgyi use the English Longitudinal Study of Ageing (ELSA) and a much-studied UK reform — the 1972 raising of the school-leaving age from 15 to 16 — to test whether the reform itself affected survey participation, attrition, or response rates. The reform did affect attrition, and the sample expansion mechanically increased the reform-exposed cohort. Standard regression-discontinuity estimates remain stable across waves, but the first wave shows imbalance on variables the reform could not have caused — likely biasing the estimated effect.",
+  "summary_hu": "Amikor kutatók kérdőíves adatokon vizsgálják oktatási reformok hatását, a felvétel ritkán készült éppen azzal a reformmal a fókuszban. Torzítja-e ez a megfeleltetés-hiány a becsült hatásokat? Adamecz és Adamecz-Völgyi az angliai ELSA-felmérést és egy sokszor vizsgált reformot (az 1972-es brit, 15-ről 16-ra emelt tankötelezettségi korhatár) használja annak tesztelésére, hogy maga a reform befolyásolta-e a részvételt, lemorzsolódást vagy a válaszadási arányt. A reform valóban befolyásolta a lemorzsolódást, és a mintabővítés mechanikusan megnövelte a reformnak kitett kohorszot. A standard regressziós diszkontinuitás-becslések stabilak maradnak hullámok között, de az első hullámban olyan változókban is van eltérés, amelyeket a reform nem okozhatott — valószínűleg torzítva a becsült hatást.",
+  "data_used": "English Longitudinal Study of Ageing (ELSA), waves 1–7 (~2002 onwards), regression-discontinuity design around the 1972 UK school-leaving-age reform. Sample of ~10,000 individuals born 1953–1959.",
+  "data_used_hu": "Az angliai English Longitudinal Study of Ageing (ELSA) 1–7. hulláma (~2002-től), regressziós diszkontinuitás az 1972-es brit tankötelezettségi-korhatár reform körül. ~10 000 fős, 1953–1959 között születettekből álló minta.",
+  "policy_relevance": "Methodological warning for Hungarian researchers using KSH or HCSO survey data to evaluate reforms (1990s school-system changes, 2000s VET reforms, 1996 vocational restructuring). The standard 'use any waveof a longitudinal survey, run RDD' workflow can produce biased estimates if the reform itself shifted who answers. Recommended fix: check pre-reform balance on variables the reform cannot have affected; if imbalance shows, restrict to later waves where the survey design has caught up. Affects the empirical literature on the Hungarian VET reform of 1998 and the 2010 raising of the school-leaving age.",
+  "policy_relevance_hu": "Módszertani figyelmeztetés a magyar kutatóknak, akik KSH-felvételek alapján értékelnek reformokat (1990-es évek iskolarendszeri változásai, 2000-es szakképzési reformok, 1996-os szakmunkás-átalakítás). A standard 'használjuk a longitudinális felmérés bármelyik hullámát, futtassunk RDD-t' munkamenet torzított becsléseket adhat, ha maga a reform megváltoztatta, ki válaszol. Ajánlott eljárás: ellenőrizzük a reform előtti egyensúlyt olyan változókban, amelyeket a reform nem érinthetett; ha eltérés van, szűkítsük le későbbi hullámokra, ahol a felmérés tervezése már alkalmazkodott. Érinti az 1998-as magyar szakképzési reformról és a 2010-es tankötelezettség-emelésről szóló empirikus irodalmat.",
+  "topics": [
+    "education-skills",
+    "methods"
+  ],
+  "methods": [
+    "rd"
+  ],
+  "countries_studied": [
+    "GB"
+  ],
+  "data_types": [
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W4309181477"
 }

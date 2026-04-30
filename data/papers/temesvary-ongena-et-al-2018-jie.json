@@ -17,20 +17,30 @@
   "url_published": "https://doi.org/10.1016/j.jinteco.2018.02.004",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "We examine how U.S. monetary policy affects the international activities of U.S. banks. We access a rarely studied U.S. bank-level regulatory dataset to assess at a quarterly frequency how changes in the U.S. Federal funds rate (before the crisis) and quantitative easing (after the onset of the crisis) affect changes in cross-border claims by U.S. banks across countries, maturities and sectors, and also affect changes in claims by their foreign affiliates. We find robust evidence consistent with the existence of a potent global bank lending channel. In response to changes in U.S. monetary conditions, U.S. banks strongly adjust their cross-border claims in both the pre- and post-crisis period. However, we also find that U.S. bank affiliate claims respond mainly to host country monetary conditions.",
+  "summary_en": "Does US monetary policy spread internationally through US banks' foreign activities? Temesváry, Ongena and Owen access a quarterly US bank regulatory dataset to test whether changes in the Fed funds rate (pre-crisis) and quantitative-easing operations (post-crisis) affect US banks' cross-border claims and the activities of their foreign affiliates. They find robust evidence of a global bank lending channel: US banks adjust their cross-border claims in response to US monetary policy in both pre- and post-crisis periods. Foreign affiliates of US banks, however, respond mainly to host-country monetary conditions, not US ones — they 'localise' their behaviour.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "US Federal Reserve quarterly bank-level regulatory dataset (FR 2502, Y-9C, FFIEC 002) on cross-border claims and foreign-affiliate activities, 1980s-2010s.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct evidence for IMF, BIS and central banks (including MNB) that US monetary policy transmits via US banks' cross-border lending — a globally important channel that affects emerging-market financing conditions. Relevant for MNB macroprudential monitoring of Hungarian companies' USD-denominated borrowing exposure.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "macroeconomics",
+    "trade-fdi"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W1854124405"
 }

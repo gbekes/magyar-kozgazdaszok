@@ -17,19 +17,28 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Abstract A growing strand of literature highlights that migration may favor growth‐enhancing technology transfer, trade, and foreign direct investments between the source and the host economies of migrants (network effects). A specific channel is explored through which the possible “diaspora externality” associated with the emigration of workers may occur: the removal of informational, cultural, and reputational barriers that could prevent firms of high‐income countries from investing in the low‐income immigrants' economies of origin. By means of a straightforward gravity specification, a fragmentation and multinational production model is taken to the data. The focus is on the mobility of capital and workers between the advanced European Union countries (EU15) and New Member States (NMS) in the 1995–2007 period. The evidence points to a significant correlation between the volume of EU15's activities in NMS and the total stock of NMS's own‐migrants in the EU15 economies.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "Does emigration from poorer countries help attract foreign direct investment back to those origin countries? De Simone and Manchin test the 'diaspora externality' hypothesis: emigrants reduce informational, cultural, and reputational barriers between rich-country firms and the source-country investment environment. Using a fragmented gravity specification on bilateral migration and FDI flows between Eastern and Western Europe, they find a positive and significant link — emigrant stocks raise inward FDI to the country of origin, especially for the destination industries that match emigrants' skill profile. The result implies emigration has growth-positive externalities even when the emigrant doesn't return.",
+  "summary_hu": "Hozzájárul-e a szegényebb országokból való kivándorlás ahhoz, hogy a származási országokba külföldi működő tőkét vonzzon vissza? De Simone és Manchin a 'diaszpóra-externália' hipotézist teszteli: a kivándorlók csökkentik az információs, kulturális és reputációs akadályokat a gazdag-országbeli cégek és a származási ország beruházási környezete között. Töredékes gravitációs specifikációval kétoldalú migrációs és FDI-áramlásokon Kelet- és Nyugat-Európa között, pozitív és szignifikáns kapcsolatot találnak — a kivándorlók állománya növeli a származási országba érkező FDI-t, különösen azokban a célágazatokban, amelyek illeszkednek a kivándorlók képzettségi profiljához. Az eredmény azt jelenti, hogy a kivándorlás növekedéspozitív externáliával jár, akkor is, ha a kivándorló nem tér haza.",
+  "data_used": "Bilateral migration stock and FDI flow data between Eastern and Western European countries, late 1990s–2000s. Gravity specification with diaspora-externality terms.",
+  "data_used_hu": "Kelet- és Nyugat-Európa közötti kétoldalú migrációs állomány és FDI-áramlási adatok, 1990-es évek vége – 2000-es évek. Gravitációs specifikáció diaszpóra-externália tagokkal.",
+  "policy_relevance": "Reframes Hungarian emigration as having a partially positive externality: while Hungary loses skilled emigrants, it gains FDI from countries those emigrants live in. For NGM diaspora-policy and HIPA's outreach: actively cultivate Hungarian diaspora networks in OECD destination countries — they reduce reputational barriers for FDI back to Hungary. The paper provides an empirical case for diaspora-network policy as growth-policy. Caveat: identification is correlational; reverse-causality (FDI source-country attracts migrants) cannot be fully ruled out.",
+  "policy_relevance_hu": "Újrakeretezi a magyar kivándorlást, mint részben pozitív externáliát: bár Magyarország képzett kivándorlókat veszít, FDI-t nyer azokból az országokból, ahol ezek a kivándorlók élnek. Az NGM diaszpóra-politikájához és a HIPA tájékoztatásához: aktívan ápolja a magyar diaszpóra-hálózatokat OECD-célországokban — ezek csökkentik a Magyarországra visszairányuló FDI reputációs akadályait. A tanulmány empirikus esetet ad a diaszpóra-hálózati politikára mint növekedési politikára. Korlát: az azonosítás korrelációs; a fordított okság (az FDI-forrásország vonz migránsokat) nem zárható ki teljesen.",
+  "topics": [
+    "trade-fdi",
+    "demographics-migration"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "EU"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W1899390868"
 }

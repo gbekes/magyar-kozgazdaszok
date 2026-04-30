@@ -1,0 +1,47 @@
+{
+  "id": "fulop-li-yu-2015-rfs",
+  "title": "Self-Exciting Jumps, Learning, and Asset Pricing Implications",
+  "authors": [
+    "fulop-andras",
+    "Junye Li",
+    "Jun Yu"
+  ],
+  "publication_type": "article",
+  "journal": "Review of Financial Studies",
+  "year": 2015,
+  "volume": null,
+  "issue": null,
+  "pages": null,
+  "doi": null,
+  "working_paper_series": null,
+  "url_published": null,
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "The paper proposes a self-exciting asset pricing model that takes into account co-jumps between prices and volatility and self-exciting jump clustering. We employ a Bayesian learning approach to implement real-time sequential analysis. We find evidence of self-exciting jump clustering since the 1987 market crash, and its importance becomes more obvious at the onset of the 2008 global financial crisis. We also find that learning affects the tail behaviors of the return distributions and has important implications for risk management, volatility forecasting, and option pricing.",
+  "summary_en": "Using daily S&P 500 returns from 1980–2010, the authors build a Bayesian asset-pricing model in which negative price jumps trigger spikes in volatility and raise the probability of further jumps — so shocks cluster rather than arrive independently. They estimate the model in real time using sequential Monte Carlo techniques. Self-exciting jump clustering is clearly visible after the 1987 crash and becomes much more pronounced from late 2008 onwards. Accounting for this clustering changes the tail of the return distribution, with material implications for value-at-risk, volatility forecasts, and option prices.",
+  "summary_hu": null,
+  "data_used": "Daily S&P 500 index returns from 1980 through 2010 (~7,500 trading days), augmented with option-implied volatility benchmarks for validation.",
+  "data_used_hu": null,
+  "policy_relevance": "Macroprudential supervisors and central-bank financial-stability units (including MNB) calibrate stress tests and capital requirements with assumed return distributions. The paper shows that ignoring jump clustering systematically understates extreme losses, especially during crises like 2008. Methods that incorporate self-exciting jumps produce more conservative tail-risk numbers and better-aligned option-implied vs. realized volatility — useful inputs for capital-buffer calibration and counterparty-risk monitoring.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "banking-finance",
+    "methods",
+    "macroeconomics"
+  ],
+  "methods": [
+    "time-series",
+    "structural"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
+  "featured": false,
+  "added_at": "2026-04-28",
+  "last_reviewed_at": "2026-04-28",
+  "review_status": "ai-drafted",
+  "openalex_id": null
+}

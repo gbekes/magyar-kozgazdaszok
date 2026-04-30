@@ -17,19 +17,31 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Abstract We use Hungarian Customs data on product‐level imports of manufacturing firms to document that the import price of a particular product varies substantially across buying firms. We relate the level of import prices to firm characteristics such as size, foreign ownership, and market power. We develop a theory of “pricing to firm” (PTF), where markups depend on the technology and competitive environment of the buyer. The predictions of the model are confirmed by the data: import prices are higher for firms with greater market power, and for more essential intermediate inputs (with a high share in material costs). We take account of the endogeneity of the buyer’s market power with respect to higher import prices and unobserved cost heterogeneity within product categories. The magnitude of PTF is big: the standard deviation of price predicted by PTF is 21.5%.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "Do firms pay the same prices for the same imported intermediate inputs? Halpern and Koren use Hungarian Customs data on manufacturing firms' product-level imports and document substantial price dispersion: even for the exact same product, prices vary across buying firms. They develop a 'pricing to firm' (PTF) model where exporters set markups based on the technology and competitive environment of each buyer. Predictions confirmed: import prices are higher for firms with greater market power and for more essential intermediate inputs (high share in material costs). Controlling for the endogeneity of buyer market power and unobserved cost heterogeneity, the magnitude is large — the standard deviation of price predicted by PTF is 21.5%.",
+  "summary_hu": "Vajon a cégek ugyanazokat az árakat fizetik ugyanazokért az importált intermedier inputokért? Halpern és Koren magyar vámadatokat használ a feldolgozóipari cégek termékszintű importjairól, és jelentős árszórást dokumentál: még pontosan ugyanarra a termékre is változnak az árak a vásárló cégek között. 'Cégre árazás' (PTF) modellt fejlesztenek ki, ahol az exportőrök a vásárló technológiája és versenykörnyezete alapján állítják be a feláraikat. Az előrejelzések megerősítve: az importárak magasabbak a nagyobb piaci hatalmú cégeknek és a fontosabb intermedier inputokra (anyagköltségben magas részesedéssel). A vásárlói piaci hatalom endogenitását és a nem megfigyelt költség-heterogenitást kontrollálva, a nagyságrend nagy — a PTF által előrejelzett ár szórása 21,5%.",
+  "data_used": "Hungarian Customs manufacturing-firm import data at the product level (HS-8 digit). Tracks every imported product, with firm identity, price, and quantity. Sample period covers ~mid-1990s through early 2000s.",
+  "data_used_hu": "Magyar vámadminisztrációs feldolgozóipari cég import-adatok termékszinten (HS-8 jegyű). Minden importált terméket követ a cég-azonosítóval, árral és mennyiséggel. A mintaidőszak ~1990-es évek közepétől a 2000-es évek elejéig terjed.",
+  "policy_relevance": "For Hungarian trade and FDI policy (NGM, ITM, HIPA): the paper documents that exporting countries practice price discrimination against Hungarian importers based on their market power. SMEs pay higher input prices; this raises the value of pooled-procurement initiatives, intermediation by trade associations, and government procurement aggregation. Relevant for analysis of Hungarian SME productivity and for understanding the source of FDI-driven productivity gains (foreign-owned firms have lower import prices).",
+  "policy_relevance_hu": "A magyar kereskedelmi és FDI-politikához (NGM, ITM, HIPA): a tanulmány dokumentálja, hogy az exportáló országok piaci hatalom alapján árdiszkriminálják a magyar importálókat. A KKV-k magasabb input-árakat fizetnek; ez növeli a poolozott közbeszerzési kezdeményezések, a kereskedelmi egyesületek általi közvetítés és a kormányzati beszerzési aggregáció értékét. Releváns a magyar KKV-termelékenység elemzéséhez és az FDI-vezérlésű termelékenységi nyereségek forrásának megértéséhez (a külföldi tulajdonú cégek alacsonyabb import-árakat fizetnek).",
+  "topics": [
+    "trade-fdi",
+    "firms-productivity",
+    "industrial-organization"
+  ],
+  "methods": [
+    "panel-data",
+    "structural"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm",
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W3124499417"
 }

@@ -16,20 +16,25 @@
   "url_published": "https://doi.org/10.1007/s00182-012-0344-8",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "We expand Crawford and Sobel's (Econometrica 50(6):1431–1451, 1982) model of information transmission to allow for the costly provision of 'hard evidence' in addition to conventional cheap talk. Under mild assumptions we prove that equilibria have an interval-partition structure, where types of the Sender belonging to the same interval either all induce the same action through cheap talk or reveal their types through hard evidence. We also show that the availability of costly hard signals may reverse one of the important implications of the classical cheap talk model, namely, that diverging preferences always lead to less communication.",
+  "summary_en": "Crawford and Sobel (1982) showed that with biased communication ('cheap talk'), more divergent sender-receiver preferences mean less informative messages. Eső and Galambos extend this canonical model by allowing the sender to provide 'hard evidence' (costly verifiable proof) in addition to cheap talk. They prove equilibria have an interval-partition structure: senders within an interval either pool on the same cheap-talk message or reveal their type through hard evidence. Surprisingly, costly hard signals can reverse the classical result — diverging preferences may sometimes lead to MORE communication, not less, because more divergent senders find hard evidence relatively more attractive.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model — extension of Crawford-Sobel cheap-talk framework with hard-evidence option. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for institutional design where regulators or committees solicit information from biased experts (GVH technical-economic panels, MEKH expert reviews, MNB advisory committees, EU expert groups). The paper shows that allowing experts to provide hard evidence — not just opinions — can improve information transmission even when expert preferences differ from the regulator's.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "mechanism-design",
+    "behavioral"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2100951350"
 }

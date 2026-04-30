@@ -18,19 +18,28 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "ABSTRACT A central assumption of neoclassical economics is that reservation prices for familiar products express people's true preferences for these products; that is, they represent the total benefit that a good confers to the consumers and are, thus, independent of actual prices in the market. Nevertheless, a vast amount of research has shown that valuations can be sensitive to other salient prices, particularly when individuals are explicitly anchored on them. In this paper, the authors extend previous research on single‐price anchoring and study the sensitivity of valuations to the distribution of prices found for a product in the market. In addition, they examine its possible causes. They find that market‐dependent valuations cannot be fully explained by rational inferences consumers draw about a product's value and are unlikely to be fully explained by true market‐dependent preferences. Rather, the market dependence of valuations likely reflects consumers' focus on something other than the total benefit that the product confers to them. Furthermore, this paper shows that market‐dependent valuations persist when – as in many real‐life settings – individuals make repeated purchase decisions over time and infer the distribution of the product's prices from their market experience. Finally, the authors consider the implications of their findings for marketers and consumers. Copyright © 2013 John Wiley &amp; Sons, Ltd.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "Are people's reservation prices for products genuinely 'their' preferences, or do market prices anchor what they say they're willing to pay? Mažar, Köszegi and Ariely run experiments to extend prior single-price-anchoring research to the full distribution of market prices. They find that market-dependent valuations cannot be fully explained by rational inferences about product value, nor by genuinely market-dependent preferences. Rather, valuations reflect that consumers focus on something other than the total benefit the product confers. Critically, this market-dependence persists when individuals make repeated purchases over time and learn the price distribution — meaning experience does not cure the bias. Implications for both marketing strategy and consumer-protection design.",
+  "summary_hu": "A fogyasztók termékre vonatkozó fenntartási árai valóban 'saját' preferenciáik, vagy a piaci árak horgonyozzák azt, amit állítólag fizetni hajlandók? Mažar, Köszegi és Ariely kísérleteket végez a korábbi egyár-horgonyzási kutatás kiterjesztésére a piaci árak teljes eloszlására. Megállapítják, hogy a piacfüggő értékelések nem magyarázhatók teljesen a termékérték racionális következtetéseivel, sem valóban piacfüggő preferenciákkal. Inkább: az értékelések arra utalnak, hogy a fogyasztók a termék által nyújtott teljes haszontól eltérő dologra fókuszálnak. Kritikus: ez a piacfüggőség akkor is fennáll, amikor az egyének idővel ismétlődő vásárlásokat végeznek és megtanulják az áreloszlást — ami azt jelenti, hogy a tapasztalat nem gyógyítja a torzítást. Implikációk a marketing-stratégiára és a fogyasztóvédelem tervezésére.",
+  "data_used": "Lab experiments and online experiments with US adult subjects. Subjects asked to value various consumer products under different price-distribution treatments. Replication across product categories and over repeated purchase rounds.",
+  "data_used_hu": "Laboratóriumi és online kísérletek USA felnőtt résztvevőkkel. A résztvevőket különböző ár-eloszlási kezelések mellett kérik fogyasztói termékek értékelésére. Replikáció termékkategóriák között és ismétlődő vásárlási körökben.",
+  "policy_relevance": "For Hungarian consumer-protection policy and competition policy (GVH, NFH): the paper undermines the assumption that informed-consumer markets reach efficient pricing equilibria. Even with full information and repeated purchases, market-price anchoring distorts willingness-to-pay. Supports more active disclosure rules and price-comparison interventions, especially for products where consumer-demand elasticity is mistakenly assumed to be high.",
+  "policy_relevance_hu": "A magyar fogyasztóvédelmi politikához és versenypolitikához (GVH, NFH): a tanulmány aláássa azt a feltevést, hogy az informált-fogyasztói piacok hatékony ár-egyensúlyt érnek el. Még teljes információ és ismétlődő vásárlások mellett is a piaci-ár horgonyzás torzítja a fizetési hajlandóságot. Aktívabb közlési szabályokat és ár-összehasonlítási beavatkozásokat támogat, különösen olyan termékeknél, ahol a fogyasztói-kereslet rugalmasságát tévesen magasnak feltételezik.",
+  "topics": [
+    "behavioral",
+    "industrial-organization"
+  ],
+  "methods": [
+    "rct"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "field-experiment"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W2334115192"
 }

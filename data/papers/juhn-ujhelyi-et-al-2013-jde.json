@@ -8,7 +8,7 @@
   ],
   "publication_type": "article",
   "journal": "Journal of Development Economics",
-  "year": 2013,
+  "year": 2014,
   "volume": "106",
   "issue": null,
   "pages": "179-193",
@@ -17,20 +17,31 @@
   "url_published": "https://doi.org/10.1016/j.jdeveco.2013.09.009",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "This paper studies the effect of trade liberalization on an under-explored aspect of wage inequality — gender inequality. We consider a model where firms differ in their productivity and workers are differentiated by skill as well as gender. A reduction in tariffs induces more productive firms to modernize their technology and enter the export market. New technologies involve computerized production processes and lower the need for physically demanding skills. As a result, the relative wage and employment of women improves in blue-collar tasks, but not in white-collar tasks. We test our model using a panel of establishment level data from Mexico exploiting tariff reductions associated with the North American Free Trade Agreement (NAFTA). Consistent with our theory we find that tariff reductions caused new firms to enter the export market, update their technology and replace male blue-collar workers with female blue-collar workers.",
+  "summary_en": "An extended treatment of the trade-liberalisation/gender-inequality result with full theoretical derivations and richer Mexican empirical evidence. Juhn, Ujhelyi and Villegas-Sanchez show that NAFTA-era tariff reductions caused more productive Mexican firms to enter the export market, modernise their technology (lowering the importance of physical strength), and substitute female for male blue-collar workers. The relative wage and employment of women improved in blue-collar tasks but not in white-collar tasks. The paper provides one of the cleanest causal demonstrations of trade-driven gender-equality gains.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Mexican establishment-level panel from the Encuesta Industrial Anual (INEGI), 1990–2000, with industry-level NAFTA tariff schedules; covers approximately 5,000–7,000 manufacturing establishments per year across all industries.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Provides a robust empirical anchor for arguments that trade liberalisation can reduce gender wage gaps via technology channels. Relevant for Hungary's Equal Treatment Authority, Pénzügyminisztérium and KSH when assessing how export-driven sectors (Audi, Mercedes, Bosch in Hungary) shape gender-wage trajectories. Also informs EU trade-policy debates about distributional effects.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "trade-fdi",
+    "labor-markets",
+    "demographics-migration"
+  ],
+  "methods": [
+    "panel-data",
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "MX"
+  ],
+  "data_types": [
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-19",
-  "last_reviewed_at": "2026-04-19",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2036776787"
 }

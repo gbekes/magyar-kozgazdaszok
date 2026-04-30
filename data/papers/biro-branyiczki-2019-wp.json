@@ -16,20 +16,31 @@
   "url_published": "https://doi.org/10.1515/9783110617245-017",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "Book chapter (Bíró & Branyiczki) in 'Health and Socio-Economic Status over the Life Course: First Results from SHARE Waves 6 and 7' (Börsch-Supan et al. eds., De Gruyter Oldenbourg 2019). Examines health gaps in post-socialist Central and Eastern European countries from a life-course perspective using SHARE data. No publisher-side chapter abstract available.",
+  "summary_en": "Bíró and Branyiczki document health gaps between post-socialist Central and Eastern European countries (Hungary, Poland, Czechia, Slovakia, etc.) and Western Europe using SHARE waves 6-7. They take a life-course perspective: gaps in self-rated health, chronic-disease prevalence, and depression scores partly trace back to events earlier in life (childhood deprivation, education, employment shocks). The chapter contributes to understanding why Hungarian and CEE older-age health outcomes lag behind Western European ones decades after the transition.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Survey of Health, Ageing and Retirement in Europe (SHARE) waves 6-7, including life-history retrospective survey (SHARELIFE), covering ~25,000 individuals aged 50+ in 17 countries with detailed life-course event histories.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungarian public-health policy (Egészségügyi Államtitkárság, NEAK) operates against a backdrop of substantial East-West health gaps. The paper shows these gaps are partly determined by life-course events (childhood deprivation, transition-era job losses) — useful for designing targeted older-age health interventions and for arguing the long-term-investment case for early-life public-health spending.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "health",
+    "inequality-welfare",
+    "transition-postcommunist"
+  ],
+  "methods": [
+    "descriptive-survey",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2948301686"
 }

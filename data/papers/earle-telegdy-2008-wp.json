@@ -17,19 +17,30 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Abstract Wages in the transition economies of Eastern Europe have changed dramatically in the fifteen years since the collapse of central planning. Average wages tended to decline in the first few years of transition and to rise more recently. At the same time, the economies of the region have experienced massive organizational changes, most prominently large-scale privatization and opening to the global economy, including foreign direct investment. These rapid changes provide a useful context for investigating the relationship between firm ownership and the level of wages. This chapter explores the relationship between wage level and ownership using linked employer-employee data for Hungary. The data cover nearly every tax-paying entity of at least twenty employees in Hungary from 1986 to 2003, and include many more switches of ownership type than in previous research: nearly 1,000 involving foreign companies and nearly 3,500 involving state-owned corporations over the period.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "How does ownership type affect wages in transition economies? Earle and Telegdy use a remarkable Hungarian linked employer-employee dataset covering nearly every tax-paying entity with 20+ employees, 1986–2003. The data include nearly 1,000 ownership-switches involving foreign companies and 3,500 involving state-owned firms — far more variation than prior studies. They estimate the wage premium associated with foreign and state ownership before, during, and after switches. The richness of the data allows credible causal identification through within-firm variation across ownership episodes. A foundational Hungarian-data resource paper for the wage-and-ownership literature.",
+  "summary_hu": "Hogyan befolyásolja a tulajdonosi típus a béreket az átmeneti gazdaságokban? Earle és Telegdy figyelemre méltó magyar összekapcsolt munkáltató-munkavállaló adatállományt használ, amely 1986–2003 között lefedi a 20+ alkalmazottú adófizető szervezetek szinte mindegyikét. Az adatok közel 1000 külföldi és 3500 állami tulajdonváltást tartalmaznak — sokkal több variációt, mint a korábbi tanulmányok. Becslik a külföldi és állami tulajdonhoz kapcsolódó bérprémiumot a tulajdonváltások előtt, alatt és után. Az adatok gazdagsága lehetővé teszi a hiteles okozati azonosítást a tulajdonosi epizódok közötti vállalaton belüli variációval. Alapozó magyar-adat-erőforrás tanulmány a bér- és tulajdonosi irodalomhoz.",
+  "data_used": "Hungarian linked employer-employee admin data, 1986–2003, covering ~all firms with 20+ employees. ~1,000 foreign-ownership switches, ~3,500 state-ownership switches.",
+  "data_used_hu": "Magyar összekapcsolt munkáltató-munkavállaló adminisztratív adatok, 1986–2003, ~az összes 20+ főt foglalkoztató cég. ~1000 külföldi tulajdonosi váltás, ~3500 állami tulajdonosi váltás.",
+  "policy_relevance": "Foundational for Hungarian foreign-ownership and labour-policy debates. The paper's data richness allows the cleanest separation to date of foreign-ownership-wage-premium from selection effects in Hungarian context. Relevant to HIPA / NGM FDI-promotion benchmarking and to Eq Treatment Authority labour-market analyses. Caveat: data end in 2003; post-EU-accession dynamics may differ.",
+  "policy_relevance_hu": "Alapozó a magyar külföldi-tulajdon és munkapolitikai vitákhoz. A tanulmány adatgazdagsága lehetővé teszi a külföldi-tulajdonosi bérprémium szelekciós hatásoktól való legtisztább elválasztását a magyar kontextusban. Releváns a HIPA / NGM FDI-promóció benchmarkjához és az Egyenlő Bánásmódért Hatóság munkapiaci elemzéseihez. Korlát: az adatok 2003-ig tartanak; az EU-csatlakozás utáni dinamika eltérő lehet.",
+  "topics": [
+    "labor-markets",
+    "transition-postcommunist",
+    "firms-productivity"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm",
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W2476758318"
 }

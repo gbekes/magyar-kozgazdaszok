@@ -1,0 +1,44 @@
+{
+  "id": "mele-molnar-santoro-2020-jome",
+  "title": "On the Perils of Stabilizing Prices when Agents are Learning",
+  "authors": [
+    "Antonio Mele",
+    "molnar-kriszta",
+    "Sergio Santoro"
+  ],
+  "publication_type": "article",
+  "journal": "Journal of Monetary Economics",
+  "year": 2020,
+  "volume": "115",
+  "issue": "C",
+  "pages": "339-353",
+  "doi": "10.1016/j.jmoneco.2019.09.005",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1016/j.jmoneco.2019.09.005",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "The main advantage of price level stabilization compared with inflation stabilization rests on the central bank's ability to shape expectations. We show that stabilizing prices is no longer optimal when the central bank can shape expectations of agents with incomplete knowledge, who have to learn about the policy implemented. Disinflating in the short run more than agents expect generates short-term gains without triggering an abrupt loss of confidence, because agents update expectations sluggishly. Following this policy, in the long run, the central bank loses the ability to shape agents' beliefs, and the economy converges to a rational expectations equilibrium in which policy does not stabilize prices, economic volatility is high, and agents suffer the corresponding welfare losses. However, these losses are outweighed by short-term gains from the learning phase.",
+  "summary_en": "Price-level targeting is often advocated as superior to inflation targeting because it lets the central bank shape long-run expectations. Mele, Molnár and Santoro show this argument breaks down when households and firms must *learn* the policy rule rather than starting with rational expectations. A central bank can win short-run welfare gains by disinflating more than agents expect — they update sluggishly — but in the long run the economy converges to a rational-expectations equilibrium where the central bank no longer stabilises prices, volatility rises, and welfare drops. The short-run gains can outweigh long-run losses, but the trade-off is non-trivial.",
+  "summary_hu": null,
+  "data_used": "Sticky-price macroeconomic model with adaptive-learning agents; calibrated to standard quarterly US data for welfare and policy-comparison exercises.",
+  "data_used_hu": null,
+  "policy_relevance": "When the MNB or ECB consider switching frameworks (price-level targeting, average inflation targeting), the standard argument that price-level targeting helps anchor expectations assumes rational agents. The paper shows under realistic adaptive learning, the long-run gain disappears and the policy may converge to a worse equilibrium. Important when interpreting the ECB's 2021 'symmetric inflation target' transition and any future MNB framework reviews.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "macroeconomics",
+    "banking-finance"
+  ],
+  "methods": [
+    "structural",
+    "theory"
+  ],
+  "countries_studied": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
+  "featured": false,
+  "added_at": "2026-04-27",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
+  "openalex_id": null
+}

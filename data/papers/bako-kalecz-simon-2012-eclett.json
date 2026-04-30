@@ -16,20 +16,25 @@
   "url_published": "https://doi.org/10.1016/j.econlet.2012.03.016",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "In this article we examine the effects of third degree price discrimination in asymmetric Cournot oligopolies. We show that the average price is not affected by the extent of price discrimination. We find that the asymmetry between firms is reflected only by the output produced for the lowest-valuation consumers and firms produce equal quantities to the other consumer groups.",
+  "summary_en": "When asymmetric Cournot-oligopoly firms can engage in third-degree price discrimination across consumer segments, what happens? Bakó and Kálecz-Simon prove a striking result: the average market price is unaffected by the extent of price discrimination. Cost or quality asymmetries between firms only show up in the output produced for the lowest-valuation consumer segment; for all other segments, firms produce equal quantities. The result simplifies welfare analysis of price-discrimination policy in oligopolistic markets.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model — third-degree price discrimination in asymmetric Cournot oligopoly. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for GVH (Hungarian Competition Authority) merger reviews and price-discrimination assessments. The paper shows that bans on price discrimination in oligopoly markets do not raise average prices — a useful counter-argument when industry lobbies oppose discrimination bans on consumer-welfare grounds.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "industrial-organization",
+    "behavioral"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-30",
+  "review_status": "ai-drafted",
   "openalex_id": "W2090060566"
 }

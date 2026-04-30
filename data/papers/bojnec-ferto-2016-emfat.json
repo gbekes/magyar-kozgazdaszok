@@ -17,19 +17,26 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "While recent research into foreign direct investment (FDI) has focused on examining the importance of institutions, corruption, money laundering, and tax havens, the role of globalization on FDI has not yet been explored. This research investigates the impacts of globalization on outward FDI. We find that both overall globalization and its economic and social dimensions significantly positively influence outward FDI flows. We also demonstrate that beyond the level of globalization, corruption, money laundering, and the status of a country as a tax haven, cross-country similarity also plays an important role. Accordingly, policies specifically designed to increase the transparency of outward FDI flows should be required to address money laundering and the existence of tax havens.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "How does globalization affect outward foreign direct investment? Bojnec and Fertő look beyond the typical institutional / corruption / tax-haven channels to examine globalization itself. Using cross-country data, they show both overall globalization and its economic and social dimensions significantly raise outward FDI flows. Beyond globalization level, cross-country similarity also matters — culturally and economically similar countries trade FDI more easily. The findings imply policies to increase transparency of outward FDI flows are needed to address money-laundering and tax-haven misuse, especially as social globalization (information flows, social networks) increases the velocity of capital that can be moved abroad.",
+  "summary_hu": "Hogyan befolyásolja a globalizáció a kifelé irányuló külföldi működő tőkét? Bojnec és Fertő túlmutat a tipikus intézményi / korrupciós / adóparadicsomi csatornákon, és magát a globalizációt vizsgálja. Országokon átnyúló adatokat használva megmutatják, hogy a teljes globalizáció és annak gazdasági és társadalmi dimenziói egyaránt szignifikánsan növelik a kifelé irányuló FDI-áramlásokat. A globalizáció szintje mellett az országok közötti hasonlóság is számít — a kulturálisan és gazdaságilag hasonló országok könnyebben cserélnek FDI-t. A megállapítások arra utalnak, hogy szükség van a kifelé irányuló FDI-áramlások átláthatóságát növelő szakpolitikákra a pénzmosás és az adóparadicsom-visszaélés kezelésére, különösen amikor a társadalmi globalizáció (információáramlás, közösségi hálózatok) növeli a külföldre vihető tőke sebességét.",
+  "data_used": "Cross-country panel of outward FDI flows with KOF Globalization Index components (economic, social, political dimensions). Includes governance and tax-haven controls. Sample covers a wide range of OECD and emerging economies.",
+  "data_used_hu": "Országokon átnyúló panel a kifelé irányuló FDI-áramlásokra a KOF Globalizációs Index komponensekkel (gazdasági, társadalmi, politikai dimenziók). Kormányzási és adóparadicsom-kontrollokat is tartalmaz. A minta OECD és feltörekvő gazdaságok széles körét fedi le.",
+  "policy_relevance": "For Hungarian outward-FDI policy (MFA, NGM): the paper implies that as Hungarian globalization deepens, the outward flow from Hungarian-origin firms will accelerate, and transparency / anti-money-laundering policy must keep pace. Useful framework for evaluating Hungarian SME outward-investment incentives versus the risks of capital flight via tax-haven structures. Caveat: cross-country sample includes very different regulatory regimes; Hungarian-specific application requires localised interpretation.",
+  "policy_relevance_hu": "A magyar kifelé irányuló FDI-politikához (Külügyminisztérium, NGM): a tanulmány arra utal, hogy ahogy a magyar globalizáció mélyül, a magyar-eredetű cégek kifelé irányuló áramlása gyorsulni fog, és az átláthatóság / pénzmosás-ellenes szakpolitikának lépést kell tartania. Hasznos keret a magyar KKV-kifelé irányuló-beruházási ösztönzők értékeléséhez az adóparadicsom-struktúrák útján történő tőkemenekülés kockázatával szemben. Korlát: az országokon átnyúló minta nagyon eltérő szabályozási rezsimeket tartalmaz; a magyar-specifikus alkalmazás lokalizált értelmezést igényel.",
+  "topics": [
+    "trade-fdi",
+    "political-economy"
+  ],
+  "methods": [
+    "panel-data"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W2552697550"
 }

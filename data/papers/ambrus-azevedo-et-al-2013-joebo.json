@@ -18,20 +18,25 @@
   "url_published": "https://doi.org/10.1016/j.jebo.2013.08.003",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "This paper considers a model of legislative decision-making, in which information must be collected from a strategic lobbyist. The legislature appoints a committee to communicate with the lobbyist and propose a bill, and determines whether the proposal is processed under open or closed rule. Consistent with empirical evidence, it can be optimal for the legislature to appoint a biased committee and, depending on the lobbyist's bias, both open and closed rule are used in equilibrium. For small lobbyist bias, it is optimal to choose closed rule and a committee whose interests are perfectly aligned with the lobbyist's. For intermediate lobbyist bias, closed rule remains optimal with a committee whose preferences lie between those of the legislature and those of the lobbyist. For large lobbyist bias, open rule and a committee biased against the lobbyist become optimal.",
+  "summary_en": "Why do legislatures delegate bill-drafting to committees rather than the full chamber? Ambrus, Azevedo, Kamada and Takagi develop a model where the legislature must extract information from a strategic lobbyist and chooses both the committee composition and whether to use 'open rule' (amendments allowed) or 'closed rule' (no amendments). With small lobbyist bias, optimal to use closed rule with a committee perfectly aligned with the lobbyist. With intermediate bias, closed rule with a committee in between legislature and lobbyist preferences. With large bias, open rule plus a committee biased against the lobbyist. The framework explains observed congressional patterns.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model with empirical references to US congressional committee assignments and procedural rules. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for Hungarian Parliament's standing-committee design and rules of procedure, and for EU institutional design (Council working parties, Parliament committees). The model formalises why politically-biased committees are sometimes optimal and how procedural choices (open vs closed rule, in Hungary: discussion vs. expedited procedure) interact with lobbyist influence.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "political-economy",
+    "mechanism-design"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2134365360"
 }

@@ -16,19 +16,27 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This chapter provides an in-depth analysis of the Pacific Alliance, a regional integration initiative in Latin America that includes Colombia, Chile, Mexico, and Peru. The chapter begins by outlining the historical background and objectives of the PA, emphasising its goal of fostering economic integration, enhancing competitiveness, and promoting free trade within the region and with the Asia-Pacific. Through the use of principal component analysis (PCA), the chapter quantitatively assesses the level of integration among member countries using macroeconomic indicators from 1991 to 2019. The findings reveal that, while there is an upward trend in economic integration, the impacts are largely driven by global economic trends rather than the PA itself. The study highlights significant disparities in the economic profiles of the member countries, suggesting limited success in achieving deep integration. Nonetheless, the chapter underscores the potential of the PA, given its relatively recent establishment, and calls for continued efforts to enhance financial integration and cooperation among the member states.",
-  "summary_en": null,
+  "summary_en": "Has the Pacific Alliance — a 2011 Latin American economic-integration initiative comprising Colombia, Chile, Mexico and Peru — actually delivered deeper integration among its members? Ertl uses principal component analysis on macroeconomic indicators 1991-2019 to assess integration trends. Findings: there is an upward trend in economic integration, but it is largely driven by broader global economic trends rather than by the PA itself. Significant disparities remain in the four members' economic profiles, suggesting limited success at deep integration. The chapter argues the PA has potential given its relative youth, and calls for continued efforts on financial integration and cooperation. A useful methodological example of evaluating regional integration with quantitative tools.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Macroeconomic indicators for Colombia, Chile, Mexico, Peru, 1991-2019, drawn from World Bank / IMF databases. Principal Component Analysis (PCA) used to construct integration indices and decompose them into PA-specific vs global-trend components.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Methodological reference for Hungarian assessment of regional-integration agreements (V4, Three Seas Initiative, EU Eastern Partnership). The PCA approach is portable to Central European contexts where similar 'is integration real or just global trends?' questions arise. Indirect relevance to Hungarian foreign-policy analysis at MFA and ITM. Caveat: Latin American context; Hungarian regional-integration initiatives operate under different institutional constraints.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "trade-fdi",
+    "macroeconomics",
+    "methods"
+  ],
+  "methods": [
+    "panel-data"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W4407765213"
 }

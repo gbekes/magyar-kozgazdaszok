@@ -1,0 +1,48 @@
+{
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "We explore current interpretations of firm-level dispersion in revenue-based productivity measures. Since revenue function estimates using proxy methods differ from factor elasticities, the residual emerging from this method remains a combination of demand and technical efficiency shocks, and is not equal to the concept of revenue productivity that plays an important role in recent literature on misallocation. This has implications for applications where measured revenue productivity dispersion is used as an indicator of misallocation. Our empirical evidence suggests, under iso-elastic demand, measured dispersion may indicate either distortions or variation in demand shocks and technical efficiency or all of the above.",
+  "summary_en": "Foster, Grim, Haltiwanger and Wolf address a methodological gap in firm-level productivity measurement: residuals from proxy-variable estimation methods (Olley-Pakes, Levinsohn-Petrin) combine demand shocks, technical efficiency, and price effects — they are not equivalent to the 'revenue productivity' concept central to the misallocation literature. Using US manufacturing microdata, they show that under iso-elastic demand, observed dispersion in measured productivity can reflect distortions, demand shocks, or technical-efficiency variation — or any combination. The paper challenges naive interpretations of dispersion as evidence of misallocation.",
+  "summary_hu": null,
+  "data_used": "US Census Bureau plant-level manufacturing micro-data, Annual Survey of Manufactures.",
+  "data_used_hu": null,
+  "policy_relevance": "Hungarian misallocation diagnostics (KSH/MNB/KRTK studies of TFP dispersion) typically report dispersion as a proxy for reform potential. The paper shows this interpretation depends on demand and technology assumptions that often do not hold in Hungarian sectors with concentrated buyers (energy, public procurement). Caveat important for ITM and Pénzügyminisztérium productivity-gap analyses.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "firms-productivity",
+    "macroeconomics",
+    "methods"
+  ],
+  "methods": [
+    "structural",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
+  "featured": false,
+  "added_at": "2026-04-27",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
+  "policy_instruments": [],
+  "working_paper_series": null,
+  "pages": "95-98",
+  "issue": "5",
+  "volume": "106",
+  "doi": "10.1257/aer.p20161102",
+  "url_published": null,
+  "id": "foster-grim-et-al-2016-aer",
+  "title": "Firm-Level Dispersion in Productivity: Is the Devil in the Details?",
+  "authors": [
+    "Lucia Foster",
+    "Cheryl Grim",
+    "John Haltiwanger",
+    "wolf-zoltan"
+  ],
+  "journal": "American Economic Review",
+  "year": 2016,
+  "publication_type": "article"
+}

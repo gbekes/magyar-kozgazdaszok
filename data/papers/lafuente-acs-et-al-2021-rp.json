@@ -18,19 +18,26 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We employ the ‘benefit of the doubt’ approach rooted in non-parametric techniques to evaluate the entrepreneurial ecosystem of 71 countries for the period 2016. By scrutinizing the relative efficiency of countries’ entrepreneurial ecosystems, the proposed analysis of composite indicators allows the computation of endogenous (country-specific) weights that can be used for developing more informed policy making. The results show that countries prioritize different aspects of their national system of entrepreneurship which confirms that, contrary to homogeneous prescription, tailor-made policy is necessary if the objective is to optimize the resources deployed to enhance the countries’ entrepreneurial ecosystem. The findings of the empirical application reveal significant improvements in the quality of the entrepreneurial ecosystem can be realized by targeting the policy priorities of the local entrepreneurship system identified by the ‘benefit of the doubt’ weights. By analyzing the variation in economic and entrepreneurship outcomes over the seven-year period centered on the study year (period 2013–2019), we found a significant positive correlation between quality improvements in the entrepreneurial ecosystem and venture capital investments.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "When ranking countries on entrepreneurial-ecosystem performance, should we use uniform weights across the ecosystem's component dimensions, or country-specific weights? Lafuente, Ács and Szerb apply the 'benefit of the doubt' non-parametric weighting approach, allowing each country's composite-indicator weights to be those that maximise its own ranking — subject to standard constraints. For 71 countries in 2016, they show countries prioritise sharply different ecosystem components (e.g., high-tech-VC-rich countries vs. process-innovation-rich countries reach the same ecosystem score by very different routes). The endogenous weights provide more informative policy guidance than uniform-weight rankings: each country's lowest-relative-weighting components are its actual binding constraints.",
+  "summary_hu": "A vállalkozási-ökoszisztéma teljesítményének országrangsorolásakor egységes súlyokat használjunk-e az ökoszisztéma komponensdimenzióin, vagy országspecifikusakat? Lafuente, Ács és Szerb a 'kétség előnye' nem-parametrikus súlyozási megközelítést alkalmazza, amely megengedi, hogy minden ország kompozit-mutatójának súlyai azok legyenek, amelyek maximalizálják saját rangsorolását — standard megkötések mellett. 71 országra 2016-ban megmutatják, hogy az országok élesen eltérő ökoszisztéma-komponenseket priorizálnak (pl. magas-tech-VC-gazdag országok vs. folyamatinnováció-gazdag országok ugyanahhoz az ökoszisztéma-pontszámhoz teljesen más úton jutnak). Az endogén súlyok informatívabb szakpolitikai útmutatást adnak, mint az egységes-súlyú rangsorolások: minden ország legalacsonyabb relatív súlyú komponensei a tényleges kötelező korlátai.",
+  "data_used": "GEDI ecosystem-component data for 71 countries, 2016. Composite-indicator analysis using DEA-style benefit-of-the-doubt weighting; comparison with uniform-weight aggregations.",
+  "data_used_hu": "GEDI ökoszisztéma-komponens adatok 71 országra 2016-ban. Kompozit-mutató elemzés DEA-stílusú kétség-előnyű súlyozással; összehasonlítás egységes-súlyú aggregálásokkal.",
+  "policy_relevance": "Useful methodological tool for Hungarian entrepreneurship policy assessment: the GEDI's uniform-weight Hungary ranking might suggest a generic policy menu, but the benefit-of-the-doubt method shows where Hungary actually under-performs relative to its own profile. For NIH / ITM strategic planning, run the country-specific weighting before allocating innovation-policy budget. Caveat: the method always lets a country look its best on chosen components — useful diagnostic, not absolute-quality comparison.",
+  "policy_relevance_hu": "Hasznos módszertani eszköz a magyar vállalkozási-politikai értékeléshez: a GEDI egységes-súlyú magyar rangsorolása generikus szakpolitikai menüt sugallhat, de a kétség-előnye módszer megmutatja, hol teljesít Magyarország alul saját profiljához képest. A NIH / ITM stratégiai tervezéshez érdemes az országspecifikus súlyozást futtatni az innovációs-politikai költségvetés elosztása előtt. Korlát: a módszer mindig megengedi, hogy egy ország saját választott komponensein a legjobb képét mutassa — hasznos diagnosztika, nem abszolút-minőségi összehasonlítás.",
+  "topics": [
+    "innovation-digital",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W3202032691"
 }

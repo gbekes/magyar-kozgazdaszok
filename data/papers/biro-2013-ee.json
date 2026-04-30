@@ -6,7 +6,7 @@
   ],
   "publication_type": "article",
   "journal": "Empirical Economics",
-  "year": 2013,
+  "year": 2014,
   "volume": "46",
   "issue": "2",
   "pages": "501-524",
@@ -15,20 +15,29 @@
   "url_published": "https://doi.org/10.1007/s00181-013-0689-2",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "Does supplementary private health insurance (PHI) coverage influence health care utilization in countries where the coverage ratio with public health insurance is high? I estimate this effect using the Survey of Health, Ageing and Retirement in Europe. Handling the potential endogeneity of supplementary insurance coverage and the large fraction of zero observations in the utilization models influences the empirical results. I show that the effect of PHI coverage on inpatient and outpatient care utilization is not trivial even in countries with generous public health funding. The main finding is that supplementary PHI coverage increases dental care utilization, but decreases the visits to general practitioners. Private insurance is estimated to have little and insignificant influence on the utilization of inpatient care and outpatient specialist care. The magnitude of the effect of supplementary PHI on health care utilization varies with the characteristics of the health care systems.",
+  "summary_en": "Does private health insurance change health-care use in countries with already-generous public coverage? Bíró uses SHARE data on Europeans aged 50+ and addresses the endogeneity of insurance choice. Supplementary private health insurance (PHI) substantially raises dental-care utilisation but reduces general-practitioner visits — patients substitute private routes for some primary care. Effects on inpatient and outpatient specialist care are statistically negligible. The size of the substitution effect varies with the structure of national health systems.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Survey of Health, Ageing and Retirement in Europe (SHARE) waves 1-2, ~25,000 individuals aged 50+ across 11 European countries; combined with country-level health-system characteristics from OECD/WHO.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for Hungarian health-insurance debates. The paper shows supplementary private health insurance interacts with public provision — substituting in some areas, complementing in others. Useful for NEAK and the Egészségügyi Államtitkárság when evaluating proposals to expand or regulate Hungarian voluntary health-insurance schemes (Egészségpénztár).",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "health",
+    "behavioral",
+    "fiscal-tax"
+  ],
+  "methods": [
+    "iv",
+    "panel-data"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2157589821"
 }

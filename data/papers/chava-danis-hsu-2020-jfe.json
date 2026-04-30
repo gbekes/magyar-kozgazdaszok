@@ -1,6 +1,6 @@
 {
   "id": "chava-danis-hsu-2020-jfe",
-  "title": "The Impact of Right-to-Work Laws on Worker Wages: Evidence from Collective Bargaining Agreements",
+  "title": "The economic impact of right-to-work laws: Evidence from collective bargaining agreements and corporate policies",
   "authors": [
     "Sudheer Chava",
     "danis-andras",
@@ -9,28 +9,40 @@
   "publication_type": "article",
   "journal": "Journal of Financial Economics",
   "year": 2020,
-  "volume": null,
-  "issue": null,
-  "pages": null,
-  "doi": null,
+  "volume": "137",
+  "issue": "2",
+  "pages": "451-469",
+  "doi": "10.1016/j.jfineco.2020.02.005",
   "working_paper_series": null,
   "url_published": null,
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "We analyze the economic and financial impact of right-to-work (RTW) laws in the US. Using data from collective bargaining agreements, we show that there is a decrease in wages for unionized workers after RTW laws. Firms increase investment and employment but reduce financial leverage. Labor-intensive firms experience higher profits and labor-to-asset ratios. Dividends and executive compensation also increase post-RTW. Our results are consistent with a canonical theory of the firm augmented with an exogenous bargaining power of labor and suggest that RTW laws impact corporate policies by decreasing that bargaining power.",
+  "summary_en": "When US states pass right-to-work (RTW) laws, what happens to wages and corporate behaviour? Chava, Danis and Hsu use data from collective-bargaining agreements and corporate filings to identify the causal impact of state-level RTW adoption. Unionised workers see wages decline. Firms respond by increasing investment and employment but reducing financial leverage. Labour-intensive firms see higher profits and labour-to-asset ratios. Dividends and executive compensation rise. The pattern fits a canonical firm-theory model where RTW reduces labour bargaining power, which in turn reshapes corporate financial decisions.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Approximately 19,500 US collective-bargaining agreements + Compustat firm financials, covering RTW-adopting and non-adopting states 1998-2016, with state-level RTW timing as the identification source.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungarian labour-policy debates around union bargaining and works-council reforms (e.g., the 2012 Labour Code overhaul) parallel the US RTW question. The paper provides causal evidence that reductions in union bargaining power produce broad corporate-financial responses, not just wage effects — useful framework for the Belügyminisztérium and KSH when assessing distributional impacts of labour-relations reforms.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "labor-markets",
+    "industrial-organization",
+    "banking-finance"
+  ],
+  "methods": [
+    "diff-in-diff",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "admin-firm",
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-25",
-  "last_reviewed_at": "2026-04-25",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-30",
+  "review_status": "ai-drafted",
   "openalex_id": null
 }

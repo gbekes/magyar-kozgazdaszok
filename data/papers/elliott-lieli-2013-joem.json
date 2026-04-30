@@ -16,20 +16,26 @@
   "url_published": "https://doi.org/10.1016/j.jeconom.2013.01.003",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "We address the issue of using a set of covariates to categorize or predict a binary outcome. This is a common problem in many disciplines including economics. In the context of a prespecified utility (or cost) function we examine the construction of forecasts suggesting an extension of the Manski (1975, 1985) maximum score approach. We provide analytical properties of the method and compare it to more common approaches such as forecasts or classifications based on conditional probability models. Large gains over existing methods can be attained when models are misspecified.",
+  "summary_en": "Most binary-outcome predictors are built by estimating a conditional probability model (logit, probit) and applying a fixed threshold. Elliott and Lieli show that this approach is suboptimal when the underlying utility/cost function for the prediction error is asymmetric, and they extend Manski's maximum-score method to a 'utility-based' prediction framework that estimates the predictor directly from the loss function. They derive analytical properties and show that when conditional-probability models are misspecified, the utility-based approach can deliver large gains in prediction quality.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model + simulation analysis demonstrating large gains over conditional-probability-based prediction when models are misspecified. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for binary-decision problems in Hungarian regulatory institutions: GVH (merger approval), MNB (loan approval, prudential decisions), NÉBIH (food-safety decisions), MEKH (energy-permit decisions). The paper provides an econometric framework for designing decision rules that match the actual utility consequences of different errors, rather than minimising statistical likelihood.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "methods",
+    "behavioral"
+  ],
+  "methods": [
+    "theory",
+    "structural"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2114224640"
 }

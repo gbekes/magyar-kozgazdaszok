@@ -17,19 +17,25 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Abstract We examine the linkages between import policy and export performance, extending classic macroeconomic trade effects to more recent concepts from the modern literature on gravity models. We also examine these effects empirically with a panel of global and bilateral trade spanning 15 years. Our emphasis on the role of import policy (i.e. tariffs) of exporters as an explanation of trade volumes contrasts with the recent emphasis on importer policy in the gravity literature. It also reinforces the growing body of evidence on the importance of economic environmental (policy and infrastructure) conditions in explaining relative export performance and is in line with the literature on global value chains.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "Does a country's import policy affect its export performance? François and Manchin examine the link between exporters' own tariffs and their export volumes, extending the modern gravity literature beyond its usual focus on importer-side policy. Using a 15-year panel of bilateral trade flows, they show that an exporter's own protection (tariffs on its own imports) materially worsens its export performance. The mechanism is that exporters are firms in tradeable sectors that need imported intermediates; high own-tariffs raise their costs. The result reinforces broader evidence on the role of trade-policy environment in shaping trade volumes — and shifts emphasis from importer to exporter policy.",
+  "summary_hu": "Befolyásolja-e egy ország importpolitikája az exportteljesítményét? François és Manchin az exportőrök saját vámjai és az exportvolumenek közötti kapcsolatot vizsgálja, kiterjesztve a modern gravitációs irodalmat annak szokásos importőr-oldali fókuszán túlra. 15 éves kétoldalú kereskedelmi panellel megmutatják, hogy egy exportőr saját védettsége (saját importjára kivetett vámok) érdemben rontja exportteljesítményét. A mechanizmus szerint az exportőrök forgalmazható szektorokban működő cégek, amelyeknek importált intermedier inputokra van szükségük; a magas saját vámok növelik a költségeiket. Az eredmény megerősíti a kereskedelmi-politikai környezet kereskedelmi volumeneket alakító szerepéről szóló szélesebb bizonyítékokat — és az importőri szakpolitikáról az exportőri szakpolitikára helyezi a hangsúlyt.",
+  "data_used": "Global panel of bilateral trade flows over 15 years (~1995–2010), with both exporter and importer tariff data. Standard gravity specification augmented with exporter own-tariff variable.",
+  "data_used_hu": "Globális kétoldalú kereskedelmi áramlások panelje 15 évre (~1995–2010), exportőri és importőri vámadatokkal egyaránt. Standard gravitációs specifikáció exportőri saját-vám változóval kibővítve.",
+  "policy_relevance": "For Hungarian trade-policy debates: argues that maintaining low tariffs on Hungary's own intermediate-input imports is critical for export competitiveness, even before considering importer-side market access. NGM and the Foreign Affairs Ministry should prioritise import-side liberalisation in trade negotiations on the same level as export-market access. Particularly relevant for ongoing CETA / future US-EU TTIP-style negotiations where reciprocal tariff reductions are the main lever.",
+  "policy_relevance_hu": "A magyar kereskedelmi-politikai vitákhoz: érvel amellett, hogy az export-versenyképességhez a magyar saját intermedier-import alacsony vámjainak fenntartása kritikus, még mielőtt az importőri-oldali piaci hozzáférést megfontolnánk. Az NGM-nek és a Külügyminisztériumnak a kereskedelmi tárgyalásokon az import-oldali liberalizációt ugyanolyan szinten kell priorizálnia, mint az exportpiaci hozzáférést. Különösen releváns a folyamatban lévő CETA / jövőbeli US-EU TTIP-szerű tárgyalások számára, ahol a kölcsönös vámcsökkentések a fő eszköz.",
+  "topics": [
+    "trade-fdi"
+  ],
+  "methods": [
+    "panel-data"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W2020229332"
 }

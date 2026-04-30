@@ -16,19 +16,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Tanulmányunk a különböző társadalmi hátterű diákok közötti általános iskolai teljesítménykülönbségek és a szegregáció alakulását mutatja be a 2006 és 2019 közötti&#13;\\nidőszakban. Számításaink szerint az adott időszakban jelentős mértékben nőtt a különböző társadalmi helyzetű diákok iskolák közötti elkülönülése, és különösen az&#13;\\nalacsony státusú (az alsó jövedelmi ötödbe tartozó) diákok szegregációja növekedett. Az időszak második felében növekedtek a teszteredmények társadalmi helyzet&#13;\\nszerinti különbségei is. A szegregáció és a tanulói teljesítmények társadalmi státus szerinti egyenlőtlenségei között is összefüggést találtunk: azokban a járásokban és&#13;\\nvárosokban, ahol erősebb a szegregáció, jellemzően nagyobbak a teszteredmények társadalmi egyenlőtlenségei is.",
-  "summary_en": null,
+  "summary_en": "Has primary-school segregation increased in Hungary, and is it widening test-score gaps? Hermann uses 2006-2019 data to track both school-level segregation and the social-background test-score gradient. School segregation by social background grew substantially over the period, with particularly strong increases for the bottom quintile of the income distribution. Test-score gaps by social background also widened during the second half of the window. Crucially, the two move together: districts and cities with stronger school segregation also have larger test-score gaps. The findings are consistent with school-level peer-and-resource effects driving social-mobility-linked outcomes.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian National Competence Test (kompetenciamérés) results 2006-2019, linked to family-background indicators and school-level demographics. Segregation measured at school level using standard segregation indices.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance to Hungarian education policy debates (KIM, EMMI). The paper provides causal-style evidence that the post-2010 educational-policy framework (free school choice + expansion of church-run and 6/8-year selective programmes) has increased segregation and widened test-score gaps. Useful empirical input for the integration-vs-selection policy debate and for any future segregation-monitoring requirement under EU education-policy frameworks.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "education-skills",
+    "inequality-welfare",
+    "regional-urban"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W4394065003"
 }

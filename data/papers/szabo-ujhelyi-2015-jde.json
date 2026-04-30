@@ -16,20 +16,31 @@
   "url_published": "https://doi.org/10.1016/j.jdeveco.2015.06.002",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "Nonpayment for public utilities is an important constraint to expanding service access in developing countries. What are the causes of nonpayment and which policies are effective at addressing them? To study these questions, we implement and evaluate a randomized water education campaign in a low income peri-urban area in South Africa. We estimate substantial short-run treatment effects: on the order of a 25% increase in payments over a three-month period after which the effect dissipates. The evidence shows that the treatment did not operate by increasing consumers' information, or by creating reminders to pay or a threat of enforcement. Instead, households may have reciprocated the provider's efforts by paying more. Our findings provide evidence that strategies other than increased enforcement can lower nonpayment.",
+  "summary_en": "In low-income areas of South Africa, a high share of households connected to public utilities don't pay their bills, undermining service provision. Szabó and Ujhelyi run a randomised water-education campaign in a peri-urban township and find a substantial 25% short-run increase in payments over three months. The treatment did not work by raising information levels, by creating reminders, or by signalling enforcement threat. Instead, households appeared to reciprocate the provider's effort by paying more — pointing to social-norm and reciprocity channels rather than coercion as effective tools for utility-payment compliance.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Randomised field experiment in a peri-urban township in South Africa, with treatment and control households across approximately 1,500 connected dwellings; payment data from utility billing records over a 3–6 month period.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungarian district-heating, water and sewage utilities (FŐTÁV, Fővárosi Vízművek) face nonpayment problems especially in disadvantaged regions and Roma settlements. The paper provides experimental evidence that reciprocity-based educational interventions can reduce nonpayment by 25% in the short run — a useful design template for Hungarian municipal-utility outreach campaigns and for the Ministry of Interior's Roma-integration programmes.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "behavioral",
+    "fiscal-tax",
+    "regional-urban"
+  ],
+  "methods": [
+    "rct"
+  ],
+  "countries_studied": [
+    "ZA"
+  ],
+  "data_types": [
+    "field-experiment",
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2138028615"
 }

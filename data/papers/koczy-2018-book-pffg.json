@@ -16,12 +16,13 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "A monograph on cooperative games with externalities — partition function form games. The book develops solution concepts for coalition-formation settings where the value of a coalition depends on the structure of competing coalitions. It synthesises the author's research on the recursive core, coalition-structure core, and externalities in cooperative game theory, with applications to international environmental agreements, institutional design, and voting power.",
-  "summary_en": "A monograph on cooperative games with externalities. In standard cooperative game theory, a coalition's worth is fixed; but in many real-world settings — environmental agreements, cartel formation, political coalitions — a coalition's payoff depends on what competing coalitions do. Partition-function-form games capture this. The book develops solution concepts (notably the recursive core) for such settings, shows when they are well-defined, and applies them to international treaty formation, institutional design, and coalition politics. It synthesises Kóczy's decade-plus research programme in a single, unified framework.",
-  "data_used": "Theoretical monograph; no empirical data.",
-  "policy_relevance": "For Hungarian and EU analyses of international agreements (climate, trade, EU fiscal compact), the book provides the state-of-the-art cooperative-game-theoretic toolkit for analysing coalition formation with externalities. Relevant to EU-negotiation strategy, to game-theoretic analysis of voting in EU institutions, and to the KRTK game-theory research group's applications. Caveat: the book is technical; operational Hungarian policy applications require mapping the framework onto specific institutional settings.",
+  "summary_en": "Kóczy's monograph develops the theory of partition-function-form games — cooperative games where coalition payoffs depend on the embedding partition of all players, not just the coalition itself. The book covers the foundational solution concepts (recursive core, optimistic/pessimistic variants), comparison with normal-form approaches, applications to international agreements and oligopoly, and connects to the broader cooperative-game-theory literature. It serves as the canonical reference for researchers and graduate students working with games with externalities.",
+  "data_used": "Theoretical monograph. References numerous applied examples from international relations, industrial organisation, and mechanism design.",
+  "policy_relevance": "Reference work for researchers at Hungarian institutions (KRTK Game Theory group, BME, Corvinus) working on cooperative-game applications to EU policy, energy markets, climate negotiations, and intergovernmental bargaining. The framework underpins multiple Hungarian policy-relevant papers on EU voting power and energy-coalition analysis.",
   "topics": [
-    "methods",
-    "political-economy"
+    "mechanism-design",
+    "political-economy",
+    "methods"
   ],
   "methods": [
     "theory"
@@ -36,7 +37,7 @@
   ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
+  "last_reviewed_at": "2026-04-29",
   "review_status": "ai-drafted",
   "openalex_id": null
 }

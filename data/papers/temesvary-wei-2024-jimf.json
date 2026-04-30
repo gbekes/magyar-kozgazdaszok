@@ -16,20 +16,31 @@
   "url_published": "https://doi.org/10.1016/j.jimonfin.2024.103054",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "Shortly after the pandemic began, globally active U.S. banks cut their term lending to U.S. businesses. Combining three granular bank regulatory datasets, we examine how U.S. banks' exposure to COVID-related restrictions abroad contributed to these lending cuts. Even after controlling for changes in firms' credit demand through extensive industry*state*quarter fixed effects, we find strong evidence that U.S. banks with higher foreign COVID exposures reduced their corporate lending, and tightened terms on such loans, significantly more. Banks' increased risk perception, balance sheet liquidity effects due to higher foreign credit line drawdowns, and higher losses on corporate loans abroad served as mechanisms.",
+  "summary_en": "When COVID-19 hit, US banks with foreign operations cut their domestic US business lending sharply — but did the cut depend on where their foreign exposure was? Temesváry and Wei combine three bank regulatory datasets to test this. After controlling for changes in domestic borrower demand using granular industry-state-quarter fixed effects, they find US banks with higher COVID-related foreign exposure cut more US lending and tightened terms more aggressively. The mechanisms: increased risk perception, balance-sheet liquidity strain from foreign credit-line drawdowns, and higher loan losses on foreign exposures. Foreign shocks can transmit into the US via globally active bank balance sheets.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Three Federal Reserve bank-level regulatory datasets (Y-9C, Y-14Q, FFIEC 009) covering US bank-holding companies during 2019-2021, with domestic and foreign loan-portfolio breakdowns at quarterly frequency.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungary hosts globally-active subsidiaries of Western European banks. The paper documents that pandemic-era foreign exposure shocks transmit to domestic lending — directly relevant for MNB and the European Banking Authority when monitoring how shocks abroad (e.g., Russian sanctions exposure, China economic weakness) translate into Hungarian SME credit conditions.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "macroeconomics",
+    "trade-fdi"
+  ],
+  "methods": [
+    "panel-data",
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W4392558370"
 }

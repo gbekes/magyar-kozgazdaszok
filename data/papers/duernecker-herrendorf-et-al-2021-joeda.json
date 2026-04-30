@@ -17,20 +17,31 @@
   "url_published": "https://doi.org/10.1016/j.jedc.2021.104200",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "The productivity growth slowdown that started in the 1970s presents a challenge to Kaldor's growth facts and the one-sector growth model. We ask: What natural modification of the growth model can generate a prolonged productivity growth slowdown? We show that the two-sector version with separate consumption and investment sectors has a balanced growth path equilibrium along which productivity growth slows down if two conditions hold: real GDP is measured with the Fisher index; productivity growth in the consumption sector slows down. We also show that real GDP measured with the Fisher index is a welfare measure in the two-sector version.",
+  "summary_en": "Productivity growth slowed across advanced economies from the 1970s onward — but the standard one-sector growth model can't easily explain it without ad-hoc shocks. Duernecker, Herrendorf and Valentinyi show that the two-sector growth model (separate consumption and investment sectors) produces a balanced growth path with a prolonged productivity slowdown if two conditions hold: real GDP is measured with the Fisher index, and productivity growth in the consumption sector slows down. Real GDP measured with the Fisher index is also shown to be a valid welfare measure in this framework. The result reconciles measured productivity slowdowns with growth-model fundamentals.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model + calibration to US national-accounts data (BEA) on consumption and investment sectoral productivity over 1947-2018.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungary's productivity-gap analysis (KSH, MNB, KRTK) typically relies on one-sector frameworks. The paper provides a two-sector framework that better matches observed slowdowns and demonstrates that measurement methodology (Fisher vs. Laspeyres index) materially affects measured productivity growth — relevant for KSH methodology and MNB long-run growth assumptions.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "macroeconomics",
+    "firms-productivity",
+    "methods"
+  ],
+  "methods": [
+    "theory",
+    "structural"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W3186784283"
 }

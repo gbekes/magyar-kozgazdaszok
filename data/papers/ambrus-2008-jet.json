@@ -6,7 +6,7 @@
   ],
   "publication_type": "article",
   "journal": "Journal of Economic Theory",
-  "year": 2008,
+  "year": 2009,
   "volume": "144",
   "issue": "2",
   "pages": "676-695",
@@ -15,20 +15,25 @@
   "url_published": "https://doi.org/10.1016/j.jet.2007.03.010",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "This paper generalizes the concept of best response to coalitions of players and offers epistemic definitions of coalitional rationalizability in normal form games. The (best) response of a coalition is defined to be an operator from sets of conjectures to sets of strategies. A strategy is epistemic coalitionally rationalizable if it is consistent with rationality and common certainty that every coalition is rational. A characterization of this solution set is provided for operators satisfying four basic properties. Special attention is devoted to an operator that leads to a solution concept that is generically equivalent to the iteratively defined concept of coalitional rationalizability.",
+  "summary_en": "Standard game-theoretic best-response analysis treats individual players, but real strategic settings often involve coalitions whose joint behaviour matters. Ambrus generalises the best-response concept to coalitions and provides epistemic foundations: a strategy is 'epistemic coalitionally rationalisable' if it is consistent with rationality and common certainty that every coalition is rational. He characterises the resulting solution set under four basic operator properties and shows that one natural operator yields a generic equivalence to the iteratively-defined coalitional rationalisability concept.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model — pure normal-form game theory. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Foundational result for analysing situations where groups (industry associations, political coalitions, regional blocs) act jointly in non-cooperative settings. Useful theoretical tool for policy researchers at the GVH (anti-trust collusion analysis), Pénzügyminisztérium (intergovernmental tax negotiations), and KKM (international-bargaining analysis).",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "mechanism-design",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2154805931"
 }

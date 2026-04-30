@@ -16,19 +16,28 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Abstract Five real exchange rate indicators are computed to assess the international competitiveness of Hungarian industry. These indicators are explained in econometric equations by employment, unemployment, productivity, interest spread and real producer wage. Causality tests reveal that external performance has an impact on real exchange rates, and contributes to explaining real exchange rates. There is very limited scope for policy intervention to constrain the negative effects of capital inflows without incurring other costs.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "What drove Hungary's real-exchange-rate dynamics in the early 1990s, and how much policy room did the central bank have? Halpern computes five alternative real-exchange-rate indicators and explains them through econometric equations using employment, unemployment, productivity, interest-rate spread, and the real producer wage. Causality tests reveal that external performance has an impact on real exchange rates and helps explain them. The conclusion: there is very limited scope for policy intervention to constrain the negative effects of capital inflows without incurring other costs — the impossible trinity made the early 1990s harder than retrospective accounts often suggest.",
+  "summary_hu": "Mi hajtotta a magyar reál-árfolyam dinamikáját a 1990-es évek elején, és mennyi szakpolitikai mozgástere volt a jegybanknak? Halpern öt alternatív reál-árfolyam mutatót számít ki, és ezeket ökonometriai egyenletekkel magyarázza foglalkoztatás, munkanélküliség, termelékenység, kamatláb-különbözet és reál-termelői bér változókkal. Az okozati tesztek feltárják, hogy a külső teljesítmény hat a reál-árfolyamokra és hozzájárul a magyarázatukhoz. A következtetés: nagyon korlátozott szakpolitikai beavatkozási mozgástér van a tőkebeáramlások negatív hatásainak korlátozására más költségek megemelkedése nélkül — a lehetetlen háromság az 1990-es évek elejét nehezebbé tette, mint amit a visszamenőleges beszámolók gyakran sugallnak.",
+  "data_used": "Hungarian quarterly macroeconomic time series, ~1989-1995. Five alternative real-exchange-rate measures (CPI-based, ULC-based, etc.). Vector-autoregression-based causality testing.",
+  "data_used_hu": "Magyar negyedéves makroökonómiai idősorok, ~1989-1995. Öt alternatív reál-árfolyam mérték (CPI-alapú, fajlagos munkaerőköltség-alapú stb.). Vektor-autoregresszió alapú okozati tesztelés.",
+  "policy_relevance": "Foundational paper for understanding the constraints under which Hungarian monetary policy operated in the transition period. Useful historical context for MNB and academic research; policy implications largely backward-looking now. Caveat: the 1990s context (capital controls, fixed exchange rate) differs sharply from the post-2008 floating-rate regime.",
+  "policy_relevance_hu": "Alapozó tanulmány annak megértéséhez, milyen korlátok között működött a magyar monetáris politika a rendszerváltási időszakban. Hasznos történeti háttér az MNB-nek és az akadémiai kutatásnak; a szakpolitikai következtetések most már nagyrészt visszamenőlegesek. Korlát: a 1990-es évek kontextusa (tőkekorlátok, rögzített árfolyam) élesen eltér a 2008 utáni lebegő árfolyamú rendszertől.",
+  "topics": [
+    "macroeconomics",
+    "transition-postcommunist"
+  ],
+  "methods": [
+    "time-series"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W2005226847"
 }

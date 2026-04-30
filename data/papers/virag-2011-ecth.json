@@ -6,7 +6,7 @@
   ],
   "publication_type": "article",
   "journal": "Economic Theory",
-  "year": 2011,
+  "year": 2013,
   "volume": "52",
   "issue": "1",
   "pages": "129-163",
@@ -15,20 +15,25 @@
   "url_published": "https://doi.org/10.1007/s00199-011-0666-y",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "We study first-price auctions with resale when there are many bidders and derive existence and characterization results under the assumption that the winner of the initial auction runs a second-price auction with an optimal reserve price. The fact that symmetrization fails when there are more than two bidders has been observed before, but we also provide the direction: weaker bidders are less likely to win than stronger ones. For a special class of distributions and three bidders, we prove that the bid distributions are more symmetric with resale than without. Numerical simulations suggest that the more bidders there are, the more similar the allocation is to the case without resale, and thus, the more asymmetric the bid distributions are between strong and weak bidders. We also show in an example that the revenue advantage of first-price auctions over second-price auctions is positive, but decreasing in the number of bidders.",
+  "summary_en": "When losers in a first-price auction can later resell to other bidders, how does this change strategic bidding? Virág studies first-price auctions with resale and many bidders, assuming the winner runs an optimal-reserve second-price auction in the resale stage. He proves equilibrium existence and shows weaker bidders are less likely to win than stronger ones — the 'symmetrization' that two-bidder analysis suggested fails with more bidders. With more bidders, allocations approach the no-resale benchmark and bid distributions become more asymmetric. Revenue advantage of first-price over second-price exists but shrinks as bidder count rises.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model — first-price auction with resale and many heterogeneous bidders. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for state-asset auctions (MNV, ÁKK) and EU public-procurement design where resale markets are active. The paper shows simple two-bidder intuitions don't extend to many-bidder settings — Hungarian large-asset auctions (telecoms spectrum, real-estate portfolios) should account for resale-driven asymmetry. Useful framework for procurement-design at KKM and the Public Procurement Authority (KH).",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "mechanism-design",
+    "industrial-organization"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-19",
-  "last_reviewed_at": "2026-04-19",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2157448422"
 }

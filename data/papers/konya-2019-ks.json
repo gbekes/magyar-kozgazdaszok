@@ -16,19 +16,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "A tanulmány egy olyan modellt mutat be, amely a képzettek vándorlásának szerepét vizsgálja a nemzetközi kereskedelem által kiváltott regionális egyenlőtlenségek alakulásában. A modell a jól ismert, növekvő skálahozadékon és szállítási költségeken alapuló új gazdaságföldrajzi keretet használja, amelyet heterogén háztartásokkal és részleges munkapiaci mobilitással bővít. Ebben a keretben a külkereskedelmi nyitás az emberi tőke reallokációjához vezet a külső piacokat könnyebben elérő régiók javára. A tanulmány bemutatja, hogy ennek a belső vándorlásnak viszonylag alacsony mobilitás mellett is jelentős aggregált hatása lehet, ha a leginkább képzett munkavállalók költöznek. Az elméleti eredményeket két megye, Borsod-Abaúj-Zemplén és Győr-Sopron-Moson eltérő folyamataival igazoljuk és illusztráljuk.* Journal of Economic Literature (JEL) kód: F12, R12, R23.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "Does international trade openness widen or narrow regional inequality within a country? Kónya builds a new economic geography model with heterogeneous households and partial labour-market mobility — extending the standard increasing-returns + transport-costs framework. In this model, trade liberalisation reallocates human capital toward regions with easier access to foreign markets. Even with relatively low overall labour mobility, the aggregate impact can be substantial when it is the most-skilled workers who relocate. The theoretical results are illustrated with the contrasting experiences of Borsod-Abaúj-Zemplén (declining, eastern Hungary) and Győr-Moson-Sopron (booming, north-western Hungary, well-connected to German supply chains).",
+  "summary_hu": "A nemzetközi kereskedelmi nyitottság növeli vagy csökkenti a regionális egyenlőtlenséget egy országon belül? Kónya új gazdaságföldrajzi modellt épít heterogén háztartásokkal és részleges munkapiaci mobilitással — kiterjesztve a standard növekvő hozadékú + szállítási költséges keretet. Ebben a modellben a kereskedelmi liberalizáció az emberi tőkét a külpiacokat könnyebben elérő régiók felé csoportosítja át. Viszonylag alacsony általános munkamobilitás mellett is jelentős aggregált hatás keletkezhet, amikor a legképzettebb munkavállalók költöznek. Az elméleti eredményeket Borsod-Abaúj-Zemplén (hanyatló, kelet-magyarországi) és Győr-Moson-Sopron (virágzó, északnyugat-magyarországi, jól kapcsolódó a német ellátási lánchoz) ellentétes tapasztalatai illusztrálják.",
+  "data_used": "Theoretical NEG model + illustration with Hungarian county-level employment, productivity and migration data, 2000s–2010s.",
+  "data_used_hu": "Elméleti NEG modell + magyar megyei foglalkoztatási, termelékenységi és vándorlási adatokkal illusztrálva, 2000–2010-es évek.",
+  "policy_relevance": "Important for Hungarian regional-development and EU Cohesion Policy thinking. The paper provides a theoretical mechanism for the otherwise puzzling regional divergence within Hungary despite EU integration. For NGM and regional-development authorities, the implication is that trade-and-FDI-led growth is regionally asymmetric — eastern Hungary needs targeted support that doesn't exist within the standard 'free-movement-of-skilled-labour' framework. Useful input for Modern Városok / Magyar Falu programme rationale and for Cohesion Fund priorities.",
+  "policy_relevance_hu": "Fontos a magyar regionális fejlesztés és az EU Kohéziós Politika gondolkodása szempontjából. A tanulmány elméleti mechanizmust ad az egyébként rejtélyes magyarországi regionális divergenciára az EU-integráció ellenére. Az NGM-nek és a regionális fejlesztési hatóságoknak az implikáció az, hogy a kereskedelem- és FDI-vezérelt növekedés regionálisan aszimmetrikus — Kelet-Magyarországnak célzott támogatásra van szüksége, ami a standard 'képzett-munkaerő-szabad-áramlása' keretben nem létezik. Hasznos input a Modern Városok / Magyar Falu program-logikához és a Kohéziós Alap prioritásaihoz.",
+  "topics": [
+    "regional-urban",
+    "trade-fdi",
+    "labor-markets"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W2951356590"
 }

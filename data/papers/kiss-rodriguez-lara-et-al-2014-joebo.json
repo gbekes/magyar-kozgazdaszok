@@ -17,20 +17,29 @@
   "url_published": "https://doi.org/10.1016/j.jebo.2014.01.019",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "We report experimental evidence on the effect of observability of actions on bank runs. We model depositors' decision-making in a sequential framework, with three depositors located at the nodes of a network. Depositors observe the other depositors' actions only if connected by the network. Theoretically, a sufficient condition to prevent bank runs is that the second depositor to act is able to observe the first one's action (no matter what is observed). Experimentally, we find that observability of actions affects the likelihood of bank runs, but depositors' choice is highly influenced by the particular action that is being observed. Depositors who are observed by others at the beginning of the line are more likely to keep their money deposited, leading to less bank runs. When withdrawals are observed, bank runs are more likely even when the mere observation of actions should prevent them.",
+  "summary_en": "Are bank runs more or less likely when depositors can observe each other's actions through their social network? Kiss, Rodríguez-Lara and Rosa-García model depositors at network nodes who can only see each other's withdraw/keep decisions if directly connected. Theoretically, simply observing the second depositor's choice should prevent bank runs. Experimentally, observability does influence bank-run frequency — but the direction depends on what is observed: seeing 'keep' decisions reduces runs, seeing 'withdraw' decisions amplifies them. Visibility of bad behaviour can outweigh visibility of good behaviour, contra theory.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Lab experiment with networked depositors choosing to withdraw or keep deposits, Universidad Autónoma de Madrid and other Spanish university labs. Information structure varies across treatments to manipulate observability.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for the MNB and OBA in Hungary when designing bank-run prevention protocols. The paper suggests that real-time disclosure of withdrawal queues and ATM activity could amplify rather than dampen runs — relevant for MNB stress-test design and OBA crisis-communication protocols. Confirms why social-media monitoring is important for Hungarian bank-supervisory units.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "behavioral"
+  ],
+  "methods": [
+    "rct"
+  ],
+  "countries_studied": [
+    "ES"
+  ],
+  "data_types": [
+    "field-experiment"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W1972454707"
 }

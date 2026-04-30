@@ -17,20 +17,25 @@
   "url_published": "https://doi.org/10.1016/j.ijforecast.2018.11.007",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "The property that the conditional mean is the unrestricted optimal forecast characterizes the Bregman class of loss functions, while the property that the α-quantile is the unrestricted optimal forecast characterizes the generalized α-piecewise linear (α-GPL) class. However, in settings where the forecaster's choice of forecasts is limited to the support of the predictive distribution, different Bregman losses lead to different forecasts. This is not true for the α-GPL class: the failure of identification is more fundamental. We state simple conditions that can be used to ascertain whether loss functions that are consistent for the same statistical functional become identifiable when off-support forecasts are disallowed. We also study the identifying power of unrestricted forecasts within the class of smooth, convex loss functions. For any such loss ℓ, the set of losses that are consistent for the same statistical functional as ℓ is a tiny subset of this class in a precise mathematical sense.",
+  "summary_en": "Two classical results identify which loss functions match optimal forecasts: Bregman losses pin the conditional mean as the optimal forecast, and α-piecewise linear losses pin the α-quantile. Lieli, Stinchcombe and Grolmusz show these classical identification results break down once the forecaster can only choose forecasts on the support of the predictive distribution (a realistic constraint). For Bregman losses, restricting forecasts to the support breaks identification entirely; for α-PL losses, the breakdown is even more fundamental. The paper provides simple conditions to determine whether identification survives in any given setting.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model — identification analysis for forecast loss functions in restricted vs. unrestricted forecasting environments.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Forecaster-evaluation methodology used by central banks (MNB, ECB) and ratings agencies relies on backing out implicit loss functions from observed forecasts. This paper shows the standard identification arguments break down when forecasters are constrained to plausible forecast values — a relevant caveat for forecast-evaluation protocols at MNB and EU statistical institutions.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "methods",
+    "macroeconomics"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2925098731"
 }

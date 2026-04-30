@@ -19,19 +19,28 @@
   "url_pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/joie.12103",
   "url_replication": null,
   "abstract": "Using U.S. firm level panel data we simultaneously assess the contributions to productivity of three potential sources of research and development spillovers: geographic, technological, and product market (“horizontal”). To do so, we construct new measures of geographic proximity based on the distribution of a firm's inventor locations as well as its headquarters. We find that geographic location is important for productivity, as are technology (but not product) spillovers, and that both intra and inter–regional (counties) spillovers matter. The geographic location of a firm's researchers is more important than its headquarters. These benefits may be the reason why local policy makers compete so hard for the location of local R&amp;D labs and high tech workers.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "Why do tech firms cluster geographically — what spillovers reward physical proximity? Lychagin, Pinkse, Slade and Van Reenen use U.S. firm-level panel data to simultaneously assess three potential sources of R&D spillovers: geographic proximity, technological adjacency, and product-market overlap. Methodological innovation: they construct geographic-proximity measures based on the distribution of a firm's *inventor* locations, not just headquarters. Findings: geographic location matters for productivity, technology spillovers matter, product-market spillovers don't. Both intra- and inter-county spillovers operate. Crucially, inventor location matters more than headquarters location — consistent with why local policymakers compete so hard for R&D labs and high-tech workers.",
+  "summary_hu": "Miért csomósodnak a high-tech cégek földrajzilag — milyen átgyűrűzések jutalmazzák a fizikai közelséget? Lychagin, Pinkse, Slade és Van Reenen USA cégszintű paneladatokat használ a K+F-átgyűrűzés három potenciális forrásának egyidejű értékelésére: földrajzi közelség, technológiai szomszédosság és termékpiaci átfedés. Módszertani újítás: földrajzi-közelségi mértékeket építenek a cég *feltalálóinak* helyhez kötése alapján, nem csak a központ helye alapján. Megállapítások: a földrajzi hely számít a termelékenységnek, a technológiai átgyűrűzés számít, a termékpiaci átgyűrűzés nem. Megyén belüli és megyék közötti átgyűrűzés egyaránt működik. Kulcsfontosságú: a feltaláló helye többet számít, mint a központ helye — összhangban azzal, hogy a helyi döntéshozók miért versengenek olyan keményen K+F-laborokért és magas-tech munkavállalókért.",
+  "data_used": "U.S. firm-level panel with R&D, productivity, patents, and inventor-location data, late 1990s-2000s. Geographic-proximity measures built from inventor home addresses derived from patent records. Technology proximity from patent-class overlap; product proximity from product portfolios.",
+  "data_used_hu": "USA cégszintű panel K+F-, termelékenységi, szabadalmi és feltaláló-helyrajzi adatokkal, 1990-es évek vége-2000-es évek. Földrajzi közelségi mértékek a feltalálók szabadalmi nyilvántartásokból származó otthoni címeiből. Technológia-közelség szabadalmi-osztályos átfedésből; termék-közelség termék-portfóliókból.",
+  "policy_relevance": "For NIH / ITM Hungarian R&D incentive design: the paper supports targeting incentives to attract inventors / researchers, not just firm headquarters. Hungarian cohesion-fund and HIPA programmes that subsidise corporate centre relocation may underperform expectations — the productivity spillover travels with the inventor, not the boss. Relevant input for evaluating the recent Hungarian semiconductor and battery R&D investment cluster strategy.",
+  "policy_relevance_hu": "A NIH / ITM magyar K+F-ösztönző tervezéséhez: a tanulmány támogatja a feltalálók / kutatók vonzására célzott ösztönzőket, nem csak a vállalati központok telepítésére. A magyar kohéziós-alap és HIPA programok, amelyek vállalati központok áttelepítését szubvencionálják, alulteljesíthetnek a várakozásoknál — a termelékenységi átgyűrűzés a feltalálóval utazik, nem a főnökkel. Releváns input a közelmúlt magyar félvezető- és akkumulátor- K+F-beruházási klaszterstratégia értékeléséhez.",
+  "topics": [
+    "innovation-digital",
+    "regional-urban",
+    "firms-productivity"
+  ],
+  "methods": [
+    "panel-data"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "firm-level-dataset",
+    "admin-firm"
+  ],
   "featured": false,
   "added_at": "2026-04-21",
-  "last_reviewed_at": "2026-04-21",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W1544562706"
 }

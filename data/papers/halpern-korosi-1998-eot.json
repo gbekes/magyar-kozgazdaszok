@@ -17,19 +17,30 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Abstract This paper follows through an aspect of microeconomic restructuring in Hungary during the transition period. This restructuring brought about substantial changes in the behaviour of all economic agents. Our study combines labour market and corporate financial information to explore the effect of the quality of labour employed on the profitability of the firm. The quality of labour is measured as that portion of wage differentials that cannot be explained by a standard human capital model. The profitability of Hungarian exporting firms can be explained by economic factors during transition. In addition the quality of labour, export share, wage and bank costs, payables, receivables, foreign ownership, inventories, amortization and equity are all significant explanatory variables.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "How does the quality of labour employed affect the profitability of Hungarian exporting firms during the transition period? Halpern and Kőrösi combine labour-market and corporate-financial information to address the question. Labour quality is measured as the portion of wage differentials *not* explained by a standard human-capital model — a residual capturing firm-level matching and unobserved skills. They find that profitability of Hungarian exporting firms can be explained by economic factors during transition. Significant explanators include labour quality, export share, wage and bank costs, payables, receivables, foreign ownership, inventories, amortisation and equity. A foundational firm-level decomposition for the early transition period.",
+  "summary_hu": "Hogyan befolyásolja az alkalmazott munkaerő minősége a magyar exportáló cégek jövedelmezőségét a rendszerváltás során? Halpern és Kőrösi a munkapiaci és vállalati pénzügyi információkat kombinálja a kérdés vizsgálatára. A munka minőségét úgy mérik, hogy az a része a bérkülönbségeknek, amelyet egy standard emberi-tőke modell nem magyaráz — egy reziduum, amely a cég-szintű illesztést és nem megfigyelt készségeket fogja meg. Megállapítják, hogy a magyar exportáló cégek jövedelmezősége gazdasági tényezőkkel magyarázható az átmenet során. A szignifikáns magyarázók közé tartozik a munka minősége, exportarány, bér- és banki költségek, kötelezettségek, követelések, külföldi tulajdon, készletek, amortizáció és sajáttőke. Alapozó cég-szintű felbontás a korai rendszerváltási időszakra.",
+  "data_used": "Hungarian linked employer-employee + corporate-financial data, 1986-1995, on exporting firms. Labour-quality measure constructed from regression residuals after controlling for standard human-capital variables.",
+  "data_used_hu": "Magyar összekapcsolt munkáltató-munkavállaló + vállalati pénzügyi adatok, 1986-1995, exportáló cégekre. A munka-minőség mérőszáma regressziós reziduumokból építve a standard emberi-tőke változók kontrollálása után.",
+  "policy_relevance": "Historical baseline for understanding the transition-period determinants of Hungarian export competitiveness. The paper supports policies that helped retain skilled labour during transition — relevant historical context for current Hungarian skilled-emigration debates and for the post-2010 wage-policy reforms. Useful comparison case when evaluating modern Hungarian export-firm productivity dynamics.",
+  "policy_relevance_hu": "Történelmi alapvonal a rendszerváltás-kori magyar exportversenyképesség meghatározóinak megértéséhez. A tanulmány támogatja azokat a szakpolitikákat, amelyek segítettek megőrizni a képzett munkaerőt az átmenet során — releváns történelmi kontextus a jelenlegi magyar képzett-elvándorlási vitákhoz és a 2010 utáni bérpolitikai reformokhoz. Hasznos összehasonlító eset a modern magyar exportáló-cég termelékenységi dinamika értékeléséhez.",
+  "topics": [
+    "transition-postcommunist",
+    "firms-productivity",
+    "trade-fdi"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm",
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W2169630823"
 }

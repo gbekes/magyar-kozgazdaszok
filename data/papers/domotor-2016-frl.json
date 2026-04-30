@@ -17,11 +17,11 @@
   "url_replication": null,
   "abstract": null,
   "summary_en": "Classical hedging theory assumes a frictionless forward market and unlimited funding. Real firms face both a bias in the forward curve (hedge is costly on average) and a hard funding limit on the margin they can post. This paper derives the optimal hedge ratio for a risk-averse firm under both frictions together. The answer departs substantially from the textbook minimum-variance hedge: the liquidity constraint makes the firm hedge less as the bias grows, because expected funding-cost losses can outweigh variance reduction. Gives treasurers a sharper decision rule than one-factor models.",
-  "summary_hu": null,
+  "summary_hu": "A klasszikus fedezeti elmélet súrlódásmentes határidős piacot és korlátlan finanszírozást feltételez. A való világban a vállalatok mind a határidős görbe torzulásával (a fedezés átlagosan költséges), mind a margin-fedezetre fordítható kemény finanszírozási korláttal találkoznak. A tanulmány egy kockázatkerülő vállalat optimális fedezeti arányát vezeti le mindkét súrlódás együttes jelenlétében. A válasz lényegesen eltér a tankönyvi minimum-variancia-fedezéstől: a likviditási korlát miatt a vállalat kevesebbet fedez, ahogy a torzulás nő, mert a várható finanszírozási költség-veszteségek meghaladhatják a variancia-csökkenést. Élesebb döntési szabályt ad a treasury-szakembereknek, mint az egytényezős modellek.",
   "data_used": "Theoretical / analytical paper. Calibration examples use standard foreign-exchange forward parameters for EUR/HUF-type markets.",
-  "data_used_hu": null,
+  "data_used_hu": "Elméleti, analitikus tanulmány. A kalibrációs példák standard EUR/HUF-szerű devizahatáridős paramétereket használnak.",
   "policy_relevance": "Relevant to Hungarian corporate treasury practice and indirectly to MNB supervision of large corporate FX exposures. Supports a more conservative view of hedging incentives for liquidity-constrained firms than the standard one-period variance-minimising rule. Caveat: single-period, one-asset; extension to multi-period dynamic hedging would be the natural next step.",
-  "policy_relevance_hu": null,
+  "policy_relevance_hu": "Magyar vállalati treasury-gyakorlatra és közvetve a nagyvállalati devizakitettségek MNB-felügyeletére vonatkozik. A standard egyperiódusos variancia-minimalizáló szabálynál konzervatívabb fedezési ösztönzőket támogat likviditás-korlátos vállalatoknál. Korlát: egyperiódusos, egyeszközös; a többperiódusos dinamikus fedezésre való kiterjesztés a természetes következő lépés.",
   "topics": [
     "banking-finance",
     "firms-productivity"

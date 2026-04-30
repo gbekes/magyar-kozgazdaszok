@@ -7,7 +7,7 @@
   ],
   "publication_type": "article",
   "journal": "Games and Economic Behavior",
-  "year": 2003,
+  "year": 2004,
   "volume": "48",
   "issue": "1",
   "pages": "86-93",
@@ -16,20 +16,25 @@
   "url_published": "https://doi.org/10.1016/j.geb.2003.06.006",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "For each outcome (i.e. a payoff vector augmented with a coalition structure) of a TU-game with a non-empty coalition structure core there exists a finite sequence of successively dominating outcomes that terminates in the coalition structure core. In order to obtain this result a restrictive dominance relation — which we label outsider independent — is employed.",
+  "summary_en": "In a transferable-utility game with a non-empty coalition-structure core, every payoff outcome can be reached through a finite sequence of successive dominations. Kóczy and Lauwers prove this accessibility result using a restricted dominance concept ('outsider independent') that requires non-blocking coalitions to keep their payoffs unchanged. The result formalises the intuition that bargaining processes converge in finite time to coalition-structure cores, providing a procedural foundation for the static solution concept.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model — TU-game accessibility analysis. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Foundational result supporting the use of coalition-structure-core analysis in policy settings (intergovernmental bargaining, European Council seat allocation, EU institutional coalition formation). Provides theoretical assurance that core outcomes can be reached through realistic bargaining processes.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "mechanism-design",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2126101086"
 }

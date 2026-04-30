@@ -16,20 +16,25 @@
   "url_published": "https://doi.org/10.1016/j.geb.2018.06.008",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "In this paper, we characterize the set of pure strategy undominated equilibria in differentiated Bertrand oligopolies with linear demand and constant unit costs when firms may prefer not to produce. When all firms are active, there is a unique equilibrium. However, there is a continuum of non-equivalent Bertrand equilibria on a wide range of parameter values when the number of firms (n) is more than two and n*∈[2,n−1] firms are active. In each such equilibrium, the firms that are relatively more cost or quality efficient limit their prices to induce the exit of their rival(s). When n≥3, this game does not need to satisfy supermodularity, the single-crossing property, or log-supermodularity. Moreover, the best responses might have negative slopes. Our main results extend to a Stackelberg entry game where some established incumbents first set their prices, and then a potential entrant sets its price.",
+  "summary_en": "Standard differentiated-Bertrand oligopoly models predict a unique equilibrium with all firms active. Cumbul and Virág show this breaks down when firms can choose not to produce: with 3 or more firms and a wide range of parameter values, there is a continuum of non-equivalent equilibria where the cost-efficient firms strategically limit their prices to push less-efficient rivals out of the market. The paper extends the analysis to a Stackelberg entry game where established incumbents set prices first, then a potential entrant decides. The result reframes how to think about price-cutting as exclusionary behaviour in oligopolistic markets.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model — differentiated Bertrand oligopoly with linear demand and constant unit costs, plus extension to Stackelberg entry games. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for GVH (Hungarian Competition Authority) when assessing predatory-pricing claims. The paper formalises conditions under which strategic price-cutting that drives rivals to exit is an equilibrium outcome (not necessarily anticompetitive). Useful framework for distinguishing legitimate competitive pricing from anti-competitive limit-pricing in Hungarian merger and abuse-of-dominance cases.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "industrial-organization",
+    "mechanism-design"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2560660664"
 }

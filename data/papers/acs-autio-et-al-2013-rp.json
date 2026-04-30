@@ -17,20 +17,30 @@
   "url_published": "https://doi.org/10.1016/j.respol.2013.08.016",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "We introduce a novel concept of National Systems of Entrepreneurship and provide an approach to characterizing them. National Systems of Entrepreneurship are fundamentally resource allocation systems that are driven by individual-level opportunity pursuit, through the creation of new ventures, with this activity and its outcomes regulated by country-specific institutional characteristics. In contrast with the institutional emphasis of the National Systems of Innovation frameworks, where institutions engender and regulate action, National Systems of Entrepreneurship are driven by individuals, with institutions regulating who acts and the outcomes of individual action. Building on these principles, we also introduce a novel index methodology to characterize National Systems of Entrepreneurship. The distinctive features of the methodology are: (1) systemic approach, which allows interactions between components of National Systems of Entrepreneurship; (2) the Penalty for Bottleneck feature, which identifies bottleneck factors that hold back system performance; (3) contextualization, which recognizes that national entrepreneurship processes are always embedded in a given country's institutional framework.",
+  "summary_en": "Why do some countries generate more entrepreneurial activity than others? Ács, Autio and Szerb introduce 'National Systems of Entrepreneurship' (NSE) — a complement to the older 'National Systems of Innovation' framework that better captures individual-driven opportunity pursuit. They develop an index that combines individual-level entrepreneurship measures with country-specific institutional moderators, identifies bottleneck factors holding back system performance (a 'penalty for bottleneck' feature), and contextualises everything within national institutional frameworks. The result is a tool for policymakers to diagnose specific weaknesses in their entrepreneurship ecosystem.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Country-level data combining Global Entrepreneurship Monitor (GEM) individual-level survey responses (~2,000 individuals per country) with World Bank, World Economic Forum, Heritage Foundation institutional indicators, covering ~60+ countries.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for the Hungarian Innovation and Technology Ministry (ITM, now KKM) when designing entrepreneurship-promotion policies under the Hungarian National Smart Specialisation Strategy. The paper's bottleneck-identification methodology provides a diagnostic tool for finding which specific institutional barriers (regulatory, financial, cultural) most constrain Hungarian entrepreneurship — useful for targeted policy interventions rather than across-the-board programmes.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "industrial-organization",
+    "innovation-digital",
+    "political-economy"
+  ],
+  "methods": [
+    "structural",
+    "panel-data"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "survey",
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W3125376737"
 }

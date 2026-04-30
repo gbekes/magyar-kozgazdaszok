@@ -17,19 +17,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This paper introduces a method of calculating physical capital stock figures in transition countries and derives data for Hungary. On the basis of international experience, we set investment and saving paths for future income levels. Confrontation of savings prospects of different sectors with investments needs leads to an economic policy analysis of the fiscal policy needed to catch up to 70 per cent of Austrian per capita income by 2030.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "How big a capital-stock investment does Hungary need to catch up to Western European living standards, and is it fiscally feasible? Darvas and Simon develop a method for calculating physical-capital-stock figures in transition countries and apply it to Hungary. Drawing on international experience, they project investment and saving paths consistent with future income-level targets. Confronting the savings prospects of different sectors with the required investment leads to a fiscal-policy analysis of what would be needed to catch up to 70% of Austrian per-capita income by 2030. A foundational quantitative exercise for understanding Hungarian growth ambitions.",
+  "summary_hu": "Mekkora tőkeállomány-beruházás kell Magyarországnak ahhoz, hogy a nyugat-európai életszínvonalat utolérje, és fiskálisan kivitelezhető-e? Darvas és Simon módszert dolgoz ki a fizikai tőkeállomány adatok számítására átmeneti országokban, és alkalmazza Magyarországra. A nemzetközi tapasztalatra építve beruházási és megtakarítási pályákat vetítenek a jövőbeli jövedelem-szint célokhoz. A különböző szektorok megtakarítási kilátásait a szükséges beruházással összevetve elvezet egy fiskális-politikai elemzéshez arról, mi kellene ahhoz, hogy 2030-ra a magyar egy főre jutó GDP elérje az osztrák szint 70 százalékát. Alapozó kvantitatív gyakorlat a magyar növekedési ambíciók megértéséhez.",
+  "data_used": "Hungarian and international capital-stock and saving/investment data. Constructed Hungarian capital-stock series using perpetual-inventory methods. Cross-country comparators from Penn World Tables-style sources.",
+  "data_used_hu": "Magyar és nemzetközi tőkeállomány- és megtakarítási/beruházási adatok. Magyar tőkeállomány-idősor építése perpetuál-leltár módszerrel. Országközi komparátorok Penn World Tables-szerű forrásokból.",
+  "policy_relevance": "Historically important benchmark for Hungarian growth-projection work at MNB and NGM. The 2030 catch-up target (70% of Austrian per-capita GDP) is now testable retrospectively; Hungary fell short of that. The paper's framework remains useful for any new long-run projections, but the underlying capital-stock methodology has been improved (e.g., Vonyó & Klein 2018). Useful as a baseline for comparing policy expectations across different transition periods.",
+  "policy_relevance_hu": "Történelmileg fontos viszonyítási alap a magyar növekedés-vetítő munkához az MNB-nél és NGM-nél. A 2030-as felzárkózási cél (az osztrák egy főre jutó GDP 70 százaléka) most már visszamenőleg tesztelhető; Magyarország alulteljesített. A tanulmány keretrendszere továbbra is hasznos minden új hosszú távú vetítéshez, de az alapul szolgáló tőkeállomány-módszertan azóta javult (pl. Vonyó és Klein 2018). Hasznos kiindulópontként a szakpolitikai várakozások eltérő rendszerváltási időszakok közötti összehasonlításához.",
+  "topics": [
+    "macroeconomics",
+    "transition-postcommunist",
+    "fiscal-tax"
+  ],
+  "methods": [
+    "structural"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W2238757213"
 }

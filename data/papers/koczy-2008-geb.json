@@ -6,7 +6,7 @@
   ],
   "publication_type": "article",
   "journal": "Games and Economic Behavior",
-  "year": 2008,
+  "year": 2009,
   "volume": "66",
   "issue": "1",
   "pages": "559-565",
@@ -15,20 +15,25 @@
   "url_published": "https://doi.org/10.1016/j.geb.2008.04.002",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "The sequential coalition formation model of Bloch to solve cooperative games with externalities exhibits some anomalies when related to classical concepts. We elaborate on these problems, define a modification of Bloch's model and show that its order-independent equilibria coincide with the (pessimistic) recursive core.",
+  "summary_en": "Bloch's classical sequential coalition-formation model is widely used to solve cooperative games with externalities, but Kóczy shows it produces anomalies when applied to standard solution concepts. He proposes a modification of Bloch's model and proves that its order-independent equilibria coincide with the pessimistic recursive core — a non-cooperative foundation for the recursive-core concept. The result bridges cooperative and non-cooperative game theory in settings with externalities, useful for applications ranging from international treaty design to industrial alliances.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model — sequential coalition-formation games with externalities. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Provides a non-cooperative microfoundation for recursive-core analysis used in evaluating Hungarian and EU coalition-formation problems: EU enlargement bargaining, Visegrad cooperation, energy-supply coalitions. Useful for any policy analysis where the order in which coalitions form matters and externalities exist between them.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "mechanism-design",
+    "political-economy"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2238597668"
 }

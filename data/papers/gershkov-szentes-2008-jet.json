@@ -7,7 +7,7 @@
   ],
   "publication_type": "article",
   "journal": "Journal of Economic Theory",
-  "year": 2008,
+  "year": 2009,
   "volume": "144",
   "issue": "1",
   "pages": "36-68",
@@ -16,20 +16,25 @@
   "url_published": "https://doi.org/10.1016/j.jet.2008.02.004",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "A group of individuals with identical preferences must make a decision under uncertainty about which decision is best. Before the decision is made, each agent can privately acquire a costly and imperfect signal. We discuss how to design a mechanism for eliciting and aggregating the collected information so as to maximize ex-ante social welfare. We first show that, of all mechanisms, a sequential one is optimal and works as follows. At random, one agent at a time is selected to acquire information and report the resulting signal. Agents are informed of neither their position in the sequence nor of other reports. Acquiring information when called upon and reporting truthfully is an equilibrium. We next characterize the ex-ante optimal scheme among all ex-post efficient mechanisms. In this mechanism, a decision is made when the precision of the posterior exceeds a cut-off that decreases with each additional report. The restriction to ex-post efficiency is shown to be without loss when the available signals are sufficiently imprecise. On the other hand, ex-post efficient mechanisms are shown to be suboptimal when the cost of information acquisition is sufficiently small.",
+  "summary_en": "When a committee must make a decision under uncertainty and members can privately acquire costly imperfect signals, what's the optimal voting/aggregation scheme? Gershkov and Szentes show a sequential mechanism is optimal: members are randomly drawn one at a time, asked to acquire and report a signal, with no knowledge of their position or others' reports. Truth-telling is an equilibrium. Among ex-post-efficient mechanisms, the optimal rule decides once posterior precision exceeds a threshold that declines with each additional report. The restriction to ex-post efficiency is costless when signals are imprecise — but matters when information-acquisition costs are small.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model — committee voting with costly information acquisition. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for committee-based decision design at MNB monetary-policy committee, GVH antitrust panels, MEKH regulatory bodies, and Constitutional Court panels. The paper provides specific guidance on when sequential information-acquisition is optimal and when ex-post-efficiency restrictions are costly. Useful framework for institutional design at Hungarian and EU regulatory bodies.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "mechanism-design",
+    "political-economy"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-19",
-  "last_reviewed_at": "2026-04-19",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2103553799"
 }

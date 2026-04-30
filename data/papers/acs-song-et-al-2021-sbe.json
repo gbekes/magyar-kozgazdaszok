@@ -19,20 +19,30 @@
   "url_published": "https://doi.org/10.1007/s11187-021-00561-x",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "The emergence of digital technologies has significantly reduced the economic costs of data—search, storage, computation, transmission—and enabled new economic activities. Over the years, firms able to create a platform-based ecosystem have become a force of \"creative construction.\" Economic activities (C2C, B2C, B2B) have been reorganized around platform-based ecosystems for value creation and value appropriation, which are orchestrated by multisided platforms via the \"digital hand.\" To further understanding of the Digital Platform Economy, this paper provides a conceptual framework consisting of three interrelated concepts: digital technology infrastructure, multisided digital platforms, and platform-based ecosystems (users and entrepreneurs). Using a unique database over five decades, we revisit the hypothesis that new firms were needed to introduce digital technologies.",
+  "summary_en": "Digital platforms (Amazon, Uber, Airbnb, Alibaba) have reorganised global economic activity around 'platform-based ecosystems' that handle search, matching, and transactions through what the authors call the 'digital hand' (vs. Adam Smith's invisible hand). Ács, Song, Szerb, Audretsch and Komlósi build a 50-year database of digital platform development (1971–2021) and propose a three-part conceptual framework: digital infrastructure, multisided platforms, and ecosystems. They revisit the question of whether digital revolution required new firms (rather than existing-firm adoption) and document how the platform economy has evolved.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Custom database of digital platform companies and their evolution 1971-2021, drawing from corporate filings, technology histories, founder backgrounds, and platform-economy participation indicators across all major platform companies.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungarian competition policy (GVH) and digital-economy regulation (NMHH, ITM) increasingly engage with platform regulation under the EU Digital Markets Act and Digital Services Act. The paper provides a quantitative historical baseline and conceptual framework useful for Hungarian implementation of these EU regulations. Also relevant for HIPA when assessing platform-based foreign-direct-investment opportunities.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "innovation-digital",
+    "industrial-organization",
+    "trade-fdi"
+  ],
+  "methods": [
+    "descriptive-survey",
+    "panel-data"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "historical",
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W3214515521"
 }

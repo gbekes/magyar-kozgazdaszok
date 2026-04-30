@@ -18,20 +18,28 @@
   "url_published": "https://doi.org/10.1007/978-3-030-93963-2_8",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "Book chapter (Bíró, Kollányi et al.) in the Springer Contributions to Economics series (2022). Reviews health and social-security policy in Hungary. No publisher-side chapter abstract available.",
+  "summary_en": "This Springer 'Contributions to Economics' chapter (Bíró, Kollányi, Romaniuk, Smolić) reviews health and social-security policy in Hungary and other post-socialist Central European countries. It documents the institutional structure of health insurance, pensions, and family benefits, surveys recent reforms, and assesses outcomes against the population's evolving health and demographic structure. The chapter is a reference resource for cross-country comparisons of CEE health and social-security systems.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Literature review and policy synthesis covering Hungarian, Polish, Czech, Slovak, and Croatian health and social-security policies; references administrative and survey data from each country's national statistics agencies.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Reference document for Hungarian and CEE policy researchers comparing institutional choices across the region. Useful for academic and policy researchers at KRTK, MNB, and EU-level (DG-EMPL, OECD) when assessing Hungarian health and social-security policy in regional context.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "health",
+    "fiscal-tax",
+    "transition-postcommunist"
+  ],
+  "methods": [
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W4210905025"
 }

@@ -8,7 +8,7 @@
   ],
   "publication_type": "article",
   "journal": "Journal of Economic Dynamics and Control",
-  "year": 2009,
+  "year": 2010,
   "volume": "34",
   "issue": "4",
   "pages": "765-779",
@@ -17,20 +17,30 @@
   "url_published": "https://doi.org/10.1016/j.jedc.2009.11.005",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "The paper shows that US GDP velocity of M1 money has exhibited long cycles around a 1.25% per year upward trend, during the 1919-2004 period. It explains the velocity cycles through shocks constructed from a DSGE model and annual time series data. Model velocity is stable along the balanced growth path, which features endogenous growth and decentralized banking that produces exchange credit. Positive shocks to credit productivity and money supply increase velocity, as money demand falls, while a positive goods productivity shock raises temporary output and velocity. The paper explains velocity volatility at both business cycle and long run frequencies, with results suggesting that money and credit shocks appear to be more important for velocity during less stable times (such as the 1930s and 1987 crashes, and around 2003) and goods productivity shocks more important during stable times.",
+  "summary_en": "US M1 velocity has trended upward at ~1.25% per year for nearly a century, with substantial cyclical fluctuations. Benk, Gillman and Kejak explain these long cycles via a DSGE model with endogenous growth and decentralised banking that produces exchange credit. Positive money-supply or credit-productivity shocks lower money demand and raise velocity; productivity shocks temporarily raise both output and velocity. Money and credit shocks dominate during unstable periods (1930s crash, 1987 crash, 2003), while productivity shocks matter most in stable periods. The model unifies short-run business-cycle and long-run trend explanations of velocity.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Annual US data 1919-2004 on GDP, M1, velocity, credit aggregates, and prices, used to construct shock decomposition via DSGE model.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungarian MNB monetary-policy framework treats velocity stability as a guiding assumption. The paper shows velocity has long cycles driven by credit-banking shocks alongside money shocks — useful for MNB's M-aggregate monitoring and for interpreting Hungarian velocity changes during the 2010-2020 banking-sector consolidation.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "macroeconomics"
+  ],
+  "methods": [
+    "structural",
+    "time-series"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-30",
+  "review_status": "ai-drafted",
   "openalex_id": "W2052924696"
 }

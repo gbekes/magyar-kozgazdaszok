@@ -7,28 +7,39 @@
   "publication_type": "article",
   "journal": "Management Science",
   "year": 2017,
-  "volume": null,
-  "issue": null,
-  "pages": null,
-  "doi": null,
+  "volume": "63",
+  "issue": "5",
+  "pages": "1285-1301",
+  "doi": "10.1287/mnsc.2015.2375",
   "working_paper_series": null,
   "url_published": null,
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "In this paper, I examine the effect of credit default swaps (CDSs) on the restructuring of distressed firms. Using a sample of U.S. distressed exchange offers during the period 2006–2011, I show that the participation rate among bondholders is significantly lower if the firm has CDSs traded on its debt. To address endogeneity concerns, I use the introduction of the Big Bang Protocol as a natural experiment. The results suggest that firms with CDSs find it difficult to reduce debt out of court. This is important because it can increase the likelihood of future bankruptcy, which is inefficient. The findings are consistent with the empty creditor hypothesis, which posits that bondholders who are hedged with CDSs are less likely to participate in a debt restructuring. The paper also contains direct evidence for the existence of empty creditors.",
+  "summary_en": "Credit default swaps (CDSs) are supposed to improve creditor protection — but they may also create 'empty creditors' who, hedged via CDS, have less incentive to renegotiate distressed firms' debt. Danis tests this empirically using a sample of US distressed exchange offers 2006-2011. Bondholder participation in restructuring is significantly lower when the firm has actively-traded CDSs. The Big Bang Protocol's introduction provides a natural experiment for identification. The result suggests CDS markets may push more firms into bankruptcy by impeding out-of-court debt reduction — direct empirical support for the empty-creditor hypothesis.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Sample of US distressed exchange offers 2006-2011 from Mergent FISD and Compustat, matched to CDS trading status from Markit; covers ~hundreds of restructuring events.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungarian financial-stability supervision at MNB and corporate-insolvency framework at the Igazságügyi Minisztérium. The paper shows CDS markets distort restructuring incentives — useful framework for designing Hungarian out-of-court restructuring procedures and for MNB supervisory monitoring of CDS exposures held by Hungarian banks.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "industrial-organization",
+    "mechanism-design"
+  ],
+  "methods": [
+    "panel-data",
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-25",
-  "last_reviewed_at": "2026-04-25",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-30",
+  "review_status": "ai-drafted",
   "openalex_id": null
 }

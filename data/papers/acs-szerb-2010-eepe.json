@@ -16,20 +16,30 @@
   "url_published": "https://doi.org/10.4337/9780857935540.00008",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "Chapter 8 of Acs & Szerb's 'Global Entrepreneurship and Development Index 2010' (Edward Elgar). Develops the methodology and country rankings of the Global Entrepreneurship and Development Index. No publisher-side chapter abstract available.",
+  "summary_en": "Chapter 8 of the Edward Elgar volume Global Entrepreneurship and Development Index 2010 develops the GEDI methodology that combines individual-level entrepreneurship indicators with country-level institutional moderators to produce a comparable cross-country entrepreneurship index. The chapter explains the construction (component sub-indices for attitudes, abilities, aspirations) and applies it to country rankings. The methodology becomes the foundation for subsequent annual GEDI reports widely cited in entrepreneurship-policy circles.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Global Entrepreneurship Monitor (GEM) individual-level survey responses combined with country-level institutional indicators from the World Bank, World Economic Forum, and Heritage Foundation, covering ~70+ countries for 2010.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "GEDI rankings are referenced by the European Commission DG-GROW, OECD, and national entrepreneurship-policy bodies including Hungary's ITM and KKM. The chapter explains the methodology underlying those references, useful for analysts at the Pénzügyminisztérium and HIPA when interpreting Hungary's GEDI position.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "industrial-organization",
+    "innovation-digital",
+    "macroeconomics"
+  ],
+  "methods": [
+    "descriptive-survey",
+    "structural"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "survey",
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2889307847"
 }

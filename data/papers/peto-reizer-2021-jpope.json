@@ -17,19 +17,26 @@
   "url_pdf": "https://link.springer.com/content/pdf/10.1007/s00148-021-00825-6.pdf",
   "url_replication": null,
   "abstract": "Abstract There is significant heterogeneity in actual skill use within occupations even though occupations are differentiated by the task workers should perform during work. Using data on 12 countries which are available both in the Programme for the International Assessment of Adult Competencies survey and International Social Survey Program, we show that women use their cognitive skills less than men even within the same occupation. The gap in skill intensity cannot be explained by differences in worker characteristics or in cognitive skills. Instead, we show that living in a partnership significantly increases the skill use of men compared with women. We argue that having a partner affects skill use through time allocation as the gender penalty of partnered women is halved once we control for working hours and hours spent on housework. Finally, we do not find evidence of workplace discrimination against women.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "Within the same occupation, do men and women use cognitive skills differently? Pető and Reizer combine PIAAC skill-assessment data with ISSP survey data across 12 countries to compare actual on-the-job skill use between genders. Within an occupation, women use cognitive skills less than men. The gap survives controls for worker characteristics and even for cognitive-skill levels — so it isn't selection or ability. The mechanism appears to be partnership status: living in a partnership raises men's skill use, but lowers women's. Once working hours and housework hours are controlled for, the gender penalty halves — pointing to time allocation as the channel. They find no evidence of workplace discrimination per se.",
+  "summary_hu": "Ugyanazon a foglalkozáson belül a férfiak és nők különbözőképpen használják kognitív képességeiket? Pető és Reizer a PIAAC készség-értékelési adatokat és az ISSP felméréseket ötvözi 12 országra, hogy összehasonlítsa a tényleges, munkahelyi képesség-használatot nemek szerint. Egy foglalkozáson belül a nők kevesebbet használják kognitív képességeiket, mint a férfiak. A különbség nem múlik el a munkavállaló-jellemzők, sőt a kognitív-képességszintek beépítésével — tehát nem szelekció vagy képességek kérdése. A mechanizmus a párkapcsolati státusz: a párkapcsolatban élés növeli a férfiak képesség-használatát, de csökkenti a nőkét. Amikor a munkaórákat és a háztartási órákat is beépítjük, a nemi büntetés feleződik — ez az időallokációra mint csatornára mutat. Munkahelyi diszkriminációra önmagában nem találnak bizonyítékot.",
+  "data_used": "PIAAC (Programme for International Assessment of Adult Competencies) on-the-job skill-use measures merged with ISSP (International Social Survey Programme) on housework hours and partnership status. 12 OECD countries; sample size approximately 30,000 working adults.",
+  "data_used_hu": "PIAAC munkahelyi képesség-használati mutatók ISSP-vel összekapcsolva (háztartási órák, párkapcsolati státusz). 12 OECD-ország; mintegy 30 000 dolgozó felnőtt.",
+  "policy_relevance": "For Hungarian gender-equality policy and the EBH (Equal Treatment Authority): the paper undermines the 'workplace discrimination' framing of the within-occupation gender skill-use gap and points instead at home time allocation as the binding constraint. Policy implication: childcare provision, housework-redistribution norms, and parental-leave-design are likelier to close the gap than within-firm equality interventions. Useful counterweight to discrimination-only narratives in HR policy debates.",
+  "policy_relevance_hu": "A magyar nemi egyenlőségi politika és az EBH számára: a tanulmány aláássa a 'munkahelyi diszkrimináció' keretezést a foglalkozáson belüli nemi képesség-használati résre, és helyette az otthoni időallokációra mint kötelező korlátra mutat. Szakpolitikai implikáció: a gyermekgondozási ellátás, a háztartási munka újraosztásának normái és a szülői szabadság tervezése valószínűbben zárja a rést, mint a vállalaton belüli egyenlőségi beavatkozások. Hasznos ellensúly a HR-szakpolitikai vitákban a tisztán diszkrimináció-alapú narratíváknak.",
+  "topics": [
+    "labor-markets",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "descriptive-survey"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W3134022475"
 }

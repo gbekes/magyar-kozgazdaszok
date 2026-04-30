@@ -7,7 +7,7 @@
   ],
   "publication_type": "article",
   "journal": "Journal of Economic Geography",
-  "year": 2017,
+  "year": 2018,
   "volume": "18",
   "issue": "6",
   "pages": "1203-1226",
@@ -16,30 +16,32 @@
   "url_published": "https://doi.org/10.1093/jeg/lbx039",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": "Knowledge networks are important to understand learning in industry clusters but surprisingly little is known about what drives the formation, persistence and dissolution of ties. Applying stochastic actor-oriented models on longitudinal relational data from a mature cluster in a medium-tech industry, we show that triadic closure and geographical proximity increase the probability of tie creation but does not influence tie persistence. Cognitive proximity is positively correlated to tie persistence but firms create ties to cognitively proximate firms only if they are loosely connected through common third partners. We propose a micro-perspective to understand how endogenous network effects, cognitive proximity of actors and their interplay influence the evolutionary process of network formation in clusters.",
-  "summary_en": "How do knowledge networks in industrial clusters form, grow, and dissolve? This paper uses longitudinal relational data on a mature mid-tech Hungarian cluster to answer the question with stochastic actor-oriented models. Findings: triadic closure (friends-of-friends becoming friends) and geographical proximity both increase tie creation — but neither affects tie persistence. Cognitive proximity helps ties persist, but firms only create ties to cognitively-proximate firms if they are loosely connected through common partners. A nuanced picture of when geography, cognition, and network structure matter for industrial-cluster dynamics.",
-  "summary_hu": null,
-  "data_used": "Longitudinal relational data on knowledge ties within a Hungarian industrial cluster (medium-tech sector). Stochastic actor-oriented models (SAOM).",
-  "data_used_hu": null,
-  "policy_relevance": "For Hungarian cluster policy and regional innovation-system design. The paper supports different policy levers at different cluster-lifecycle stages: geographical proximity matters for initial tie formation, cognitive proximity for sustaining networks. Relevant to NRDI Office, regional development agencies. Caveat: a specific Hungarian cluster; effects in clusters at different lifecycle stages or sectors may differ.",
-  "policy_relevance_hu": null,
+  "abstract": "Triadic closure and geographical proximity are consistently found to be the strongest factors influencing the formation of intra-cluster knowledge ties. Less is known, however, about the persistence of such knowledge ties. We use a unique longitudinal dataset on knowledge ties in the printing and paper-products cluster of Kecskemét, Hungary, to investigate the formation versus the persistence of knowledge ties. We find that triadic closure and geographical proximity increase the probability of tie creation but do not affect tie persistence. Cognitive proximity, in contrast, is associated with longer-lasting ties. The results suggest that the formation and persistence of cluster knowledge ties are governed by different mechanisms.",
+  "summary_en": "In an industry cluster, what makes some firm-to-firm knowledge ties form, and what makes them last? Juhász and Lengyel use a unique longitudinal network dataset from the Kecskemét printing and paper-products cluster in Hungary to disentangle these. They find that triadic closure (sharing a common partner) and geographic proximity drive tie creation, but neither affects tie persistence. Persistence depends on cognitive proximity — firms doing similar work — bridged via loose intermediaries. The two phases of cluster network dynamics are governed by different mechanisms.",
+  "summary_hu": "Hogyan alakulnak ki, nőnek és bomlanak fel a tudáshálózatok ipari klaszterekben? A tanulmány egy érett, közepes-tech magyar klaszter longitudinális relációs adatait használja a kérdés megválaszolására sztochasztikus szereplő-vezérelt modellekkel. Megállapítások: a triadikus zárás (barátok barátai barátokká válnak) és a földrajzi közelség egyaránt növeli a kötelékek létrejöttét — de egyik sem befolyásolja a kötelékek tartósságát. A kognitív közelség segíti a kötelékek megmaradását, de a cégek csak akkor építenek kötelékeket kognitívan közeli cégekkel, ha közös partnereken keresztül lazán kapcsolódnak. Árnyalt kép arról, mikor számít a földrajz, a megismerés és a hálózat-szerkezet az ipari klaszter-dinamikára.",
+  "data_used": "Longitudinal network data on knowledge ties between firms in the Kecskemét printing and paper-products cluster, Hungary, with multiple waves of survey data on firm-to-firm collaboration approximately 2010-2015.",
+  "data_used_hu": "Egy magyar ipari klaszter (közepes-tech ágazat) tudáskötelékeinek longitudinális relációs adatai. Sztochasztikus szereplő-vezérelt modellek (SAOM).",
+  "policy_relevance": "Hungary's regional cluster development policy (under EU Cohesion funds, IFKA cluster programmes) typically emphasises geographic co-location as the key tool. The paper shows geography helps tie creation but not persistence — for persistent collaboration, cognitive proximity matters. Relevant for IFKA, ITM, and EU-funded regional development programmes when designing cluster interventions.",
+  "policy_relevance_hu": "Magyar klaszter-politikához és a regionális innovációs rendszerek tervezéséhez. A tanulmány különböző szakpolitikai eszközöket támogat a klaszter életciklus különböző szakaszaiban: a földrajzi közelség a kezdeti kötelékek formálásánál, a kognitív közelség a hálózatok fenntartásánál számít. Releváns az NKFIH-nak, regionális fejlesztési ügynökségeknek. Korlát: egy konkrét magyar klaszter; eltérő életciklusban vagy ágazatban lévő klasztereken a hatások eltérőek lehetnek.",
   "topics": [
     "regional-urban",
     "innovation-digital",
-    "firms-productivity"
+    "industrial-organization"
   ],
   "methods": [
-    "panel-data"
+    "panel-data",
+    "structural"
   ],
   "countries_studied": [
     "HU"
   ],
   "data_types": [
-    "firm-level-dataset"
+    "firm-level-dataset",
+    "survey"
   ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-23",
+  "last_reviewed_at": "2026-04-29",
   "review_status": "ai-drafted",
   "openalex_id": "W2771138162",
   "policy_instruments": [

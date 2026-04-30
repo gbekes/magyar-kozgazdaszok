@@ -17,19 +17,26 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This article provides a detailed empirical analysis of quarterly frequency dynamics in macroeconomic aggregates in 12 countries of Central and Eastern Europe (CEE). It shows that business fluctuations in CEE countries are, in general, more pronounced than in developed ones, and are of similar size as in other emerging market economies. Private consumption is particularly volatile. Relative to major developed economies government spending is dominantly procyclical, and net exports are strongly countercyclical. The most frequent country outliers are the high inflation countries of Bulgaria, Romania and Russia, especially in labour market, price and exchange rate variables. Excluding these countries from the sample makes many of the observed patterns in cyclical dynamics more homogenous, and broadly similar to ones established in developed economies.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "How do business cycles in Central and Eastern Europe (CEE) compare to those in developed economies? Benczúr and Rátfai produce the cleanest empirical inventory yet: quarterly-frequency dynamics in macroeconomic aggregates for 12 CEE countries. Findings: CEE business fluctuations are larger than in developed economies but similar in size to those in other emerging markets. Private consumption is particularly volatile. Government spending is dominantly procyclical (unlike in developed economies, where it's countercyclical). Net exports are strongly countercyclical. Bulgaria, Romania and Russia — the high-inflation countries — are systematic outliers in labour-market, price, and exchange-rate variables; excluding them brings the rest of CEE closer to developed-economy patterns.",
+  "summary_hu": "Hogyan hasonlítanak a közép- és kelet-európai (KKE) konjunktúra-ciklusok a fejlett gazdaságokhoz? Benczúr és Rátfai eddig a legtisztább empirikus leltárt készíti: negyedéves frekvenciájú makró-aggregátum dinamika 12 KKE-országra. Megállapítások: a KKE konjunktúra-ingadozások nagyobbak, mint a fejlett gazdaságokban, de hasonló méretűek, mint más feltörekvő piacokon. A magánfogyasztás különösen volatilis. A kormányzati kiadás dominánsan prociklikus (a fejlett gazdaságoktól eltérően, ahol anticiklikus). A nettó export erősen anticiklikus. Bulgária, Románia és Oroszország — a magas inflációjú országok — szisztematikus kívülállók a munkapiaci, ár- és árfolyam-változókban; kihagyásuk a többi KKE-t közelebb hozza a fejlett-gazdasági mintákhoz.",
+  "data_used": "Quarterly macroeconomic aggregates for 12 Central and Eastern European countries. Variables include GDP, private and public consumption, investment, net exports, prices, wages, exchange rates. Sample period covers ~1995-2008.",
+  "data_used_hu": "Negyedéves makró-aggregátumok 12 közép- és kelet-európai országra. A változók közé tartozik a GDP, magán- és közfogyasztás, beruházás, nettó export, árak, bérek, árfolyamok. A mintaidőszak ~1995-2008.",
+  "policy_relevance": "Foundational reference for Hungarian macroeconomic-cycle analysis at MNB and NGM. The paper's procyclical-government-spending finding has direct implications for fiscal-policy debate: Hungary's pre-crisis fiscal stance was indeed procyclical, and that's expensive in welfare terms. Useful baseline for evaluating subsequent fiscal-rule reforms (Stability Act, Fiscal Council). Caveat: pre-2008 data; post-crisis CEE patterns may differ.",
+  "policy_relevance_hu": "Alapozó hivatkozás a magyar makrogazdasági-ciklus elemzéshez az MNB-nél és NGM-nél. A tanulmány prociklikus-kormányzati-kiadás megállapítása közvetlen következményekkel jár a fiskális-politikai vitára: Magyarország válság előtti fiskális helyzete valóban prociklikus volt, és ez jóléti szempontból költséges. Hasznos alap a későbbi fiskális-szabály reformok (Stabilitási Törvény, Költségvetési Tanács) értékeléséhez. Korlát: 2008 előtti adatok; a válság utáni KKE-minták eltérőek lehetnek.",
+  "topics": [
+    "macroeconomics",
+    "transition-postcommunist"
+  ],
+  "methods": [
+    "time-series"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W1883184201"
 }

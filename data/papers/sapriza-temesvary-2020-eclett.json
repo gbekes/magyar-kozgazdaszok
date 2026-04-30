@@ -16,20 +16,29 @@
   "url_published": "https://doi.org/10.1016/j.econlet.2020.109050",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "We study the presence of asymmetries in the transmission of monetary policy in the United States. We find that the bank lending channel is stronger when the Federal Reserve tightens monetary policy, particularly when the monetary policy stance is expansionary.",
+  "summary_en": "Does monetary policy work the same way when the Federal Reserve tightens vs. eases? Sapriza and Temesváry find pronounced asymmetry: the bank lending channel is significantly stronger when the Fed tightens, particularly when the policy stance is expansionary at the time of tightening. The result reframes how central bankers should think about transmission lags and the timing of policy reversals — tightening from low rates packs more punch through bank balance sheets than easing from high rates.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "US bank-level panel data from Federal Reserve Call Reports, multi-decade quarterly observations on bank lending, deposits, and balance sheet structure, matched to monetary-policy stance indicators.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for MNB's monetary-policy framework decisions during cyclical turning points. The paper provides econometric grounding for the intuition that 'fighting' inflation from a low-rate base hits banks harder than easing from a high-rate base — useful when MNB calibrates how much rate change is needed for a given output effect.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "macroeconomics"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W3008208543"
 }

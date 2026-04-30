@@ -16,20 +16,25 @@
   "url_published": "https://doi.org/10.1016/j.jet.2017.10.002",
   "url_pdf": "https://www.sciencedirect.com/science/article/pii/S0022053117301047",
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "This paper considers a continuous-time biological model in which the growth rate of a population is determined by the risk attitude of its individuals. We consider choices over lotteries which determine the number of offspring and involve both idiosyncratic and aggregate risks. We distinguish between two types of aggregate risk: environmental variations and natural disasters. Environmental variations influence the death and birth rates, while natural disasters result in instantaneous drops in population size.",
+  "summary_en": "Where do human risk preferences come from? Robatto and Szentes build a continuous-time biological model in which a population's growth rate depends on its members' risk attitudes when faced with lotteries that determine offspring count. They distinguish two types of aggregate risk — environmental variations affecting birth/death rates, and natural disasters causing instantaneous population drops. The model derives evolutionarily stable risk preferences from biological fundamentals. The result links observed human risk attitudes (loss aversion, idiosyncratic vs. aggregate risk handling) to ancestral selection pressures.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model — continuous-time biological population dynamics with idiosyncratic and aggregate risk. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Provides foundations for behavioural-economics interventions used by Hungarian and EU policy researchers when designing risk-communication strategies: pension auto-enrolment defaults (MNB), insurance-take-up nudges, financial-literacy campaigns. Useful theoretical reference for understanding why people respond to aggregate vs. idiosyncratic risks differently.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "behavioral",
+    "macroeconomics"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-19",
-  "last_reviewed_at": "2026-04-19",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2189502241"
 }

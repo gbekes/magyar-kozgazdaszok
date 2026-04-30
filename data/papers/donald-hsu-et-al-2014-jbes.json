@@ -18,19 +18,26 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We propose inverse probability weighted estimators for the local average treatment effect (LATE) and the local average treatment effect for the treated (LATT) under instrumental variable assumptions with covariates. We show that these estimators are asymptotically normal and efficient. When the (binary) instrument satisfies one-sided noncompliance, we propose a Durbin–Wu–Hausman-type test of whether treatment assignment is unconfounded conditional on some observables. The test is based on the fact that under one-sided noncompliance LATT coincides with the average treatment effect for the treated (ATT). We conduct Monte Carlo simulations to demonstrate, among other things, that part of the theoretical efficiency gain afforded by unconfoundedness in estimating ATT survives pretesting. We illustrate the implementation of the test on data from training programs administered under the Job Training Partnership Act in the United States. This article has online supplementary material.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "summary_en": "When can we trust an instrumental-variables estimate of the average treatment effect on the treated (ATT)? Donald, Hsu and Lieli propose inverse-probability-weighted estimators for the local average treatment effect (LATE) and for ATT under IV assumptions with covariates, prove asymptotic normality and efficiency. They then exploit a clean fact about one-sided noncompliance — under one-sided noncompliance, LATE on the treated equals ATT — to construct a Durbin-Wu-Hausman-type test of whether treatment assignment is unconfounded conditional on observables. Monte Carlo simulations show pretesting preserves much of the theoretical efficiency gain. They apply the test to US Job Training Partnership Act training-programme data.",
+  "summary_hu": "Mikor bízhatunk egy instrumentális változós becslésben a kezeltekre vonatkozó átlagos kezelési hatásra (ATT)? Donald, Hsu és Lieli inverz-valószínűségi-súlyozott becslőket javasol a helyi átlagos kezelési hatásra (LATE) és az ATT-re IV-feltételezések mellett, kovariátokkal, bizonyítják az aszimptotikus normalitást és hatékonyságot. Aztán kihasználják az egyoldali nem-megfelelés tiszta tényét — egyoldali nem-megfelelés mellett a kezeltekre vonatkozó LATE egyenlő az ATT-vel — egy Durbin-Wu-Hausman típusú teszt megalkotására arra vonatkozóan, hogy a kezelés-kiosztás összefonatlan-e a megfigyelhetőkkel feltételesen. Monte Carlo szimulációk megmutatják, hogy az előzetes tesztelés megőrzi az elméleti hatékonysági nyereség nagy részét. A tesztet alkalmazzák USA Job Training Partnership Act képzési program adatokra.",
+  "data_used": "US Job Training Partnership Act (JTPA) experimental data on randomised assignment to job training. Application demonstrates the test for unconfoundedness on real programme-evaluation data.",
+  "data_used_hu": "USA Job Training Partnership Act (JTPA) kísérleti adatok a munkaképzés-kiosztás randomizációjáról. Az alkalmazás demonstrálja az összefonatlanság tesztet valós programértékelési adatokon.",
+  "policy_relevance": "Methodologically valuable for Hungarian programme-evaluation work. The test gives researchers a way to discriminate between IV-required and unconfoundedness-suffices identification — important when administrative data come with potential confounders. Useful for evaluation of NFSZ training programmes, EU-funded enterprise grants, and educational interventions.",
+  "policy_relevance_hu": "Módszertanilag értékes a magyar programértékelési munkához. A teszt módot ad a kutatóknak az IV-szükséges és az összefonatlanság-elegendő azonosítás közötti megkülönböztetésre — fontos amikor az adminisztratív adatok potenciális összefonatóként érkeznek. Hasznos a NFSZ képzési programok, EU-finanszírozott vállalati támogatások és oktatási beavatkozások értékeléséhez.",
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "iv",
+    "theory"
+  ],
+  "countries_studied": [
+    "US"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W2083101756"
 }

@@ -17,20 +17,29 @@
   "url_published": "https://doi.org/10.1016/j.jpubeco.2017.08.006",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "In an informational voting environment, we study the impact of an explicit nil vote option on the ballot when some voters are uninformed and face the swing voters curse. We postulate a simple model of strategic voting in which voters entertain heterogeneous thresholds on legitimacy of different voting actions. We predict that introducing a nil vote option reduces the number of uninformed and invalid votes, increasing expected welfare in both voluntary and compulsory voting. We test our model in a pen-and-paper laboratory experiment, and find that the predictions of the model hold in the data, for both voting systems.",
+  "summary_en": "Allowing voters to express 'no preference' through a 'nil' or 'none of the above' (NOTA) ballot option is debated in many democracies. Ambrus, Greiner and Sastro model uninformed voters facing the 'swing voter's curse' (uninformed votes can flip elections away from the better candidate). They predict that adding a NOTA option reduces uninformed and invalid voting, raising expected welfare in both voluntary and compulsory voting systems. They confirm the prediction in pen-and-paper laboratory experiments. The result supports adding NOTA to ballots in democracies where many voters lack information.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model + pen-and-paper laboratory experiment with multiple sessions and treatments, manipulating voting system (compulsory vs. voluntary) and NOTA availability.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for Hungarian electoral-rules debates. Hungary has discussed but not implemented NOTA; the paper provides experimental evidence that it raises welfare in both voluntary and compulsory voting. Useful for the Hungarian Parliament, the Constitutional Court, and the National Election Office when reviewing ballot-design proposals.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "political-economy",
+    "mechanism-design",
+    "behavioral"
+  ],
+  "methods": [
+    "theory",
+    "rct"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "field-experiment"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W3025557979"
 }

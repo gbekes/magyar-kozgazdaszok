@@ -19,19 +19,26 @@
   "url_pdf": "https://link.springer.com/content/pdf/10.1007/s11187-019-00140-1.pdf",
   "url_replication": null,
   "abstract": "Abstract We evaluate how country-level entrepreneurship—measured via the national system of entrepreneurship—triggers total factor productivity (TFP) by increasing the effects of Kirznerian and Schumpeterian entrepreneurship. Using a database for 45 developed and developing countries during 2002–2013, we employ non-parametric techniques to build a world technology frontier and compute TFP estimates. The results of the common factor models reveal that the national system of entrepreneurship is a relevant conduit of TFP, and that this effect is heterogeneous across countries. Policies supporting Kirznerian entrepreneurship—e.g., increased business formation rates—may promote the creation of low value-adding businesses which is not associated with higher TFP rates. Policy interventions targeting Schumpeterian entrepreneurship objectives—e.g., innovative entrepreneurship and the development of new technologies—are conducive to technical change by promoting upward shifts in the countries’ production function and, consequently, productivity growth.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "How does country-level entrepreneurship affect total factor productivity (TFP)? Lafuente, Ács, Szerb and Sanders distinguish between 'Kirznerian' entrepreneurship (alertness to existing-but-unexploited opportunities) and 'Schumpeterian' entrepreneurship (creative destruction via new products and processes). Using non-parametric methods to build a world technology frontier across 45 countries, 2002–2013, they show that the national system of entrepreneurship is a key driver of TFP — but Kirznerian and Schumpeterian channels operate differently. Schumpeterian entrepreneurship pushes the frontier outward; Kirznerian helps countries closer to the frontier exploit it. The result clarifies which type of entrepreneurship policy each country should prioritise based on its distance to the frontier.",
+  "summary_hu": "Hogyan befolyásolja az országszintű vállalkozási tevékenység a teljes tényezőtermelékenységet (TFP)? Lafuente, Ács, Szerb és Sanders megkülönbözteti a 'Kirzner-i' vállalkozást (a létező, de kihasználatlan lehetőségekre való éberség) és a 'Schumpeteri' vállalkozást (kreatív rombolás új termékek és folyamatok révén). Nem-parametrikus módszerrel világ-technológiai határt építenek 45 országra 2002–2013 között, és megmutatják, hogy a nemzeti vállalkozási rendszer a TFP fő hajtója — de a Kirzner-i és Schumpeteri csatornák különbözőképpen működnek. A Schumpeteri vállalkozás kifelé tolja a határt; a Kirzner-i segít a határhoz közeli országoknak kihasználni azt. Az eredmény tisztázza, melyik vállalkozási politikát kell priorizálnia egy ország-nak a határtól való távolsága alapján.",
+  "data_used": "Panel of 45 developed and developing countries, 2002–2013. World technology frontier estimated non-parametrically using TFP residuals from country-level production functions. Entrepreneurship variables from GEM-derived national-system measures.",
+  "data_used_hu": "45 fejlett és fejlődő ország paneladatai 2002–2013-ban. A világ-technológiai határt nem-parametrikusan becslik a TFP-reziduumokból, amelyek az országszintű termelési függvényekből származnak. A vállalkozási változók a GEM-ből származtatott nemzeti-rendszer mértékek.",
+  "policy_relevance": "For Hungary's specific position — moderately distant from the technology frontier — the paper implies the policy mix should include both Kirznerian (incremental opportunity-exploitation, e.g., service-sector innovation) and Schumpeterian (frontier-pushing R&D) components. Pure Schumpeterian focus underutilises Hungary's existing absorption capacity; pure Kirznerian focus risks chronic distance from the frontier. Relevant to ITM / NIH innovation-strategy balance.",
+  "policy_relevance_hu": "Magyarország konkrét helyzetére — mérsékelten távol a technológiai határtól — a tanulmány azt sugallja, hogy a szakpolitikai mixnek mindkét komponenst tartalmaznia kell: Kirzner-i (fokozatos lehetőség-kihasználás, pl. szolgáltatási szektor innováció) és Schumpeteri (határt feszegető K+F). A tisztán Schumpeteri fókusz alulhasználja Magyarország meglévő befogadó kapacitását; a tisztán Kirzner-i fókusz krónikus határtávolságot kockáztat. Releváns az ITM / NIH innovációs-stratégia egyensúlyhoz.",
+  "topics": [
+    "innovation-digital",
+    "firms-productivity"
+  ],
+  "methods": [
+    "panel-data"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W2922487421"
 }

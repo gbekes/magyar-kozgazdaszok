@@ -17,20 +17,28 @@
   "url_published": "https://doi.org/10.1007/s11127-007-9187-4",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "Does environmental lobbying affect the probability of environmental treaty ratification? Does the level of government corruption play a role for the success of such lobbying? In this paper, we propose that a more corruptible government may be more responsive to the demands of the environmental lobby. We use several stratified hazard models and panel data from 170 countries on the timing of Kyoto Protocol ratification to test this hypothesis. We find that increased environmental lobby group activity raises the probability of ratification, and the effect rises with the degree of corruption.",
+  "summary_en": "Why do some countries ratify the Kyoto Protocol faster than others? Fredriksson, Neumayer and Ujhelyi argue that more corruptible governments may be more responsive to environmental lobby pressure (because lobbying access is easier to buy when government is corrupt). Using stratified hazard models and panel data on Kyoto ratification timing for 170 countries, they find that environmental lobby-group activity does raise the probability of ratification — and the effect grows stronger as corruption rises. Counterintuitively, corruption can speed up environmental-treaty adoption when green lobbying is active.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Panel data on 170 countries' Kyoto Protocol ratification status by year (1997–early 2000s), matched to environmental lobby-group activity indices (e.g., NGO counts, ENGOs) and country-level corruption measures (Transparency International CPI, ICRG). Stratified Cox-style hazard models.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Provides one mechanism by which Hungarian and EU climate-policy lobbying interacts with governance quality. The paper suggests that corrupt environments don't uniformly block environmental progress — when green lobbies are well-organised, they can move faster. Useful framing for the Foreign Ministry, AM, and EU climate negotiators when assessing accession-state climate commitments.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "energy-environment",
+    "political-economy"
+  ],
+  "methods": [
+    "panel-data",
+    "structural"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-19",
-  "last_reviewed_at": "2026-04-19",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2103733506"
 }

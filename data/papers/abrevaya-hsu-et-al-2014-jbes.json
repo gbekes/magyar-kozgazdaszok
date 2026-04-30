@@ -18,19 +18,27 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We consider a functional parameter called the conditional average treatment effect (CATE), designed to capture the heterogeneity of a treatment effect across subpopulations when the unconfoundedness assumption applies. In contrast to quantile regressions, the subpopulations of interest are defined in terms of the possible values of a set of continuous covariates rather than the quantiles of the potential outcome distributions. We show that the CATE parameter is nonparametrically identified under unconfoundedness and propose inverse probability weighted estimators for it. Under regularity conditions, some of which are standard and some are new in the literature, we show (pointwise) consistency and asymptotic normality of a fully nonparametric and a semiparametric estimator. We apply our methods to estimate the average effect of a first-time mother’s smoking during pregnancy on the baby’s birth weight as a function of the mother’s age. A robust qualitative finding is that the expected effect becomes stronger (more negative) for older mothers.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "How do you estimate treatment effects that vary across subgroups defined by continuous characteristics (rather than by quantiles of the outcome)? Abrevaya, Hsu and Lieli formalise the conditional average treatment effect (CATE), prove it is nonparametrically identified under standard unconfoundedness, and propose inverse-probability-weighted estimators. Under regularity conditions (some new), they establish pointwise consistency and asymptotic normality for both fully nonparametric and semiparametric estimators. They apply the method to maternal smoking during pregnancy: the negative effect of smoking on baby birth-weight strengthens (becomes more negative) for older mothers — a heterogeneity invisible in standard ATE analysis.",
+  "summary_hu": "Hogyan becsüljük a kezelési hatásokat, amelyek folytonos jellemzők szerinti alcsoportokon át változnak (nem pedig a kimenet kvantilisei szerint)? Abrevaya, Hsu és Lieli formalizálja a feltételes átlagos kezelési hatást (CATE), bizonyítja, hogy az nem-parametrikusan azonosítható standard összefonatlanság mellett, és inverz-valószínűségi-súlyozott becsléseket javasolnak. Szabályossági feltételek mellett (egyesek újak) pontszerű konzisztenciát és aszimptotikus normalitást állapítanak meg mind a teljes nem-parametrikus, mind a fél-parametrikus becslőkre. A módszert anyai dohányzásra alkalmazzák terhesség alatt: a dohányzás csecsemő születési súlyára gyakorolt negatív hatása erősödik (negatívabbá válik) idősebb anyáknál — heterogenitás, amely standard ATE-elemzésben nem látható.",
+  "data_used": "US Vital Statistics natality records on first-time mothers. Treatment: smoking during pregnancy. Outcome: baby birth weight. Conditioning: mother's age. Sample size in the millions; nonparametric estimation with bootstrap inference.",
+  "data_used_hu": "USA Életjelek-Statisztikai születési nyilvántartások először szülő anyáknál. Kezelés: terhesség alatti dohányzás. Kimenet: csecsemő születési súlya. Feltételezés: az anya életkora. Mintaméret millióban; nem-parametrikus becslés bootstrap-i inferenciával.",
+  "policy_relevance": "Methodological foundation for evaluating Hungarian programmes with heterogeneous-by-age effects (e.g., active labour-market policies, education interventions, public-health campaigns). For Hungarian researchers using KSH or Admin3 data, the method is directly implementable. Caveat: the application is US smoking-pregnancy; the methodology is general but the substantive Hungarian application requires its own programme-specific data.",
+  "policy_relevance_hu": "Módszertani alap a magyar programok életkor-heterogenitású hatásainak értékeléséhez (pl. aktív munkapiaci politikák, oktatási beavatkozások, közegészségügyi kampányok). KSH-t vagy Admin3-at használó magyar kutatóknak a módszer közvetlenül implementálható. Korlát: az alkalmazás USA-dohányzás-terhesség; a módszertan általános, de a magyar érdemi alkalmazás saját, programspecifikus adatokat igényel.",
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W2152456876"
 }

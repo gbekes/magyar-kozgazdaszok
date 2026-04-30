@@ -20,20 +20,29 @@
   "url_published": "https://doi.org/10.1016/j.econmod.2025.107358",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "The paper contributes new theory and econometric panel data estimation of output growth for twenty-one countries for annual data averaging almost four decades. Using the returns to human and physical capital that determine economic growth in the model, we specify the baseline econometric model with variables that most directly affect these returns. The inflation rate and the physical capital capacity utilization rate robustly result as the two main significant variables with opposite signs as expected from theory across a set of advanced panel econometric models using Mean Group and Common Correlated Effects. The theory-guided specification of the econometric model advances shows the importance of the return to capital in explaining economic growth. Using tax smoothing principles to interpret results implies that inflation surges detrimentally affect growth policies, so that more crisis financing of public debt by the private sector remains preferable but risks a tradeoff of lower capital utilization.",
+  "summary_en": "Standard cross-country growth regressions struggle to identify robust drivers of long-run growth. Gillman, Csabafi, Benk, Mátyás, Smith and Harris ground their econometric specification in a neoclassical-growth model with returns to human and physical capital. Across 21 countries over nearly four decades, two variables emerge as robustly significant with theory-consistent signs: inflation (negative) and physical-capital capacity utilisation (positive). Mean Group and Common Correlated Effects panel methods both confirm. Implication via tax-smoothing logic: inflation surges damage growth and so private-sector financing of public debt is preferable, but at the cost of lower capital utilisation.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Annual panel data on 21 advanced economies (likely OECD-21) covering ~1980-2020, with growth rates, inflation, capacity utilisation, taxes, and other macro fundamentals. Mean Group / Common Correlated Effects panel estimation.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for MNB inflation targeting and Pénzügyminisztérium fiscal-policy framework. The paper provides cross-country evidence that inflation surges harm long-run growth and that capacity utilisation is a key transmission channel — useful framework for Hungarian growth-strategy analyses and for the Pénzügyminisztérium's debt-management trade-offs.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "macroeconomics",
+    "fiscal-tax",
+    "firms-productivity"
+  ],
+  "methods": [
+    "panel-data",
+    "structural"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-30",
+  "review_status": "ai-drafted",
   "openalex_id": "W4415393240"
 }

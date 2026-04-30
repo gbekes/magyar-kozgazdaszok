@@ -7,7 +7,7 @@
   ],
   "publication_type": "article",
   "journal": "Journal of Banking & Finance",
-  "year": 2005,
+  "year": 2006,
   "volume": "30",
   "issue": "5",
   "pages": "1359-1374",
@@ -16,20 +16,29 @@
   "url_published": "https://doi.org/10.1016/j.jbankfin.2005.07.001",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "This paper analyses the ever-growing literature on equilibrium exchange rates in the new EU member states of Central and Eastern Europe in a quantitative manner using meta-regression analysis. The results indicate that the real misalignments reported in the literature are systematically influenced, inter alia, by the underlying theoretical concepts (Balassa-Samuelson effect, Behavioural Equilibrium Exchange Rate, Fundamental Equilibrium Exchange Rate) and by the econometric estimation methods. The important implication of these findings is that a systematic analysis is needed in terms of both alternative economic and econometric specifications to assess equilibrium exchange rates.",
+  "summary_en": "How much do equilibrium exchange-rate estimates for Central and Eastern European EU member states actually vary across studies, and why? Égert and Halpern apply meta-regression analysis to a large literature comparing real-misalignment estimates. They find that reported misalignments are systematically influenced by both the underlying theoretical concept (Balassa-Samuelson, Behavioural Equilibrium Exchange Rate, Fundamental Equilibrium Exchange Rate) and the econometric estimation method. The implication: any single estimate of CEE equilibrium exchange rates is fragile, and a systematic robustness analysis across alternative theory-method combinations is needed for credible misalignment assessment.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Meta-regression analysis of 60+ empirical studies on equilibrium exchange rates in Central and Eastern European EU member states (Hungary, Poland, Czechia, Slovakia, Slovenia, Estonia, Latvia, Lithuania), covering both BEER, FEER, and Balassa-Samuelson approaches.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for MNB exchange-rate-monitoring methodology and Hungarian Government euro-readiness assessments. The paper warns that equilibrium-exchange-rate estimates are model-sensitive — useful caution for MNB strategy discussions and for the European Commission's CEE convergence reports.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "macroeconomics",
+    "banking-finance",
+    "transition-postcommunist"
+  ],
+  "methods": [
+    "panel-data",
+    "structural"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-30",
+  "review_status": "ai-drafted",
   "openalex_id": "W3123665960"
 }

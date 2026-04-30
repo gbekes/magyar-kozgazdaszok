@@ -45,5 +45,8 @@
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
   "review_status": "ai-drafted",
-  "openalex_id": null
+  "openalex_id": null,
+  "summary_hu": "Amikor egy külföldi cég felvásárol egy magyar vállalatot, számít-e, hogy expat vezérigazgatót küld vagy magyart alkalmaz? A tanulmány magyar adminisztratív adatokat használ külföldi felvásárlásokról az expat vs helyi vezérigazgató választás okozati hatásának becslésére. Az azonosítás kihasználja, hogy a felvásárlási döntés és a CEO-választás együttes — összehasonlítva a felvásárlás előtti hasonló pályájú, csak CEO-nemzetiségben eltérő cégeket. Eredmény: az expat CEO-k által vezetett cégek 13 százalékkal magasabb TFP-növekedést és 95 százalékkal magasabb árbevétel-növekedést mutatnak a felvásárlás utáni időablakban. Az expat-előny mind az export, mind a hazai értékesítésre érvényes. A vezetői képesség, nem pusztán a külföldi tulajdon az, ami kötelező korlát.",
+  "data_used_hu": "Magyar adminisztratív cégszintű adatok külföldi felvásárlásokról, CEO-személyazonossággal párosítva (expat versus helyi). Több felvásárlási évet fed le. Kimeneti változók: TFP, árbevétel, export, foglalkoztatás.",
+  "policy_relevance_hu": "Közvetlenül érinti a magyar FDI-vonzási és munkamobilitási politikát (HEPA, ITM). Ha az FDI értéke jelentős részben az expat vezetői képességen keresztül érkezik, akkor a szakpolitikának el kell ismernie és nem szabad véletlenül korlátoznia az expat-vezetői mobilitást (munkavállalási engedélyek, adózási bánásmód). Releváns a 'képzett-munkavállalói' bevándorláspolitikai vitákhoz és a külföldi-tulajdon termelékenység-állítások értékeléséhez. Korlát: az azonosítás eltérő CEO-választású felvásárlásokat hasonlít össze; egyes nem megfigyelt vállalati jellemzőkre szelekció maradhat."
 }

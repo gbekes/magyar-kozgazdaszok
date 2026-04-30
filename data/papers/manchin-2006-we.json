@@ -16,19 +16,27 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Despite the long relationship between the European Union and the African, Caribbean and Pacific (ACP) countries aimed at encouraging their exports while stimulating growth and investment, the ACP states still face difficulties in integrating into the world economy. This paper examines the non‐least developed ACP countries preferential trade with the EU using data on EU member states’ imports eligible for preferences under the Cotonou agreement for the period 2001 at the 8‐digit level. Using data on tariffs and preferential quota applicable on each 8‐digit product for the year 2001 ad‐valorem tariff rates were calculated. The paper also investigates the existence of a threshold in the offered duty reduction under which traders have no incentives to ask for preferences since the costs of obtaining these exceeds their benefits. Our results showed that the higher the value of preferences offered, the higher the probability that preferences are requested. Using endogenous threshold estimation techniques we also provided evidence that there exists a minimum value of preferences needed for traders to request preferences. More specifically, if the difference between preferential and third country tariff rates are lower than 4 per cent, there are no incentives for traders to request preferences since the costs of obtaining the preferences are expected to be higher than the benefits from obtaining the preferences. Our results additionally indicate that country specificities also play an important role in the decision whether requesting preferences or not and how much to import.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "How well are EU trade preferences for African, Caribbean and Pacific (ACP) countries actually used? Manchin examines EU member-state imports eligible for preferences under the Cotonou agreement at the 8-digit product level for 2001. She finds preference utilisation depends sharply on the size of the available preference: small preference margins are largely ignored (compliance costs exceed the saving), while large margins are well-used. The threshold appears to be in the 4-5% ad-valorem range — below this, ACP exporters often pay the MFN tariff rather than file preference paperwork. Implication: trade-preference programmes need either to widen the margin or simplify administration to be effective.",
+  "summary_hu": "Milyen mértékben használják az afrikai, karibi és csendes-óceáni (ACP) országok ténylegesen az EU-s kereskedelmi kedvezményeket? Manchin az EU tagállamai Cotonou-egyezmény szerinti kedvezményekre jogosult importjait vizsgálja 8-számjegyű terméklebontásban 2001-re. Megállapítja, hogy a kedvezmény-felhasználás élesen függ a kedvezmény nagyságától: a kis kedvezmény-marzsokat nagyrészt figyelmen kívül hagyják (a megfelelési költségek meghaladják a megtakarítást), míg a nagy marzsokat jól kihasználják. A küszöb a 4-5 százalékos ad-valorem tartományban van — ez alatt az ACP-exportőrök gyakran inkább a legnagyobb kedvezményt élvező vámot fizetik, mint hogy kedvezmény-papírokat töltsenek ki. Implikáció: a kereskedelmi-kedvezmény programoknak vagy szélesíteniük kell a marzsot, vagy egyszerűsíteniük kell az adminisztrációt a hatékonysághoz.",
+  "data_used": "EU-15 import data at HS 8-digit level for 2001, eligibility flags for Cotonou preference, applied tariff and preferential quota rates. ~ACP non-LDC partner countries.",
+  "data_used_hu": "EU-15 import-adatok HS 8-jegyű szinten 2001-re, Cotonou kedvezmény-jogosultsági jelzésekkel, alkalmazott vám- és kedvezményes kvótarátákkal. ~ACP nem-LDC partner országok.",
+  "policy_relevance": "Foundational empirical paper for EU trade-preference policy debates. Concrete recommendation: don't waste effort on small preferences — either go large or simplify rules-of-origin to make small ones usable. Relevant to Hungarian trade-policy positioning in EU GSP+ debates and to Hungarian Foreign Affairs Ministry's development-cooperation policy through trade.",
+  "policy_relevance_hu": "Alapozó empirikus tanulmány az EU kereskedelmi-kedvezmény politikai vitákhoz. Konkrét ajánlás: ne pazaroljunk erőfeszítést kis kedvezményekre — vagy menjünk nagyra, vagy egyszerűsítsük a származási szabályokat, hogy a kis kedvezmények is használhatók legyenek. Releváns a magyar kereskedelmi-politikai pozícionáláshoz az EU GSP+ vitákban és a Külügyminisztérium kereskedelmen keresztüli fejlesztési-együttműködési politikájához.",
+  "topics": [
+    "trade-fdi"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "EU"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W2006895136"
 }

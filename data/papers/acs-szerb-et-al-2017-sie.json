@@ -17,20 +17,30 @@
   "url_published": "https://doi.org/10.1007/978-3-319-63844-7_3",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "Chapter in Acs, Szerb & Lloyd's 'The Global Entrepreneurship Index 2017' (SpringerBriefs in Economics 2017). Updates the GEI framework and country rankings. No standalone chapter abstract for SpringerBriefs volumes.",
+  "summary_en": "The 2017 GEI volume — successor to GEDI — refines the country-level entrepreneurship index methodology and extends rankings through 2016. Ács, Szerb and Autio (with Lloyd) make the index more accessible to policymakers, expand the country coverage, and add deeper institutional moderators. Country profiles include diagnostic dashboards highlighting specific bottlenecks holding back each country's entrepreneurship system.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Global Entrepreneurship Monitor (GEM) survey data plus institutional indicators for ~75 countries through 2016, with country-profile dashboards summarising strengths and weaknesses.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungarian country profile available for use by ITM, KKM, HIPA, and the Hungarian Innovation Office when interpreting Hungary's entrepreneurship-system performance over time. Also useful for cross-country benchmarking against Visegrad and EU peers.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "industrial-organization",
+    "innovation-digital",
+    "macroeconomics"
+  ],
+  "methods": [
+    "descriptive-survey",
+    "structural"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "survey",
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2762684523"
 }

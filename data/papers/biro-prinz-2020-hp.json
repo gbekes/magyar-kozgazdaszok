@@ -16,20 +16,31 @@
   "url_published": "https://doi.org/10.1016/j.healthpol.2020.01.006",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "Using administrative data on a random 50% of the Hungarian population, including individual-level information on incomes, healthcare spending, and mortality for the 2003–2011 period, we develop new evidence on the distribution of healthcare spending and mortality in Hungary by income and geography. By linking detailed administrative data on employment, income, and geographic location with measures of healthcare spending and mortality we are able to provide a more complete picture than the existing literature which has relied on survey data. We compute mean spending and 5-year and 8-year mortality measures by geography and income quantiles, and also present gender and age adjusted results.",
+  "summary_en": "Bíró and Prinz combine Hungarian administrative data covering 50% of the population with healthcare-spending records to characterise inequality in health spending and mortality by income and geography for 2003-2011. The paper provides a more complete picture than survey-based studies: the bottom income quintile has both higher mortality and (consequently) lower lifetime healthcare spending; geographic disparities are large and align with regional development patterns. Uses NAV income data, ONYF employment records, and OEP healthcare claims to provide the most comprehensive Hungarian healthcare-inequality assessment to date.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian administrative data covering a random 50% of the population (~5 million individuals), 2003-2011: NAV income tax records, ONYF employment data, OEP/NEAK healthcare claims, KSH demographic and geographic information.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Foundational evidence for Hungarian health-equity policy. The paper documents large spending and mortality disparities by income and region — useful for NEAK's resource-allocation decisions, the Egészségügyi Államtitkárság's regional-health-strategy planning, and the Pénzügyminisztérium when evaluating health-budget redistribution proposals.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "health",
+    "inequality-welfare",
+    "regional-urban"
+  ],
+  "methods": [
+    "descriptive-survey",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2945407997"
 }

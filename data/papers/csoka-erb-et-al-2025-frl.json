@@ -7,7 +7,7 @@
     "kiss-hubert"
   ],
   "publication_type": "article",
-  "journal": "Finance research letters",
+  "journal": "Finance Research Letters",
   "year": 2025,
   "volume": "87",
   "issue": null,
@@ -17,20 +17,26 @@
   "url_published": "https://doi.org/10.1016/j.frl.2025.109110",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "During a bank run, the bank observes massive withdrawals but cannot distinguish between genuine liquidity-needs and panic withdrawals. Optimal policy responses—e.g., rescheduling or suspending convertibility—depend on the bank's beliefs about the liquidity needs of those yet to be served. We revisit Ennis and Keister (2009), relaxing their assumption that the share of impatient depositors still in line mirrors the population share, allowing arbitrary feasible beliefs. Our analysis shows that greater bank pessimism—i.e., a higher perceived share of impatient depositors still in line—increases fragility, defined as the likelihood that a bank-run equilibrium coexists with the efficient no-run outcome, regardless of the policy tool employed. This suggests that managing banks' beliefs—by reducing undue pessimism—before a crisis may mitigate run incentives. In an era of real-time data and AI-driven monitoring, banks may strive to infer more precise information on remaining depositors—potentially pivotal for preventing panic-driven runs.",
+  "summary_en": "During a bank run, the bank cannot tell whether withdrawals are panic-driven or genuine liquidity needs. Csóka, Erb and Kiss revisit the Ennis-Keister (2009) bank-run model, relaxing the assumption that the share of impatient depositors still in line equals their population share. With more flexible beliefs, they show that pessimistic banks (overestimating impatient depositors remaining) face higher fragility — meaning bank-run equilibria are more likely to coexist with efficient no-run equilibria. The implication: banks should be helped to form accurate (not pessimistic) beliefs before a crisis. Real-time data and AI-driven monitoring may help.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model — bank-run equilibrium analysis extending Ennis-Keister (2009) framework with arbitrary feasible beliefs. Numerical examples calibrated to standard bank-run model parameters.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for MNB and OBA crisis-management protocols. The paper supports investment in real-time depositor-data infrastructure that helps banks form accurate beliefs about depositor type-mix during stress events. Useful framework for designing the next generation of MNB's bank-resolution playbook.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "banking-finance",
+    "behavioral",
+    "mechanism-design"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-20",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W4416763895"
 }

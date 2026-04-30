@@ -6,29 +6,40 @@
   ],
   "publication_type": "article",
   "journal": "Journal of International Money and Finance",
-  "year": 2014,
+  "year": 2015,
   "volume": "56",
-  "issue": null,
+  "issue": "C",
   "pages": "202-222",
   "doi": "10.1016/j.jimonfin.2014.09.008",
   "working_paper_series": null,
   "url_published": "https://doi.org/10.1016/j.jimonfin.2014.09.008",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "Using a unique newly constructed dataset on U.S. banks' foreign activities since 1997, this paper examines how bank, market and regulatory conditions in the U.S. and host countries affect U.S. banks' choices of which foreign markets to enter and how much claims and liabilities to take on there. Using a two-stage structural estimation framework, the determinants of foreign market entry/exit, cross-border claims, and foreign affiliate claims and liabilities choices are examined in 107 host countries around the world. It is shown that (1) the health of the balance sheet is the primary driver of foreign market entry/exit choices (especially so during the Subprime crisis), while host market and regulatory conditions play important roles in the choice of claims/liabilities volumes; (2) banks choose their foreign activities during banking and market crises differently than they do in 'normal' times; and (3) in addition to bank size, previous experience with managing a global lending network significantly increases the intensity of banks' foreign involvement. Structural estimates of the costs of foreign market entry/exit and host market regulatory stringency are also derived.",
+  "summary_en": "Building on a unique US-bank foreign-activity dataset, Temesváry uses a two-stage structural framework to estimate which factors drove US banks' entry/exit choices and claims/liabilities volumes across 107 host countries 1997-2014. Bank balance-sheet health was the primary driver of entry/exit decisions, especially during the 2007-09 subprime crisis. Host-market and regulatory conditions mattered more for the volume of cross-border claims and liabilities. Banks behave differently in crisis vs. normal times, and prior experience with global lending networks raises foreign-involvement intensity. The paper produces structural estimates of foreign-market entry costs and regulatory-stringency parameters.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Newly constructed bank-level dataset on US banks' foreign activities 1997-2014, covering 107 host countries and combining FR 2502, Y-9C, and Call Report data; supplemented with country-level regulatory and macro indicators.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungarian banking system is heavily reliant on foreign-bank-owned subsidiaries (OTP excepted). The paper's framework for understanding US bank foreign-entry/exit decisions translates directly to evaluating Western European banks' subsidiaries in Hungary — when they expand, when they exit, and what determines lending volumes. Relevant for MNB and Pénzügyminisztérium when negotiating cross-border banking arrangements.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "trade-fdi",
+    "industrial-organization"
+  ],
+  "methods": [
+    "structural",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W1995123945"
 }

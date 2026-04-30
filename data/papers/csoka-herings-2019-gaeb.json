@@ -16,20 +16,26 @@
   "url_published": "https://doi.org/10.1016/j.geb.2019.05.007",
   "url_pdf": "https://www.sciencedirect.com/science/article/pii/S0899825619300776",
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "We analyze the question of how to distribute the asset value of an insolvent firm among its creditors and the firm itself. Compared to standard bankruptcy games as studied in the game-theoretic literature, we treat the firm as a player and define a new class of transferable utility games called liability games. We show that the core of a liability game is empty. We analyze the nucleolus of the game. The firm always gets a positive payment, at most equal to half of the asset value. Creditors with higher liabilities receive higher payments, but also suffer from higher deficiencies. We provide conditions under which the nucleolus coincides with a generalized proportional rule.",
+  "summary_en": "When a firm becomes insolvent, how should its remaining assets be distributed among creditors and the firm itself? Csóka and Herings introduce 'liability games' — cooperative transferable-utility games that treat the firm as a player. They prove the core is always empty (no allocation makes everyone happy), which forces using the nucleolus solution concept. The firm always receives a positive payment up to half the asset value; creditors with higher liabilities get higher payments but also suffer larger deficiencies. The paper provides conditions under which the nucleolus coincides with a generalised proportional rule, a tractable approximation for practical use.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model — cooperative game theory framework for bankruptcy/insolvency proceedings. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for Hungarian insolvency law (Csődeljárási tv.) and the practice of insolvency administrators. The paper provides a rigorous framework for assessing whether observed Hungarian bankruptcy distributions align with cooperative-game-theoretic fairness. Useful framework for the Igazságügyi Minisztérium (Justice Ministry) when reviewing insolvency-procedure efficiency.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "banking-finance",
+    "mechanism-design",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W4251283516"
 }

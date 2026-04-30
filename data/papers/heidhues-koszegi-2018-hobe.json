@@ -16,20 +16,26 @@
   "url_published": "https://doi.org/10.1016/bs.hesbe.2018.07.006",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "Chapter on Behavioral Industrial Organization in the Handbook of Behavioral Economics: Applications and Foundations 1, vol. 1 (Bernheim, DellaVigna, Laibson eds., Elsevier 2018). Surveys models and evidence on consumer biases and firm responses in market settings. No standalone chapter abstract published.",
+  "summary_en": "Heidhues and Kőszegi's chapter in the Handbook of Behavioral Economics surveys the mature subfield of Behavioral Industrial Organization: how consumer biases (loss aversion, present bias, naïveté, limited attention) interact with firm pricing, product design, and market competition. Topics covered include shrouded attributes and add-on pricing, screening of sophisticated vs. naive consumers, behavioural pricing, and welfare implications for consumer protection. The chapter is the canonical reference for researchers and regulators integrating behavioural insights into IO analysis.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Survey chapter — comprehensive literature review covering theoretical and empirical work on consumer biases in industrial organisation. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Reference document for Hungarian regulators integrating behavioural IO into policy analysis. Directly relevant for GVH (consumer-protection investigations of pricing practices), MNB (consumer financial-product oversight), MEKH (energy-tariff transparency), and NMHH (telecoms billing transparency). Provides the academic foundation for modern consumer-protection enforcement.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "behavioral",
+    "industrial-organization"
+  ],
+  "methods": [
+    "descriptive-survey",
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2890475528"
 }

@@ -15,20 +15,32 @@
   "url_published": "https://doi.org/10.18414/ksz.2020.5.456",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": "A magyar nyugdíjrendszert jelenleg három fő középtávú feszültség jellemzi. 1. Az egymás utáni évjáratok közötti nyugdíjolló egyre jobban szétnyílik. 2. Az új évjáratok nyugdíjai a járulékplafon eltörlése s még inkább az arányos személyi jövedelemadó bevezetése miatt polarizálódnak. 3. A nyugdíjkorhatár merevsége és a Nők40 lazasága egyre inkább szembekerül egymással. Hogyan enyhíthetők a feszültségek? Ad 1. Le kell állni a szociális hozzájárulási adó (szocho) kulcsának további csökkentésével, és korrigálni kellene a korábban megállapított nyugdíjakat. Ad 2. Vissza kell vezetni a járulékalap plafonját, és a jelenleg csak nyomaiban létező degresszió hatókörét kell jelentősen tágítani. Ad 3. Vissza kell térni a méltányos 2009-es csökkentett előrehozott nyugdíjhoz, egyúttal megszabadulva a Nők40-től.* Journal of Economic Literature (JEL) kód: H11, H55",
-  "summary_en": null,
+  "abstract": "A magyar nyugdíjrendszert jelenleg három fő középtávú feszültség jellemzi. 1. Az egymás utáni évjáratok közötti nyugdíjolló egyre jobban szétnyílik. 2. Az új évjáratok nyugdíjai a járulékplafon eltörlése s még inkább az arányos személyi jövedelemadó bevezetése miatt polarizálódnak. 3. A nyugdíjkorhatár merevsége és a Nők40 lazasága egyre inkább szembekerül egymással. A tanulmány javaslatokat fogalmaz meg a feszültségek enyhítésére: a szocho-csökkentés leállítása, a járulékalap-plafon visszaállítása, a degresszió kiterjesztése, és a 2009-es csökkentett előrehozott nyugdíj visszaállítása.",
+  "summary_en": "Simonovits identifies three medium-term tensions in the Hungarian pension system as of 2020: (1) the 'pension scissors' (inter-cohort gap) widening because new pensions track real wages while old pensions only track prices, (2) polarisation of new pensions following the 2013 abolition of the contribution cap and the 2011 introduction of flat-rate personal income tax, and (3) the rigid statutory retirement age clashing with the lax 'Nők40' early-retirement scheme. He proposes specific fixes: stop further employer contribution (szocho) cuts, restore the contribution-base ceiling, broaden the now-vestigial pension degression, and replace Nők40 with the equitable 2009 reduced early-retirement scheme.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian pension-system administrative data 2010-2020 from ONYF, KSH wage data, MNB demographic projections.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Comprehensive policy package directly addressed to the Pénzügyminisztérium and the State Treasury. Each proposed fix maps to a specific lever the ministry controls. Directly relevant for ongoing MNB/KRTK pension-reform consultations and for opposition-party policy platforms on pension fairness.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "fiscal-tax",
+    "macroeconomics",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "theory",
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual",
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W3022486826"
 }

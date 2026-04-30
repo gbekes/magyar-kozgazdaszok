@@ -16,19 +16,26 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Abstract Foreign currency (FX)‐based loans and deposits became very popular in Central and Eastern European countries (CEECs) over the 2000–2011 period. In this paper, I simultaneously examine the demand‐side (consumer‐related) and supply‐side (bank‐related) determinants of the quick spread of FX banking. I use a newly constructed dataset on FX and domestic currency loans, deposits and interest rates, covering 16 CEECs overtime. Local‐FX interest rate and market share spreads are: (1) lower in managed currency regimes; (2) strongly affected by the prevalence of FX funding, currency mismatch and FX banking restrictions, and (3) wider after economic crises.",
-  "summary_en": null,
+  "summary_en": "Why did foreign-currency banking spread so quickly across Central and Eastern Europe in 2000-2011, and what can macroprudential policy learn from it? Temesváry uses a new dataset on FX and domestic-currency loans, deposits, and interest rates across 16 CEE countries. Both demand-side (consumer) and supply-side (bank) determinants matter. Three findings: (1) local-FX interest-rate and market-share spreads are lower in managed currency regimes, (2) they are strongly affected by FX-funding prevalence, currency mismatch, and FX banking restrictions, (3) they widen after economic crises. The paper provides the cleanest decomposition to date of the FX-banking phenomenon that became Hungary's biggest macroprudential problem.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Newly constructed dataset on FX and domestic-currency loans, deposits, and interest rates for 16 CEE countries, 2000-2011. Country-level panel regressions with currency-regime, capital-flow, and crisis controls.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance to MNB macroprudential policy and to Hungarian retrospective analysis of the 2008-2014 FX-mortgage crisis. The paper's finding that FX-banking restrictions matter supports the post-2014 Hungarian regulatory framework that explicitly limited FX household lending. Useful baseline for evaluating CEE-wide macroprudential coordination via the European Systemic Risk Board.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "banking-finance",
+    "transition-postcommunist"
+  ],
+  "methods": [
+    "panel-data"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W2253297060"
 }

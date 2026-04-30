@@ -18,19 +18,27 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Abstract This paper studies the effect of hedge-fund trading on idiosyncratic risk. We hypothesize that while hedge-fund activity would often reduce idiosyncratic risk, high initial levels of idiosyncratic risk might be further amplified due to fund loss limits. Panel-regression analyses provide supporting evidence for this hypothesis. The results are robust to sample selection and are further corroborated by a natural experiment using the Lehman bankruptcy as an exogenous adverse shock to hedge-fund trading. Hedge-fund capital also explains the increased idiosyncratic volatility of high-idiosyncratic-volatility stocks as well as the decreased idiosyncratic volatility of low-idiosyncratic-volatility stocks over the past few decades.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "summary_en": "Do hedge funds reduce or amplify idiosyncratic risk in equity markets? Kang, Kondor and Sadka show the answer is both — hedge-fund activity often reduces idiosyncratic risk in low-risk stocks but can amplify it in high-risk stocks because of fund loss limits that force liquidations during stress. Panel-regression and natural-experiment evidence (Lehman bankruptcy as an exogenous adverse shock to hedge-fund trading) supports the hypothesis. Hedge-fund capital explains both the increased idiosyncratic volatility of high-volatility stocks and the decreased idiosyncratic volatility of low-volatility stocks over recent decades — a unified story for two opposing patterns.",
+  "summary_hu": "A fedezeti alapok csökkentik vagy felerősítik a részvénypiacok idioszinkratikus kockázatát? Kang, Kondor és Sadka megmutatja, hogy a válasz mindkettő — a fedezeti alapi tevékenység gyakran csökkenti az idioszinkratikus kockázatot az alacsony-kockázatú részvényeknél, de erősítheti azt a magas-kockázatúaknál, az alapok veszteség-limitjei miatt, amelyek stressz idején likvidálásra kényszerítenek. Panel-regresszió és természetes-kísérlet bizonyíték (a Lehman csőd, mint a fedezeti alapi kereskedésre gyakorolt exogén adverz sokk) támogatja a hipotézist. A fedezeti alapi tőke magyarázza a magas-volatilitású részvények megnőtt idioszinkratikus volatilitását és az alacsony-volatilitású részvények csökkent idioszinkratikus volatilitását az elmúlt évtizedekben — egységes történet két ellentétes mintára.",
+  "data_used": "US equity data on idiosyncratic volatility plus hedge-fund holdings/trading data, 1990s-2010. Lehman bankruptcy 2008 used as a natural experiment for adverse shock to hedge-fund capital.",
+  "data_used_hu": "USA részvény-idioszinkratikus volatilitás adatok és fedezeti alapi pozíció/kereskedési adatok, 1990-es évek-2010. A 2008-as Lehman csőd természetes kísérletként használva a fedezeti alapi tőkére gyakorolt adverz sokkra.",
+  "policy_relevance": "For Hungarian macroprudential and financial-stability authorities (MNB): the paper warns that hedge-fund-style position-takers in stressed conditions can amplify rather than dampen volatility. Relevant input for stress-testing Hungarian banking-sector exposures to global financial intermediaries and for understanding crisis propagation channels. Caveat: US equity context; Hungarian markets have less active hedge-fund participation but global fund flows still affect them.",
+  "policy_relevance_hu": "A magyar makroprudenciális és pénzügyi-stabilitási hatóságok (MNB) számára: a tanulmány figyelmeztet arra, hogy a fedezeti-alap-szerű pozíciót-vállalók stresszelt körülmények között inkább felerősítik, mint tompítják a volatilitást. Releváns input a magyar bankszektor globális pénzügyi közvetítőkre vonatkozó kitettségeinek stressztesztjéhez és a válság-terjedési csatornák megértéséhez. Korlát: USA részvény-kontextus; a magyar piacokon kevésbé aktív a fedezeti alapi részvétel, de a globális tőkeáramlások továbbra is érintik őket.",
+  "topics": [
+    "banking-finance"
+  ],
+  "methods": [
+    "diff-in-diff",
+    "panel-data"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "macro-aggregate",
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W3121183595"
 }

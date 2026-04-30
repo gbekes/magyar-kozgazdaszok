@@ -1,0 +1,45 @@
+{
+  "id": "katona-zubcsek-sarvary-2011-jmr",
+  "title": "Network Effects and Personal Influences: The Diffusion of an Online Social Network",
+  "authors": [
+    "Zsolt Katona",
+    "Peter Pal Zubcsek",
+    "sarvary-miklos"
+  ],
+  "publication_type": "article",
+  "journal": "Journal of Marketing Research",
+  "year": 2011,
+  "volume": "48",
+  "issue": "3",
+  "pages": "425-443",
+  "doi": "10.1509/jmkr.48.3.425",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1509/jmkr.48.3.425",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "This article discusses the diffusion process in an online social network given the individual connections between members. The authors model the adoption decision of individuals as a binary choice affected by three factors: (1) the local network structure formed by already adopted neighbors, (2) the average characteristics of adopted neighbors (influencers), and (3) the characteristics of the potential adopters. Focusing on the first factor, the authors find two marked effects. First, an individual who is connected to many adopters has a greater adoption probability (degree effect). Second, the density of connections in a group of already adopted consumers has a strong positive effect on the adoption of individuals connected to this group (clustering effect). The article also records significant effects for influencer and adopter characteristics. An interesting counterintuitive finding is that the average influential power of individuals decreases with the total number of their contacts. These results have practical implications for viral marketing.",
+  "summary_en": "Using anonymised adoption data from a large European online social network, Katona, Zubcsek and Sárváry quantify how an individual's adoption probability depends on three factors: who they are connected to, who in their neighbourhood already adopted, and the local network structure. They find two strong network effects: connection to many adopters raises adoption probability (degree effect), and density of connections among already-adopted neighbours has a strong positive influence (clustering effect). Counterintuitively, individuals with very many contacts have less average influence per contact than those with moderate networks.",
+  "summary_hu": null,
+  "data_used": "Anonymised adoption-timing and friendship-graph data from a large European online social network of millions of users, observed during the platform's diffusion period in the mid-2000s.",
+  "data_used_hu": null,
+  "policy_relevance": "Hungarian public-information campaigns (vaccination uptake, energy-efficiency rebates, financial-literacy initiatives) increasingly use social-network targeting. The paper provides directly usable parameters: target dense clusters of early adopters rather than the highest-degree influencers (the latter have lower per-contact influence). Useful for NEAK, MEKH, and the Money Compass Foundation when designing peer-influenced behavioural campaigns.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "innovation-digital",
+    "behavioral",
+    "industrial-organization"
+  ],
+  "methods": [
+    "panel-data",
+    "structural"
+  ],
+  "countries_studied": [],
+  "data_types": [
+    "digital-trace"
+  ],
+  "featured": false,
+  "added_at": "2026-04-27",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
+  "openalex_id": null
+}

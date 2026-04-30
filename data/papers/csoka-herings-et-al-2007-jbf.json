@@ -17,20 +17,26 @@
   "url_published": "https://doi.org/10.1016/j.jbankfin.2006.10.026",
   "url_pdf": "https://www.sciencedirect.com/science/article/pii/S0378426607000404",
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "Coherent measures of risk defined by the axioms of monotonicity, subadditivity, positive homogeneity, and translation invariance are recent tools in risk management to assess the amount of risk agents are exposed to. If they also satisfy law invariance and comonotonic additivity, then we get a subclass of them: spectral measures of risk. Expected shortfall is a well-known spectral measure of risk. We investigate the above mentioned six axioms using tools from general equilibrium (GE) theory. Coherent and spectral measures of risk are compared to the natural measure of risk derived from an exchange economy model, which we call GE measure of risk. We prove that GE measures of risk are coherent measures of risk. We also show that spectral measures of risk are GE measures of risk only under stringent conditions, since spectral measures of risk do not take the regulated entity's relation to the market portfolio into account.",
+  "summary_en": "Coherent measures of risk (e.g., Expected Shortfall) are central to financial regulation. Csóka, Herings and Kóczy investigate the standard axiomatic foundations of these measures — monotonicity, subadditivity, positive homogeneity, translation invariance — using general-equilibrium (GE) theory. They show GE-derived risk measures are always coherent, but spectral measures of risk (a subclass of coherent measures including Expected Shortfall) coincide with GE measures only under stringent conditions, because spectral measures don't account for the regulated entity's relationship to the market portfolio. The paper sharpens the conditions under which regulatory risk measures match equilibrium-derived ones.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model — general-equilibrium foundations for axiomatic risk measures. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for MNB's adoption of Expected Shortfall under Basel III/IV and EU banking regulation. The paper shows Expected Shortfall is a coherent risk measure but doesn't always align with general-equilibrium-derived measures — a theoretical caveat when interpreting regulatory capital requirements as economically optimal. Useful framework for MNB stress-test design.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "banking-finance",
+    "methods",
+    "mechanism-design"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2118181412"
 }

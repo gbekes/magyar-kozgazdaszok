@@ -6,7 +6,7 @@
   ],
   "publication_type": "article",
   "journal": "Games and Economic Behavior",
-  "year": 2010,
+  "year": 2011,
   "volume": "71",
   "issue": "1",
   "pages": "224-234",
@@ -15,20 +15,25 @@
   "url_published": "https://doi.org/10.1016/j.geb.2010.08.006",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "We consider a model of directed search where the sellers are allowed to post mechanisms with entry fees. Regardless of the number of buyers and sellers, the sellers are able to extract all the surplus of the buyers by introducing entry fees and making price schedules positively sloped in the number of buyers arriving to their shops. This is in contrast to results that are achieved for large markets under the assumption that sellers cannot influence the utility of any particular buyer (market utility assumption), in which case buyers obtain strictly positive rents. If there is a bound on the prices or on the entry fees that can be charged, then the equilibrium with full rent extraction does not exist any more, and the market utility assumption is restored for large markets.",
+  "summary_en": "In directed-search models (where buyers choose which seller to approach), can sellers extract all buyer surplus by posting clever pricing schemes? Virág shows yes: by posting mechanisms with entry fees and price schedules that scale positively with the number of buyers arriving, sellers can extract all consumer surplus regardless of market size. This contrasts with classical results that assume sellers cannot affect any individual buyer's utility (the 'market utility assumption'), under which buyers retain positive rents. Imposing limits on prices or entry fees breaks the full-rent-extraction equilibrium and restores the classical result for large markets.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model — directed-search and posted-mechanism analysis. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct policy implication: regulatory caps on prices or entry fees in markets with directed search prevent sellers from extracting all consumer surplus. Useful for GVH and MEKH when designing price caps in regulated industries (telecoms termination rates, energy retail, insurance). Also informs Hungarian e-commerce platform regulation under EU Digital Markets Act implementation.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "industrial-organization",
+    "mechanism-design"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W1998995727"
 }

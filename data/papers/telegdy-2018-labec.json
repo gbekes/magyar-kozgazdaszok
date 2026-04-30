@@ -15,20 +15,31 @@
   "url_published": "https://doi.org/10.1016/j.labeco.2018.08.008",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "Using a large and unexpected public wage increase in Hungary, which changed the public wage premium from −17 to +7.5% from one month to the next, I study wage spillovers from the public to the corporate sector. I proxy the exposure of corporate workers to the public sector with the variation of the share of public sector employment within labor market segments defined by gender, experience, occupation and region. Controlling for worker-firm joint fixed effects and instrumenting the exposure variable with its past values, I estimate a wage differential of 9.6% around the wage increase between two workers situated at the 25th and the 75th percentile of the exposure measure. The firm's exposure to the public sector (measured as the average of individual exposures of the firm's workforce) produces a wage differential of 13.6%, suggesting that employers are concerned about wage tensions. The spillover affected primarily young, and therefore, mobile, workers and the highly educated, who are abundant in the public sector.",
+  "summary_en": "Telegdy uses a large unexpected Hungarian public-sector wage increase (the public-wage premium jumped from -17% to +7.5% in 2002 from one month to the next) to causally identify wage spillovers from public to corporate sector. Workers more exposed to the public sector (in their gender-experience-occupation-region segment) saw their corporate-sector wages rise by 9.6 percentage points more between the 25th and 75th exposure percentiles. The firm-level exposure effect is larger (13.6%), suggesting employers respond to anticipated wage tensions. Spillovers concentrate among young, mobile, and highly-educated workers — the groups most likely to switch into the public sector.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian linked employer-employee data 2000-2003 covering all formal-sector workers, with detailed individual characteristics (gender, age, occupation, education, region) and firm-level controls; ~millions of worker-firm-year observations.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct evidence for the Pénzügyminisztérium when calibrating public-sector wage increases — corporate-sector spillovers are substantial and concentrated among mobile, educated workers. Useful for budget impact assessments of teacher-wage, nurse-wage, and civil-service-wage increases. Also relevant for MNB inflation-monitoring of public-wage shocks.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "labor-markets",
+    "macroeconomics",
+    "fiscal-tax"
+  ],
+  "methods": [
+    "iv",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2604351463"
 }

@@ -1,0 +1,43 @@
+{
+  "id": "fulop-li-2013-jeconometrics",
+  "title": "Efficient Learning via Simulation: A Marginalized Resample-Move Approach",
+  "authors": [
+    "fulop-andras",
+    "Junye Li"
+  ],
+  "publication_type": "article",
+  "journal": "Journal of Econometrics",
+  "year": 2013,
+  "volume": null,
+  "issue": null,
+  "pages": null,
+  "doi": null,
+  "working_paper_series": null,
+  "url_published": null,
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "In state–space models, parameter learning is practically difficult and is still an open issue. This paper proposes an efficient simulation-based parameter learning method. First, the approach breaks up the interdependence of the hidden states and the static parameters by marginalizing out the states using a particle filter. Second, it applies a Bayesian resample-move approach to this marginalized system. The methodology is generic and needs little design effort. Different from batch estimation methods, it provides posterior quantities necessary for full sequential inference and recursive model monitoring. The algorithm is implemented both on simulated data in a linear Gaussian model for illustration and comparison and on real data in a Lévy jump stochastic volatility model and a structural credit risk model.",
+  "summary_en": "Estimating models that combine observable data with unobserved hidden states — common in finance and macroeconomics — is computationally hard, especially when the static parameters must also be learned. Fülöp and Li propose a generic Bayesian algorithm that first marginalises out the hidden states using a particle filter, then sweeps the parameters with a sequential resample-move step. The method needs little case-specific tuning and delivers full real-time posterior beliefs rather than only point estimates. They illustrate it on a Lévy jump stochastic-volatility model and a structural credit-risk model.",
+  "summary_hu": null,
+  "data_used": "Simulated data from a linear Gaussian state-space model for benchmarking, plus daily equity-return data used in a Lévy jump stochastic-volatility application and a structural credit-risk application.",
+  "data_used_hu": null,
+  "policy_relevance": "Sequential learning matters for any institution that updates its risk models as new data arrive — central banks producing real-time inflation nowcasts, financial supervisors monitoring evolving counterparty risk, or asset managers updating prior beliefs about return predictability. The algorithm makes full Bayesian inference tractable without bespoke MCMC tuning, lowering the entry cost for institutions whose macrofinance and credit-risk teams want recursive updating rather than periodic batch re-estimation.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "methods",
+    "banking-finance"
+  ],
+  "methods": [
+    "structural",
+    "time-series"
+  ],
+  "countries_studied": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
+  "featured": false,
+  "added_at": "2026-04-28",
+  "last_reviewed_at": "2026-04-28",
+  "review_status": "ai-drafted",
+  "openalex_id": null
+}

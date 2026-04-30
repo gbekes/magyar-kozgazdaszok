@@ -18,11 +18,11 @@
   "url_replication": null,
   "abstract": null,
   "summary_en": "Countries with large external-debt positions have historically paid an interest premium on sovereign borrowing — but how strong is this effect, and does it depend on the macroeconomic state? The authors estimate the relationship in a state-dependent framework that lets the interest-premium–external-debt elasticity differ by regime (normal vs stressed). The premium is much steeper in stressed periods than in normal ones: a given increase in external liabilities costs much more when the economy is already fragile. A state-linear model understates crisis-time debt costs.",
-  "summary_hu": null,
+  "summary_hu": "A nagy külső adósságpozícióval rendelkező országok történelmileg kamatprémiumot fizettek a szuverén hitelfelvételért — de mennyire erős ez a hatás, és függ-e a makrogazdasági állapottól? A szerzők egy állapotfüggő keretben becsülik a kapcsolatot, amely megengedi, hogy a kamatprémium-külsőadósság rugalmasság rezsimenként eltérjen (normál vs stresszelt). A prémium sokkal meredekebb stresszelt időszakokban, mint normálisokban: a külső kötelezettségek adott növekedése sokkal többe kerül, ha a gazdaság már sérülékeny. Egy állapot-lineáris modell alulbecsüli a válság-időszakos adósságköltségeket.",
   "data_used": "Panel of sovereign interest spreads, external-debt positions, and macro controls for a set of advanced and emerging economies over roughly 1990–2018. State definition via macro stress indicators.",
-  "data_used_hu": null,
+  "data_used_hu": "Szuverén kamatkülönbözetek, külső-adósságpozíciók és makró-kontrollok panelje fejlett és feltörekvő gazdaságokra ~1990–2018. Az állapot meghatározása makró-stressz mutatókkal.",
   "policy_relevance": "Direct input for Hungarian fiscal-risk assessment (ÁKK, Pénzügyminisztérium) and for MNB FX-reserve adequacy. Supports state-contingent debt-sustainability frameworks: a debt-to-GDP ratio that is safe in a normal regime can be costly in a stressed one. Caveat: state-dependence is econometrically identified in-sample; out-of-sample stress regimes may differ.",
-  "policy_relevance_hu": null,
+  "policy_relevance_hu": "Közvetlen input a magyar fiskális-kockázat értékeléshez (ÁKK, Pénzügyminisztérium) és az MNB devizatartalék-megfelelőségéhez. Az állapotfüggő adósság-fenntarthatósági keretek mellett érvel: egy adósság/GDP arány, amely normál rezsimben biztonságos, stresszeltben költséges lehet. Korlát: az állapotfüggés mintán belül azonosított ökonometriailag; a mintán kívüli stressz-rezsimek eltérőek lehetnek.",
   "topics": [
     "macroeconomics",
     "fiscal-tax"

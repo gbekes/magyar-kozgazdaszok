@@ -16,19 +16,24 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "Simonovits derives the maximal speed at which a decentralised control mechanism — where local managers update their decisions based only on partial signals — can converge to the system's steady state. The paper extends the linear control-theory toolkit to decentralised settings and provides upper bounds on convergence speed as a function of the network of information links between managers. The results clarify when decentralisation imposes a real efficiency cost relative to the central planner's benchmark.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model — no dataset. Linear-system analysis of decentralised adjustment dynamics.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Continued mathematical-econ heritage of the Hungarian School. Less directly relevant to today's policy debates, but underpins later applied work by Simonovits and coauthors on Hungarian pension-system dynamics and adjustment lags. Useful background for understanding the analytic style behind KRTK pension modelling.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "macroeconomics",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2053282105"
 }

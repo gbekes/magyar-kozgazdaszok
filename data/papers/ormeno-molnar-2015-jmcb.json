@@ -1,0 +1,47 @@
+{
+  "id": "ormeno-molnar-2015-jmcb",
+  "title": "Using Survey Data of Inflation Expectations in the Estimation of Learning and Rational Expectations Models",
+  "authors": [
+    "Arturo Ormeño",
+    "molnar-kriszta"
+  ],
+  "publication_type": "article",
+  "journal": "Journal of Money, Credit and Banking",
+  "year": 2015,
+  "volume": "47",
+  "issue": "4",
+  "pages": "673-699",
+  "doi": "10.1111/jmcb.12219",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1111/jmcb.12219",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "Does survey data contain useful information for estimating macroeconomic models? We address this question by using survey data of inflation expectations to estimate the New Keynesian model by Smets and Wouters and compare its performance under rational expectations and adaptive learning. The survey information serves as an additional moment restriction and helps us to determine the learning agents' forecasting model for inflation. Adaptive learning fares similarly to rational expectations in fitting macro data, but clearly outperforms rational expectations in fitting macro and survey data simultaneously. In other words, survey data contain additional information that is not present in the macro data alone.",
+  "summary_en": "Does the inflation-expectation survey data that central banks already collect actually help estimate macro models? Ormeño and Molnár re-estimate the canonical Smets–Wouters New Keynesian model under both rational expectations and adaptive learning, using survey forecasts as an additional moment restriction. Adaptive learning matches macro data about as well as rational expectations alone, but clearly outperforms it when matching macro data and survey data jointly. Survey data thus contain information missing from the macro time series — and learning-based models exploit that information.",
+  "summary_hu": null,
+  "data_used": "Quarterly US macro data (output, inflation, interest rate, etc.) plus the Survey of Professional Forecasters inflation expectations, post-1968. Bayesian estimation of the Smets-Wouters model with and without survey-data moments.",
+  "data_used_hu": null,
+  "policy_relevance": "MNB and the Hungarian Central Statistical Office (KSH) collect inflation-expectation surveys (Reuters/MNB monthly survey, Tárki business surveys). The paper shows that integrating these into structural-model estimation materially improves fit, and that adaptive-learning specifications use the survey data better than rational-expectations specifications. Useful guidance for MNB modelling teams designing the next-generation MEDEA/PHM forecasting models.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "macroeconomics",
+    "behavioral",
+    "methods"
+  ],
+  "methods": [
+    "structural",
+    "time-series"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "macro-aggregate",
+    "survey"
+  ],
+  "featured": false,
+  "added_at": "2026-04-27",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
+  "openalex_id": null
+}

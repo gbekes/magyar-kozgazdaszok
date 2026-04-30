@@ -19,19 +19,31 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We analyze the employment gap between Roma and non-Roma men and women in local labor markets to test the hypothesis that ethnic prejudices against a minority have a more substantial labor market impact if the proportion of small firms is high in the local economy. We rely on Hungarian data from the 2011 census and several supplementary surveys and use the vote share of the then far-right \"Jobbik\" party to measure strong anti-Roma sentiments in a given district. The hypothesis is maintained after addressing alternative scenarios, using different measures of prejudice, and making a series of robustness checks. The results show that Jobbik votes or the high share of small firms alone are not conducive to lower Roma employment probability while their interaction does. The ethnic (residual) employment gap between Roma and non-Roma men is wider by 20-40 percent if the small firm share and Jobbik vote share are considerably higher than the country average. For women, we find much weaker effects.",
-  "summary_en": null,
+  "summary_en": "How does ethnic prejudice translate into employment discrimination, and where does this translation happen most? Kertesi, Köllő, Károlyi and Szabó hypothesise that prejudice has bigger labour-market effect where small firms are dominant — small firms have less arms-length HR practice and more space for the owner's preferences to drive hiring. Using 2011 Hungarian Census + supplementary surveys, with 'Jobbik' (far-right party) vote share as a measure of anti-Roma sentiment, they test this. Result: Jobbik votes alone or small-firm share alone do not predict lower Roma employment probability, but their *interaction* does. Where both are high, the residual Roma–non-Roma employment gap for men is 20-40% wider. The effect is much weaker for women.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian 2011 census micro data plus supplementary surveys. Local-labour-market unit: district. Jobbik vote share as prejudice proxy. Small-firm share at district level. Residual employment gap controls for education, age, settlement type, and other observables.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance to Hungarian Roma-integration policy (Belügyminisztérium, EBH, Türr Roma framework). The paper supports targeting anti-discrimination enforcement specifically at small-firm-dominated districts with high anti-Roma sentiment, rather than uniform national-level enforcement. Relevant input for the Hungarian Equal Treatment Authority's strategic priorities and for EBH-funded local capacity-building. Useful empirical baseline for the post-2018 programme reorganisation.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "labor-markets",
+    "inequality-welfare",
+    "political-economy"
+  ],
+  "methods": [
+    "panel-data",
+    "structural"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "survey",
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W4309222326"
 }

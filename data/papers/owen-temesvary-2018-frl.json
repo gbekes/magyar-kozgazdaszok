@@ -6,30 +6,40 @@
     "temesvary-judit"
   ],
   "publication_type": "article",
-  "journal": "Finance research letters",
-  "year": 2018,
+  "journal": "Finance Research Letters",
+  "year": 2019,
   "volume": "30",
-  "issue": null,
+  "issue": "C",
   "pages": "276-279",
   "doi": "10.1016/j.frl.2018.10.010",
   "working_paper_series": null,
   "url_published": "https://doi.org/10.1016/j.frl.2018.10.010",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "Greater gender diversity on bank board of directors is associated with higher compensation inequality because CEOs at banks with more gender-diverse boards have higher base salaries. This effect disappears when women have higher representation on the board and during the financial crisis.",
+  "summary_en": "Greater gender diversity on US bank boards is associated with higher CEO-pay inequality — but only up to a point. Owen and Temesváry show that CEOs at banks with more gender-diverse boards earn higher base salaries (driving wider gaps between CEO and rank-and-file pay). However, this effect disappears once female board representation crosses a higher threshold, and during the 2008 financial crisis the relationship vanishes. The result complicates simple narratives that more diversity automatically reduces inequality at the top.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Compustat ExecuComp + Federal Reserve regulatory filings on approximately 90 US bank holding companies, 1999-2015, with detailed gender composition of board of directors and full executive compensation breakdowns.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungarian banking-sector gender-diversity policy (MNB recommendations, EU Capital Requirements Directive disclosure on board composition) typically expects diversity to reduce executive-pay extremes. The paper warns the relationship is more subtle: low diversity has different effects than high diversity, and crisis periods break the pattern. Useful framing for MNB and the Equal Treatment Authority when interpreting Hungarian bank board composition data.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "demographics-migration",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2897755919"
 }

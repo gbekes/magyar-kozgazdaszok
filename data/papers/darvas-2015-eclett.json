@@ -15,20 +15,29 @@
   "url_published": "https://doi.org/10.1016/j.econlet.2015.05.034",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "We create a euro-area Divisia-money dataset and estimate theoretically correct responses to money, user cost and interest rate shocks using structural vector-autoregressions. Our findings suggest that money matters for output, prices and interest rates, while the European Central Bank can influence monetary developments.",
+  "summary_en": "Standard 'simple-sum' monetary aggregates (M1, M2, M3) treat all components as perfect substitutes — a clearly wrong assumption. Divisia indices weight components by their user costs, producing theoretically correct measures. Darvas constructs a euro-area Divisia-money series and estimates structural-VAR responses to money, user-cost, and interest-rate shocks. The findings: money does matter for euro-area output, prices, and interest rates; ECB monetary policy can influence monetary developments. The result revives the case for monitoring money in ECB analysis.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Euro-area monetary statistics from ECB Statistical Data Warehouse, decomposed into Divisia-money components with user-cost weights; structural VAR over multiple decades of euro-area data.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for MNB monetary-aggregates analysis and for the ECB's monetary-pillar discussions. The paper supports the use of Divisia-money series as a complement to standard monetary aggregates in macroeconomic forecasting and policy analysis. Useful for MNB methodology and Hungarian Government euro-area discussions.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "macroeconomics",
+    "banking-finance",
+    "methods"
+  ],
+  "methods": [
+    "time-series",
+    "structural"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-30",
+  "review_status": "ai-drafted",
   "openalex_id": "W2115514614"
 }

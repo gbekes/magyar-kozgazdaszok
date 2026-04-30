@@ -246,6 +246,19 @@ section.block > h2 {
   position: sticky; top: 1rem; align-self: start;
   background: var(--bg-card); border: 1px solid var(--rule);
   padding: 1rem;
+  /* Keep the whole sidebar within the viewport height; long lists scroll
+     internally (see .filter-scroll below) so the user doesn't have to scroll
+     past the paper list to reach the type / language / reset filters. */
+  max-height: calc(100vh - 2rem);
+  overflow-y: auto;
+}
+/* Bound long filter lists (Topic, Method) so they don't push other filters
+   below the fold. */
+.filter-sidebar .filter-scroll {
+  max-height: 14rem;
+  overflow-y: auto;
+  padding-right: 0.3rem;
+  border-bottom: 1px dashed var(--rule);
 }
 .filter-sidebar h3 {
   font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.04em;

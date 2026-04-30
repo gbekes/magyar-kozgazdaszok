@@ -18,19 +18,29 @@
   "url_pdf": "https://ojs.mtak.hu/index.php/kszemle/article/download/20909/17219",
   "url_replication": null,
   "abstract": "Az adminisztratív munkáltató-munkavállaló adatbázisok (Linked Employer-Employee Data, LEED) az utóbbi évtizedek legfontosabb adatinnovációi közé tartoznak, mivel egyszerre teszik lehetővé az egyének és munkáltatóik hosszú távú vizsgálatát. Tanulmányunk áttekinti a hazai adatforrások fejlődését, majd részletesen bemutatja a legfrissebb magyar kapcsolt munkáltató-munkavállaló adatbázist, a Kapcsolt Államigazgatási Paneladatbázist (rövidítve: Admin4), külön kitérve a hozzá kapcsolható modulokra és kiegészítő információkra. Zárásként nemzetközi kitekintést adunk, amelyben összehasonlító perspektívában értékeljük a magyar adatok sajátosságait, előnyeit és korlátait.",
-  "summary_en": null,
+  "summary_en": "Hungary's linked employer-employee admin data (Admin4) is one of the most significant data innovations of recent decades, enabling long-term study of individuals jointly with their employers. Boza, Pető and Tir document the development of these data sources and present in detail the latest Hungarian linked admin database (Admin4), with attention to the modules and supplementary information that can be linked to it. The paper closes with international comparison — assessing the Hungarian data's strengths, distinctive features, and limitations relative to similar databases in other countries. A key reference for any researcher considering Hungarian admin-data work.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Documentation paper. Surveys the structure and content of the Hungarian Admin4 panel and prior Hungarian admin data sources. International comparison uses public documentation of Swedish, German, French, Norwegian, and other linked employer-employee databases.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian research-policy infrastructure (KSH, KRTK Databank, NAV): the paper supports continued investment in the Admin4 panel and additional module integration. Useful baseline document for researchers, regulators, and parliament discussing data-access policy. The international-comparison section helps Hungarian policymakers benchmark how restrictive vs. permissive data-access rules translate into research output.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "labor-markets",
+    "methods"
+  ],
+  "methods": [
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual",
+    "admin-firm"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W4416297445"
 }

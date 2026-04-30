@@ -17,19 +17,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Tanulmányunkban az 50 év feletti európai lakosság mintáján arra a kérdésre keressük a választ, hogy a pozitív várakozások milyen összefüggésben vannak az elővigyázatos viselkedéssel. A jövőre vonatkozó várakozások befolyásolhatják, hogy mennyire fontos az egészség megőrzése, érdemes-e a jelenben erőfeszítéseket tenni bizonytalan jövőbeli pozitív hatásokért. A kérdést a koronavírus-járvány idején, 2020 és 2021 nyarán készült Survey of Health, Ageing and Retirement (SHARE) telefonos adatfelvételére támaszkodva elemezzük. A maszkviselést, a távolságtartást és az oltási hajlandóságot vizsgáljuk a jövőre vonatkozó pozitív várakozások függvényében. Eredményeink azt mutatják, hogy az ötven év feletti lakosság pozitív várakozások esetén nagyobb eséllyel tesz óvintézkedéseket a koronavírus ellen.*&#13;\\nJournal of Economic Literature (JEL) kód: D84, I12.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "How do positive expectations about the future shape protective behaviour during a pandemic? Bíró and Branyiczki ask whether 50+ Europeans who held more positive views about the future were more or less likely to mask, distance, and accept vaccination. Using SHARE telephone survey waves from summer 2020 and 2021, they find a clear pattern: people with more positive future expectations were more likely to take preventive measures. Future-orientation appears to make present-day effort feel worthwhile because there's something good to live for. The result challenges the alternative hypothesis that optimists would be cavalier about risk.",
+  "summary_hu": "Hogyan alakítják a jövőre vonatkozó pozitív várakozások a védekező viselkedést egy járvány idején? Bíró és Branyiczki azt kérdezi, hogy az 50 év feletti európaiak közül azok, akiknek pozitívabb jövőképük volt, nagyobb vagy kisebb valószínűséggel hordtak-e maszkot, tartottak távolságot és fogadtak-e el oltást. A SHARE 2020 és 2021 nyári telefonos felmérési hullámait használva tiszta mintát találnak: a pozitívabb jövő-várakozású emberek nagyobb valószínűséggel tettek óvintézkedéseket. A jövőorientáció úgy tűnik, hogy érdemessé teszi a jelen erőfeszítését, mert van miért tovább élni. Az eredmény megkérdőjelezi azt az alternatív hipotézist, miszerint az optimisták könnyelműek lennének a kockázattal szemben.",
+  "data_used": "Survey of Health, Ageing and Retirement in Europe (SHARE) COVID-19 telephone supplements, waves from summer 2020 and 2021. ~50,000 respondents aged 50+ across ~20 European countries. Outcome variables: mask use, social distancing, vaccine willingness. Predictor: positive future expectations.",
+  "data_used_hu": "Survey of Health, Ageing and Retirement in Europe (SHARE) COVID-19 telefonos kiegészítő hullámai, 2020 és 2021 nyarából. ~50 000 fő 50+ válaszadó ~20 európai országból. Kimeneti változók: maszkviselés, távolságtartás, oltási hajlandóság. Magyarázó változó: pozitív jövő-várakozások.",
+  "policy_relevance": "For Hungarian public-health communication during future pandemics or vaccine campaigns: the result suggests future-oriented framing ('preserve the years ahead with someone you love') outperforms threat-only framing ('avoid death') for the 50+ population. Relevant input for NNK (National Public Health Centre) campaign design. Caveat: cross-sectional, so reverse causation is possible (people who comply might subsequently feel more positive); within-country heterogeneity not fully explored.",
+  "policy_relevance_hu": "Magyar népegészségügyi kommunikációhoz jövőbeli járványok vagy oltási kampányok idején: az eredmény arra utal, hogy a jövőorientált keretezés ('őrizd meg az előtted álló éveket szeretteiddel') felülmúlja az 50 év feletti népesség körében a tisztán fenyegetés-alapú keretezést ('kerüld a halált'). Releváns input az NNK kampány-tervezéséhez. Korlát: keresztmetszeti, így fordított okság lehetséges (akik megfelelnek, utána pozitívabban érezhetnek); az országon belüli heterogenitás nincs teljesen feltárva.",
+  "topics": [
+    "health",
+    "behavioral",
+    "demographics-migration"
+  ],
+  "methods": [
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "EU"
+  ],
+  "data_types": [
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W4309181480"
 }

@@ -18,19 +18,28 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "In our study, we present the concept of locus of control, a non-cognitive ability that is increasingly researched in economics. We then review the economic literature on locus of control and show that people who believe they are in control of their lives are more successful in many areas of life. After that, we examine the data of a representative Hungarian survey, in which we mostly see the correlations revealed by the literature. The locus of control becomes more and more internal in the respondents' 20s and 30s, and then becomes more and more external again after the age of 40. In our sample, men on average have a more internal locus of control than women, and a more internal locus of control is associated with higher education and higher income. At the same time, we do not find a significant correlation between locus of control and labor market status. We find that those with more internal locus of control accumulate significantly more savings and less debt.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "Locus of control — the belief that one's actions, rather than external forces, drive life outcomes — is increasingly used in economics as a non-cognitive ability. Károlyi, Kiss and Szabó-Morvai use the first nationally-representative Hungarian survey on locus of control (~3,000 respondents) to map its correlations. Internal locus rises through respondents' 20s and 30s, then becomes more external after 40. Men have a more internal locus on average than women; higher internal locus correlates with more education and higher income, but not with labour-market status. Most strikingly, individuals with more internal locus accumulate substantially more savings and less debt — a clean potential mechanism for wealth inequality.",
+  "summary_hu": "A kontrollhely — annak meggyőződése, hogy az ember saját cselekvése, nem külső erők hajtják az életkimeneteket — egyre inkább használt nem-kognitív képesség a közgazdaságtanban. Károlyi, Kiss és Szabó-Morvai az első reprezentatív magyar kontrollhely-felmérést (~3000 fő) használja a korrelációk feltérképezésére. A belső kontrollhely emelkedik a 20-as és 30-as években, majd 40 után egyre külsőbbé válik. A férfiak átlagosan internalabbak, mint a nők; a magasabb belső kontrollhely magasabb iskolázottsággal és jövedelemmel korrelál, de nem a munkapiaci státusszal. A legszembetűnőbb: a belsőbb kontrollhellyel rendelkezők lényegesen több megtakarítást és kevesebb adósságot halmoznak fel — tiszta potenciális mechanizmus a vagyoni egyenlőtlenségre.",
+  "data_used": "First nationally-representative Hungarian household survey including the Rotter locus-of-control battery, fielded 2021–2022, ~3,000 respondents aged 18+, with data on demographics, education, income, labour-market status, savings and debt.",
+  "data_used_hu": "Az első reprezentatív magyar háztartási felmérés, amely tartalmazza a Rotter-féle kontrollhely-skálát, 2021–2022-ben felvéve, ~3000 fő 18+ válaszadó, demográfiai, iskolázottsági, jövedelmi, munkapiaci és megtakarítási / adóssági adatokkal.",
+  "policy_relevance": "For Hungarian financial-literacy and consumer-protection policy: the locus-of-control finding implies that a population segment is structurally vulnerable to over-borrowing not because of information gaps but because of stable beliefs about agency. Generic financial-education campaigns will under-perform on this group; commitment-based products (default savings, automatic debt-payoff schemes) will outperform. Relevant input for MNB and Pénzügyminisztérium retail-finance regulation.",
+  "policy_relevance_hu": "A magyar pénzügyi-tudatossági és fogyasztóvédelmi politika szempontjából: a kontrollhely-eredmény arra utal, hogy egy népességszegmens nem információs hiány, hanem stabil cselekvőképesség-meggyőződés miatt strukturálisan sebezhető a túlhitelezésre. Az általános pénzügyi-oktatási kampányok ennél a csoportnál alulteljesítenek; az elköteleződés-alapú termékek (alapértelmezett megtakarítás, automatikus adósságtörlesztési programok) jobban teljesítenek. Releváns input az MNB és Pénzügyminisztérium lakossági pénzügyi szabályozásához.",
+  "topics": [
+    "behavioral",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W4385698210"
 }

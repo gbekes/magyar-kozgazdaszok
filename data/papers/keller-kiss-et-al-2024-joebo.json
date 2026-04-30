@@ -18,19 +18,27 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "The linguistic-savings hypothesis posits that the grammatical marking of future events in languages is linked to future-oriented behavior. Recent experimental studies have suggested patience as a possible mechanism connecting language use and future-oriented behavior by exogenously manipulating what language is used. Our paper explores the association between patience and the language that people naturally use, thereby building on endogenous (as opposed to exogenously manipulated) language use. To capture natural language usage, we utilized a novel sentence-completion task designed for native speakers of the Hungarian language. This language allows for referencing future events through both present and future tenses. We hypothesized a positive correlation between being patient and using the present tense to refer to future events. We conducted incentivized and non-incentivized experiments with four independent samples of high school and university students, involving nearly 3,500 students in total. We find no consistent evidence that patience is correlated with endogenous future-time reference. Our null finding is further supported by a robustness check that leverages specific randomness in our data.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "Languages differ in whether they grammatically mark the future tense; some research argues this affects future-oriented behaviour like saving. Keller, Kiss and Szakál exploit a feature of Hungarian — it allows referring to future events in either present or future tense — to test the patience-language link without an exogenous manipulation. They run incentivised and non-incentivised experiments with ~3,500 Hungarian high-school and university students, measuring patience and natural language choice. They find no consistent correlation between patience and using present tense for future events. The null result tempers earlier exogenous-manipulation findings and challenges the 'linguistic-savings' hypothesis as a explanation for cross-country differences in saving rates.",
+  "summary_hu": "A nyelvek különböznek abban, hogy nyelvtanilag jelölik-e a jövő időt; egyes kutatások szerint ez befolyásolja a jövőorientált viselkedést, például a megtakarítást. Keller, Kiss és Szakál a magyar nyelv egy jellemzőjét használja ki — a magyar lehetővé teszi a jövőbeli események jelen vagy jövő idejű referencálását — hogy a türelem és a nyelv kapcsolatát exogén manipuláció nélkül tesztelje. Ösztönzött és nem ösztönzött kísérleteket futtatnak ~3500 magyar középiskolás és egyetemista hallgatóval, mérve a türelmet és a természetes nyelvválasztást. Nem találnak konzisztens korrelációt a türelem és a jelen idő használata között a jövőbeli eseményekre. A null eredmény tompítja a korábbi exogén-manipulációs eredményeket, és megkérdőjelezi a 'nyelvi-megtakarítási' hipotézist mint a megtakarítási ráták országok közötti különbségeinek magyarázatát.",
+  "data_used": "Four independent samples of Hungarian high-school and university students, ~3,500 subjects total. Outcome: time-preference task (incentivised in some samples, non-incentivised in others). Predictor: novel Hungarian-specific sentence-completion task measuring natural future-time reference choice.",
+  "data_used_hu": "Négy független magyar közép- és felsőoktatási hallgatói minta, összesen ~3500 alanyt. Kimenet: időpreferencia-feladat (egyes mintákban ösztönzött, másokban nem). Magyarázó változó: új, magyar-specifikus mondatkiegészítési feladat, amely a természetes jövő-idő referencia-választást méri.",
+  "policy_relevance": "Cuts directly against using language-based explanations for Hungarian savings behaviour. Argues that the 'Hungarians don't grammatically distinguish future and present tense, hence they are more patient' narrative is not supported empirically. For Hungarian financial-literacy and savings-promotion policy, the implication is to look for institutional / behavioural levers (commitment products, defaults), not linguistic ones. Caveat: Hungarian-only sample; cross-country generalisation untested.",
+  "policy_relevance_hu": "Közvetlenül cáfolja a nyelv-alapú magyarázatokat a magyar megtakarítási viselkedésre. Azzal érvel, hogy a 'a magyarok nyelvtanilag nem különböztetik meg a jövőt és a jelent, ezért türelmesebbek' narratíva empirikusan nem támogatott. A magyar pénzügyi-tudatossági és megtakarítás-ösztönzési politika számára az implikáció az, hogy intézményi / viselkedési eszközöket (elköteleződési termékek, alapértelmezett opciók) keressen, ne nyelvieket. Korlát: csak magyar minta; az országok közötti általánosítás teszteletlen.",
+  "topics": [
+    "behavioral"
+  ],
+  "methods": [
+    "rct"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "field-experiment"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W4392824746"
 }

@@ -17,20 +17,29 @@
   "url_published": "https://doi.org/10.1016/j.euroecorev.2012.02.005",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "We compare three theoretical explanations for the positive empirical relationship between importer income per capita and traded goods prices. A first explanation is that consumers with higher incomes demand higher quality goods with higher prices. A second explanation is that wealthier people exhibit an increased willingness to pay for necessary goods as more goods enter the consumption set in a hierarchic demand system, and can thus be charged higher markups. A third explanation is that consumers with higher incomes are more finicky regarding their preferred variety in an ideal variety framework and can thus be charged higher markups. We discriminate between these three theories by focusing on the effect of income inequality on trade prices. Based on a large dataset with bilateral HS6 level data on 1260 final goods categories from more than 100 countries between 2000 and 2004, we find a highly significant negative effect of income inequality on unit values.",
+  "summary_en": "Why do richer importing countries pay higher prices for the same products? Three theories: higher quality demand (income elasticity), willingness-to-pay for necessities under hierarchic demand, or finickyness for preferred variety. Bekkers, Francois and Manchin discriminate between them by examining how income inequality affects trade prices. Using bilateral HS6 trade data on 1,260 product categories from 100+ countries 2000-2004, they find a strongly negative effect of income inequality on unit values — supporting the hierarchic-demand explanation against the quality and finickyness theories.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "UN Comtrade bilateral HS6-level trade flow data 2000-2004, covering 1,260 final goods categories across 100+ countries; combined with World Bank/UNU-WIDER income-inequality measures.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungarian export-pricing strategy at HIPA and KKM. The paper supports targeting markets with broad middle-class growth (where hierarchic demand operates) over markets with concentrated wealth, when seeking high-margin export opportunities. Also informs trade-policy analysis at the European Commission DG-TRADE.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "trade-fdi",
+    "industrial-organization",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "panel-data",
+    "structural"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2161955285"
 }

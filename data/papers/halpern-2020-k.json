@@ -16,19 +16,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Az innováció és a termelékenység közötti vállalati szintű kapcsolat elemzésekor az exporton kívül az importot is figyelembe kell venni. Az innováció pozitívan hat a termelékenységre, ugyanakkor a hatás mértéke időben változott. Az innováció termelékenységre kifejtett becsült hatása 2010-ig nőtt, utána csökkent, és 2016-ra visszaesett a 2005. évi szintre. Ezt a hatást felerősítette az, hogy 2010 után folyamatosan és jelentősen csökkent az innovatív vállalatok aránya",
-  "summary_en": null,
+  "summary_en": "How does the firm-level innovation–productivity link evolve over time, and what role does importing play alongside exporting? Halpern documents that imports are as important as exports when analysing this link, and that the productivity effect of innovation has been time-varying. Innovation's productivity boost grew through 2010, then declined, returning to the 2005 level by 2016. This pattern was reinforced because the share of innovative firms steadily and substantially declined after 2010. A diagnosis of why Hungarian innovation-driven productivity growth has plateaued — the issue is both diminishing returns to innovation and a shrinking innovator base.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian firm-level data on innovation activity, exports, imports, and productivity. Sample period 2005-2016. Estimation accounts for endogeneity of innovation and trade activity.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for Hungarian innovation policy (NIH, ITM, NGM). Two implications: (i) innovation incentives that look at exports alone miss the import-side mechanism, and (ii) the post-2010 decline in innovative firms is a leading indicator of stalled productivity growth. Supports re-thinking Hungarian innovation-policy targeting and possibly extending support to a wider firm base. Particularly relevant for evaluating the impact of post-2010 R&D-tax-credit reforms.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "firms-productivity",
+    "innovation-digital",
+    "trade-fdi"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W3126261138"
 }

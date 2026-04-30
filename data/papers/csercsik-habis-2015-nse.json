@@ -1,0 +1,41 @@
+{
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "We introduce a new solution concept to problems with externalities, which is the first in the literature to take into account economic, regulatory and physical stability aspects of network problems in the very same model. A new class of cooperative games is defined where the worth of a coalition depends on the behavior of other players and on the state of nature as well. We allow for coalitions to form both before and after the resolution of uncertainty, hence agreements must be stable against both types of deviations. The appropriate extension of the classical core concept, the Sustainable Core, is defined for this new setup to test the stability of allocations in such a complex environment. A prominent application, a game of consumers and generators on an electrical energy transmission network is examined in details, where the power in- and outlets of the nodes have to be determined in a way, that if any line instantaneously fails, none of the remaining lines may be overloaded.",
+  "summary_en": "Habis and Csercsik introduce the 'Sustainable Core' — a new cooperative-game solution concept that simultaneously handles economic, regulatory, and physical-stability constraints. Coalitions can form before or after uncertainty resolves, so allocations must be stable against deviations at both stages. They apply the framework to a power-network game where the in/outflows at every node must be physically feasible and remain so even after any single line fails (N-1 security). Allocations in the Sustainable Core are exactly those that can satisfy this stringent stability requirement in a coalitionally acceptable way.",
+  "summary_hu": null,
+  "data_used": "Theoretical model — cooperative game with externalities and uncertainty, applied to power-network N-1 security examples. No primary dataset.",
+  "data_used_hu": null,
+  "policy_relevance": "Direct relevance for MAVIR (Hungarian transmission system operator) and MEKH when assessing N-1 security operations under increasingly variable renewable generation. The Sustainable Core concept provides a rigorous framework for allocating costs and revenues among generators when system stability requirements bind.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "energy-environment",
+    "mechanism-design",
+    "industrial-organization"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [],
+  "data_types": [],
+  "featured": false,
+  "added_at": "2026-04-27",
+  "last_reviewed_at": "2026-04-30",
+  "review_status": "ai-drafted",
+  "policy_instruments": [],
+  "working_paper_series": null,
+  "pages": "1-16",
+  "issue": "1",
+  "volume": "15",
+  "doi": "10.1007/s11067-014-9265-3",
+  "url_published": null,
+  "id": "csercsik-habis-2015-nse",
+  "title": "Cooperation with externalities and uncertainty",
+  "authors": [
+    "csercsik-david",
+    "Helga Habis"
+  ],
+  "journal": "Networks and Spatial Economics",
+  "year": 2015,
+  "publication_type": "article"
+}

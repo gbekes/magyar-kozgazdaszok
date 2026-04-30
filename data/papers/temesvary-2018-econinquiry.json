@@ -16,19 +16,27 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "I study the prevalence and profitability of regulatory arbitrage in U.S. banks' foreign activities. I analyze a publicly available bank‐level data set on bilateral lending flows to 75 countries over 2003–2013. U.S. banks' affiliates lend less to borrowers in host countries with stricter bank capital regulations, and are less likely to maintain affiliates in such countries. Banks substitute from (host‐regulated) affiliate toward (U.S.‐regulated) cross‐border lending in hosts with strict bank capital rules. This is particularly so for low‐capitalized banks with lower foreign ownership shares. Banks that reduce their exposure to stricter host capital rules are more profitable in foreign activities. ( JEL F3, F4, G2)",
-  "summary_en": null,
+  "summary_en": "Do US banks engage in regulatory arbitrage when lending abroad — and is it profitable? Temesváry analyses bilateral US bank lending to 75 countries over 2003-2013. Result: US bank affiliates lend less in host countries with stricter bank-capital regulations and are less likely to maintain affiliates there. Banks substitute toward US-regulated cross-border lending in those hosts. The substitution pattern is strongest for low-capitalised banks with smaller foreign-ownership shares. Banks that successfully reduce their exposure to strict host capital rules earn higher foreign profits — clean evidence that regulatory arbitrage is both real and profitable for the bank, even if welfare-distortive at the host-country level.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "US Federal Financial Institutions Examination Council bank-level data on bilateral foreign lending to 75 countries, 2003-2013. Host-country bank-capital-regulation index. Sample includes major US international banks.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For MNB macroprudential policy and EU banking-union debates: the paper provides empirical foundation for concern that strict national capital rules push lending into less-regulated channels. Hungarian banks' subsidiaries operating across EU would face similar incentives. Supports macroprudential coordination at the EU/CEE level rather than purely-national capital rules. Useful input for the Hungarian banking-supervision strategic framework.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W2800649824"
 }

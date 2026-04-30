@@ -8,7 +8,7 @@
   ],
   "publication_type": "article",
   "journal": "Journal of the European Economic Association",
-  "year": 2020,
+  "year": 2021,
   "volume": "19",
   "issue": "3",
   "pages": "1936-1979",
@@ -18,28 +18,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Abstract Who are “protest voters” and do they affect elections? We study this question using the introduction of a pure protest option (“None Of The Above” (NOTA)) on Indian ballots. Using structural estimation, we find that in elections without NOTA, most protest voters simply abstain. Protest voters who turn out scatter their votes among many candidates and consequently have little impact on election results. From a policy perspective, NOTA may be an effective tool to increase political participation, and can attenuate the electoral impact of compulsory voting.",
-  "summary_en": "In 2013, India introduced a \"None of the Above\" (NOTA) option on ballots — a pure protest vote. This paper uses the reform to answer two questions: who are protest voters, and do they matter? Structural estimation shows that without a NOTA option, most protest voters simply abstain. Those who do turn out spread their votes thinly across many candidates and have almost no impact on who wins. From a policy standpoint, NOTA is an effective tool for raising turnout (including among dissatisfied voters) and could ease some of the distortions created by compulsory voting in other countries.",
+  "summary_en": "Who are protest voters and do they affect election outcomes? Ujhelyi, Chatterjee and Szabó use the introduction of a 'None Of The Above' (NOTA) option on Indian ballots — a pure protest option — to identify them. Using structural estimation on Indian state-election data before and after NOTA introduction, they show that without a protest option, most would-be protest voters simply abstain. Those who do turn out scatter their votes among many candidates and have little impact on results. From a policy perspective, NOTA can raise turnout while leaving election outcomes essentially unaffected — a useful tool for democracies considering compulsory voting.",
   "summary_hu": null,
-  "data_used": "Structural model estimated on Indian parliamentary and state election data pre- and post-2013 NOTA reform. Voting records, candidate shares, turnout, and the NOTA share.",
+  "data_used": "State-level election data for Indian state assemblies before and after the 2013 introduction of NOTA, covering tens of millions of voters across approximately 30 Indian states; structural estimation of voter-type distributions.",
   "data_used_hu": null,
-  "policy_relevance": "Directly relevant to Hungarian debates on ballot design and voter engagement. Introducing a NOTA option would likely raise engagement among dissatisfied voters without distorting outcomes. Relevant for NVB (National Election Office) and for legislative debates on ballot design. Caveat: India's political system differs markedly from Hungary's (many candidates, first-past-the-post). Magnitudes and the turnout effect in a Hungarian mixed system would be different; a calibration to Hungarian polling data would be a useful next step.",
+  "policy_relevance": "Hungary's Election Office and political parties debate turnout-mobilisation strategies and the merits of compulsory voting (rejected in 2014). The paper shows protest options like NOTA can raise turnout without distorting results — a relevant design lever for the Hungarian Parliament and the National Election Office. Also informs EU-level debates on ballot design.",
   "policy_relevance_hu": null,
   "topics": [
-    "political-economy"
+    "political-economy",
+    "behavioral"
   ],
   "methods": [
-    "structural"
+    "structural",
+    "panel-data"
   ],
   "countries_studied": [
     "IN"
   ],
   "data_types": [
-    "admin-individual",
     "macro-aggregate"
   ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-23",
+  "last_reviewed_at": "2026-04-29",
   "review_status": "ai-drafted",
   "openalex_id": "W3108013107",
   "policy_instruments": [

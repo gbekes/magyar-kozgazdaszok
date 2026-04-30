@@ -17,19 +17,30 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Abstract\\n In this paper we use entropy statistics to measure the synergies of knowledge exploration, knowledge exploitation, and organizational control in Hungary. We categorized the firms in terms of sub-regions, industrial sectors, and firm size. Configurational information among these distributions is the indicator of the synergy in the system. The results indicate that three regimes were generated in the Hungarian transition period with different dynamics: Budapest emerges as a knowledge-based innovation system; in the north-western regions, foreign-owned companies have induced a shift in knowledge-organization; while the system is organized in the southern-eastern regions in accordance with government expenditures.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "Did Hungary's transition build a coherent regional innovation system, or several disjointed ones? Lengyel and Leydesdorff use entropy statistics to measure synergies between knowledge exploration, knowledge exploitation, and organisational control across Hungarian sub-regions, sectors, and firm sizes. They identify three distinct regimes generated during the transition. Budapest emerges as a knowledge-based innovation system. The north-western regions (Győr-Moson-Sopron, Vas, Komárom-Esztergom) saw foreign-owned companies induce a shift toward knowledge-organisation. The southern-eastern regions (Békés, Csongrád, Szabolcs-Szatmár-Bereg, Borsod) are organised primarily by government expenditure rather than market-driven knowledge dynamics. The post-1989 Hungarian innovation landscape is fragmented, not unified.",
+  "summary_hu": "Vajon a magyar rendszerváltás egységes regionális innovációs rendszert épített, vagy több, egymástól elszakadtat? Lengyel és Leydesdorff entrópiastatisztikával méri a tudásfeltárás, tudáskihasználás és szervezeti kontroll szinergiáit magyar kistérségek, ágazatok és vállalatméretek szerint. Három különböző rezsimet azonosítanak, amelyek az átmenet során alakultak ki. Budapest tudás-alapú innovációs rendszerként jelenik meg. Az északnyugati régiókban (Győr-Moson-Sopron, Vas, Komárom-Esztergom) a külföldi tulajdonú cégek tudásszervezeti váltást indukáltak. A délkeleti régiókat (Békés, Csongrád, Szabolcs-Szatmár-Bereg, Borsod) elsősorban a kormányzati kiadások szervezik, nem a piaci tudás-dinamika. A rendszerváltás utáni magyar innovációs táj töredezett, nem egységes.",
+  "data_used": "Hungarian firm-level data classified by NUTS-3 sub-region, sector, and firm size, late 1990s–early 2000s. Three-way contingency table and entropy-based measure of mutual information among the three classifications.",
+  "data_used_hu": "Magyar cégszintű adatok NUTS-3 kistérségenként, ágazatonként és vállalatméretenként besorolva, 1990-es évek vége – 2000-es évek eleje. Háromirányú kontingenciatábla és entrópia-alapú mutatóval mért kölcsönös információ a három osztályozás között.",
+  "policy_relevance": "Foundational diagnostic for Hungarian regional-innovation policy. The 'three regimes' framing tells policymakers that one-size-fits-all innovation programmes will fail: Budapest needs knowledge-spillover and university-industry linkage tools; north-western regions need supplier-network strengthening to upgrade beyond FDI dependence; south-eastern regions need market-driven catalysts before government R&D money translates into innovation. Useful baseline for ITM, NRDI Office, and EU Cohesion Policy programming. Caveat: the 2000s baseline; structural shifts since (battery investment, post-2010 policy) may have altered the regime boundaries.",
+  "policy_relevance_hu": "Alapozó diagnózis a magyar regionális innovációs politikához. A 'három rezsim' keretezés azt mondja a döntéshozóknak, hogy az egységes innovációs programok megbuknak: Budapestnek tudás-átgyűrűzési és egyetem-ipar kapcsolódási eszközökre van szüksége; az északnyugati régióknak beszállító-hálózat-erősítésre, hogy túljussanak az FDI-függőségen; a délkeleti régióknak piaci-vezérlésű katalizátorokra, mielőtt a kormányzati K+F-pénz innovációvá válik. Hasznos kiindulópont az ITM, NRDI és EU Kohéziós Politika programozásához. Korlát: 2000-es évek alapja; az azóta zajló szerkezeti változások (akkumulátor-beruházás, 2010 utáni politika) módosíthatták a rezsimhatárokat.",
+  "topics": [
+    "regional-urban",
+    "innovation-digital",
+    "transition-postcommunist"
+  ],
+  "methods": [
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "firm-level-dataset",
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W2128226562"
 }

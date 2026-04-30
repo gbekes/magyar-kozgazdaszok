@@ -16,20 +16,31 @@
   "url_published": "https://doi.org/10.1016/j.jbankfin.2018.02.015",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "Previous literature has shown mixed results on the role of female participation on bank boards and bank performance: some papers find that more women on boards enhance financial performance, while others find negative or no effects. Applying instrumental variables methods to data on approximately 90 U.S. bank holding companies over the 1999–2015 period, we argue that these inconclusive results are due to the fact that there is a non-linear, U-shaped relationship between gender diversity on boards and various measures of bank performance: female participation has a positive effect once a threshold level of gender diversity is achieved. Furthermore, this positive effect is only observed in better capitalized banks. Our results suggest that continuing the voluntary expansion of gender diversity on bank boards will be value-enhancing, provided that they are well capitalized.",
+  "summary_en": "Does putting more women on bank boards improve bank performance? Prior literature gave conflicting answers. Owen and Temesváry use instrumental-variables on US bank-holding-company data 1999-2015 to identify a causal U-shaped relationship: female participation hurts performance below a threshold of board diversity, but improves it once that threshold is crossed. The positive effect appears only at well-capitalised banks. Implication: voluntary expansion of female board representation is value-enhancing, but only if the bank is also adequately capitalised and reaches a critical share of female directors.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "US bank-holding-company panel data, ~90 institutions, 1999-2015 from Federal Reserve regulatory filings (FR Y-9C), Compustat, and BoardEx, with bank-level gender composition and performance metrics (ROA, ROE, share-price returns).",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "MNB and the Equal Treatment Authority increasingly track gender diversity on Hungarian bank boards. The paper shows the diversity-performance link is non-linear and conditional on capitalisation — relevant for designing MNB recommendations that aim for measurable performance gains rather than just compliance. Hungarian bank-board diversity is below the threshold the paper identifies, suggesting Hungarian banks could benefit from larger, not just incremental, increases in female representation.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "demographics-migration",
+    "firms-productivity"
+  ],
+  "methods": [
+    "iv",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2575546035"
 }

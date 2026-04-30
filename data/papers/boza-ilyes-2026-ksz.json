@@ -17,19 +17,28 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Az Európai Unió 2023-ban elfogadott bértranszparencia-irányelvének célja, hogy a bérátláthatóság erősítésével és vállalati szintű jelentéstételi kötelezettségek bevezetésével csökkentse a nemek közötti bérkülönbségeket. Tanulmányunk célja, hogy az irányelv jelentéstételi és megfelelési logikáját adminisztratív adatokon teszteljük, és bemutassuk, hogy a mért bérkülönbségek nagysága, a munkavállalók egyenlőtlenségben való érintettsége, valamint a vállalatokra háruló megfelelési teher milyen mértékben függ a választott mérési és kategorizálási döntésektől. Elemzésünk egy 2022-re vonatkozó, a teljes hazai foglalkoztatotti népességet lefedő, anonimizált adminisztratív adatbázison alapul, amely lehetővé teszi az irányelvben előírt mutatók vizsgálatát különböző munkaköri kategorizálási szinteken. Eredményeink arról tanúskodnak, hogy a kimutatott bérkülönbségek nagysága és a potenciális megfelelési kötelezettségek mértéke nagyban függ a munkaköri kategóriák definiálásától, részletességétől, valamint attól, hogy a szabályozás milyen mértékben enged figyelembe venni olyan tényezőket, mint az életkor és a tapasztalat. A tanulmányban azonosítjuk azokat a kritikus pontokat, amelyeknek a körültekintő tagállami szabályozása hozzájárulhat ahhoz, hogy az irányelv céljai (a bérkülönbségek érdemi csökkentése és az átláthatóság erősítése) észszerű adminisztratív terhek mellett valósuljanak meg.",
-  "summary_en": null,
+  "summary_en": "How will the EU's 2023 Pay Transparency Directive actually affect Hungarian firms and the gender pay gap? Boza and Ilyés stress-test the directive's reporting and compliance logic on Hungarian admin data covering the entire 2022 employed population. The reported pay-gap magnitude, the share of workers exposed to inequality, and the compliance burden on firms all depend heavily on technical decisions about how job categories are defined, how granular they are, and the extent to which factors like age and experience can be controlled for. The paper identifies critical pivots where Hungarian implementation choices will determine whether the directive achieves its intended pay-gap reduction at reasonable administrative cost.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Anonymised Hungarian admin data for 2022 covering the full employed population, allowing direct computation of the directive-required pay-gap indicators at multiple job-category granularities. Sensitivity analysis across different aggregation choices.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct input for Hungarian implementation of the EU Pay Transparency Directive (NGM, Pénzügyminisztérium, EBH). The paper's headline finding — that measured gaps and compliance costs depend critically on category definitions — supports careful, evidence-driven choice of implementation parameters rather than defaulting to the most aggressive reporting bracket. Useful for the Hungarian Government's transposition decisions in 2026-27.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "labor-markets",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W7154972207"
 }

@@ -16,19 +16,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Abstract This paper analyzes the employment adjustment of domestic, foreign and state‐owned companies before and during the global crisis. Using Hungarian firm‐level data for the period between 2006 and 2012 and matching foreign and state‐owned firms to domestic enterprises by industry and employment, it finds that the net job creation rate is similar in domestic and state‐owned firms while it is larger by 3.5 percent in foreign‐owned enterprises before the crisis. Domestic and foreign‐owned firms react to the crisis in very similar fashion by dropping net job creation by about 4 percentage points. Contrary to this behaviour, state‐owned enterprises do not decrease net job creation in some, and increase it by 3.5‐6 percent in other regressions.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "How do domestic, foreign-owned, and state-owned firms differ in their employment response to a major economic crisis? Telegdy uses Hungarian firm-level data 2006–2012, matching foreign and state-owned firms to comparable domestic firms by industry and size. Pre-crisis: foreign-owned firms have a net job-creation rate 3.5 percentage points higher than domestic firms; state-owned firms are similar to domestic. During the crisis, domestic and foreign-owned firms behave very similarly — both drop net job creation by ~4 percentage points. State-owned firms behave differently: they don't decrease net job creation (and in some specifications they increase it by 3.5–6 percentage points). State ownership acts as an employment buffer in crises.",
+  "summary_hu": "Hogyan különböznek a hazai, külföldi és állami tulajdonú cégek a foglalkoztatási reakcióikban egy nagy gazdasági válság idején? Telegdy magyar cégszintű adatokat használ 2006–2012-ből, ahol a külföldi és állami cégeket ágazat és méret szerint párosítja össze hasonló hazai cégekkel. Válság előtt: a külföldi tulajdonú cégek nettó munkahelyteremtési rátája 3,5 százalékponttal magasabb, mint a hazaiaké; az állami tulajdonú cégek hasonlóak a hazaiakhoz. A válság alatt a hazai és külföldi cégek nagyon hasonlóan viselkednek — mindkettő ~4 százalékponttal csökkenti a nettó munkahelyteremtést. Az állami cégek másképp viselkednek: nem csökkentik a nettó munkahelyteremtést (egyes specifikációkban 3,5-6 százalékponttal növelik). Az állami tulajdon válságban foglalkoztatási pufferként működik.",
+  "data_used": "Hungarian firm-level admin data, 2006–2012. Foreign-domestic and state-domestic matched comparison by industry and pre-crisis employment.",
+  "data_used_hu": "Magyar cégszintű adminisztratív adatok, 2006–2012. Külföldi-hazai és állami-hazai párosított összehasonlítás ágazat és válság előtti foglalkoztatás szerint.",
+  "policy_relevance": "Direct policy implications for Hungarian crisis-response design. The paper documents that state ownership functions as an automatic employment stabiliser — useful for thinking about which sectors to keep in state ownership for macroeconomic-stabilisation reasons rather than purely political ones. Relevant to MNV strategy and to discussions of automatic-fiscal-stabiliser mechanisms.",
+  "policy_relevance_hu": "Közvetlen szakpolitikai következmények a magyar válságkezelési tervezéshez. A tanulmány dokumentálja, hogy az állami tulajdon automatikus foglalkoztatási stabilizátorként működik — hasznos annak megfontolásához, mely ágazatokat tartsunk állami tulajdonban makrogazdasági-stabilizációs okokból, nem pusztán politikai indokból. Releváns az MNV-stratégiához és az automatikus-fiskális-stabilizátor mechanizmusok vitáihoz.",
+  "topics": [
+    "labor-markets",
+    "macroeconomics",
+    "firms-productivity"
+  ],
+  "methods": [
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W2511296242"
 }

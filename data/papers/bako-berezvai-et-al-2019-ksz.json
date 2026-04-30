@@ -19,19 +19,28 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Tanulmányunkban a Mol Bubi kerékpármegosztó rendszer 17. FINA vizes világbajnokságra átadott új gyűjtőállomásainak esemény utáni kihasználtságát vizsgáljuk és vetjük össze a hálózathoz korábban csatolt új gyűjtőállomások kihasználtsági adataival. Két módszertani megközelítést, az eseményvizsgálatot, illetve a különbségek különbsége módszeren alapuló hatásbecslést alkalmazva megmutatjuk, hogy az új gyűjtőállomások kihasználtsága miben különbözik a korábbi bővítések során átadott, hasonló jellemzőjű gyűjtőállomások kihasználtságától. Megállapítható, hogy az újonnan átadott gyűjtőállomások a hálózat szerves részévé váltak, azonban kihasználtságuk lényegesen kisebb, mint a hálózatban korábban átadott gyűjtőállomásoké. A különbség még inkább szembetűnő – nagyságrendileg 30 százalékos –, ha a hálózat déli gyűjtőállomásaihoz viszonyítunk. Ez az alacsony kihasználtság azonban nem specifikusan a FINA-gyűjtőállomásokra, hanem általában az északi gyűjtőállomásokra vonatkozik. Eredményeink azt sugallják, hogy a kerékpármegosztó rendszer bővítése indokoltabb lett volna a hálózat más pontjain.*&#13;\\nJournal of Economic Literature (JEL) kód: C22, H54, R42.Tanulmányunkban a Mol Bubi kerékpármegosztó rendszer 17. FINA vizes világbajnokságra átadott új gyűjtőállomásainak esemény utáni kihasználtságát vizsgáljuk és vetjük össze a hálózathoz korábban csatolt új gyűjtőállomások kihasználtsági adataival. Két módszertani megközelítést, az eseményvizsgálatot, illetve a különbségek különbsége módszeren alapuló hatásbecslést alkalmazva megmutatjuk, hogy az új gyűjtőállomások kihasználtsága miben különbözik a korábbi bővítések során átadott, hasonló jellemzőjű gyűjtőállomások kihasználtságától. Megállapítható, hogy az újonnan átadott gyűjtőállomások a hálózat szerves részévé váltak, azonban kihasználtságuk lényegesen kisebb, mint a hálózatban korábban átadott gyűjtőállomásoké. A különbség még inkább szembetűnő – nagyságrendileg 30 százalékos –, ha a hálózat déli gyűjtőállomásaihoz viszonyítunk. Ez az alacsony kihasználtság azonban nem specifikusan a FINA-gyűjtőállomásokra, hanem általában az északi gyűjtőállomásokra vonatkozik. Eredményeink azt sugallják, hogy a kerékpármegosztó rendszer bővítése indokoltabb lett volna a hálózat más pontjain.*&#13;\\nJournal of Economic Literature (JEL) kód: C22, H54, R42.",
-  "summary_en": null,
+  "summary_en": "Should bike-share networks expand based on the demand of the existing service or based on hosting one-off mega-events? Bakó, Berezvai, Cseke and Isztin study Budapest's Mol Bubi expansion built for the 17th FINA Aquatic World Championships. Using event-study and difference-in-differences methods, they compare post-event utilisation of the FINA-related new docks with that of earlier expansion docks. The new docks become an organic part of the network but their utilisation is substantially lower — about 30% lower than the network's southern docks. The shortfall is not specific to FINA docks; it characterises the entire northern expansion. Conclusion: expansion would have been more cost-effective elsewhere in the network.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Mol Bubi (Budapest bike-share) administrative usage data covering all docks before and after the 2017 FINA-related expansion. Event-study comparison of new vs existing docks; difference-in-differences against pre-expansion baseline.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Budapest municipal transport policy (BKK, Főváros): the paper provides concrete evidence that mega-event-driven infrastructure choices have low long-run utilisation. Useful baseline for evaluating future Olympic / World Championship infrastructure proposals. The methodology — event-study + DiD on transit usage data — is reusable for evaluating any Hungarian transport-network expansion. Caveat: a single bike-share system in Budapest; generalisation to other Hungarian cities or modes requires city-specific analysis.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "regional-urban",
+    "fiscal-tax"
+  ],
+  "methods": [
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W2910309771"
 }

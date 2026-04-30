@@ -18,20 +18,27 @@
   "url_published": "https://doi.org/10.1016/j.eneco.2019.01.013",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "Existing cooperative game theoretic studies of bargaining power in gas pipeline systems are based on the so called characteristic function form (CFF). This approach is potentially misleading if some pipelines fall under regulated third party access (TPA). TPA, which is by now the norm in the EU, obliges the owner of a pipeline to transport gas for others, provided they pay a regulated transport fee. From a game theoretic perspective, this institutional setting creates so called “externalities”, the description of which requires partition function form (PFF) games. In this paper we propose a method to compute payoffs, reflecting the power structure, for a pipeline system with regulated TPA. The method is based on an iterative flow mechanism to determine gas flows and transport fees for individual players and uses the recursive core and the minimal claim function to convert the PPF game back into a CFF game, which can be solved by standard methods. We illustrate the approach with a simple stylized numerical example of the gas network in Central Eastern Europe with a focus on Ukraine's power index as a major transit country.",
+  "summary_en": "When EU pipeline operators are forced under regulated third-party access (TPA) rules to transport gas for others at regulated fees, the standard cooperative-game analysis of bargaining power breaks down. Csercsik, Hubert, Sziklai and Kóczy show TPA creates externalities requiring partition-function-form (PFF) games, and propose a method combining iterative flow computation with the recursive core to convert PFF games back to standard form. They illustrate with a stylised model of the Central Eastern European gas network, focusing on Ukraine's power index as a major transit country. The framework provides a tractable way to assess bargaining power under EU regulatory regimes.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Stylised numerical model of the Central Eastern European gas network with regulated third-party access; calibrated to typical EU pipeline characteristics (capacity, transport fees, demand patterns).",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for Hungarian energy security policy and the MEKH (Hungarian Energy Authority). Hungary depends heavily on transit pipelines (Russian gas via Ukraine, then via Druzhba/Brotherhood lines). The paper's framework lets MEKH and Pénzügyminisztérium quantify Hungary's bargaining-power position under EU TPA rules — useful for assessing the welfare effects of supply diversification (TurkStream, LNG terminals).",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "energy-environment",
+    "industrial-organization",
+    "mechanism-design"
+  ],
+  "methods": [
+    "theory",
+    "structural"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-30",
+  "review_status": "ai-drafted",
   "openalex_id": "W2911895584"
 }

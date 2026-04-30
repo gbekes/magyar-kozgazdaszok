@@ -16,20 +16,28 @@
   "url_published": "https://doi.org/10.1016/j.jpubeco.2019.104053",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "In the context of repeated public good contribution games, we experimentally investigate the impact of democratic punishment, when members of a group decide by majority voting whether to inflict punishment on another member, relative to individual peer-to-peer punishment. Democratic punishment leads to more cooperation and higher average payoffs, both under perfect and imperfect monitoring of contributions, primarily by curbing anti-social punishment and thereby establishing a closer connection between a member's contribution decision and whether subsequently being punished by others. We also find that participating in a democratic punishment procedure makes even non-contributors' punishment intentions more pro-social.",
+  "summary_en": "When members of a group must vote on whether to punish a transgressor, does democratic punishment work better than peer-to-peer punishment? Ambrus and Greiner experimentally compare democratic punishment (majority vote on whether to punish) with individual peer punishment in repeated public-good games. Democratic punishment leads to more cooperation and higher payoffs under both perfect and imperfect monitoring — primarily by curbing anti-social punishment (punishing high contributors) and creating a clearer link between contribution and being punished. Even non-contributors' punishment intentions become more pro-social when the punishment is collectively decided.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Lab experiment with public-good contribution games, multiple sessions at university lab venues, comparing democratic, dictatorial, and peer-to-peer punishment treatments under varying monitoring conditions.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungarian local-government and committee-based regulatory bodies (water districts, electricity co-ops, professional associations) often choose between collective and individual sanctioning rules. The paper provides experimental evidence that democratic (collective-vote) sanctioning produces better cooperation outcomes than individual peer-to-peer sanctioning. Useful framework for designing committee-based enforcement at GVH, MNB, and other regulators.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "behavioral",
+    "political-economy",
+    "mechanism-design"
+  ],
+  "methods": [
+    "rct"
+  ],
   "countries_studied": [],
-  "data_types": [],
+  "data_types": [
+    "field-experiment"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2970702376"
 }

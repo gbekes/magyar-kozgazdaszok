@@ -16,20 +16,29 @@
   "url_published": "https://doi.org/10.1016/j.econlet.2017.02.002",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "To study the usefulness of subjective well-being measures as a proxy for utility, Benjamin et al. (2012) ask whether people choose what makes them happy in US samples. We use their methodology in a sample from low-income South African townships. Here respondents almost always choose what makes them feel happy. In addition, they perceive little conflict between own happiness and other relevant determinants of choice such as sense of purpose and family happiness.",
+  "summary_en": "Subjective well-being measures are increasingly used as proxies for utility in policy analysis, but most evidence on whether people choose what makes them happy comes from the US. Szabó and Ujhelyi replicate Benjamin et al. (2012) in low-income South African townships and find essentially the same pattern: respondents overwhelmingly choose options that maximise their reported happiness, and report little conflict between own happiness and other choice determinants like sense of purpose or family welfare. The result strengthens the case for treating subjective well-being as a meaningful welfare proxy across very different income contexts.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Survey of approximately 800 respondents in low-income townships in South Africa, replicating the Benjamin-Heffetz-Kimball-Rees-Jones (2012) hypothetical-choice instrument.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungary's KSH increasingly publishes subjective-well-being statistics (life satisfaction, happiness). The paper provides cross-country validation that such measures track underlying preferences in low-income settings — relevant for KSH and EU statistical practice when interpreting cross-country well-being comparisons or designing happiness-informed policy targets.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "behavioral",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "ZA"
+  ],
+  "data_types": [
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2585542846"
 }

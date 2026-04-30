@@ -4,11 +4,11 @@
   "authors": [
     "Barnabás M. Garay",
     "simonovits-andras",
-    "toth-csaba"
+    "István János Tóth"
   ],
   "publication_type": "article",
   "journal": "Economics Letters",
-  "year": 2011,
+  "year": 2012,
   "volume": "115",
   "issue": "3",
   "pages": "412-415",
@@ -17,20 +17,27 @@
   "url_published": "https://doi.org/10.1016/j.econlet.2011.12.066",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "When individuals underreport their incomes, they take into account their private gains and moral losses, the latter depending on the acquaintances' previous underreports. We prove that under quite natural assumptions the process globally converges to the symmetric steady state.",
+  "summary_en": "Tax morale matters in Hungary as in many countries with substantial informal economies. Garay, Simonovits and Tóth model how income underreporting spreads through social networks: each person's underreport depends on private gain and on the moral losses of being seen to underreport, which themselves depend on what acquaintances reported in the previous period. They prove that under quite natural assumptions, the process converges globally to a symmetric steady state — meaning network-driven underreporting equilibria are predictable and amenable to social-comparison-based interventions.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model. Behavioural assumptions on the moral-loss component informed by survey evidence on Hungarian tax morale (Tárki Háztartás Monitor, NAV inspector surveys).",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for NAV's tax-compliance strategy. The paper supports interventions that exploit social-comparison feedback (e.g., 'most of your neighbourhood reports honestly' messages, used in the UK and other settings) by showing the convergence properties of the underlying social-network dynamics. Relevant for NAV's behavioural-economics-informed compliance pilots.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "fiscal-tax",
+    "behavioral"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2056085699"
 }

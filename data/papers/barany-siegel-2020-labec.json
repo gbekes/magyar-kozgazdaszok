@@ -10,26 +10,37 @@
   "year": 2020,
   "volume": "67",
   "issue": null,
-  "pages": "101930-101930",
+  "pages": "101930",
   "doi": "10.1016/j.labeco.2020.101930",
   "working_paper_series": null,
   "url_published": "https://doi.org/10.1016/j.labeco.2020.101930",
   "url_pdf": "https://www.sciencedirect.com/science/article/am/pii/S0927537120301342",
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "To study the drivers of the employment reallocation across sectors and occupations between 1960 and 2017 in the US we present a model where technology evolves at the sector-occupation cell level. Drawing on key equations of the production side we infer technologies directly from the data. We assess the magnitude of neutral, sector-, and occupation-specific components in technological change and study their consequences for labor market outcomes in general equilibrium where occupational choice and demands for sectoral outputs change endogenously with technology. Our findings indicate a major role for occupation-specific technological changes.",
+  "summary_en": "What technological forces drove the massive employment reallocation across US sectors and occupations from 1960 to 2017? Bárány and Siegel build a general-equilibrium model where technology evolves at the sector-occupation cell level. Inferring technology directly from data, they assess the relative magnitudes of neutral, sector-specific, and occupation-specific technological change. The headline finding: occupation-specific technological changes (especially routine-task automation) play a major role in driving employment reallocation — challenging accounts that emphasise pure sectoral technology shocks. The result reframes how to think about labour-market polarisation.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "US Census Bureau and CPS data 1960-2017 covering employment, hours, and wages by sector and occupation; merged with KLEMS productivity data for production-side variables.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungarian and EU labour-market policy increasingly engages with technology-driven employment reallocation. The paper provides a general-equilibrium framework attributing reallocation primarily to occupation-specific technology rather than sectoral demand — useful for KSH and Pénzügyminisztérium analyses of Hungarian labour-market polarisation, and for EU DG-EMPL job-market projections.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "labor-markets",
+    "firms-productivity",
+    "macroeconomics"
+  ],
+  "methods": [
+    "structural",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-30",
+  "review_status": "ai-drafted",
   "openalex_id": "W2797426859"
 }

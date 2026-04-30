@@ -15,20 +15,25 @@
   "url_published": "https://doi.org/10.1016/j.jmateco.2006.09.002",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "We show the existence of an upper bound for the number of blocks required to get from one imputation to another provided that accessibility holds. The bound depends only on the number of players in the TU game considered. For the class of games with non-empty cores this means that the core can be reached via a bounded sequence of blocks.",
+  "summary_en": "In a cooperative TU-game (transferable-utility game), the 'core' is the set of payoff allocations that no coalition can profitably block. Standard accessibility results show one can reach the core through a sequence of blocking moves, but say nothing about how many. Kóczy proves a tight upper bound on the number of blocks required, depending only on the number of players. For games with non-empty cores, this guarantees the core is reachable via a bounded sequence of dominations — a useful theoretical foundation for algorithmic approaches to cooperative-game equilibria.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model — pure cooperative-game-theory analysis. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Foundational mathematical result with continued relevance for cooperative-game applications: international agreements (UN, EU, WTO bargaining), allocation of common-pool resources (water districts, fisheries), and Hungarian-context coalition negotiations such as municipal-association bargaining. The bound provides theoretical assurance that bargaining processes in cooperative settings terminate in finite steps.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "mechanism-design",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2148318535"
 }

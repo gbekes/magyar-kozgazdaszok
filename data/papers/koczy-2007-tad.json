@@ -16,14 +16,14 @@
   "url_pdf": "https://link.springer.com/content/pdf/10.1007/s11238-007-9030-x.pdf",
   "url_replication": null,
   "abstract": "We present a well-defined generalisation of the core to coalitional games with externalities, where the value of a deviation is given by an endogenous response, the solution (if nonempty: the core) of the residual game.",
-  "summary_en": "Standard cooperative game theory defines the \"core\" — the set of allocations no coalition can improve on by leaving — but the concept is fragile when coalitions affect each other (externalities). This paper introduces a recursive core that handles externalities by defining a deviating coalition's value through an endogenous response: whatever remains is itself a game, solved by the core if it's nonempty. A clean generalisation that makes the core applicable to partition-function-form games. Useful for thinking about international-treaty coalitions, cartel formation, and any setting where groups affect each other.",
+  "summary_en": "When coalitions form in cooperative games with externalities (a coalition's payoff depends on what other coalitions form), the standard 'core' concept becomes unstable. Kóczy proposes a 'recursive core' that resolves the conceptual problem: each candidate coalition structure is evaluated by considering what the residual non-members would do recursively. The paper shows the recursive core is well-defined and exists under broad conditions, providing a workable solution concept for cooperative bargaining where the value of cooperation depends on what others do.",
   "summary_hu": null,
-  "data_used": "Theoretical paper; no empirical data.",
+  "data_used": "Theoretical model — partition-function-form games with externalities. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": "Foundational for modelling international-coalition formation (climate agreements, trade blocs, EU policy coordination). Relevant to Hungarian EU-negotiation strategy analysis. Caveat: highly theoretical; specific policy applications require concrete parameterisation.",
+  "policy_relevance": "Direct relevance for analysing international climate agreements (Kyoto, Paris), trade-bloc formation (EU, USMCA), and energy-market coalitions (OPEC) where externalities between coalitions are central. The recursive-core concept gives a rigorous tool for evaluating which coalition structures will form when the costs/benefits of forming a coalition depend on what rivals do.",
   "policy_relevance_hu": null,
   "topics": [
-    "methods",
+    "mechanism-design",
     "political-economy"
   ],
   "methods": [
@@ -35,7 +35,7 @@
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
+  "last_reviewed_at": "2026-04-29",
   "review_status": "ai-drafted",
   "openalex_id": "W2102729478"
 }

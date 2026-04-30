@@ -15,20 +15,30 @@
   "url_published": "https://doi.org/10.1016/j.jbankfin.2014.04.014",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "This paper develops a model and structural dynamic estimation of bank behavior to map the relationship between U.S. banks' choices of foreign banking activities, and bank and foreign market traits. This estimation framework is applied to a unique bank-level dataset compiled from regulatory sources, covering U.S. banks' foreign activities in 83 host markets over the 2003–2013 period. Bank traits are better able to explain the evolving patterns of foreign banking than host market characteristics. After controlling for these traits, the post-financial crisis period shows a structural shift away from cross-border claims towards foreign affiliate activities. Structural estimates of foreign market entry costs and regulatory attitudes towards risk are derived. Simulation exercises confirm the strong impact of banks' and regulators' risk stance on bank profits and portfolio composition.",
+  "summary_en": "What drives US banks' decisions to expand abroad? Temesváry develops and structurally estimates a dynamic model of US bank international activity using regulatory bank-level data on US banks' presence in 83 host markets, 2003-2013. Bank-specific traits (size, capitalisation, prior experience) predict the evolving foreign-banking pattern more than host-market traits do. Post-financial-crisis, US banks shifted from cross-border claims toward foreign-affiliate activities. The paper produces estimates of foreign-market entry costs and regulators' attitudes toward risk — useful structural parameters for cross-border banking analysis.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "US bank-level regulatory dataset compiled from FR 2502, FR Y-9C and Call Reports, covering all major US banks' foreign claims and affiliate activities in 83 host markets quarterly over 2003-2013.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "MNB and EU Banking Authority track foreign-bank activity in host countries (including Hungary, where Western European banks own most of the system). The paper's structural-estimation framework provides parameters for assessing entry-cost and regulatory-stringency effects — useful for MNB when evaluating cross-border banking-supervision agreements and regulatory harmonisation initiatives.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "trade-fdi"
+  ],
+  "methods": [
+    "structural",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-29",
+  "review_status": "ai-drafted",
   "openalex_id": "W2049600784"
 }

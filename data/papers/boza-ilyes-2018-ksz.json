@@ -17,19 +17,27 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Kutatásunk célja annak megmutatása, hogy a volt munkakapcsolatok figyelemre méltó hatást gyakorolnak a munkahelyváltó egyének kezdőbérére, a későbbi bérek pályájára, illetve az állásvesztés valószínűségére. Az elemzés adminisztratív államigazgatási adatbázison alapul, mely a 2003–2011 közötti időszakra vonatkozóan tartalmazza a magyarországi népesség felének munkaerőpiaci adatait. Eredményeink alapján azok, akik olyan céghez nyernek felvételt, ahol dolgozik volt munkatársuk, átlagosan 2,5 százalékkal nagyobb kezdőbérre számíthatnak azokhoz viszonyítva, akiknek nincs hasonló ismerősük. Ez azonban közvetett hatás, amely valójában a jobb látens képességűek magasabb bérszintű cégekbe szelektálódásán keresztül érvényesül. A bérelőny körülbelül három évig őrződik meg, utána eltűnik; eddig mutatható ki a munkaviszony stabilitására gyakorolt pozitív hatás is. A volt munkatársak kezdőbérre gyakorolt hatása erősebb, ha az ajánló és a jelentkező foglalkozási kategóriája egymáshoz közeli, és az ajánló magasabb pozícióban van.*&#13;\\nJournal of Economic Literature (JEL) kód: J24, J31, M51, Z13.",
-  "summary_en": null,
+  "summary_en": "Do former co-workers affect your starting salary at a new employer? Boza and Ilyés use Hungarian admin data covering half the working-age population in 2003-2011 to estimate the effect of having a former co-worker at a hiring firm. Workers hired into firms employing their former colleagues earn 2.5% more on average than otherwise-similar workers without such network ties. But this is an indirect effect: better-latent-ability workers self-select into higher-paying firms via former-colleague networks. The wage premium fades after about three years (so does the job-stability advantage). The effect is stronger when the introducer has a similar occupation and a higher position.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian admin data on linked employer-employee histories, 2003–2011, covering ~50% of the Hungarian working-age population. Tracks hires, wages, and former-colleague networks across firms. Sample size in millions of worker-firm transitions.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian active labour market policy (NFSZ, NGM): the paper documents that informal networks meaningfully affect wage outcomes in Hungary, but the channel is sorting rather than productivity. Implication: subsidising network access for disadvantaged jobseekers (e.g., workshop-based mentoring) can deliver short-run wage gains, but won't close skill-driven wage gaps over the long run. Useful for evaluating NFSZ programme design.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "labor-markets"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W2885048264"
 }

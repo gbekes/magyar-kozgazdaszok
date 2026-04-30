@@ -20,19 +20,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This chapter operationalizes regional resilience using a new approach which goes beyond standard economic dimensions. A society is defined resilient if it retains the ability to deliver well-being in a sustainable way even in the case of shocks and persistent structural changes. As the ultimate objective is the maintenance of overall societal well-being, our approach does not stop at assessing only a set of selected (economic) sectors of well-being production. It aims towards a broad structure of the system which keeps track of social inclusion, social capital and quality of life in general. We illustrate our approach by concentrating on the financial and economic crisis (2008_2012) and analyse the dynamic response of EU regions. We implement a three-step methodology to (i) select a large list of economic and non-economic indicators (‘system variables’) that span the entire process of societal well-being production, (ii) compute resilience indicators as the joint dynamic response of regions to the crisis and finally (iii) look at characteristics as those pre-determined systemic features that differentiate resilient regions from non-resilient ones. Results show that resilience is highly dependent on the time horizon: there is a clear distinction between the reaction in the immediate aftermath of the crisis and in the longer run. Moreover, they confirm the importance of expanding the measurement strategy to a broader list of variables and show a substantial heterogeneity in resilience across the regions in the European Union. Finally, they highlight country and regional features (characteristics), such as private sector credit flows and the gender employment gap, as significant predictors of resilient behaviour.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "Standard regional-economic-resilience measures focus on GDP recovery — but recovery to what? Benczúr, Joossens, Manca, Menyhért and Zec build a broader resilience indicator that goes beyond economic dimensions to include social inclusion, social capital, and quality of life. The framework defines resilience as the ability to deliver well-being sustainably even under shocks or persistent structural change. They illustrate the methodology by analysing the dynamic response of EU regions to the 2008-12 financial and economic crisis. The three-step methodology selects 'system variables' spanning the well-being-production process and computes resilience indicators as the joint dynamic response. A policy-relevant alternative to GDP-only assessment.",
+  "summary_hu": "A standard regionális-gazdasági ellenállóképesség mértékek a GDP-helyreállásra fókuszálnak — de minek a helyreállására? Benczúr, Joossens, Manca, Menyhért és Zec szélesebb ellenállóképesség-mutatót épít, amely a gazdasági dimenziókon túlra terjeszkedik a társadalmi inklúzióra, társadalmi tőkére és életminőségre. A keret az ellenállóképességet úgy definiálja, mint a jólét fenntartható szállításának képességét sokkok vagy tartós szerkezeti változás esetén is. A módszertant az EU-régiók 2008–12-es pénzügyi és gazdasági válságra adott dinamikus válaszának elemzésével illusztrálják. A háromlépéses módszertan 'rendszerváltozókat' választ ki, amelyek átfogják a jólét-termelési folyamatot, és az ellenállóképesség-mutatókat együttes dinamikus válaszként számítja. Szakpolitikai-szempontból releváns alternatíva a GDP-csak alapú értékelésnek.",
+  "data_used": "EU regional-level economic, social, and quality-of-life indicators over the 2008-12 financial-crisis window. Composite-indicator construction methodology applied to the joint dynamic response.",
+  "data_used_hu": "EU regionális szintű gazdasági, társadalmi és életminőségi mutatók a 2008-12-es pénzügyi-válság időablakában. Kompozit-mutató építési módszertan együttes dinamikus választra alkalmazva.",
+  "policy_relevance": "For Hungarian regional-development planning under EU Cohesion Policy: the paper provides a methodology for assessing programme effectiveness beyond GDP-only outcomes. Relevant for evaluating Magyar Falu / Modern Városok and EU Recovery Fund spending in social-cohesion terms. Caveat: composite indicators are sensitive to weight choices; the methodology should be transparent about what it includes and excludes.",
+  "policy_relevance_hu": "Magyar regionális fejlesztési tervezéshez az EU Kohéziós Politika alatt: a tanulmány módszertant ad a program-hatékonyság GDP-csak alapú kimeneteken túli értékeléséhez. Releváns a Magyar Falu / Modern Városok és EU Helyreállítási Alap kiadás társadalmi-kohéziós szempontú értékeléséhez. Korlát: a kompozit mutatók érzékenyek a súlyválasztásokra; a módszertannak átláthatónak kell lennie abban, mit tartalmaz és mit zár ki.",
+  "topics": [
+    "regional-urban",
+    "macroeconomics",
+    "methods"
+  ],
+  "methods": [
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "EU"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W3009290783"
 }

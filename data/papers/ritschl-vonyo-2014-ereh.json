@@ -17,19 +17,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "The relative decline of the East German economy after 1945 has eluded researchers, as several large shocks appeared to have hit it at the same time. In this paper, we revisit the immediate post-war period in both parts of Germany to obtain a more comprehensive picture of the output and productivity shocks operating in both economies. Our principal finding is that the dismantling of the capital stock alone cannot explain the inferior performance of the East German economy. The collapse of output after the war and the ensuing recovery in both parts of the country were driven by total factor productivity; changes in factor endowments were of second-order significance. West Germany began to lead East Germany in industrial labor productivity well before the economic reforms of 1948 could make their mark. The major factor contributing to this early divergence were disproportions in industrial structure caused by the division of Germany.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "Why did East Germany fall behind West Germany so quickly after 1945? The standard explanations focus on the Soviet dismantling of capital stock. Ritschl and Vonyó revisit the immediate post-war period with a fuller accounting of output and productivity shocks in both Germanies. Their main finding: dismantling alone cannot explain the East German underperformance. Both economies' post-war collapse and recovery were driven mainly by total factor productivity, not factor endowments. West Germany began leading East Germany in industrial labour productivity well before the 1948 economic reforms. The major factor causing the early divergence was disproportions in industrial structure caused by Germany's division — not Soviet capital seizures alone.",
+  "summary_hu": "Miért szakadt le Kelet-Németország Nyugat-Németországtól olyan gyorsan 1945 után? A standard magyarázatok a tőkeállomány szovjet leszerelésére fókuszálnak. Ritschl és Vonyó újra megvizsgálja a közvetlen háború utáni időszakot mindkét Németország kibocsátási és termelékenységi sokkjainak teljesebb elszámolásával. Fő megállapításuk: a leszerelés önmagában nem magyarázza a kelet-német alulteljesítést. Mindkét gazdaság háború utáni összeomlása és helyreállása főleg a teljes tényezőtermelékenységgel volt magyarázható, nem a tényezők készleteivel. Nyugat-Németország jóval az 1948-as gazdasági reformok előtt kezdett vezetni az ipari munkatermelékenységben Kelet-Németország előtt. A korai eltérést okozó fő tényező a Németország felosztása által okozott ipari szerkezeti aránytalanság volt — nem csupán a szovjet tőkeelvonások.",
+  "data_used": "German interwar and post-war national-accounts data, 1936-1955. Industrial-sector output and productivity data for both East and West German territories. Uses cross-zone factor-endowment comparison plus structural decomposition.",
+  "data_used_hu": "Német két háború közötti és háború utáni nemzeti-számla adatok 1936-1955 között. Ipari-szektor kibocsátási és termelékenységi adatok mindkét keletnémet és nyugatnémet területre. Zónák közötti tényező-állomány összehasonlítást és szerkezeti felbontást használ.",
+  "policy_relevance": "Historical relevance to Hungarian transition narratives: the paper argues that East-West divergence was driven by structural disproportion + TFP, not capital expropriation. Same logic applies to the post-1989 Hungarian narrative — the productivity gap with Austria isn't 'because Communism stole our capital' but because structural composition shifted differently. For KSH historical national-accounts work and growth diagnosis, this is a useful comparative case.",
+  "policy_relevance_hu": "Történelmi relevancia a magyar rendszerváltási narratívákhoz: a tanulmány érvel amellett, hogy a keleti-nyugati eltérés szerkezeti aránytalanság + TFP, nem tőke-kisajátítás miatt alakult ki. Ugyanez a logika alkalmazható az 1989 utáni magyar narratívára — az Ausztriával szembeni termelékenységi rés nem 'mert a kommunizmus elvette a tőkét', hanem mert a szerkezeti összetétel másképp alakult. A KSH történelmi nemzeti-számla munkájához és növekedési diagnózisához hasznos összehasonlító eset.",
+  "topics": [
+    "transition-postcommunist",
+    "macroeconomics"
+  ],
+  "methods": [
+    "structural"
+  ],
+  "countries_studied": [
+    "DE"
+  ],
+  "data_types": [
+    "historical",
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-27",
+  "review_status": "ai-drafted",
   "openalex_id": "W1989125191"
 }

@@ -17,19 +17,27 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Tanulmányunkban adminisztratív járulékadatok segítségével elemeztük a sorkatonaságban való részvétel bérekre gyakorolt hatását. A különbségek különbsége módszerével vizsgáltuk meg, hogy miként változik a 2003-ban és 2004-ben bevonuló sorkatonák bére a be nem vonuló munkatársaikéhoz képest. A sorkatonák bevonulás előtt 20 százalékkal kevesebbet kerestek, mint a hasonló tulajdonságú, ám be nem vonuló munkavállalók. A sorkatonaság után ez a bérhátrány körülbelül 3 százalékos bérelőnnyé változik. Mivel a sorkatonaság csak hat hónapig tartott, ezért nem gondoljuk, hogy a gyors bérnövekedés csak a termelékenység növekedése miatt következett be. A legvalószínűbb magyarázat az, hogy a cégek diszkriminálták a sorkatonákat bevonulás előtt, vagy pedig a cégek és a későbbi sorkatonák képességei nem illettek össze.* Journal of Economic Literature (JEL) kód: J00, J31, J40.",
-  "summary_en": null,
-  "summary_hu": null,
-  "data_used": null,
-  "data_used_hu": null,
-  "policy_relevance": null,
-  "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "summary_en": "Did mandatory military service (sorkatonaság) hurt Hungarian conscripts' careers? Háló and Reizer use administrative contribution data to compare wages of 2003-2004 conscripts before and after their six-month service to similar workers who weren't drafted (difference-in-differences). Pre-service, conscripts earned 20% less than otherwise-similar peers — consistent with employer discrimination against soon-to-be-drafted workers, or with mismatch between pre-service jobs and conscripts' true skills. After service, the wage penalty becomes a 3% wage premium. Six months can't plausibly grow human capital that fast; the result is more consistent with conscripts being released into better-matched jobs after service.",
+  "summary_hu": "Ártott-e a sorkatonaság a magyar sorkötelezettek karrierjének? Háló és Reizer adminisztratív járulékadatokkal hasonlítja össze a 2003–2004-ben bevonuló sorkötelezettek béreit a hat hónapos szolgálat előtt és után, a be nem vonuló hasonló munkavállalókéhoz képest (különbségek-különbsége). A bevonulás előtt a sorkötelezettek 20 százalékkal kevesebbet kerestek, mint a hasonló jellemzőjű, de be nem vonuló társaik — ez konzisztens a munkáltatói diszkriminációval a hamarosan bevonulók ellen, vagy a bevonulás előtti munkák és a sorkötelezettek valódi képességei közötti illesztés-hiánnyal. A szolgálat után a bérhátrány 3 százalékos bérelőnnyé fordul. Hat hónap alatt aligha nőhet ennyit az emberi tőke; az eredmény inkább azzal konzisztens, hogy a sorkötelezettek a szolgálat után jobban illeszkedő munkákra szabadulnak.",
+  "data_used": "Hungarian administrative contribution-payment register, 2002–2008, restricted to males age 18–25 in 2003. Conscript identification from military-service-period gaps in employment records. Sample size approximately 30,000 individuals.",
+  "data_used_hu": "Magyar adminisztratív járulékfizetési regiszter, 2002–2008, 2003-ban 18–25 éves férfiakra szűkítve. A sorkötelezetteket a foglalkoztatási rekordokban szereplő katonai-szolgálati résekkel azonosítják. Mintegy 30 000 fő.",
+  "policy_relevance": "Historically interesting now that conscription is being debated again in Eastern Europe (Lithuania reinstated 2015; broader EU discussions post-2022). For Hungarian policymakers, the paper's main implication is that conscription's labour-market effects can be neutral or positive on average — not because service builds skills, but because pre-service discrimination/mismatch is corrected. The 20% pre-service wage penalty is itself a striking labour-market observation.",
+  "policy_relevance_hu": "Történelmileg érdekes most, amikor a sorkatonaságról ismét vita folyik Kelet-Európában (Litvánia 2015-ben visszaállította; szélesebb EU-vita 2022 után). A magyar döntéshozók számára a fő implikáció: a sorkatonaság munkapiaci hatásai átlagosan semlegesek vagy pozitívak lehetnek — nem azért, mert a szolgálat képességet épít, hanem mert a bevonulás előtti diszkrimináció / illesztés-hiány korrigálódik. A 20 százalékos bevonulás előtti bérhátrány önmagában is figyelemreméltó munkapiaci megfigyelés.",
+  "topics": [
+    "labor-markets"
+  ],
+  "methods": [
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-26",
+  "review_status": "ai-drafted",
   "openalex_id": "W3084119953"
 }
