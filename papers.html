@@ -36,6 +36,9 @@
             <input id="year-to" type="number" placeholder="to" min="1960" max="2030" style="width:50%;">
           </div>
 
+          <h3>Language</h3>
+          <div id="filter-languages"></div>
+
           <button class="reset" type="button" id="reset-filters">Reset filters</button>
         </aside>
 
@@ -68,14 +71,35 @@
     const EFH = window.EFH;
     const data = await EFH.loadData();
 
+    // Hungarian-language journals in the catalogue. Anything not on this
+    // list and not flagged as 'other' below defaults to English.
+    const HU_JOURNALS = new Set([
+      'Közgazdasági Szemle',
+      'Külgazdaság',
+      'Statisztikai Szemle',
+      'Hitelintézeti Szemle',
+      'Pénzügyi Szemle',
+      'Magyar Tudomány'
+    ]);
+    function paperLanguage(p) {
+      const j = p.journal || '';
+      if (HU_JOURNALS.has(j)) return 'hu';
+      // crude other-language detection via journal name cues
+      if (/Revue|Zeitschrift|Rivista|Wirtschaftsdienst/i.test(j)) return 'other';
+      return 'en';
+    }
+
     // Build filter inputs from the data.
     const topicCounts = {};
     const methodCounts = {};
     const typeCounts = {};
+    const languageCounts = {};
     for (const p of data.papers) {
       for (const t of (p.topics || [])) topicCounts[t] = (topicCounts[t] || 0) + 1;
       for (const m of (p.methods || [])) methodCounts[m] = (methodCounts[m] || 0) + 1;
       typeCounts[p.publication_type] = (typeCounts[p.publication_type] || 0) + 1;
+      const lang = paperLanguage(p);
+      languageCounts[lang] = (languageCounts[lang] || 0) + 1;
     }
 
     function buildCheckboxes(containerId, items, getLabel) {
@@ -101,11 +125,19 @@
     const typeEntries = Object.entries(typeCounts).sort((a, b) => b[1] - a[1]);
     buildCheckboxes('filter-types', typeEntries, id => typeLabels[id] || id);
 
+    const languageLabels = { 'hu': 'Hungarian', 'en': 'English', 'other': 'Other' };
+    const languageOrder  = ['en', 'hu', 'other'];
+    const languageEntries = languageOrder
+      .map(id => [id, languageCounts[id] || 0])
+      .filter(([, c]) => c > 0);
+    buildCheckboxes('filter-languages', languageEntries, id => languageLabels[id] || id);
+
     // state
     const state = {
       topics: new Set(),
       methods: new Set(),
       types: new Set(),
+      languages: new Set(),
       yearFrom: null,
       yearTo: null,
       query: '',
@@ -126,6 +158,7 @@
       collect('filter-topics', state.topics);
       collect('filter-methods', state.methods);
       collect('filter-types', state.types);
+      collect('filter-languages', state.languages);
       state.yearFrom = parseInt(document.getElementById('year-from').value) || null;
       state.yearTo   = parseInt(document.getElementById('year-to').value) || null;
       state.query    = document.getElementById('paper-search').value.trim().toLowerCase();
@@ -135,6 +168,7 @@
         if (state.topics.size && !p.topics?.some(t => state.topics.has(t))) return false;
         if (state.methods.size && !p.methods?.some(m => state.methods.has(m))) return false;
         if (state.types.size && !state.types.has(p.publication_type)) return false;
+        if (state.languages.size && !state.languages.has(paperLanguage(p))) return false;
         if (state.yearFrom && (p.year || 0) < state.yearFrom) return false;
         if (state.yearTo && (p.year || 9999) > state.yearTo) return false;
         if (state.query) {
@@ -166,6 +200,7 @@
       state.topics.forEach(t => chips.push({ kind: 'topics', val: t, label: 'Topic: ' + data.topicsById[t]?.name_en }));
       state.methods.forEach(m => chips.push({ kind: 'methods', val: m, label: 'Method: ' + EFH.methodLabel(m) }));
       state.types.forEach(t => chips.push({ kind: 'types', val: t, label: 'Type: ' + (typeLabels[t] || t) }));
+      state.languages.forEach(l => chips.push({ kind: 'languages', val: l, label: 'Language: ' + (languageLabels[l] || l) }));
       if (state.yearFrom || state.yearTo) {
         chips.push({ kind: 'year', val: 'year', label: `Year: ${state.yearFrom || '…'}–${state.yearTo || '…'}` });
       }
@@ -178,10 +213,11 @@
       document.querySelectorAll('#filter-topics input').forEach(cb => cb.checked = state.topics.has(cb.value));
       document.querySelectorAll('#filter-methods input').forEach(cb => cb.checked = state.methods.has(cb.value));
       document.querySelectorAll('#filter-types input').forEach(cb => cb.checked = state.types.has(cb.value));
+      document.querySelectorAll('#filter-languages input').forEach(cb => cb.checked = state.languages.has(cb.value));
     }
 
     // wire up events
-    ['filter-topics', 'filter-methods', 'filter-types'].forEach(id => {
+    ['filter-topics', 'filter-methods', 'filter-types', 'filter-languages'].forEach(id => {
       document.getElementById(id).addEventListener('change', applyAndRender);
     });
     document.getElementById('year-from').addEventListener('change', applyAndRender);
@@ -196,7 +232,7 @@
       const chip = e.target.closest('.chip');
       if (!chip) return;
       const kind = chip.dataset.kind, val = chip.dataset.val;
-      if (kind === 'topics' || kind === 'methods' || kind === 'types') state[kind].delete(val);
+      if (kind === 'topics' || kind === 'methods' || kind === 'types' || kind === 'languages') state[kind].delete(val);
       if (kind === 'year') {
         document.getElementById('year-from').value = '';
         document.getElementById('year-to').value = '';
@@ -206,7 +242,7 @@
     });
 
     document.getElementById('reset-filters').addEventListener('click', () => {
-      state.topics.clear(); state.methods.clear(); state.types.clear();
+      state.topics.clear(); state.methods.clear(); state.types.clear(); state.languages.clear();
       document.getElementById('year-from').value = '';
       document.getElementById('year-to').value = '';
       document.getElementById('paper-search').value = '';
