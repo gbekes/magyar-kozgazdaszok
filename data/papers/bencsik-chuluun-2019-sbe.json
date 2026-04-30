@@ -7,7 +7,7 @@
   ],
   "publication_type": "article",
   "journal": "Small Business Economics",
-  "year": 2019,
+  "year": 2021,
   "volume": "56",
   "issue": "1",
   "pages": "355-384",
@@ -16,20 +16,31 @@
   "url_published": "https://doi.org/10.1007/s11187-019-00221-1",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "Drawing upon the job demand-control model and analyzing more than 600,000 responses from the nationally representative Gallup survey data over the 2010–2016 period, we find that self-employed individuals in the USA report lower life satisfaction than paid employees (i.e., evaluative well-being). The self-employed also experience both positive feelings such as happiness and enjoyment and negative feelings such as anger and stress more than their wage-earning peers, leading to a stark emotional dichotomy in how they experience their daily lives (i.e., hedonic well-being) consistent with both high job control and high job demand that are prevalent in self-employment. Lastly, the self-employed also report more health problems and lower physical well-being. Income (and low local unemployment to some extent) successfully mitigates the negative effects of self-employment on subjective well-being while enhancing the positive, but education does not do so. Overall, the results suggest that self-employment is associated with predominantly negative well-being effects in the USA.",
+  "summary_en": "Are self-employed people happier than wage-earners? Bencsik and Chuluun analyse 600,000+ responses from US Gallup data 2010-2016 using the job demand-control model. They find self-employed Americans report LOWER overall life satisfaction than paid employees, but experience both more positive emotions (happiness, enjoyment) and more negative emotions (anger, stress) — an emotional dichotomy consistent with high job control + high job demand. They also report more health problems and lower physical well-being. Income (and low local unemployment) mitigates the negative well-being effects, but education does not.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Gallup-Healthways Well-Being Index daily survey data 2010-2016 covering 600,000+ US respondents, with self-employment status, life satisfaction, hedonic well-being, and health measures.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungarian small-business and self-employment policy at IFKA, MFB, and Pénzügyminisztérium. The paper shows self-employment is associated with mixed well-being outcomes: economic income partly compensates for the well-being costs. Useful framework for designing Hungarian SME-support programmes that target both income and well-being outcomes.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "labor-markets",
+    "behavioral",
+    "demographics-migration"
+  ],
+  "methods": [
+    "panel-data",
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-30",
+  "review_status": "ai-drafted",
   "openalex_id": "W2954401696"
 }

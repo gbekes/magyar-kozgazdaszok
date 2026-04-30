@@ -16,20 +16,25 @@
   "url_published": "https://doi.org/10.1016/j.econlet.2013.03.008",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "Theoretical articles on incentive systems almost exclusively focus on linear compensations, while, in practice, nonlinear elements, such as quota bonuses, are not uncommon. Our article tries to bridge that gap; it shows how the use of quotas can increase the owners' profits, which agents are targeted by these incentives, and which factors determine the optimal bonus.",
+  "summary_en": "Most theoretical work on agent compensation focuses on linear pay schemes, but real-world contracts often include nonlinear elements like quota bonuses. Bakó and Kálecz-Simon analyse why quotas can be optimal: they show how the use of quotas raises owners' profits, which agents are targeted by these incentives, and what factors determine the optimal bonus structure. The result helps understand the prevalence of quota-based compensation in sales, real estate, and management contexts.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model — incentive-contract analysis with nonlinear quota bonuses. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant for Hungarian compensation-design analysis at the Pénzügyminisztérium and corporate-governance discussions. The paper provides theoretical foundations for understanding when nonlinear bonus structures (quota-based, milestone-based) outperform linear commissions — useful for designing public-sector incentive contracts and assessing private-sector compensation practices.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "mechanism-design",
+    "labor-markets"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-30",
+  "review_status": "ai-drafted",
   "openalex_id": "W2022765526"
 }

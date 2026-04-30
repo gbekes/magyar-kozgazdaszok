@@ -7653,21 +7653,26 @@
       "url_published": "https://doi.org/10.1016/j.econlet.2012.03.016",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "In this article we examine the effects of third degree price discrimination in asymmetric Cournot oligopolies. We show that the average price is not affected by the extent of price discrimination. We find that the asymmetry between firms is reflected only by the output produced for the lowest-valuation consumers and firms produce equal quantities to the other consumer groups.",
+      "summary_en": "When asymmetric Cournot-oligopoly firms can engage in third-degree price discrimination across consumer segments, what happens? Bakó and Kálecz-Simon prove a striking result: the average market price is unaffected by the extent of price discrimination. Cost or quality asymmetries between firms only show up in the output produced for the lowest-valuation consumer segment; for all other segments, firms produce equal quantities. The result simplifies welfare analysis of price-discrimination policy in oligopolistic markets.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — third-degree price discrimination in asymmetric Cournot oligopoly. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for GVH (Hungarian Competition Authority) merger reviews and price-discrimination assessments. The paper shows that bans on price discrimination in oligopoly markets do not raise average prices — a useful counter-argument when industry lobbies oppose discrimination bans on consumer-welfare grounds.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "industrial-organization",
+        "behavioral"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-30",
+      "review_status": "ai-drafted",
       "openalex_id": "W2090060566"
     },
     {
@@ -7688,21 +7693,26 @@
       "url_published": "https://doi.org/10.1016/j.econlet.2013.03.008",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "Theoretical articles on incentive systems almost exclusively focus on linear compensations, while, in practice, nonlinear elements, such as quota bonuses, are not uncommon. Our article tries to bridge that gap; it shows how the use of quotas can increase the owners' profits, which agents are targeted by these incentives, and which factors determine the optimal bonus.",
+      "summary_en": "Most theoretical work on agent compensation focuses on linear pay schemes, but real-world contracts often include nonlinear elements like quota bonuses. Bakó and Kálecz-Simon analyse why quotas can be optimal: they show how the use of quotas raises owners' profits, which agents are targeted by these incentives, and what factors determine the optimal bonus structure. The result helps understand the prevalence of quota-based compensation in sales, real estate, and management contexts.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — incentive-contract analysis with nonlinear quota bonuses. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant for Hungarian compensation-design analysis at the Pénzügyminisztérium and corporate-governance discussions. The paper provides theoretical foundations for understanding when nonlinear bonus structures (quota-based, milestone-based) outperform linear commissions — useful for designing public-sector incentive contracts and assessing private-sector compensation practices.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "mechanism-design",
+        "labor-markets"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-30",
+      "review_status": "ai-drafted",
       "openalex_id": "W2022765526"
     },
     {
@@ -9710,27 +9720,38 @@
       "year": 2025,
       "volume": "238",
       "issue": null,
-      "pages": "107202-107202",
+      "pages": "107202",
       "doi": "10.1016/j.jebo.2025.107202",
       "working_paper_series": null,
       "url_published": "https://doi.org/10.1016/j.jebo.2025.107202",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "Drug crimes continue to make up a large share of the offenses for which individuals interact with the criminal justice system in the United States, with Black Americans arrested at four times the rate of white Americans despite similar drug usage rates. In recent years, policymakers in jurisdictions across the country have deregulated recreational cannabis use, often with the explicit intention of reducing drug crime arrest disparities. Yet, causal evidence about the impact of deregulation on who police arrest is limited. In this paper, we exploit the rollout of the most widespread deregulatory approach related to recreational cannabis use—the decriminalization of cannabis possession—across the three largest US cities, New York City, Los Angeles, and Chicago, using a difference-in-differences design. We find that decriminalization significantly reduced cannabis possession arrests. We observe that decriminalization narrowed racial disparities in arrests in Chicago by reducing small quantity possession arrests for Black individuals and in Los Angeles by reducing large quantity possession arrests for both Black and Hispanic residents. Lastly, we extend our analysis to legalization of recreational cannabis use and observe that legalization decreased arrests for every racial and ethnic group we consider, with similarly large impacts across groups.",
+      "summary_en": "Did US cannabis decriminalisation reduce drug-arrest racial disparities, as policymakers intended? Bencsik and Budhiraja use difference-in-differences across the rollout of cannabis decriminalisation in New York City, Los Angeles, and Chicago. Decriminalisation significantly reduced cannabis-possession arrests overall. Racial-disparity narrowing happened in specific ways: Chicago saw smaller small-quantity-possession arrests for Black residents; LA saw smaller large-quantity-possession arrests for both Black and Hispanic residents. Full legalisation reduced arrests for ALL racial groups by similar large amounts. The findings provide causal evidence on how drug policy reshapes racial arrest disparities.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Police arrest records from NYC, LA, and Chicago covering several years before and after decriminalisation/legalisation, with race/ethnicity breakdowns and possession-quantity classifications. Difference-in-differences across cities and timing.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Relevant for Hungarian drug-policy debates and Roma-policing oversight. Drug decriminalisation in Hungary has been politically contested. The paper provides US causal evidence on how decriminalisation actually redistributes arrest patterns by race — useful framework for the Hungarian Ombudsman, the Equal Treatment Authority, and academic researchers analysing Roma-policing disparities.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "political-economy",
+        "demographics-migration",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "diff-in-diff",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-30",
+      "review_status": "ai-drafted",
       "openalex_id": "W4414264481"
     },
     {
@@ -9742,7 +9763,7 @@
       ],
       "publication_type": "article",
       "journal": "Small Business Economics",
-      "year": 2019,
+      "year": 2021,
       "volume": "56",
       "issue": "1",
       "pages": "355-384",
@@ -9751,21 +9772,32 @@
       "url_published": "https://doi.org/10.1007/s11187-019-00221-1",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "Drawing upon the job demand-control model and analyzing more than 600,000 responses from the nationally representative Gallup survey data over the 2010–2016 period, we find that self-employed individuals in the USA report lower life satisfaction than paid employees (i.e., evaluative well-being). The self-employed also experience both positive feelings such as happiness and enjoyment and negative feelings such as anger and stress more than their wage-earning peers, leading to a stark emotional dichotomy in how they experience their daily lives (i.e., hedonic well-being) consistent with both high job control and high job demand that are prevalent in self-employment. Lastly, the self-employed also report more health problems and lower physical well-being. Income (and low local unemployment to some extent) successfully mitigates the negative effects of self-employment on subjective well-being while enhancing the positive, but education does not do so. Overall, the results suggest that self-employment is associated with predominantly negative well-being effects in the USA.",
+      "summary_en": "Are self-employed people happier than wage-earners? Bencsik and Chuluun analyse 600,000+ responses from US Gallup data 2010-2016 using the job demand-control model. They find self-employed Americans report LOWER overall life satisfaction than paid employees, but experience both more positive emotions (happiness, enjoyment) and more negative emotions (anger, stress) — an emotional dichotomy consistent with high job control + high job demand. They also report more health problems and lower physical well-being. Income (and low local unemployment) mitigates the negative well-being effects, but education does not.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Gallup-Healthways Well-Being Index daily survey data 2010-2016 covering 600,000+ US respondents, with self-employment status, life satisfaction, hedonic well-being, and health measures.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungarian small-business and self-employment policy at IFKA, MFB, and Pénzügyminisztérium. The paper shows self-employment is associated with mixed well-being outcomes: economic income partly compensates for the well-being costs. Useful framework for designing Hungarian SME-support programmes that target both income and well-being outcomes.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "labor-markets",
+        "behavioral",
+        "demographics-migration"
+      ],
+      "methods": [
+        "panel-data",
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "survey"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-30",
+      "review_status": "ai-drafted",
       "openalex_id": "W2954401696"
     },
     {
@@ -15035,27 +15067,33 @@
     {
       "url_pdf": null,
       "url_replication": null,
-      "abstract": "",
-      "summary_en": null,
+      "abstract": "A cooperative game-theoretic framework is introduced to study the behavior of cooperating and competing electrical-energy providers in the wholesale market considering price-preference rational consumers. The paper studies the physical and economic aspects of the power transmission system operation focusing on the incentives for group formation, analyzing the interactions of generators in an idealized environment described by a DC load flow model where the network is lossless and is operated by an independent network operator who ensures network stability and fulfillment of consumption needs while taking into account the preferences of consumers over generators.",
+      "summary_en": "Csercsik develops a cooperative-game-theoretic framework for analysing how electricity generators cooperate or compete in wholesale markets when consumers have price preferences. Working in a DC load-flow model with an independent network operator, he characterises when generators form coalitions to attract or retain customers, how prices and profits evolve through iterative bidding, and how network congestion plus consumer-preference rules shape equilibrium. The framework provides a unified way to study physical and economic incentives jointly in liberalised electricity markets.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — cooperative-game framework with DC load flow, idealised lossless transmission, price-preference consumers. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for MEKH (Hungarian Energy Office) market-design reviews of the Hungarian wholesale electricity market (HUPX). The framework provides tools for assessing collusive risks among Hungarian generators and the welfare consequences of network-congestion patterns. Useful for MEKH and the regional energy-market integration debates (4M Market Coupling, Pan-European Day-Ahead Market).",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "energy-environment",
+        "industrial-organization",
+        "mechanism-design"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-30",
+      "review_status": "ai-drafted",
       "policy_instruments": [],
       "working_paper_series": null,
-      "pages": null,
+      "pages": "1043-1073",
       "issue": "4",
       "volume": "16",
-      "doi": null,
+      "doi": "10.1007/s11067-015-9310-x",
       "url_published": null,
       "id": "csercsik-2016-nse",
       "title": "Competition and cooperation in a bidding model of electrical energy trade",
@@ -15115,27 +15153,33 @@
     {
       "url_pdf": null,
       "url_replication": null,
-      "abstract": "",
-      "summary_en": null,
+      "abstract": "We introduce a new solution concept to problems with externalities, which is the first in the literature to take into account economic, regulatory and physical stability aspects of network problems in the very same model. A new class of cooperative games is defined where the worth of a coalition depends on the behavior of other players and on the state of nature as well. We allow for coalitions to form both before and after the resolution of uncertainty, hence agreements must be stable against both types of deviations. The appropriate extension of the classical core concept, the Sustainable Core, is defined for this new setup to test the stability of allocations in such a complex environment. A prominent application, a game of consumers and generators on an electrical energy transmission network is examined in details, where the power in- and outlets of the nodes have to be determined in a way, that if any line instantaneously fails, none of the remaining lines may be overloaded.",
+      "summary_en": "Habis and Csercsik introduce the 'Sustainable Core' — a new cooperative-game solution concept that simultaneously handles economic, regulatory, and physical-stability constraints. Coalitions can form before or after uncertainty resolves, so allocations must be stable against deviations at both stages. They apply the framework to a power-network game where the in/outflows at every node must be physically feasible and remain so even after any single line fails (N-1 security). Allocations in the Sustainable Core are exactly those that can satisfy this stringent stability requirement in a coalitionally acceptable way.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — cooperative game with externalities and uncertainty, applied to power-network N-1 security examples. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for MAVIR (Hungarian transmission system operator) and MEKH when assessing N-1 security operations under increasingly variable renewable generation. The Sustainable Core concept provides a rigorous framework for allocating costs and revenues among generators when system stability requirements bind.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "energy-environment",
+        "mechanism-design",
+        "industrial-organization"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-30",
+      "review_status": "ai-drafted",
       "policy_instruments": [],
       "working_paper_series": null,
-      "pages": null,
+      "pages": "1-16",
       "issue": "1",
       "volume": "15",
-      "doi": null,
+      "doi": "10.1007/s11067-014-9265-3",
       "url_published": null,
       "id": "csercsik-habis-2015-nse",
       "title": "Cooperation with externalities and uncertainty",
@@ -15167,50 +15211,60 @@
       "url_published": "https://doi.org/10.1016/j.eneco.2019.01.013",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "Existing cooperative game theoretic studies of bargaining power in gas pipeline systems are based on the so called characteristic function form (CFF). This approach is potentially misleading if some pipelines fall under regulated third party access (TPA). TPA, which is by now the norm in the EU, obliges the owner of a pipeline to transport gas for others, provided they pay a regulated transport fee. From a game theoretic perspective, this institutional setting creates so called “externalities”, the description of which requires partition function form (PFF) games. In this paper we propose a method to compute payoffs, reflecting the power structure, for a pipeline system with regulated TPA. The method is based on an iterative flow mechanism to determine gas flows and transport fees for individual players and uses the recursive core and the minimal claim function to convert the PPF game back into a CFF game, which can be solved by standard methods. We illustrate the approach with a simple stylized numerical example of the gas network in Central Eastern Europe with a focus on Ukraine's power index as a major transit country.",
+      "summary_en": "When EU pipeline operators are forced under regulated third-party access (TPA) rules to transport gas for others at regulated fees, the standard cooperative-game analysis of bargaining power breaks down. Csercsik, Hubert, Sziklai and Kóczy show TPA creates externalities requiring partition-function-form (PFF) games, and propose a method combining iterative flow computation with the recursive core to convert PFF games back to standard form. They illustrate with a stylised model of the Central Eastern European gas network, focusing on Ukraine's power index as a major transit country. The framework provides a tractable way to assess bargaining power under EU regulatory regimes.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Stylised numerical model of the Central Eastern European gas network with regulated third-party access; calibrated to typical EU pipeline characteristics (capacity, transport fees, demand patterns).",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for Hungarian energy security policy and the MEKH (Hungarian Energy Authority). Hungary depends heavily on transit pipelines (Russian gas via Ukraine, then via Druzhba/Brotherhood lines). The paper's framework lets MEKH and Pénzügyminisztérium quantify Hungary's bargaining-power position under EU TPA rules — useful for assessing the welfare effects of supply diversification (TurkStream, LNG terminals).",
       "policy_relevance_hu": null,
       "topics": [
-        "mechanism-design",
-        "energy-environment"
+        "energy-environment",
+        "industrial-organization",
+        "mechanism-design"
       ],
-      "methods": [],
+      "methods": [
+        "theory",
+        "structural"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-26",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-30",
+      "review_status": "ai-drafted",
       "openalex_id": "W2911895584"
     },
     {
       "url_pdf": null,
       "url_replication": null,
-      "abstract": "",
-      "summary_en": null,
+      "abstract": "The users of electricity networks are organized into groups where the production and consumption of electricity is in balance. The study examines the formation of these balancing groups using a cooperative game in partition function form defined over an ideal (lossless) DC load flow model of the power grid. The games contain widespread externalities that can be both negative and positive. The stability of certain partitions is studied using the concept of the recursive core. While the game is clearly cohesive, it is not necessarily superadditive, and subadditivity may be a barrier to achieve full cooperation.",
+      "summary_en": "Electricity markets feature 'balancing groups' where production and consumption must net to zero in real time. Csercsik and Kóczy model the formation of these groups as a cooperative game in partition-function form on a DC load-flow grid. Externalities run in both directions (positive AND negative), making analysis non-trivial. They study stability via the recursive core and find the game is cohesive but not necessarily superadditive — meaning subadditivity can prevent full cooperation across the grid. Useful framework for understanding how voluntary balancing groups stabilise (or fail to stabilise) in liberalised electricity markets.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — cooperative game in partition function form over DC load-flow electrical grid. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for MEKH and MAVIR when designing Hungarian balance-group rules and incentives. The paper shows full grid-wide cooperation is not automatic when subadditivity holds — useful diagnostic for evaluating Hungarian and EU electricity-market integration mechanisms.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "energy-environment",
+        "mechanism-design",
+        "industrial-organization"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-27",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-30",
+      "review_status": "ai-drafted",
       "policy_instruments": [],
       "working_paper_series": null,
-      "pages": null,
+      "pages": "1161-1184",
       "issue": "4",
       "volume": "17",
-      "doi": null,
+      "doi": "10.1007/s11067-017-9363-0",
       "url_published": null,
       "id": "csercsik-koczy-2017-nse",
       "title": "Efficiency and stability in electrical power transmission networks: A partition function form approach",
@@ -42132,7 +42186,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 104
+      "paper_count": 106
     },
     {
       "id": "education-skills",
@@ -42165,7 +42219,7 @@
       "policy_framing_en": "Relevant to: family policy, pension system, immigration policy, retention of skilled workers.",
       "policy_framing_hu": "Releváns: családpolitika, nyugdíjrendszer, bevándorláspolitika, szakemberek megtartása.",
       "icon": "users",
-      "paper_count": 44
+      "paper_count": 46
     },
     {
       "id": "trade-fdi",
@@ -42242,7 +42296,7 @@
       "policy_framing_en": "Relevant to: energy transition, carbon pricing, renewable support, environmental standards.",
       "policy_framing_hu": "Releváns: energiaátmenet, szén-dioxid árazás, megújulók támogatása, környezeti szabványok.",
       "icon": "leaf",
-      "paper_count": 18
+      "paper_count": 21
     },
     {
       "id": "inequality-welfare",
@@ -42253,7 +42307,7 @@
       "policy_framing_en": "Relevant to: welfare system, anti-poverty programs, family allowances, gender-equal pay policies.",
       "policy_framing_hu": "Releváns: szociális rendszer, szegénység elleni programok, családi pótlékok, egyenlő bérezés.",
       "icon": "scale",
-      "paper_count": 104
+      "paper_count": 105
     },
     {
       "id": "political-economy",
@@ -42264,7 +42318,7 @@
       "policy_framing_en": "Relevant to: anti-corruption policy, public administration reform, EU affairs, electoral system design.",
       "policy_framing_hu": "Releváns: korrupcióellenes politika, közigazgatási reform, EU-ügyek, választási rendszer.",
       "icon": "building-2",
-      "paper_count": 72
+      "paper_count": 73
     },
     {
       "id": "transition-postcommunist",
@@ -42286,7 +42340,7 @@
       "policy_framing_en": "Relevant to: consumer protection, pension-default design, nudging, financial-education regulation, addictive-product regulation.",
       "policy_framing_hu": "Releváns: fogyasztóvédelem, nyugdíjalap-alapbeállítások, döntéslendítés (nudge), pénzügyi edukáció szabályozása, függőséget okozó termékek szabályozása.",
       "icon": "brain",
-      "paper_count": 120
+      "paper_count": 122
     },
     {
       "id": "industrial-organization",
@@ -42297,7 +42351,7 @@
       "policy_framing_en": "Relevant to: competition policy (GVH), merger review, platform regulation, auction design, sector-specific regulation.",
       "policy_framing_hu": "Releváns: versenypolitika (GVH), fúziókontroll, platformszabályozás, aukciótervezés, ágazati szabályozás.",
       "icon": "network",
-      "paper_count": 93
+      "paper_count": 98
     },
     {
       "id": "macroeconomics",
@@ -42352,7 +42406,7 @@
       "policy_framing_en": "Relevant to: regulatory design, procurement, voting reform, contract law, antitrust analysis, committee design.",
       "policy_framing_hu": "Releváns: szabályozási tervezés, közbeszerzés, választási reform, szerződésjog, versenypolitika, bizottsági tervezés.",
       "icon": "scale",
-      "paper_count": 73
+      "paper_count": 77
     }
   ],
   "journals": [

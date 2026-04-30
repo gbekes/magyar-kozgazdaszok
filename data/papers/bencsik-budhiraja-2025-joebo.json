@@ -10,26 +10,37 @@
   "year": 2025,
   "volume": "238",
   "issue": null,
-  "pages": "107202-107202",
+  "pages": "107202",
   "doi": "10.1016/j.jebo.2025.107202",
   "working_paper_series": null,
   "url_published": "https://doi.org/10.1016/j.jebo.2025.107202",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "Drug crimes continue to make up a large share of the offenses for which individuals interact with the criminal justice system in the United States, with Black Americans arrested at four times the rate of white Americans despite similar drug usage rates. In recent years, policymakers in jurisdictions across the country have deregulated recreational cannabis use, often with the explicit intention of reducing drug crime arrest disparities. Yet, causal evidence about the impact of deregulation on who police arrest is limited. In this paper, we exploit the rollout of the most widespread deregulatory approach related to recreational cannabis use—the decriminalization of cannabis possession—across the three largest US cities, New York City, Los Angeles, and Chicago, using a difference-in-differences design. We find that decriminalization significantly reduced cannabis possession arrests. We observe that decriminalization narrowed racial disparities in arrests in Chicago by reducing small quantity possession arrests for Black individuals and in Los Angeles by reducing large quantity possession arrests for both Black and Hispanic residents. Lastly, we extend our analysis to legalization of recreational cannabis use and observe that legalization decreased arrests for every racial and ethnic group we consider, with similarly large impacts across groups.",
+  "summary_en": "Did US cannabis decriminalisation reduce drug-arrest racial disparities, as policymakers intended? Bencsik and Budhiraja use difference-in-differences across the rollout of cannabis decriminalisation in New York City, Los Angeles, and Chicago. Decriminalisation significantly reduced cannabis-possession arrests overall. Racial-disparity narrowing happened in specific ways: Chicago saw smaller small-quantity-possession arrests for Black residents; LA saw smaller large-quantity-possession arrests for both Black and Hispanic residents. Full legalisation reduced arrests for ALL racial groups by similar large amounts. The findings provide causal evidence on how drug policy reshapes racial arrest disparities.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Police arrest records from NYC, LA, and Chicago covering several years before and after decriminalisation/legalisation, with race/ethnicity breakdowns and possession-quantity classifications. Difference-in-differences across cities and timing.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant for Hungarian drug-policy debates and Roma-policing oversight. Drug decriminalisation in Hungary has been politically contested. The paper provides US causal evidence on how decriminalisation actually redistributes arrest patterns by race — useful framework for the Hungarian Ombudsman, the Equal Treatment Authority, and academic researchers analysing Roma-policing disparities.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "political-economy",
+    "demographics-migration",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "diff-in-diff",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-30",
+  "review_status": "ai-drafted",
   "openalex_id": "W4414264481"
 }
