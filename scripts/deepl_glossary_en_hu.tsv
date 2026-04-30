@@ -1,0 +1,104 @@
+# DeepL glossary EN -> HU for the Magyar Közgazdászok catalogue.
+# Format: source<TAB>target, one per line. Lines starting with # are skipped
+# by deepl_glossary.py at upload time.
+#
+# Curate conservatively. Include a term ONLY if DeepL's default translation
+# is wrong, inconsistent, or non-canonical for Hungarian econ/policy
+# discourse. DeepL's HU is generally strong; over-stuffing the glossary
+# can hurt fluency.
+#
+# Glossary matching is case-sensitive. Add lower / Title case variants
+# where both appear in summaries.
+
+# --- core macro / fiscal -----------------------------------------------
+GDP	GDP
+gross domestic product	bruttó hazai termék
+VAT	áfa
+value-added tax	általános forgalmi adó
+corporate income tax	társasági adó
+personal income tax	személyi jövedelemadó
+public debt	államadósság
+budget deficit	költségvetési hiány
+fiscal policy	fiskális politika
+monetary policy	monetáris politika
+central bank	jegybank
+inflation	infláció
+exchange rate	árfolyam
+sovereign debt	szuverén adósság
+
+# --- labor --------------------------------------------------------------
+minimum wage	minimálbér
+labor market	munkaerőpiac
+labour market	munkaerőpiac
+unemployment	munkanélküliség
+employment rate	foglalkoztatási ráta
+labor force participation	munkaerőpiaci részvétel
+active labor market policy	aktív munkaerőpiaci politika
+wage subsidy	bértámogatás
+public works program	közfoglalkoztatás
+
+# --- trade / firms ------------------------------------------------------
+foreign direct investment	közvetlen külföldi tőkebefektetés
+FDI	FDI
+multinational firm	multinacionális vállalat
+exporter	exportőr
+firm-level data	vállalati szintű adatok
+productivity	termelékenység
+
+# --- finance ------------------------------------------------------------
+non-performing loan	bedőlt hitel
+loan-to-value	hitelfedezeti
+foreign currency loan	devizahitel
+banking sector	bankszektor
+
+# --- demography / health -----------------------------------------------
+fertility rate	termékenységi ráta
+life expectancy	születéskor várható élettartam
+healthcare system	egészségügyi rendszer
+
+# --- education ---------------------------------------------------------
+PISA	PISA
+early childhood education	kora gyermekkori nevelés
+vocational training	szakképzés
+tertiary education	felsőoktatás
+
+# --- methods / research jargon -----------------------------------------
+working paper	műhelytanulmány
+peer-reviewed	lektorált
+randomized controlled trial	randomizált kontrollált kísérlet
+RCT	RCT
+difference-in-differences	különbség a különbségekben
+regression discontinuity	regressziós szakadás
+instrumental variable	instrumentális változó
+panel data	paneladatok
+field experiment	terepkísérlet
+
+# --- Hungarian institutions (preserve) ---------------------------------
+National Bank of Hungary	Magyar Nemzeti Bank
+Hungarian Central Statistical Office	KSH
+Hungarian Academy of Sciences	Magyar Tudományos Akadémia
+KRTK	KRTK
+HUN-REN	HUN-REN
+Corvinus University of Budapest	Budapesti Corvinus Egyetem
+Central European University	Central European University
+
+# --- non-Hungarian institutions / outlets to keep verbatim --------------
+European Central Bank	Európai Központi Bank
+European Commission	Európai Bizottság
+World Bank	Világbank
+IMF	IMF
+OECD	OECD
+NBER	NBER
+CEPR	CEPR
+
+# --- country / region phrasing ----------------------------------------
+Eastern Europe	Kelet-Európa
+Central and Eastern Europe	Közép- és Kelet-Európa
+post-communist	posztkommunista
+transition economy	átmeneti gazdaság
+
+# --- generic policy framings -------------------------------------------
+policymaker	döntéshozó
+policy implications	szakpolitikai következtetések
+policy relevance	szakpolitikai relevancia
+evidence-based	tényalapú
