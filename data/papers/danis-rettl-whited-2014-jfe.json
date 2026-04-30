@@ -9,28 +9,39 @@
   "publication_type": "article",
   "journal": "Journal of Financial Economics",
   "year": 2014,
-  "volume": null,
-  "issue": null,
-  "pages": null,
-  "doi": null,
+  "volume": "114",
+  "issue": "3",
+  "pages": "424-443",
+  "doi": "10.1016/j.jfineco.2014.07.010",
   "working_paper_series": null,
   "url_published": null,
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "We revisit the well-established puzzle that leverage is negatively correlated with measures of profitability. In contrast, we find that at times when firms are at or close to their optimal level of leverage, the cross-sectional correlation between profitability and leverage is positive. At other times, it is negative. These results are consistent with dynamic trade-off models in which infrequent capital structure rebalancing is optimal. The time series of market leverage and profitability in the quarters prior to rebalancing events match the patterns predicted by these models. Our results are not driven by investment layouts, market timing, payout, or mechanical mean reversion of leverage.",
+  "summary_en": "A puzzle in corporate finance: leverage is negatively correlated with profitability — directly contradicting trade-off theories of capital structure. Danis, Rettl and Whited resolve this. When firms are at or near their optimal leverage, profitability and leverage are POSITIVELY correlated. Only when firms are deviating from target (between rebalancing events) is the correlation negative. The pattern fits dynamic trade-off models with infrequent rebalancing — leverage drifts after profits accumulate, then snaps back at refinancing events. The result rescues trade-off theory from a longstanding empirical embarrassment.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Compustat US firm-level panel data covering several decades, with debt-rebalancing events identified from refinancing decisions; market leverage and profitability measures.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungarian corporate-finance research and macroprudential policy at MNB. The paper provides foundation for understanding Hungarian firm capital-structure choices: deviations from target leverage are normal between rebalancing windows. Useful framework for Hungarian SME credit-policy analysis at MNB and Pénzügyminisztérium.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "firms-productivity",
+    "macroeconomics"
+  ],
+  "methods": [
+    "panel-data",
+    "structural"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-25",
-  "last_reviewed_at": "2026-04-25",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-30",
+  "review_status": "ai-drafted",
   "openalex_id": null
 }

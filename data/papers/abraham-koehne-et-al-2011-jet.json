@@ -17,20 +17,26 @@
   "url_published": "https://doi.org/10.1016/j.jet.2011.03.002",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "We provide sufficient conditions for the validity of the first-order approach for two-period dynamic moral hazard problems where the agent can save and borrow secretly. The first-order approach is valid if the following conditions hold: (i) the agent has non-increasing absolute risk aversion utility (NIARA), (ii) the output technology has monotone likelihood ratios (MLR), and (iii) the distribution function of output is log-convex in effort (LCDF). Moreover, under these three conditions, the optimal contract is monotone in output. We also investigate a few possibilities of relaxing these requirements.",
+  "summary_en": "Principal-agent models with hidden borrowing/lending complicate optimal-contract analysis: standard first-order approach (FOA) techniques may fail when agents can save secretly. Ábrahám, Koehne and Pavoni provide tight sufficient conditions for FOA validity in two-period dynamic moral-hazard models: agents need non-increasing absolute risk aversion (NIARA), output must have monotone likelihood ratios (MLR), and the distribution function must be log-convex in effort (LCDF). Under these conditions, optimal contracts are monotone in output. The result restores tractability for a wide class of dynamic-contract problems with secret savings.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model — dynamic moral-hazard problem with hidden borrowing/lending. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Foundational result for analysing employment contracts, executive compensation, and government transfer programmes where agents can save in ways the principal cannot observe. Useful theoretical reference for Belügyminisztérium and Pénzügyminisztérium when modelling the welfare effects of UI, social-assistance, and pension programmes that interact with household saving.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "mechanism-design",
+    "labor-markets",
+    "macroeconomics"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-19",
-  "last_reviewed_at": "2026-04-19",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-30",
+  "review_status": "ai-drafted",
   "openalex_id": "W2085000766"
 }

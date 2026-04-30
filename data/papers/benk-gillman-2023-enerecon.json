@@ -16,20 +16,31 @@
   "url_published": "https://doi.org/10.1016/j.eneco.2023.106878",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "The paper adds money supply and inflation expectations shocks to a well-known three-variable structural model that identifies oil price shocks through fundamentals affecting the oil market. Impulse responses show the significance of our two additional monetary shocks in impacting real oil prices. By subtracting from the money supply the temporary Federal Reserve swaps that were used to increase liquidity during the 2008 and 2020 bank crises, shocks upwards in both the adjusted M1 money supply and to inflation expectations significantly increase real oil prices; with the unadjusted M1 aggregate there is no significant effect of money supply shocks on real oil prices. Decomposition of historical oil price shocks shows a significant role played by inflation expectations and the money supply shocks during major oil shock episodes. These shocks partially replace roles previously attributed to the precautionary oil demand shock and the aggregate demand shock during the three major oil shock periods of the 1970s-1980s, post-2008 and during the 2020-2021 pandemic. The results show that both real oil price shocks and expected inflation shocks cause real GDP to fall.",
+  "summary_en": "Building on their earlier oil-prices work, Benk and Gillman add inflation-expectations shocks alongside money-supply shocks to a standard structural oil-price model. Both new shocks meaningfully impact real oil prices — but only when money supply is properly adjusted by subtracting Fed crisis swaps from M1. The historical decomposition shows inflation-expectations and money-supply shocks played significant roles in the 1970s-1980s, post-2008, and 2020-2021 oil shock periods, partly replacing roles previously assigned to precautionary-demand and aggregate-demand shocks. Both real oil-price shocks and expected-inflation shocks cause real GDP to fall.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Monthly US data on oil prices, money aggregates, inflation expectations, and global oil-market fundamentals 1973-2023. Structural VAR with shock identification through theory-consistent restrictions.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungarian MNB monetary-policy decisions and Hungary's oil-import dependence make this directly relevant. The paper provides evidence that inflation-expectations management and money-supply discipline both transmit to global oil prices — useful framework for MNB inflation targeting in commodity-shock periods.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "macroeconomics",
+    "energy-environment"
+  ],
+  "methods": [
+    "time-series",
+    "structural"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-30",
+  "review_status": "ai-drafted",
   "openalex_id": "W4386574077"
 }

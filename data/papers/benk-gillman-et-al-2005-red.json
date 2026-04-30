@@ -17,20 +17,30 @@
   "url_published": "https://doi.org/10.1016/j.red.2005.01.012",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "The paper constructs credit shocks using data and the solution to a monetary business cycle model. The model extends the standard stochastic cash-in-advance economy by including the production of credit that serves as an alternative to money in exchange. Shocks to goods productivity, money, and credit productivity are constructed robustly using the solution to the model and quarterly US data on key variables. The contribution of the credit shock to US GDP movements is found, and this is interpreted in terms of changes in banking legislation during the US financial deregulation era. The results put forth the credit shock as a candidate shock that matters in determining GDP, including in the sense of Uhlig (2003).",
+  "summary_en": "What roles do credit-market shocks play in driving US GDP fluctuations? Benk, Gillman and Kejak extend a standard cash-in-advance monetary business-cycle model to include credit production as an alternative to money in exchange. They construct credit shocks alongside goods-productivity and money shocks using model solutions and US quarterly data. The credit shock contributes meaningfully to US GDP movements, and the magnitude lines up with timing of major banking deregulations. The paper establishes credit as a third pillar of business-cycle accounting alongside productivity and money.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Quarterly US data 1958-2003 on GDP, monetary aggregates, credit-market quantities, and prices, used to construct three structural shocks via DSGE model.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for MNB business-cycle accounting and Pénzügyminisztérium fiscal-cycle analysis. The paper argues credit shocks should be tracked separately from monetary and productivity shocks — useful framework for Hungarian short-term forecasting and for understanding the role of credit-market reforms in Hungarian growth volatility.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "macroeconomics"
+  ],
+  "methods": [
+    "structural",
+    "time-series"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-30",
+  "review_status": "ai-drafted",
   "openalex_id": "W1999573276"
 }

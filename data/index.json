@@ -4033,7 +4033,7 @@
       ],
       "publication_type": "article",
       "journal": "Journal of Economic Theory",
-      "year": 2009,
+      "year": 2010,
       "volume": "145",
       "issue": "3",
       "pages": "974-1004",
@@ -4042,21 +4042,30 @@
       "url_published": "https://doi.org/10.1016/j.jet.2009.10.006",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "This paper endogenizes the borrowing constraints on capital in a production economy with incomplete markets. We find that these limits get looser with income, a property that is consistent with US data on credit limits. The framework with endogenous limits is then used to study the effects of a revenue neutral tax reform that eliminates capital income taxes. Our results illustrate that it is very important to take into account the effects of tax policies on the limits. Throughout the transition, these effects can be big enough to change the overall conclusion about the desirability of a tax reform.",
+      "summary_en": "Standard incomplete-markets models impose ad-hoc borrowing constraints on capital, but where do these constraints actually come from? Ábrahám and Cárceles-Poveda endogenise them as the natural outcome of agents' incentive to default in a production economy. The endogenous limits get looser with income — matching US credit-card and mortgage-limit data. Using this framework to evaluate a revenue-neutral tax reform that eliminates capital income tax, they find the credit-limit response to taxation is so important that taking it into account can flip the welfare verdict on the reform. Standard analyses that hold credit limits fixed miss a major channel.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — incomplete-markets production economy with endogenous default-driven borrowing constraints. Calibration to US Survey of Consumer Finances on credit-limit-by-income patterns.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for Hungarian fiscal-policy modelling at MNB and Pénzügyminisztérium. The paper warns that tax-reform welfare assessments based on fixed credit-limits substantially mis-state the reform's effects. Useful framework for Hungarian capital-income-tax reform analysis (the 2011 flat-tax reform, ongoing investment-allowance discussions) when modelling household credit-access channels.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
+      "topics": [
+        "macroeconomics",
+        "fiscal-tax",
+        "banking-finance"
+      ],
+      "methods": [
+        "theory",
+        "structural"
+      ],
+      "countries_studied": [
+        "US"
+      ],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-19",
-      "last_reviewed_at": "2026-04-19",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-30",
+      "review_status": "ai-drafted",
       "openalex_id": "W2154875240"
     },
     {
@@ -4221,21 +4230,27 @@
       "url_published": "https://doi.org/10.1016/j.jet.2011.03.002",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "We provide sufficient conditions for the validity of the first-order approach for two-period dynamic moral hazard problems where the agent can save and borrow secretly. The first-order approach is valid if the following conditions hold: (i) the agent has non-increasing absolute risk aversion utility (NIARA), (ii) the output technology has monotone likelihood ratios (MLR), and (iii) the distribution function of output is log-convex in effort (LCDF). Moreover, under these three conditions, the optimal contract is monotone in output. We also investigate a few possibilities of relaxing these requirements.",
+      "summary_en": "Principal-agent models with hidden borrowing/lending complicate optimal-contract analysis: standard first-order approach (FOA) techniques may fail when agents can save secretly. Ábrahám, Koehne and Pavoni provide tight sufficient conditions for FOA validity in two-period dynamic moral-hazard models: agents need non-increasing absolute risk aversion (NIARA), output must have monotone likelihood ratios (MLR), and the distribution function must be log-convex in effort (LCDF). Under these conditions, optimal contracts are monotone in output. The result restores tractability for a wide class of dynamic-contract problems with secret savings.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — dynamic moral-hazard problem with hidden borrowing/lending. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Foundational result for analysing employment contracts, executive compensation, and government transfer programmes where agents can save in ways the principal cannot observe. Useful theoretical reference for Belügyminisztérium and Pénzügyminisztérium when modelling the welfare effects of UI, social-assistance, and pension programmes that interact with household saving.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "mechanism-design",
+        "labor-markets",
+        "macroeconomics"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-19",
-      "last_reviewed_at": "2026-04-19",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-30",
+      "review_status": "ai-drafted",
       "openalex_id": "W2085000766"
     },
     {
@@ -4444,21 +4459,28 @@
       "url_published": "https://doi.org/10.1016/j.red.2008.05.001",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "We propose a tractable recursive framework to study the optimal allocation of consumption and effort in a dynamic setting with moral hazard where agents have secret access to the credit market or to storage. The recursive structure is based on a generalized first order approach, whose validity must be verified ex-post. Thanks to the recursive formulation of the optimal contract, the verification procedure turns out to be numerically parsimonious as it can be performed using standard dynamic programming techniques with only one endogenous state variable: the agent's level of assets. We study the performance of our ex-post verification test in practice by solving numerically three representative infinite horizon examples.",
+      "summary_en": "How can policymakers and researchers solve dynamic-contract problems where agents have hidden access to credit markets or storage? Ábrahám and Pavoni propose a recursive computational framework based on a generalised first-order approach with ex-post verification. The recursive formulation reduces the problem to standard dynamic programming with just one endogenous state variable (the agent's asset level), making numerical solution tractable. They demonstrate the method on three representative infinite-horizon examples, providing a usable toolkit for applied work on dynamic principal-agent contracts with hidden savings.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model with three numerical infinite-horizon examples illustrating the recursive framework. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Methodological reference for Hungarian academic and policy analysts at KRTK and MNB working on optimal-contract problems where agent saving is unobservable. Relevant for designing UI, sickness benefit, and pension-system features that interact with hidden household saving — the recursive framework makes these analyses tractable.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "mechanism-design",
+        "macroeconomics",
+        "methods"
+      ],
+      "methods": [
+        "theory",
+        "structural"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-19",
-      "last_reviewed_at": "2026-04-19",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-30",
+      "review_status": "ai-drafted",
       "openalex_id": "W2113954153"
     },
     {
@@ -10606,30 +10628,41 @@
       ],
       "publication_type": "article",
       "journal": "Journal of International Money and Finance",
-      "year": 2019,
+      "year": 2020,
       "volume": "101",
       "issue": null,
-      "pages": "102100-102100",
+      "pages": "102100",
       "doi": "10.1016/j.jimonfin.2019.102100",
       "working_paper_series": null,
       "url_published": "https://doi.org/10.1016/j.jimonfin.2019.102100",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "Real oil prices surged from 2009 through 2014, comparable to the 1970's oil shock period. Standard explanations based on monopoly markup fall short since inflation remained low after 2009. This paper contributes strong evidence of Granger (1969) predictability of nominal factors to oil prices, using one adjustment to monetary aggregates. This adjustment is the subtraction from the monetary aggregates of the 2008-2009 Federal Reserve borrowing of reserves from other Central Banks (Swaps), made after US reserves turned negative. This adjustment is key in that Granger predictability from standard monetary aggregates is found only with the Swaps subtracted.",
+      "summary_en": "Did monetary expansion drive the 2009-2014 oil-price boom that rivaled the 1970s shocks? Standard markup-based explanations fall short because inflation stayed low. Benk and Gillman test for Granger predictability of oil prices from monetary aggregates, with one key adjustment: subtract the 2008-2009 Fed central-bank swaps (which inflated reported M1 without affecting domestic liquidity). With the swaps subtracted, money growth Granger-predicts real oil prices in a Markov-switching VAR — but standard unadjusted aggregates don't. Money-aggregate definitions that look correct on the surface obscure the actual transmission to commodity prices.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Monthly US data 1980-2018: WTI real oil prices, M1 monetary aggregate (with and without Fed central-bank swap adjustments), inflation. Markov-switching VAR estimation across multiple regimes.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for MNB and ECB monetary-policy frameworks. The paper warns that headline monetary aggregates can mislead transmission analysis when central banks use temporary international-swap arrangements during crises. Useful caveat for MNB's monetary-monitoring methodology and EU Forecast Convergence assessments during liquidity-rescue periods.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "macroeconomics",
+        "energy-environment"
+      ],
+      "methods": [
+        "time-series",
+        "structural"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-30",
+      "review_status": "ai-drafted",
       "openalex_id": "W2940074298"
     },
     {
@@ -10650,21 +10683,32 @@
       "url_published": "https://doi.org/10.1016/j.eneco.2023.106878",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "The paper adds money supply and inflation expectations shocks to a well-known three-variable structural model that identifies oil price shocks through fundamentals affecting the oil market. Impulse responses show the significance of our two additional monetary shocks in impacting real oil prices. By subtracting from the money supply the temporary Federal Reserve swaps that were used to increase liquidity during the 2008 and 2020 bank crises, shocks upwards in both the adjusted M1 money supply and to inflation expectations significantly increase real oil prices; with the unadjusted M1 aggregate there is no significant effect of money supply shocks on real oil prices. Decomposition of historical oil price shocks shows a significant role played by inflation expectations and the money supply shocks during major oil shock episodes. These shocks partially replace roles previously attributed to the precautionary oil demand shock and the aggregate demand shock during the three major oil shock periods of the 1970s-1980s, post-2008 and during the 2020-2021 pandemic. The results show that both real oil price shocks and expected inflation shocks cause real GDP to fall.",
+      "summary_en": "Building on their earlier oil-prices work, Benk and Gillman add inflation-expectations shocks alongside money-supply shocks to a standard structural oil-price model. Both new shocks meaningfully impact real oil prices — but only when money supply is properly adjusted by subtracting Fed crisis swaps from M1. The historical decomposition shows inflation-expectations and money-supply shocks played significant roles in the 1970s-1980s, post-2008, and 2020-2021 oil shock periods, partly replacing roles previously assigned to precautionary-demand and aggregate-demand shocks. Both real oil-price shocks and expected-inflation shocks cause real GDP to fall.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Monthly US data on oil prices, money aggregates, inflation expectations, and global oil-market fundamentals 1973-2023. Structural VAR with shock identification through theory-consistent restrictions.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungarian MNB monetary-policy decisions and Hungary's oil-import dependence make this directly relevant. The paper provides evidence that inflation-expectations management and money-supply discipline both transmit to global oil prices — useful framework for MNB inflation targeting in commodity-shock periods.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "macroeconomics",
+        "energy-environment"
+      ],
+      "methods": [
+        "time-series",
+        "structural"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-30",
+      "review_status": "ai-drafted",
       "openalex_id": "W4386574077"
     },
     {
@@ -10729,21 +10773,31 @@
       "url_published": "https://doi.org/10.1016/j.red.2005.01.012",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "The paper constructs credit shocks using data and the solution to a monetary business cycle model. The model extends the standard stochastic cash-in-advance economy by including the production of credit that serves as an alternative to money in exchange. Shocks to goods productivity, money, and credit productivity are constructed robustly using the solution to the model and quarterly US data on key variables. The contribution of the credit shock to US GDP movements is found, and this is interpreted in terms of changes in banking legislation during the US financial deregulation era. The results put forth the credit shock as a candidate shock that matters in determining GDP, including in the sense of Uhlig (2003).",
+      "summary_en": "What roles do credit-market shocks play in driving US GDP fluctuations? Benk, Gillman and Kejak extend a standard cash-in-advance monetary business-cycle model to include credit production as an alternative to money in exchange. They construct credit shocks alongside goods-productivity and money shocks using model solutions and US quarterly data. The credit shock contributes meaningfully to US GDP movements, and the magnitude lines up with timing of major banking deregulations. The paper establishes credit as a third pillar of business-cycle accounting alongside productivity and money.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Quarterly US data 1958-2003 on GDP, monetary aggregates, credit-market quantities, and prices, used to construct three structural shocks via DSGE model.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for MNB business-cycle accounting and Pénzügyminisztérium fiscal-cycle analysis. The paper argues credit shocks should be tracked separately from monetary and productivity shocks — useful framework for Hungarian short-term forecasting and for understanding the role of credit-market reforms in Hungarian growth volatility.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "macroeconomics"
+      ],
+      "methods": [
+        "structural",
+        "time-series"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-30",
+      "review_status": "ai-drafted",
       "openalex_id": "W1999573276"
     },
     {
@@ -10799,7 +10853,7 @@
       ],
       "publication_type": "article",
       "journal": "Journal of Economic Dynamics and Control",
-      "year": 2009,
+      "year": 2010,
       "volume": "34",
       "issue": "4",
       "pages": "765-779",
@@ -10808,21 +10862,31 @@
       "url_published": "https://doi.org/10.1016/j.jedc.2009.11.005",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "The paper shows that US GDP velocity of M1 money has exhibited long cycles around a 1.25% per year upward trend, during the 1919-2004 period. It explains the velocity cycles through shocks constructed from a DSGE model and annual time series data. Model velocity is stable along the balanced growth path, which features endogenous growth and decentralized banking that produces exchange credit. Positive shocks to credit productivity and money supply increase velocity, as money demand falls, while a positive goods productivity shock raises temporary output and velocity. The paper explains velocity volatility at both business cycle and long run frequencies, with results suggesting that money and credit shocks appear to be more important for velocity during less stable times (such as the 1930s and 1987 crashes, and around 2003) and goods productivity shocks more important during stable times.",
+      "summary_en": "US M1 velocity has trended upward at ~1.25% per year for nearly a century, with substantial cyclical fluctuations. Benk, Gillman and Kejak explain these long cycles via a DSGE model with endogenous growth and decentralised banking that produces exchange credit. Positive money-supply or credit-productivity shocks lower money demand and raise velocity; productivity shocks temporarily raise both output and velocity. Money and credit shocks dominate during unstable periods (1930s crash, 1987 crash, 2003), while productivity shocks matter most in stable periods. The model unifies short-run business-cycle and long-run trend explanations of velocity.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Annual US data 1919-2004 on GDP, M1, velocity, credit aggregates, and prices, used to construct shock decomposition via DSGE model.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungarian MNB monetary-policy framework treats velocity stability as a guiding assumption. The paper shows velocity has long cycles driven by credit-banking shocks alongside money shocks — useful for MNB's M-aggregate monitoring and for interpreting Hungarian velocity changes during the 2010-2020 banking-sector consolidation.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "macroeconomics"
+      ],
+      "methods": [
+        "structural",
+        "time-series"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-30",
+      "review_status": "ai-drafted",
       "openalex_id": "W2052924696"
     },
     {
@@ -14343,7 +14407,7 @@
     },
     {
       "id": "chava-danis-hsu-2020-jfe",
-      "title": "The Impact of Right-to-Work Laws on Worker Wages: Evidence from Collective Bargaining Agreements",
+      "title": "The economic impact of right-to-work laws: Evidence from collective bargaining agreements and corporate policies",
       "authors": [
         "Sudheer Chava",
         "danis-andras",
@@ -14352,29 +14416,41 @@
       "publication_type": "article",
       "journal": "Journal of Financial Economics",
       "year": 2020,
-      "volume": null,
-      "issue": null,
-      "pages": null,
-      "doi": null,
+      "volume": "137",
+      "issue": "2",
+      "pages": "451-469",
+      "doi": "10.1016/j.jfineco.2020.02.005",
       "working_paper_series": null,
       "url_published": null,
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "We analyze the economic and financial impact of right-to-work (RTW) laws in the US. Using data from collective bargaining agreements, we show that there is a decrease in wages for unionized workers after RTW laws. Firms increase investment and employment but reduce financial leverage. Labor-intensive firms experience higher profits and labor-to-asset ratios. Dividends and executive compensation also increase post-RTW. Our results are consistent with a canonical theory of the firm augmented with an exogenous bargaining power of labor and suggest that RTW laws impact corporate policies by decreasing that bargaining power.",
+      "summary_en": "When US states pass right-to-work (RTW) laws, what happens to wages and corporate behaviour? Chava, Danis and Hsu use data from collective-bargaining agreements and corporate filings to identify the causal impact of state-level RTW adoption. Unionised workers see wages decline. Firms respond by increasing investment and employment but reducing financial leverage. Labour-intensive firms see higher profits and labour-to-asset ratios. Dividends and executive compensation rise. The pattern fits a canonical firm-theory model where RTW reduces labour bargaining power, which in turn reshapes corporate financial decisions.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Approximately 19,500 US collective-bargaining agreements + Compustat firm financials, covering RTW-adopting and non-adopting states 1998-2016, with state-level RTW timing as the identification source.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungarian labour-policy debates around union bargaining and works-council reforms (e.g., the 2012 Labour Code overhaul) parallel the US RTW question. The paper provides causal evidence that reductions in union bargaining power produce broad corporate-financial responses, not just wage effects — useful framework for the Belügyminisztérium and KSH when assessing distributional impacts of labour-relations reforms.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "labor-markets",
+        "industrial-organization",
+        "banking-finance"
+      ],
+      "methods": [
+        "diff-in-diff",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "admin-firm",
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-25",
-      "last_reviewed_at": "2026-04-25",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-30",
+      "review_status": "ai-drafted",
       "openalex_id": null
     },
     {
@@ -16330,63 +16406,80 @@
       "publication_type": "article",
       "journal": "Management Science",
       "year": 2017,
-      "volume": null,
-      "issue": null,
-      "pages": null,
-      "doi": null,
+      "volume": "63",
+      "issue": "5",
+      "pages": "1285-1301",
+      "doi": "10.1287/mnsc.2015.2375",
       "working_paper_series": null,
       "url_published": null,
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "In this paper, I examine the effect of credit default swaps (CDSs) on the restructuring of distressed firms. Using a sample of U.S. distressed exchange offers during the period 2006–2011, I show that the participation rate among bondholders is significantly lower if the firm has CDSs traded on its debt. To address endogeneity concerns, I use the introduction of the Big Bang Protocol as a natural experiment. The results suggest that firms with CDSs find it difficult to reduce debt out of court. This is important because it can increase the likelihood of future bankruptcy, which is inefficient. The findings are consistent with the empty creditor hypothesis, which posits that bondholders who are hedged with CDSs are less likely to participate in a debt restructuring. The paper also contains direct evidence for the existence of empty creditors.",
+      "summary_en": "Credit default swaps (CDSs) are supposed to improve creditor protection — but they may also create 'empty creditors' who, hedged via CDS, have less incentive to renegotiate distressed firms' debt. Danis tests this empirically using a sample of US distressed exchange offers 2006-2011. Bondholder participation in restructuring is significantly lower when the firm has actively-traded CDSs. The Big Bang Protocol's introduction provides a natural experiment for identification. The result suggests CDS markets may push more firms into bankruptcy by impeding out-of-court debt reduction — direct empirical support for the empty-creditor hypothesis.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Sample of US distressed exchange offers 2006-2011 from Mergent FISD and Compustat, matched to CDS trading status from Markit; covers ~hundreds of restructuring events.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungarian financial-stability supervision at MNB and corporate-insolvency framework at the Igazságügyi Minisztérium. The paper shows CDS markets distort restructuring incentives — useful framework for designing Hungarian out-of-court restructuring procedures and for MNB supervisory monitoring of CDS exposures held by Hungarian banks.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "industrial-organization",
+        "mechanism-design"
+      ],
+      "methods": [
+        "panel-data",
+        "diff-in-diff"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-25",
-      "last_reviewed_at": "2026-04-25",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-30",
+      "review_status": "ai-drafted",
       "openalex_id": null
     },
     {
       "id": "danis-2020-frl-shareholder-monitoring",
-      "title": "Shareholder Monitoring with Strategic Investors",
+      "title": "Shareholder activism with strategic investors",
       "authors": [
         "danis-andras"
       ],
       "publication_type": "article",
       "journal": "Finance Research Letters",
       "year": 2020,
-      "volume": null,
+      "volume": "33",
       "issue": null,
-      "pages": null,
+      "pages": "101230",
       "doi": "10.1016/j.frl.2019.06.007",
       "working_paper_series": null,
       "url_published": "https://doi.org/10.1016/j.frl.2019.06.007",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "Admati et al. (1994, Journal of Political Economy) predict that activist shareholders sell most of their shares to passive investors, which destroys the activist's incentive to engage in value-enhancing monitoring. I extend their theoretical framework by assuming a finite number of passive investors instead of a continuum. In my model, passive investors take into account the effect of their own demand for shares on the activist's incentives. As a result, they buy fewer shares from him, which increases his monitoring intensity. This is important because empirically, we observe activist investors with large blocks of shares.",
+      "summary_en": "Admati et al. (1994) predicted that activist shareholders should sell most of their shares to passive investors, killing their monitoring incentive. Yet empirically, activists hold large blocks. Danis resolves the puzzle by relaxing one assumption: instead of a continuum of passive investors, assume a finite number. Then passive investors internalise how their demand affects the activist's incentives — and rationally buy fewer shares from him. The activist retains a larger block and monitors more intensively. The finite-investor framework explains observed activist behaviour without assuming irrationality.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — extension of Admati-Pfleiderer-Zechner (1994) framework with finite-investor market structure. No primary dataset.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Theoretical foundation for Hungarian corporate-governance policy at MNB and ÁKK when evaluating institutional-investor activism. The paper supports policies that maintain activist-investor blocks — relevant for Hungarian Competition Authority (GVH) when reviewing investor-coordination cases.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "banking-finance",
+        "mechanism-design",
+        "industrial-organization"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-25",
-      "last_reviewed_at": "2026-04-25",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-30",
+      "review_status": "ai-drafted",
       "openalex_id": null
     },
     {
@@ -16399,64 +16492,81 @@
       "publication_type": "article",
       "journal": "Journal of Financial Economics",
       "year": 2018,
-      "volume": null,
-      "issue": null,
-      "pages": null,
-      "doi": null,
+      "volume": "127",
+      "issue": "1",
+      "pages": "51-76",
+      "doi": "10.1016/j.jfineco.2017.10.005",
       "working_paper_series": null,
       "url_published": null,
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "We examine the effect of introducing credit default swaps (CDSs) on firm value. Our model allows for dynamic investment and financing, and bondholders can trade in the CDS market. The model incorporates both negative and positive effects of CDSs. CDS markets lead to more liquidations, but they also reduce the probability of costly debt renegotiation and reduce costly equity financing. After calibrating the model, we find that firm value increases by 2.9% on average with the introduction of a CDS market. Firms also invest more and increase leverage. The effect on firm value is strongest for small, financially constrained, and low productivity firms.",
+      "summary_en": "Does introducing a credit default swap (CDS) market for a firm's debt help or hurt firm value? Danis and Gamba build a dynamic structural model with investment, financing, and CDS trading. CDSs have offsetting effects: more liquidations (the empty-creditor problem) but also reduced costly debt renegotiation and equity financing. Calibration shows the net effect is positive — firm value rises by ~2.9% on average. Firms invest more and lever up more in CDS-traded markets. The benefit is strongest for small, financially-constrained, low-productivity firms — exactly those that benefit from improved access to credit.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Dynamic structural model calibrated to standard US firm-level data (Compustat) on investment, financing, and bond/CDS pricing, covering large-cap firms ~2000-2015.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungarian corporate-finance policy and MNB macroprudential framework. The paper shows CDS markets are net welfare-improving for Hungarian firm financing despite the empty-creditor concerns documented in Danis (2017). Useful framework for assessing Hungarian capital-market deepening and the role of credit derivatives in SME credit access.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "firms-productivity",
+        "industrial-organization"
+      ],
+      "methods": [
+        "structural",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-25",
-      "last_reviewed_at": "2026-04-25",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-30",
+      "review_status": "ai-drafted",
       "openalex_id": null
     },
     {
       "id": "danis-gamba-2023-ms",
-      "title": "Dark Knights: The Rise in Firm Intervention by CDS Investors",
+      "title": "Dark Knights: The Rise in Firm Intervention by Credit Default Swap Investors",
       "authors": [
         "danis-andras",
         "Andrea Gamba"
       ],
       "publication_type": "article",
       "journal": "Management Science",
-      "year": 2023,
-      "volume": null,
-      "issue": null,
-      "pages": null,
-      "doi": null,
+      "year": 2024,
+      "volume": "70",
+      "issue": "2",
+      "pages": "952-970",
+      "doi": "10.1287/mnsc.2023.4717",
       "working_paper_series": null,
       "url_published": null,
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "There have been several cases in recent years where credit default swap (CDS) buyers and sellers intervene in the restructuring of a distressed firm. We show theoretically that this can increase firm value. Intervention by CDS buyers solves the commitment problem between equity and debt holders but increases the probability of inefficient liquidation. Intervention by CDS sellers reduces the issue of excessive liquidation while keeping the benefits of CDS buyer intervention. Having both types of intervention decouples the commitment problem from the liquidation problem. Under certain assumptions, the so-called empty creditor problem can be solved, and firm value reaches first best.",
+      "summary_en": "When CDS buyers AND sellers both intervene in the restructuring of a distressed firm, can they jointly increase firm value? Danis and Gamba show theoretically that yes: CDS-buyer intervention solves the equity-debtholder commitment problem (good) but increases inefficient liquidations (bad); CDS-seller intervention offsets the liquidation problem while preserving the buyer's commitment benefit. Having both types decouples the two effects. Under certain assumptions, intervention by both CDS sides solves the empty-creditor problem and pushes firm value to first best.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Theoretical model — two-sided CDS intervention in distressed-firm restructuring. No primary dataset, but motivated by case studies of recent CDS investor interventions.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for Hungarian financial-stability supervision and bankruptcy-regime design. The paper provides a theoretical framework justifying allowing both CDS buyer and seller participation in restructuring proceedings — relevant for Igazságügyi Minisztérium and MNB when reviewing creditor-rights regulation.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "banking-finance",
+        "mechanism-design",
+        "industrial-organization"
+      ],
+      "methods": [
+        "theory"
+      ],
       "countries_studied": [],
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-25",
-      "last_reviewed_at": "2026-04-25",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-30",
+      "review_status": "ai-drafted",
       "openalex_id": null
     },
     {
@@ -16470,29 +16580,40 @@
       "publication_type": "article",
       "journal": "Journal of Financial Economics",
       "year": 2014,
-      "volume": null,
-      "issue": null,
-      "pages": null,
-      "doi": null,
+      "volume": "114",
+      "issue": "3",
+      "pages": "424-443",
+      "doi": "10.1016/j.jfineco.2014.07.010",
       "working_paper_series": null,
       "url_published": null,
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "We revisit the well-established puzzle that leverage is negatively correlated with measures of profitability. In contrast, we find that at times when firms are at or close to their optimal level of leverage, the cross-sectional correlation between profitability and leverage is positive. At other times, it is negative. These results are consistent with dynamic trade-off models in which infrequent capital structure rebalancing is optimal. The time series of market leverage and profitability in the quarters prior to rebalancing events match the patterns predicted by these models. Our results are not driven by investment layouts, market timing, payout, or mechanical mean reversion of leverage.",
+      "summary_en": "A puzzle in corporate finance: leverage is negatively correlated with profitability — directly contradicting trade-off theories of capital structure. Danis, Rettl and Whited resolve this. When firms are at or near their optimal leverage, profitability and leverage are POSITIVELY correlated. Only when firms are deviating from target (between rebalancing events) is the correlation negative. The pattern fits dynamic trade-off models with infrequent rebalancing — leverage drifts after profits accumulate, then snaps back at refinancing events. The result rescues trade-off theory from a longstanding empirical embarrassment.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Compustat US firm-level panel data covering several decades, with debt-rebalancing events identified from refinancing decisions; market leverage and profitability measures.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Hungarian corporate-finance research and macroprudential policy at MNB. The paper provides foundation for understanding Hungarian firm capital-structure choices: deviations from target leverage are normal between rebalancing windows. Useful framework for Hungarian SME credit-policy analysis at MNB and Pénzügyminisztérium.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
-      "countries_studied": [],
-      "data_types": [],
+      "topics": [
+        "banking-finance",
+        "firms-productivity",
+        "macroeconomics"
+      ],
+      "methods": [
+        "panel-data",
+        "structural"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "firm-level-dataset"
+      ],
       "featured": false,
       "added_at": "2026-04-25",
-      "last_reviewed_at": "2026-04-25",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-30",
+      "review_status": "ai-drafted",
       "openalex_id": null
     },
     {
@@ -21414,21 +21535,30 @@
       "url_published": "https://doi.org/10.1016/j.econmod.2025.107358",
       "url_pdf": null,
       "url_replication": null,
-      "abstract": null,
-      "summary_en": null,
+      "abstract": "The paper contributes new theory and econometric panel data estimation of output growth for twenty-one countries for annual data averaging almost four decades. Using the returns to human and physical capital that determine economic growth in the model, we specify the baseline econometric model with variables that most directly affect these returns. The inflation rate and the physical capital capacity utilization rate robustly result as the two main significant variables with opposite signs as expected from theory across a set of advanced panel econometric models using Mean Group and Common Correlated Effects. The theory-guided specification of the econometric model advances shows the importance of the return to capital in explaining economic growth. Using tax smoothing principles to interpret results implies that inflation surges detrimentally affect growth policies, so that more crisis financing of public debt by the private sector remains preferable but risks a tradeoff of lower capital utilization.",
+      "summary_en": "Standard cross-country growth regressions struggle to identify robust drivers of long-run growth. Gillman, Csabafi, Benk, Mátyás, Smith and Harris ground their econometric specification in a neoclassical-growth model with returns to human and physical capital. Across 21 countries over nearly four decades, two variables emerge as robustly significant with theory-consistent signs: inflation (negative) and physical-capital capacity utilisation (positive). Mean Group and Common Correlated Effects panel methods both confirm. Implication via tax-smoothing logic: inflation surges damage growth and so private-sector financing of public debt is preferable, but at the cost of lower capital utilisation.",
       "summary_hu": null,
-      "data_used": null,
+      "data_used": "Annual panel data on 21 advanced economies (likely OECD-21) covering ~1980-2020, with growth rates, inflation, capacity utilisation, taxes, and other macro fundamentals. Mean Group / Common Correlated Effects panel estimation.",
       "data_used_hu": null,
-      "policy_relevance": null,
+      "policy_relevance": "Direct relevance for MNB inflation targeting and Pénzügyminisztérium fiscal-policy framework. The paper provides cross-country evidence that inflation surges harm long-run growth and that capacity utilisation is a key transmission channel — useful framework for Hungarian growth-strategy analyses and for the Pénzügyminisztérium's debt-management trade-offs.",
       "policy_relevance_hu": null,
-      "topics": [],
-      "methods": [],
+      "topics": [
+        "macroeconomics",
+        "fiscal-tax",
+        "firms-productivity"
+      ],
+      "methods": [
+        "panel-data",
+        "structural"
+      ],
       "countries_studied": [],
-      "data_types": [],
+      "data_types": [
+        "macro-aggregate"
+      ],
       "featured": false,
       "added_at": "2026-04-23",
-      "last_reviewed_at": "2026-04-23",
-      "review_status": "metadata-fetched",
+      "last_reviewed_at": "2026-04-30",
+      "review_status": "ai-drafted",
       "openalex_id": "W4415393240"
     },
     {
@@ -41964,7 +42094,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 100
+      "paper_count": 102
     },
     {
       "id": "education-skills",
@@ -42019,7 +42149,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 132
+      "paper_count": 135
     },
     {
       "id": "innovation-digital",
@@ -42041,7 +42171,7 @@
       "policy_framing_en": "Relevant to: MNB policy, banking regulation, macroprudential tools, financial inclusion.",
       "policy_framing_hu": "Releváns: MNB-politika, bankszabályozás, makroprudenciális eszközök, pénzügyi befogadás.",
       "icon": "landmark",
-      "paper_count": 138
+      "paper_count": 149
     },
     {
       "id": "fiscal-tax",
@@ -42052,7 +42182,7 @@
       "policy_framing_en": "Relevant to: tax reform, budget planning, public debt management, compliance policy.",
       "policy_framing_hu": "Releváns: adóreform, költségvetés-tervezés, államadósság-kezelés, adócompliance.",
       "icon": "coins",
-      "paper_count": 64
+      "paper_count": 66
     },
     {
       "id": "regional-urban",
@@ -42074,7 +42204,7 @@
       "policy_framing_en": "Relevant to: energy transition, carbon pricing, renewable support, environmental standards.",
       "policy_framing_hu": "Releváns: energiaátmenet, szén-dioxid árazás, megújulók támogatása, környezeti szabványok.",
       "icon": "leaf",
-      "paper_count": 16
+      "paper_count": 18
     },
     {
       "id": "inequality-welfare",
@@ -42129,7 +42259,7 @@
       "policy_framing_en": "Relevant to: competition policy (GVH), merger review, platform regulation, auction design, sector-specific regulation.",
       "policy_framing_hu": "Releváns: versenypolitika (GVH), fúziókontroll, platformszabályozás, aukciótervezés, ágazati szabályozás.",
       "icon": "network",
-      "paper_count": 88
+      "paper_count": 93
     },
     {
       "id": "macroeconomics",
@@ -42140,7 +42270,7 @@
       "policy_framing_en": "Relevant to: long-run growth forecasting, macroeconomic modelling, sovereign-debt management, stabilisation policy design.",
       "policy_framing_hu": "Releváns: hosszú távú növekedés előrejelzés, makroökonómiai modellek, államadósság-kezelés, stabilizációs politika.",
       "icon": "line-chart",
-      "paper_count": 111
+      "paper_count": 120
     },
     {
       "id": "agriculture-food",
@@ -42162,7 +42292,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 170
+      "paper_count": 171
     },
     {
       "id": "market-design",
@@ -42184,7 +42314,7 @@
       "policy_framing_en": "Relevant to: regulatory design, procurement, voting reform, contract law, antitrust analysis, committee design.",
       "policy_framing_hu": "Releváns: szabályozási tervezés, közbeszerzés, választási reform, szerződésjog, versenypolitika, bizottsági tervezés.",
       "icon": "scale",
-      "paper_count": 68
+      "paper_count": 73
     }
   ],
   "journals": [

@@ -1,34 +1,40 @@
 {
   "id": "danis-2020-frl-shareholder-monitoring",
-  "title": "Shareholder Monitoring with Strategic Investors",
+  "title": "Shareholder activism with strategic investors",
   "authors": [
     "danis-andras"
   ],
   "publication_type": "article",
   "journal": "Finance Research Letters",
   "year": 2020,
-  "volume": null,
+  "volume": "33",
   "issue": null,
-  "pages": null,
+  "pages": "101230",
   "doi": "10.1016/j.frl.2019.06.007",
   "working_paper_series": null,
   "url_published": "https://doi.org/10.1016/j.frl.2019.06.007",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "Admati et al. (1994, Journal of Political Economy) predict that activist shareholders sell most of their shares to passive investors, which destroys the activist's incentive to engage in value-enhancing monitoring. I extend their theoretical framework by assuming a finite number of passive investors instead of a continuum. In my model, passive investors take into account the effect of their own demand for shares on the activist's incentives. As a result, they buy fewer shares from him, which increases his monitoring intensity. This is important because empirically, we observe activist investors with large blocks of shares.",
+  "summary_en": "Admati et al. (1994) predicted that activist shareholders should sell most of their shares to passive investors, killing their monitoring incentive. Yet empirically, activists hold large blocks. Danis resolves the puzzle by relaxing one assumption: instead of a continuum of passive investors, assume a finite number. Then passive investors internalise how their demand affects the activist's incentives — and rationally buy fewer shares from him. The activist retains a larger block and monitors more intensively. The finite-investor framework explains observed activist behaviour without assuming irrationality.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model — extension of Admati-Pfleiderer-Zechner (1994) framework with finite-investor market structure. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Theoretical foundation for Hungarian corporate-governance policy at MNB and ÁKK when evaluating institutional-investor activism. The paper supports policies that maintain activist-investor blocks — relevant for Hungarian Competition Authority (GVH) when reviewing investor-coordination cases.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "banking-finance",
+    "mechanism-design",
+    "industrial-organization"
+  ],
+  "methods": [
+    "theory"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-25",
-  "last_reviewed_at": "2026-04-25",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-30",
+  "review_status": "ai-drafted",
   "openalex_id": null
 }

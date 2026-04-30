@@ -16,20 +16,27 @@
   "url_published": "https://doi.org/10.1016/j.red.2008.05.001",
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "We propose a tractable recursive framework to study the optimal allocation of consumption and effort in a dynamic setting with moral hazard where agents have secret access to the credit market or to storage. The recursive structure is based on a generalized first order approach, whose validity must be verified ex-post. Thanks to the recursive formulation of the optimal contract, the verification procedure turns out to be numerically parsimonious as it can be performed using standard dynamic programming techniques with only one endogenous state variable: the agent's level of assets. We study the performance of our ex-post verification test in practice by solving numerically three representative infinite horizon examples.",
+  "summary_en": "How can policymakers and researchers solve dynamic-contract problems where agents have hidden access to credit markets or storage? Ábrahám and Pavoni propose a recursive computational framework based on a generalised first-order approach with ex-post verification. The recursive formulation reduces the problem to standard dynamic programming with just one endogenous state variable (the agent's asset level), making numerical solution tractable. They demonstrate the method on three representative infinite-horizon examples, providing a usable toolkit for applied work on dynamic principal-agent contracts with hidden savings.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical model with three numerical infinite-horizon examples illustrating the recursive framework. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Methodological reference for Hungarian academic and policy analysts at KRTK and MNB working on optimal-contract problems where agent saving is unobservable. Relevant for designing UI, sickness benefit, and pension-system features that interact with hidden household saving — the recursive framework makes these analyses tractable.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
+  "topics": [
+    "mechanism-design",
+    "macroeconomics",
+    "methods"
+  ],
+  "methods": [
+    "theory",
+    "structural"
+  ],
   "countries_studied": [],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-19",
-  "last_reviewed_at": "2026-04-19",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-30",
+  "review_status": "ai-drafted",
   "openalex_id": "W2113954153"
 }

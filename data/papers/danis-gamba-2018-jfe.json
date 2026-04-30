@@ -8,28 +8,39 @@
   "publication_type": "article",
   "journal": "Journal of Financial Economics",
   "year": 2018,
-  "volume": null,
-  "issue": null,
-  "pages": null,
-  "doi": null,
+  "volume": "127",
+  "issue": "1",
+  "pages": "51-76",
+  "doi": "10.1016/j.jfineco.2017.10.005",
   "working_paper_series": null,
   "url_published": null,
   "url_pdf": null,
   "url_replication": null,
-  "abstract": null,
-  "summary_en": null,
+  "abstract": "We examine the effect of introducing credit default swaps (CDSs) on firm value. Our model allows for dynamic investment and financing, and bondholders can trade in the CDS market. The model incorporates both negative and positive effects of CDSs. CDS markets lead to more liquidations, but they also reduce the probability of costly debt renegotiation and reduce costly equity financing. After calibrating the model, we find that firm value increases by 2.9% on average with the introduction of a CDS market. Firms also invest more and increase leverage. The effect on firm value is strongest for small, financially constrained, and low productivity firms.",
+  "summary_en": "Does introducing a credit default swap (CDS) market for a firm's debt help or hurt firm value? Danis and Gamba build a dynamic structural model with investment, financing, and CDS trading. CDSs have offsetting effects: more liquidations (the empty-creditor problem) but also reduced costly debt renegotiation and equity financing. Calibration shows the net effect is positive — firm value rises by ~2.9% on average. Firms invest more and lever up more in CDS-traded markets. The benefit is strongest for small, financially-constrained, low-productivity firms — exactly those that benefit from improved access to credit.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Dynamic structural model calibrated to standard US firm-level data (Compustat) on investment, financing, and bond/CDS pricing, covering large-cap firms ~2000-2015.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Hungarian corporate-finance policy and MNB macroprudential framework. The paper shows CDS markets are net welfare-improving for Hungarian firm financing despite the empty-creditor concerns documented in Danis (2017). Useful framework for assessing Hungarian capital-market deepening and the role of credit derivatives in SME credit access.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "banking-finance",
+    "firms-productivity",
+    "industrial-organization"
+  ],
+  "methods": [
+    "structural",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-25",
-  "last_reviewed_at": "2026-04-25",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-04-30",
+  "review_status": "ai-drafted",
   "openalex_id": null
 }
