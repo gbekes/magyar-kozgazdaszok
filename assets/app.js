@@ -61,6 +61,10 @@
   }
 
   function authorLink(data, id, lang) {
+    // Co-authors who don't have a profile in the catalogue are stored as
+    // free-text strings rather than slugs; render them as plain text so we
+    // don't ship dead links into 'Author not found' pages.
+    if (!data.authorsById[id]) return esc(id);
     const name = authorName(data, id, lang);
     const prefix = rootPrefix();
     return `<a href="${prefix}author.html?id=${encodeURIComponent(id)}">${esc(name)}</a>`;

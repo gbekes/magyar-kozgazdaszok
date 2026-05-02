@@ -77,8 +77,15 @@
     const data = await EFH.loadData();
     const root = document.getElementById('author-record-list');
     if (!root) return;
+    // Sort by surname (last whitespace-separated token of name_en), so the
+    // list reads "Adamecz, Békés, Berlinger…" rather than by first name.
+    function surname(a) {
+      const n = a.name_en || a.id;
+      const parts = n.trim().split(/\s+/);
+      return parts[parts.length - 1];
+    }
     const authors = (data.authors || []).slice().sort((a, b) =>
-      (a.name_en || a.id).localeCompare(b.name_en || b.id)
+      surname(a).localeCompare(surname(b), 'hu')
     );
     root.classList.remove('muted');
     root.innerHTML = authors.map(a =>
