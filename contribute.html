@@ -17,7 +17,9 @@
 
       <section class="block scope-block">
         <h2>If you're an author listed here</h2>
-        <p><strong>Email Gábor (<a href="mailto:bekesg@ceu.edu">bekesg@ceu.edu</a>) with whatever you want changed</strong>, in free form, in English or Hungarian, whichever is easier.</p>
+        <p><strong>The fast path:</strong> find your name in the list below, click it to download a single markdown file with everything we have on you (bio, affiliations, every paper, every policy item, every press piece). Edit it directly, and email it back to <a href="mailto:bekesg@ceu.edu">bekesg@ceu.edu</a>.</p>
+        <div id="author-record-list" class="author-record-list small muted">Loading list…</div>
+        <p style="margin-top:1rem;"><strong>Or in free form:</strong> email Gábor with whatever you want changed, in English or Hungarian, whichever is easier.</p>
         <p>Examples of things you can send:</p>
         <ul>
           <li>"Please replace my bio with this text: …"</li>
@@ -68,5 +70,27 @@
 
   <script src="assets/app.js"></script>
   <script src="assets/chrome.js"></script>
+  <script src="assets/export-author-md.js"></script>
+  <script>
+  (async function () {
+    const EFH = window.EFH;
+    const data = await EFH.loadData();
+    const root = document.getElementById('author-record-list');
+    if (!root) return;
+    const authors = (data.authors || []).slice().sort((a, b) =>
+      (a.name_en || a.id).localeCompare(b.name_en || b.id)
+    );
+    root.classList.remove('muted');
+    root.innerHTML = authors.map(a =>
+      `<a href="#" class="download-record" data-slug="${EFH.esc(a.id)}">${EFH.esc(a.name_en || a.id)}</a>`
+    ).join(' · ');
+    root.addEventListener('click', e => {
+      const link = e.target.closest('a.download-record');
+      if (!link) return;
+      e.preventDefault();
+      EFH.downloadAuthorMarkdown(data, link.dataset.slug, 'en');
+    });
+  })();
+  </script>
 </body>
 </html>

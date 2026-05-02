@@ -17,7 +17,9 @@
 
       <section class="block scope-block">
         <h2>Ha az itt szereplő tanulmányok szerzője vagy</h2>
-        <p><strong>Írj Békés Gábornak (<a href="mailto:bekesg@ceu.edu">bekesg@ceu.edu</a>), szabad szövegben, magyarul vagy angolul — amelyik kényelmesebb.</strong></p>
+        <p><strong>A gyors út:</strong> keresd meg a neved a lenti listában, és kattints rá — letöltődik egy markdown fájl mindennel, ami rólad szerepel (életrajz, affiliációk, minden cikk, minden szakpolitikai munka, minden sajtómegjelenés). Szerkeszd közvetlenül, és küldd vissza Békés Gábornak: <a href="mailto:bekesg@ceu.edu">bekesg@ceu.edu</a>.</p>
+        <div id="author-record-list" class="author-record-list small muted">Lista betöltése…</div>
+        <p style="margin-top:1rem;"><strong>Vagy szabad szövegben:</strong> írj Gábornak, amit változtatnál — magyarul vagy angolul, ahogy kényelmesebb.</p>
         <p>Amit küldhetsz, például:</p>
         <ul>
           <li>„Kérlek cseréld ki az életrajzomat erre a szövegre: …"</li>
@@ -68,5 +70,27 @@
 
   <script src="../assets/app.js"></script>
   <script src="../assets/chrome.js"></script>
+  <script src="../assets/export-author-md.js"></script>
+  <script>
+  (async function () {
+    const EFH = window.EFH;
+    const data = await EFH.loadData();
+    const root = document.getElementById('author-record-list');
+    if (!root) return;
+    const authors = (data.authors || []).slice().sort((a, b) =>
+      (a.name_hu || a.name_en || a.id).localeCompare(b.name_hu || b.name_en || b.id, 'hu')
+    );
+    root.classList.remove('muted');
+    root.innerHTML = authors.map(a =>
+      `<a href="#" class="download-record" data-slug="${EFH.esc(a.id)}">${EFH.esc(a.name_hu || a.name_en || a.id)}</a>`
+    ).join(' · ');
+    root.addEventListener('click', e => {
+      const link = e.target.closest('a.download-record');
+      if (!link) return;
+      e.preventDefault();
+      EFH.downloadAuthorMarkdown(data, link.dataset.slug, 'hu');
+    });
+  })();
+  </script>
 </body>
 </html>

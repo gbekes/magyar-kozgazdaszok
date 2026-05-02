@@ -20,6 +20,7 @@
 
   <script src="assets/app.js"></script>
   <script src="assets/chrome.js"></script>
+  <script src="assets/export-author-md.js"></script>
   <script>
   (async function () {
     const EFH = window.EFH;
@@ -99,7 +100,12 @@
           ${a.bio_en ? `<p class="bio">${EFH.esc(a.bio_en)}</p>` : ''}
           ${fields ? `<div style="margin-top:0.5rem;">${fields}</div>` : ''}
         </div>
-      </header>`;
+      </header>
+      <p class="author-self-action small">
+        Are you <strong>${EFH.esc(a.name_en)}</strong>?
+        <a href="#" class="download-record" data-slug="${EFH.esc(a.id)}">Download your record</a>
+        — a single editable file with everything we list. Edit and email back to bekesg@ceu.edu.
+      </p>`;
     root.innerHTML += `
 
       <div class="layout-filter">
@@ -143,6 +149,13 @@
         </section>
       </div>
     `;
+
+    document.querySelectorAll('a.download-record').forEach(el => {
+      el.addEventListener('click', e => {
+        e.preventDefault();
+        EFH.downloadAuthorMarkdown(data, el.dataset.slug, 'en');
+      });
+    });
   })();
   </script>
 </body>

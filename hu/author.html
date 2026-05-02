@@ -20,6 +20,7 @@
 
   <script src="../assets/app.js"></script>
   <script src="../assets/chrome.js"></script>
+  <script src="../assets/export-author-md.js"></script>
   <script>
   (async function () {
     const EFH = window.EFH;
@@ -105,6 +106,11 @@
         ${fields ? `<div style="margin-top:0.5rem;">${fields}</div>` : ''}
         </div>
       </header>
+      <p class="author-self-action small">
+        Te vagy <strong>${EFH.esc(displayName)}</strong>?
+        <a href="#" class="download-record" data-slug="${EFH.esc(a.id)}">Töltsd le az adatlapod</a>
+        — egy szerkeszthető fájl mindennel, ami rólad szerepel. Szerkeszd, és küldd vissza emailben Békés Gábornak (bekesg@ceu.edu).
+      </p>
 
       <div class="layout-filter">
         <aside class="filter-sidebar">
@@ -147,6 +153,13 @@
         </section>
       </div>
     `;
+
+    document.querySelectorAll('a.download-record').forEach(el => {
+      el.addEventListener('click', e => {
+        e.preventDefault();
+        EFH.downloadAuthorMarkdown(data, el.dataset.slug, 'hu');
+      });
+    });
   })();
   </script>
 </body>

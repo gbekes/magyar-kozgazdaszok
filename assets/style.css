@@ -308,6 +308,32 @@ section.block > h2 {
 .active-filters .chip:after { content: " ×"; opacity: 0.75; }
 .active-filters .chip:hover { background: var(--v-1); }
 
+/* "Are you X? Download your record" prompt on author pages */
+.author-self-action {
+  margin: 0.4rem 0 1rem;
+  padding: 0.6rem 0.8rem;
+  background: var(--bg-card);
+  border: 1px solid var(--rule);
+  border-left: 3px solid var(--v-3);
+  border-radius: 3px;
+  color: var(--ink-2);
+}
+.author-self-action a.download-record {
+  font-weight: 600;
+}
+
+/* Per-author download list on /contribute */
+.author-record-list {
+  line-height: 1.9;
+  padding: 0.6rem 0.8rem;
+  background: var(--bg-card);
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+}
+.author-record-list a {
+  white-space: nowrap;
+}
+
 /* ---------- paper detail ---------- */
 .paper-header {
   padding-bottom: 1rem; border-bottom: 1px solid var(--rule);
