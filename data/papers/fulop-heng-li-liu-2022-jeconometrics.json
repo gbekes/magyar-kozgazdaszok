@@ -13,9 +13,9 @@
   "volume": null,
   "issue": null,
   "pages": null,
-  "doi": null,
+  "doi": "10.1016/j.jeconom.2020.12.008",
   "working_paper_series": null,
-  "url_published": null,
+  "url_published": "https://doi.org/10.1016/j.jeconom.2020.12.008",
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We propose a likelihood-based Bayesian method that exploits up-to-date sequential Monte Carlo methods to efficiently estimate long-run risk models in which the conditional variance of consumption growth follows either an autoregressive (AR) process or an autoregressive gamma (ARG) process. We use the U.S. quarterly consumption and asset returns data from the postwar period to implement estimation. Our findings are: (1) informative priors on the preference parameters can help to improve model performance; (2) expected consumption growth has a very persistent component, whereas consumption volatility is less persistent; (3) while the ARG-based model performs better than the AR-based one statistically, the latter could fit asset returns better; and (4) the solution method matters more for estimation in the AR-based model than in the ARG-based model.",
@@ -42,7 +42,7 @@
   ],
   "featured": false,
   "added_at": "2026-04-28",
-  "last_reviewed_at": "2026-04-28",
+  "last_reviewed_at": "2026-05-02",
   "review_status": "ai-drafted",
   "openalex_id": null
 }

@@ -11,9 +11,9 @@
   "volume": null,
   "issue": null,
   "pages": null,
-  "doi": null,
+  "doi": "10.1016/j.jbankfin.2023.106951",
   "working_paper_series": null,
-  "url_published": null,
+  "url_published": "https://doi.org/10.1016/j.jbankfin.2023.106951",
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This paper revisits the discussion about the role that fundamentals play in asset prices using sovereign credit spread data. We augment the standard macroeconomic proxy set by text-based measures of country and global fundamentals from a database of Reuters news articles between 2007 and 2016. We use a novel methodology that matches fundamental topic expressions and directly links them to tonality and geography information within the text. Our approach resolves several problems of extant text mining methods. We verify that our news indices capture fundamental information within news articles and are uncorrelated with measures of liquidity and investor sentiment. These news indices explain a large part of sovereign credit spread changes not captured by traditional fundamental proxies and thus support a significantly larger role for fundamentals. This additional information derives primarily from omitted expectations and concerns about global fundamentals. We also show that a large part of the covariance between the VIX index and sovereign spreads is related to these global fundamentals.",
@@ -41,7 +41,7 @@
   ],
   "featured": false,
   "added_at": "2026-04-28",
-  "last_reviewed_at": "2026-04-28",
+  "last_reviewed_at": "2026-05-02",
   "review_status": "ai-drafted",
   "openalex_id": null
 }

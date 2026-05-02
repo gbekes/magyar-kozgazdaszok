@@ -11,9 +11,9 @@
   "volume": null,
   "issue": null,
   "pages": null,
-  "doi": null,
+  "doi": "10.1080/07350015.2014.940081",
   "working_paper_series": null,
-  "url_published": null,
+  "url_published": "https://doi.org/10.1080/07350015.2014.940081",
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We propose a density-tempered marginalized sequential Monte Carlo (SMC) sampler, a new class of samplers for full Bayesian inference of general state-space models. The dynamic states are approximately marginalized out using a particle filter, and the parameters are sampled via a sequential Monte Carlo sampler over a density-tempered bridge between the prior and the posterior. Our approach delivers exact draws from the joint posterior of the parameters and the latent states for any given number of state particles and is thus easily parallelizable in implementation. We also build into the proposed method a device that can automatically select a suitable number of state particles. Since the method incorporates sample information in a smooth fashion, it delivers good performance in the presence of outliers. We check the performance of the density-tempered SMC algorithm using simulated data based on a linear Gaussian state-space model with and without misspecification. We also apply it on real stock prices using a GARCH-type model with microstructure noise.",
@@ -37,7 +37,7 @@
   ],
   "featured": false,
   "added_at": "2026-04-28",
-  "last_reviewed_at": "2026-04-28",
+  "last_reviewed_at": "2026-05-02",
   "review_status": "ai-drafted",
   "openalex_id": null
 }

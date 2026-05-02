@@ -11,9 +11,9 @@
   "volume": null,
   "issue": null,
   "pages": null,
-  "doi": null,
+  "doi": "10.1016/j.jeconom.2008.12.003",
   "working_paper_series": null,
-  "url_published": null,
+  "url_published": "https://doi.org/10.1016/j.jeconom.2008.12.003",
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This paper extends the maximum likelihood estimation method for structural credit risk models developed by Duan (1994) to account for the fact that observed equity prices may have been contaminated by trading noises. The estimation method is implemented using a particle filtering algorithm. The method is applied to estimate the Merton (1974) structural credit risk model on the Dow Jones 30 firms and on 100 randomly selected firms. The results indicate that ignoring trading noises can lead to significantly over-estimating the firm's asset volatility. The estimated magnitude of trading noise is in line with the predictions of three standard liquidity proxies. A simulation study is also conducted to verify the performance of the proposed estimation method.",
@@ -39,7 +39,7 @@
   ],
   "featured": false,
   "added_at": "2026-04-28",
-  "last_reviewed_at": "2026-04-28",
+  "last_reviewed_at": "2026-05-02",
   "review_status": "ai-drafted",
   "openalex_id": null
 }

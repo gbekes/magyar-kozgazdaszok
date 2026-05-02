@@ -11,9 +11,9 @@
   "volume": null,
   "issue": null,
   "pages": null,
-  "doi": null,
+  "doi": "10.1016/j.jeconom.2013.05.002",
   "working_paper_series": null,
-  "url_published": null,
+  "url_published": "https://doi.org/10.1016/j.jeconom.2013.05.002",
   "url_pdf": null,
   "url_replication": null,
   "abstract": "In state–space models, parameter learning is practically difficult and is still an open issue. This paper proposes an efficient simulation-based parameter learning method. First, the approach breaks up the interdependence of the hidden states and the static parameters by marginalizing out the states using a particle filter. Second, it applies a Bayesian resample-move approach to this marginalized system. The methodology is generic and needs little design effort. Different from batch estimation methods, it provides posterior quantities necessary for full sequential inference and recursive model monitoring. The algorithm is implemented both on simulated data in a linear Gaussian model for illustration and comparison and on real data in a Lévy jump stochastic volatility model and a structural credit risk model.",
@@ -37,7 +37,7 @@
   ],
   "featured": false,
   "added_at": "2026-04-28",
-  "last_reviewed_at": "2026-04-28",
+  "last_reviewed_at": "2026-05-02",
   "review_status": "ai-drafted",
   "openalex_id": null
 }

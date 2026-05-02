@@ -11,9 +11,9 @@
   "volume": null,
   "issue": null,
   "pages": null,
-  "doi": null,
+  "doi": "10.1016/j.jeconom.2018.11.014",
   "working_paper_series": null,
-  "url_published": null,
+  "url_published": "https://doi.org/10.1016/j.jeconom.2018.11.014",
   "url_pdf": null,
   "url_replication": null,
   "abstract": "In dynamic asset pricing models, when the model structure becomes complex and derivatives data are introduced in estimation, traditional MCMC methods converge slowly, are difficult to design efficient proposals for parameters, and have large computational cost. We propose a two-stage sequential Monte Carlo sampler based on common random numbers and a smooth particle filter. This method is robust to potential model misspecification and can deliver almost full-likelihood-based inference at a much smaller computational cost. It is applied to estimate a class of volatility models that take into account price-volatility co-jumps, non-affineness, and self-excitation. An empirical study using S&P 500 index and variance swap rates shows that both non-affineness and self-excitation need to be introduced in modeling volatility dynamics.",
@@ -39,7 +39,7 @@
   ],
   "featured": false,
   "added_at": "2026-04-28",
-  "last_reviewed_at": "2026-04-28",
+  "last_reviewed_at": "2026-05-02",
   "review_status": "ai-drafted",
   "openalex_id": null
 }
