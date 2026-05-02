@@ -54,10 +54,15 @@ EN_PREFIXES = [
 EN_PREFIX_RE = re.compile(r"(?:(?<=[.!?])\s+|(?<=,\s))(" + "|".join(EN_PREFIXES) + r")", re.IGNORECASE)
 
 # Hungarian: prefix that introduces a list of journals.
+# Two main shapes:
+#   (a) "Munkái/Cikkei/Tanulmányai/... megjelentek (többek között) a X-ban, a Y-ban és a Z-ban."
+#   (b) "Munkáit/Cikkeit/Tanulmányait a X (és a Y) közölte/közölték."
 HU_PREFIXES = [
-    r"(?:Munkái|Munkája|Cikkei|Tanulmányai|Publikációi|Kutatásai|Cikkeit)\s+(?:megjelentek?|jelentek meg|közölte|közölték|olyan folyóiratokban jelentek meg,\s+mint)\s+",
+    r"(?:Munkái|Munkája|Cikkei|Tanulmányai|Publikációi|Kutatásai)\s+(?:megjelentek?|jelentek meg)(?:\s+(?:többek\s+között|főként|jellemzően))?\s+",
+    r"(?:Munkái|Munkája|Cikkei|Tanulmányai|Publikációi|Kutatásai|Tanulmányai)\s+olyan\s+folyóiratokban\s+jelentek\s+meg,\s+mint\s+",
+    r"(?:Munkáit|Cikkeit|Tanulmányait|Publikációit)\s+",
 ]
-HU_PREFIX_RE = re.compile(r"(?<=[.!?])\s+(" + "|".join(HU_PREFIXES) + r")", re.IGNORECASE)
+HU_PREFIX_RE = re.compile(r"(?:(?<=[.!?])\s+|(?<=,\s))(" + "|".join(HU_PREFIXES) + r")", re.IGNORECASE)
 
 
 def strip_known_sentence(bio, prefix_re):
