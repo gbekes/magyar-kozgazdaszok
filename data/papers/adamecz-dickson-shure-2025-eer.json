@@ -1,0 +1,52 @@
+{
+  "id": "adamecz-dickson-shure-2025-eer",
+  "title": "The labour market returns to graduation: reconciling administrative and survey data estimates",
+  "authors": [
+    "adamecz-anna",
+    "Matt Dickson",
+    "Nikki Shure"
+  ],
+  "publication_type": "article",
+  "journal": "Economics of Education Review",
+  "year": 2025,
+  "volume": "108",
+  "issue": null,
+  "pages": "102701",
+  "doi": "10.1016/j.econedurev.2025.102701",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1016/j.econedurev.2025.102701",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "How much does going to university actually pay off? The answer depends on which dataset you trust. Using English administrative tax records, the paper finds essentially no earnings return for male graduates and a positive one for women — but the administrative data only see annual earnings, not hours worked. Once survey hours are added in, the female hourly-wage gain shrinks, because graduate women work substantially more hours than non-graduate women. The result reconciles a long-standing gap between admin-based and survey-based returns-to-education estimates and warns against reading annual earnings as if it were a wage rate.",
+  "summary_hu": null,
+  "data_used": "English Longitudinal Education Outcomes (LEO) administrative tax-and-education linked records merged with hours information from the Annual Population Survey, covering individuals observed at age 26.",
+  "data_used_hu": null,
+  "policy_relevance": "Relevant for any ministry or agency that estimates the private return to a university degree from tax records (NAV, Diplomás Pályakövetés). Annual earnings overstate the hourly-wage premium for women because graduate women work more hours; this matters for student-loan repayment forecasting, fee-setting, and the case for expanding higher education on labour-market grounds. Also a methodological warning: admin and survey estimates can diverge sharply, and combining them is necessary for credible numbers.",
+  "policy_relevance_hu": null,
+  "topics": [
+    "education-skills",
+    "labor-markets",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "panel-data",
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "GB"
+  ],
+  "data_types": [
+    "admin-individual",
+    "survey"
+  ],
+  "featured": false,
+  "added_at": "2026-05-02",
+  "last_reviewed_at": "2026-05-02",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "tuition fees",
+    "student loans",
+    "higher education funding"
+  ]
+}

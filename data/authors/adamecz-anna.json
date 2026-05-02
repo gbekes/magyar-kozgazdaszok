@@ -4,6 +4,13 @@
   "name_hu": "Adamecz Anna",
   "affiliations": [
     {
+      "name": "University College London",
+      "name_hu": "University College London",
+      "role": "Associate Professor",
+      "role_hu": "egyetemi docens",
+      "start": null
+    },
+    {
       "name": "KRTK Institute of Economics",
       "name_hu": "KRTK Közgazdaság-tudományi Intézet",
       "role": "Senior Researcher",
@@ -11,14 +18,14 @@
       "start": null
     },
     {
-      "name": "University College London",
-      "name_hu": "University College London",
-      "role": "Lecturer",
-      "role_hu": "egyetemi docens",
+      "name": "IZA Institute of Labor Economics",
+      "name_hu": "IZA Institute of Labor Economics",
+      "role": "Research Fellow",
+      "role_hu": "kutató",
       "start": null
     }
   ],
-  "website": "https://iris.ucl.ac.uk/iris/browse/profile?upi=AADAM07",
+  "website": "https://sites.google.com/site/aadamecz/",
   "email": null,
   "repec_id": null,
   "scholar_id": "YF-zyP8AAAAJ",
@@ -28,18 +35,18 @@
     "labor-markets",
     "demographics-migration"
   ],
-  "bio_en": "Anna Adamecz is a researcher at UCL's Social Research Institute and KRTK. Her work focuses on the long-term effects of education reforms, early-life interventions, and gender gaps, drawing on Hungarian and UK microdata.",
-  "bio_hu": "Adamecz Anna kutató a UCL Social Research Institute-nál és a KRTK-nál. Munkája az oktatási reformok hosszú távú hatásaira, a kora gyermekkori beavatkozásokra és a nemek közötti egyenlőtlenségekre fókuszál, magyar és brit mikroadatokra támaszkodva.",
+  "bio_en": "Anna Adamecz is Associate Professor at University College London's Social Research Institute, Senior Researcher at KRTK, and Research Fellow at IZA. Her work focuses on the long-term effects of education reforms, early-life interventions, and gender gaps, drawing on Hungarian and UK microdata.",
+  "bio_hu": "Adamecz Anna a UCL Social Research Institute egyetemi docense, a KRTK Közgazdaság-tudományi Intézet vezető kutatója, valamint az IZA Institute of Labor Economics kutatója. Munkája az oktatási reformok hosszú távú hatásaira, a kora gyermekkori beavatkozásokra és a nemek közötti egyenlőtlenségekre fókuszál, magyar és brit mikroadatokra támaszkodva.",
   "photo_url": "https://kti.krtk.hu/wp-content/uploads/2025/06/Anna-Adamecz-Volgyi-m1.jpg",
   "qualifying_publication": {
     "title": "Revisiting the Dunning-Kruger effect: Composite measures and heterogeneity by gender",
     "journal": "Journal of Behavioral and Experimental Economics",
     "year": 2025
   },
-  "open_to_media_en": false,
-  "open_to_media_hu": false,
+  "open_to_media_en": true,
+  "open_to_media_hu": true,
   "media_note": null,
-  "review_status": "needs-verification",
+  "review_status": "verified",
   "openalex_id": "A5039472254",
-  "last_reviewed_at": "2026-04-27"
+  "last_reviewed_at": "2026-05-02"
 }
