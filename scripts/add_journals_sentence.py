@@ -34,6 +34,9 @@ def load_journals():
 
 def needs_sentence(author, journal_names):
     bio = author.get("bio_en") or ""
+    # Already-added template counts as "has it"
+    if "has published in journals like" in bio:
+        return False
     return not any(jn in bio for jn in journal_names)
 
 
