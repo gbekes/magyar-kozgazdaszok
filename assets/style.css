@@ -241,6 +241,12 @@ section.block > h2 {
 }
 @media (max-width: 800px) {
   .layout-filter { grid-template-columns: 1fr; }
+  /* On mobile the sticky full-height sidebar pushed papers off-screen;
+     drop sticky and cap height so the paper list is visible right below. */
+  .filter-sidebar {
+    position: static;
+    max-height: 14rem;
+  }
 }
 .filter-sidebar {
   position: sticky; top: 1rem; align-self: start;
