@@ -46,6 +46,13 @@
       "name_hu": "Adamecz Anna",
       "affiliations": [
         {
+          "name": "University College London",
+          "name_hu": "University College London",
+          "role": "Associate Professor",
+          "role_hu": "egyetemi docens",
+          "start": null
+        },
+        {
           "name": "KRTK Institute of Economics",
           "name_hu": "KRTK Közgazdaság-tudományi Intézet",
           "role": "Senior Researcher",
@@ -53,14 +60,14 @@
           "start": null
         },
         {
-          "name": "University College London",
-          "name_hu": "University College London",
-          "role": "Lecturer",
-          "role_hu": "egyetemi docens",
+          "name": "IZA Institute of Labor Economics",
+          "name_hu": "IZA Institute of Labor Economics",
+          "role": "Research Fellow",
+          "role_hu": "kutató",
           "start": null
         }
       ],
-      "website": "https://iris.ucl.ac.uk/iris/browse/profile?upi=AADAM07",
+      "website": "https://sites.google.com/site/aadamecz/",
       "email": null,
       "repec_id": null,
       "scholar_id": "YF-zyP8AAAAJ",
@@ -70,21 +77,21 @@
         "labor-markets",
         "demographics-migration"
       ],
-      "bio_en": "Anna Adamecz is a researcher at UCL's Social Research Institute and KRTK. Her work focuses on the long-term effects of education reforms, early-life interventions, and gender gaps, drawing on Hungarian and UK microdata.",
-      "bio_hu": "Adamecz Anna kutató a UCL Social Research Institute-nál és a KRTK-nál. Munkája az oktatási reformok hosszú távú hatásaira, a kora gyermekkori beavatkozásokra és a nemek közötti egyenlőtlenségekre fókuszál, magyar és brit mikroadatokra támaszkodva.",
+      "bio_en": "Anna Adamecz is Associate Professor at University College London's Social Research Institute, Senior Researcher at KRTK, and Research Fellow at IZA. Her work focuses on the long-term effects of education reforms, early-life interventions, and gender gaps, drawing on Hungarian and UK microdata.",
+      "bio_hu": "Adamecz Anna a UCL Social Research Institute egyetemi docense, a KRTK Közgazdaság-tudományi Intézet vezető kutatója, valamint az IZA Institute of Labor Economics kutatója. Munkája az oktatási reformok hosszú távú hatásaira, a kora gyermekkori beavatkozásokra és a nemek közötti egyenlőtlenségekre fókuszál, magyar és brit mikroadatokra támaszkodva.",
       "photo_url": "https://kti.krtk.hu/wp-content/uploads/2025/06/Anna-Adamecz-Volgyi-m1.jpg",
       "qualifying_publication": {
         "title": "Revisiting the Dunning-Kruger effect: Composite measures and heterogeneity by gender",
         "journal": "Journal of Behavioral and Experimental Economics",
         "year": 2025
       },
-      "open_to_media_en": false,
-      "open_to_media_hu": false,
+      "open_to_media_en": true,
+      "open_to_media_hu": true,
       "media_note": null,
-      "review_status": "needs-verification",
+      "review_status": "verified",
       "openalex_id": "A5039472254",
-      "last_reviewed_at": "2026-04-27",
-      "paper_count": 11,
+      "last_reviewed_at": "2026-05-02",
+      "paper_count": 13,
       "policy_count": 11,
       "press_count": 0
     },
@@ -3841,9 +3848,9 @@
       "volume": "176",
       "issue": null,
       "pages": null,
-      "doi": "10.1016/j.jdeveco.2025.103461",
+      "doi": "10.1016/j.jdeveco.2025.103482",
       "working_paper_series": null,
-      "url_published": "https://www.sciencedirect.com/science/article/pii/S0304387825000331",
+      "url_published": "https://doi.org/10.1016/j.jdeveco.2025.103482",
       "url_pdf": null,
       "url_replication": null,
       "abstract": null,
@@ -3859,7 +3866,7 @@
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-25",
-      "last_reviewed_at": "2026-04-25",
+      "last_reviewed_at": "2026-05-02",
       "review_status": "metadata-fetched",
       "openalex_id": null
     },
@@ -5594,6 +5601,109 @@
       "last_reviewed_at": "2026-04-26",
       "review_status": "ai-drafted",
       "openalex_id": "W4306866271"
+    },
+    {
+      "id": "adamecz-dickson-shure-2025-eer",
+      "title": "The labour market returns to graduation: reconciling administrative and survey data estimates",
+      "authors": [
+        "adamecz-anna",
+        "Matt Dickson",
+        "Nikki Shure"
+      ],
+      "publication_type": "article",
+      "journal": "Economics of Education Review",
+      "year": 2025,
+      "volume": "108",
+      "issue": null,
+      "pages": "102701",
+      "doi": "10.1016/j.econedurev.2025.102701",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1016/j.econedurev.2025.102701",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "How much does going to university actually pay off? The answer depends on which dataset you trust. Using English administrative tax records, the paper finds essentially no earnings return for male graduates and a positive one for women — but the administrative data only see annual earnings, not hours worked. Once survey hours are added in, the female hourly-wage gain shrinks, because graduate women work substantially more hours than non-graduate women. The result reconciles a long-standing gap between admin-based and survey-based returns-to-education estimates and warns against reading annual earnings as if it were a wage rate.",
+      "summary_hu": null,
+      "data_used": "English Longitudinal Education Outcomes (LEO) administrative tax-and-education linked records merged with hours information from the Annual Population Survey, covering individuals observed at age 26.",
+      "data_used_hu": null,
+      "policy_relevance": "Relevant for any ministry or agency that estimates the private return to a university degree from tax records (NAV, Diplomás Pályakövetés). Annual earnings overstate the hourly-wage premium for women because graduate women work more hours; this matters for student-loan repayment forecasting, fee-setting, and the case for expanding higher education on labour-market grounds. Also a methodological warning: admin and survey estimates can diverge sharply, and combining them is necessary for credible numbers.",
+      "policy_relevance_hu": null,
+      "topics": [
+        "education-skills",
+        "labor-markets",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "panel-data",
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "GB"
+      ],
+      "data_types": [
+        "admin-individual",
+        "survey"
+      ],
+      "featured": false,
+      "added_at": "2026-05-02",
+      "last_reviewed_at": "2026-05-02",
+      "review_status": "ai-drafted",
+      "policy_instruments": [
+        "tuition fees",
+        "student loans",
+        "higher education funding"
+      ]
+    },
+    {
+      "id": "adamecz-lovasz-vujic-2025-roeh",
+      "title": "Beyond the degree: Fertility outcomes of 'first in family' graduates",
+      "authors": [
+        "adamecz-anna",
+        "Anna Lovász",
+        "Sunčica Vujić"
+      ],
+      "publication_type": "article",
+      "journal": "Review of Economics of the Household",
+      "year": 2025,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": "10.1007/s11150-025-09788-z",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1007/s11150-025-09788-z",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "Why do graduate women have fewer children than non-graduates? Using the 1970 British Cohort Study, the paper compares three groups: 'first in family' graduates (the first in their household to attend university), graduates with university-educated parents, and women who never attended. The fertility gap is driven almost entirely by the first-in-family group, mostly through higher childlessness, and shows up only after age 35. Likely mechanisms are preferences over children, self-esteem, and exposure to working mothers in childhood — not labour-market outcomes or financial constraints. Intergenerational educational mobility, not the degree itself, is what shifts fertility.",
+      "summary_hu": null,
+      "data_used": "1970 British Cohort Study (BCS70) — a longitudinal survey of all individuals born in Britain in one week of April 1970, followed into adulthood, with detailed information on parental education, own education, and completed fertility.",
+      "data_used_hu": null,
+      "policy_relevance": "Important context for Hungarian fertility policy (Családtámogatási rendszer, KSH demographic strategy): part of the well-known graduate-fertility gap is not about the degree but about who climbs the educational ladder. Pro-natalist policies aimed at graduate women may underperform if the channel running through 'first in family' status — and the preferences and role-model exposures that come with it — is not addressed. UK evidence; Hungarian replication would strengthen the case, but the mechanism is general.",
+      "policy_relevance_hu": null,
+      "topics": [
+        "demographics-migration",
+        "education-skills",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "panel-data",
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "GB"
+      ],
+      "data_types": [
+        "survey"
+      ],
+      "featured": false,
+      "added_at": "2026-05-02",
+      "last_reviewed_at": "2026-05-02",
+      "review_status": "ai-drafted",
+      "policy_instruments": [
+        "fertility policy",
+        "family support",
+        "higher education access"
+      ]
     },
     {
       "id": "adamecz-scharle-2020-labec",
@@ -8080,9 +8190,9 @@
       "volume": "17",
       "issue": "3",
       "pages": "e0264268",
-      "doi": "10.1371/journal.pone.0264268",
+      "doi": "10.1371/journal.pone.0263599",
       "working_paper_series": null,
-      "url_published": "https://doi.org/10.1371/journal.pone.0264268",
+      "url_published": "https://doi.org/10.1371/journal.pone.0263599",
       "url_pdf": null,
       "url_replication": null,
       "abstract": null,
@@ -8098,7 +8208,7 @@
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-30",
-      "last_reviewed_at": "2026-04-30",
+      "last_reviewed_at": "2026-05-02",
       "review_status": "metadata-fetched",
       "openalex_id": null
     },
@@ -8513,15 +8623,15 @@
       ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-30",
+      "last_reviewed_at": "2026-05-02",
       "review_status": "ai-drafted",
       "policy_instruments": [],
       "working_paper_series": null,
       "pages": "853-876",
       "issue": "3",
       "volume": "71",
-      "doi": "10.1111/1477-9552.12377",
-      "url_published": null,
+      "doi": "10.1111/1477-9552.12374",
+      "url_published": "https://doi.org/10.1111/1477-9552.12374",
       "id": "barath-ferto-bojnec-2020-jae",
       "title": "The effect of investment, LFA and agri-environmental subsidies on productivity components",
       "authors": [
@@ -11626,9 +11736,9 @@
       "volume": "2016",
       "issue": "4",
       "pages": "47-60",
-      "doi": "10.18267/j.cebr.165",
+      "doi": "10.18267/j.cebr.166",
       "working_paper_series": null,
-      "url_published": "https://doi.org/10.18267/j.cebr.165",
+      "url_published": "https://doi.org/10.18267/j.cebr.166",
       "url_pdf": null,
       "url_replication": null,
       "abstract": null,
@@ -11644,7 +11754,7 @@
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-30",
-      "last_reviewed_at": "2026-04-30",
+      "last_reviewed_at": "2026-05-02",
       "review_status": "metadata-fetched",
       "openalex_id": null
     },
@@ -11813,9 +11923,9 @@
       "volume": "23",
       "issue": "3",
       "pages": "243-259",
-      "doi": "10.1057/s41283-021-00078-3",
+      "doi": "10.1057/s41283-021-00076-5",
       "working_paper_series": null,
-      "url_published": "https://doi.org/10.1057/s41283-021-00078-3",
+      "url_published": "https://doi.org/10.1057/s41283-021-00076-5",
       "url_pdf": null,
       "url_replication": null,
       "abstract": null,
@@ -12082,9 +12192,9 @@
       "volume": "85",
       "issue": "C",
       "pages": "1337-1356",
-      "doi": "10.1016/j.eap.2025.01.014",
+      "doi": "10.1016/j.eap.2025.01.013",
       "working_paper_series": null,
-      "url_published": "https://doi.org/10.1016/j.eap.2025.01.014",
+      "url_published": "https://doi.org/10.1016/j.eap.2025.01.013",
       "url_pdf": null,
       "url_replication": null,
       "abstract": null,
@@ -12100,7 +12210,7 @@
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-30",
-      "last_reviewed_at": "2026-04-30",
+      "last_reviewed_at": "2026-05-02",
       "review_status": "metadata-fetched",
       "openalex_id": null
     },
@@ -12238,9 +12348,9 @@
       "volume": "65",
       "issue": "s1",
       "pages": "123-147",
-      "doi": "10.1556/032.65.2015.s1.7",
+      "doi": "10.1556/032.65.2015.s1.8",
       "working_paper_series": null,
-      "url_published": "https://doi.org/10.1556/032.65.2015.s1.7",
+      "url_published": "https://doi.org/10.1556/032.65.2015.s1.8",
       "url_pdf": null,
       "url_replication": null,
       "abstract": null,
@@ -12256,7 +12366,7 @@
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-30",
-      "last_reviewed_at": "2026-04-30",
+      "last_reviewed_at": "2026-05-02",
       "review_status": "metadata-fetched",
       "openalex_id": null
     },
@@ -12273,9 +12383,9 @@
       "volume": "2016",
       "issue": "2",
       "pages": "37-46",
-      "doi": "10.18267/j.cebr.149",
+      "doi": "10.18267/j.cebr.150",
       "working_paper_series": null,
-      "url_published": "https://doi.org/10.18267/j.cebr.149",
+      "url_published": "https://doi.org/10.18267/j.cebr.150",
       "url_pdf": null,
       "url_replication": null,
       "abstract": null,
@@ -12291,7 +12401,7 @@
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-30",
-      "last_reviewed_at": "2026-04-30",
+      "last_reviewed_at": "2026-05-02",
       "review_status": "metadata-fetched",
       "openalex_id": null
     },
@@ -20820,15 +20930,15 @@
       ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-29",
+      "last_reviewed_at": "2026-05-02",
       "review_status": "ai-drafted",
       "policy_instruments": [],
       "working_paper_series": null,
       "pages": "95-98",
       "issue": "5",
       "volume": "106",
-      "doi": "10.1257/aer.p20161102",
-      "url_published": null,
+      "doi": "10.1257/aer.p20161023",
+      "url_published": "https://doi.org/10.1257/aer.p20161023",
       "id": "foster-grim-et-al-2016-aer",
       "title": "Firm-Level Dispersion in Productivity: Is the Devil in the Details?",
       "authors": [
@@ -21960,9 +22070,9 @@
       "volume": "177",
       "issue": null,
       "pages": "103526",
-      "doi": "10.1016/j.jdeveco.2025.103459",
+      "doi": "10.1016/j.jdeveco.2025.103526",
       "working_paper_series": null,
-      "url_published": "https://www.sciencedirect.com/science/article/pii/S030438782500077X",
+      "url_published": "https://doi.org/10.1016/j.jdeveco.2025.103526",
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This paper shows that corruption generates extremism, but mainly on the opposition side. While corruption hurts all citizens, only voters on the minority side may desire to switch to a more extreme representative when they perceive a more corrupt political system. In our model, campaigning on a corruption scandal against the incumbent gives a higher winning probability for the opposition politician but simultaneously reduces expected future rents from office. As extremist politicians normally are less likely to win against a moderate opponent, they have a stronger incentive to take a stand against corruption. Given that the side of the political minority has a lower chance of having their representative elected to office, they face a smaller opportunity cost of voting for extremists. Our main result is that minorities are more likely to react to corruption with more extremism. We provide causal evidence for this novel asymmetric prediction from Indonesia and Brazil.",
@@ -21991,7 +22101,7 @@
       ],
       "featured": false,
       "added_at": "2026-04-25",
-      "last_reviewed_at": "2026-04-30",
+      "last_reviewed_at": "2026-05-02",
       "review_status": "ai-drafted",
       "openalex_id": null
     },
@@ -26250,9 +26360,9 @@
       "volume": "108",
       "issue": "11",
       "pages": "3339-3376",
-      "doi": "10.1257/aer.20150237",
+      "doi": "10.1257/aer.20151730",
       "working_paper_series": null,
-      "url_published": "https://www.aeaweb.org/articles?id=10.1257/aer.20150237",
+      "url_published": "https://doi.org/10.1257/aer.20151730",
       "url_pdf": null,
       "url_replication": null,
       "abstract": "This paper uses a natural experiment to estimate the causal effect of temporary trade protection on long-term economic development. I find that regions in the French Empire which became better protected from trade with the British for exogenous reasons during the Napoleonic Wars (1803-1815) increased capacity in mechanized cotton spinning to a larger extent than regions which remained more exposed to trade. In the long run, regions with exogenously higher spinning capacity had higher activity in mechanized cotton spinning. They also had higher value added per capita in industry up to the second half of the nineteenth century, but not later.",
@@ -26280,7 +26390,7 @@
       ],
       "featured": true,
       "added_at": "2026-04-19",
-      "last_reviewed_at": "2026-04-29",
+      "last_reviewed_at": "2026-05-02",
       "review_status": "ai-drafted",
       "popular_links": [
         {
@@ -27879,15 +27989,15 @@
       ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-29",
+      "last_reviewed_at": "2026-05-02",
       "review_status": "ai-drafted",
       "policy_instruments": [],
       "working_paper_series": null,
       "pages": "94-106",
       "issue": null,
       "volume": "117",
-      "doi": "10.1016/j.jdeveco.2015.06.003",
-      "url_published": "https://doi.org/10.1016/j.jdeveco.2015.06.003",
+      "doi": "10.1016/j.jdeveco.2015.07.005",
+      "url_published": "https://doi.org/10.1016/j.jdeveco.2015.07.005",
       "id": "kis-katos-sparrow-2015-jde",
       "title": "Poverty, labour markets and trade liberalization in Indonesia",
       "authors": [
@@ -31024,7 +31134,7 @@
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-29",
+      "last_reviewed_at": "2026-05-02",
       "review_status": "ai-drafted",
       "policy_instruments": [],
       "working_paper_series": null,
@@ -31039,8 +31149,8 @@
       "journal": "Journal of Economic Dynamics and Control",
       "year": 2014,
       "volume": "46",
-      "doi": "10.1016/j.jedc.2014.07.003",
-      "url_published": "https://doi.org/10.1016/j.jedc.2014.07.003"
+      "doi": "10.1016/j.jedc.2014.06.013",
+      "url_published": "https://doi.org/10.1016/j.jedc.2014.06.013"
     },
     {
       "url_pdf": null,
@@ -31098,7 +31208,7 @@
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-29",
+      "last_reviewed_at": "2026-05-02",
       "review_status": "ai-drafted",
       "policy_instruments": [],
       "working_paper_series": null,
@@ -31114,8 +31224,8 @@
       "journal": "Journal of Monetary Economics",
       "year": 2020,
       "volume": "114",
-      "doi": "10.1016/j.jmoneco.2019.07.005",
-      "url_published": "https://doi.org/10.1016/j.jmoneco.2019.07.005"
+      "doi": "10.1016/j.jmoneco.2019.03.005",
+      "url_published": "https://doi.org/10.1016/j.jmoneco.2019.03.005"
     },
     {
       "id": "lafuente-acs-et-al-2019-sbe",
@@ -32797,9 +32907,9 @@
       "volume": "37",
       "issue": "1",
       "pages": "55-78",
-      "doi": "10.1057/s41287-024-00665-6",
+      "doi": "10.1057/s41287-024-00656-7",
       "working_paper_series": null,
-      "url_published": "https://doi.org/10.1057/s41287-024-00665-6",
+      "url_published": "https://doi.org/10.1057/s41287-024-00656-7",
       "url_pdf": null,
       "url_replication": null,
       "abstract": null,
@@ -32815,7 +32925,7 @@
       "data_types": [],
       "featured": false,
       "added_at": "2026-04-30",
-      "last_reviewed_at": "2026-04-30",
+      "last_reviewed_at": "2026-05-02",
       "review_status": "metadata-fetched",
       "openalex_id": null
     },
@@ -33488,9 +33598,9 @@
       "volume": "115",
       "issue": "C",
       "pages": "339-353",
-      "doi": "10.1016/j.jmoneco.2019.09.005",
+      "doi": "10.1016/j.jmoneco.2019.08.006",
       "working_paper_series": null,
-      "url_published": "https://doi.org/10.1016/j.jmoneco.2019.09.005",
+      "url_published": "https://doi.org/10.1016/j.jmoneco.2019.08.006",
       "url_pdf": null,
       "url_replication": null,
       "abstract": "The main advantage of price level stabilization compared with inflation stabilization rests on the central bank's ability to shape expectations. We show that stabilizing prices is no longer optimal when the central bank can shape expectations of agents with incomplete knowledge, who have to learn about the policy implemented. Disinflating in the short run more than agents expect generates short-term gains without triggering an abrupt loss of confidence, because agents update expectations sluggishly. Following this policy, in the long run, the central bank loses the ability to shape agents' beliefs, and the economy converges to a rational expectations equilibrium in which policy does not stabilize prices, economic volatility is high, and agents suffer the corresponding welfare losses. However, these losses are outweighed by short-term gains from the learning phase.",
@@ -33514,7 +33624,7 @@
       ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-29",
+      "last_reviewed_at": "2026-05-02",
       "review_status": "ai-drafted",
       "openalex_id": null
     },
@@ -33665,9 +33775,9 @@
       "volume": "66",
       "issue": "C",
       "pages": "39-62",
-      "doi": "10.1016/j.euroecorev.2013.11.012",
+      "doi": "10.1016/j.euroecorev.2013.08.012",
       "working_paper_series": null,
-      "url_published": "https://doi.org/10.1016/j.euroecorev.2013.11.012",
+      "url_published": "https://doi.org/10.1016/j.euroecorev.2013.08.012",
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We derive optimal monetary policy in a sticky price model when private agents follow adaptive learning. We show that this slight departure from rationality has important implications for policy design. The central bank faces a new intertemporal trade-off, not present under rational expectations: it is optimal to forego stabilizing the economy in the present in order to facilitate private sector learning and thus ease the future intratemporal inflation-output gap trade-offs. The policy recommendation is robust: the welfare loss entailed by optimal policy under learning if the private sector actually has rational expectations is much smaller than if the central bank mistakenly assumes rational expectations when in fact agents are learning.",
@@ -33691,7 +33801,7 @@
       ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-29",
+      "last_reviewed_at": "2026-05-02",
       "review_status": "ai-drafted",
       "openalex_id": null
     },
@@ -34346,9 +34456,9 @@
       "volume": "47",
       "issue": "4",
       "pages": "673-699",
-      "doi": "10.1111/jmcb.12219",
+      "doi": "10.1111/jmcb.12224",
       "working_paper_series": null,
-      "url_published": "https://doi.org/10.1111/jmcb.12219",
+      "url_published": "https://doi.org/10.1111/jmcb.12224",
       "url_pdf": null,
       "url_replication": null,
       "abstract": "Does survey data contain useful information for estimating macroeconomic models? We address this question by using survey data of inflation expectations to estimate the New Keynesian model by Smets and Wouters and compare its performance under rational expectations and adaptive learning. The survey information serves as an additional moment restriction and helps us to determine the learning agents' forecasting model for inflation. Adaptive learning fares similarly to rational expectations in fitting macro data, but clearly outperforms rational expectations in fitting macro and survey data simultaneously. In other words, survey data contain additional information that is not present in the macro data alone.",
@@ -34376,7 +34486,7 @@
       ],
       "featured": false,
       "added_at": "2026-04-27",
-      "last_reviewed_at": "2026-04-29",
+      "last_reviewed_at": "2026-05-02",
       "review_status": "ai-drafted",
       "openalex_id": null
     },
@@ -42975,7 +43085,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 108
+      "paper_count": 109
     },
     {
       "id": "education-skills",
@@ -42986,7 +43096,7 @@
       "policy_framing_en": "Relevant to: curriculum design, teacher policy, school tracking age, higher education funding, vocational training.",
       "policy_framing_hu": "Releváns: tantervfejlesztés, tanárpolitika, iskolai szelekció életkora, felsőoktatás finanszírozása, szakképzés.",
       "icon": "graduation-cap",
-      "paper_count": 56
+      "paper_count": 58
     },
     {
       "id": "health",
@@ -43008,7 +43118,7 @@
       "policy_framing_en": "Relevant to: family policy, pension system, immigration policy, retention of skilled workers.",
       "policy_framing_hu": "Releváns: családpolitika, nyugdíjrendszer, bevándorláspolitika, szakemberek megtartása.",
       "icon": "users",
-      "paper_count": 47
+      "paper_count": 48
     },
     {
       "id": "trade-fdi",
@@ -43096,7 +43206,7 @@
       "policy_framing_en": "Relevant to: welfare system, anti-poverty programs, family allowances, gender-equal pay policies.",
       "policy_framing_hu": "Releváns: szociális rendszer, szegénység elleni programok, családi pótlékok, egyenlő bérezés.",
       "icon": "scale",
-      "paper_count": 106
+      "paper_count": 108
     },
     {
       "id": "political-economy",
@@ -44528,7 +44638,7 @@
   ],
   "counts": {
     "authors": 90,
-    "papers": 785,
+    "papers": 787,
     "policy": 46,
     "press": 133,
     "topics": 21
