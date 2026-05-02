@@ -49,10 +49,9 @@ Docs:
 
 ## Adding an author
 
-1. Either add an entry to `authors-seed.json` and run `python build.py` (which
-   creates `data/authors/<slug>.json` for any new seed entries), or create the
-   file directly.
-2. `python build.py`
+1. Create `data/authors/<slug>.json` (schema in `SPEC.md` § 2.2).
+2. Add the slug to `authors-seed.json` (a flat manifest of approved IDs).
+3. `python build.py`
 
 ## Ingesting at scale
 

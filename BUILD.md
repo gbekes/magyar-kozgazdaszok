@@ -23,9 +23,8 @@ Open <http://localhost:8080/>. The Hungarian mirror is at <http://localhost:8080
 ## Add an author
 
 1. Create `data/authors/<slug>.json` (schema in `SPEC.md` § 2.2).
-2. Run `python build.py`.
-
-`build.py` also expands any new entries in `authors-seed.json` into per-author files, skipping existing ones.
+2. Add the slug to `authors-seed.json` (a flat manifest of approved IDs).
+3. Run `python build.py`. It will warn if any seed ID has no per-author file.
 
 ## Deploy
 

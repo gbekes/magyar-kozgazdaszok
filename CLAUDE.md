@@ -98,8 +98,10 @@ Full rules in `submissions/README.md`.
   RePEc WP series by hand. Published articles in peer-reviewed econ/
   finance journals are kept regardless of year.
 
-- **`build.py`** also expands `authors-seed.json` into per-author JSONs
-  (only creates files that don't exist — doesn't overwrite).
+- **`authors-seed.json`** is a flat manifest of approved author IDs only —
+  the per-author file at `data/authors/<id>.json` is the single source of
+  truth for everything else. `build.py` warns if any manifest ID is missing
+  a per-author file.
 
 ## Handover rule — context-window management
 

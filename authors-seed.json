@@ -1,1062 +1,272 @@
 [
   {
-    "id": "kondor-peter",
-    "name_en": "Péter Kondor",
-    "name_hu": "Kondor Péter",
-    "primary_affiliation": "London School of Economics",
-    "primary_fields": [
-      "banking-finance"
-    ],
-    "bio_en": "Péter Kondor is Professor of Finance at the London School of Economics. His research develops theoretical models of financial markets under frictions — liquidity, information asymmetries, and contracting imperfections — with applications to trading, asset pricing, and sovereign debt. He has published in the Journal of Finance and the Review of Financial Studies, and is a CEPR research fellow.",
-    "bio_review": "confident"
-  },
-  {
-    "id": "koszegi-botond",
-    "name_en": "Botond Kőszegi",
-    "name_hu": "Kőszegi Botond",
-    "primary_affiliation": "University of Bonn (previously CEU, UC Berkeley)",
-    "primary_fields": [
-      "methods",
-      "inequality-welfare"
-    ],
-    "bio_en": "Botond Kőszegi is a behavioral economist. With Matthew Rabin, he developed a widely used framework of reference-dependent preferences that has become a standard tool in modern behavioral economics, with applications to consumer choice, labor supply, and public policy. His work appears regularly in the Quarterly Journal of Economics, the American Economic Review, and Econometrica.",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "szeidl-adam",
-    "name_en": "Ádám Szeidl",
-    "name_hu": "Szeidl Ádám",
-    "primary_affiliation": "Central European University",
-    "primary_fields": [
-      "innovation-digital",
-      "firms-productivity",
-      "methods"
-    ],
-    "bio_en": "Ádám Szeidl is Professor of Economics at Central European University. His research spans social networks, firm management and productivity, and the economics of financial decision-making. He has published in the Quarterly Journal of Economics, American Economic Review, and Econometrica, and has led field experiments with Indian and Mexican firms on the adoption of management practices.",
-    "bio_review": "confident"
-  },
-  {
-    "id": "szentes-balazs",
-    "name_en": "Balázs Szentes",
-    "name_hu": "Szentes Balázs",
-    "primary_affiliation": "London School of Economics",
-    "primary_fields": [
-      "methods"
-    ],
-    "bio_en": "Balázs Szentes is Professor of Economics at the London School of Economics. He works on microeconomic theory, including auctions, mechanism design, and game theory. His research has appeared in Econometrica, the Review of Economic Studies, and the Journal of Economic Theory.",
-    "bio_review": "confident"
-  },
-  {
-    "id": "koren-miklos",
-    "name_en": "Miklós Koren",
-    "name_hu": "Koren Miklós",
-    "primary_affiliation": "Central European University & KRTK",
-    "primary_fields": [
-      "trade-fdi",
-      "firms-productivity",
-      "innovation-digital"
-    ],
-    "bio_en": "Miklós Koren is Professor of Economics at Central European University and Senior Research Fellow at KRTK. He studies how firms organize production across borders, import relationships, and more recently the economics of open source software and AI. His work has appeared in the Quarterly Journal of Economics and the Review of Economic Studies.",
-    "bio_review": "confident"
-  },
-  {
-    "id": "bekes-gabor",
-    "name_en": "Gábor Békés",
-    "name_hu": "Békés Gábor",
-    "primary_affiliation": "Central European University & KRTK",
-    "primary_fields": [
-      "trade-fdi",
-      "firms-productivity",
-      "innovation-digital"
-    ],
-    "bio_en": "Gábor Békés is Associate Professor at Central European University, Senior Research Fellow at KRTK, and CEPR fellow. He studies how firms interact with the global economy — trade, foreign direct investment, multinational networks — and, more recently, the economics of AI and open source software development. He is co-author of the textbook Data Analysis for Business, Economics, and Policy (Cambridge University Press).",
-    "bio_review": "confident"
-  },
-  {
-    "id": "halpern-laszlo",
-    "name_en": "László Halpern",
-    "name_hu": "Halpern László",
-    "primary_affiliation": "KRTK Institute of Economics",
-    "primary_fields": [
-      "trade-fdi",
-      "firms-productivity"
-    ],
-    "bio_en": "László Halpern is a senior researcher at KRTK Institute of Economics. His work focuses on international trade, firm productivity, and the role of imported inputs in economic development. He is best known for his AER article showing that a large share of the productivity gains of Hungarian firms after 1992 can be attributed to access to imported intermediates.",
-    "bio_review": "confident"
-  },
-  {
-    "id": "lieli-robert",
-    "name_en": "Róbert Lieli",
-    "name_hu": "Lieli Róbert",
-    "primary_affiliation": "Central European University",
-    "primary_fields": [
-      "methods"
-    ],
-    "bio_en": "Róbert Lieli is Professor of Economics at Central European University. His research focuses on econometric theory and its applications to forecasting, treatment effect estimation, and policy evaluation. He has published in the Journal of Econometrics and the Journal of Business and Economic Statistics.",
-    "bio_review": "confident"
-  },
-  {
-    "id": "kornai-janos",
-    "name_en": "János Kornai",
-    "name_hu": "Kornai János",
-    "primary_affiliation": "Harvard University & Corvinus University of Budapest (1928–2021)",
-    "primary_fields": [
-      "transition-postcommunist",
-      "political-economy"
-    ],
-    "bio_en": "János Kornai (1928–2021) was one of the twentieth century's most influential economists of socialist and post-socialist economies. His concepts of the 'soft budget constraint' and the 'shortage economy' shaped how economists analyze planned and transition economies worldwide. Professor at Harvard and Corvinus, he published foundational books including Economics of Shortage and The Socialist System, and remained a public intellectual in Hungary until his death.",
-    "bio_review": "confident"
-  },
-  {
-    "id": "ambrus-attila",
-    "name_en": "Attila Ambrus",
-    "name_hu": "Ambrus Attila",
-    "primary_affiliation": "Duke University",
-    "primary_fields": [
-      "methods"
-    ],
-    "bio_en": "Attila Ambrus is Professor of Economics at Duke University. His research combines game theory, behavioral economics, and applied microeconomics, with papers on coalitional bargaining, social networks, and risk-sharing. He has published in the American Economic Review, Econometrica, and the Review of Economic Studies.",
-    "bio_review": "confident"
-  },
-  {
-    "id": "kezdi-gabor",
-    "name_en": "Gábor Kézdi",
-    "name_hu": "Kézdi Gábor",
-    "primary_affiliation": "University of Michigan",
-    "primary_fields": [
-      "labor-markets",
-      "education-skills",
-      "health",
-      "demographics-migration"
-    ],
-    "bio_en": "Gábor Kézdi is Research Professor at the University of Michigan's Institute for Social Research, where he works on the Health and Retirement Study. Previously at CEU, his research spans labor economics, health and ageing, education, and the economics of the Roma minority. He is co-author of the textbook Data Analysis for Business, Economics, and Policy (Cambridge University Press).",
-    "bio_review": "confident"
-  },
-  {
-    "id": "benczur-peter",
-    "name_en": "Péter Benczúr",
-    "name_hu": "Benczúr Péter",
-    "primary_affiliation": "European Commission Joint Research Centre",
-    "primary_fields": [
-      "fiscal-tax",
-      "inequality-welfare"
-    ],
-    "bio_en": "Péter Benczúr is Senior Research Fellow at the European Commission's Joint Research Centre in Ispra. His research examines tax policy, inequality, and sustainable well-being measurement. Previously at the Hungarian National Bank (MNB) research department, he has published in the Journal of the European Economic Association.",
-    "bio_review": "confident"
-  },
-  {
-    "id": "konya-istvan",
-    "name_en": "István Kónya",
-    "name_hu": "Kónya István",
-    "primary_affiliation": "KRTK Institute of Economics & University of Pécs",
-    "primary_fields": [
-      "banking-finance",
-      "labor-markets",
-      "transition-postcommunist"
-    ],
-    "bio_en": "István Kónya is Research Advisor at KRTK Institute of Economics and Professor at the University of Pécs. His research covers macroeconomics, labor market structure, and the Hungarian financial cycle, with publications in the Review of Economic Dynamics and Bank of England working papers.",
-    "bio_review": "confident"
-  },
-  {
-    "id": "valentinyi-akos",
-    "name_en": "Ákos Valentinyi",
-    "name_hu": "Valentinyi Ákos",
-    "primary_affiliation": "University of Manchester",
-    "primary_fields": [
-      "transition-postcommunist"
-    ],
-    "bio_en": "Ákos Valentinyi is Professor of Macroeconomics at the University of Manchester and CEPR research fellow. His work addresses structural transformation, economic growth, and sectoral productivity, with publications in the Journal of Monetary Economics and the Review of Economic Studies.",
-    "bio_review": "confident"
-  },
-  {
-    "id": "abraham-arpad",
-    "name_en": "Árpád Ábrahám",
-    "name_hu": "Ábrahám Árpád",
-    "primary_affiliation": "University of Bristol",
-    "primary_fields": [
-      "fiscal-tax",
-      "inequality-welfare"
-    ],
-    "bio_en": "Árpád Ábrahám is Professor of Economics at the University of Bristol. His research focuses on macroeconomics with heterogeneous agents, optimal taxation, social insurance design, and dynamic contracting. He has published in the Journal of Monetary Economics and the American Economic Journal: Macroeconomics.",
-    "bio_review": "confident"
-  },
-  {
-    "id": "lindner-attila",
-    "name_en": "Attila Lindner",
-    "name_hu": "Lindner Attila",
-    "primary_affiliation": "University College London",
-    "primary_fields": [
-      "labor-markets",
-      "firms-productivity"
-    ],
-    "bio_en": "Attila Lindner is Professor of Economics at University College London. He studies labor markets, with a focus on how policies such as minimum wages and payroll taxes affect workers, firms, and prices. Much of his empirical work uses Hungarian administrative data. His research has appeared in the American Economic Review, the Quarterly Journal of Economics, and the Review of Economic Studies.",
-    "bio_review": "confident"
-  },
-  {
-    "id": "horn-daniel",
-    "name_en": "Dániel Horn",
-    "name_hu": "Horn Dániel",
-    "primary_affiliation": "KRTK Institute of Economics & Corvinus University of Budapest",
-    "primary_fields": [
-      "education-skills",
-      "labor-markets"
-    ],
-    "bio_en": "Dániel Horn is a senior researcher at KRTK Institute of Economics and Associate Professor at Corvinus University of Budapest. His research focuses on the economics of education — teacher quality, school tracking, vocational training — with applications to Hungary and the broader Central European context. He has published in Labour Economics and Economics of Education Review.",
-    "bio_review": "confident"
-  },
-  {
-    "id": "juhasz-reka",
-    "name_en": "Réka Juhász",
-    "name_hu": "Juhász Réka",
-    "primary_affiliation": "University of British Columbia",
-    "primary_fields": [
-      "trade-fdi",
-      "firms-productivity"
-    ],
-    "bio_en": "Réka Juhász is Assistant Professor of Economics at the University of British Columbia. Her research combines international trade, economic history, and development, and she is a leading figure in the modern revival of empirical industrial policy research. Her AER paper using Napoleon's blockade of British trade to test infant-industry arguments is widely cited.",
-    "bio_review": "confident"
-  },
-  {
-    "id": "szabo-morvai-agnes",
-    "name_en": "Ágnes Szabó-Morvai",
-    "name_hu": "Szabó-Morvai Ágnes",
-    "primary_affiliation": "KRTK Institute of Economics & University of Debrecen",
-    "primary_fields": [
-      "labor-markets",
-      "health",
-      "demographics-migration"
-    ],
-    "bio_en": "Ágnes Szabó-Morvai is a senior researcher at KRTK Institute of Economics and Associate Professor at the University of Debrecen. Her research covers maternal labor supply, child health, and family policy, using Hungarian administrative data and survey evidence.",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "adamecz-anna",
-    "name_en": "Anna Adamecz",
-    "name_hu": "Adamecz Anna",
-    "primary_affiliation": "University College London & KRTK",
-    "primary_fields": [
-      "education-skills",
-      "labor-markets",
-      "demographics-migration"
-    ],
-    "bio_en": "Anna Adamecz is a researcher at UCL's Social Research Institute and KRTK. Her work focuses on the long-term effects of education reforms, early-life interventions, and gender gaps, drawing on Hungarian and UK microdata.",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "tobias-aron",
-    "name_en": "Áron Tóbiás",
-    "name_hu": "Tóbiás Áron",
-    "primary_affiliation": "Syracuse University",
-    "primary_fields": [
-      "methods",
-      "political-economy"
-    ],
-    "bio_en": "Áron Tóbiás is Assistant Professor of Economics at Syracuse University. His research is in microeconomic theory, with a focus on decision theory, social choice, and political economy.",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "murakozy-balazs",
-    "name_en": "Balázs Muraközy",
-    "name_hu": "Muraközy Balázs",
-    "primary_affiliation": "University of Liverpool",
-    "primary_fields": [
-      "firms-productivity",
-      "trade-fdi",
-      "innovation-digital"
-    ],
-    "bio_en": "Balázs Muraközy is Professor of Economics at the University of Liverpool Management School. His research covers firm dynamics, innovation, trade, and productivity, drawing extensively on Hungarian firm-level data. Previously he led the firm economics research programme at KRTK.",
-    "bio_review": "confident"
-  },
-  {
-    "id": "telegdy-almos",
-    "name_en": "Álmos Telegdy",
-    "name_hu": "Telegdy Álmos",
-    "primary_affiliation": "Corvinus University of Budapest & KRTK",
-    "primary_fields": [
-      "labor-markets",
-      "firms-productivity",
-      "transition-postcommunist"
-    ],
-    "bio_en": "Álmos Telegdy is Professor at Corvinus University of Budapest and senior researcher at KRTK. His research examines the long-run consequences of privatization, ownership structure, and labor market institutions in post-socialist economies, published in outlets including Labour Economics and the Journal of Comparative Economics.",
-    "bio_review": "confident"
-  },
-  {
-    "id": "harasztosi-peter",
-    "name_en": "Péter Harasztosi",
-    "name_hu": "Harasztosi Péter",
-    "primary_affiliation": "European Commission Joint Research Centre",
-    "primary_fields": [
-      "trade-fdi",
-      "labor-markets",
-      "firms-productivity"
-    ],
-    "bio_en": "Péter Harasztosi is a researcher at the European Commission's Joint Research Centre in Ispra. His work spans international trade, firm dynamics, and labor markets, with a notable American Economic Review paper (with Attila Lindner) on the incidence of minimum wages using Hungarian data.",
-    "bio_review": "confident"
-  },
-  {
-    "id": "eso-peter",
-    "name_en": "Péter Eső",
-    "name_hu": "Eső Péter",
-    "primary_affiliation": "University of Oxford",
-    "primary_fields": [
-      "methods"
-    ],
-    "bio_en": "Péter Eső is Professor of Economics at the University of Oxford. His research is in microeconomic theory — auctions, mechanism design, and the economics of information. His work has appeared in Econometrica, the Review of Economic Studies, and the American Economic Review.",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "virag-gabor",
-    "name_en": "Gábor Virág",
-    "name_hu": "Virág Gábor",
-    "primary_affiliation": "University of Toronto",
-    "primary_fields": [
-      "methods",
-      "firms-productivity"
-    ],
-    "bio_en": "Gábor Virág is Professor at the University of Toronto. He works on microeconomic theory with applications to auctions, pricing, search markets, and contracting. His work has appeared in the Review of Economic Studies and the RAND Journal of Economics.",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "ujhelyi-gergely",
-    "name_en": "Gergely Ujhelyi",
-    "name_hu": "Ujhelyi Gergely",
-    "primary_affiliation": "University of Houston",
-    "primary_fields": [
-      "political-economy"
-    ],
-    "bio_en": "Gergely Ujhelyi is Associate Professor of Economics at the University of Houston. His research is in political economy and the economics of public administration — bureaucracy, civil service reforms, and political machines — with publications in outlets including the American Economic Journal: Economic Policy and the Journal of Public Economics.",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "prinz-daniel",
-    "name_en": "Dániel Prinz",
-    "name_hu": "Prinz Dániel",
-    "primary_affiliation": "World Bank (previously IFS, Harvard PhD)",
-    "primary_fields": [
-      "health",
-      "fiscal-tax",
-      "labor-markets"
-    ],
-    "bio_en": "Dániel Prinz is an economist at the World Bank's Development Research Group. His work focuses on health economics, taxation, and social insurance, often drawing on administrative data from Hungary and other settings. He has published in outlets including the Journal of Public Economics and AEJ: Applied Economics.",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "molnar-timea",
-    "name_en": "Tímea Laura Molnár",
-    "name_hu": "Molnár Tímea Laura",
-    "primary_affiliation": "Corvinus University of Budapest (to verify)",
-    "primary_fields": [
-      "labor-markets",
-      "demographics-migration"
-    ],
-    "bio_en": "Tímea Laura Molnár works on labor economics, household decisions, and firm–worker dynamics. Recent research (with Bíró, Galindo Da Fonseca and Lindner) examines labor market tightness, wage inequality and workplace amenities using Hungarian administrative data; earlier work addresses household savings and retirement.",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "biro-aniko",
-    "name_en": "Anikó Bíró",
-    "name_hu": "Bíró Anikó",
-    "primary_affiliation": "HUN-REN KRTK Institute of Economics",
-    "primary_fields": [
-      "health",
-      "labor-markets",
-      "inequality-welfare"
-    ],
-    "bio_en": "Anikó Bíró is a senior research fellow at KRTK Institute of Economics, where she leads the Health and Population Research Group. She works on health economics, retirement, minimum-wage effects on health, and tax enforcement, drawing on Hungarian linked administrative data. Her work has appeared in the Journal of Public Economics, Health Economics, and the Journal of Health Economics.",
-    "bio_review": "confident"
-  },
-  {
-    "id": "bisztray-marta",
-    "name_en": "Márta Bisztray",
-    "name_hu": "Bisztray Márta",
-    "primary_affiliation": "HUN-REN KRTK Institute of Economics",
-    "primary_fields": [
-      "trade-fdi",
-      "firms-productivity",
-      "innovation-digital"
-    ],
-    "bio_en": "Márta Bisztray is a research fellow at KRTK Institute of Economics. Her work covers international trade, firm dynamics, and spillovers in production networks, using Hungarian firm-level administrative data. Her research has appeared in the Journal of International Economics.",
-    "bio_review": "confident"
-  },
-  {
-    "id": "csoka-peter",
-    "name_en": "Péter Csóka",
-    "name_hu": "Csóka Péter",
-    "primary_affiliation": "Corvinus University of Budapest & HUN-REN KRTK",
-    "primary_fields": [
-      "banking-finance",
-      "methods"
-    ],
-    "bio_en": "Péter Csóka is Professor of Finance at Corvinus University of Budapest and research fellow at KRTK. His research covers financial networks, systemic risk, clearing mechanisms, and the axiomatic theory of risk measures. He has published in Management Science.",
-    "bio_review": "confident"
-  },
-  {
-    "id": "somogyi-robert",
-    "name_en": "Róbert Somogyi",
-    "name_hu": "Somogyi Róbert",
-    "primary_affiliation": "BME & HUN-REN KRTK",
-    "primary_fields": [
-      "innovation-digital",
-      "firms-productivity",
-      "methods"
-    ],
-    "bio_en": "Róbert Somogyi is a research fellow at KRTK Institute of Economics and Associate Professor at Budapest University of Technology and Economics (BME). He works on the economics of digital platforms, net neutrality, and industrial organisation. His research has appeared in the Economic Journal and the International Journal of Industrial Organization.",
-    "bio_review": "confident"
-  },
-  {
-    "id": "kertesi-gabor",
-    "name_en": "Gábor Kertesi",
-    "name_hu": "Kertesi Gábor",
-    "primary_affiliation": "HUN-REN KRTK Institute of Economics",
-    "primary_fields": [
-      "labor-markets",
-      "education-skills",
-      "inequality-welfare"
-    ],
-    "bio_en": "Gábor Kertesi is a senior researcher at KRTK Institute of Economics. He has worked for decades on the economics of the Hungarian Roma minority — education, employment, inequality — and on labor-market disadvantages in post-communist Hungary more broadly. His joint work with Gábor Kézdi on the Roma test-score gap has appeared in the American Economic Review.",
-    "bio_review": "confident"
-  },
-  {
-    "id": "sziklai-balazs",
-    "name_en": "Balázs Sziklai",
-    "name_hu": "Sziklai Balázs",
-    "primary_affiliation": "HUN-REN KRTK & Corvinus University of Budapest",
-    "primary_fields": [
-      "methods",
-      "political-economy"
-    ],
-    "bio_en": "Balázs Sziklai is a research fellow at KRTK Institute of Economics and Associate Professor at Corvinus University of Budapest. His research covers game theory, fair division, matching, voting, and cooperative games. His work has appeared in Economic Theory.",
-    "bio_review": "confident"
-  },
-  {
-    "id": "reizer-balazs",
-    "name_en": "Balázs Reizer",
-    "name_hu": "Reizer Balázs",
-    "primary_affiliation": "HUN-REN KRTK & Corvinus University of Budapest",
-    "primary_fields": [
-      "labor-markets",
-      "firms-productivity"
-    ],
-    "bio_en": "Balázs Reizer is a senior research fellow at KRTK Institute of Economics and Associate Professor at Corvinus University of Budapest. His research covers labor economics — minimum-wage effects, bonus pay, worker displacement, job-worker matching — using Hungarian administrative data. His research has appeared in the Quarterly Journal of Economics.",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "lengyel-balazs",
-    "name_en": "Balázs Lengyel",
-    "name_hu": "Lengyel Balázs",
-    "primary_affiliation": "HUN-REN KRTK (ANETI Lab) & Corvinus University of Budapest",
-    "primary_fields": [
-      "regional-urban",
-      "innovation-digital",
-      "firms-productivity"
-    ],
-    "bio_en": "Balázs Lengyel leads the Agglomeration and Social Networks (ANETI) Lendület Research Group at KRTK Institute of Economics. His research combines economic geography and network science, studying knowledge spillovers, migration patterns, and cluster dynamics using digital-trace data. His work has appeared in the Journal of Economic Geography, Research Policy, and Nature Human Behaviour.",
-    "bio_review": "confident"
-  },
-  {
-    "id": "juhasz-sandor",
-    "name_en": "Sándor Juhász",
-    "name_hu": "Juhász Sándor",
-    "primary_affiliation": "HUN-REN KRTK (ANETI Lab)",
-    "primary_fields": [
-      "regional-urban",
-      "innovation-digital",
-      "firms-productivity"
-    ],
-    "bio_en": "Sándor Juhász is a research fellow at KRTK Institute of Economics (ANETI Lab). His research is in economic geography and network science, with a focus on the evolution of knowledge networks, firm clusters, and migration patterns. His work has appeared in the Journal of Economic Geography.",
-    "bio_review": "confident"
-  },
-  {
-    "id": "manchin-miriam",
-    "name_en": "Miriam Manchin",
-    "name_hu": "Manchin Miriam",
-    "primary_affiliation": "University College London",
-    "primary_fields": [
-      "trade-fdi",
-      "demographics-migration",
-      "political-economy"
-    ],
-    "bio_en": "Miriam Manchin is Associate Professor of Economics at University College London. Her research covers international trade, migration, foreign direct investment, and political economy, with a particular focus on Central and Eastern Europe. Her work has appeared in the Review of International Economics and other top field journals.",
-    "bio_hu": "Manchin Miriam a University College London közgazdász docense. Kutatási területe a nemzetközi kereskedelem, a migráció, a külföldi működő tőke és a politikai gazdaságtan, különös tekintettel Közép- és Kelet-Európára. Munkái megjelentek a Review of International Economicsban és más vezető területi folyóiratokban.",
-    "website": "https://discovery.ucl.ac.uk/view/people/AMMIM11.html",
-    "bio_review": "confident"
-  },
-  {
-    "id": "loranth-gyongyi",
-    "name_en": "Gyöngyi Lóránth",
-    "name_hu": "Lóránth Gyöngyi",
-    "primary_affiliation": "University of Vienna",
-    "primary_fields": [
-      "banking-finance"
-    ],
-    "bio_en": "Gyöngyi Lóránth is Professor of Finance at the University of Vienna and a CEPR research fellow. Her research covers banking, financial intermediation, multinational banks, and consumer credit. Her work has appeared in the Review of Financial Studies.",
-    "bio_hu": "Lóránth Gyöngyi a Bécsi Egyetem pénzügyi professzora és a CEPR kutatótársa. Kutatási területe a bankrendszer, a pénzügyi közvetítés, a multinacionális bankok és a fogyasztói hitelezés. Munkái megjelentek a Review of Financial Studiesban.",
-    "website": "https://finance.univie.ac.at/en/team/loranth-gyoengyi/",
-    "bio_review": "confident"
-  },
-  {
-    "id": "nagy-david",
-    "name_en": "Dávid Krisztián Nagy",
-    "name_hu": "Nagy Dávid Krisztián",
-    "primary_affiliation": "CREI, Universitat Pompeu Fabra & Barcelona School of Economics",
-    "primary_fields": [
-      "trade-fdi",
-      "regional-urban",
-      "firms-productivity"
-    ],
-    "bio_en": "Dávid Krisztián Nagy is Senior Researcher at the Centre de Recerca en Economia Internacional (CREI), Adjunct Professor at Universitat Pompeu Fabra, and Affiliated Professor at Barcelona School of Economics. His research combines international trade, economic geography, and economic growth — using historical and contemporary data to understand spatial patterns of economic development. His work has appeared in the Journal of Political Economy, the Review of Economic Studies, and the Journal of Economic Geography.",
-    "bio_hu": "Nagy Dávid Krisztián a Centre de Recerca en Economia Internacional (CREI) vezető kutatója, a Universitat Pompeu Fabra adjunktusa és a Barcelona School of Economics affiliált professzora. Kutatásai a nemzetközi kereskedelmet, a gazdasági földrajzot és a gazdasági növekedést kötik össze, történelmi és kortárs adatokon vizsgálva a gazdasági fejlődés térbeli mintázatait. Munkái megjelentek a Journal of Political Economyben, a Review of Economic Studies-ban és a Journal of Economic Geographyben.",
-    "website": "https://sites.google.com/view/davidknagy/",
-    "bio_review": "confident"
-  },
-  {
-    "id": "szucs-ferenc",
-    "name_en": "Ferenc Szűcs",
-    "name_hu": "Szűcs Ferenc",
-    "primary_affiliation": "Stockholm University",
-    "primary_fields": [
-      "political-economy",
-      "innovation-digital"
-    ],
-    "bio_en": "Ferenc Szűcs is Associate Professor of Economics at Stockholm University. He received his PhD from UC Berkeley in 2018 and works on political economy, media and government accountability, and the economics of ideas. His work has appeared in the American Economic Review.",
-    "bio_hu": "Szűcs Ferenc a Stockholmi Egyetem közgazdász docense. PhD-jét 2018-ban szerezte a UC Berkeleyn, és politikai gazdaságtannal, a média és a kormányzati elszámoltathatóság kapcsolatával, valamint a gondolatok közgazdaságtanával foglalkozik. Munkái megjelentek az American Economic Reviewben.",
-    "website": "https://sites.google.com/view/ferencszucs/",
-    "email": "ferenc.szucs@su.se",
-    "bio_review": "confident"
-  },
-  {
-    "id": "zawadowski-adam",
-    "name_en": "Ádám Zawadowski",
-    "name_hu": "Zawadowski Ádám",
-    "primary_affiliation": "Central European University",
-    "primary_fields": [
-      "banking-finance"
-    ],
-    "bio_en": "Ádám Zawadowski is Associate Professor of Finance at Central European University, where he has taught since the mid-2010s after a position at Boston University. His research is in financial economics, including hedging and contagion in financial networks, commodity markets, and institutional investors. His work has appeared in the Review of Financial Studies and the Journal of Monetary Economics.",
-    "bio_hu": "Zawadowski Ádám a Közép-európai Egyetem (CEU) pénzügyi docense, aki a Boston University-n eltöltött évek után a 2010-es évek közepe óta tanít itt. Kutatási területe a pénzügyi közgazdaságtan, különösen a fedezés és a pénzügyi hálózatokban megjelenő fertőzéshatás, a nyersanyagpiacok és az intézményi befektetők viselkedése. Munkái megjelentek a Review of Financial Studiesban és a Journal of Monetary Economicsban.",
-    "website": "https://people.ceu.edu/adam_zawadowski",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "lychagin-sergey",
-    "name_en": "Sergey Lychagin",
-    "name_hu": "Lychagin Szergej",
-    "primary_affiliation": "Central European University",
-    "primary_fields": [
-      "innovation-digital",
-      "firms-productivity"
-    ],
-    "bio_en": "Sergey Lychagin is Associate Professor of Economics at Central European University. His research is in empirical industrial organization and the economics of innovation, including knowledge spillovers, R&D productivity, and spatial patterns of innovation. His work has appeared in the American Economic Journal: Applied Economics. He became a Hungarian citizen in 2026.",
-    "bio_hu": "Lychagin Szergej a Közép-európai Egyetem (CEU) közgazdász docense. Kutatási területe az empirikus iparági szerveződés és az innováció közgazdaságtana, beleértve a tudás-tovagyűrűzést, a K+F termelékenységét és az innováció térbeli mintázatait. Munkái megjelentek az American Economic Journal: Applied Economicsban. 2026-ban magyar állampolgárságot szerzett.",
-    "website": "https://people.ceu.edu/sergey_lychagin",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "barath-lajos",
-    "name_en": "Lajos Baráth",
-    "name_hu": "Baráth Lajos",
-    "primary_affiliation": "KRTK Institute of Economics",
-    "primary_fields": [
-      "firms-productivity"
-    ],
-    "bio_en": "Lajos Baráth is a researcher at the KRTK Institute of Economics; his work covers agricultural economics and productivity.",
-    "bio_hu": "Baráth Lajos a KRTK Közgazdaság-tudományi Intézet kutatója; kutatási területe az agrárgazdaságtan és a termelékenység.",
-    "bio_review": "stub"
-  },
-  {
-    "id": "benedek-marton",
-    "name_en": "Márton Benedek",
-    "name_hu": "Benedek Márton",
-    "primary_affiliation": "KRTK Institute of Economics",
-    "primary_fields": [
-      "methods"
-    ],
-    "bio_en": "Márton Benedek is a researcher at the KRTK Institute of Economics, working on game theory and mechanism design.",
-    "bio_hu": "Benedek Márton a KRTK Közgazdaság-tudományi Intézet kutatója, játékelmélettel és mechanizmustervezéssel foglalkozik.",
-    "bio_review": "stub"
-  },
-  {
-    "id": "biro-peter",
-    "name_en": "Péter Biró",
-    "name_hu": "Biró Péter",
-    "primary_affiliation": "KRTK Institute of Economics",
-    "primary_fields": [
-      "methods"
-    ],
-    "bio_en": "Péter Biró is a senior researcher at the KRTK Institute of Economics, where he leads the Game Theory and Mechanism Design research group. His work covers matching markets, kidney exchange, fair allocation, and cooperative game theory.",
-    "bio_hu": "Biró Péter a KRTK Közgazdaság-tudományi Intézet vezető kutatója, a Játékelmélet és Mechanizmustervezés Kutatócsoport vezetője. Kutatási területe a párosítási piacok, vesecsere, tisztességes elosztás és kooperatív játékelmélet.",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "boza-istvan",
-    "name_en": "István Boza",
-    "name_hu": "Boza István",
-    "primary_affiliation": "KRTK Institute of Economics",
-    "primary_fields": [
-      "labor-markets"
-    ],
-    "bio_en": "István Boza is a researcher at the KRTK Institute of Economics. His work focuses on labor-market outcomes, wage dynamics, and firm-worker matches using Hungarian administrative data.",
-    "bio_hu": "Boza István a KRTK Közgazdaság-tudományi Intézet kutatója. Kutatásai a munkaerő-piaci kimenetelekre, a bérdinamikára és a munkáltató-munkavállaló összekapcsolódásra irányulnak, magyar adminisztratív adatok felhasználásával.",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "branyiczki-reka",
-    "name_en": "Réka Branyiczki",
-    "name_hu": "Branyiczki Réka",
-    "primary_affiliation": "KRTK Institute of Economics",
-    "primary_fields": [
-      "inequality-welfare",
-      "demographics-migration"
-    ],
-    "bio_en": "Réka Branyiczki is a researcher at the KRTK Institute of Economics, with work on inequality, welfare, and health economics.",
-    "bio_hu": "Branyiczki Réka a KRTK Közgazdaság-tudományi Intézet kutatója, kutatási területe az egyenlőtlenség, a jólét és az egészséggazdaságtan.",
-    "bio_review": "stub"
-  },
-  {
-    "id": "csaji-gergely",
-    "name_en": "Gergely Kál Csáji",
-    "name_hu": "Csáji Gergely Kál",
-    "primary_affiliation": "KRTK Institute of Economics",
-    "primary_fields": [
-      "methods"
-    ],
-    "bio_en": "Gergely Kál Csáji is a researcher at the KRTK Institute of Economics; his work covers matching theory and combinatorial optimization.",
-    "bio_hu": "Csáji Gergely Kál a KRTK Közgazdaság-tudományi Intézet kutatója, kutatási területe a párosítási elmélet és kombinatorikus optimalizálás.",
-    "bio_review": "stub"
-  },
-  {
-    "id": "csercsik-david",
-    "name_en": "Dávid Csercsik",
-    "name_hu": "Csercsik Dávid",
-    "primary_affiliation": "KRTK Institute of Economics",
-    "primary_fields": [
-      "methods",
-      "energy-environment"
-    ],
-    "bio_en": "Dávid Csercsik is a researcher at the KRTK Institute of Economics; his work spans game theory and energy-market applications.",
-    "bio_hu": "Csercsik Dávid a KRTK Közgazdaság-tudományi Intézet kutatója; kutatási területe a játékelmélet és annak energetikai alkalmazásai.",
-    "bio_review": "stub"
-  },
-  {
-    "id": "elek-peter",
-    "name_en": "Péter Elek",
-    "name_hu": "Elek Péter",
-    "primary_affiliation": "KRTK Institute of Economics",
-    "primary_fields": [
-      "health",
-      "labor-markets"
-    ],
-    "bio_en": "Péter Elek is a researcher at the KRTK Institute of Economics, with work on health economics and labor-market microdata analysis.",
-    "bio_hu": "Elek Péter a KRTK Közgazdaság-tudományi Intézet kutatója, az egészséggazdaságtan és a munkaerő-piaci mikroadatok területén dolgozik.",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "elekes-zoltan",
-    "name_en": "Zoltán Elekes",
-    "name_hu": "Elekes Zoltán",
-    "primary_affiliation": "KRTK Institute of Economics",
-    "primary_fields": [
-      "regional-urban",
-      "innovation-digital"
-    ],
-    "bio_en": "Zoltán Elekes is a researcher at the KRTK Institute of Economics. His research covers evolutionary economic geography, regional innovation, and network analysis of economic activity.",
-    "bio_hu": "Elekes Zoltán a KRTK Közgazdaság-tudományi Intézet kutatója. Kutatási területe az evolúciós gazdaságföldrajz, a regionális innováció és a gazdasági tevékenységek hálózati elemzése.",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "ertl-antal",
-    "name_en": "Antal Ertl",
-    "name_hu": "Ertl Antal",
-    "primary_affiliation": "KRTK Institute of Economics",
-    "primary_fields": [
-      "labor-markets",
-      "methods"
-    ],
-    "bio_en": "Antal Ertl is a researcher at the KRTK Institute of Economics, working on behavioral economics and labor markets.",
-    "bio_hu": "Ertl Antal a KRTK Közgazdaság-tudományi Intézet kutatója, a viselkedési közgazdaságtan és a munkaerő-piac területén.",
-    "bio_review": "stub"
-  },
-  {
-    "id": "ferto-imre",
-    "name_en": "Imre Fertő",
-    "name_hu": "Fertő Imre",
-    "primary_affiliation": "KRTK Institute of Economics",
-    "primary_fields": [
-      "firms-productivity",
-      "trade-fdi"
-    ],
-    "bio_en": "Imre Fertő is a senior researcher at the KRTK Institute of Economics. His research focuses on agricultural economics, food policy, and trade.",
-    "bio_hu": "Fertő Imre a KRTK Közgazdaság-tudományi Intézet vezető kutatója. Kutatási területe az agrárgazdaságtan, az élelmiszer-politika és a kereskedelem.",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "fleiner-tamas",
-    "name_en": "Tamás Fleiner",
-    "name_hu": "Fleiner Tamás",
-    "primary_affiliation": "KRTK Institute of Economics",
-    "primary_fields": [
-      "methods"
-    ],
-    "bio_en": "Tamás Fleiner is a researcher affiliated with the KRTK Institute of Economics, working on matching theory and combinatorial optimization.",
-    "bio_hu": "Fleiner Tamás a KRTK Közgazdaság-tudományi Intézet kutatója, a párosítási elmélet és a kombinatorikus optimalizálás területén.",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "hajdu-gabor",
-    "name_en": "Gábor Hajdu",
-    "name_hu": "Hajdu Gábor",
-    "primary_affiliation": "TK Centre for Social Sciences & KRTK Institute of Economics",
-    "primary_fields": [
-      "inequality-welfare",
-      "demographics-migration"
-    ],
-    "bio_en": "Gábor Hajdu is a researcher at the KRTK Institute of Economics and the HUN-REN TK Centre for Social Sciences. His work spans subjective well-being, inequality, and the intersection of environment and population economics, frequently co-authored with Tamás Hajdu.",
-    "bio_hu": "Hajdu Gábor a KRTK Közgazdaság-tudományi Intézet és a HUN-REN TK Társadalomtudományi Kutatóközpont kutatója. Kutatási területe a szubjektív jóllét, az egyenlőtlenség és a környezeti–népességi közgazdaságtan metszete; gyakran Hajdu Tamással közös szerzőségben.",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "hajdu-tamas",
-    "name_en": "Tamás Hajdu",
-    "name_hu": "Hajdu Tamás",
-    "primary_affiliation": "KRTK Institute of Economics",
-    "primary_fields": [
-      "health",
-      "demographics-migration",
-      "energy-environment"
-    ],
-    "bio_en": "Tamás Hajdu is a senior researcher at the KRTK Institute of Economics. His work is in health and population economics, including the effects of climate and environmental stressors on birth outcomes and health. His research has appeared in the Journal of Population Economics, the Journal of Environmental Economics and Management, and the Journal of Public Economics.",
-    "bio_hu": "Hajdu Tamás a KRTK Közgazdaság-tudományi Intézet vezető kutatója. Kutatási területe az egészség- és népességgazdaságtan, különös tekintettel arra, hogyan hatnak az éghajlati és környezeti stresszorok a születési kimenetelekre és az egészségre. Munkái megjelentek a Journal of Population Economicsban, a Journal of Environmental Economics and Managementben és a Journal of Public Economicsban.",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "hermann-zoltan",
-    "name_en": "Zoltán Hermann",
-    "name_hu": "Hermann Zoltán",
-    "primary_affiliation": "KRTK Institute of Economics",
-    "primary_fields": [
-      "education-skills"
-    ],
-    "bio_en": "Zoltán Hermann is a researcher at the KRTK Institute of Economics, focusing on education economics and school effectiveness.",
-    "bio_hu": "Hermann Zoltán a KRTK Közgazdaság-tudományi Intézet kutatója, az oktatás-gazdaságtan és az iskolai eredményesség területén.",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "ilyes-virag",
-    "name_en": "Virág Ilyés",
-    "name_hu": "Ilyés Virág",
-    "primary_affiliation": "KRTK Institute of Economics",
-    "primary_fields": [
-      "labor-markets"
-    ],
-    "bio_en": "Virág Ilyés is a researcher at the KRTK Institute of Economics, working on labor economics and administrative-data analysis.",
-    "bio_hu": "Ilyés Virág a KRTK Közgazdaság-tudományi Intézet kutatója, a munkagazdaságtan és az adminisztratív adatok elemzése területén.",
-    "bio_review": "stub"
-  },
-  {
-    "id": "janko-zsuzsanna",
-    "name_en": "Zsuzsanna Jankó",
-    "name_hu": "Jankó Zsuzsanna",
-    "primary_affiliation": "KRTK Institute of Economics",
-    "primary_fields": [
-      "methods"
-    ],
-    "bio_en": "Zsuzsanna Jankó is a researcher at the KRTK Institute of Economics, working on matching theory and combinatorial optimization.",
-    "bio_hu": "Jankó Zsuzsanna a KRTK Közgazdaság-tudományi Intézet kutatója, a párosítási elmélet és a kombinatorikus optimalizálás területén.",
-    "bio_review": "stub"
-  },
-  {
-    "id": "keller-tamas",
-    "name_en": "Tamás Keller",
-    "name_hu": "Keller Tamás",
-    "primary_affiliation": "KRTK Institute of Economics & HUN-REN TK",
-    "primary_fields": [
-      "education-skills",
-      "labor-markets"
-    ],
-    "bio_en": "Tamás Keller is a researcher at the KRTK Institute of Economics and the HUN-REN TK Centre for Social Sciences. His work covers education, social mobility, peer effects, and field-experimental methods in school settings.",
-    "bio_hu": "Keller Tamás a KRTK Közgazdaság-tudományi Intézet és a HUN-REN TK Társadalomtudományi Kutatóközpont kutatója. Kutatási területe az oktatás, a társadalmi mobilitás, a kortárscsoport-hatások és a terepi kísérleti módszerek iskolai alkalmazása.",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "kiss-hubert",
-    "name_en": "Hubert János Kiss",
-    "name_hu": "Kiss Hubert János",
-    "primary_affiliation": "KRTK Institute of Economics & Corvinus University of Budapest",
-    "primary_fields": [
-      "banking-finance",
-      "methods"
-    ],
-    "bio_en": "Hubert János Kiss is a senior researcher at the KRTK Institute of Economics and associate professor at Corvinus University of Budapest. His research covers behavioral and experimental economics, with applications to bank runs, financial decision-making, and information aggregation.",
-    "bio_hu": "Kiss Hubert János a KRTK Közgazdaság-tudományi Intézet vezető kutatója és a Budapesti Corvinus Egyetem docense. Kutatási területe a viselkedési és kísérleti közgazdaságtan, annak alkalmazásai a bankpánikokra, a pénzügyi döntéshozatalra és az információaggregációra.",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "koczy-laszlo",
-    "name_en": "László Á. Kóczy",
-    "name_hu": "Kóczy Á. László",
-    "primary_affiliation": "KRTK Institute of Economics & Óbuda University",
-    "primary_fields": [
-      "methods"
-    ],
-    "bio_en": "László Á. Kóczy is a senior researcher at the KRTK Institute of Economics and professor at Óbuda University. His work is in cooperative game theory, voting power, and applications to institutional design, including coalition formation and energy markets.",
-    "bio_hu": "Kóczy Á. László a KRTK Közgazdaság-tudományi Intézet vezető kutatója és az Óbudai Egyetem professzora. Kutatási területe a kooperatív játékelmélet, a szavazati erő és az intézménytervezés alkalmazásai, beleértve a koalícióképződést és az energia-piacokat.",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "wachs-johannes",
-    "name_en": "Johannes Wachs",
-    "name_hu": "Wachs Johannes",
-    "primary_affiliation": "Vienna University of Economics and Business & KRTK Institute of Economics",
-    "primary_fields": [
-      "innovation-digital",
-      "regional-urban"
-    ],
-    "bio_en": "Johannes Wachs is an assistant professor at the Vienna University of Economics and Business and affiliated researcher at the KRTK Institute of Economics. His work uses network science and computational methods to study innovation, collaboration, and the geography of economic activity.",
-    "bio_hu": "Wachs Johannes a Bécsi Gazdasági Egyetem (WU) adjunktusa és a KRTK Közgazdaság-tudományi Intézet külső munkatársa. Hálózatkutatási és számítástudományi módszerekkel vizsgálja az innovációt, az együttműködést és a gazdasági tevékenységek földrajzát.",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "benk-szilard",
-    "name_en": "Szilárd Benk",
-    "name_hu": "Benk Szilárd",
-    "primary_affiliation": "International Monetary Fund",
-    "primary_fields": [
-      "methods",
-      "banking-finance"
-    ],
-    "bio_en": "Szilárd Benk is an economist at the International Monetary Fund. His research is in macroeconomics and monetary economics, including credit shocks, business cycles, and the role of money in growth. His work has appeared in the Journal of Economic Dynamics and Control, the Journal of Money, Credit and Banking, and the Review of Economic Dynamics.",
-    "bio_hu": "Benk Szilárd a Nemzetközi Valutaalap közgazdásza. Kutatási területe a makro- és monetáris közgazdaságtan, beleértve a hitelsokkokat, az üzleti ciklusokat és a pénz szerepét a növekedésben. Munkái megjelentek a Journal of Economic Dynamics and Controlban, a Journal of Money, Credit and Bankingben és a Review of Economic Dynamicsban.",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "bako-barna",
-    "name_en": "Barna Bakó",
-    "name_hu": "Bakó Barna",
-    "primary_affiliation": "Corvinus University of Budapest",
-    "primary_fields": [
-      "methods"
-    ],
-    "bio_en": "Barna Bakó is a researcher at Corvinus University of Budapest, working on applied industrial organization and behavioral economics. His work has appeared in Economics Letters and Theory and Decision.",
-    "bio_hu": "Bakó Barna a Budapesti Corvinus Egyetem kutatója, az alkalmazott iparági szerveződés és a viselkedési közgazdaságtan területén dolgozik. Cikkei megjelentek az Economics Lettersben és a Theory and Decisionben.",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "bencsik-panka",
-    "name_en": "Panka Bencsik",
-    "name_hu": "Bencsik Panka",
-    "primary_affiliation": "University of Chicago",
-    "primary_fields": [
-      "political-economy",
-      "inequality-welfare"
-    ],
-    "bio_en": "Panka Bencsik is a researcher at the University of Chicago, working on the economics of crime, policing, and behavioral responses to policy. Her research has appeared in American Economic Review: Insights, the Journal of Urban Economics, and Economica.",
-    "bio_hu": "Bencsik Panka a Chicagói Egyetem kutatója, a bűnözés, a rendvédelem és a szakpolitikai viselkedési reakciók közgazdaságtanával foglalkozik. Kutatásai megjelentek az American Economic Review: Insightsban, a Journal of Urban Economicsban és az Economicában.",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "peto-rita",
-    "name_en": "Rita Pető",
-    "name_hu": "Pető Rita",
-    "primary_affiliation": "KRTK Institute of Economics",
-    "primary_fields": [
-      "labor-markets",
-      "demographics-migration"
-    ],
-    "bio_en": "Rita Pető is a research fellow at the KRTK Institute of Economics. Her research is in labor economics, with a focus on gender, intergenerational mobility, and the changing nature of work. Her papers appear in the Journal of Population Economics. Homepage: ritapeto.eu.",
-    "bio_hu": "Pető Rita a KRTK Közgazdaság-tudományi Intézet kutatója. Kutatási területe a munkagazdaságtan, különös tekintettel a nem szerinti különbségekre, a generációk közötti mobilitásra és a munka természetének változására. Cikkei megjelentek a Journal of Population Economicsban.",
-    "website": "https://www.ritapeto.eu/",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "lorincz-laszlo",
-    "name_en": "László Lőrincz",
-    "name_hu": "Lőrincz László",
-    "primary_affiliation": "Corvinus University of Budapest (NETI Lab) & KRTK Institute of Economics",
-    "primary_fields": [
-      "labor-markets",
-      "regional-urban",
-      "innovation-digital"
-    ],
-    "bio_en": "László Lőrincz is a researcher at Corvinus University of Budapest (NETI Lab) and the KRTK Institute of Economics. His research is in social networks, labor mobility, and the geography of economic activity. His work has appeared in the Journal of Economic Geography, the Journal of Technology Transfer, and the European Journal of Population.",
-    "bio_hu": "Lőrincz László a Budapesti Corvinus Egyetem (NETI Lab) és a KRTK Közgazdaság-tudományi Intézet kutatója. Kutatási területe a szociális hálózatok, a munkaerő-mobilitás és a gazdasági tevékenységek földrajza. Munkái megjelentek a Journal of Economic Geographyben, a Journal of Technology Transferben és az European Journal of Populationben.",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "barany-zsofia",
-    "name_en": "Zsófia L. Bárány",
-    "name_hu": "Bárány Zsófia",
-    "primary_affiliation": "Sciences Po Paris, Department of Economics",
-    "primary_fields": [
-      "labor-markets",
-      "macroeconomics",
-      "inequality-welfare"
-    ],
-    "bio_en": "Zsófia L. Bárány is Associate Professor at the Department of Economics, Sciences Po Paris. Her research is in macroeconomics and labor economics, with a focus on job polarisation, structural change, and the sectoral sources of labor-productivity growth. Her work has appeared in the American Economic Journal: Macroeconomics, the Journal of Labor Economics, and the Review of Economic Dynamics.",
-    "bio_hu": "Bárány Zsófia a Sciences Po Paris Közgazdaságtani Tanszékének docense. Kutatási területe a makroökonómia és a munkaerőpiac, különös tekintettel a foglalkozási polarizációra, a szerkezeti átalakulásra és a munkatermelékenység-növekedés ágazati forrásaira. Munkái megjelentek az American Economic Journal: Macroeconomicsban, a Journal of Labor Economicsban és a Review of Economic Dynamicsban.",
-    "website": "https://sites.google.com/view/zbarany",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "vonyo-tamas",
-    "name_en": "Tamás Vonyó",
-    "name_hu": "Vonyó Tamás",
-    "primary_affiliation": "IMT School for Advanced Studies Lucca",
-    "primary_fields": [
-      "transition-postcommunist",
-      "macroeconomics",
-      "firms-productivity"
-    ],
-    "bio_en": "Tamás Vonyó is an economic historian at IMT School for Advanced Studies Lucca. His research covers postwar European reconstruction, the economic history of state-socialism, and the long-run factors behind the post-1945 divergence between Eastern and Western Europe. His work has appeared regularly in the European Review of Economic History and the Economic History Review.",
-    "bio_hu": "Vonyó Tamás gazdaságtörténész az IMT School for Advanced Studies Lucca intézményben. Kutatási területe a második világháború utáni európai újjáépítés, az államszocialista gazdaságok gazdaságtörténete, valamint Kelet- és Nyugat-Európa 1945 utáni divergenciájának hosszú távú okai. Munkái rendszeresen megjelennek a European Review of Economic Historyben és az Economic History Review-ban.",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "temesvary-judit",
-    "name_en": "Judit Temesváry",
-    "name_hu": "Temesváry Judit",
-    "primary_affiliation": "Federal Reserve Board (Washington, DC)",
-    "primary_fields": [
-      "banking-finance",
-      "macroeconomics",
-      "trade-fdi"
-    ],
-    "bio_en": "Judit Temesváry is an economist at the Federal Reserve Board in Washington, DC. Her research covers international banking, cross-border credit flows, and the interaction between monetary and macroprudential policies. Her work has appeared in the Journal of International Economics, the Journal of Banking & Finance, and the Journal of International Money and Finance.",
-    "bio_hu": "Temesváry Judit közgazdász a washingtoni Federal Reserve Boardnál. Kutatási területe a nemzetközi bankrendszer, a határon átnyúló hitelezés és a monetáris és makroprudenciális politikák kölcsönhatása. Munkái megjelentek a Journal of International Economicsban, a Journal of Banking & Finance-ben és a Journal of International Money and Finance-ben.",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "szerb-laszlo",
-    "name_en": "László A. Szerb",
-    "name_hu": "Szerb László",
-    "primary_affiliation": "University of Pécs, Faculty of Business and Economics",
-    "primary_fields": [
-      "firms-productivity",
-      "innovation-digital",
-      "regional-urban"
-    ],
-    "bio_en": "László A. Szerb is Professor at the Faculty of Business and Economics, University of Pécs. His research is in entrepreneurship and firm dynamics, with a particular focus on national systems of entrepreneurship and cross-country measurement of the entrepreneurial ecosystem. His work has appeared in Research Policy and Small Business Economics.",
-    "bio_hu": "Szerb László a Pécsi Tudományegyetem Közgazdaságtudományi Karának professzora. Kutatási területe a vállalkozás és vállalati dinamika, különös tekintettel a vállalkozói nemzeti rendszerekre és a vállalkozói ökoszisztéma országok közötti mérésére. Munkái megjelentek a Research Policyban és a Small Business Economicsban.",
-    "repec_id": "psz66",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "simonovits-andras",
-    "name_en": "András Simonovits",
-    "name_hu": "Simonovits András",
-    "primary_affiliation": "KRTK Institute of Economics",
-    "primary_fields": [
-      "fiscal-tax",
-      "demographics-migration",
-      "methods"
-    ],
-    "bio_en": "András Simonovits is a senior researcher at KRTK Institute of Economics. His long career spans optimal control theory applied to planned economies, mathematical modelling of pension systems, and the political economy of tax and benefit design. His work has appeared in the Journal of Comparative Economics, the Journal of Economics, and numerous Hungarian-language and monograph outlets.",
-    "bio_hu": "Simonovits András a KRTK Közgazdaság-tudományi Intézet vezető kutatója. Hosszú pályafutása az optimális irányítás-elmélet tervgazdasági alkalmazásaitól a nyugdíjrendszerek matematikai modellezéséig és az adó- és juttatási rendszerek politikai gazdaságtanáig terjed. Munkái megjelentek a Journal of Comparative Economicsban, a Journal of Economicsben, valamint számos magyar nyelvű folyóiratban és monográfiában.",
-    "repec_id": "psi174",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "darvas-zsolt",
-    "name_en": "Zsolt Darvas",
-    "name_hu": "Darvas Zsolt",
-    "primary_affiliation": "Bruegel (Brussels) & Corvinus University of Budapest",
-    "primary_fields": [
-      "macroeconomics",
-      "fiscal-tax",
-      "banking-finance"
-    ],
-    "bio_en": "Zsolt Darvas is Senior Fellow at Bruegel in Brussels and part-time Senior Research Fellow at Corvinus University of Budapest. His research covers EU macroeconomic governance, fiscal and monetary policy, exchange rates, and income inequality. He earned his PhD at Corvinus and previously served as Deputy Head of the Research Department at the Magyar Nemzeti Bank. His work has appeared in the Journal of Banking & Finance and widely in policy publications.",
-    "bio_hu": "Darvas Zsolt a brüsszeli Bruegel vezető kutatója és a Budapesti Corvinus Egyetem részmunkaidős vezető kutatója. Kutatási területe az EU makroökonómiai kormányzása, a fiskális és monetáris politika, az árfolyamok és a jövedelmi egyenlőtlenség. PhD-fokozatát a Corvinuson szerezte, korábban a Magyar Nemzeti Bank Kutatási Főosztályának vezető-helyettese volt. Munkái megjelentek a Journal of Banking & Finance-ben és széles körben a szakpolitikai szakirodalomban.",
-    "repec_id": "pda162",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "kis-katos-krisztina",
-    "name_en": "Krisztina Kis-Katos",
-    "name_hu": "Kis-Katos Krisztina",
-    "primary_affiliation": "University of Göttingen",
-    "primary_fields": [
-      "trade-fdi",
-      "labor-markets"
-    ],
-    "bio_en": "Professor at the University of Göttingen, working on trade, labour markets and political economy of development.",
-    "bio_hu": "A Göttingeni Egyetem professzora, kereskedelem-, munkapiac- és fejlődési-politikai gazdaságtan területén.",
-    "bio_review": "stub"
-  },
-  {
-    "id": "gyongyosi-gyozo",
-    "name_en": "Győző Gyöngyösi",
-    "name_hu": "Gyöngyösi Győző",
-    "primary_affiliation": "Utrecht University",
-    "primary_fields": [
-      "banking-finance",
-      "political-economy"
-    ],
-    "bio_en": "Assistant Professor at Utrecht School of Economics; household finance + political-economy work on the Hungarian foreign-currency-mortgage crisis.",
-    "bio_hu": "Az Utrechti Egyetem közgazdaságtan tanszékének adjunktusa; háztartási pénzügyek és politikai gazdaságtan, kiemelten a magyar devizahitel-válság.",
-    "bio_review": "stub"
-  },
-  {
-    "id": "wolf-zoltan",
-    "name_en": "Zoltan Wolf",
-    "name_hu": "Wolf Zoltán",
-    "primary_affiliation": "Westat / U.S. Census Bureau",
-    "primary_fields": [
-      "firms-productivity"
-    ],
-    "bio_en": "Applied microeconomist working with U.S. Census plant-level data on firm dynamics and productivity dispersion.",
-    "bio_hu": "Alkalmazott mikroökonómus; az amerikai Census Bureau telephely-szintű adataival dolgozik vállalati dinamikák és termelékenységi szóródás területén.",
-    "bio_review": "stub"
-  },
-  {
-    "id": "molnar-kriszta",
-    "name_en": "Krisztina Molnár",
-    "name_hu": "Molnár Krisztina",
-    "primary_affiliation": "Norwegian School of Economics (NHH)",
-    "primary_fields": [
-      "macroeconomics",
-      "banking-finance",
-      "behavioral"
-    ],
-    "bio_en": "Krisztina Molnár is Professor of Economics at the Norwegian School of Economics (NHH) in Bergen. Her research is in monetary economics, expectations formation, learning, and household consumption. Her work has appeared in the Journal of the European Economic Association, the Journal of Monetary Economics, the Journal of Money, Credit and Banking, the European Economic Review, and Economica.",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "sarvary-miklos",
-    "name_en": "Miklós Sárváry",
-    "name_hu": "Sárváry Miklós",
-    "primary_affiliation": "Columbia Business School",
-    "primary_fields": [
-      "industrial-organization",
-      "innovation-digital",
-      "firms-productivity"
-    ],
-    "bio_en": "Miklós Sárváry is the Carson Family Professor of Business at Columbia Business School. His research is in marketing science, media economics, digital markets, network effects, technology diffusion, and the economics of digital currencies and AI. His work has appeared in Management Science, the Journal of Marketing Research, Marketing Science, the Journal of Marketing, and Quantitative Marketing and Economics.",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "kovacs-balazs",
-    "name_en": "Balázs Kovács",
-    "name_hu": "Kovács Balázs",
-    "primary_affiliation": "Yale School of Management",
-    "primary_fields": [
-      "industrial-organization",
-      "firms-productivity",
-      "behavioral"
-    ],
-    "bio_en": "Balázs Kovács is Professor at the Yale School of Management. His research is in organisation theory, category spanning, authenticity, networks, and the application of large language models to social-science measurement. His work has appeared in the Academy of Management Annals, Administrative Science Quarterly, American Sociological Review, Organization Science, Management Science, Strategic Management Journal, and PNAS, among others.",
-    "bio_review": "needs-verification"
-  },
-  {
-    "id": "fulop-andras",
-    "name_en": "András Fülöp",
-    "name_hu": "Fülöp András",
-    "primary_affiliation": "ESSEC Business School",
-    "primary_fields": [
-      "banking-finance",
-      "methods",
-      "macroeconomics"
-    ],
-    "bio_en": "András Fülöp is Professor of Finance at ESSEC Business School. His research is in financial econometrics and asset pricing, with a focus on Bayesian econometrics and sequential Monte Carlo methods applied to credit risk, long-run risk models, bond return predictability, and CDS markets. His work has appeared in the Review of Financial Studies, the Journal of Econometrics, the Journal of Business and Economic Statistics, the Journal of Banking & Finance, and Management Science.",
-    "bio_review": "needs-verification"
+    "id": "abraham-arpad"
+  },
+  {
+    "id": "adamecz-anna"
+  },
+  {
+    "id": "ambrus-attila"
+  },
+  {
+    "id": "bako-barna"
+  },
+  {
+    "id": "barany-zsofia"
+  },
+  {
+    "id": "barath-lajos"
+  },
+  {
+    "id": "bekes-gabor"
+  },
+  {
+    "id": "bencsik-panka"
+  },
+  {
+    "id": "benczur-peter"
+  },
+  {
+    "id": "benedek-marton"
+  },
+  {
+    "id": "benk-szilard"
+  },
+  {
+    "id": "berlinger-edina"
+  },
+  {
+    "id": "biro-aniko"
+  },
+  {
+    "id": "biro-peter"
+  },
+  {
+    "id": "bisztray-marta"
+  },
+  {
+    "id": "boza-istvan"
+  },
+  {
+    "id": "branyiczki-reka"
+  },
+  {
+    "id": "csaji-gergely"
+  },
+  {
+    "id": "csercsik-david"
+  },
+  {
+    "id": "csoka-peter"
+  },
+  {
+    "id": "danis-andras"
+  },
+  {
+    "id": "darvas-zsolt"
+  },
+  {
+    "id": "domotor-barbara"
+  },
+  {
+    "id": "elek-peter"
+  },
+  {
+    "id": "elekes-zoltan"
+  },
+  {
+    "id": "ertl-antal"
+  },
+  {
+    "id": "eso-peter"
+  },
+  {
+    "id": "ferto-imre"
+  },
+  {
+    "id": "fleiner-tamas"
+  },
+  {
+    "id": "fulop-andras"
+  },
+  {
+    "id": "gaspar-attila"
+  },
+  {
+    "id": "gyongyosi-gyozo"
+  },
+  {
+    "id": "hajdu-gabor"
+  },
+  {
+    "id": "hajdu-tamas"
+  },
+  {
+    "id": "halpern-laszlo"
+  },
+  {
+    "id": "harasztosi-peter"
+  },
+  {
+    "id": "hermann-zoltan"
+  },
+  {
+    "id": "horn-daniel"
+  },
+  {
+    "id": "hornok-cecilia"
+  },
+  {
+    "id": "ilyes-virag"
+  },
+  {
+    "id": "janko-zsuzsanna"
+  },
+  {
+    "id": "juhasz-reka"
+  },
+  {
+    "id": "juhasz-sandor"
+  },
+  {
+    "id": "keller-tamas"
+  },
+  {
+    "id": "kertesi-gabor"
+  },
+  {
+    "id": "kezdi-gabor"
+  },
+  {
+    "id": "kis-katos-krisztina"
+  },
+  {
+    "id": "kiss-hubert"
+  },
+  {
+    "id": "koczy-laszlo"
+  },
+  {
+    "id": "kondor-peter"
+  },
+  {
+    "id": "konya-istvan"
+  },
+  {
+    "id": "koren-miklos"
+  },
+  {
+    "id": "kornai-janos"
+  },
+  {
+    "id": "koszegi-botond"
+  },
+  {
+    "id": "kovacs-balazs"
+  },
+  {
+    "id": "laczo-sarolta"
+  },
+  {
+    "id": "lengyel-balazs"
+  },
+  {
+    "id": "lieli-robert"
+  },
+  {
+    "id": "lindner-attila"
+  },
+  {
+    "id": "loranth-gyongyi"
+  },
+  {
+    "id": "lorincz-laszlo"
+  },
+  {
+    "id": "lychagin-sergey"
+  },
+  {
+    "id": "manchin-miriam"
+  },
+  {
+    "id": "molnar-kriszta"
+  },
+  {
+    "id": "molnar-timea"
+  },
+  {
+    "id": "murakozy-balazs"
+  },
+  {
+    "id": "nagy-david"
+  },
+  {
+    "id": "neszveda-gabor"
+  },
+  {
+    "id": "peto-rita"
+  },
+  {
+    "id": "prinz-daniel"
+  },
+  {
+    "id": "reizer-balazs"
+  },
+  {
+    "id": "sarvary-miklos"
+  },
+  {
+    "id": "simonovits-andras"
+  },
+  {
+    "id": "somogyi-robert"
+  },
+  {
+    "id": "szabo-morvai-agnes"
+  },
+  {
+    "id": "szeidl-adam"
+  },
+  {
+    "id": "szentes-balazs"
+  },
+  {
+    "id": "szerb-laszlo"
+  },
+  {
+    "id": "sziklai-balazs"
+  },
+  {
+    "id": "szucs-ferenc"
+  },
+  {
+    "id": "telegdy-almos"
+  },
+  {
+    "id": "temesvary-judit"
+  },
+  {
+    "id": "tobias-aron"
+  },
+  {
+    "id": "ujhelyi-gergely"
+  },
+  {
+    "id": "valentinyi-akos"
+  },
+  {
+    "id": "virag-gabor"
+  },
+  {
+    "id": "vonyo-tamas"
+  },
+  {
+    "id": "wachs-johannes"
+  },
+  {
+    "id": "wolf-zoltan"
+  },
+  {
+    "id": "zawadowski-adam"
   }
 ]

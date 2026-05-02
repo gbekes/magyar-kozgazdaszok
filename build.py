@@ -1,10 +1,11 @@
 """Build script for Evidence for Hungary site.
 
 Two jobs:
-1. Expand authors-seed.json into data/authors/<id>.json (only creates new ones; does
-   not overwrite files that already exist).
-2. Aggregate data/authors/*.json and data/papers/*.json + topics + journals into a
-   single data/index.json the static site loads in one fetch.
+1. Verify authors-seed.json (a manifest of approved author IDs) against the
+   per-author files in data/authors/. Per-author files are the source of
+   truth for everything else.
+2. Aggregate data/authors/*.json and data/papers/*.json + topics + journals
+   into a single data/index.json the static site loads in one fetch.
 
 Run:  python build.py
 """
@@ -23,50 +24,23 @@ PRESS_DIR = DATA / "press"
 SEED_FILE = ROOT / "authors-seed.json"
 
 
-def expand_seed_authors() -> int:
-    """Turn each seed entry into data/authors/<id>.json (skip existing)."""
+def check_seed_manifest() -> tuple[int, list[str]]:
+    """authors-seed.json is now a manifest of approved author IDs.
+
+    The per-author file at data/authors/<id>.json is the single source of
+    truth for everything else (name, bio, affiliations). This step just
+    verifies that every ID in the manifest has a file; missing files are
+    reported but do not block the build.
+    """
     with open(SEED_FILE, "r", encoding="utf-8") as f:
         seed = json.load(f)
 
-    created = 0
+    missing = []
     for s in seed:
         aid = s["id"]
-        out = AUTHORS_DIR / f"{aid}.json"
-        if out.exists():
-            continue
-
-        author = {
-            "id": aid,
-            "name_en": s.get("name_en"),
-            "name_hu": s.get("name_hu"),
-            "affiliations": [
-                {"name": s.get("primary_affiliation", ""), "role": None, "start": None}
-            ]
-            if s.get("primary_affiliation")
-            else [],
-            "website": s.get("website"),
-            "email": s.get("email"),
-            "repec_id": s.get("repec_id"),
-            "scholar_id": s.get("scholar_id"),
-            "orcid": s.get("orcid"),
-            "primary_fields": s.get("primary_fields", []),
-            "bio_en": s.get("bio_en"),
-            "bio_hu": s.get("bio_hu"),
-            "photo_url": None,
-            "qualifying_publication": None,
-            "deceased": s.get("deceased", False),
-            "died": s.get("died"),
-            "open_to_media_en": s.get("open_to_media_en", False),
-            "open_to_media_hu": s.get("open_to_media_hu", False),
-            "media_note": s.get("media_note"),
-            "review_status": s.get("bio_review", "stub"),
-        }
-
-        with open(out, "w", encoding="utf-8") as f:
-            json.dump(author, f, ensure_ascii=False, indent=2)
-        created += 1
-
-    return created
+        if not (AUTHORS_DIR / f"{aid}.json").exists():
+            missing.append(aid)
+    return len(seed), missing
 
 
 def load_json(path: Path):
@@ -137,12 +111,16 @@ def build_index() -> dict:
 
 
 def main() -> None:
-    created = expand_seed_authors()
+    n_seed, missing = check_seed_manifest()
     index = build_index()
     with open(DATA / "index.json", "w", encoding="utf-8") as f:
         json.dump(index, f, ensure_ascii=False, indent=2)
 
-    print(f"Created {created} new author file(s).")
+    print(f"Manifest: {n_seed} author IDs.")
+    if missing:
+        print(f"  WARNING: {len(missing)} IDs in authors-seed.json have no per-author file:")
+        for aid in missing:
+            print(f"    - {aid}")
     print(
         f"Index: {index['counts']['authors']} authors, "
         f"{index['counts']['papers']} papers, "

@@ -2,7 +2,7 @@
 
 A starting list of Hungarian economists for admission to the site. **This is a seed, not the final list.** Gábor to verify, prune, and expand using RePEc Hungary + CEPR + personal networks.
 
-**Draft bios for each name are in `/data/authors-seed.json`**, with a `bio_review` flag indicating confidence (`confident` / `needs-verification` / `stub`). Claude Code will split this array into individual `data/authors/[slug].json` files during the build.
+**Per-author files at `data/authors/<slug>.json`** are the single source of truth (name, bio, affiliations, qualifying publication). `authors-seed.json` is a flat manifest of approved IDs — see `CLAUDE.md`.
 
 Each name includes: primary affiliation, a guess at primary field, and source links (RePEc / website) to verify their qualifying publication(s).
 
