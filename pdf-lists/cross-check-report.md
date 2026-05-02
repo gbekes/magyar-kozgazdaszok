@@ -1,6 +1,6 @@
 # Cross-check report
 
-Papers checked: 767
+Papers checked: 787
 Policy items checked: 46
 Press items checked: 133
 Authors checked: 90
@@ -13,8 +13,8 @@ Authors checked: 90
 - firms-productivity: 134
 - macroeconomics: 127
 - behavioral: 123
-- labor-markets: 107
-- inequality-welfare: 101
+- labor-markets: 108
+- inequality-welfare: 103
 - industrial-organization: 98
 - trade-fdi: 83
 - mechanism-design: 77
@@ -22,19 +22,19 @@ Authors checked: 90
 - fiscal-tax: 68
 - regional-urban: 65
 - innovation-digital: 60
-- education-skills: 54
+- education-skills: 56
 - health: 50
 - transition-postcommunist: 48
-- demographics-migration: 45
+- demographics-migration: 46
 - energy-environment: 23
 - agriculture-food: 13
 - market-design: 6
 
 **Methods**:
-- panel-data: 266
+- panel-data: 268
 - theory: 259
 - structural: 160
-- descriptive-survey: 103
+- descriptive-survey: 105
 - diff-in-diff: 57
 - time-series: 39
 - rct: 37
@@ -44,9 +44,9 @@ Authors checked: 90
 
 **Data types**:
 - macro-aggregate: 163
-- admin-individual: 107
+- admin-individual: 108
 - admin-firm: 96
-- survey: 91
+- survey: 93
 - firm-level-dataset: 70
 - field-experiment: 37
 - digital-trace: 27
