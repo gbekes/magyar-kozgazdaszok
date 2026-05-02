@@ -22,6 +22,12 @@ scripts/drafts_*.json
 # Author-submission archive (local-only record after processing)
 submissions/DONE/
 
+# Generated per-author markdown exports (rebuild via scripts/export_author_md.py)
+exports/
+
+# Transient DOI-fix scratch files
+pdf-lists/doi-fixes-proposed.json
+
 # Local config / secrets
 .env
 .env.local
