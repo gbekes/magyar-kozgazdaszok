@@ -2262,7 +2262,7 @@
           "name": "KRTK Institute of Economics",
           "name_hu": "KRTK Közgazdaság-tudományi Intézet",
           "role": "Senior Research Fellow",
-          "role_hu": "vezető kutató",
+          "role_hu": "tudományos főmunkatárs",
           "start": null
         }
       ],
@@ -2276,8 +2276,8 @@
         "firms-productivity",
         "innovation-digital"
       ],
-      "bio_en": "Miklós Koren is Professor of Economics at Central European University and Senior Research Fellow at KRTK. He studies how firms organize production across borders, import relationships, and more recently the economics of open source software and AI. His work has appeared in the Quarterly Journal of Economics and the Review of Economic Studies.",
-      "bio_hu": "Koren Miklós a Közép-európai Egyetem (CEU) közgazdaságtan professzora és a KRTK vezető tudományos munkatársa. Kutatja, hogyan szervezik a vállalatok a termelést a határokon át, az import kapcsolatokat, újabban pedig a nyílt forráskódú szoftverek és az MI közgazdaságtanát. Munkái megjelentek a Quarterly Journal of Economicsban és a Review of Economic Studies-ban.",
+      "bio_en": "Miklós Koren is Professor of Economics at Central European University and Senior Research Fellow at KRTK. He studies how firms organize production across borders, import relationships, and more recently the economics of open source software and AI. His work has appeared in the Quarterly Journal of Economics and the American Economic Review.",
+      "bio_hu": "Koren Miklós a Közép-európai Egyetem (CEU) közgazdaságtan professzora és a KRTK tudományos főmunkatársa. Kutatása a vállalatok termelékenységére, importjára, újabban pedig a nyílt forráskódú szoftverek és az MI közgazdaságtanára fókuszál. Munkáit a Quarterly Journal of Economics és az American Economic Review közölte.",
       "photo_url": "https://economics.ceu.edu/sites/economics.ceu.edu/files/styles/profile_teaser/public/koren-headshot_5.jpg?itok=xCqyx8py",
       "qualifying_publication": {
         "title": "A Balls-and-Bins Model of Trade: Reply",
@@ -2291,7 +2291,7 @@
       "openalex_id": "A5066597415",
       "last_reviewed_at": "2026-04-27",
       "paper_count": 14,
-      "policy_count": 3,
+      "policy_count": 2,
       "press_count": 4
     },
     {
@@ -40701,33 +40701,6 @@
       "review_status": "metadata-fetched"
     },
     {
-      "id": "koren-2022-cepr-ukraine-rebuilding",
-      "title": "Ukraine's EU integration",
-      "title_hu": null,
-      "authors": [
-        "koren-miklos"
-      ],
-      "outlet_kind": "chapter",
-      "outlet": "Rebuilding Ukraine: Principles and Policies (Gorodnichenko, Sologoub, Weder di Mauro eds.)",
-      "outlet_issue": null,
-      "institution": "CEPR Press",
-      "year": 2022,
-      "language": "en",
-      "url": "https://cepr.org/publications/books-and-reports/rebuilding-ukraine-principles-and-policies",
-      "doi": null,
-      "summary_en": null,
-      "summary_hu": null,
-      "policy_relevance": null,
-      "policy_relevance_hu": null,
-      "topics": [],
-      "countries_studied": [],
-      "policy_instruments": [],
-      "linked_paper_id": null,
-      "added_at": "2026-04-25",
-      "last_reviewed_at": "2026-04-25",
-      "review_status": "metadata-fetched"
-    },
-    {
       "id": "murakozy-telegdy-2021-mt-eu-grants",
       "title": "The effect of EU-funded enterprise support on firms and workers",
       "title_hu": "Az EU-forrásokból finanszírozott vállalati támogatások hatása a vállalatokra és dolgozóikra",
@@ -44639,7 +44612,7 @@
   "counts": {
     "authors": 90,
     "papers": 787,
-    "policy": 46,
+    "policy": 45,
     "press": 133,
     "topics": 21
   }
