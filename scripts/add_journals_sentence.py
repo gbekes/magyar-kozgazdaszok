@@ -40,6 +40,21 @@ def needs_sentence(author, journal_names):
     return not any(jn in bio for jn in journal_names)
 
 
+JOURNAL_BLACKLIST = {
+    "Edward Elgar Publishing eBooks",
+    "SpringerBriefs in economics",
+    "Lecture Notes in Computer Science",
+    "Lecture Notes in Economics and Mathematical Systems",
+    "SSRN Electronic Journal",
+    "Routledge eBooks",
+    "Springer eBooks",
+    "Cambridge University Press eBooks",
+    "Oxford University Press eBooks",
+    "Palgrave Macmillan UK eBooks",
+    "MIT Press eBooks",
+    "Studies in microeconomics",
+}
+
 HUNGARIAN_ONLY = {
     "Közgazdasági Szemle",
     "Statisztikai Szemle",
@@ -67,7 +82,7 @@ def author_top_journals(slug, papers, whitelist):
         if slug not in (p.get("authors") or []):
             continue
         jname = p.get("journal")
-        if jname:
+        if jname and jname not in JOURNAL_BLACKLIST:
             counts[jname] += 1
     if not counts:
         return []
