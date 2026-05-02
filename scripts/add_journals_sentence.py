@@ -32,12 +32,24 @@ def load_journals():
     return json.loads(JOURNALS.read_text(encoding="utf-8"))
 
 
+_JOURNAL_NAME_RE_CACHE = {}
+
+
+def _journal_match(bio, journal_names):
+    key = id(journal_names)
+    if key not in _JOURNAL_NAME_RE_CACHE:
+        import re as _re
+        _JOURNAL_NAME_RE_CACHE[key] = [
+            _re.compile(r"\b" + _re.escape(jn) + r"\b") for jn in journal_names
+        ]
+    return any(p.search(bio) for p in _JOURNAL_NAME_RE_CACHE[key])
+
+
 def needs_sentence(author, journal_names):
     bio = author.get("bio_en") or ""
-    # Already-added template counts as "has it"
     if "has published in journals like" in bio:
         return False
-    return not any(jn in bio for jn in journal_names)
+    return not _journal_match(bio, journal_names)
 
 
 JOURNAL_BLACKLIST = {
@@ -53,6 +65,11 @@ JOURNAL_BLACKLIST = {
     "Palgrave Macmillan UK eBooks",
     "MIT Press eBooks",
     "Studies in microeconomics",
+    "Contributions to economics",
+    "Theory and Decision Library C (Springer)",
+    "Theory and Decision Library C",
+    "International economic association series",
+    "Advances in Spatial Science",
 }
 
 HUNGARIAN_ONLY = {
