@@ -727,7 +727,7 @@
       "review_status": "needs-verification",
       "openalex_id": "A5072365613",
       "last_reviewed_at": "2026-04-27",
-      "paper_count": 8,
+      "paper_count": 9,
       "policy_count": 1,
       "press_count": 0
     },
@@ -1749,7 +1749,7 @@
       "review_status": "needs-verification",
       "openalex_id": "A5077964171",
       "last_reviewed_at": "2026-04-27",
-      "paper_count": 7,
+      "paper_count": 8,
       "policy_count": 0,
       "press_count": 0
     },
@@ -2516,7 +2516,7 @@
       "openalex_id": "A5005839111",
       "bio_review": "confident",
       "last_reviewed_at": "2026-04-27",
-      "paper_count": 18,
+      "paper_count": 19,
       "policy_count": 0,
       "press_count": 2
     },
@@ -2676,7 +2676,7 @@
       "review_status": "needs-verification",
       "openalex_id": "A5007972350",
       "last_reviewed_at": "2026-04-27",
-      "paper_count": 7,
+      "paper_count": 11,
       "policy_count": 0,
       "press_count": 3
     },
@@ -3747,7 +3747,7 @@
       "review_status": "needs-verification",
       "openalex_id": "A5070274437",
       "bio_review": "confident",
-      "paper_count": 5,
+      "paper_count": 6,
       "policy_count": 0,
       "press_count": 0
     },
@@ -26017,6 +26017,53 @@
       ]
     },
     {
+      "id": "ilyes-boza-et-al-2023-joeg",
+      "title": "How to enter high-opportunity places? The role of social contacts for residential mobility",
+      "authors": [
+        "ilyes-virag",
+        "boza-istvan",
+        "lorincz-laszlo",
+        "Rikard Eriksson"
+      ],
+      "publication_type": "article",
+      "journal": "Journal of Economic Geography",
+      "year": 2023,
+      "volume": "23",
+      "issue": "2",
+      "pages": "371-395",
+      "doi": "10.1093/jeg/lbac019",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1093/jeg/lbac019",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "The aim of this article is to analyze the contribution of social ties to moving to high-opportunity locations and assess whether their effect is more pronounced for low-income individuals as a compensation for economic resources. This is done by utilizing Swedish administrative data and by focusing on a wide range of relationships (observed directly or inferred from the data): close and distant family ties, former co-workers and university peers. For estimating the effect of social ties, we use linear probability models, where observed migration is regressed on individual-specific and target-specific characteristics.",
+      "summary_en": null,
+      "summary_hu": null,
+      "data_used": null,
+      "data_used_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [
+        "regional-urban",
+        "labor-markets",
+        "demographics-migration"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "SE"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
+      "featured": false,
+      "added_at": "2026-05-02",
+      "last_reviewed_at": "2026-05-02",
+      "review_status": "metadata-fetched",
+      "openalex_id": "W4284959352"
+    },
+    {
       "id": "ilyes-sebok-2020-ksz",
       "title": "Egyetemről a munkaerőpiacra. Felsőoktatási ismeretségek hatása a munkaerőpiaci kilátásokra",
       "authors": [
@@ -29027,6 +29074,50 @@
       "last_reviewed_at": "2026-04-27",
       "review_status": "ai-drafted",
       "openalex_id": "W2504380465"
+    },
+    {
+      "id": "koltai-lorincz-et-al-2025-ans",
+      "title": "Do diversity and context collapse kill an online social network?",
+      "authors": [
+        "Júlia Koltai",
+        "lorincz-laszlo",
+        "wachs-johannes",
+        "Károly Takács"
+      ],
+      "publication_type": "article",
+      "journal": "Applied Network Science",
+      "year": 2025,
+      "volume": "10",
+      "issue": "1",
+      "pages": null,
+      "doi": "10.1007/s41109-025-00719-6",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1007/s41109-025-00719-6",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "Our social lives consist of various circles, such as family, friends, and colleagues. Differences in norms and expectations among these circles can create tension in large online social networks (OSNs) due to blurred boundaries. It is unclear whether this phenomenon, known as context collapse, outweighs the convenience of having diverse communities in one place for OSN users. To explore this trade-off, we examined if ego network characteristics indicating context collapse could explain users' decisions to leave iWiW, a defunct Hungarian OSN with over 3.5 million active users at its peak.",
+      "summary_en": null,
+      "summary_hu": null,
+      "data_used": null,
+      "data_used_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [
+        "innovation-digital",
+        "behavioral"
+      ],
+      "methods": [],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "digital-trace"
+      ],
+      "featured": false,
+      "added_at": "2026-05-02",
+      "last_reviewed_at": "2026-05-02",
+      "review_status": "metadata-fetched",
+      "openalex_id": "W4412070078"
     },
     {
       "id": "kondor-2009-jof",
@@ -32673,6 +32764,56 @@
       "publication_type": "article"
     },
     {
+      "id": "lorincz-chihaya-et-al-2020-ans",
+      "title": "Global connections and the structure of skills in local co-worker networks",
+      "authors": [
+        "lorincz-laszlo",
+        "Guilherme Kenji Chihaya",
+        "Anikó Hannák",
+        "Dávid Takács",
+        "lengyel-balazs",
+        "Rikard Eriksson"
+      ],
+      "publication_type": "article",
+      "journal": "Applied Network Science",
+      "year": 2020,
+      "volume": "5",
+      "issue": "1",
+      "pages": null,
+      "doi": "10.1007/s41109-020-00325-8",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1007/s41109-020-00325-8",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "Social connections that reach distant places are advantageous for individuals, firms and cities, providing access to new skills and knowledge. However, systematic evidence on how firms build global knowledge access is still lacking. In this paper, we analyse how global work connections relate to differences in the skill composition of employees within companies and local industry clusters. We gather survey data from 10% of workers in a local industry in Sweden, and complement this with digital trace data to map co-worker networks and skill composition.",
+      "summary_en": null,
+      "summary_hu": null,
+      "data_used": null,
+      "data_used_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [
+        "regional-urban",
+        "firms-productivity",
+        "labor-markets"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "SE"
+      ],
+      "data_types": [
+        "survey",
+        "digital-trace"
+      ],
+      "featured": false,
+      "added_at": "2026-05-02",
+      "last_reviewed_at": "2026-05-02",
+      "review_status": "metadata-fetched",
+      "openalex_id": "W3045947932"
+    },
+    {
       "id": "lorincz-ilyes-et-al-2024-ksz",
       "title": "Földrajzi és nemek közötti bérkülönbségek a karrierszekvenciákban",
       "authors": [
@@ -32766,6 +32907,50 @@
       "last_reviewed_at": "2026-04-26",
       "review_status": "ai-drafted",
       "openalex_id": "W2889918167"
+    },
+    {
+      "id": "lorincz-koltai-et-al-2019-socnet",
+      "title": "Collapse of an online social network: Burning social capital to create it?",
+      "authors": [
+        "lorincz-laszlo",
+        "Júlia Koltai",
+        "Anna Fruzsina Győr",
+        "Károly Takács"
+      ],
+      "publication_type": "article",
+      "journal": "Social Networks",
+      "year": 2019,
+      "volume": "57",
+      "issue": null,
+      "pages": "43-53",
+      "doi": "10.1016/j.socnet.2018.11.004",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1016/j.socnet.2018.11.004",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "The last decade has shown that sometimes even the largest online social networks (OSNs) collapse. Significant cascading mechanisms have been identified in the pattern of abandoning the OSN iWiW at its peak of popularity and after. We set out to examine the key actors who were the first to leave their networks by contrasting explanations based on the structural position of users in the network. Using heterogeneous choice models, we found that a higher number of connections as well as less clustered ego-networks hindered early abandonment while early adoption was only a secondary factor.",
+      "summary_en": null,
+      "summary_hu": null,
+      "data_used": null,
+      "data_used_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [
+        "innovation-digital",
+        "behavioral"
+      ],
+      "methods": [],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "digital-trace"
+      ],
+      "featured": false,
+      "added_at": "2026-05-02",
+      "last_reviewed_at": "2026-05-02",
+      "review_status": "metadata-fetched",
+      "openalex_id": "W2903598494"
     },
     {
       "id": "lorincz-nemeth-2022-ejopr",
@@ -42663,7 +42848,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 108
+      "paper_count": 110
     },
     {
       "id": "education-skills",
@@ -42696,7 +42881,7 @@
       "policy_framing_en": "Relevant to: family policy, pension system, immigration policy, retention of skilled workers.",
       "policy_framing_hu": "Releváns: családpolitika, nyugdíjrendszer, bevándorláspolitika, szakemberek megtartása.",
       "icon": "users",
-      "paper_count": 48
+      "paper_count": 49
     },
     {
       "id": "trade-fdi",
@@ -42718,7 +42903,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 141
+      "paper_count": 142
     },
     {
       "id": "innovation-digital",
@@ -42729,7 +42914,7 @@
       "policy_framing_en": "Relevant to: R&D tax credits, digital strategy, AI policy, innovation agency design, university–industry linkages.",
       "policy_framing_hu": "Releváns: K+F adókedvezmények, digitális stratégia, MI-politika, innovációs ügynökségek, egyetem–ipar kapcsolatok.",
       "icon": "cpu",
-      "paper_count": 61
+      "paper_count": 63
     },
     {
       "id": "banking-finance",
@@ -42762,7 +42947,7 @@
       "policy_framing_en": "Relevant to: regional development funds, housing policy, transport investment, urban planning.",
       "policy_framing_hu": "Releváns: regionális fejlesztési alapok, lakáspolitika, közlekedési beruházások, városfejlesztés.",
       "icon": "building",
-      "paper_count": 66
+      "paper_count": 68
     },
     {
       "id": "energy-environment",
@@ -42817,7 +43002,7 @@
       "policy_framing_en": "Relevant to: consumer protection, pension-default design, nudging, financial-education regulation, addictive-product regulation.",
       "policy_framing_hu": "Releváns: fogyasztóvédelem, nyugdíjalap-alapbeállítások, döntéslendítés (nudge), pénzügyi edukáció szabályozása, függőséget okozó termékek szabályozása.",
       "icon": "brain",
-      "paper_count": 123
+      "paper_count": 125
     },
     {
       "id": "industrial-organization",
@@ -44216,7 +44401,7 @@
   ],
   "counts": {
     "authors": 90,
-    "papers": 785,
+    "papers": 789,
     "policy": 34,
     "press": 133,
     "topics": 21
