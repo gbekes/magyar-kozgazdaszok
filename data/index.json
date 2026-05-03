@@ -329,7 +329,7 @@
       ],
       "paper_count": 17,
       "policy_count": 7,
-      "press_count": 28
+      "press_count": 29
     },
     {
       "id": "bencsik-panka",
@@ -636,8 +636,8 @@
         "HU"
       ],
       "paper_count": 25,
-      "policy_count": 0,
-      "press_count": 0
+      "policy_count": 1,
+      "press_count": 2
     },
     {
       "id": "biro-peter",
@@ -735,7 +735,7 @@
       ],
       "paper_count": 3,
       "policy_count": 0,
-      "press_count": 1
+      "press_count": 2
     },
     {
       "id": "boza-istvan",
@@ -1604,8 +1604,8 @@
         "HU"
       ],
       "paper_count": 5,
-      "policy_count": 3,
-      "press_count": 0
+      "policy_count": 4,
+      "press_count": 2
     },
     {
       "id": "halpern-laszlo",
@@ -2115,8 +2115,8 @@
         "HU"
       ],
       "paper_count": 12,
-      "policy_count": 6,
-      "press_count": 2
+      "policy_count": 7,
+      "press_count": 5
     },
     {
       "id": "kezdi-gabor",
@@ -2452,7 +2452,7 @@
       ],
       "paper_count": 14,
       "policy_count": 2,
-      "press_count": 4
+      "press_count": 11
     },
     {
       "id": "kornai-janos",
@@ -2780,7 +2780,7 @@
       ],
       "paper_count": 6,
       "policy_count": 0,
-      "press_count": 6
+      "press_count": 7
     },
     {
       "id": "loranth-gyongyi",
@@ -3078,7 +3078,7 @@
       ],
       "paper_count": 15,
       "policy_count": 3,
-      "press_count": 3
+      "press_count": 8
     },
     {
       "id": "nagy-david",
@@ -3223,7 +3223,7 @@
       ],
       "paper_count": 3,
       "policy_count": 0,
-      "press_count": 1
+      "press_count": 2
     },
     {
       "id": "prinz-daniel",
@@ -3277,7 +3277,7 @@
       ],
       "paper_count": 9,
       "policy_count": 0,
-      "press_count": 0
+      "press_count": 1
     },
     {
       "id": "reizer-balazs",
@@ -40626,6 +40626,37 @@
       "review_status": "ai-drafted"
     },
     {
+      "id": "biro-kertesi-hajdu-2025-mt-life-expectancy",
+      "title": "A várható élettartam jövedelmi egyenlőtlenségei Magyarországon 1992–1993 és 2022–2023 között",
+      "title_hu": null,
+      "authors": [
+        "biro-aniko",
+        "kertesi-gabor",
+        "hajdu-tamas"
+      ],
+      "outlet_kind": "chapter",
+      "outlet": "Munkaerőpiaci Tükör 2023–2024",
+      "outlet_issue": "2023–2024",
+      "institution": "KRTK Institute of Economics",
+      "year": 2025,
+      "language": "hu",
+      "url": "https://real.mtak.hu/219679/",
+      "doi": null,
+      "summary_en": null,
+      "summary_hu": null,
+      "policy_relevance": null,
+      "policy_relevance_hu": null,
+      "topics": [],
+      "countries_studied": [
+        "HU"
+      ],
+      "policy_instruments": [],
+      "linked_paper_id": null,
+      "added_at": "2026-05-03",
+      "last_reviewed_at": "2026-05-03",
+      "review_status": "ai-drafted"
+    },
+    {
       "id": "darvas-dom-2026-bruegel-analysis-eu-budget",
       "title": "Financing the EU budget: an assessment of five proposals for new resources",
       "title_hu": null,
@@ -41870,6 +41901,25 @@
       "last_reviewed_at": "2026-04-25"
     },
     {
+      "id": "bekes-murakozy-2008-portfolio-krugman",
+      "title": "A pénzügyi válságok legfontosabb modellje Krugman nevéhez fűződik",
+      "title_hu": "A pénzügyi válságok legfontosabb modellje Krugman nevéhez fűződik",
+      "authors": [
+        "bekes-gabor",
+        "murakozy-balazs"
+      ],
+      "kind": "column",
+      "venue": "Portfolio.hu",
+      "date": "2008-10-14",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/gazdasag/20081014/a-penzugyi-valsagok-legfontosabb-modellje-krugman-nevehez-fuzodik-104151",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-05-03",
+      "last_reviewed_at": "2026-05-03",
+      "review_status": "ai-drafted"
+    },
+    {
       "id": "bekes-murakozy-2012-voxeu-temporary-trade",
       "title": "Temporary trade: exporting only once in a while",
       "title_hu": null,
@@ -42627,6 +42677,27 @@
       "last_reviewed_at": "2026-04-25"
     },
     {
+      "id": "kertesi-2021-telex-life-expectancy",
+      "title": "Magyarországon a szegények rövidebb ideig élnek, de ennek nem feltétlenül kellene így lennie",
+      "title_hu": "Magyarországon a szegények rövidebb ideig élnek, de ennek nem feltétlenül kellene így lennie",
+      "authors": [
+        "kertesi-gabor",
+        "biro-aniko",
+        "hajdu-tamas",
+        "prinz-daniel"
+      ],
+      "kind": "column",
+      "venue": "Telex (Defacto)",
+      "date": "2021-12-07",
+      "language": "hu",
+      "url": "https://telex.hu/defacto/2021/12/07/magyarorszagon-a-szegenyek-rovidebb-ideig-elnek-de-ennek-nem-feltetlenul-kellene-igy-lennie",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-05-03",
+      "last_reviewed_at": "2026-05-03",
+      "review_status": "ai-drafted"
+    },
+    {
       "id": "kertesi-2022-qubit-podcast",
       "title": "The Hungarian education system selects in reverse, channelling ever-less-suited young people into teaching",
       "authors": [
@@ -42659,6 +42730,174 @@
       "added_at": "2026-04-25",
       "last_reviewed_at": "2026-04-25",
       "title_hu": "„Átfogó, forradalmian új humánerőforrás-politikára van szükség!\" — Interjú Kertesi Gáborral"
+    },
+    {
+      "id": "kertesi-2023-portfolio-children-dental",
+      "title": "Hatalmas a különbség a szegény és gazdag gyerekek fogainak állapota között",
+      "title_hu": "Hatalmas a különbség a szegény és gazdag gyerekek fogainak állapota között",
+      "authors": [
+        "kertesi-gabor",
+        "hajdu-tamas",
+        "Petra Fadgyas-Freyler"
+      ],
+      "kind": "column",
+      "venue": "Portfolio.hu",
+      "date": "2023-07-05",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/krtk/20230705/hatalmas-a-kulonbseg-a-szegeny-es-gazdag-gyerekek-fogainak-allapota-kozott-625847",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-05-03",
+      "last_reviewed_at": "2026-05-03",
+      "review_status": "ai-drafted"
+    },
+    {
+      "id": "kertesi-2024-telex-foster-care",
+      "title": "Jobb esélyekkel kezdik felnőtt életüket azok az állami gondozottak, akik nevelőszülőknél nőnek fel",
+      "title_hu": "Jobb esélyekkel kezdik felnőtt életüket azok az állami gondozottak, akik nevelőszülőknél nőnek fel",
+      "authors": [
+        "kertesi-gabor",
+        "Anna Bárdits"
+      ],
+      "kind": "column",
+      "venue": "Telex (Defacto)",
+      "date": "2024-04-22",
+      "language": "hu",
+      "url": "https://telex.hu/defacto/2024/04/22/allami-gondozott-gyerekek-intezet-vs-neveloszulok",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-05-03",
+      "last_reviewed_at": "2026-05-03",
+      "review_status": "ai-drafted"
+    },
+    {
+      "id": "koren-2013-index-erc-interview",
+      "title": "Fontos, hogy visszavár-e az ország",
+      "title_hu": "Fontos, hogy visszavár-e az ország",
+      "authors": [
+        "koren-miklos"
+      ],
+      "kind": "interview",
+      "venue": "Index.hu",
+      "date": "2013-01-06",
+      "language": "hu",
+      "url": "https://index.hu/gazdasag/2013/01/06/koren_miklos/",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-05-03",
+      "last_reviewed_at": "2026-05-03",
+      "review_status": "ai-drafted"
+    },
+    {
+      "id": "koren-2020-indexdefacto-nurses-childcare",
+      "title": "Sok ápoló kiesik most, mert a gyerekeikre kell vigyázniuk",
+      "title_hu": "Sok ápoló kiesik most, mert a gyerekeikre kell vigyázniuk",
+      "authors": [
+        "koren-miklos",
+        "biro-aniko",
+        "János Köllő"
+      ],
+      "kind": "blog",
+      "venue": "Index.hu (Defacto)",
+      "date": "2020-03-17",
+      "language": "hu",
+      "url": "https://index.hu/gazdasag/defacto/2020/03/17/iskolabezarasok_a_jo_a_rossz_es_a_csuf/",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-05-03",
+      "last_reviewed_at": "2026-05-03",
+      "review_status": "ai-drafted"
+    },
+    {
+      "id": "koren-2020-indexdefacto-school-closures-value",
+      "title": "Mennyit érnek az iskolabezárások?",
+      "title_hu": "Mennyit érnek az iskolabezárások?",
+      "authors": [
+        "koren-miklos"
+      ],
+      "kind": "blog",
+      "venue": "Index.hu (Defacto)",
+      "date": "2020-03-10",
+      "language": "hu",
+      "url": "https://index.hu/gazdasag/defacto/2020/03/10/mennyit_ernek_az_iskolabezarasok/",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-05-03",
+      "last_reviewed_at": "2026-05-03",
+      "review_status": "ai-drafted"
+    },
+    {
+      "id": "koren-2020-portfolio-elemzo-kozgazdasz",
+      "title": "Ha érteni akarsz, mérj!",
+      "title_hu": "Ha érteni akarsz, mérj!",
+      "authors": [
+        "koren-miklos"
+      ],
+      "kind": "interview",
+      "venue": "Portfolio.hu",
+      "date": "2020-12-15",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/krtk/20201215/ha-erteni-akarsz-merj-460886",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-05-03",
+      "last_reviewed_at": "2026-05-03",
+      "review_status": "ai-drafted"
+    },
+    {
+      "id": "koren-2022-qubit-pete-peter-obit",
+      "title": "Pete Péter a közgazdaságtan szerelmese és a sarlatánok ádáz ellenfele volt",
+      "title_hu": "Pete Péter a közgazdaságtan szerelmese és a sarlatánok ádáz ellenfele volt",
+      "authors": [
+        "koren-miklos"
+      ],
+      "kind": "op-ed",
+      "venue": "Qubit.hu",
+      "date": "2022-10-30",
+      "language": "hu",
+      "url": "https://qubit.hu/2022/10/30/pete-peter-a-kozgazdasagtan-szerelmese-es-a-sarlatanok-adaz-ellenfele-volt",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-05-03",
+      "last_reviewed_at": "2026-05-03",
+      "review_status": "ai-drafted"
+    },
+    {
+      "id": "koren-2025-qubit-ai-labor",
+      "title": "Az AI munkaerőpiaci hatása az internet elterjedéséhez lesz hasonló",
+      "title_hu": "Az AI munkaerőpiaci hatása az internet elterjedéséhez lesz hasonló",
+      "authors": [
+        "koren-miklos"
+      ],
+      "kind": "podcast",
+      "venue": "Qubit.hu (Dollárpapa)",
+      "date": "2025-08-25",
+      "language": "hu",
+      "url": "https://qubit.hu/2025/08/25/az-ai-munkaeropiaci-hatasa-az-internet-elterjedesehez-lesz-hasonlo",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-05-03",
+      "last_reviewed_at": "2026-05-03",
+      "review_status": "ai-drafted"
+    },
+    {
+      "id": "koren-2025-telex-stagflation",
+      "title": "Nem nő, csak drágul. Hogy juthat ki a csapdából a magyar gazdaság?",
+      "title_hu": "Nem nő, csak drágul. Hogy juthat ki a csapdából a magyar gazdaság?",
+      "authors": [
+        "koren-miklos",
+        "Attila Rátfai"
+      ],
+      "kind": "op-ed",
+      "venue": "Telex.hu",
+      "date": "2025-06-06",
+      "language": "hu",
+      "url": "https://telex.hu/nevertek/2025/06/06/makrogazdasag-stagflacio-gdp-inflacio",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-05-03",
+      "last_reviewed_at": "2026-05-03",
+      "review_status": "ai-drafted"
     },
     {
       "id": "koren-hornok-2016-voxeu-free-trade",
@@ -43297,6 +43536,81 @@
       "linked_paper_id": null,
       "added_at": "2026-04-25",
       "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "murakozy-2019-g7-podcast-competitiveness",
+      "title": "Mit mondanak a közgazdasági kutatások a versenyképességről?",
+      "title_hu": "Mit mondanak a közgazdasági kutatások a versenyképességről?",
+      "authors": [
+        "murakozy-balazs"
+      ],
+      "kind": "podcast",
+      "venue": "G7 Beszélgetések",
+      "date": "2019-02-23",
+      "language": "hu",
+      "url": "https://telex.hu/podcast/20190223/murakozy-balazs-palyazatot-sem-lehet-nyerni-ha-nincs-aram-a-konnektorban/",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-05-03",
+      "last_reviewed_at": "2026-05-03",
+      "review_status": "ai-drafted"
+    },
+    {
+      "id": "murakozy-2019-indexdefacto-innovation-skilled-workers",
+      "title": "Nem csoda kell az innovációhoz, hanem jól képzett dolgozók",
+      "title_hu": "Nem csoda kell az innovációhoz, hanem jól képzett dolgozók",
+      "authors": [
+        "murakozy-balazs",
+        "lindner-attila"
+      ],
+      "kind": "blog",
+      "venue": "Index.hu (Defacto)",
+      "date": "2019-07-04",
+      "language": "hu",
+      "url": "https://index.hu/gazdasag/defacto/2019/07/04/nem_csoda_kell_az_innovaciohoz_hanem_jol_kepzett_dolgozok/",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-05-03",
+      "last_reviewed_at": "2026-05-03",
+      "review_status": "ai-drafted"
+    },
+    {
+      "id": "murakozy-2025-telex-chronic-illness-labor",
+      "title": "Keményen bünteti a munkaerőpiac azokat, akik valamilyen krónikus betegséggel élnek",
+      "title_hu": "Keményen bünteti a munkaerőpiac azokat, akik valamilyen krónikus betegséggel élnek",
+      "authors": [
+        "murakozy-balazs",
+        "peto-rita",
+        "bisztray-marta"
+      ],
+      "kind": "column",
+      "venue": "Telex (Defacto)",
+      "date": "2025-09-02",
+      "language": "hu",
+      "url": "https://telex.hu/defacto/2025/09/02/kronikus-betegseg-kevesebb-munka-kisebb-fizetes",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-05-03",
+      "last_reviewed_at": "2026-05-03",
+      "review_status": "ai-drafted"
+    },
+    {
+      "id": "murakozy-2025-telex-trump-tariffs",
+      "title": "Sok dolgozó vesztette el állását Trump vámháborúja miatt, mégis rá szavaztak",
+      "title_hu": "Sok dolgozó vesztette el állását Trump vámháborúja miatt, mégis rá szavaztak",
+      "authors": [
+        "murakozy-balazs"
+      ],
+      "kind": "column",
+      "venue": "Telex (Defacto)",
+      "date": "2025-03-24",
+      "language": "hu",
+      "url": "https://telex.hu/defacto/2025/03/24/sok-dolgozo-vesztette-el-allasat-trump-vamhaboruja-miatt-megis-ra-szavaztak",
+      "blurb": null,
+      "linked_paper_id": null,
+      "added_at": "2026-05-03",
+      "last_reviewed_at": "2026-05-03",
+      "review_status": "ai-drafted"
     },
     {
       "id": "peto-koren-2020-voxeu-social-distancing",
@@ -45270,8 +45584,8 @@
   "counts": {
     "authors": 94,
     "papers": 798,
-    "policy": 34,
-    "press": 133,
+    "policy": 35,
+    "press": 148,
     "topics": 21
   }
 }
