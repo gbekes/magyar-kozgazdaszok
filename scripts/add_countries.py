@@ -30,6 +30,7 @@ INSTITUTION_COUNTRY = {
     "University of Debrecen": ["HU"],
     "University of Pécs, Faculty of Business and Economics": ["HU"],
     "Magyar Nemzeti Bank": ["HU"],
+    "Bank for International Settlements": ["CH"],
 
     # --- Austria (CEU is in Vienna since 2019) ---
     "Central European University": ["AT"],
