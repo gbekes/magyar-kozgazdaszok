@@ -94,7 +94,7 @@
       <header class="entity-header ${a.photo_url ? 'has-photo' : ''}">
         ${photoBlock}
         <div>
-          <h1>${EFH.esc(a.name_en)} ${deceasedNote}</h1>
+          <h1>${EFH.esc(a.name_en)} ${EFH.countryFlags(a.countries)} ${deceasedNote}</h1>
           ${a.name_hu && a.name_hu !== a.name_en ? `<div class="sub">${EFH.esc(a.name_hu)}</div>` : ''}
           ${reviewBanner}
           ${a.bio_en ? `<p class="bio">${EFH.esc(a.bio_en)}</p>` : ''}

@@ -81,6 +81,22 @@
     return `<a class="tag" href="${prefix}topic.html?id=${encodeURIComponent(id)}">${esc(topicName(data, id, lang))}</a>`;
   }
 
+  // ISO-3166-2 letter pair -> regional indicator pair (flag emoji).
+  function flagEmoji(code) {
+    if (!code || code.length !== 2) return '';
+    const cc = code.toUpperCase();
+    const a = cc.charCodeAt(0), b = cc.charCodeAt(1);
+    if (a < 65 || a > 90 || b < 65 || b > 90) return '';
+    const offset = 0x1F1E6 - 0x41;
+    return String.fromCodePoint(a + offset, b + offset);
+  }
+  function countryFlags(countries) {
+    if (!countries || !countries.length) return '';
+    return countries.map(c =>
+      `<span class="country-flag" title="${esc(c)}">${flagEmoji(c)}</span>`
+    ).join('');
+  }
+
   function methodLabel(id) {
     const labels = {
       'rct': 'RCT / field experiment',
@@ -371,7 +387,7 @@
   // expose
   window.EFH = {
     lang,
-    loadData, esc, authorName, authorLink, topicName, topicLink,
+    loadData, esc, authorName, authorLink, topicName, topicLink, flagEmoji, countryFlags,
     methodLabel, dataTypeLabel, firstSentence, paperCardHtml,
     policyCardHtml, pressLineHtml,
     toBullets, highlightsOrBullets,

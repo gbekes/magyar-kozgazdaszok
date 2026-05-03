@@ -93,7 +93,7 @@
           <article class="author-card ${a.photo_url ? 'has-photo' : ''}">
             ${photo}
             <div class="author-card-body">
-              <h3><a href="author.html?id=${encodeURIComponent(a.id)}">${EFH.esc(nm)}</a>${dagger} ${count}</h3>
+              <h3><a href="author.html?id=${encodeURIComponent(a.id)}">${EFH.esc(nm)}</a> ${EFH.countryFlags(a.countries)}${dagger} ${count}</h3>
               <div class="affil">${EFH.esc(affil)}</div>
               <div class="fields">${fields}</div>
             </div>
