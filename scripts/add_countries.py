@@ -104,16 +104,51 @@ INSTITUTION_COUNTRY = {
 }
 
 
+import re
+
+# Institutions that are research networks / fellowships / supervisory
+# board roles -- not "real jobs" in the sense the editor uses for the
+# country flag. They DO appear on the page as affiliations, but they
+# don't contribute a country flag.
+NOT_PRIMARY_JOB = {
+    "IZA Institute of Labor Economics",
+    "Centre for Economic Policy Research (CEPR)",
+    "CEPR",
+    "National Bureau of Economic Research (NBER)",
+    "DSK Bank Bulgaria",
+    "OTP Bank Romania",
+}
+
+# Roles that are temporary / past / visiting -- excluded from flag derivation.
+PAST_ROLE_RE = re.compile(r"\(\s*\d{4}\s*[–\-]\s*\d{4}\s*\)")
+VISITING_ROLE_RE = re.compile(r"\bvisiting\b", re.IGNORECASE)
+
+
+def is_primary_job(af):
+    if (af.get("name") or "") in NOT_PRIMARY_JOB:
+        return False
+    role = af.get("role") or ""
+    if PAST_ROLE_RE.search(role):
+        return False
+    if VISITING_ROLE_RE.search(role):
+        return False
+    return True
+
+
 def derive_countries(author):
     out = []
     seen = set()
     for af in author.get("affiliations") or []:
+        if not is_primary_job(af):
+            continue
         name = af.get("name") or ""
         codes = INSTITUTION_COUNTRY.get(name, [])
         for c in codes:
             if c not in seen:
                 seen.add(c)
                 out.append(c)
+        if len(out) >= 2:  # cap at 2 flags
+            break
     return out
 
 
