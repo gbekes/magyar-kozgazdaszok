@@ -84,12 +84,6 @@
     "field": "general"
   },
   {
-    "short": "TE",
-    "name": "Theoretical Economics",
-    "tier": "A",
-    "field": "general"
-  },
-  {
     "short": "AEA:P&P",
     "name": "AEA Papers and Proceedings",
     "tier": "A",
@@ -216,6 +210,13 @@
     "field": "theory"
   },
   {
+    "short": "TE",
+    "name": "Theoretical Economics",
+    "tier": "B",
+    "field": "theory"
+  },
+  
+  {
     "short": "EcTh",
     "name": "Economic Theory",
     "tier": "B",
@@ -308,7 +309,7 @@
   {
     "short": "NatHumBeh",
     "name": "Nature Human Behaviour",
-    "tier": "A",
+    "tier": "B",
     "field": "general"
   },
   {
