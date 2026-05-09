@@ -1,0 +1,34 @@
+QA sample report — 2026-05-09 12:54 (seed 1778324069)
+================================================================
+T01  PASS   Author-ID resolution               — paper biro-branyiczki-2022-ksz
+T02  PASS   Topic vocabulary                   — paper kiss-rodriguez-lara-et-al-2014-joebo
+T03  PASS   Journal whitelist                  — paper berlinger-dobranszky-bartus-et-al-2021-ksz
+T04  PASS   Methods vocabulary                 — paper ferrell-liang-renneboog-schindele-2015-rof
+T05  PASS   Data-types vocabulary              — paper brown-earle-et-al-2016-jocf
+T06  PASS   Country-code shape                 — paper halpern-1996-eot
+T07  PASS   summary_en length                  — paper berlinger-kereszturi-et-al-2021-jifmim :: 106 words
+T08  FAIL   data_used length                   — paper johnen-somogyi-2024-ej :: 20 words (target 25-110; SPEC 40-80)
+T09  PASS   policy_relevance length            — paper temesvary-2014-jbf :: 47 words
+T10  PASS   HU/EN length ratio                 — paper koczy-sziklai-2018-orl :: ratio 1.04
+T11  PASS   Qualifying publication exists      — author sakovics-jozsef
+T12  PASS   Author has ≥1 paper                — author fleiner-tamas
+T13  PASS   Press → paper link                 — press juhasz-squicciarini-voigtlaender-voxeu-france
+T14  PASS   Policy → paper link                — policy murakozy-telegdy-2021-mt-eu-grants
+T15  PASS   review_status integrity            — paper bekkers-francois-et-al-2016-cjoec :: status=ai-drafted
+T16  PASS   HU-country consistency             — paper keller-szakal-2022-socforces
+T17  PASS   HU-mention consistency             — paper brown-earle-et-al-2016-jocf
+T18  PASS   HU-relevant has summary_hu         :: no HU-relevant papers missing summary_hu
+T19  PASS   summary_hu is Hungarian            — paper csafordi-lorincz-et-al-2018-jtt
+T20  PASS   policy_relevance names HU actor    — paper acs-o-gorman-et-al-2007-sbe
+T21  PASS   DOI resolves                       — paper hermann-horvath-et-al-2024-eoer :: HTTP 200
+T22  FAIL   Author website resolves            — author ambrus-attila :: HTTP 404 for https://sites.duke.edu/aa231/
+T23  PASS   Author photo loads                 — author koren-miklos :: HTTP 200
+T24  FAIL   Policy URL resolves                — policy bekes-2004-mt-location :: HTTP 404 for https://kti.krtk.hu/wp-content/uploads/2018/12/munkero04_mt.pdf
+T25  PASS   RePEc page resolves                — author kondor-peter :: HTTP 200
+
+Summary: 22/25 PASS, 3 FAIL, 0 SKIP
+
+Failures by category:
+  [format-warning    ] T08 paper johnen-somogyi-2024-ej :: 20 words (target 25-110; SPEC 40-80)
+  [liveness-flag     ] T22 author ambrus-attila :: HTTP 404 for https://sites.duke.edu/aa231/
+  [liveness-flag     ] T24 policy bekes-2004-mt-location :: HTTP 404 for https://kti.krtk.hu/wp-content/uploads/2018/12/munkero04_mt.pdf

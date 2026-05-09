@@ -1,0 +1,35 @@
+QA sample report — 2026-05-09 12:57 (seed 1778324262)
+================================================================
+T01  PASS   Author-ID resolution               — paper roesler-szentes-2017-aer
+T02  PASS   Topic vocabulary                   — paper konya-kreko-et-al-2020-ecmod
+T03  PASS   Journal whitelist                  — paper csoka-herings-2019-gaeb
+T04  PASS   Methods vocabulary                 — paper abraham-laczo-2017-restud
+T05  PASS   Data-types vocabulary              — paper cunningham-foster-et-al-2021-riw
+T06  PASS   Country-code shape                 — paper molnar-2026-jhr
+T07  PASS   summary_en length                  — paper eso-galambos-2012-ijogt :: 97 words
+T08  PASS   data_used length                   — paper hornok-koren-2014-restat :: 27 words
+T09  PASS   policy_relevance length            — paper heidhues-johnen-et-al-2020-restud :: 77 words
+T10  PASS   HU/EN length ratio                 — paper vonyo-markevich-2020-wp :: ratio 0.96
+T11  PASS   Qualifying publication exists      — author kertesi-gabor
+T12  PASS   Author has ≥1 paper                — author benedek-marton
+T13  PASS   Press → paper link                 — press lindner-2021-rajk-mw-talk
+T14  PASS   Policy → paper link                — policy murakozy-telegdy-2021-mt-eu-grants
+T15  PASS   review_status integrity            — paper szabo-kiss-2023-edec :: status=ai-drafted
+T16  FAIL   HU-country consistency             — paper bako-neszveda-et-al-2017-tad :: HU in countries_studied but no 'Hungar*' in title/summary/data/abstract
+T17  PASS   HU-mention consistency             — paper agoston-biro-et-al-2021-ejor
+T18  PASS   HU-relevant has summary_hu         :: no HU-relevant papers missing summary_hu
+T19  PASS   summary_hu is Hungarian            — paper gorg-kneller-et-al-2012-cjoec
+T20  PASS   policy_relevance names HU actor    — paper kertesi-kezdi-2008-tbejo
+T21  FAIL   DOI resolves                       — paper benczur-2005-e :: HTTP 403 for https://doi.org/10.1111/j.0013-0427.2005.00403.x
+T22  FAIL   Author website resolves            — author csoka-peter :: HTTP -1 for https://unipub.lib.uni-corvinus.hu/search?ln=hu&p=csoka+peter
+T23  PASS   Author photo loads                 — author halpern-laszlo :: HTTP 200
+T24  FAIL   Policy URL resolves                — policy bekes-2004-mt-location :: HTTP 404 for https://kti.krtk.hu/wp-content/uploads/2018/12/munkero04_mt.pdf
+T25  PASS   RePEc page resolves                — author takats-elod :: HTTP 200 (/e/)
+
+Summary: 21/25 PASS, 4 FAIL, 0 SKIP
+
+Failures by category:
+  [plausibility-flag ] T16 paper bako-neszveda-et-al-2017-tad :: HU in countries_studied but no 'Hungar*' in title/summary/data/abstract
+  [liveness-flag     ] T21 paper benczur-2005-e :: HTTP 403 for https://doi.org/10.1111/j.0013-0427.2005.00403.x
+  [liveness-flag     ] T22 author csoka-peter :: HTTP -1 for https://unipub.lib.uni-corvinus.hu/search?ln=hu&p=csoka+peter
+  [liveness-flag     ] T24 policy bekes-2004-mt-location :: HTTP 404 for https://kti.krtk.hu/wp-content/uploads/2018/12/munkero04_mt.pdf
