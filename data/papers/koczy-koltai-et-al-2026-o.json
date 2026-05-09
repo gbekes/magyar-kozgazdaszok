@@ -45,5 +45,8 @@
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-29",
   "review_status": "ai-drafted",
-  "openalex_id": null
+  "openalex_id": null,
+  "summary_hu": "Hogyan ossza el egy szervezet a fix számú dolgozóját üzemeltetésben heterogén alegységek között, ha az egységek hatékonysága eltér? Kóczy, Koltai és Sziklai azt javasolja, hogy az apportionment-módszereket — amelyeket klasszikusan parlamenti mandátumok kiosztására használnak — alkalmazzuk az erőforrás-allokációra. Egy leximin (lexikografikus min-max) módszert dolgoznak ki, amely a dolgozónkénti feladatszámot minimalizálja, és gyors algoritmust adnak hozzá. A Magyar Államkincstár 19 megyei kirendeltségének béradminisztrátoraira alkalmazva az optimális átcsoportosítás a legrosszabbul teljesítő megye relatív hatékonyságát ~60%-ról több mint 90%-ra emeli létszámbővítés nélkül.",
+  "data_used_hu": "Magyar Államkincstár (MÁK) adminisztratív adatai a 19 megyei kirendeltség havi standard adminisztratív feladatairól; lefedi a dolgozói létszámot és a feladatvolument több évre.",
+  "policy_relevance_hu": "Közvetlenül és azonnal alkalmazható a Magyar Államkincstár (MÁK) és más több telephelyes magyar közintézmények (NAV regionális irodák, NEAK megyei kirendeltségek, KSH regionális egységek) számára. A leximin algoritmus átlátható, méltányosság-szempontból igazolható módszert ad a munkaerő átcsoportosítására a munkaterhek kiegyenlítésére. A tényleges MÁK-adatokon már validálva mérhető hatékonysági nyereséggel."
 }
