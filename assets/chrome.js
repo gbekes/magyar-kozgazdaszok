@@ -61,8 +61,8 @@
           : 'academic research by innovative Hungarian economists, for policymakers.'}</p>
         <p class="small muted">
           ${isHu
-            ? 'Kurátor: Békés Gábor. MVP verzió, 2026 áprilisa. Jelezz hibát vagy hiányt a'
-            : 'Edited by Gábor Békés. MVP scaffold, April 2026. Corrections and missing papers welcome — see'}
+            ? 'Claude segítségével készült. Kurátor: Békés Gábor. Jelenlegi verzió: 0.3.1, 2026. május 9. Jelezz hibát vagy hiányt a'
+            : 'Created with Claude. Edited by Gábor Békés. This is v. 0.3.1, 9 May 2026. Corrections and missing papers welcome — see'}
           <a href="contribute.html">${nav.contribute}</a>.
         </p>
       </div>
