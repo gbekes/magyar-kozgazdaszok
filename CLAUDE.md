@@ -106,7 +106,7 @@ Full rules in `submissions/README.md`.
 ## Handover rule — context-window management
 
 **When approaching ~88% of context-window max tokens**, proactively create a
-`handover-YYYY-MM-DD.md` at the project root, commit it locally (don't push),
+`handovers/handover-YYYY-MM-DD.md`, commit it locally (don't push),
 and tell the user. A fresh Claude session should be able to read it and
 continue the work cold.
 

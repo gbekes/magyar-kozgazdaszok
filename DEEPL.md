@@ -2,7 +2,21 @@
 
 The chosen path for filling Hungarian summaries on the catalogue
 (`summary_hu`, `data_used_hu`, `policy_relevance_hu`). Replaces the
-LLM-based translation discussed in `roadmap-2026-04-30.md` §4.
+LLM-based translation discussed in `docs/roadmap-2026-04-30.md` §4.
+
+> **Fast path when the key arrives** (after stocktake on 2026-05-09:
+> 1 529 fields / 614 745 chars in the queue):
+>
+> ```bash
+> echo 'YOUR-KEY-HERE:fx' > not-shared/deepl_api_key.txt   # free-tier key ends in :fx
+> python scripts/deepl_translate.py --usage                  # confirm endpoint + quota
+> python scripts/deepl_translate.py --dry-run                # preview the queue
+> python scripts/deepl_translate.py --apply --author szentes-balazs   # pilot one author
+> # eyeball 3-5 translations, commit, then run --apply with no filter for the bulk
+> ```
+>
+> Free tier (500 K chars/month) covers ~80 % of today's queue; one
+> Pro month (~€25) covers all of it in a single sweep.
 
 **Why DeepL over an LLM:** higher fluency on Hungarian, deterministic
 output, cheap (DeepL API Free tier is 500 000 chars / month; Pro is

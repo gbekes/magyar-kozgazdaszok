@@ -308,11 +308,13 @@ section.block > h2 {
 .active-filters .chip:after { content: " ×"; opacity: 0.75; }
 .active-filters .chip:hover { background: var(--v-1); }
 
-/* Country flags next to author name */
+/* Country flags next to author name (uses flag-icons CSS) */
 .country-flag {
-  font-size: 0.85em;
-  vertical-align: middle;
-  margin: 0 0.05em;
+  width: 1.2em;
+  height: 0.85em;
+  vertical-align: -0.05em;
+  margin: 0 0.1em;
+  border-radius: 1px;
 }
 
 /* "Are you X? Download your record" prompt on author pages */

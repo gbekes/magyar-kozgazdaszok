@@ -82,6 +82,9 @@
   }
 
   // ISO-3166-2 letter pair -> regional indicator pair (flag emoji).
+  // Kept for callers that want the raw Unicode glyph; the listing pages now
+  // use flag-icons CSS for cross-platform rendering (Windows browsers do not
+  // render regional-indicator pairs as flags).
   function flagEmoji(code) {
     if (!code || code.length !== 2) return '';
     const cc = code.toUpperCase();
@@ -92,9 +95,11 @@
   }
   function countryFlags(countries) {
     if (!countries || !countries.length) return '';
-    return countries.map(c =>
-      `<span class="country-flag" title="${esc(c)}">${flagEmoji(c)}</span>`
-    ).join('');
+    return countries.map(c => {
+      if (!c || c.length !== 2) return '';
+      const cc = c.toLowerCase();
+      return `<span class="fi fi-${cc} country-flag" title="${esc(c)}"></span>`;
+    }).join('');
   }
 
   function methodLabel(id) {
