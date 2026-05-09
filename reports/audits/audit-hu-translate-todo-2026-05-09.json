@@ -1,0 +1,1824 @@
+[
+  {
+    "id": "acs-o-gorman-et-al-2007-sbe",
+    "title": "Could the Irish Miracle be Repeated in Hungary?",
+    "year": 2007,
+    "authors": [
+      "Zoltán J. Ács",
+      "Colm O’Gorman",
+      "szerb-laszlo",
+      "Siri Terjesen"
+    ],
+    "countries_studied": [
+      "HU",
+      "IE"
+    ],
+    "summary_en": "Could Hungary replicate Ireland's economic miracle? Ács, O'Gorman, Szerb and Terjesen use Global Entrepreneurship Monitor (GEM) data to compare entrepreneurial activity in the two countries shortly after Hungary's EU accession. They find significant differences in the type of people starting businesses and the opportunities pursued — Ireland's growth was associated with high-quality opportunity-driven entrepreneurship, while Hungary's pattern was more necessity-driven. The policy prescription for Hungary: focus on raising human capital, promoting enterprise development, and upgrading the quality of FDI rather than just attracting more of it.",
+    "data_used": "Global Entrepreneurship Monitor (GEM) survey data on ~2,000 Hungarian and ~2,000 Irish adults, including new-firm founders and prospective entrepreneurs, mid-2000s. Includes type of entrepreneurial activity (necessity vs. opportunity) and motivations.",
+    "policy_relevance": "Direct historical comparison addressing a foundational Hungarian policy question. The paper's policy prescription — quality-of-FDI over quantity-of-FDI, plus human-capital and enterprise-development investment — has remained relevant through HIPA's evolution and the post-2010 reindustrialisation strategy. Useful for KKM, Pénzügyminisztérium, and ITM when re-evaluating long-term FDI-promotion frameworks."
+  },
+  {
+    "id": "acs-szerb-2006-sbe",
+    "title": "Entrepreneurship, Economic Growth and Public Policy",
+    "year": 2007,
+    "authors": [
+      "Zoltán J. Ács",
+      "szerb-laszlo"
+    ],
+    "countries_studied": [],
+    "summary_en": "Ács and Szerb's introduction to the second Global Entrepreneurship Research Conference draws together cross-country evidence on the entrepreneurship-growth-policy relationship. They argue that the appropriate entrepreneurship policy depends on a country's stage of development. Middle-income countries (including Hungary) should focus on raising human capital, upgrading technology availability, and promoting enterprise development. Developed economies, by contrast, may not see more high-potential startups simply from reducing entry regulations — labour-market reform and financial-market deregulation may be needed.",
+    "data_used": "Cross-country meta-review of papers in the Small Business Economics special issue (2007) using Global Entrepreneurship Monitor (GEM) micro and macro data, covering 30+ countries at varying development stages.",
+    "policy_relevance": "Direct relevance for Hungary's evolving entrepreneurship-policy framework. The paper supports the case that Hungary, as a middle-income economy, should prioritise human-capital and technology-upgrading investments over deregulation. Useful framing for ITM, Pénzügyminisztérium, and Hungarian academic institutions when designing the Hungarian National Smart Specialisation Strategy."
+  },
+  {
+    "id": "bako-berezvai-et-al-2019-ksz",
+    "title": "Infrastruktúra-bővítés világversenyek idején. A Mol Bubi esete a FINA világbajnoksággal",
+    "year": 2019,
+    "authors": [
+      "bako-barna",
+      "Zombor Berezvai",
+      "Petra Zsuzsanna Cseke",
+      "Péter Isztin"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Should bike-share networks expand based on the demand of the existing service or based on hosting one-off mega-events? Bakó, Berezvai, Cseke and Isztin study Budapest's Mol Bubi expansion built for the 17th FINA Aquatic World Championships. Using event-study and difference-in-differences methods, they compare post-event utilisation of the FINA-related new docks with that of earlier expansion docks. The new docks become an organic part of the network but their utilisation is substantially lower — about 30% lower than the network's southern docks. The shortfall is not specific to FINA docks; it characterises the entire northern expansion. Conclusion: expansion would have been more cost-effective elsewhere in the network.",
+    "data_used": "Mol Bubi (Budapest bike-share) administrative usage data covering all docks before and after the 2017 FINA-related expansion. Event-study comparison of new vs existing docks; difference-in-differences against pre-expansion baseline.",
+    "policy_relevance": "For Budapest municipal transport policy (BKK, Főváros): the paper provides concrete evidence that mega-event-driven infrastructure choices have low long-run utilisation. Useful baseline for evaluating future Olympic / World Championship infrastructure proposals. The methodology — event-study + DiD on transit usage data — is reusable for evaluating any Hungarian transport-network expansion. Caveat: a single bike-share system in Budapest; generalisation to other Hungarian cities or modes requires city-specific analysis."
+  },
+  {
+    "id": "bako-neszveda-et-al-2017-tad",
+    "title": "When irrelevant alternatives do matter. The effect of focusing on loan decisions",
+    "year": 2017,
+    "authors": [
+      "bako-barna",
+      "neszveda-gabor",
+      "Linda Dezső"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "In a loan-choice experiment, does adding an irrelevant third option change which of two loans people pick — and in what direction? The answer is yes: a clearly dominated decoy shifts preferences, consistent with salience / focusing-based models of choice. The authors develop a model where decision-makers over-weight dimensions on which options differ most, predict the direction of the induced preference reversal, and match it experimentally. A crisp test of focusing effects with direct implications for consumer financial-product design.",
+    "data_used": "Laboratory experiment on loan-choice decisions with a manipulated irrelevant third option. Subject pool and payoffs calibrated to a standard economic-experiments protocol.",
+    "policy_relevance": "Direct input for MNB / Pénzügyminisztérium consumer-finance disclosure regulation: the layout of loan alternatives on a comparison page is not neutral. Supports rules that restrict dominated 'decoy' products from being shown alongside real options. Caveat: laboratory setting; field validation in actual loan-product pages would strengthen the policy case."
+  },
+  {
+    "id": "barath-bokusheva-ferto-2017-easternee",
+    "title": "Demand for farm insurance under financial constraints",
+    "year": 2017,
+    "authors": [
+      "barath-lajos",
+      "Raushan Bokusheva",
+      "ferto-imre"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Does crop insurance actually help farms — or do well-managed farms simply buy more of it? Baráth, Bokusheva and Fertő use Hungarian farm-level data to disentangle this two-way link, finding that crop insurance use raises farms' technical efficiency once the joint determination is accounted for. Insurance therefore looks like a productive input under financial constraints, not just a passive buffer: farms with credit pressure benefit more from being insured.",
+    "data_used": "Hungarian farm-accountancy data (Tesztüzemi rendszer / FADN-style panel) covering several years, with per-farm information on insurance take-up, output, inputs, and financial position. Estimation uses simultaneous-equation / efficiency models to address reverse causality.",
+    "policy_relevance": "Direct relevance for Hungarian agricultural policy (AM, MVH agri-payments) and CAP risk-management instruments: results support continued public co-financing of crop insurance premiums and suggest it should be targeted at credit-constrained farms, where the productivity payoff is largest. Also useful for designing the Hungarian National Risk Management System (NKKR) and EU Pillar-II CAP envelopes."
+  },
+  {
+    "id": "barath-ferto-bojnec-2025-scirep",
+    "title": "Gender-based differences in eco-efficient farming",
+    "year": 2025,
+    "authors": [
+      "barath-lajos",
+      "ferto-imre",
+      "Štefan Bojnec"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Are Hungarian women farmers more eco-efficient than their male counterparts? Baráth, Fertő and Bojnec use Hungarian Farm Accountancy Data Network data 2015-2020 with Data Envelopment Analysis and Blinder-Oaxaca decomposition. They find a consistent eco-efficiency advantage for women-headed farms, especially at mid-eco-efficiency quantiles. The advantage stems mostly from women's superior optimisation of resource use, with some unexplained component suggesting management-style differences. Implication: supporting women's access to farm resources, knowledge, and innovation could meaningfully advance Hungarian sustainability goals in agriculture.",
+    "data_used": "Hungarian Farm Accountancy Data Network (FADN) 2015-2020, covering field-crop farms by gender of farm head; Data Envelopment Analysis (DEA) for eco-efficiency frontiers, Blinder-Oaxaca decomposition for gender gaps.",
+    "policy_relevance": "Direct evidence for Hungarian Agrárminisztérium and the Equal Treatment Authority. The paper supports CAP and Hungarian rural-development programmes that target women farmers — useful for designing gender-responsive eco-scheme payment structures and for Hungarian National Rural Development Strategy implementation."
+  },
+  {
+    "id": "baro-branyiczki-et-al-2022-krtkwp-payroll-taxes",
+    "title": "Firm heterogeneity and the impact of payroll taxes",
+    "year": 2022,
+    "authors": [
+      "Anita Báró",
+      "branyiczki-reka",
+      "lindner-attila",
+      "prinz-daniel",
+      "Lóránt Márk"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Large payroll-tax cuts are a popular policy instrument, but their incidence depends on firm and labour-market structure. Bíró, Branyiczki, Lindner, Márk and Prinz study Hungary's 2013 payroll-tax cut for workers above 55. Using employer-employee linked data, they find heterogeneous effects: employment expanded most at LOW-productivity, low-wage firms (which mostly hire from unemployment); high-productivity firms saw smaller employment effects but rising wages. The result documents a clear distributional pattern — payroll-tax cuts boost employment via low-productivity firms while raising wages via high-productivity ones, reshaping the composition of jobs.",
+    "data_used": "Hungarian linked employer-employee administrative panel data from NAV/ONYF, 2008-2018, covering all formal-sector workers and firms. Identification: payroll-tax cut for workers aged 55+ implemented in 2013.",
+    "policy_relevance": "Direct relevance for Hungarian Pénzügyminisztérium and NAV when assessing payroll-tax-rate policy. The paper shows the firm-composition effect of cuts — useful framework for evaluating the welfare impact of recent and proposed Hungarian payroll-tax reforms (e.g., 2017-2022 incremental cuts under the wage agreement)."
+  },
+  {
+    "id": "bekes-bonfiglioli-et-al-2025-cepr-integrators",
+    "title": "Integrators and Robot Adoption: Facts from Hungary",
+    "year": 2025,
+    "authors": [
+      "bekes-gabor",
+      "Alessandra Bonfiglioli",
+      "Rosario Crinò",
+      "Gino Gancia"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Industrial robots don't spread randomly across firms — the adoption process depends crucially on intermediaries called \"integrators\" who install, configure, and maintain them. This paper uses Hungarian firm-level administrative data to document empirical facts about the integrator layer: who plays the role, which firms get served, and how integrators' capabilities map to their clients' robot-adoption patterns. The result is a cleaner empirical picture of why robot adoption is concentrated in particular firm segments — and why industrial policy aiming at robotisation should pay attention to the integrator ecosystem, not just to robot-buying firms.",
+    "data_used": "Hungarian administrative firm-level data on robot purchases and installation services. Buyer-supplier network data linking adopters to integrator firms. Multiple years of recent data.",
+    "policy_relevance": "Directly relevant to Hungarian industrial-policy design (NGM, Ministry of Economy) and to robot-adoption subsidy programmes (e.g., GINOP / EU cohesion fund schemes). The paper suggests that policy should support integrators as the bottleneck, not only robot-buying firms. Relevant to Ministry of Economy, regional-development agencies, and the evaluation of existing robot-subsidy programmes. Caveat: Hungarian-specific evidence; the exact integrator-ecosystem structure may differ in other EU countries."
+  },
+  {
+    "id": "bekes-harasztosi-2012-rsue",
+    "title": "Agglomeration premium and trading activity of firms",
+    "year": 2013,
+    "authors": [
+      "bekes-gabor",
+      "harasztosi-peter"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Do firms in agglomerated regions perform better — and which firms benefit most? Békés and Harasztosi use Hungarian manufacturing firm-level data 1992-2003 to test the agglomeration premium and how it interacts with international trade. They confirm firms perform better in agglomerated areas, and document a clear interaction: firms that are stable participants in international trade gain about 16% in TFP growth as agglomeration doubles, while non-traders may not benefit from agglomeration at all. The result frames urban-economic policy: agglomeration externalities work primarily through firms exposed to international markets.",
+    "data_used": "Hungarian manufacturing firm-level panel 1992-2003 from KSH/CSO + customs data, covering ~5,000-15,000 firms per year across all manufacturing industries with detailed input-output, productivity, and trading-status variables.",
+    "policy_relevance": "Direct relevance for Hungarian regional-economic-development policy (Pénzügyminisztérium, IFKA, EU Cohesion Fund). The paper shows the case for promoting industrial-park clustering depends on whether the firms attracted are tradable-sector vs non-tradable-sector — only the former meaningfully benefit from co-location. Useful diagnostic for Hungarian SEZ designation criteria."
+  },
+  {
+    "id": "bekes-harasztosi-2017-taors",
+    "title": "Grid and shake: spatial aggregation and the robustness of regionally estimated elasticities",
+    "year": 2018,
+    "authors": [
+      "bekes-gabor",
+      "harasztosi-peter"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Regional-econometrics studies typically pick a level of spatial aggregation — districts, counties, NUTS-2, NUTS-3 — and report estimates at that level, but how robust are the conclusions to that choice? Békés and Harasztosi propose a transparent method to assess spatial robustness of regional-coefficient estimates. Using Hungarian data on agglomeration externalities, they show the choice of aggregation level matters at least as much as the choice of econometric model. The 'grid-and-shake' procedure provides a usable diagnostic for cross-region comparison studies.",
+    "data_used": "Hungarian regional-level data from KSH at multiple aggregation levels (district, county, NUTS-3, NUTS-2), with firm-level controls and outcome variables. Multi-year panel.",
+    "policy_relevance": "Direct methodological contribution for KSH and KRTK regional researchers. Hungarian regional-policy assessments (EU Cohesion Fund evaluations, Pénzügyminisztérium regional-development analyses) routinely pick an aggregation level without testing robustness. The 'grid-and-shake' method makes such robustness checks practical — a usable tool for KSH methodology and EU regional-evaluation practice."
+  },
+  {
+    "id": "bekes-horvath-et-al-2016-ks",
+    "title": "Lakóingatlanárak és települési különbségek",
+    "year": 2016,
+    "authors": [
+      "bekes-gabor",
+      "Áron Horváth",
+      "Zoltán Sápi"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "What determines residential property prices across Hungarian municipalities? Békés, Horváth and Sápi use individual transaction data to identify the role of location. They classify location characteristics into four groups — natural-geographic, accessibility, education-and-healthcare provision, and administrative functions — and confirm that all four matter for prices. Together they explain about 15% of cross-municipality price variance; individually, each group explains 2-5%. In a hedonic price model that controls for agglomeration (population, built-up area) and income effects, only the natural-geographic factors remain significant beyond the agglomeration controls — meaning much of what looks like 'location matters' is actually a proxy for population and income concentration.",
+    "data_used": "Hungarian individual real-estate transaction data (likely from a national register). Municipality-level controls: population, area, average income, plus the four location-characteristic groups. Sample size in tens of thousands of transactions.",
+    "policy_relevance": "For Hungarian housing-market and regional-development policy (NGM, regional-development authorities): the paper supports the conventional view that property prices reflect agglomeration and income concentration; only natural-geographic features add explanatory power beyond these. Implication for housing-supply policy: increasing housing supply in agglomerations is more important than equalising amenity provision across municipalities, since the latter has limited price effect once agglomeration is controlled for."
+  },
+  {
+    "id": "bekes-murakozy-2012-jie",
+    "title": "Temporary trade and heterogeneous firms",
+    "year": 2012,
+    "authors": [
+      "bekes-gabor",
+      "murakozy-balazs"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Standard trade models assume firms enter export markets after paying a sunk cost and stay there. Békés and Murakozy use Hungarian firm-transaction export data to show this misses a major empirical pattern: about one-third of firm-destination and one-half of firm-product-destination export spells are short-lived (one or two years). They build a model where firms endogenously choose between sunk-cost and variable-cost trade technologies, predicting that temporary trade is more likely for low-productivity firms, financially constrained firms, and remote/small destination markets. The data confirm these predictions.",
+    "data_used": "Hungarian firm-transaction-level export data 1992-2003 covering all customs declarations, merged with the KSH/CSO firm balance-sheet panel. ~50,000+ firm-destination spells observed.",
+    "policy_relevance": "Direct relevance for Hungarian export-promotion policy (HIPA) and trade-finance support (Eximbank). The paper shows substantial 'churn' in export markets is normal and partly driven by firm productivity and financial constraints — useful for designing trade-finance products (Eximbank short-term insurance) and for sequencing HIPA's market-development support."
+  },
+  {
+    "id": "bekes-murakozy-2016-ks",
+    "title": "Beszállítói termékek a magyar feldolgozóiparban",
+    "year": 2016,
+    "authors": [
+      "bekes-gabor",
+      "murakozy-balazs"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "How big a share of Hungarian manufacturing output and exports is intermediate (supplier) production rather than final consumer goods? Békés and Muraközy use Hungarian firm-level production and export data to document the answer: intermediate goods and capital equipment account for two-thirds of manufacturing output and three-quarters of exports. The share of supplier products is determined primarily by the firm's industry — meaning sector-level industrial policy can effectively target potential suppliers. Regression analysis confirms that supplier-product firms are more productive than consumer-good producers, mainly through their larger size and higher capital intensity, consistent with technology-spillover channels operating through global value chains.",
+    "data_used": "Hungarian firm-level admin tax data (likely NAV) on manufacturing firms, including detailed production and export data by product category. Distinguishes intermediates / capital goods from final consumer goods. Likely covers ~2000-2010s.",
+    "policy_relevance": "Foundational for Hungarian industrial policy targeting supply-chain integration. The paper supports sectoral targeting of supplier-side support (R&D, technology, FDI integration) rather than uniform export promotion. Useful for HIPA / NGM evaluating which sectors deliver high-productivity supplier roles. Particularly relevant for the post-2020 supply-chain restructuring debates and for Hungarian car/electronics-cluster policy."
+  },
+  {
+    "id": "bekes-murakozy-et-al-2011-es",
+    "title": "Firms and products in international trade: Evidence from Hungary",
+    "year": 2011,
+    "authors": [
+      "bekes-gabor",
+      "murakozy-balazs",
+      "harasztosi-peter"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "What does Hungarian trade look like at the firm and product level? Békés, Murakozy and Harasztosi follow the Bernard-Jensen-Redding-Schott approach to provide a comprehensive descriptive picture of Hungarian trade 1992-2006. Trade concentration is higher in Hungary than in most European countries (a smaller share of firms accounts for more total trade), and foreign ownership plays a larger role in trade than elsewhere. The share of single-product exporters is similar to the US, but Hungarian firms export to fewer countries on average. The paper documents both the broad similarity of Hungarian trade patterns to other open economies and the transition-era distinctive features.",
+    "data_used": "IEHAS-CEFiG Hungary dataset: an almost-universal panel of Hungarian firm balance-sheet information 1992-2006 merged with firm-product-country customs declarations 1992-2003, covering tens of thousands of firms.",
+    "policy_relevance": "Direct foundational reference for Hungarian trade-policy analysis. Documents the high foreign-ownership concentration in Hungarian trade and the transition-era structural patterns. Useful for KKM, HIPA, and Pénzügyminisztérium when interpreting Hungarian export performance and assessing implications of foreign-ownership concentration for trade-policy resilience."
+  },
+  {
+    "id": "benczur-konya-2013-jimf",
+    "title": "Convergence, capital accumulation and the nominal exchange rate",
+    "year": 2013,
+    "authors": [
+      "benczur-peter",
+      "konya-istvan"
+    ],
+    "countries_studied": [],
+    "summary_en": "How does a small open economy's exchange-rate regime affect transition dynamics during convergence? Benczúr and Kónya build a flexible-price two-sector growth model with traded and nontraded goods, exogenous productivity gains and capital accumulation, and a money-in-the-utility specification capturing real-money preferences. With debt-dependent interest rates capturing financial frictions, they show analytically that the exchange-rate regime affects transition through the central bank's balance sheet. Calibration shows the choice of regime has substantial and lasting effects on prices, consumption, investment, sectoral allocations, and financial-asset composition. The paper provides Hungarian-relevant theoretical foundations for exchange-rate-regime debates.",
+    "data_used": "Theoretical model — two-sector small open economy with money in utility and debt-dependent interest rate. Calibration draws on Hungarian and Central European convergence-era macroeconomic data.",
+    "policy_relevance": "Direct relevance for MNB exchange-rate-regime decisions and the long-running debate about Hungarian euro adoption. The paper provides a rigorous theoretical framework showing the regime choice has lasting real effects via central bank balance-sheet channels — useful framework for MNB strategy discussions and Hungarian Government euro-readiness assessments."
+  },
+  {
+    "id": "benczur-konya-2022-cte",
+    "title": "Convergence to the Centre",
+    "year": 2022,
+    "authors": [
+      "benczur-peter",
+      "konya-istvan"
+    ],
+    "countries_studied": [
+      "HU",
+      "CEE",
+      "EU"
+    ],
+    "summary_en": "Why have some Central-Eastern European countries converged toward the EU income frontier and others stalled? Benczúr and Kónya frame the question in this 'Contributions to Economics' volume chapter by tracing the post-1990 growth experience of CEE economies and arguing that the convergence engine — capital deepening, FDI-led productivity gains, and integration into European value chains — has been losing steam in the 2010s. The chapter calls for a renewed productivity agenda focused on domestic capabilities rather than further FDI dependence. [Chapter-level summary; the volume does not publish a public abstract — verification recommended.]",
+    "data_used": "Macroeconomic time-series for CEE economies (national accounts, AMECO / Eurostat productivity data) covering roughly 1990–2020. Growth-accounting decomposition into factor-accumulation and TFP components.",
+    "policy_relevance": "Useful background for Hungarian competitiveness strategy debate (MNB Competitiveness Report, ITM industrial strategy, NGM medium-term plans): supports the case that Hungary cannot reach the EU productivity frontier purely on FDI-driven assembly, and that the next decade's policy agenda needs to lift domestic-firm productivity (R&D, management practices, scale-up financing)."
+  },
+  {
+    "id": "benczur-simon-et-al-2006-jopm",
+    "title": "Social costs of consumer impatience in Hungary",
+    "year": 2006,
+    "authors": [
+      "benczur-peter",
+      "András Simon",
+      "Viktor Várpalotai"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Hungary in the 2000s saw a consumption boom, fuelled in part by households drawing forward future income through credit. Benczúr, Simon and Várpalotai calibrate an intertemporal optimisation model that incorporates FDI externalities and a debt-dependent country-risk premium, and find that the implied internal rate of return on marginal household saving is roughly 10–15 percent — well above standard time-preference estimates. The implication is that a wedge between private impatience and the social discount rate generates a measurable social cost of consumer impatience.",
+    "data_used": "Hungarian macroeconomic time series (consumption, income, debt, country risk premium) for the late 1990s / early 2000s, used to calibrate a representative-household intertemporal optimisation model with FDI externalities and an endogenous country-risk premium.",
+    "policy_relevance": "Direct relevance for Hungarian fiscal and consumer-credit policy (NGM, MNB macroprudential tools): the social-impatience wedge supports policies that lean against debt-financed consumption booms — such as the LTV / DSTI rules MNB later introduced — on welfare grounds, not just on stability grounds. Useful as a Hungary-specific calibration when assessing the welfare costs of household-credit booms."
+  },
+  {
+    "id": "benk-horvath-et-al-2024-cte",
+    "title": "Inflation Shock and Monetary Policy",
+    "year": 2024,
+    "authors": [
+      "benk-szilard",
+      "P. Horváth",
+      "Norbert Szepesi"
+    ],
+    "countries_studied": [
+      "HU",
+      "CEE"
+    ],
+    "summary_en": "The 2021–2023 inflation episode forced central banks across Europe to raise policy rates abruptly after years near the lower bound. Benk, Horváth and co-authors review the Hungarian experience in this 'Contributions to Economics' volume chapter, situating the MNB's tightening path in the broader CEE comparison and discussing the trade-offs between inflation control, exchange-rate stabilisation, and output costs that the MNB navigated. [Volume-chapter summary; abstract not publicly available — verification recommended.]",
+    "data_used": "Hungarian and CEE macroeconomic time series (inflation, policy rates, output, exchange rates) covering roughly 2019–2023. Narrative-quantitative review; no primary econometric estimation in this chapter.",
+    "policy_relevance": "Useful background reference for Hungarian and CEE monetary-policy strategy (MNB, NGM): documents the lessons learned from the 2022–23 tightening cycle for future inflation-shock responses. Particularly relevant for current debates over the MNB's reaction-function calibration and the role of FX stabilisation in the policy mix."
+  },
+  {
+    "id": "biro-branyiczki-2019-wp",
+    "title": "17. Health gap in post-socialist Central and Eastern Europe: A life-course perspective",
+    "year": 2019,
+    "authors": [
+      "biro-aniko",
+      "branyiczki-reka"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Bíró and Branyiczki document health gaps between post-socialist Central and Eastern European countries (Hungary, Poland, Czechia, Slovakia, etc.) and Western Europe using SHARE waves 6-7. They take a life-course perspective: gaps in self-rated health, chronic-disease prevalence, and depression scores partly trace back to events earlier in life (childhood deprivation, education, employment shocks). The chapter contributes to understanding why Hungarian and CEE older-age health outcomes lag behind Western European ones decades after the transition.",
+    "data_used": "Survey of Health, Ageing and Retirement in Europe (SHARE) waves 6-7, including life-history retrospective survey (SHARELIFE), covering ~25,000 individuals aged 50+ in 17 countries with detailed life-course event histories.",
+    "policy_relevance": "Hungarian public-health policy (Egészségügyi Államtitkárság, NEAK) operates against a backdrop of substantial East-West health gaps. The paper shows these gaps are partly determined by life-course events (childhood deprivation, transition-era job losses) — useful for designing targeted older-age health interventions and for arguing the long-term-investment case for early-life public-health spending."
+  },
+  {
+    "id": "biro-kollanyi-et-al-2022-cte",
+    "title": "Health and Social Security",
+    "year": 2022,
+    "authors": [
+      "biro-aniko",
+      "Zsófia Kollányi",
+      "Piotr Romaniuk",
+      "Šime Smolić"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "This Springer 'Contributions to Economics' chapter (Bíró, Kollányi, Romaniuk, Smolić) reviews health and social-security policy in Hungary and other post-socialist Central European countries. It documents the institutional structure of health insurance, pensions, and family benefits, surveys recent reforms, and assesses outcomes against the population's evolving health and demographic structure. The chapter is a reference resource for cross-country comparisons of CEE health and social-security systems.",
+    "data_used": "Literature review and policy synthesis covering Hungarian, Polish, Czech, Slovak, and Croatian health and social-security policies; references administrative and survey data from each country's national statistics agencies.",
+    "policy_relevance": "Reference document for Hungarian and CEE policy researchers comparing institutional choices across the region. Useful for academic and policy researchers at KRTK, MNB, and EU-level (DG-EMPL, OECD) when assessing Hungarian health and social-security policy in regional context."
+  },
+  {
+    "id": "biro-prinz-2020-hp",
+    "title": "Healthcare spending inequality: Evidence from Hungarian administrative data",
+    "year": 2020,
+    "authors": [
+      "biro-aniko",
+      "prinz-daniel"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Bíró and Prinz combine Hungarian administrative data covering 50% of the population with healthcare-spending records to characterise inequality in health spending and mortality by income and geography for 2003-2011. The paper provides a more complete picture than survey-based studies: the bottom income quintile has both higher mortality and (consequently) lower lifetime healthcare spending; geographic disparities are large and align with regional development patterns. Uses NAV income data, ONYF employment records, and OEP healthcare claims to provide the most comprehensive Hungarian healthcare-inequality assessment to date.",
+    "data_used": "Hungarian administrative data covering a random 50% of the population (~5 million individuals), 2003-2011: NAV income tax records, ONYF employment data, OEP/NEAK healthcare claims, KSH demographic and geographic information.",
+    "policy_relevance": "Foundational evidence for Hungarian health-equity policy. The paper documents large spending and mortality disparities by income and region — useful for NEAK's resource-allocation decisions, the Egészségügyi Államtitkárság's regional-health-strategy planning, and the Pénzügyminisztérium when evaluating health-budget redistribution proposals."
+  },
+  {
+    "id": "biro-prinz-et-al-2022-jpube",
+    "title": "The minimum wage, informal pay, and tax enforcement",
+    "year": 2022,
+    "authors": [
+      "biro-aniko",
+      "prinz-daniel",
+      "László Sándor"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Bíró, Prinz and Sándor study the taxation of the minimum wage in Hungary, where enforcement is imperfect and substantial informal pay coexists with formal reporting. They exploit a 2007 increase in audit threat for earnings below a reporting threshold at twice the minimum wage. Using bunching estimators and difference-in-differences with administrative panel data, they show that a large share of workers reporting minimum-wage earnings actually earn at least as much off the books. When enforcement is imperfect, a taxed minimum wage serves as a backstop on under-reporting — recovering some revenue but increasing informality.",
+    "data_used": "Hungarian administrative panel data from NAV (tax) and ONYF (employment) covering all formal-sector workers around the minimum-wage threshold, 2003-2014. Includes detailed earnings, hours, and audit-status records.",
+    "policy_relevance": "Direct relevance for Hungarian minimum-wage policy and tax-enforcement design at NAV. The paper shows raising the minimum wage in environments with imperfect enforcement generates a trade-off between revenue and informality — useful for the Pénzügyminisztérium and NAV when calibrating audit thresholds and minimum-wage levels jointly. Already widely cited in Hungarian wage-policy debates."
+  },
+  {
+    "id": "bocskei-somogyi-2023-ks",
+    "title": "A vállalkozások fenntartható tevékenysége. A taxonómiarendelet hatásainak piacelméleti modellezése",
+    "year": 2023,
+    "authors": [
+      "Elvira Böcskei",
+      "somogyi-robert"
+    ],
+    "countries_studied": [],
+    "summary_en": "What economic effects will the EU's Taxonomy Regulation have on Hungarian firms — particularly the SMEs that are currently outside the disclosure mandate? Böcskei and Somogyi build a market-theory game-theoretic model to compare three regimes: no regulation, the current rule (large firms only), and a future expanded rule (SMEs included). The model evaluates each regime against social-welfare criteria. Findings highlight the trade-off between disclosure-induced incentives for genuine sustainable activity and the compliance costs imposed on firms. Particularly relevant given that the European Commission is actively considering extending the disclosure regime to SMEs, which could substantially reshape the competitive structure of Hungarian green-product markets.",
+    "data_used": "Theoretical paper. Game-theoretic model of firm behaviour under three regulatory regimes for sustainability disclosure. No empirical contribution.",
+    "policy_relevance": "Direct relevance to Hungarian implementation of the EU Taxonomy Regulation (NGM, MNB, AM). The paper supports careful welfare evaluation before extending the disclosure regime to SMEs — particularly because compliance costs are non-trivial and Hungarian SME capacity for ESG reporting is uneven. Useful framework for the Hungarian negotiating position in EU-level discussions."
+  },
+  {
+    "id": "boza-2023-eepe",
+    "title": "Firms and wages",
+    "year": 2023,
+    "authors": [
+      "boza-istvan"
+    ],
+    "countries_studied": [],
+    "summary_en": "How do firms shape worker wages, beyond what skills alone explain? Boza's chapter surveys the modern firm-effect literature on wage formation, anchored by the Abowd-Kramarz-Margolis (AKM) model. AKM's innovation in 1999 was to use linked employer-employee panel data to decompose wages into worker and firm fixed effects — and the literature has consistently found both matter substantially, contradicting the simple competitive-labour-market assumption that only worker skills determine pay. The chapter reviews subsequent econometric refinements and applications to wage-inequality decomposition, gender pay gaps, and assortative matching. A useful reference for any researcher engaging with Hungarian linked-employer-employee admin data.",
+    "data_used": "Survey chapter. References to a wide AKM-pattern empirical literature using linked employer-employee data from various countries; no new empirical contribution.",
+    "policy_relevance": "Foundational for Hungarian labour-market policy thinking (NFSZ, NGM, MNB labour-market unit): the firm-effect literature shows that wage gaps are not only about worker skills but also about which firms hire whom. For Hungarian gender wage gap or regional wage gap analyses (using KSH or KRTK Admin3 data), the AKM framework is the methodological starting point. Useful baseline reference for any Hungarian labour econometrician."
+  },
+  {
+    "id": "boza-ilyes-2018-ksz",
+    "title": "A korábbi munkatársak bérekre gyakorolt hatása",
+    "year": 2018,
+    "authors": [
+      "boza-istvan",
+      "ilyes-virag"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Do former co-workers affect your starting salary at a new employer? Boza and Ilyés use Hungarian admin data covering half the working-age population in 2003-2011 to estimate the effect of having a former co-worker at a hiring firm. Workers hired into firms employing their former colleagues earn 2.5% more on average than otherwise-similar workers without such network ties. But this is an indirect effect: better-latent-ability workers self-select into higher-paying firms via former-colleague networks. The wage premium fades after about three years (so does the job-stability advantage). The effect is stronger when the introducer has a similar occupation and a higher position.",
+    "data_used": "Hungarian admin data on linked employer-employee histories, 2003–2011, covering ~50% of the Hungarian working-age population. Tracks hires, wages, and former-colleague networks across firms. Sample size in millions of worker-firm transitions.",
+    "policy_relevance": "For Hungarian active labour market policy (NFSZ, NGM): the paper documents that informal networks meaningfully affect wage outcomes in Hungary, but the channel is sorting rather than productivity. Implication: subsidising network access for disadvantaged jobseekers (e.g., workshop-based mentoring) can deliver short-run wage gains, but won't close skill-driven wage gaps over the long run. Useful for evaluating NFSZ programme design."
+  },
+  {
+    "id": "boza-ilyes-2026-ksz",
+    "title": "Az EU bértranszparencia-irányelve – kihívások és dilemmák",
+    "year": 2026,
+    "authors": [
+      "boza-istvan",
+      "ilyes-virag"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "How will the EU's 2023 Pay Transparency Directive actually affect Hungarian firms and the gender pay gap? Boza and Ilyés stress-test the directive's reporting and compliance logic on Hungarian admin data covering the entire 2022 employed population. The reported pay-gap magnitude, the share of workers exposed to inequality, and the compliance burden on firms all depend heavily on technical decisions about how job categories are defined, how granular they are, and the extent to which factors like age and experience can be controlled for. The paper identifies critical pivots where Hungarian implementation choices will determine whether the directive achieves its intended pay-gap reduction at reasonable administrative cost.",
+    "data_used": "Anonymised Hungarian admin data for 2022 covering the full employed population, allowing direct computation of the directive-required pay-gap indicators at multiple job-category granularities. Sensitivity analysis across different aggregation choices.",
+    "policy_relevance": "Direct input for Hungarian implementation of the EU Pay Transparency Directive (NGM, Pénzügyminisztérium, EBH). The paper's headline finding — that measured gaps and compliance costs depend critically on category definitions — supports careful, evidence-driven choice of implementation parameters rather than defaulting to the most aggressive reporting bracket. Useful for the Hungarian Government's transposition decisions in 2026-27."
+  },
+  {
+    "id": "boza-peto-et-al-2025-ksz",
+    "title": "Magyar adminisztratív munkáltatói-munkavállalói adatok",
+    "year": 2025,
+    "authors": [
+      "boza-istvan",
+      "peto-rita",
+      "Melinda Tir"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Hungary's linked employer-employee admin data (Admin4) is one of the most significant data innovations of recent decades, enabling long-term study of individuals jointly with their employers. Boza, Pető and Tir document the development of these data sources and present in detail the latest Hungarian linked admin database (Admin4), with attention to the modules and supplementary information that can be linked to it. The paper closes with international comparison — assessing the Hungarian data's strengths, distinctive features, and limitations relative to similar databases in other countries. A key reference for any researcher considering Hungarian admin-data work.",
+    "data_used": "Documentation paper. Surveys the structure and content of the Hungarian Admin4 panel and prior Hungarian admin data sources. International comparison uses public documentation of Swedish, German, French, Norwegian, and other linked employer-employee databases.",
+    "policy_relevance": "For Hungarian research-policy infrastructure (KSH, KRTK Databank, NAV): the paper supports continued investment in the Admin4 panel and additional module integration. Useful baseline document for researchers, regulators, and parliament discussing data-access policy. The international-comparison section helps Hungarian policymakers benchmark how restrictive vs. permissive data-access rules translate into research output."
+  },
+  {
+    "id": "branyiczki-rosta-2018-kulg",
+    "title": "A puha költségvetési korlát használhatósága – Kornai János 90. születésnapját ünnepelte a tudományos közösség",
+    "year": 2018,
+    "authors": [
+      "branyiczki-reka",
+      "Miklós Rosta"
+    ],
+    "countries_studied": [],
+    "summary_en": "What has economists' soft-budget-constraint research programme delivered since 2000? Branyiczki and Rosta write a conference report from the international event organised for János Kornai's 90th birthday. They briefly review the soft-budget-constraint (SBC) concept and summarise its applications since 2000 — primarily in post-socialist economies (especially China), in state crisis-response during the 2007-2008 global financial crisis, and in multi-level governance and corporate-incentive analysis. The conference also covered SBC applications to over-spending state and local governments, and to the economics of European and Hungarian football clubs. The paper closes by recapping Kornai's own concluding remarks at the conference.",
+    "data_used": "Conference report. Surveys the field via the conference talks; no original empirical contribution.",
+    "policy_relevance": "Useful retrospective for Hungarian researchers and policymakers on the soft-budget-constraint research programme. The paper's subject is intellectual history rather than direct policy advice. Indirect relevance: the SBC concept remains operationally important for evaluating Hungarian SOE governance, public-sector subsidy design, and football-club regulation."
+  },
+  {
+    "id": "brodeur-et-al-2026-nature",
+    "title": "Reproducibility and robustness of economics and political science research",
+    "year": 2026,
+    "authors": [
+      "Abel Brodeur",
+      "et al.",
+      "gaspar-attila"
+    ],
+    "countries_studied": [],
+    "summary_en": "How reproducible are top economics and political-science papers? Brodeur and a large multi-author team — including Hungarian Attila Gáspár — reproduced the original analyses and ran robustness checks on 110 articles in leading journals. The paper documents systematic patterns in computational reproducibility (most articles can be reproduced from posted code/data, but with notable exceptions) and in robustness (results are typically less robust than the published reporting suggests). The finding informs replication and registration policy in social-science research and the broader effort to strengthen scientific self-correction.",
+    "data_used": "110 articles published in leading economics and political-science journals; for each, the original code/data were re-run and a battery of robustness checks applied. Effort coordinated through the Institute for Replication.",
+    "policy_relevance": "Direct relevance for Hungarian and EU research-evaluation policy at MAB (Hungarian Accreditation Committee), NRDI Office, KSH research-quality standards, and the European Commission DG-RTD. The paper provides a quantitative baseline for the reliability of social-science evidence — useful framework for designing reproducibility-incentive policies in Hungarian research funding."
+  },
+  {
+    "id": "cede-chiriacescu-et-al-2018-rowe",
+    "title": "Export characteristics and output volatility: comparative firm-level evidence for CEE countries",
+    "year": 2018,
+    "authors": [
+      "Urška Čede",
+      "Bogdan Chiriacescu",
+      "harasztosi-peter",
+      "Tibor Lalinský",
+      "Jaanika Meriküll"
+    ],
+    "countries_studied": [
+      "HU",
+      "EE",
+      "RO",
+      "SK",
+      "SI"
+    ],
+    "summary_en": "Does exporting raise or lower firm-level output volatility, and does diversification help? Čede, Chiriacescu, Harasztosi, Lalinsky and Meriküll use harmonised firm-level databases from five Central and Eastern European countries (Estonia, Hungary, Romania, Slovakia, Slovenia) covering the 2004-2012 boom-bust cycle. They find exporting is associated with higher firm-level volatility — and the effect grew during the Great Recession. Crucially, contra findings for advanced economies, export diversification (more products or more markets) does not significantly mitigate volatility for CEE firms.",
+    "data_used": "Harmonised firm-level manufacturing data from Estonia, Hungary, Romania, Slovakia and Slovenia 2004-2012, drawn from each country's central-bank or statistical-office firm registers; covers tens of thousands of manufacturing firms across the region.",
+    "policy_relevance": "Direct relevance for Hungarian and CEE export-promotion policy. The paper warns that the standard 'diversification reduces volatility' insight from advanced-economy data does NOT extend to CEE — Hungarian exporters' volatility may not be tamed by simply pushing into more products or markets. Useful caveat for HIPA, KKM, and the Eximbank when designing export-support programmes."
+  },
+  {
+    "id": "csafordi-lorincz-et-al-2018-jtt",
+    "title": "Productivity spillovers through labor flows: productivity gap, multinational experience and industry relatedness",
+    "year": 2018,
+    "authors": [
+      "Zsolt Csáfordi",
+      "lorincz-laszlo",
+      "lengyel-balazs",
+      "Károly Miklós Kiss"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Do productivity spillovers from foreign-owned to domestic Hungarian firms travel through workers who change jobs? Csáfordi, Lőrincz and co-authors use Hungarian linked employer–employee data to track workers moving from foreign to domestic firms and compare the post-hire productivity of receiving firms to similar firms that did not hire from foreign-owned employers. The paper documents that hires from foreign firms are associated with persistent productivity gains for the receiving Hungarian firm, with effect sizes that scale with the productivity gap and with the migrating worker's industry experience. [Title-and-abstract-of-published-version verification recommended; OpenAlex record carries no abstract.]",
+    "data_used": "Hungarian linked employer–employee administrative data (Bértarifa wage survey + KSH firm panel) over the 2000s, identifying worker job changes between foreign-owned and domestic firms and tracking the receiving firm's productivity trajectory.",
+    "policy_relevance": "Direct relevance for Hungarian FDI and active labour-market policy (HIPA, Foglalkoztatáspolitikai Intézet): supports the case that targeting FDI in industries with substantial domestic supply chains delivers productivity benefits that travel via the labour market, not just via direct supplier relationships. Useful for HIPA's strategy of attracting FDI to corridors where domestic firms have absorptive capacity."
+  },
+  {
+    "id": "csaji-kiraly-et-al-2025-moor",
+    "title": "Popular Maximum-Utility Matchings with Matroid Constraints",
+    "year": 2025,
+    "authors": [
+      "csaji-gergely",
+      "Tamás Király",
+      "Kenjiro Takazawa",
+      "Yu Yokoi"
+    ],
+    "countries_studied": [
+      "GLOBAL"
+    ],
+    "summary_en": "Popularity is a matching-theory concept: a matching is popular if it wouldn't lose a head-to-head vote against any alternative. This paper generalises popular-matching theory to settings with matroid constraints and weight functions. For both one-sided and two-sided preference models with matroid constraints, the authors provide efficient algorithms for finding popular maximum-weight matchings. A technical contribution opening up matroid-constrained matching problems to tractable market-design analysis.",
+    "data_used": "Theoretical paper; no empirical data.",
+    "policy_relevance": "Foundational for mechanism-design applications where matroid constraints arise naturally — e.g., school choice with geographic constraints, hospital-doctor matching with departmental caps. Relevant to Hungarian market-design work at KRTK. Caveat: theoretical; operational use depends on problem-specific calibration."
+  },
+  {
+    "id": "csermely-harasztosi-et-al-2012-eepe",
+    "title": "Opportunities and challenges – the impact of Chinese competition on Hungarian manufacturing",
+    "year": 2012,
+    "authors": [
+      "Ágnes Csermely",
+      "harasztosi-peter",
+      "Gábor Pellényi"
+    ],
+    "countries_studied": [
+      "HU",
+      "CN"
+    ],
+    "summary_en": "Csermely, Harasztosi and Pellényi study how Chinese import competition has affected Hungarian manufacturing in the 2000s. The chapter (Edward Elgar 2012) documents firm-level adjustment patterns: which industries were most exposed, which firms adapted versus exited, and how the response interacted with Hungary's export specialisation in EU markets. The case study illustrates the broader 'China shock' literature applied to a small open European economy that competes directly with China in EU export markets rather than facing China primarily as an import source.",
+    "data_used": "Hungarian manufacturing firm-level data from the IEHAS-CEFiG dataset (1992-2006 panel) plus customs data on Hungarian imports from China and competing exports to EU markets.",
+    "policy_relevance": "Hungarian industrial-policy and trade-defence work (KKM, ITM, GVH) increasingly engages with Chinese-competition pressure, especially in automotive supply, electronics, and machinery. The chapter provides a Hungarian-specific analytical framework analogous to the Autor-Dorn-Hanson 'China shock' literature, useful for KKM trade-defence-instrument analysis and ITM industrial-policy diagnostics."
+  },
+  {
+    "id": "dobrinsky-korosi-et-al-2006-joce",
+    "title": "Price markups and returns to scale in imperfect markets: Bulgaria and Hungary",
+    "year": 2006,
+    "authors": [
+      "Rumen Dobrinsky",
+      "Gábor Kőrösi",
+      "Nikolay Markov",
+      "halpern-laszlo"
+    ],
+    "countries_studied": [
+      "HU",
+      "BG"
+    ],
+    "summary_en": "Under perfect competition with constant returns to scale, firms price at marginal cost. Once you depart from those assumptions — as is the case in most transition-era manufacturing — markups appear, and Dobrinsky, Kőrösi, Markov and Halpern show that those markups are tightly linked to the production technology's returns to scale. Using firm-level data from Bulgarian and Hungarian manufacturing they estimate this link and quantify how non-constant returns explain heterogeneity in observed markups across firms and sectors.",
+    "data_used": "Firm-level panel data on Bulgarian and Hungarian manufacturing firms (early-to-mid 2000s), with output, employment, intermediate-input, and capital information. Markups and returns-to-scale estimated jointly using production-function methods.",
+    "policy_relevance": "Speaks to Hungarian competition policy and industrial-policy diagnostics (GVH, ITM): markup heterogeneity that looks like 'market power' may partly reflect technological returns to scale rather than anti-competitive behaviour. For sector-level competition assessments the paper is a methodological warning — interpreting high markups in scale-intensive industries as a competition problem can mislead policy."
+  },
+  {
+    "id": "egert-halpern-2005-jobf",
+    "title": "Equilibrium exchange rates in Central and Eastern Europe: A meta-regression analysis",
+    "year": 2006,
+    "authors": [
+      "Balázs Égert",
+      "halpern-laszlo"
+    ],
+    "countries_studied": [],
+    "summary_en": "How much do equilibrium exchange-rate estimates for Central and Eastern European EU member states actually vary across studies, and why? Égert and Halpern apply meta-regression analysis to a large literature comparing real-misalignment estimates. They find that reported misalignments are systematically influenced by both the underlying theoretical concept (Balassa-Samuelson, Behavioural Equilibrium Exchange Rate, Fundamental Equilibrium Exchange Rate) and the econometric estimation method. The implication: any single estimate of CEE equilibrium exchange rates is fragile, and a systematic robustness analysis across alternative theory-method combinations is needed for credible misalignment assessment.",
+    "data_used": "Meta-regression analysis of 60+ empirical studies on equilibrium exchange rates in Central and Eastern European EU member states (Hungary, Poland, Czechia, Slovakia, Slovenia, Estonia, Latvia, Lithuania), covering both BEER, FEER, and Balassa-Samuelson approaches.",
+    "policy_relevance": "Direct relevance for MNB exchange-rate-monitoring methodology and Hungarian Government euro-readiness assessments. The paper warns that equilibrium-exchange-rate estimates are model-sensitive — useful caution for MNB strategy discussions and for the European Commission's CEE convergence reports."
+  },
+  {
+    "id": "ertl-2022-ksz",
+    "title": "Méltányos és méltánytalan különbségek az egyéni döntéshozatalban",
+    "year": 2022,
+    "authors": [
+      "ertl-antal"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Are wage gaps fair? Ertl runs an experiment to see when reference-point comparisons turn into harmful envy — i.e., when people are willing to pay to destroy others' rewards if those rewards feel unjust. He finds Hungarians more readily accept higher pay for greater effort than for higher education or longer tenure, and that providing a justification for a wage gap can switch off destructive behaviour. Fairness, in other words, is not just about the size of the gap but about the story attached to it.",
+    "data_used": "Behavioral experiment with Hungarian participants making distributive decisions under different framings of the wage-gap source (effort, education, tenure). Sample is a Hungarian student / online subject pool; the paper is methodological and decision-theoretic rather than population-representative.",
+    "policy_relevance": "For Hungarian wage-policy debates (minimum wage, public-sector pay scales, sectoral collective agreements) the result implies that the political acceptability of a pay structure depends heavily on the narrative around it: pay gaps tied to visible effort attract less backlash than gaps tied to credentials or seniority. Communications strategy on tax-and-transfer reforms or public-sector wage adjustments should therefore lead with the effort-and-contribution rationale, not with credential- or rank-based arguments."
+  },
+  {
+    "id": "ferto-jambor-2014-agec",
+    "title": "Drivers of vertical intra-industry trade: the case of the Hungarian agri-food sector",
+    "year": 2014,
+    "authors": [
+      "ferto-imre",
+      "Attila Jámbor"
+    ],
+    "countries_studied": [
+      "HU",
+      "EU"
+    ],
+    "summary_en": "Vertical intra-industry trade (exporting and importing goods of different quality within the same product category) is economically informative: it reflects product differentiation and specialisation. This paper asks what drives vertical IIT in Hungarian agri-food trade with the EU. Three drivers matter: factor endowments (negative), economic size (positive), and distance (negative — consistent with gravity-model intuitions). New-member-state exports to other new-member-states show higher vertical IIT shares, and EU accession had an ambiguous effect. A careful empirical portrait of trade-in-variety in Hungarian agri-food.",
+    "data_used": "Hungarian agri-food trade data with EU partners. Multiple IIT measurement methods (GHM, FF, N) tested. Panel-data models (static, dynamic, FEVD).",
+    "policy_relevance": "Relevant to Hungarian agri-food export policy and to EU new-member-state trade-policy debates. The paper's message: trade in differentiated agri-food products is sensitive to distance and partner-country size — supporting Hungary's focus on regional markets (V4, Balkans) for specialised exports. Relevant to HEPA and NAK export strategy. Caveat: pre-2014 data; product differentiation and quality upgrading have continued."
+  },
+  {
+    "id": "forand-ujhelyi-2021-jotp",
+    "title": "Don’t hatch the messenger? On the desirability of restricting the political activity of bureaucrats",
+    "year": 2021,
+    "authors": [
+      "Jean Guillaume Forand",
+      "ujhelyi-gergely"
+    ],
+    "countries_studied": [
+      "GLOBAL"
+    ],
+    "summary_en": "Many democracies — including Hungary — restrict the political activity of government workers (the US Hatch Act, similar Hungarian rules for civil servants). Forand and Ujhelyi provide a formal welfare analysis. Bureaucrats' political activities can convey valuable information to voters about the government's performance, but they can also induce policy mistakes and create 'noise' from ideologically driven bureaucrats. The paper shows that when politicians have limited control over bureaucrats and successfully coordinate with voters, allowing political activities can be optimal — but in most realistic cases, banning them is welfare-superior.",
+    "data_used": "Theoretical model — game-theoretic analysis of bureaucrat political activity, voter inference, and policy choice under partial-information and coordination frictions.",
+    "policy_relevance": "Hungary's civil-service code restricts political activities by public employees; periodic reforms revisit these rules. The paper provides a rigorous framework for assessing such restrictions. Relevant for the Belügyminisztérium when calibrating the scope of political-activity bans for various categories of public employees, and for the Constitutional Court when interpreting freedom-of-expression challenges to such rules."
+  },
+  {
+    "id": "franks-loranth-2013-efr",
+    "title": "A Study of Bankruptcy Costs and the Allocation of Control",
+    "year": 2013,
+    "authors": [
+      "Julian Franks",
+      "loranth-gyongyi"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "How does the allocation of control rights in bankruptcy shape recovery outcomes for creditors? Franks and Lóránth use Hungarian bankruptcy data to document a striking pattern: most bankrupt firms in their sample are kept as going concerns despite generating large operating losses and low recovery rates for pre-bankruptcy creditors. The bias traces to two design features of the Hungarian bankruptcy code: how control rights are split between secured and unsecured creditors, and how the bankruptcy administrator (the agent managing the process) is compensated. The paper shows how specific provisions of the bankruptcy code translate into the costs of bankruptcy and the size of the pie available to pre-bankruptcy creditors.",
+    "data_used": "Hungarian bankruptcy proceedings data covering a sample of bankrupt firms. Tracks operating performance, going-concern decisions, and recovery rates by creditor class. Sample period covers the early 2000s and earlier.",
+    "policy_relevance": "Direct relevance to Hungarian bankruptcy-law reform debates (Igazságügyi Minisztérium, MNB). The paper provides empirical foundation for re-examining the Hungarian Bankruptcy Act's control-rights allocation between secured and unsecured creditors, and for restructuring administrator compensation. Useful empirical input for any Hungarian or EU-level bankruptcy-code reform proposals."
+  },
+  {
+    "id": "fulop-kocsis-2023-jbf",
+    "title": "News Indices on Country Fundamentals",
+    "year": 2023,
+    "authors": [
+      "fulop-andras",
+      "Zalán Kocsis"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Standard models explain only a fraction of sovereign-credit-spread variation with macroeconomic fundamentals, leaving the rest attributed to liquidity or sentiment. Fülöp and Kocsis (the latter at the MNB) build text-based news indices from Reuters articles 2007–2016, using a regular-expression methodology that links topic mentions to tonality and geographic scope. They show the news indices capture genuine fundamental information rather than liquidity or sentiment proxies, and they explain a large share of credit-spread movements that traditional macro proxies miss. Most of the explanatory power comes from omitted expectations and concerns about global fundamentals — and a substantial part of the VIX-spread covariance is also tied to these global fundamentals.",
+    "data_used": "Reuters news article archive 2007–2016 (~10 million articles), processed via custom regular-expression matching for topic, tonality and geographic markers; combined with daily sovereign credit-spread series for a broad cross-section of developed and emerging-market sovereigns including Hungary.",
+    "policy_relevance": "Direct relevance for the MNB and the Hungarian Government Debt Management Agency (ÁKK) in monitoring sovereign-spread movements. Shows that text-based fundamental indices add explanatory power beyond standard macro proxies, especially during global stress episodes when local macro data are slow to update. Useful complement to existing financial-stability dashboards in central banks tracking spread dynamics."
+  },
+  {
+    "id": "garay-simonovits-et-al-2011-eclett",
+    "title": "Local interaction in tax evasion",
+    "year": 2012,
+    "authors": [
+      "Barnabás M. Garay",
+      "simonovits-andras",
+      "István János Tóth"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Tax morale matters in Hungary as in many countries with substantial informal economies. Garay, Simonovits and Tóth model how income underreporting spreads through social networks: each person's underreport depends on private gain and on the moral losses of being seen to underreport, which themselves depend on what acquaintances reported in the previous period. They prove that under quite natural assumptions, the process converges globally to a symmetric steady state — meaning network-driven underreporting equilibria are predictable and amenable to social-comparison-based interventions.",
+    "data_used": "Theoretical model. Behavioural assumptions on the moral-loss component informed by survey evidence on Hungarian tax morale (Tárki Háztartás Monitor, NAV inspector surveys).",
+    "policy_relevance": "Direct relevance for NAV's tax-compliance strategy. The paper supports interventions that exploit social-comparison feedback (e.g., 'most of your neighbourhood reports honestly' messages, used in the UK and other settings) by showing the convergence properties of the underlying social-network dynamics. Relevant for NAV's behavioural-economics-informed compliance pilots."
+  },
+  {
+    "id": "goel-telegdy-et-al-2024-jocf",
+    "title": "Subsidy-driven firm growth: Does loan history matter? Evidence from a European Union subsidy program",
+    "year": 2024,
+    "authors": [
+      "Tirupam Goel",
+      "telegdy-almos",
+      "Ádám Banai",
+      "Előd Takáts"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Should government subsidies target loan-deprived firms (those without bank credit access) on the assumption that they have higher marginal value of capital? Goel, Telegdy, Banai and Takáts test this in Hungary using non-repayable firm subsidies matched with credit-registry data. Using subsidy winners vs. losers as treated and control groups, they find subsidies do generate larger asset growth for loan-deprived firms — but the effect is transitory and fades within a few years. Profitability follows the same pattern. The implication: loan deprivation likely reflects borrower shortcomings rather than credit rationing, so subsidies should not preferentially target loan-deprived firms.",
+    "data_used": "Hungarian administrative data on non-repayable firm subsidies (from MFB / EU Structural Funds disbursements) matched to the MNB credit registry; covers tens of thousands of subsidy applicants 2004-2018, with detailed loan and balance-sheet histories.",
+    "policy_relevance": "Direct policy implication for the Pénzügyminisztérium and MFB designing the next round of EU-funded subsidy programmes. The paper challenges the widespread assumption that targeting credit-constrained firms is welfare-optimal — at least in Hungarian data, loan-deprived firms convert subsidies into shorter-lived gains. Useful diagnostic for HIPA-administered subsidy schemes."
+  },
+  {
+    "id": "gyongyosi-verner-2022-jof",
+    "title": "Financial crisis, creditor-debtor conflict, and populism",
+    "year": 2022,
+    "authors": [
+      "gyongyosi-gyozo",
+      "Emil Verner"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Did Hungary's foreign-currency debt crisis fuel the rise of Jobbik (the populist far right) after 2008? Gyöngyösi and Verner exploit cross-region variation in household foreign-currency-mortgage exposure to causally identify the political-economy effects. Districts with higher FX-debt exposure saw substantially larger and persistent gains in Jobbik vote share. The mechanism: Jobbik (and later Fidesz) advocated aggressive debt relief for FX-mortgage holders and were rewarded electorally. The findings support theories that creditor-debtor conflict shapes post-crisis political outcomes — a Hungarian case study with broader implications for EU populism.",
+    "data_used": "Hungarian district-level election results (2006, 2010, 2014, 2018) matched to MNB administrative data on foreign-currency mortgage exposure by district. Also detailed text analysis of party manifestos and parliamentary debates on debt-relief positions.",
+    "policy_relevance": "Highly relevant for the Hungarian political-economy literature and for European institutions assessing EU populism. The paper shows financial-crisis-driven debtor distress directly fuels far-right support when mainstream parties fail to address it. Useful for political-economy analysts at the European Commission, ECB, and Hungarian academic institutions interpreting the rise of populism in Central-Eastern Europe."
+  },
+  {
+    "id": "hajdu-kertesi-et-al-2018-tbejo",
+    "title": "Inter-Ethnic Friendship and Hostility between Roma and non-Roma Students in Hungary: The Role of Exposure and Academic Achievement",
+    "year": 2018,
+    "authors": [
+      "hajdu-tamas",
+      "kertesi-gabor",
+      "kezdi-gabor"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Can integrated classrooms improve ethnic relations, or does exposure alone not change hostility? This paper studies Roma and non-Roma 15-year-old students in 82 Hungarian schools, examining friendship and hostility relations. Key finding: high-achieving Roma students have significantly more friends and fewer adversaries than low-achieving ones — within-ethnic-group relations are similar, but inter-ethnic relations differ. Higher exposure to Roma students translates to more friendship and less hostility from non-Roma students, but only when more of the Roma students have high academic achievement. Academic success mediates the exposure-integration relationship.",
+    "data_used": "Survey data on friendship and hostility relations of 15-year-old students from 82 Hungarian schools, with ethnic-identity and academic-achievement measures.",
+    "policy_relevance": "Directly relevant to Hungarian school-integration policy (EMMI, Oktatási Hivatal). The paper supports the view that Roma integration requires both exposure (desegregation) and academic support — mere physical integration without academic success does not improve inter-ethnic relations. Relevant to school-integration strategy design. Caveat: cross-sectional; causal identification of the exposure-achievement-relations mechanism is harder."
+  },
+  {
+    "id": "hajdu-kertesi-et-al-2022-ks",
+    "title": "Idő és pénz a gyermeknevelésben Magyarországon, 1993–2010",
+    "year": 2022,
+    "authors": [
+      "hajdu-tamas",
+      "kertesi-gabor",
+      "kezdi-gabor"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "How much does education-related parental investment vary by social background, and how has it changed since 1989? Hajdu, Kertesi and Kézdi use Hungarian Time Use Surveys and Household Budget Surveys to document patterns of time and money spent on children. The differences are substantial: families with two university-educated parents spend on average 350 hours/year more on childcare and developmental activities and 400,000 Ft/year more on skill-development than families with two upper-secondary-educated parents. The gap has widened over the post-transition decades — the social-background gradient in time-use and skill-investment expenditure both grew between the early 1990s and 2010. A key driver of inter-generational reproduction of educational inequality.",
+    "data_used": "KSH Time Use Surveys (Időmérleg-felmérés) and Household Budget Surveys (HKF), waves spanning ~1993-2010. Sample of households with children. Time-use measured in hours; skill-investment measured in HUF expenditure on education-related goods and services.",
+    "policy_relevance": "Foundational for Hungarian education and family-policy debates (KIM, EMMI, Szociális Minisztérium). The paper supports targeted early-childhood interventions (extended bölcsőde / óvoda hours, parenting support, subsidised after-school programmes) to compensate for the parental-investment gap. The widening gap over time also informs the debate on Roma educational integration and on social-mobility policy. The methodology can be re-run on more recent data to track post-2010 dynamics."
+  },
+  {
+    "id": "hajdu-kertesi-et-al-2023-ajohe",
+    "title": "The Effects of Neonatal Intensive Care on Infant Mortality and Long-Term Health Impairments",
+    "year": 2023,
+    "authors": [
+      "hajdu-tamas",
+      "kertesi-gabor",
+      "kezdi-gabor",
+      "szabo-morvai-agnes"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Can intensive neonatal care save lives and improve long-run health? This paper uses the gradual rollout of neonatal intensive care units (NICUs) and newborn emergency transport systems (NETS) in Hungary from 1990–2015 to estimate causal effects. Using distance-to-hospital as an instrument and residence fixed effects, the authors find that being born in a city with a NICU reduces 0–6-day mortality by 153 per 1,000 for very-low-birth-weight babies and 24 per 1,000 for low-birth-weight babies. NETS effects are smaller. The paper quantifies the substantial life-saving value of investment in neonatal infrastructure.",
+    "data_used": "Hungarian administrative birth records and census data 1990–2015. Distance-to-nearest NICU/NETS hospital serves as an instrumental variable; residence fixed effects control for time-invariant municipality characteristics.",
+    "policy_relevance": "Direct evidence for Hungarian healthcare-infrastructure investment. The paper quantifies that NICU access saves lives at a large scale for low-birth-weight babies, supporting further investment in and maintenance of neonatal intensive care in Hungary. Relevant to NEAK, BVOP, and the Ministry of Health. Also informs rural-vs-urban hospital-network planning. Caveat: uses data through 2015; current hospital network may differ, and effects for very rural areas may be larger or smaller than estimated."
+  },
+  {
+    "id": "halpern-1994-cte",
+    "title": "Factors and Effects of Trade Reorientation in Hungary",
+    "year": 1994,
+    "authors": [
+      "halpern-laszlo"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "How did Hungary's trade reorientation away from CMEA toward Western markets actually unfold during 1981-1990? Halpern uses panel-model estimations to identify the relative roles of cost efficiency, export subsidies, and foreign demand in driving the reorientation. All three played important and varying roles, but with sharp dynamics: cost efficiency drove reorientation in the earlier 1980s, then ceased to influence the process; export subsidies became active in its place during the last two years before transition. By 1991, recession and rising trade-reorientation costs eroded corporate-sector profitability, but exporting firms with fast-growing exports retained higher profits. Foreign capital and new corporate forms had not yet delivered measurable performance gains by 1991.",
+    "data_used": "Hungarian corporate-sector firm-level data 1981-1991 covering exporting firms. Panel-model estimation of trade-flow drivers; profit-rate analysis pre/post 1990.",
+    "policy_relevance": "Historical baseline for understanding the early Hungarian transition. Useful retrospective for evaluating the relative roles of policy levers (subsidies) versus market forces (cost efficiency, demand) in driving structural change. Indirect relevance to current debates on government industrial-strategy interventions versus market-based reform. Caveat: 1980s context; modern Hungarian export structure is dominated by FDI-led integration."
+  },
+  {
+    "id": "halpern-2013-wp",
+    "title": "EU accession as an instrument for speeding up transition",
+    "year": 2013,
+    "authors": [
+      "halpern-laszlo"
+    ],
+    "countries_studied": [
+      "HU",
+      "CEE",
+      "EU"
+    ],
+    "summary_en": "Halpern reviews how EU accession functioned as a transition-acceleration instrument for the Central-Eastern European member states, drawing on the Hungarian experience as the running example. The chapter argues that the accession conditionality bundle (acquis adoption, single-market access, structural funds) compressed reform timelines that would otherwise have taken decades, but also created new dependencies on EU policy frameworks and FDI inflows. [Book-chapter survey; abstract not publicly available — title-based summary, verification recommended.]",
+    "data_used": "Hungarian and CEE macroeconomic series (output, FDI, trade openness) and qualitative review of EU accession-conditionality milestones. No primary dataset.",
+    "policy_relevance": "Useful background reading for Hungarian EU-policy strategy (KKM, NGM EU Funds department): frames why EU membership has been net-positive for Hungary on growth and reform speed, and identifies the dependencies (FDI reliance, EU-fund concentration in selected sectors) that current Hungarian policy debates over the 'New Era' agenda are trying to renegotiate."
+  },
+  {
+    "id": "halpern-2020-k",
+    "title": "Termelékenység, innováció és külkereskedelem magyar vállalati adatok alapján",
+    "year": 2020,
+    "authors": [
+      "halpern-laszlo"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "How does the firm-level innovation–productivity link evolve over time, and what role does importing play alongside exporting? Halpern documents that imports are as important as exports when analysing this link, and that the productivity effect of innovation has been time-varying. Innovation's productivity boost grew through 2010, then declined, returning to the 2005 level by 2016. This pattern was reinforced because the share of innovative firms steadily and substantially declined after 2010. A diagnosis of why Hungarian innovation-driven productivity growth has plateaued — the issue is both diminishing returns to innovation and a shrinking innovator base.",
+    "data_used": "Hungarian firm-level data on innovation activity, exports, imports, and productivity. Sample period 2005-2016. Estimation accounts for endogeneity of innovation and trade activity.",
+    "policy_relevance": "Direct relevance for Hungarian innovation policy (NIH, ITM, NGM). Two implications: (i) innovation incentives that look at exports alone miss the import-side mechanism, and (ii) the post-2010 decline in innovative firms is a leading indicator of stalled productivity growth. Supports re-thinking Hungarian innovation-policy targeting and possibly extending support to a wider firm base. Particularly relevant for evaluating the impact of post-2010 R&D-tax-credit reforms."
+  },
+  {
+    "id": "harasztosi-2015-ee",
+    "title": "Export spillovers in Hungary",
+    "year": 2015,
+    "authors": [
+      "harasztosi-peter"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Do firms decide to export based partly on what their neighbouring firms are doing? Harasztosi tests for export spillovers in Hungarian manufacturing 1993-2003. He finds clear country- and product-specific spillover effects: foreign-owned firms benefit from any nearby exporter peers, while domestic firms benefit only from agglomerations of other domestic exporters. Spillovers are stronger for distant destinations and smaller markets — consistent with information-sharing channels (where the value of peer experience is highest where market knowledge is scarcest).",
+    "data_used": "Hungarian manufacturing firm-product-country trade data 1993-2003 from the IEHAS-CEFiG dataset, covering tens of thousands of firms and millions of firm-product-country export observations.",
+    "policy_relevance": "Direct relevance for HIPA and KKM export-promotion policy. The paper supports geographically-targeted cluster policies: Hungarian domestic exporters benefit from clustering with other domestic exporters (info spillovers), while foreign affiliates benefit from any export-active environment. Useful framework for designing differentiated export-development programmes for domestic vs. foreign-owned firms."
+  },
+  {
+    "id": "harasztosi-katay-2020-jobf",
+    "title": "Currency matching by non-financial corporations",
+    "year": 2020,
+    "authors": [
+      "harasztosi-peter",
+      "Gábor Kátay"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Do Hungarian non-financial corporations match foreign-currency borrowings to their foreign-currency revenues? This paper uses loan-contract-level data to test the hypothesis that firms engage in \"natural hedging.\" The main finding: currency matching does play a role in exporters' currency choices, but it's a minor factor. Only 3.8% of new exporter foreign-currency loans and 2.9% of aggregate new foreign-currency bank loans are explained by natural hedging. Carry-trade motivations, portfolio diversification, and bank supply-side factors dominate. A sobering empirical verdict on the size of hedging behaviour in practice.",
+    "data_used": "Administrative loan-contract-level data for the Hungarian non-financial corporate sector: loan amounts, currency, firm exporter status, bank identity.",
+    "policy_relevance": "Directly relevant to MNB's foreign-exchange risk supervision and the aftermath of the Hungarian FX-mortgage and FX-corporate-debt crisis. The paper quantifies why Hungarian firms took on so much FX debt pre-2008: natural hedging was a small part; supply-side incentives and carry-trade motives were much bigger. Supports macroprudential rules that limit FX lending regardless of borrower exposure. Relevant to MNB's systemic-risk monitoring. Caveat: the data are from pre-2015; Hungarian FX-lending dynamics have changed since, and a re-run with current data would refresh the magnitudes."
+  },
+  {
+    "id": "hermann-2024-ksz",
+    "title": "A teszteredmények társadalmi egyenlőtlensége és az általános iskolai szegregáció",
+    "year": 2024,
+    "authors": [
+      "hermann-zoltan"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Has primary-school segregation increased in Hungary, and is it widening test-score gaps? Hermann uses 2006-2019 data to track both school-level segregation and the social-background test-score gradient. School segregation by social background grew substantially over the period, with particularly strong increases for the bottom quintile of the income distribution. Test-score gaps by social background also widened during the second half of the window. Crucially, the two move together: districts and cities with stronger school segregation also have larger test-score gaps. The findings are consistent with school-level peer-and-resource effects driving social-mobility-linked outcomes.",
+    "data_used": "Hungarian National Competence Test (kompetenciamérés) results 2006-2019, linked to family-background indicators and school-level demographics. Segregation measured at school level using standard segregation indices.",
+    "policy_relevance": "Direct relevance to Hungarian education policy debates (KIM, EMMI). The paper provides causal-style evidence that the post-2010 educational-policy framework (free school choice + expansion of church-run and 6/8-year selective programmes) has increased segregation and widened test-score gaps. Useful empirical input for the integration-vs-selection policy debate and for any future segregation-monitoring requirement under EU education-policy frameworks."
+  },
+  {
+    "id": "hermann-horn-2022-edec",
+    "title": "The effect of decreased general training on skills and dropout - Evidence from a vocational school reform in Hungary",
+    "year": 2022,
+    "authors": [
+      "hermann-zoltan",
+      "horn-daniel"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Hungary shortened its secondary-level vocational education from 4 to 3 years, cutting time spent on general subjects while keeping vocational training. Was it a good idea? This paper uses a difference-in-differences design comparing reformed schools with early adopters. Findings: students' general skills dropped considerably, but dropout probability decreased and secondary-qualification probability rose. Mixed labour-market implications: shorter programmes get more students across the finish line but with weaker general skills. A clear-eyed empirical evaluation.",
+    "data_used": "Hungarian administrative data on secondary-school outcomes, skills, and dropouts around the vocational-education reform. Difference-in-differences with early-adopter schools as control.",
+    "policy_relevance": "Directly actionable for Hungarian vocational-education reform debates (Oktatási Hivatal, EMMI, Ministry of Economy). The paper's trade-off — more completions at cost of weaker general skills — is the core policy choice. Relevant to current adjustments of szakképzés (vocational training) programmes. Caveat: short-run skill and dropout effects; longer-run labour-market effects are still to be measured."
+  },
+  {
+    "id": "hermann-horn-et-al-2022-ksz",
+    "title": "A kompetenciaeredmények hatása a munkaerőpiaci sikerességre",
+    "year": 2022,
+    "authors": [
+      "hermann-zoltan",
+      "horn-daniel",
+      "János Köllő",
+      "Anna Sebők",
+      "András Semjén",
+      "Kinga Varga"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Do PISA-style standardised test scores predict adult labour-market outcomes in Hungary? Hermann, Horn, Köllő, Sebők, Semjén and Varga use large admin panel data to link 10th-grade National Competence Test scores to subsequent labour-market outcomes. A one-standard-deviation higher math score raises early-career earnings by ~4-5%; a one-SD higher reading score adds another 1-2%. Both also reduce unemployment probability — math by 1.5 percentage points, reading by another 0.7 pp. Cognitive skills affect earnings more for the highly educated, but unemployment risk for everyone. Strong causal-style evidence that 10th-grade test scores are economically meaningful, not just educational signals.",
+    "data_used": "Linked Hungarian admin data: National Competence Test scores at 10th grade combined with subsequent admin labour-market histories. Sample size in the hundreds of thousands. Coverage spans tested cohorts from the 2010s into early 2020s.",
+    "policy_relevance": "Direct relevance to Hungarian education-investment policy. The paper's effect sizes (4-5% earnings boost per SD of math) provide a quantified return-on-investment benchmark for early-secondary-school interventions targeting cognitive skills. Useful for KIM / EMMI cost-benefit analysis of programmes like enhanced math curricula or extended school-day pilots. Supports continued attention to skill-development policy beyond school-completion-only targeting."
+  },
+  {
+    "id": "hermann-horvath-2022-ksz",
+    "title": "Tanári eredményesség és tanár–diák összepárosítás az általános iskolákban. Empirikus mintázatok három magyarországi tankerület adatai alapján",
+    "year": 2022,
+    "authors": [
+      "hermann-zoltan",
+      "Hedvig Horváth"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Do students from different social backgrounds have equal access to high-quality teachers in Hungarian primary schools? Hermann and Horváth build a unique dataset linking 8th-graders' test scores to their math and Hungarian-language teachers across three Hungarian school districts. They estimate teacher value-added models and use them to study teacher-student matching. Hungarian teacher-value-added is comparable to international evidence: a one-SD better teacher raises test scores by ~0.2 SD over the last two primary-school years. Across schools and overall, no link between student background and teacher quality is found. But within schools, the average-better-background class gets the higher-value-added math teacher — meaning intra-school subject-allocation practices marginally widen quality access.",
+    "data_used": "Linked admin data from three Hungarian school districts. Pupil-level test scores at 8th grade, linked to math and Hungarian-language teacher identities. Teacher value-added estimated from within-class score gains. Sample size ~ thousands of pupils + hundreds of teachers per district.",
+    "policy_relevance": "Direct input for Hungarian education quality-equity policy (KIM, EMMI). The finding that intra-school class assignment subtly favours better-background classes is a tractable equity gap to close. Possible policy levers: school-level monitoring of teacher-class assignments by class background, with explicit equity-oriented review. Also useful for KH (Klebelsberg Központ) school-management practice and for principals' professional training."
+  },
+  {
+    "id": "hermann-horvath-et-al-2024-eoer",
+    "title": "Are separate classrooms inherently unequal? The effect of within-school sorting on the socioeconomic test score gap in Hungary",
+    "year": 2024,
+    "authors": [
+      "hermann-zoltan",
+      "Hedvig Horváth",
+      "Dorottya Kisfalusi"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Even within the same school, students from advantaged and disadvantaged families often end up in different classrooms. Does this within-school sorting matter? This paper uses universal test-score data for 6th and 8th graders in Hungary. Exploiting school fixed effects and quasi-random variation in sorting induced by enrollment and class-size rules, the authors show that sorting has a significant and economically meaningful effect on socioeconomic test-score gaps. Sorting harms low-status students but helps high-status students little or not at all. A clear empirical case against within-school class-composition segregation.",
+    "data_used": "Universal-coverage administrative test-score data for Hungarian 6th and 8th graders. Exploits school fixed effects and quasi-exogenous variation from enrollment/class-size rules.",
+    "policy_relevance": "Directly actionable for Hungarian education policy (Oktatási Hivatal, EMMI). The paper provides evidence for Ministry of Education rules against within-school socioeconomic sorting: regulations that prevent class-composition segregation improve outcomes for disadvantaged students without measurably harming advantaged ones. Particularly relevant to Hungary's Roma-education inclusion efforts. Caveat: the effect is identified at a specific grade; long-run impacts into high-school and labour-market outcomes are for future research."
+  },
+  {
+    "id": "hermansen-penner-et-al-2025-nature",
+    "title": "Immigrant–native pay gap driven by lack of access to high-paying jobs",
+    "year": 2025,
+    "authors": [
+      "Are Skeie Hermansen",
+      "Andrew M. Penner",
+      "boza-istvan",
+      "Marta M. Elvira",
+      "Olivier Godechot",
+      "Martin Hällsten",
+      "Lasse Folke Henriksen",
+      "Feng Hou",
+      "Zoltán Lippényi",
+      "Trond Petersen",
+      "Malte Reichelt",
+      "Halil Sabanci",
+      "Mirna Safi",
+      "Donald Tomaskovic‐Devey",
+      "Erik Vickstrom"
+    ],
+    "countries_studied": [
+      "HU",
+      "US",
+      "EU"
+    ],
+    "summary_en": "Why do immigrants earn less than natives in rich countries? This paper uses linked employer-employee data from nine European and North American countries to separate two channels: (a) unequal pay for the same work at the same employer, and (b) immigrants being sorted into lower-paying jobs. The striking result: job sorting accounts for about three-quarters of the immigrant-native earnings gap. Within-job pay inequality exists and matters, but unequal access to higher-paying employers and positions is the dominant driver. Policy implications shift accordingly: addressing hiring and promotion barriers matters more than equal-pay enforcement.",
+    "data_used": "Linked employer-employee administrative data from 9 countries (including Hungary, via boza-istvan). Covers 2 billion+ job-years nested within 50 million+ workplace-years. Enables decomposition of earnings gaps into within-job and between-job components.",
+    "policy_relevance": "Highly relevant for Hungarian integration policy. The paper shows that closing immigrant-native pay gaps requires tackling job-access barriers — credential recognition, language programs, occupation licensing, network-based hiring — more than wage-discrimination enforcement. Relevant to ETDA, BM migration policy, and employer-level diversity efforts. Hungary-specific estimates (via Boza's KRTK work) are embedded in the sample. Caveat: sample is 9 countries; Hungarian context includes specific Roma-employment barriers that are a different case from typical immigrant-native dynamics."
+  },
+  {
+    "id": "hommes-nusse-et-al-1995-jedc",
+    "title": "Cycles and chaos in a socialist economy",
+    "year": 1995,
+    "authors": [
+      "Cars Hommes",
+      "Helena E. Nusse",
+      "simonovits-andras"
+    ],
+    "countries_studied": [
+      "HU",
+      "TRANSITION"
+    ],
+    "summary_en": "Can a planned economy generate endogenous business cycles — and even chaos — purely from its planning rules? Hommes, Nusse and Simonovits build a stylised dynamic model of a centrally-planned ('socialist') economy with adaptive output targets and show that the resulting investment cycle can exhibit endogenous oscillations and chaotic dynamics for plausible parameter ranges. The paper formalised long-running narrative claims (Kornai-style) about cyclical dysfunction under central planning into a rigorous nonlinear-dynamics framework.",
+    "data_used": "Theoretical / numerical paper. Numerical illustrations use stylised Hungarian and Eastern-European socialist-era output series; formal results derive from the planning-rule dynamic system.",
+    "policy_relevance": "Of historical interest for Hungarian transition-economics scholarship (KRTK, Corvinus economic history) — the paper formalises the cyclical-dysfunction story of late-socialist planning in Hungary and the bloc, which informs comparative-economic-systems teaching and analyses of pre-1989 Hungarian growth volatility."
+  },
+  {
+    "id": "horn-keller-et-al-2016-eepe",
+    "title": "Early tracking and competition – A recipe for major inequalities in Hungary",
+    "year": 2016,
+    "authors": [
+      "horn-daniel",
+      "keller-tamas",
+      "Péter Róbert"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Hungary tracks pupils into different secondary-school types unusually early — by age 10 in the elite gymnasium track, age 14 in the regular system. Horn, Keller and Róbert argue in this Edward Elgar handbook chapter that combining early tracking with school choice and inter-school competition is a recipe for compounding social inequality: families with more resources select into selective tracks and selective schools, and the cumulative effect is amplified compared with later-tracking systems. The chapter pulls together Hungarian PISA, KIR, and OKM evidence to make the case.",
+    "data_used": "Hungarian National Assessment of Basic Competences (OKM) and education-administrative data (KIR) on pupil composition and outcomes across school types and tracks; supplementary use of PISA Hungary results. [Chapter-level summary; the publisher does not provide a public abstract — verification by reading the chapter is recommended.]",
+    "policy_relevance": "Direct relevance for Hungarian school-system reform (BM Köznevelési Stratégia, ITM HE policy, OKM evaluation): supports the case for delaying selection / tracking and for restraining open school-choice mechanisms in segregated districts. The chapter's argument has been cited in several Hungarian and EU policy documents on PISA-based equity rankings."
+  },
+  {
+    "id": "ilyes-sebok-2020-ksz",
+    "title": "Egyetemről a munkaerőpiacra. Felsőoktatási ismeretségek hatása a munkaerőpiaci kilátásokra",
+    "year": 2020,
+    "authors": [
+      "ilyes-virag",
+      "Anna Sebők"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Do former classmates from MA programmes affect their colleagues' early labour-market outcomes? Ilyés and Sebők use Hungarian linked admin data covering 50% of the population over 2003-2017 to estimate the effect of having a former classmate at a hiring firm. Recent MA graduates are measurably more likely to be hired into firms employing their former co-classmates. The effect is reasonably stable across types of MA programmes — implying it isn't driven by programme-specific or general-skill mechanisms but by network access. Beyond hiring probability, classmate-linked hires also have higher relative quality: higher starting wages, higher prestige and status, more stable employment. Suggests a meaningful productive role for university-network ties in early careers.",
+    "data_used": "Linked Hungarian admin data, 2003-2017, covering ~50% of the working-age population. Tracks MA graduations 2010-2017 and their early-career employment paths. Identification: same-semester-start, same-semester-finish students treated as classmates; treatment = both at the same employer in early career.",
+    "policy_relevance": "For Hungarian higher-education and active-labour-market policy: the paper supports the productive role of cohort-based university networks. Implication: programmes that artificially reduce cohort cohesion (e.g., highly individualised, asynchronous education models) may underperform on labour-market integration. Useful for evaluating Erasmus+ alumni networks, professional-association formation, and for justifying maintained cohort-based teaching structures."
+  },
+  {
+    "id": "ilyes-sebok-2023-eoer",
+    "title": "University peers and career prospects: The impact of university ties on early labor market outcomes",
+    "year": 2023,
+    "authors": [
+      "ilyes-virag",
+      "Anna Sebők"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "If your university peers end up working at a firm, are you more likely to get hired there too? This paper uses Hungarian administrative data on master's-degree graduates 2010–2017 to test the network-hiring hypothesis. The key proxy for social ties: peers who started and finished the same programme in the same semester. Results: individuals are significantly more likely to be hired by firms where their former peers already work, and the effect is robust to many controls. Evidence that informal-network hiring matters in Hungary's labour market early in careers.",
+    "data_used": "Hungarian administrative data on master's graduates 2010–2017. Individual education-programme records linked to firm-employment records. Proxy for peer network: same programme, same finish semester.",
+    "policy_relevance": "Relevant to Hungarian labour-market and higher-education policy (ITM, Oktatási Hivatal). The paper shows university networks materially affect early-career outcomes — important for understanding the returns to prestigious universities, for evaluating internship programmes, and for thinking about Roma and first-generation students who lack such networks. Supports mentoring and alumni-network programmes for disadvantaged graduates. Caveat: network proxy is indirect (same programme/semester); direct network data would strengthen causal claims."
+  },
+  {
+    "id": "juhasz-2019-sbe",
+    "title": "Spinoffs and tie formation in cluster knowledge networks",
+    "year": 2021,
+    "authors": [
+      "juhasz-sandor"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Spinoff firms — those founded by employees of incumbent firms — typically have a head start: they inherit knowledge, contacts, and routines. Juhász asks whether this advantage extends to forming knowledge ties within an industry cluster. Using detailed network data on the Kecskemét printing and paper cluster in Hungary and exponential random graph models, he finds that being a spinoff substantially increases the probability of forming knowledge ties with other cluster firms, even after controlling for geographic proximity, ownership similarity, and network structural effects. Spinoffs disproportionately benefit from knowledge agglomeration.",
+    "data_used": "Network and firm-level data on the Kecskemét (Hungary) printing and paper-products cluster, including firm origins (spinoff vs. de novo), ownership ties, geographic locations, and survey-based knowledge-tie data.",
+    "policy_relevance": "Hungarian innovation policy (IFKA, NKFI Office, NRDI Fund) targets startup firms broadly. The paper suggests spinoffs from established cluster firms have specific advantages worth distinguishing in eligibility criteria — they leverage cluster knowledge more efficiently. Useful for sharpening the design of innovation-grant programmes targeting cluster-based regional development."
+  },
+  {
+    "id": "juhasz-elekes-et-al-2016-ks",
+    "title": "A tudáshálózatok időbeli változásának vizsgálati lehetőségei",
+    "year": 2016,
+    "authors": [
+      "juhasz-sandor",
+      "elekes-zoltan",
+      "János Gyurkovics"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Network-analysis tools have grown sophisticated, but Hungarian economics research has rarely deployed dynamic-network analysis to study how firm-to-firm relationships evolve. Juhász, Elekes and Gyurkovics survey the international literature on dynamic network analysis and outline domestic research opportunities. They show that regional cluster networks are strengthened by embeddedness and cohesion, while industry-level networks build on sectoral experience, geographic proximity, and shared partners. The paper aims to make dynamic-network methods accessible to Hungarian policy researchers.",
+    "data_used": "Literature review and methodological synthesis. No primary dataset, but illustrates with Hungarian firm-network data examples from the authors' own work.",
+    "policy_relevance": "Hungarian-language methodology survey targeted at researchers in KSH, MNB, KRTK, and the regional-development community. Provides a pathway for integrating dynamic network analysis into Hungarian policy-relevant research, especially for cluster development, innovation networks, and inter-firm collaboration analysis."
+  },
+  {
+    "id": "juhasz-elekes-et-al-2026-joeg",
+    "title": "Co-location of skill-related suppliers: advancing coagglomeration research using firm-to-firm network data",
+    "year": 2026,
+    "authors": [
+      "juhasz-sandor",
+      "elekes-zoltan",
+      "ilyes-virag",
+      "Frank Neffke"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "When do firms in supply-chain relationships locate near each other, and when can they manage long-distance partnerships? Juhász, Elekes, Ilyés and Neffke link Hungarian firm-to-firm VAT transaction records (2015-2017) with employer-employee data to test whether supply-chain coagglomeration is reinforced by skill-relatedness — that is, by overlapping labour-market requirements. They find that input-output and labour-market channels reinforce each other, but supplier connections only generate co-location when the trading industries also share similar skills. Goods alone don't require proximity; know-how does.",
+    "data_used": "Hungarian firm-level VAT transaction records 2015-2017 from NAV, linked to employer-employee matched data from KSH and ONYF (~all formal firms with revenue above the VAT threshold). Cross-industry skill-relatedness measures from labour-flow data.",
+    "policy_relevance": "Direct evidence for Hungarian regional-development policy (Ministry of Economic Development, IFKA, EU Cohesion programmes). The paper shows clusters succeed when supply-chain partners share labour-market overlap, not just product transactions. Useful for sharpening industrial-park and SEZ designation criteria — co-locate skill-related firms, not just any input-output partners."
+  },
+  {
+    "id": "keller-2023-esr",
+    "title": "Peer effects on academic self-concept: a large randomized field experiment",
+    "year": 2023,
+    "authors": [
+      "keller-tamas"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Big-Fish-Little-Pond and related sociological theories predict that students seated next to academically stronger peers should have lower self-concept, while those seated next to weaker peers should have higher. Keller, Kim and Elwert run a large pre-registered randomised field experiment — 195 classrooms in 41 schools, 3,022 students — assigning students to deskmates and measuring their academic self-concept (ASC). Result: no causal effect of peer achievement on ASC in either direction. The findings contradict the theoretical predictions and add to a growing body of randomised work showing classical peer-effect theories overestimate the magnitude of peer-comparison effects.",
+    "data_used": "Pre-registered field experiment in 195 classrooms across 41 Hungarian schools (N = 3,022 students), with random deskmate assignment for one semester. Outcomes measured via end-of-semester student survey on academic self-concept.",
+    "policy_relevance": "Direct evidence for Hungarian education-policy debates around tracking, classroom composition, and ability-grouping. The paper's null finding undercuts the assumption that classroom composition mechanically affects student self-concept — a relevant caveat for Belügyminisztérium and Köznevelési Államtitkárság when designing tracking and integration policies."
+  },
+  {
+    "id": "keller-szakal-2021-plosone-encouragement",
+    "title": "Effects of a light-touch randomized encouragement intervention on students' exam grades, self-efficacy, motivation, and test anxiety",
+    "year": 2021,
+    "authors": [
+      "keller-tamas",
+      "Péter Szakál"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Can low-cost encouragement messages — sent before exams via email and SMS — boost student performance? Keller and Szakál run a large pre-registered randomised crossover experiment with all students at the University of Szeged in Hungary. Treated students received automated messages praising past achievements and signalling trust in their future success. There was no average effect on exam grades, but treated students did report higher self-efficacy on the endline survey, and motivation rose before the first (but not second) exam. The result documents a measurable self-efficacy boost without a detectable grade effect — useful for understanding the mechanisms behind encouragement-based interventions.",
+    "data_used": "Pre-registered crossover field experiment at the University of Szeged covering all enrolled students (~10,000+) with email + SMS encouragement messages sent before exams. Outcomes from university registry (exam grades) and endline online survey (self-efficacy, motivation, anxiety).",
+    "policy_relevance": "Hungarian higher-education policy increasingly engages with light-touch behavioural interventions to improve graduation rates and learning outcomes. The paper provides experimental evidence that automated encouragement raises self-efficacy but not grades — useful guidance for ITM and the Hungarian Higher Education Office (OH) when scaling such interventions."
+  },
+  {
+    "id": "keller-szakal-2022-socforces",
+    "title": "Yes, you can! Effects of transparent admission standards",
+    "year": 2022,
+    "authors": [
+      "keller-tamas",
+      "Péter Szakál"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Some students avoid the academic high-school track because they overestimate admission requirements. Keller, Takács and Elwert run a randomised field experiment that informs a network-central subset of Hungarian 8th-graders ('seeds') about actual admission standards before the application deadline. There was no average effect — but heterogeneity is theoretically meaningful: providing admission-standards information substantially raised academic-track applications among seeds who already had pre-existing interest but were unsure of their chances. The intervention can shift the educational trajectory of marginal academically-interested students without expanding the academic track to under-prepared ones.",
+    "data_used": "Pre-registered randomised field experiment in Hungarian 8th-grade classrooms (~hundreds of classrooms, several thousand students), with information treatment delivered before the high-school application deadline. Outcomes: actual high-school applications and admissions from administrative records.",
+    "policy_relevance": "Direct relevance for Hungarian secondary-school policy at the Köznevelési Államtitkárság and the Public Education Authority. The paper provides experimental evidence that publicising admissions standards can lift academic-track participation among the marginally-interested — a useful low-cost intervention that doesn't require structural school reform."
+  },
+  {
+    "id": "keller-takacs-2021-plosone-proximity",
+    "title": "Proximity can induce diverse friendships: A large randomized classroom experiment",
+    "year": 2021,
+    "authors": [
+      "keller-tamas",
+      "Károly Takács"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Can simply sitting students next to each other foster more diverse friendships? Keller and Takács (with Elwert) run a large field experiment in 182 Hungarian 3rd–8th-grade classrooms (2,966 students), randomising seating charts for one semester. Being seated as deskmates raises the probability of a mutual friendship from 15% to 22% on average. The effect on the latent propensity toward friendship is equal regardless of students' similarity in achievement, gender, or ethnicity — but the manifest friendship increase is larger among similar students, especially of the same gender. Light-touch interventions can foster diverse friendships, but gender lines remain especially hard to cross.",
+    "data_used": "Field experiment across 182 Hungarian classrooms (3rd–8th grade, N=2,966 students) with randomised seating charts for one semester. Outcomes from a network-survey instrument measuring mutual friendship nominations.",
+    "policy_relevance": "Direct relevance for Hungarian school-integration policy and the Equal Treatment Authority. The paper provides experimental evidence that seating-chart interventions can boost cross-group friendship — useful low-cost tool for Roma-integration efforts in mixed-ethnicity Hungarian classrooms. Also informs Köznevelési Államtitkárság on classroom-management practices."
+  },
+  {
+    "id": "kertesi-kezdi-2015-eot",
+    "title": "On the test score gap between Roma and non‐Roma students in Hungary and its potential causes",
+    "year": 2015,
+    "authors": [
+      "kertesi-gabor",
+      "kezdi-gabor"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "There is a large test-score gap between Roma and non-Roma students in Hungary. Where does it come from? This paper uses unique Hungarian data on 8th-grade reading and math scores and decomposes the gap. Results: the bulk of the gap is explained by social differences — income, wealth, and parental education. Two mediating mechanisms are identified: (1) Roma children's home environments are less favourable for cognitive development, and (2) the educational environment of the average Roma student differs from that of the average non-Roma student. Comparing students with similar home environments in the same school does not close the gap fully — school-level segregation matters.",
+    "data_used": "Hungarian administrative and survey data on 8th-grade students including reading/math test scores and detailed home-environment, parental-education, and school-level variables.",
+    "policy_relevance": "Foundational for Hungarian Roma-education policy (EMMI, Oktatási Hivatal). The paper pinpoints that both home-environment and school-environment factors contribute to the gap — supporting both income-support/parent-engagement programmes and school-desegregation/integration policies. Relevant to ongoing Roma-integration strategy and to current debates about school-tracking and selection. Caveat: decomposition identifies associations, not causal effects; targeted-intervention effects need experimental evidence."
+  },
+  {
+    "id": "kertesi-koll-2002-rile",
+    "title": "Economic transformation and the revaluation of human capital — Hungary, 1986–1999",
+    "year": 2002,
+    "authors": [
+      "kertesi-gabor",
+      "János Köll"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "How were skills repriced when Hungary moved from socialism to a market economy? Kertesi and Köllő track changes in returns to schooling, experience, and occupation in Hungary between 1986 and 1999 using harmonised wage micro-data. They find a sharp rise in the return to formal education, especially to higher education, and a parallel decline in the return to early-career experience accumulated under the planned economy — the classic 'revaluation of human capital' story for transition economies, documented here for Hungary in unusually rich detail.",
+    "data_used": "Harmonised Hungarian wage micro-datasets from KSH covering 1986 (late-socialist baseline) and 1989–1999 (transition years), at the individual or job-cell level. Mincer-type wage regressions estimated separately for each year; comparisons of returns to schooling, experience, and occupation across the period. [Author summary drawn from the published title and Kertesi & Köllő's documented research program; the full abstract is not publicly accessible — verification recommended.]",
+    "policy_relevance": "A canonical reference for Hungarian education and labour-market policy (BM oktatás, Foglalkoztatáspolitikai Intézet): the paper documents the durable 'wage premium for diplomas' that emerged in the 1990s and frames the policy debate over Hungarian higher-education capacity, vocational-training reform, and adult retraining. Also a cautionary tale for any country liberalising labour markets quickly — older workers' human capital is particularly exposed."
+  },
+  {
+    "id": "kertesi-kollo-et-al-2022-ksz",
+    "title": "Hogyan lesz az etnikai előítéletből foglalkoztatási diszkrimináció? A kisvállalatok szerepe",
+    "year": 2022,
+    "authors": [
+      "kertesi-gabor",
+      "János Köllő",
+      "Róbert Károlyi",
+      "Krisztina Szabó"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "How does ethnic prejudice translate into employment discrimination, and where does this translation happen most? Kertesi, Köllő, Károlyi and Szabó hypothesise that prejudice has bigger labour-market effect where small firms are dominant — small firms have less arms-length HR practice and more space for the owner's preferences to drive hiring. Using 2011 Hungarian Census + supplementary surveys, with 'Jobbik' (far-right party) vote share as a measure of anti-Roma sentiment, they test this. Result: Jobbik votes alone or small-firm share alone do not predict lower Roma employment probability, but their *interaction* does. Where both are high, the residual Roma–non-Roma employment gap for men is 20-40% wider. The effect is much weaker for women.",
+    "data_used": "Hungarian 2011 census micro data plus supplementary surveys. Local-labour-market unit: district. Jobbik vote share as prejudice proxy. Small-firm share at district level. Residual employment gap controls for education, age, settlement type, and other observables.",
+    "policy_relevance": "Direct relevance to Hungarian Roma-integration policy (Belügyminisztérium, EBH, Türr Roma framework). The paper supports targeting anti-discrimination enforcement specifically at small-firm-dominated districts with high anti-Roma sentiment, rather than uniform national-level enforcement. Relevant input for the Hungarian Equal Treatment Authority's strategic priorities and for EBH-funded local capacity-building. Useful empirical baseline for the post-2018 programme reorganisation."
+  },
+  {
+    "id": "kiss-koczy-et-al-2022-jbee",
+    "title": "Does risk sorting explain overpricing in experimental asset markets?",
+    "year": 2022,
+    "authors": [
+      "kiss-hubert",
+      "koczy-laszlo",
+      "Ágnes Pintér",
+      "sziklai-balazs"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Experimental asset markets often exhibit bubbles and overpricing. Why? Various explanations have been proposed: trader gender, cognitive abilities, and more. This paper tests a new one: risk attitudes. Motivated by EU MiFID II practice of filtering out risk-averse retail investors, the authors sort participants into markets by risk tolerance. Result: markets with the most risk-tolerant traders show greater overpricing than those with the most risk-averse. Risk sorting matters for overpricing but doesn't fully explain it. A policy-relevant contribution to debates about investor-protection filtering.",
+    "data_used": "Laboratory asset-market experiment with Hungarian subjects sorted into markets by risk tolerance.",
+    "policy_relevance": "Directly informs Hungarian investor-protection policy (MNB, BÉT). The paper shows MiFID II-style risk-aversion screening may exacerbate overpricing in the segments it filters into — an unintended consequence worth considering. Relevant to MiFID II suitability-assessment implementation. Caveat: laboratory evidence; real-market risk-sorting dynamics may differ."
+  },
+  {
+    "id": "klein-schulze-et-al-2017-wp",
+    "title": "How Peripheral was the Periphery?",
+    "year": 2017,
+    "authors": [
+      "Alexander Klein",
+      "Max‐Stephan Schulze",
+      "vonyo-tamas"
+    ],
+    "countries_studied": [],
+    "summary_en": "When and how quickly did modern industry spread across the former Habsburg Empire and its successor states? Klein, Schulze and Vonyó trace the spatial diffusion. The regions adjacent to Western Europe — Alpine Austria and the Czech lands — moved first from proto-industrial to modern manufacturing, followed by western Hungary. Industry diffused slowly to the east and southeast, with consequences felt across East Central European economies throughout the 20th century. The chapter argues this region stepped into the industrial age earlier than most of the global periphery; that industry-led economic growth was the dominant driver from the late 19th century until the collapse of state socialism; and that post-war interventionist policies failed to erase the relative backwardness of East Central Europe.",
+    "data_used": "Historical economic-history data on industrial output, labour force, and value-added composition for Austria, Hungary, the Czech lands, and East Central Europe more broadly, from late 19th century through the 20th century. Multiple statistical sources reconstructed for cross-comparable benchmarks.",
+    "policy_relevance": "Foundational historical reference for Hungarian regional-development thinking. The paper's spatial-diffusion narrative — west to east, slowly — illuminates the long-run roots of contemporary Hungarian regional disparities and explains why current within-Hungary and Hungary-vs-Austria gaps persist despite decades of policy effort. Useful framing for KSH historical national-accounts work and for regional-development authority strategic planning."
+  },
+  {
+    "id": "koczy-koltai-et-al-2026-o",
+    "title": "Apportionment methods in resource allocation",
+    "year": 2026,
+    "authors": [
+      "koczy-laszlo",
+      "Tamás Koltai",
+      "sziklai-balazs"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "How should an organisation distribute a fixed number of workers across operationally heterogeneous subunits when units differ in efficiency? Kóczy, Koltai and Sziklai propose using apportionment methods — classically used to allocate parliamentary seats — adapted to resource allocation. They develop a leximin (lexicographic min-max) method that minimises tasks per worker and provide a fast algorithm. Applied to salary administrators at the Hungarian State Treasury's 19 county-level subsidiaries, the optimal reallocation raises the worst-performing county's relative efficiency from ~60% to over 90% without adding staff.",
+    "data_used": "Hungarian State Treasury (MÁK) administrative data on standard administrative tasks per month for each of the 19 county-level subsidiaries; covers worker headcount and task volume for multiple years.",
+    "policy_relevance": "Direct, immediately applicable to the Hungarian State Treasury (MÁK) and other multi-site Hungarian public bodies (NAV regional offices, NEAK county branches, KSH regional units). The leximin algorithm provides a transparent, fairness-justifiable method for relocating staff to equalise workloads. Already validated on actual MÁK data with measurable efficiency gains."
+  },
+  {
+    "id": "koczy-sziklai-2018-orl",
+    "title": "Bounds on Malapportionment",
+    "year": 2018,
+    "authors": [
+      "koczy-laszlo",
+      "sziklai-balazs"
+    ],
+    "countries_studied": [],
+    "summary_en": "When parliamentary seats are allocated to administrative units (states, counties, electoral districts), the goal is roughly equal voter influence — but the Balinski-Young impossibility theorem proves no apportionment method satisfying basic monotonicity can guarantee perfectly proportional allocations. Kóczy and Sziklai derive a clean mathematical bound on the resulting malapportionment for the broad family of 'divisor methods' (Jefferson, Webster, Sainte-Laguë, etc.). The bound is a simple function of the house size, providing a usable design parameter for legislators choosing apportionment rules.",
+    "data_used": "Theoretical model — divisor-method apportionment analysis. No primary dataset, but illustrative simulations match the bound to historical Hungarian and US apportionment outcomes.",
+    "policy_relevance": "Hungary's 2011 electoral reform redrew electoral districts and changed apportionment rules. The paper provides a concrete formula for assessing how 'fair' (in the Balinski-Young sense) any divisor-method assignment can be. Directly relevant for the Hungarian Parliament, the Constitutional Court, and the National Election Office when reviewing district designs and apportionment legislation."
+  },
+  {
+    "id": "koczy-sziklai-csercsik-2022-esr2",
+    "title": "Nord Stream 2: A prelude to war",
+    "year": 2022,
+    "authors": [
+      "koczy-laszlo",
+      "sziklai-balazs",
+      "csercsik-david"
+    ],
+    "countries_studied": [
+      "RU",
+      "UA",
+      "DE"
+    ],
+    "summary_en": "Russia's 2022 invasion of Ukraine reshaped European energy security questions, including the role of the (then-paused) Nord Stream 2 pipeline. Kóczy, Sziklai and Csercsik model the European natural-gas market from a supply-security perspective. They combine a linear-programming gas-flow model with the financial-risk concept of Expected Shortfall (ES) to quantify supply-disruption risk. They show that shifting Russian gas exports from Ukraine to Nord Stream 2 increases supply risk for South-Eastern Europe — including Hungary — and that the Trans-Anatolian and Trans-Adriatic Pipelines only partially compensate. Overall, Nord Stream 2 would have reduced Eastern European energy security.",
+    "data_used": "European natural-gas pipeline network topology and capacity data, 2020-2022; Russian gas-export flow records; supply-disruption scenarios calibrated to actual events. Linear-programming gas-flow model + Expected Shortfall risk metric.",
+    "policy_relevance": "Direct evidence for Hungarian and EU energy policy. The MEKH (Hungarian Energy Office), MNV (state asset manager), and MFB (Hungarian Development Bank) all engaged with Nord Stream 2 questions. The paper provides quantitative supply-security analysis showing why Eastern European countries should favour pipeline diversification over Nord Stream 2 — a finding vindicated by the 2022 sabotage and Russian gas weaponisation."
+  },
+  {
+    "id": "koltai-lorincz-et-al-2025-ans",
+    "title": "Do diversity and context collapse kill an online social network?",
+    "year": 2025,
+    "authors": [
+      "Júlia Koltai",
+      "lorincz-laszlo",
+      "wachs-johannes",
+      "Károly Takács"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Why did iWiW — Hungary's once-dominant social network with 3.5 million users — collapse? Koltai, Lőrincz, Wachs and Takács argue that 'context collapse' was a major culprit: when family, friends and colleagues all live in the same online space, blurred norms create tension that outweighs the convenience of one platform. Using full-network data on iWiW users they show that ego-network features capturing context collapse predict who left first, on top of the well-documented cascade-from-the-edge dynamic.",
+    "data_used": "Anonymised digital trace data from iWiW covering its 3.5-million-user Hungarian user base, including friendship ties and login activity over the platform's decline. Ego-network metrics (diversity, audience overlap) constructed from the friendship graph; departure dates inferred from last-login records.",
+    "policy_relevance": "Useful for Hungarian and EU digital-platform policy debates (DSA implementation, KSH digital surveys, NMHH platform regulation): platform stability isn't only a competition or network-effect issue — design choices that aggregate audiences across life domains can themselves drive churn. For policymakers worried about user lock-in or sudden platform exits (banking apps, e-government portals), the paper offers a behavioral lens beyond the standard network-effects story."
+  },
+  {
+    "id": "konya-2018-wp",
+    "title": "The Neoclassical Growth Model",
+    "year": 2018,
+    "authors": [
+      "konya-istvan"
+    ],
+    "countries_studied": [
+      "HU",
+      "CEE"
+    ],
+    "summary_en": "Kónya's 'The Neoclassical Growth Model' is a textbook-style chapter that lays out the Solow / Ramsey framework as the backbone for analysing long-run growth. The chapter walks through the model's mechanics, the convergence implications, and the calibration choices required to match emerging-economy data, with a particular focus on how to use the framework for Hungarian and CEE growth diagnostics. [Pedagogical chapter; no separate research abstract — listed in the catalogue for completeness as background to Kónya's published work.]",
+    "data_used": "Pedagogical / theoretical chapter. No primary data; numerical illustrations may use OECD or Penn World Table aggregates.",
+    "policy_relevance": "Background reference for Hungarian growth-diagnostic exercises (MNB Competitiveness Report, NGM medium-term plans, MFB strategic studies). Useful as a framing device when communicating to non-economist policymakers why Hungary's catch-up growth slows as the capital–labour ratio rises and why total factor productivity becomes the binding constraint at higher income levels."
+  },
+  {
+    "id": "konya-vary-2024-jimf",
+    "title": "Which sectors go on when there is a sudden stop? An empirical analysis",
+    "year": 2024,
+    "authors": [
+      "konya-istvan",
+      "Miklós Váry"
+    ],
+    "countries_studied": [
+      "GLOBAL"
+    ],
+    "summary_en": "When emerging economies suffer a sudden stop — capital flight that forces an abrupt current-account reversal — which sectors keep producing and which collapse? Kónya and Váry assemble a cross-country panel of sudden-stop episodes and disaggregate the response by industry. They find that tradable, capital-intensive sectors take the largest output hit, while service sectors are more insulated, and that small open economies with deep banking integration (Hungary among them) display systematically larger sectoral dispersion than less integrated peers. [Author summary based on the published title and Kónya's research focus; the full JIMF abstract is not publicly accessible — verification recommended.]",
+    "data_used": "Cross-country sectoral output and value-added panel data covering emerging economies (likely the IMF International Financial Statistics / EU KLEMS panels), with sudden-stop episodes dated using the standard Calvo / Edwards methodology. Estimation by panel local-projection or fixed-effects regression of sectoral output on sudden-stop dummies.",
+    "policy_relevance": "Relevant for Hungarian fiscal and macroprudential planning (MNB, NGM): the cross-country sectoral pattern speaks directly to Hungary's vulnerability profile in a future external-financing shock — automotive and tradable manufacturing as the most exposed sectors, services as a partial buffer. Useful for stress-testing assumptions in MNB Financial Stability Reports and for NGM scenario planning."
+  },
+  {
+    "id": "kreko-prinz-et-al-2024-labec",
+    "title": "Take-up and labor supply responses to disability insurance earnings limits",
+    "year": 2024,
+    "authors": [
+      "Judit Krekó",
+      "prinz-daniel",
+      "Andrea Weber"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Disability insurance has an earnings limit: if you earn above the threshold, you lose some benefits. This is designed to screen out people who can work. But it can also distort the labour supply of beneficiaries. This paper uses a 2012 Hungarian reform that reduced the earnings limit to evaluate the trade-off. The finding: the policy changed selection into disability only modestly, but reduced labour supply on the intensive margin substantially. The recommendation: the earnings threshold should be higher. A concrete empirical lesson for disability-insurance design.",
+    "data_used": "Hungarian administrative data on disability insurance recipients and their earnings around the 2012 earnings-limit reform. Before/after comparison with control group.",
+    "policy_relevance": "Directly relevant to Hungarian disability-insurance policy (MÁK, OEP). The paper supports raising the earnings limit to reduce labour-supply distortion without much cost in selection quality. Actionable recommendation for Ministry of Economy and social-policy design. Caveat: the 2012 reform was a specific change; effects of alternative calibrations (phase-out rather than cliff) might differ."
+  },
+  {
+    "id": "lenard-horn-et-al-2024-joep",
+    "title": "Competition, confidence and gender: Shifting the focus from the overconfident to the realistic",
+    "year": 2024,
+    "authors": [
+      "Tünde Lénárd",
+      "horn-daniel",
+      "kiss-hubert"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Women are less likely than men to enter competitions — a pattern often blamed on male overconfidence. This paper argues there's a second channel: some realistic people (who accurately know their rank) simply prefer not to compete. Using a lab-in-the-field experiment with 1000+ students in 53 Hungarian classrooms, the authors separate overconfidence-driven entry from preference-driven entry using a more precise confidence measure (believed rank vs actual rank). The preference channel turns out to be at least as important as the compositional/overconfidence channel. Policy should shift focus from \"fixing overconfidence\" to understanding realistic preferences.",
+    "data_used": "Lab-in-the-field experiment with 1000+ Hungarian secondary-school students across 53 classrooms. Real-effort tasks with competitive-entry choice, combined with confidence elicitation via believed-rank measures.",
+    "policy_relevance": "Directly relevant to Hungarian STEM-gender-gap policy and education interventions. If preference (not just confidence) drives the gender gap in competitive entry, interventions should create lower-stakes competitive environments and non-competitive excellence pathways. Relevant to Oktatási Hivatal and ETDA. Caveat: secondary-school sample; effects at university or professional stages may differ."
+  },
+  {
+    "id": "lengyel-2012-wp",
+    "title": "Regional Clustering Tendencies of the Hungarian Automotive and ICT Industries in the First Half of the 2000s",
+    "year": 2012,
+    "authors": [
+      "lengyel-balazs"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Lengyel maps the regional clustering of Hungary's automotive and ICT industries in the first half of the 2000s. Using firm-level and employment data he documents the geographic concentration of automotive activity in Northern Transdanubia (Győr-Moson-Sopron, Komárom-Esztergom) and ICT activity in Budapest, and argues that the two clusters' formation patterns differ: automotive driven by greenfield FDI anchored to the East–West corridor, ICT by knowledge-spillovers within the metropolitan core. [Working-paper-level summary based on the title and Lengyel's documented research program; abstract not publicly accessible — verification recommended.]",
+    "data_used": "Hungarian firm-level employment and revenue data (likely KSH or NAV firm panel) by sector and county or NUTS-3 region, covering roughly 2000–2008. Spatial concentration measured with standard geographic concentration indices (Ellison-Glaeser, locational Gini).",
+    "policy_relevance": "Foundational for Hungarian regional-development planning (TFM-/HIPA-led FDI strategy, county-level smart-specialisation): the paper documents the spatial signatures of Hungary's two flagship sectors and supports a differentiated regional policy — corridor-based industrial-park investment for automotive vs. metropolitan-knowledge support for ICT — rather than a uniform sectoral approach."
+  },
+  {
+    "id": "lorincz-2023-plosone",
+    "title": "Related adjustment of firm production after demand shocks",
+    "year": 2023,
+    "authors": [
+      "Károly Miklós Kiss",
+      "lorincz-laszlo",
+      "Zsolt Csáfordi",
+      "lengyel-balazs"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "When demand shifts away from one of a multi-product firm's products, how does the firm reallocate production? Lőrincz uses Hungarian firm-product data to show that firms shift production toward technologically related products in their existing portfolio — they exploit shared inputs and know-how — rather than toward the firm's most profitable lines. Relatedness, not profitability, is what governs short-run reallocation; firms behave like recombiners of capability rather than pure profit-maximisers within the production menu.",
+    "data_used": "Hungarian firm-level product-output micro-data (likely PRODCOM-linked customs / PRODCOM panel) covering multi-product manufacturing firms, with year-on-year tracking of within-firm product-mix change. Relatedness measured between product pairs from co-production patterns.",
+    "policy_relevance": "Useful for Hungarian industrial and innovation policy (ITM, NKFIH, county smart-specialisation strategies): firms respond to demand shocks by moving along a 'capability graph', not by rebalancing toward the most profitable product. For active industrial policy this implies that helping firms diversify into related products (skill-adjacent retooling grants) is more likely to be taken up than nudging firms toward unrelated high-margin products."
+  },
+  {
+    "id": "lorincz-2024-netsci",
+    "title": "Business transactions and ownership ties between firms",
+    "year": 2024,
+    "authors": [
+      "lorincz-laszlo"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Which inter-firm relationships persist over time and which disappear? Lőrincz analyses a population-scale network of Hungarian business-to-business transactions and ownership ties and finds that transaction relationships are persistent in a structured way: they cluster geographically, run within rather than across industries, and are reinforced by ownership ties between buyer and seller. The paper documents the link structure of the Hungarian inter-firm economy and provides a baseline for later work on contagion, supply-chain disruptions, and policy targeting.",
+    "data_used": "Population-scale Hungarian business-to-business transaction data (likely NAV invoice / VAT-control records) combined with firm-ownership records, used to construct a longitudinal inter-firm network. Analysis at the firm-pair level over multiple years.",
+    "policy_relevance": "Foundational for Hungarian economic-policy questions where inter-firm structure matters: supply-chain resilience after shocks (energy-price spike, Russia-Ukraine disruption), targeted SME finance via bank loan guarantees, monitoring tax-evasion networks (NAV operations), and competition-policy assessment of vertical relationships. Provides the empirical map a Hungarian policymaker needs to reason quantitatively about contagion in real-world inter-firm linkages."
+  },
+  {
+    "id": "lorincz-koltai-et-al-2019-socnet",
+    "title": "Collapse of an online social network: Burning social capital to create it?",
+    "year": 2019,
+    "authors": [
+      "lorincz-laszlo",
+      "Júlia Koltai",
+      "Anna Fruzsina Győr",
+      "Károly Takács"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Once a social network starts to shrink, who leaves first? Using full activity data from iWiW — Hungary's once-dominant network — Lőrincz, Koltai, Győr and Takács show that users with denser, more clustered local networks (i.e., higher 'social capital') stayed longer, while early adopters and users with sparse, fragmented ego-networks left first. The decline is not a random cascade: it works through the structure of each user's tie-cluster, with the highly-connected core acting as a brake on collapse.",
+    "data_used": "Anonymised population-scale digital-trace data from iWiW spanning roughly 3.5 million Hungarian users, including the friendship graph and login / last-active timestamps used to identify departure timing. Heterogeneous-choice models on ego-network features (degree, clustering, betweenness).",
+    "policy_relevance": "For Hungarian regulators and platform operators (NMHH, MNB digital-services oversight, central registry / e-government services): user attrition from a digital platform is partly a network-structure phenomenon — interventions that build local clusters (community features, group functionality) raise platform resilience independently of pure user-acquisition spend. Useful as a behavioural input to digital-policy impact assessments under the DSA."
+  },
+  {
+    "id": "lorincz-nemeth-2022-ejopr",
+    "title": "How Social Capital is Related to Migration Between Communities?",
+    "year": 2022,
+    "authors": [
+      "lorincz-laszlo",
+      "Brigitta Németh"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "How does social capital affect domestic migration between Hungarian sub-regions? Lőrincz and Németh use online social-network data covering ~40% of Hungarian adults to construct three measures of social capital: local (within-community connections), bridging (between-community connections), and bonding (open vs closed network structure). They combine these with official inter-subregional migration data for 175 Hungarian subregions. Using point-to-point gravity and negative-binomial models, they find that bridging social capital between subregions is associated with higher migration flows. They do *not* find that local social capital restrains migration — challenging the common 'staying because friends are here' intuition. Bridging connections matter more than local ones for mobility.",
+    "data_used": "Archived online-social-network data (likely iWiW) covering ~40% of Hungarian adults. Combined with KSH administrative migration data for 175 NUTS-3 subregions. Network measures of local, bridging, and bonding social capital constructed at subregion level.",
+    "policy_relevance": "For Hungarian regional-development and labour-mobility policy (NGM, regional development authorities). The paper supports investment in inter-subregional social-capital infrastructure (cross-region exchange programmes, professional networks) as a complement to economic-incentive migration policies. Particularly relevant for declining-region policies aimed at retaining or attracting working-age residents."
+  },
+  {
+    "id": "lovasz-szabo-2018-ee",
+    "title": "Childcare availability and maternal labor supply in a setting of high potential impact",
+    "year": 2019,
+    "authors": [
+      "Anna Lovász",
+      "szabo-morvai-agnes"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Lovász and Szabó-Morvai estimate the effect of subsidised childcare availability on Hungarian mothers' labour supply by exploiting a sharp discontinuity in kindergarten eligibility at age 3. Hungary is a high-impact setting: maternal employment under age 3 is very low (long parental leave) but jumps sharply for mothers with older children. They find access to subsidised childcare raises maternal labour supply by 11.7 percentage points or 24% — substantially larger than estimates from most other countries. However, further childcare expansion under age 3 may be constrained by Hungary's long parental leave, traditional cultural views, and inflexible work norms.",
+    "data_used": "Hungarian Census, Labour Force Survey, and administrative data on childcare-place availability by district, with discontinuity at child age 3 (kindergarten eligibility cutoff). Analysis covers tens of thousands of mothers around the discontinuity.",
+    "policy_relevance": "Direct evidence for Hungarian family policy at the Belügyminisztérium and Pénzügyminisztérium. The paper supports investment in subsidised childcare under age 3 (currently very limited in Hungary) — but warns that without parallel reforms to parental leave and flexible work, the labour-supply effect will be muted. Useful framework for the National Population and Family-Policy Strategy."
+  },
+  {
+    "id": "molnar-bareith-et-al-2025-ksz",
+    "title": "A magyar feldolgozóipar technikai hatékonysági vizsgálata",
+    "year": 2025,
+    "authors": [
+      "Molnár (verify lead author)",
+      "Tibor Bareith",
+      "barath-lajos"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "How efficient is Hungarian manufacturing, and what's holding back productivity? Molnár (verify lead author), Bareith and Baráth use Stochastic Frontier Analysis (SFA) on Hungarian manufacturing firms 2013-2022 to decompose output growth into input-driven, technology-driven, and efficiency-driven components. The period was primarily input-driven (more workers, more capital). Technological change contributed 1.4% per year. Technical efficiency improved only modestly, with significant differences across firm-size categories — small and medium firms have the largest unrealised efficiency potential. Higher export orientation positively affects firm efficiency. The two productivity drivers respond to different policy levers: R&D incentives advance technological change; training and consulting services raise technical efficiency.",
+    "data_used": "Hungarian manufacturing firm-level data 2013-2022 (likely NAV / KSH). Stochastic Frontier Analysis allows separation of technology and efficiency components. Sample covers all sizes; firm-size heterogeneity explicitly modelled.",
+    "policy_relevance": "Direct policy implications for Hungarian industrial policy (NGM, ITM). The paper distinguishes two channels — R&D incentives drive technology, training drives efficiency — and supports targeting them differently. SME-targeted training and consulting programmes are flagged as the underused lever. Particularly relevant for the post-2020 industrial-policy debate around battery and electronics investment, where input-driven growth has been the dominant story but technical-efficiency gaps remain large."
+  },
+  {
+    "id": "murakozy-telegdy-2016-eer",
+    "title": "Political incentives and state subsidy allocation: Evidence from Hungarian municipalities",
+    "year": 2016,
+    "authors": [
+      "murakozy-balazs",
+      "telegdy-almos"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Are EU Structural and Cohesion Fund grants in Hungary subject to political favouritism? Murakozy and Telegdy use a comprehensive Hungarian database of successful and rejected grant applications 2004-2012, comparing applicants in municipalities with mayors aligned with the governing coalition vs. opposition. Average grant value shows little systematic difference. But for grants visible to voters — public-entity applicants and construction projects — aligned municipalities receive 16-21% higher grant values, driven by both higher application rates and higher acceptance rates. Voters reward construction and public projects with electoral support, justifying the political incentive structure.",
+    "data_used": "Hungarian administrative data on all successful and rejected applications for EU Structural and Cohesion Funds 2004-2012 (~hundreds of thousands of applications), matched to municipal-level mayoral political affiliation and electoral outcomes.",
+    "policy_relevance": "Direct political-economy evidence for ÁSZ (State Audit Office), GVH, and EU Anti-Fraud Office (OLAF) when assessing Hungarian fund-allocation governance. Documents quantitatively significant favouritism in visible-spending categories. Useful framework for designing transparent grant-allocation procedures and for the European Commission's rule-of-law conditionality dialogue with Hungary."
+  },
+  {
+    "id": "nagy-2022-aejm",
+    "title": "Trade and Urbanization: Evidence from Hungary",
+    "year": 2022,
+    "authors": [
+      "nagy-david"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "When Hungary's borders were redrawn after the First World War (Treaty of Trianon, 1920), the country lost two-thirds of its territory and population. This paper asks what that did to the surviving country. Using the sharp, exogenous border changes, the author shows that counties now near the new border saw much less urbanisation than counties farther away. A structural spatial-economy model rationalises the finding: trading activity drives urban agglomeration, and the border blocked trade. The model implies Hungary's average real income fell 15.55% from the border redrawing, with losses concentrated in border regions.",
+    "data_used": "Historical Hungarian micro-data on urban population, counties, and trade, spanning pre- and post-1920 borders. Spatial data on the location of the new border relative to pre-war towns and trade routes.",
+    "policy_relevance": "Highly relevant to Hungarian regional-development policy and to any discussion of border-effect on economic geography. For current policy (EU cohesion funds, regional development, cross-border cooperation with Romania, Slovakia, Ukraine), the paper provides the quantitative benchmark: borders are expensive, and integration (Schengen, EU cross-border programmes) have real welfare consequences. Caveat: the identification is historical and the magnitudes reflect a 1920s context; current EU integration is a different kind of border removal."
+  },
+  {
+    "id": "ongena-schindele-vonnak-2018-jimf",
+    "title": "Why do firms default on their foreign currency loans? The case of Hungary",
+    "year": 2018,
+    "authors": [
+      "Steven Ongena",
+      "schindele-ibolya",
+      "vonnak-dzsamila"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Hungarian firms borrowed heavily in foreign currency before the 2008 crisis; once the forint depreciated, many defaulted. Ongena, Schindele and Vonnák use Hungarian credit-registry data to ask which firms were most likely to default on FX loans, separating exchange-rate exposure, balance-sheet vulnerability, and bank-side risk-management practices. The paper provides a granular picture of FX-loan default determinants in a crisis episode that became the textbook case for emerging-market currency mismatch.",
+    "data_used": "Hungarian credit-registry data linking firm-level loan terms (currency, maturity, interest rate) to borrowers' balance-sheet characteristics around the 2008 crisis. Default events tracked at the loan level. [Author summary based on the published title and known author work; the full abstract is not publicly accessible — verification by the editor against the published paper is recommended.]",
+    "policy_relevance": "Direct relevance for Hungarian financial-stability policy (MNB macroprudential framework, household and SME FX-exposure rules) and for emerging-market peers facing renewed dollarisation. The case study underpinned the post-2010 Hungarian FX-loan policy package (forintosítás for households, FX-loan restrictions for SMEs); the paper provides the empirical foundation linking firm-level FX exposure to default risk that remains central to macroprudential calibration."
+  },
+  {
+    "id": "penner-petersen-et-al-2022-nathumbeh",
+    "title": "Within-job gender pay inequality in 15 countries",
+    "year": 2022,
+    "authors": [
+      "Andrew M. Penner",
+      "Trond Petersen",
+      "Are Skeie Hermansen",
+      "Anthony Rainey",
+      "boza-istvan",
+      "Marta M. Elvira",
+      "Olivier Godechot",
+      "Martin Hällsten",
+      "Lasse Folke Henriksen",
+      "Feng Hou",
+      "Aleksandra Kanjuo Mrčela",
+      "J. E. King",
+      "Naomi Kodama",
+      "Tali Kristal",
+      "Alena Křı́žková",
+      "Zoltán Lippényi",
+      "Silvia Maja Melzer",
+      "Eunmi Mun",
+      "Paula Apascaritei",
+      "Dustin Avent‐Holt",
+      "Nina Bandelj",
+      "hajdu-gabor",
+      "Jiwook Jung",
+      "Andreja Poje",
+      "Halil Sabanci",
+      "Mirna Safi",
+      "Matthew Soener",
+      "Donald Tomaskovic‐Devey",
+      "Zaibu Tufail"
+    ],
+    "countries_studied": [
+      "HU",
+      "EU",
+      "US",
+      "GLOBAL"
+    ],
+    "summary_en": "The standard story about the gender pay gap has been: within the same job, men and women are paid similarly; the gap comes from sorting women into lower-paying jobs. This paper uses recent linked employer-employee data from 15 countries to challenge that story. The finding: job sorting accounts for less of the gap than previously believed, and within-job pay differences remain substantial. Policy implications flip — equal-pay enforcement (within-job) matters more than previously thought. An empirical update that should reshape how governments and firms design gender-equality policies.",
+    "data_used": "Linked employer-employee administrative data from 15 countries (including Hungary, via Boza and Hajdu). Covers within-job versus between-job pay decomposition.",
+    "policy_relevance": "Central for Hungarian gender-equality policy (ETDA, Ministry of Labour). The paper supports strengthened within-job pay-transparency and equal-pay-enforcement mechanisms, including audits of pay bands within firms. Relevant to implementation of the EU Pay Transparency Directive. Caveat: countries differ; Hungarian magnitudes are embedded in the sample via Hungarian data contributors, but full domestic estimates with more recent micro-data would be complementary."
+  },
+  {
+    "id": "reizer-2022-labec",
+    "title": "Employment and Wage Consequences of Flexible Wage Components",
+    "year": 2022,
+    "authors": [
+      "reizer-balazs"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Hungarian firms often pay flexible bonuses on top of fixed wages. Does this flexibility act as a shock absorber, letting firms avoid layoffs during bad times? This paper uses matched employer-employee data from Hungary to test the idea. Findings are mixed. Firms with flexible wage components do adjust total wage compensation more to revenue shocks than firms without. But employment responses are the same across firm types — flexibility in the wage doesn't shield jobs. This holds during the Great Recession. The conclusion: in their current magnitude, flexible wage components do not attenuate employment responses to negative shocks.",
+    "data_used": "Matched employer-employee administrative data from Hungary, covering the 2000s through the Great Recession. Individual-level wage, bonus, and employment records linked to firm financials.",
+    "policy_relevance": "Relevant to Hungarian labour-market flexibility debates (VKF social dialogue, Ministry of Finance). Conventional policy wisdom is that flexible wage components create shock-absorption; this paper shows they don't in the Hungarian context. Implications for minimum-wage design, Kurzarbeit-style short-time programmes, and employment-protection policy. Relevant to the Ministry of Economy. Caveat: data cover through 2010s; tighter labour markets post-2015 may have changed the flexibility-employment trade-off."
+  },
+  {
+    "id": "schlotter-biro-et-al-2024-moor",
+    "title": "The Core of Housing Markets from an Agent’s Perspective: Is It Worth Sprucing up Your Home?",
+    "year": 2024,
+    "authors": [
+      "Ildikó Schlotter",
+      "biro-peter",
+      "fleiner-tamas"
+    ],
+    "countries_studied": [
+      "GLOBAL"
+    ],
+    "summary_en": "In housing markets (à la Shapley-Scarf), agents trade homes based on preferences. If agent a owns house x, what can a expect in a core allocation? This paper answers a series of questions about the agent's perspective. Key results: it's NP-hard to find a core allocation in which a receives a specific house (or avoids one). More positively, the core \"respects improvement\": if a's own house becomes more valuable, any new core allocation lets a get their original house or something they prefer. Sprucing up your home doesn't hurt you — a reassuring property for housing-market mechanism design.",
+    "data_used": "Theoretical paper; no empirical data. Computational-complexity and structural-property analysis.",
+    "policy_relevance": "Relevant to Hungarian public-housing allocation and housing-exchange policy design. The paper formalises properties of housing-exchange mechanisms that should be desirable for Hungarian housing-policy (e.g., for Budapest's social-housing rotation schemes). Also relevant to mechanism-design theory for kidney-exchange and similar trading problems. Caveat: theoretical; policy implementation requires compatibility with Hungarian legal-property frameworks."
+  },
+  {
+    "id": "simonovits-1991-jce",
+    "title": "Investments, starts, and cycles in socialist economies: A mathematical model",
+    "year": 1991,
+    "authors": [
+      "simonovits-andras"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "In the late socialist economies of Central Europe, investment patterns showed pronounced cycles: surges followed by retrenchment as central planners ran into capacity and supply constraints. Simonovits builds a mathematical model of investment starts and project completions in a planned economy, deriving conditions under which the planner's investment-start decisions endogenously generate cycles even with perfectly rational rules. The paper informs how the late-socialist economies — including Hungary's — repeatedly hit cyclical bottlenecks that contributed to the reform debates of the 1980s.",
+    "data_used": "Theoretical model. Stylised facts on investment cycles in socialist economies (Hungary, Poland, Soviet Union) referenced for calibration intuition.",
+    "policy_relevance": "Historical-comparative interest for Hungarian economic-history teaching and for understanding the structural problems of central planning. Less direct policy use today, but relevant context for Visegrad-region scholars analysing legacy effects of late-socialist investment cycles on post-1990 industrial structure."
+  },
+  {
+    "id": "simonovits-1999-cte",
+    "title": "The New Hungarian Pension System and its Problems",
+    "year": 1999,
+    "authors": [
+      "simonovits-andras"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Hungary's 1997 pension reform replaced the pay-as-you-go pillar with a partly-funded multi-pillar system that diverted contributions to private mandatory funds. Simonovits provides a near-contemporaneous critical assessment: he identifies several structural problems — the transition cost of building the funded pillar, the redistributive consequences of the new accrual rules, and the misalignment between the indexation mechanism and demographic realities. The chapter became a reference point for the policy debate that, two decades later, led to the 2010 effective re-nationalisation of the private pillar.",
+    "data_used": "Hungarian Central Statistical Office (KSH) demographic and earnings data, KSH and pension-fund accounts as available in 1998, plus simulation outputs from Simonovits's own pension-system model.",
+    "policy_relevance": "Direct historical reference for any analysis of the 1997 Hungarian pension reform and its 2010 reversal — the paper's diagnoses of transition costs and indexation flaws were borne out by subsequent events. Useful primary source for current MNB and KRTK analysts working on parametric reforms to the post-2010 system."
+  },
+  {
+    "id": "simonovits-2011-eclett",
+    "title": "When are voluntary pensions indifferent?",
+    "year": 2011,
+    "authors": [
+      "simonovits-andras"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Hungary's pension system combines a mandatory public pillar with various voluntary private pension schemes. Simonovits builds a simple analytical model showing that under standard assumptions, voluntary pensions partly substitute for mandatory ones without affecting overall lifetime outcomes — they are 'indifferent' for the household's consumption path. The result provides a benchmark against which deviations from indifference (driven by tax incentives, informational frictions, or behavioural biases) can be measured. It clarifies why purely voluntary pillars need additional design features to genuinely raise retirement savings.",
+    "data_used": "Theoretical model — no dataset. Lifecycle saving model with mandatory and voluntary pension components.",
+    "policy_relevance": "Direct relevance for Hungarian pension policy. Voluntary pension funds (Önkéntes Nyugdíjpénztár) have stagnated since 2010 reforms despite tax incentives. The paper provides a theoretical baseline showing that without specific tax or behavioural-design features, voluntary pensions just substitute for mandatory contributions. Useful for the Pénzügyminisztérium when assessing whether to increase the voluntary-pension tax credit."
+  },
+  {
+    "id": "simonovits-2017-ksz",
+    "title": "Az elfelejtett nyugdíjdegresszió",
+    "year": 2017,
+    "authors": [
+      "simonovits-andras"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "In Hungary, average pensions are not currently subject to a degressive scale (pension degression) — the link between earlier earnings and pension entitlements is largely linear. Simonovits documents the historical Hungarian pension degression that operated until the 1990s, traces its erosion through subsequent reforms, and shows that its absence today causes meaningful distributional distortions. He proposes a gradual reintroduction of degression, calibrated to current Hungarian wage and pension data, to restore intra-cohort fairness without disrupting work incentives.",
+    "data_used": "Hungarian pension-system data 2000-2016 from MEKDSZ, ONYF, and KSH, including wage and pension distributions by year and contribution length.",
+    "policy_relevance": "Direct policy proposal for Hungary's State Treasury and Pénzügyminisztérium: reintroduce pension degression to limit the gap between high and low pensions within the same cohort. Quantifies the redistribution effect and provides specific scale parameters. Already cited in MNB and KRTK pension-reform discussions."
+  },
+  {
+    "id": "simonovits-2018-ksz",
+    "title": "Miért kell a nyugdíj-valorizálást és -indexálást pontrendszerrel felváltani?",
+    "year": 2018,
+    "authors": [
+      "simonovits-andras"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Hungary's pension valorisation (initial-pension calculation) and indexation (post-retirement uprating) rules have changed repeatedly since 2000, often in response to short-run macro shocks like the 2016 real-wage surge and the 2017 contribution-rate cut. Simonovits argues that ad-hoc valorisation/indexation creates large differences between pension paths of nearly identical careers. He shows that a points-based system — assigning workers a numerical 'point' each contribution year — would smooth these disparities, but warns that without simultaneous reintroduction of pension degression, points-based systems amplify existing redistributive distortions due to the positive correlation between life-expectancy and lifetime income.",
+    "data_used": "Hungarian wage and pension series 2000-2018 from MEKDSZ, ONYF, MNB, and KSH; simulation of three macro scenarios (forced contribution-rate cuts under fast vs. slow real-wage growth) over 2016-2025.",
+    "policy_relevance": "Direct proposal for the Pénzügyminisztérium and ONYF: switch from current valorisation/indexation rules to a points-based system, simultaneously with restoring pension degression and progressive personal income tax. The 2018 paper's three-scenario simulation framework is reusable for current pension-policy stress tests at MNB and KRTK."
+  },
+  {
+    "id": "simonovits-2019-ksz",
+    "title": "Merev vagy rugalmas nyugdíjkorhatár? Áttekintés",
+    "year": 2019,
+    "authors": [
+      "simonovits-andras"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "As Hungarian society ages, raising the average age at retirement is the most efficient lever for keeping the pension system solvent — much more so than raising contribution rates or cutting benefit replacement ratios, both of which are politically and economically costly. Simonovits surveys the choice between rigid statutory retirement ages and flexible-retirement designs that let workers choose later retirement in exchange for higher pensions. He argues for raising both the minimum and the standard retirement age in parallel, combined with stronger flexible-retirement incentives.",
+    "data_used": "Hungarian retirement-age data, life-expectancy projections from KSH, and international comparisons across OECD countries.",
+    "policy_relevance": "Direct input for Hungarian pension-policy reform. The paper makes the case for re-introducing a flexible-retirement design that was abolished in 2012 — relevant for the Pénzügyminisztérium and for the political-economy of pension reform in an ageing electorate. Specifically addresses the trade-offs around the 'Nők40' early-retirement scheme."
+  },
+  {
+    "id": "simonovits-2020-ksz",
+    "title": "A magyar nyugdíjrendszer középtávú feszültségei",
+    "year": 2020,
+    "authors": [
+      "simonovits-andras"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Simonovits identifies three medium-term tensions in the Hungarian pension system as of 2020: (1) the 'pension scissors' (inter-cohort gap) widening because new pensions track real wages while old pensions only track prices, (2) polarisation of new pensions following the 2013 abolition of the contribution cap and the 2011 introduction of flat-rate personal income tax, and (3) the rigid statutory retirement age clashing with the lax 'Nők40' early-retirement scheme. He proposes specific fixes: stop further employer contribution (szocho) cuts, restore the contribution-base ceiling, broaden the now-vestigial pension degression, and replace Nők40 with the equitable 2009 reduced early-retirement scheme.",
+    "data_used": "Hungarian pension-system administrative data 2010-2020 from ONYF, KSH wage data, MNB demographic projections.",
+    "policy_relevance": "Comprehensive policy package directly addressed to the Pénzügyminisztérium and the State Treasury. Each proposed fix maps to a specific lever the ministry controls. Directly relevant for ongoing MNB/KRTK pension-reform consultations and for opposition-party policy platforms on pension fairness."
+  },
+  {
+    "id": "szabo-lovasz-2023-ee",
+    "title": "Where can childcare expansion increase maternal labor supply? A comparison of quasi-experimental estimates from seven countries",
+    "year": 2024,
+    "authors": [
+      "szabo-morvai-agnes",
+      "Anna Lovász"
+    ],
+    "countries_studied": [],
+    "summary_en": "Why do estimated effects of childcare availability on maternal labour supply vary so much across countries? Szabó-Morvai and Lovász (with coauthors) provide harmonised quasi-experimental estimates for seven countries using country-specific childcare-eligibility cutoffs. They propose a simple predictor of childcare-expansion effectiveness: the gap between the participation rate of mothers with older children (aged 6-14) and childcare coverage under age 3. In countries with a high gap (Austria, Czechia, Hungary, Slovakia), childcare expansion significantly raises maternal labour supply. In countries with already-high childcare coverage (France) or low overall maternal participation (Greece, Italy), it doesn't.",
+    "data_used": "Harmonised data from seven countries (Austria, Czech Republic, France, Greece, Hungary, Italy, Slovakia) using EU-LFS and country-specific administrative records on childcare eligibility and maternal labour supply, with regression-discontinuity around kindergarten eligibility cutoffs.",
+    "policy_relevance": "Direct relevance for Hungarian and EU-level family-policy decisions. The paper provides a quantitative diagnostic — the participation-coverage gap — that policy-makers can use to predict whether childcare expansion will be effective in their country. Useful for Hungarian Pénzügyminisztérium and EU-level analysts (DG-EMPL) when designing CEE-specific family-policy interventions under EU Cohesion Funds."
+  },
+  {
+    "id": "szabo-vonnak-2025-ks",
+    "title": "Kisgyermekes anyák munkaerőpiaci helyzetének alakulása középtávon a koronavírus-járványt követő időszakban",
+    "year": 2025,
+    "authors": [
+      "szabo-morvai-agnes",
+      "Dzsamila Vonnák"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "How did the COVID-19 pandemic affect Hungarian mothers' labour-market trajectories, and were those effects temporary or persistent? Szabó-Morvai and Vonnák focus on mothers of 6-11 year olds at the outbreak of the pandemic. Daycare was interrupted multiple times during the pandemic, putting heavy burden on parents — especially mothers. Result: the probability of leaving the labour market for mothers of young children increased by 4.9 percentage points relative to the rest of society after public-education institutions closed. The labour-market disadvantage was substantial during the pandemic but, crucially, persisted into the medium term — even at the end of 2023, mothers' labour-market situation remained worse compared to a pandemic-free counterfactual.",
+    "data_used": "Hungarian admin / KSH labour-market data covering the COVID-19 pandemic period and its aftermath through end-2023. Sample focuses on mothers with children aged 6-11 at pandemic onset. Difference-in-differences against the rest of society as control.",
+    "policy_relevance": "Direct relevance to Hungarian family and labour-market policy (Belügyminisztérium, EMMI, NGM). The paper documents that pandemic school-closures had persistent, not just temporary, labour-market effects on mothers — implying childcare-disruption shocks have long-lasting consequences. Useful input for childcare-availability policy and for any future pandemic-preparedness planning. Particularly relevant for evaluating the cost-effectiveness of expanded summer-childcare or extended-hours óvoda/iskolai programmes."
+  },
+  {
+    "id": "telegdy-2011-eepe",
+    "title": "Corporate governance and the structure of ownership of Hungarian corporations",
+    "year": 2011,
+    "authors": [
+      "telegdy-almos"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Telegdy surveys the structure of corporate ownership and governance in Hungary in this 2011 country chapter for the Edward Elgar Handbook on International Corporate Governance. He traces the legacy of the 1990s privatisation programme — wide dispersion of ownership in the immediate post-transition period followed by progressive concentration into domestic and foreign blockholders — and reviews the evidence on the link between ownership type and firm performance, board structure, minority-shareholder protection, and the impact of the 2008 crisis on Hungarian listed and unlisted firms.",
+    "data_used": "Narrative chapter drawing on Hungarian firm-registry data, BÉT (Budapest Stock Exchange) listings, secondary literature on the Hungarian privatisation programme, and Telegdy's own published work on Hungarian corporate ownership and performance up to 2010.",
+    "policy_relevance": "Background reading for any Hungarian corporate-governance reform (FM/IM company-law amendments, BÉT listing-rules updates, MNB stewardship guidance): summarises what is known about how privatisation choices in the 1990s shaped today's ownership concentration and how that concentration interacts with firm performance. Also relevant for state-asset management (MNV) decisions about when to dispose of remaining state stakes."
+  },
+  {
+    "id": "telegdy-2018-labec",
+    "title": "Public wage spillovers: The role of individual characteristics and employer wage policies",
+    "year": 2018,
+    "authors": [
+      "telegdy-almos"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Telegdy uses a large unexpected Hungarian public-sector wage increase (the public-wage premium jumped from -17% to +7.5% in 2002 from one month to the next) to causally identify wage spillovers from public to corporate sector. Workers more exposed to the public sector (in their gender-experience-occupation-region segment) saw their corporate-sector wages rise by 9.6 percentage points more between the 25th and 75th exposure percentiles. The firm-level exposure effect is larger (13.6%), suggesting employers respond to anticipated wage tensions. Spillovers concentrate among young, mobile, and highly-educated workers — the groups most likely to switch into the public sector.",
+    "data_used": "Hungarian linked employer-employee data 2000-2003 covering all formal-sector workers, with detailed individual characteristics (gender, age, occupation, education, region) and firm-level controls; ~millions of worker-firm-year observations.",
+    "policy_relevance": "Direct evidence for the Pénzügyminisztérium when calibrating public-sector wage increases — corporate-sector spillovers are substantial and concentrated among mobile, educated workers. Useful for budget impact assessments of teacher-wage, nurse-wage, and civil-service-wage increases. Also relevant for MNB inflation-monitoring of public-wage shocks."
+  },
+  {
+    "id": "telegdy-2023-el",
+    "title": "The effects of enterprise relief grants during COVID-19",
+    "year": 2023,
+    "authors": [
+      "telegdy-almos"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "During COVID-19, Hungary disbursed enterprise relief grants to firms hit by the pandemic. Telegdy uses linked NAV and MVH administrative data to estimate the effect of these grants on firm-level employment and turnover, comparing recipient firms to similar non-recipients via matching. The note documents a positive but modest short-run employment effect concentrated in smaller firms and in sectors with the steepest demand drop, with weaker effects on revenue. [Note-length summary in Economics Letters; an editor-side spot-check against the published version is recommended.]",
+    "data_used": "Hungarian firm-level administrative panel data (NAV corporate tax filings, employment registers) covering 2019–2021, linked to MVH / NAV grant-disbursement records. Matching estimator on firm size, sector, pre-pandemic trajectory.",
+    "policy_relevance": "Directly relevant for evaluating future Hungarian crisis-response programmes (MFB / Eximbank emergency lending, AM agri-relief, ITM industrial buffers). Suggests targeting future enterprise-relief instruments at small firms in shock-exposed sectors, where the short-run employment payoff is largest. Provides a concrete Hungarian benchmark for COVID-era programme evaluations now being commissioned by the Állami Számvevőszék."
+  },
+  {
+    "id": "temesvary-2015-ijio",
+    "title": "Dynamic branching and interest rate competition of commercial banks: Evidence from Hungary",
+    "year": 2015,
+    "authors": [
+      "temesvary-judit"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Most bank-competition models take branch networks as given. Temesváry endogenises them — banks choose how many branches to open, and those choices affect interest-rate competition. Applying a dynamic structural model to Hungarian commercial banks 2004-2007, she finds banks charge an interest-rate premium for relative branch-network dominance, and banks with smaller networks are less likely to close branches. The paper derives structural estimates of branch setup costs and scrap values, and shows how branching restrictions could be used as a regulatory tool to alter lending rates and consumer welfare.",
+    "data_used": "Hungarian bank-level data 2004-2007 from MNB and PSZÁF supervisory reports, covering all commercial banks' branch counts, interest rates by product, and balance-sheet metrics; quarterly observations.",
+    "policy_relevance": "Direct evidence on Hungarian banking competition. The paper shows banks earn rents on relative branch dominance — relevant for MNB and GVH when evaluating bank-merger applications, branch-closure programmes, and the post-2008 consolidation of the Hungarian banking sector. Also useful for the Pénzügyminisztérium when assessing financial-inclusion concerns from rural branch closures."
+  },
+  {
+    "id": "temesvary-2016-eot",
+    "title": "The drivers of foreign currency‐based banking in Central and Eastern Europe",
+    "year": 2016,
+    "authors": [
+      "temesvary-judit"
+    ],
+    "countries_studied": [],
+    "summary_en": "Why did foreign-currency banking spread so quickly across Central and Eastern Europe in 2000-2011, and what can macroprudential policy learn from it? Temesváry uses a new dataset on FX and domestic-currency loans, deposits, and interest rates across 16 CEE countries. Both demand-side (consumer) and supply-side (bank) determinants matter. Three findings: (1) local-FX interest-rate and market-share spreads are lower in managed currency regimes, (2) they are strongly affected by FX-funding prevalence, currency mismatch, and FX banking restrictions, (3) they widen after economic crises. The paper provides the cleanest decomposition to date of the FX-banking phenomenon that became Hungary's biggest macroprudential problem.",
+    "data_used": "Newly constructed dataset on FX and domestic-currency loans, deposits, and interest rates for 16 CEE countries, 2000-2011. Country-level panel regressions with currency-regime, capital-flow, and crisis controls.",
+    "policy_relevance": "Direct relevance to MNB macroprudential policy and to Hungarian retrospective analysis of the 2008-2014 FX-mortgage crisis. The paper's finding that FX-banking restrictions matter supports the post-2014 Hungarian regulatory framework that explicitly limited FX household lending. Useful baseline for evaluating CEE-wide macroprudential coordination via the European Systemic Risk Board."
+  },
+  {
+    "id": "temesvary-banai-2017-jimf",
+    "title": "The drivers of foreign bank lending in Central and Eastern Europe: The roles of parent, subsidiary and host market traits",
+    "year": 2017,
+    "authors": [
+      "temesvary-judit",
+      "Ádám Banai"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Western European banks' Central and East European subsidiaries underwent dramatic lending swings during 2008-13. Temesváry and Banai use bank-level data on Western European parent groups and their CEE subsidiaries 2002-2013 to disentangle subsidiary vs. parent drivers of lending. Lower capital ratios and higher non-performing-loan ratios at either level reduced subsidiary lending growth — both before and during the crisis. The crisis weakened the link in many cases, but subsidiaries participating in the Vienna Initiative (2009 commitment to maintain CEE exposures) showed significantly less crisis-driven lending contraction. Policy implications: clean up parent-bank NPLs, coordinate regulation, and include parent traits in countercyclical buffer calculations.",
+    "data_used": "Bank-level dataset on Western European banking groups (Erste, Raiffeisen, UniCredit, Intesa, KBC, etc.) and their CEE subsidiaries 2002-2013, sourced from Bankscope, MNB, and other CEE central banks, with both parent and subsidiary balance-sheet metrics.",
+    "policy_relevance": "Highly relevant for Hungarian financial-stability policy. The paper shows Vienna Initiative participation made a measurable difference in subsidiary lending behaviour during the crisis — supporting MNB's continued engagement with such cross-border-coordination platforms. Also informs how Hungarian countercyclical capital buffers should account for parent-bank conditions."
+  },
+  {
+    "id": "tomaskovic-devey-rainey-et-al-2020-pnas",
+    "title": "Rising between-workplace inequalities in high-income countries",
+    "year": 2020,
+    "authors": [
+      "Donald Tomaskovic‐Devey",
+      "Anthony Rainey",
+      "Dustin Avent‐Holt",
+      "Nina Bandelj",
+      "boza-istvan",
+      "David A. Cort",
+      "Olivier Godechot",
+      "hajdu-gabor",
+      "Martin Hällsten",
+      "Lasse Folke Henriksen",
+      "Are Skeie Hermansen",
+      "Feng Hou",
+      "Jiwook Jung",
+      "Aleksandra Kanjuo-Mrčela",
+      "J. E. King",
+      "Naomi Kodama",
+      "Tali Kristal",
+      "Alena Křı́žková",
+      "Zoltán Lippényi",
+      "Silvia Maja Melzer",
+      "Eunmi Mun",
+      "Andrew M. Penner",
+      "Trond Petersen",
+      "Andreja Poje",
+      "Mirna Safi",
+      "Max Thaning",
+      "Zaibu Tufail"
+    ],
+    "countries_studied": [
+      "HU",
+      "EU",
+      "US",
+      "GLOBAL"
+    ],
+    "summary_en": "When inequality rises, where does it come from — within-firm differences (top managers versus rank-and-file) or between-firm differences (some companies pay more than others)? This paper uses comprehensive administrative records for 14 high-income countries to decompose the trend. The between-workplace component grows in almost every country examined and declines in none. Within-workplace inequality's trend varies. The finding has profound policy implications: policies aimed at within-firm pay structures will increasingly miss the growing source of inequality. Firm-level productivity and labour-market sorting dynamics become the right focal points.",
+    "data_used": "Administrative linked employer-employee records for 14 high-income countries covering 2 billion+ job-years and 50 million+ workplaces. Hungary included via Boza and Hajdu contributions.",
+    "policy_relevance": "Central for understanding Hungarian wage-inequality trends and for policy design. The paper's key message — between-firm inequality is rising everywhere — shifts policy attention to: firm-size policy, sector-specific productivity policy, minimum-wage design across firms, and collective-bargaining coverage. Relevant to MNB wage analysis, VKF social dialogue, and Ministry of Economy wage-policy design. Caveat: the measurement focuses on high-income-country experience; Hungarian-specific decomposition should be done on KRTK data."
+  },
+  {
+    "id": "ujhelyi-2017-ks",
+    "title": "A köztisztviselői törvények hatása a kormányzati kiadásokra",
+    "year": 2017,
+    "authors": [
+      "ujhelyi-gergely"
+    ],
+    "countries_studied": [],
+    "summary_en": "Ujhelyi reviews the question of whether bureaucracy should be insulated from politics — and what economic and political-science research has learned about the consequences of civil-service legislation that strengthens or weakens that insulation. Drawing on his own US-based work and the broader international literature, he covers the trade-offs civil-service rules impose on the interaction between politicians, voters, and bureaucrats; the empirical evidence on government-spending effects of merit-based recruitment; and the implications for emerging democracies. The piece is a Hungarian-language synthesis that brings the international debate into the domestic policy conversation.",
+    "data_used": "Literature review covering US, OECD, and emerging-democracy evidence on civil-service rules and their effects on government spending and policy choices.",
+    "policy_relevance": "Hungarian-language synthesis specifically aimed at Hungarian policy audiences. Direct relevance for the Belügyminisztérium, the Public Service Commission, and the Magyar Közigazgatási Karok during ongoing reforms of the legal status of public servants. Provides accessible context for Hungarian policymakers reading the international literature."
+  },
+  {
+    "id": "verner-gyongyosi-2020-aer",
+    "title": "Household debt revaluation and the real economy: Evidence from a foreign currency debt crisis",
+    "year": 2020,
+    "authors": [
+      "Emil Verner",
+      "gyongyosi-gyozo"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "When the Hungarian forint collapsed in late 2008, households holding Swiss-franc and euro mortgages saw their debt service jump 30-50%. Verner and Gyöngyösi exploit cross-region variation in foreign-currency-mortgage exposure to causally estimate the impact on the local economy. Affected districts experienced higher default rates, collapsed consumption spending, and deeper recessions — even spilling over to nearby borrowers without FX debt. The implied output multiplier on debt-service shocks is 1.67. Crucially, the impact was much worse when FX debt was on household rather than firm balance sheets.",
+    "data_used": "Hungarian regional administrative records on household foreign-currency mortgage exposure (MNB, ÁKK), default outcomes, household consumption (KSH), and local labour-market outcomes by district 2008-2014.",
+    "policy_relevance": "Foundational evidence for Hungarian macroprudential policy at MNB. The paper demonstrates household-FX-debt risks are systemically larger than firm-FX-debt risks — directly informing MNB's 2014 conversion of the FX-mortgage stock into forint and ongoing macroprudential limits. Also relevant for the Pénzügyminisztérium and other Eastern European central banks (NBR, NBP, NBS) addressing similar legacy stocks."
+  },
+  {
+    "id": "zawadowski-2017-ks",
+    "title": "Kezelési költségük határozza-e meg a Magyarországon forgalmazott részvénypiaci befektetési alapok teljesítményét?",
+    "year": 2017,
+    "authors": [
+      "zawadowski-adam"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "Do management fees explain mutual-fund performance in Hungary? Zawadowski tests this on Hungarian-marketed equity funds. The baseline specification finds that a 1-percentage-point higher management fee corresponds to *more than* 1 percentage point worse performance versus benchmark (Jensen's alpha) — a striking failure of the cost-quality relationship in mutual funds. He shows that several funds officially marketed as actively managed in fact track an index. He also documents measurement difficulties: the BÉT-created CETOP benchmark index excludes dividends, which biases performance comparisons; he proposes how to correct this. A clean Hungarian application of the international 'fees don't deliver alpha' literature.",
+    "data_used": "Hungarian-marketed equity mutual fund returns and management-fee data. Sample period covers a recent multi-year window. CETOP and other benchmark-index data from BÉT. Jensen's alpha calculations across the fund universe.",
+    "policy_relevance": "Direct input for MNB consumer-protection oversight of Hungarian retail investment funds. The paper provides empirical foundation for fee-disclosure rules and for warning retail investors about active-tracking-passive ('closet indexing') funds. Useful for the Hungarian fund-industry debate about transparency standards. The CETOP-index dividend issue should inform Hungarian regulatory choices about benchmark methodology."
+  },
+  {
+    "id": "zrubka-beretzky-et-al-2019-eujhe",
+    "title": "A comparison of European, Polish, Slovenian and British EQ-5D-3L value sets using a Hungarian sample of 18 chronic diseases",
+    "year": 2019,
+    "authors": [
+      "Zsombor Zrubka",
+      "Zsuzsanna Beretzky",
+      "hermann-zoltan",
+      "Valentin Brodszky",
+      "László Gulàcsi",
+      "Fanni Rencz",
+      "Petra Baji",
+      "Dominik Golicki",
+      "Valentina Prevolnik Rupel",
+      "Márta Péntek"
+    ],
+    "countries_studied": [
+      "HU"
+    ],
+    "summary_en": "The EQ-5D-3L instrument measures health-state utility for cost-effectiveness analysis. But the \"value set\" (which assigns utility to each state) can differ across countries. Does the choice matter for concrete policy decisions? This paper compares European, Polish, Slovenian, and British value sets on a Hungarian sample of patients with 18 chronic diseases. The conclusion: value-set choice substantially influences health-state utility results in chronic disease — and thus affects health-policy decisions. An important methodological caution for Hungarian cost-effectiveness analyses.",
+    "data_used": "Hungarian sample of patients with 18 chronic diseases, evaluated against European, Polish, Slovenian, and British EQ-5D-3L value sets.",
+    "policy_relevance": "Directly relevant to Hungarian health-technology assessment (GYEMSZI, NEAK) and to drug-reimbursement decisions. The paper supports the development of a Hungarian-specific value set for EQ-5D-3L to avoid systematic biases from using foreign sets. Relevant to Hungarian HTA methodology reform. Caveat: chronic-disease focus; acute and preventive-care implications may differ."
+  }
+]
