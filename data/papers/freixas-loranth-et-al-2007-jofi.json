@@ -18,19 +18,31 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "When a single financial-services group combines banking, insurance, and asset management, regulating each silo separately may miss group-wide risk. Freixas, Lóránth and Morrison study optimal regulation of financial conglomerates and identify when entity-level vs. group-level supervision dominates. They show that group-level rules are warranted when intra-group capital flows substitute for arms-length funding, but become counter-productive when entities are genuinely separated, and they characterise the capital-requirement structure that minimises systemic risk in each case.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper. No primary dataset; the analysis is a contract-theoretic model of conglomerate regulation under intra-group capital mobility.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct theoretical input for MNB and EU regulators (ECB / EBA, EIOPA) overseeing Hungarian and pan-European bancassurance groups (OTP, Allianz, Generali). The paper provides the analytical toolkit for deciding when group-level capital requirements add value over entity-level capital floors — a recurring question in Hungarian financial-conglomerate supervision and in EU CRD/Solvency II coordination.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "banking-finance",
+    "industrial-organization"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3125183711"
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3125183711",
+  "policy_instruments": [
+    "consolidated supervision",
+    "group-level capital requirements",
+    "Solvency II coordination"
+  ]
 }

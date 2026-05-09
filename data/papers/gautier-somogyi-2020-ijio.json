@@ -17,19 +17,31 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "Should internet service providers be allowed to 'zero-rate' specific content (e.g., not count it against data caps), or must they treat all data equally under net-neutrality rules? Gautier and Somogyi compare prioritisation regimes (paid fast lanes) with zero-rating regimes and identify when each produces more — or less — diversity in the content available to consumers, and which regime delivers higher consumer surplus. The paper provides the welfare comparison the net-neutrality debate has often lacked.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper in industrial organisation. No primary dataset; the analysis is a multi-sided market model with ISPs, content providers and consumers.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for Hungarian and EU telecom regulation (NMHH, BEREC): supports the case that net-neutrality rules forbidding both prioritisation and zero-rating are not always welfare-maximising — under the parameter conditions the paper characterises, allowing zero-rating dominates pure neutrality. Practical input for ongoing BEREC reviews of zero-rating practice in EU broadband markets.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "industrial-organization",
+    "innovation-digital",
+    "mechanism-design"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2890935026"
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2890935026",
+  "policy_instruments": [
+    "net-neutrality regulation",
+    "zero-rating rules"
+  ]
 }

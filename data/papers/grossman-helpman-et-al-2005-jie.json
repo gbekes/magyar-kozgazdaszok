@@ -18,19 +18,27 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "Multinational firms have a menu of integration strategies: source inputs at arm's length, in-house from foreign subsidiaries, or a mix. Grossman, Helpman and Szeidl model this choice and characterise when each strategy dominates as a function of contracting frictions, the input's specificity, and the relative cost of foreign vs. domestic production. Their framework provides a unified account of FDI, offshoring, and supply-chain configuration that has become a standard reference for the trade-and-multinationals literature.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper. No primary dataset; model is mapped to stylised facts about MNE structure (foreign affiliate output shares, intra-firm trade volumes) drawn from the trade-statistics literature.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Useful framing for Hungarian FDI and industrial policy (HIPA, ITM): the paper provides the analytical lens for thinking about why MNEs choose to integrate Hungarian operations vertically (subsidiary-based assembly) vs. arm's-length sourcing, and what changes in contracting environment or trade costs would shift those choices. Particularly relevant for current Hungarian debates about supply-chain reshoring and EU industrial-policy responses.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "trade-fdi",
+    "industrial-organization",
+    "firms-productivity"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-19",
-  "last_reviewed_at": "2026-04-19",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
   "openalex_id": "W3124092291"
 }

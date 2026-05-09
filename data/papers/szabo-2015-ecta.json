@@ -16,29 +16,34 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "South Africa's 'Free Basic Water' policy gives every household a 6-kilolitre free monthly water allowance — the WHO recommended minimum. Szabó structurally estimates household water demand around the kink at the 6-kilolitre threshold and finds that the free block does little to lower poor households' total water bills (they consume well above 6 kl) and substantially raises water use among middle-income households (a Giffen-style block-pricing distortion). A means-tested cash transfer would deliver the same welfare with much less water and cheaper public outlay.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Household-level micro-data on metered water consumption from a South African municipality, with full block-tariff information and household demographics. Structural demand estimation accounts for nonlinear pricing kinks at the free-block threshold.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for Hungarian energy and utilities policy (energiaár-támogatás, rezsicsökkentés, district-heating tariffs): the paper formalises why universal free-block tariffs are dominated by means-tested cash transfers when the free block sits below typical household consumption. For Hungarian energy-poverty policy considering or extending universal-allowance schemes, results argue for moving the policy toward direct income support of vulnerable households.",
   "policy_relevance_hu": null,
   "topics": [
     "energy-environment",
-    "industrial-organization",
-    "inequality-welfare"
+    "inequality-welfare",
+    "fiscal-tax"
   ],
   "methods": [
-    "structural"
+    "structural",
+    "rd"
   ],
   "countries_studied": [
     "ZA"
   ],
   "data_types": [
-    "admin-individual",
-    "survey"
+    "admin-individual"
   ],
   "featured": false,
   "added_at": "2026-05-07",
-  "last_reviewed_at": "2026-05-07",
-  "review_status": "metadata-fetched"
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "block-pricing utility tariffs",
+    "means-tested cash transfers",
+    "universal-allowance schemes"
+  ]
 }

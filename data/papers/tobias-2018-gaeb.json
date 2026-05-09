@@ -16,19 +16,31 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "Online retailers commonly bundle product price with shipping fee, sometimes hiding shipping behind a flat 'free delivery' threshold. Tóbiás models nonlinear pricing where the seller chooses both the per-unit price and the shipping-fee schedule, and characterises when bundling shipping into the unit price dominates a separate fee. The paper rationalises observed pricing patterns (free-shipping thresholds, fixed delivery fees) and identifies the consumer-welfare consequences of each design.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper. No primary dataset; the analysis is a nonlinear-pricing model with consumer search and shipping-cost trade-offs.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Useful framing for Hungarian and EU consumer-protection policy and digital-markets regulation (Magyar Posta tariff oversight, EU DSA / DMA): when online sellers strategically combine price and shipping-fee schedules, naive comparison-shopping tools can mislead consumers. The paper supports requirements that price-comparison platforms display total-cost (including shipping) figures by default.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "industrial-organization",
+    "behavioral",
+    "innovation-digital"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-20",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2888789964"
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2888789964",
+  "policy_instruments": [
+    "consumer-protection display rules",
+    "DMA / DSA platform regulation"
+  ]
 }

@@ -17,23 +17,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "Burguet and Sákovics study oligopolists who must source inputs from capacity-constrained suppliers and bid for them in a decentralised market. They show that, compared with a price-taking input market, the incentive to foreclose rivals — to deny them inputs — increases firms' willingness to pay and produces higher equilibrium input prices, lower downstream output, and persistent foreclosure even without market power in the input market itself. Foreclosure therefore arises from supply-side capacity constraints, not just downstream concentration.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper. No data; the analysis is a game-theoretic model of decentralised input procurement under supplier capacity constraints.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Useful framework for Hungarian and EU competition authorities (GVH, DG COMP) reviewing vertical mergers and exclusive supply contracts where upstream capacity is genuinely scarce — semiconductors, raw materials, specialist services. The model suggests a structural reason for foreclosure beyond standard market-power analysis, and warrants caution about upstream-capacity-constrained sectors when assessing vertical foreclosure risk.",
   "policy_relevance_hu": null,
   "topics": [
     "industrial-organization",
-    "mechanism-design"
+    "firms-productivity"
   ],
   "methods": [
     "theory"
   ],
-  "countries_studied": [],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-05-07",
-  "last_reviewed_at": "2026-05-07",
-  "review_status": "metadata-fetched"
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "competition policy",
+    "vertical-merger review"
+  ]
 }

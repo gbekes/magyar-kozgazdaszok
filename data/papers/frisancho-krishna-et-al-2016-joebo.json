@@ -19,19 +19,32 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "If you didn't get the score you wanted, should you take the SAT again? Frisancho, Krishna and co-authors document who actually retakes the test and how retaking pays off. They show that retake rates are systematically lower among low-income and minority students — the very groups most likely to gain from a higher second attempt — and that policies lowering retake costs would disproportionately benefit them. The paper became a reference for the literature on how exam-system frictions widen educational inequality.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "US administrative SAT-taker data with full retake histories, scores on each attempt, demographic information, and (where merged) college-enrolment outcomes. Estimation compares retakers to non-retakers within score bands and identifies retaking-cost effects.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Useful for Hungarian admissions-test policy debates (felvi, érettségi reform): supports lowering retake fees and calendar restrictions for the érettségi, especially given the disproportionate cost to low-income students. Translation caveat: the SAT operates as a private, fee-charging market while the érettségi is public — but the inequality channel transfers to any high-stakes exam where retaking carries non-trivial fixed costs.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "education-skills",
+    "inequality-welfare",
+    "behavioral"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-21",
-  "last_reviewed_at": "2026-04-21",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3021268116"
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3021268116",
+  "policy_instruments": [
+    "high-stakes exam retake fees / scheduling"
+  ]
 }

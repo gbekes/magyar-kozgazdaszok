@@ -20,19 +20,28 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "Empirical research where each unit is a place — county, region, country — has to grapple with the fact that economic outcomes spill across borders, breaking standard cluster-robust inference. Lindner, DellaVigna and co-authors propose using the cross-sectional correlation of *other* outcomes observed for the same units to estimate the dependence structure, and show that the resulting Thresholding Multiple Outcomes (TMO) correction can substantially reduce bias in standard errors. Re-running nine recent papers, they find the correction often changes statistical conclusions.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Methodological paper. Calibration uses U.S. county-level data on multiple economic outcomes; re-analysis applies the proposed correction to nine recent published studies.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant to any Hungarian researcher or impact-evaluation team working with sub-national data — járás, kistérség, NUTS-3 region — including programme evaluations done by KSH, MNB, or KRTK. The TMO method offers a practical way to get standard errors right for spatially dependent outcomes without imposing arbitrary cluster boundaries; should become part of the standard Hungarian regional-policy evaluation toolkit.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "methods",
+    "regional-urban"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-19",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
   "openalex_id": "W4409871135"
 }

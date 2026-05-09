@@ -18,19 +18,30 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "Can a planned economy generate endogenous business cycles — and even chaos — purely from its planning rules? Hommes, Nusse and Simonovits build a stylised dynamic model of a centrally-planned ('socialist') economy with adaptive output targets and show that the resulting investment cycle can exhibit endogenous oscillations and chaotic dynamics for plausible parameter ranges. The paper formalised long-running narrative claims (Kornai-style) about cyclical dysfunction under central planning into a rigorous nonlinear-dynamics framework.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical / numerical paper. Numerical illustrations use stylised Hungarian and Eastern-European socialist-era output series; formal results derive from the planning-rule dynamic system.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Of historical interest for Hungarian transition-economics scholarship (KRTK, Corvinus economic history) — the paper formalises the cyclical-dysfunction story of late-socialist planning in Hungary and the bloc, which informs comparative-economic-systems teaching and analyses of pre-1989 Hungarian growth volatility.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "macroeconomics",
+    "transition-postcommunist",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "HU",
+    "TRANSITION"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
   "openalex_id": "W1994082057"
 }

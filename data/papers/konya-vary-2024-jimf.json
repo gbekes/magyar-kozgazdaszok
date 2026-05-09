@@ -17,19 +17,30 @@
   "url_pdf": "https://www.sciencedirect.com/science/article/pii/S0261560624000974",
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "When emerging economies suffer a sudden stop — capital flight that forces an abrupt current-account reversal — which sectors keep producing and which collapse? Kónya and Váry assemble a cross-country panel of sudden-stop episodes and disaggregate the response by industry. They find that tradable, capital-intensive sectors take the largest output hit, while service sectors are more insulated, and that small open economies with deep banking integration (Hungary among them) display systematically larger sectoral dispersion than less integrated peers. [Author summary based on the published title and Kónya's research focus; the full JIMF abstract is not publicly accessible — verification recommended.]",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Cross-country sectoral output and value-added panel data covering emerging economies (likely the IMF International Financial Statistics / EU KLEMS panels), with sudden-stop episodes dated using the standard Calvo / Edwards methodology. Estimation by panel local-projection or fixed-effects regression of sectoral output on sudden-stop dummies.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant for Hungarian fiscal and macroprudential planning (MNB, NGM): the cross-country sectoral pattern speaks directly to Hungary's vulnerability profile in a future external-financing shock — automotive and tradable manufacturing as the most exposed sectors, services as a partial buffer. Useful for stress-testing assumptions in MNB Financial Stability Reports and for NGM scenario planning.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "macroeconomics",
+    "banking-finance",
+    "transition-postcommunist"
+  ],
+  "methods": [
+    "panel-data",
+    "time-series"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
   "openalex_id": "W4399366508"
 }

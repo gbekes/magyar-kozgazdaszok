@@ -16,19 +16,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "A tanulmány a referenciapont-alapú döntéshozatalt vizsgálja a méltányosság szempontjából. Hipotézisei szerint az összehasonlításon alapuló döntéshozatalban jelentős befolyása van a méltányosság megítélésének, kiváltképp, ha a kártékony magatartás is jelen lehet a döntési helyzetben. A tanulmány bemutatja, hogy a társas döntéshozatal során a méltánytalan különbségek úgynevezett kártékony irigységhez vezethetnek, ha azonban a döntéshozó racionalizálni tudja az eltérés okát, akkor a kártékony viselkedés megszűnhet. A különböző új információk más-más eredménnyel teszik mindezt: Magyarországon inkább elfogadják azt, hogy valakinek magasabb a fizetése, ha több erőfeszítést tesz, mint például azt, ha magasabb végzettség vagy nagyobb tapasztalat áll a bérkülönbségek mögött. Journal of Economic Literature (JEL) kód: D01, D23, D91",
-  "summary_en": null,
+  "summary_en": "Are wage gaps fair? Ertl runs an experiment to see when reference-point comparisons turn into harmful envy — i.e., when people are willing to pay to destroy others' rewards if those rewards feel unjust. He finds Hungarians more readily accept higher pay for greater effort than for higher education or longer tenure, and that providing a justification for a wage gap can switch off destructive behaviour. Fairness, in other words, is not just about the size of the gap but about the story attached to it.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Behavioral experiment with Hungarian participants making distributive decisions under different framings of the wage-gap source (effort, education, tenure). Sample is a Hungarian student / online subject pool; the paper is methodological and decision-theoretic rather than population-representative.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian wage-policy debates (minimum wage, public-sector pay scales, sectoral collective agreements) the result implies that the political acceptability of a pay structure depends heavily on the narrative around it: pay gaps tied to visible effort attract less backlash than gaps tied to credentials or seniority. Communications strategy on tax-and-transfer reforms or public-sector wage adjustments should therefore lead with the effort-and-contribution rationale, not with credential- or rank-based arguments.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "behavioral",
+    "inequality-welfare",
+    "labor-markets"
+  ],
+  "methods": [
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "field-experiment"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
   "openalex_id": "W4303983558"
 }

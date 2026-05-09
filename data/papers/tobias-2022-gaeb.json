@@ -16,19 +16,26 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "When does a strategic-form game fail to admit a Nash equilibrium? Tóbiás studies generalised games — games where each player's feasible action set depends on others' actions — and identifies the topological conditions on action correspondences under which non-existence of equilibrium becomes generic. The paper extends the standard Glicksberg / Reny existence results and provides counter-examples showing the limits of the existence-theorem toolkit.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper in game theory. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Foundational theoretical input for any policy analysis that relies on Nash-equilibrium predictions in environments with constrained-strategy interactions — coalition-formation games, capacity-constrained auctions, network-formation games used in industrial-policy modelling. The paper's non-existence results warn against blind application of equilibrium-existence results in models with action-dependent feasible sets.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "mechanism-design",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-20",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
   "openalex_id": "W4284989887"
 }

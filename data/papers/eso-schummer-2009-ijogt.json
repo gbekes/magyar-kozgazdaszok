@@ -17,19 +17,26 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "In standard signalling models, deviations from equilibrium are 'punished' by off-path beliefs that may not be credible. Eső and Schummer apply credibility refinements to signalling games and identify which deviations survive belief restrictions that require beliefs to be best-responses to plausible play. The paper sharpens the equilibrium-selection toolkit for signalling games and yields predictions that depart from the standard Spence-style benchmark in identifiable ways.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper in non-cooperative game theory. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Background theoretical input for any policy analysis based on signalling models — labour-market signalling, financial disclosure, advertising. The paper informs the equilibrium-selection assumptions made when assessing policies (e.g., disclosure mandates, certification schemes) that work through signalling channels.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "mechanism-design",
+    "behavioral"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
   "openalex_id": "W2120779234"
 }

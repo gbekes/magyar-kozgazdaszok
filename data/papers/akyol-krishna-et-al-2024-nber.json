@@ -18,19 +18,34 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "Turkey's centralised university entrance exam shows a persistent gender gap in placement: women place less well than their scores predict. Akyol, Krishna and co-authors estimate students' preferences using a structural model and find that the gap is driven mostly by women's preferences, not by lower scores. They then compare two policy fixes: stipend subsidies for women vs. score bonuses. Score subsidies hit men with similar scores and help higher-income women, while stipend subsidies help women at little cost to men and channel benefits to lower-income women.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Administrative data from the Turkish nationwide university entrance and placement system, including students' exam scores, ranked preference lists, and final placements; structural estimation of preferences over programmes and subsequent counterfactual policy simulations.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly relevant to Hungarian higher-education admissions (felvi.hu, ITM tertiary admissions reform): suggests that closing gender gaps in programme-level placement is better tackled through stipend subsidies than through score bonuses, because the stipend route does not displace male students at the margin and reaches lower-income women. Also a useful template for any future Hungarian audit of gendered placement outcomes in centralised allocation systems.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "education-skills",
+    "inequality-welfare",
+    "market-design"
+  ],
+  "methods": [
+    "structural"
+  ],
+  "countries_studied": [
+    "TR"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-21",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4403875803"
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4403875803",
+  "policy_instruments": [
+    "score bonuses",
+    "stipend subsidies",
+    "centralised admissions"
+  ]
 }

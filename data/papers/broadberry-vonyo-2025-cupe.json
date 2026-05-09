@@ -17,19 +17,30 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "Broadberry and Vonyó analyse the economic impact of the Allied blockade of Germany during the First World War — an under-quantified episode in WWI economic history. Using national-accounts series, trade volumes, and food-supply data they estimate output and consumption losses for Germany and Britain across the war years. The chapter argues the blockade contributed substantially to Germany's collapse in 1918 through the food and raw-materials channels, while exacting a smaller but non-trivial cost on Britain. [Cambridge UP volume chapter; abstract not publicly available — title-based summary, verification recommended.]",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Historical national-accounts series for Germany and Britain 1914–1919 (Maddison Project, Bundesarchiv, UK Treasury), trade-volume data, and contemporary food-supply records. No econometric estimation; the analysis is quantitative-historical.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Indirectly relevant for current EU and Hungarian foreign-policy debates on economic statecraft and sanctions design: the historical case quantifies how raw-materials and food-supply blockades translate into measurable output losses, which speaks to current EU sanction-package design vis-à-vis Russia and to assessments of Hungarian energy dependencies.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "macroeconomics",
+    "trade-fdi"
+  ],
+  "methods": [
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "DE",
+    "GB"
+  ],
+  "data_types": [
+    "historical",
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-24",
-  "last_reviewed_at": "2026-04-24",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
   "openalex_id": "W7120010634"
 }

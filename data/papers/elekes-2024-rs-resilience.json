@@ -2,21 +2,35 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "",
-  "summary_en": null,
+  "summary_en": "Why do some regions bounce back from shocks while others do not? Elekes maps inter-industry labour flows across 72 Swedish local labour markets and asks which network features predict resilience to negative shocks. He finds that regions with more diverse, skill-related cross-industry flows recover faster: the network of where workers can plausibly move when their sector falters is itself an economic asset, separate from the region's industrial mix.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Swedish administrative microdata (LISA-type registers) on annual worker–establishment matches, used to construct inter-industry labour-flow networks at the local-labour-market level for 72 Swedish regions. Resilience proxies built from regional employment trajectories around shocks.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Useful frame for Hungarian county-level economic-development plans and EFRE programming: resilience to plant closures, sectoral shocks, or trade reversals depends on how easily local workers can rotate across related industries. For Hungary's mono-industry regions (e.g., automotive clusters in Győr / Kecskemét, agro-processing in Békés), the policy lever isn't only sectoral subsidies but active fostering of skill-adjacent industries that workers could plausibly move into.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "regional-urban",
+    "labor-markets",
+    "firms-productivity"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "SE"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-27",
-  "last_reviewed_at": "2026-05-02",
-  "review_status": "metadata-fetched",
-  "policy_instruments": [],
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "regional industrial policy",
+    "active labour-market programmes",
+    "smart-specialisation"
+  ],
   "working_paper_series": null,
   "pages": null,
   "issue": null,

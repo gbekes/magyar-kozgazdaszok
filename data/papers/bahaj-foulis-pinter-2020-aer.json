@@ -18,11 +18,11 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "How big is the link between the housing market and small-firm investment? Bahaj, Foulis and Pintér use UK micro-data to show that a £1 rise in the home value of a firm's directors lifts the firm's wage bill by about 3p, with similar effects on investment and employment, and the mechanism is collateral: directors borrow against their homes to fund their businesses. Aggregate house-price swings therefore feed directly into corporate behaviour through entrepreneurs' personal balance sheets.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "UK firm–director linked microdata combining Companies House director records, individual property holdings via the Land Registry, and firm financials. Identification exploits within-director and within-region variation in residential house prices.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Speaks directly to Hungarian SME credit and housing-market policy. Many Hungarian small-business owners pledge homes as collateral; macroprudential changes from the MNB (LTV / DSTI tightening) and Garantiqa-style state guarantees therefore have a second-order effect on the corporate sector that is rarely modelled. Suggests Hungarian SME-finance interventions (széchenyi-kártya, MFB programmes) should be evaluated against the home-collateral channel, not just bank-credit metrics.",
   "policy_relevance_hu": null,
   "topics": [
     "banking-finance",
@@ -30,17 +30,23 @@
     "regional-urban"
   ],
   "methods": [
-    "iv",
-    "panel-data"
+    "panel-data",
+    "iv"
   ],
   "countries_studied": [
     "GB"
   ],
   "data_types": [
-    "admin-firm"
+    "admin-firm",
+    "admin-individual"
   ],
   "featured": false,
   "added_at": "2026-05-07",
-  "last_reviewed_at": "2026-05-07",
-  "review_status": "metadata-fetched"
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "LTV / DSTI macroprudential limits",
+    "credit guarantee schemes",
+    "SME finance"
+  ]
 }

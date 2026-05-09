@@ -18,14 +18,15 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "Hungarian firms borrowed heavily in foreign currency before the 2008 crisis; once the forint depreciated, many defaulted. Ongena, Schindele and Vonnák use Hungarian credit-registry data to ask which firms were most likely to default on FX loans, separating exchange-rate exposure, balance-sheet vulnerability, and bank-side risk-management practices. The paper provides a granular picture of FX-loan default determinants in a crisis episode that became the textbook case for emerging-market currency mismatch.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian credit-registry data linking firm-level loan terms (currency, maturity, interest rate) to borrowers' balance-sheet characteristics around the 2008 crisis. Default events tracked at the loan level. [Author summary based on the published title and known author work; the full abstract is not publicly accessible — verification by the editor against the published paper is recommended.]",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for Hungarian financial-stability policy (MNB macroprudential framework, household and SME FX-exposure rules) and for emerging-market peers facing renewed dollarisation. The case study underpinned the post-2010 Hungarian FX-loan policy package (forintosítás for households, FX-loan restrictions for SMEs); the paper provides the empirical foundation linking firm-level FX exposure to default risk that remains central to macroprudential calibration.",
   "policy_relevance_hu": null,
   "topics": [
     "banking-finance",
+    "macroeconomics",
     "transition-postcommunist"
   ],
   "methods": [
@@ -39,6 +40,10 @@
   ],
   "featured": false,
   "added_at": "2026-05-03",
-  "last_reviewed_at": "2026-05-03",
-  "review_status": "metadata-fetched"
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "FX-loan macroprudential rules",
+    "credit-registry oversight"
+  ]
 }

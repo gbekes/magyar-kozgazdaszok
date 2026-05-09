@@ -16,19 +16,31 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "Halpern reviews how EU accession functioned as a transition-acceleration instrument for the Central-Eastern European member states, drawing on the Hungarian experience as the running example. The chapter argues that the accession conditionality bundle (acquis adoption, single-market access, structural funds) compressed reform timelines that would otherwise have taken decades, but also created new dependencies on EU policy frameworks and FDI inflows. [Book-chapter survey; abstract not publicly available — title-based summary, verification recommended.]",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian and CEE macroeconomic series (output, FDI, trade openness) and qualitative review of EU accession-conditionality milestones. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Useful background reading for Hungarian EU-policy strategy (KKM, NGM EU Funds department): frames why EU membership has been net-positive for Hungary on growth and reform speed, and identifies the dependencies (FDI reliance, EU-fund concentration in selected sectors) that current Hungarian policy debates over the 'New Era' agenda are trying to renegotiate.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "transition-postcommunist",
+    "macroeconomics",
+    "trade-fdi"
+  ],
+  "methods": [
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "HU",
+    "CEE",
+    "EU"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
   "openalex_id": "W4246598854"
 }

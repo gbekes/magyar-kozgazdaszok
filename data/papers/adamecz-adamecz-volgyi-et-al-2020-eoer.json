@@ -19,19 +19,34 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "Many universities use 'first in family' (FiF) status as a target for widening-participation efforts, but is it actually picking out the disadvantaged? Adamecz-Völgyi and co-authors use nationally representative English data linked to administrative records to test the indicator's predictive power for both university entry and graduation, with parametric (logit) and non-parametric (random forest) models. They find FiF is a substantial barrier to entry and graduation, over and above other measures of disadvantage, working through the channel of early educational attainment. The indicator earns its place in widening-participation policy.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "England's Next Steps longitudinal survey (the cohort followed from age 13/14) linked to the National Pupil Database administrative records on schooling and to higher-education enrolment / completion records. Models compare FiF against family-income, parental-education, and free-school-meals indicators.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Speaks directly to Hungarian and EU widening-participation policy (ITM HE strategy, OFI policy briefs, EU Structural Funds equity targets): suggests Hungarian universities and the OH should formally collect first-in-family status at admission and use it as a stand-alone equity target rather than relying on parental-income measures alone. The English evidence is portable in framing, but Hungarian validation against KIR / felvi data is recommended before policy adoption.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "education-skills",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "panel-data",
+    "ml-text"
+  ],
+  "countries_studied": [
+    "GB"
+  ],
+  "data_types": [
+    "admin-individual",
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3005102829"
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3005102829",
+  "policy_instruments": [
+    "widening-participation targets",
+    "needs-based university admissions"
+  ]
 }

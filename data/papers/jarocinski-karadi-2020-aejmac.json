@@ -17,27 +17,32 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "Central-bank announcements are a cocktail: they convey both a monetary-policy shift and the central bank's view of the economic outlook. Jarociński and Karádi separate the two using sign restrictions on co-movements between policy rates and stock prices, and find that the 'information shock' component is large — failing to disentangle it produces puzzling apparent expansions after rate hikes. Once decomposed, monetary tightening behaves the way textbooks predict, and the information channel is itself a quantitatively important driver of asset prices and activity.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "High-frequency surprises around US Federal Reserve and European Central Bank announcements (intraday futures and equity index movements) embedded in a structural VAR with sign restrictions to separate monetary from information shocks.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct interest for the MNB and Hungarian-economy forecasters: when interpreting ECB or MNB rate announcements, ignoring the information component leads to systematically wrong forecasts of credit, FX, and activity responses. For Hungarian banks and policymakers analysing ECB communications about the eurozone — which feed straight into Hungarian sovereign yields and corporate credit conditions — separating the policy and information shocks is a first-order practical step.",
   "policy_relevance_hu": null,
   "topics": [
-    "macroeconomics",
-    "banking-finance"
+    "banking-finance",
+    "macroeconomics"
   ],
   "methods": [
     "time-series"
   ],
   "countries_studied": [
-    "US"
+    "US",
+    "EU"
   ],
   "data_types": [
     "macro-aggregate"
   ],
   "featured": false,
   "added_at": "2026-05-07",
-  "last_reviewed_at": "2026-05-07",
-  "review_status": "metadata-fetched"
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "monetary-policy communication",
+    "high-frequency identification"
+  ]
 }

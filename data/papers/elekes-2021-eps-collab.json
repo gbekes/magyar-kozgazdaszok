@@ -2,21 +2,35 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "",
-  "summary_en": null,
+  "summary_en": "Inventor collaborations across European regions are usually one-shot — only a small fraction of co-inventor pairs collaborate again. Elekes asks what makes a collaboration repeat. Using EPO patent data on co-inventors across NUTS-3 regions, he finds that geographic proximity, prior personal ties, and similarity in technological profile all raise repeat-collaboration probability, but the effects are concentrated in regions outside the European core. Peripheral regions rely on stickier inventor relationships to access knowledge from the core.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "European Patent Office (EPO) patent data, geocoded to NUTS-3 regions, restricted to co-inventor pairs spanning multiple regions. Repeat-collaboration is identified within multi-year windows; estimation uses logit models with region-pair fixed effects.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for Hungarian and EU regional R&D policy (NKFIH, Horizon Europe, EFRE smart-specialisation): the paper shows that for peripheral regions like most of Hungary outside Budapest, durable inventor relationships are more important for absorbing core-region knowledge than fresh introductions. Programme design should therefore prioritise repeat-collaboration funding instruments over one-off matchmaking — relevant for ITM's industry–academia linkage scheme and EFRE-funded R&D vouchers.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "innovation-digital",
+    "regional-urban",
+    "firms-productivity"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "EU"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
   "featured": false,
   "added_at": "2026-04-27",
-  "last_reviewed_at": "2026-05-02",
-  "review_status": "metadata-fetched",
-  "policy_instruments": [],
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "smart-specialisation funding",
+    "Horizon Europe collaborative grants",
+    "R&D vouchers"
+  ],
   "working_paper_series": null,
   "pages": null,
   "issue": null,

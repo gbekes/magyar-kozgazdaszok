@@ -16,26 +16,33 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "Demographics shape the housing market in slow-burning ways. Takáts uses cross-country panel data to show that ageing populations exert a measurable downward pull on real house prices: as the share of working-age population falls relative to retirees, demand for owner-occupation declines and house-price growth slows. The paper provides a quantitative estimate of the demographic drag on real house prices and projects how it will play out across major OECD economies over coming decades.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Cross-country panel of OECD economies covering several decades, with national house-price indices, demographic shares (working-age vs. retired), and standard housing-market controls (interest rates, income, urbanisation). Panel fixed-effects estimation with country and year effects.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for Hungarian housing and pension policy (BM lakáspolitika, NGM, MNB Pénzpiaci Tanács): Hungary's projected demographic ageing implies a multi-decade headwind to real house-price growth, with knock-on effects on household-wealth distribution and on the calibration of macroprudential housing-market rules. Provides a quantitative benchmark for stress-testing long-run housing-market scenarios in Hungarian central-bank reports.",
   "policy_relevance_hu": null,
   "topics": [
     "demographics-migration",
-    "macroeconomics",
-    "regional-urban"
+    "regional-urban",
+    "macroeconomics"
   ],
   "methods": [
-    "panel-data"
+    "panel-data",
+    "time-series"
   ],
-  "countries_studied": [],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [
     "macro-aggregate"
   ],
   "featured": false,
   "added_at": "2026-05-03",
-  "last_reviewed_at": "2026-05-03",
-  "review_status": "metadata-fetched"
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "housing market policy",
+    "macroprudential housing rules"
+  ]
 }

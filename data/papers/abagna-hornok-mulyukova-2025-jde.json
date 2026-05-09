@@ -18,19 +18,35 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "Special Economic Zones (SEZs) are a popular development tool, but do they raise household welfare or just shuffle activity around? Abagna, Hornok and Mulyukova use household-level data from across Africa and the staggered rollout of SEZs to show clear gains in household wealth in the immediate vicinity of new zones, with positive effects fading as one moves outward. The paper isolates the place-based mechanism — local labour-market and amenity spillovers — rather than just measuring zones' production output.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Geo-coded household survey data (DHS) for African countries combined with the timing and locations of Special Economic Zones, used in an event-study / difference-in-differences design exploiting variation in SEZ designation across time and space.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct interest for Hungarian regional and FDI policy, including the operations of Hungarian-designated free zones and industrial parks (HIPA, MFB-supported industrial estates): the paper supports the case that SEZs can deliver welfare gains for nearby households, but also flags spatial decay — zones lift the immediate area while leaving more distant communities behind. For a small economy, choosing zone locations is a regional-equity decision as much as an investment-promotion one.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "regional-urban",
+    "trade-fdi",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "diff-in-diff",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
+  "data_types": [
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-25",
-  "last_reviewed_at": "2026-05-02",
-  "review_status": "metadata-fetched",
-  "openalex_id": null
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
+  "openalex_id": null,
+  "policy_instruments": [
+    "Special Economic Zones",
+    "industrial parks",
+    "FDI promotion"
+  ]
 }

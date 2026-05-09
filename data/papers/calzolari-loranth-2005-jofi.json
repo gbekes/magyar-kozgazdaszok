@@ -17,19 +17,31 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "How should regulators handle banks operating across multiple countries — through subsidiaries, branches, or cross-border lending? Calzolari and Lóránth model the choice of supervisory architecture (home-country vs. host-country supervision) when banks face deposit-insurance and capital-requirement rules in each jurisdiction. They characterise when host-country supervision dominates (information advantages) vs. home-country (avoidance of duplicative compliance), and identify the deposit-insurance design that aligns each model's incentives.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper. No primary dataset; the analysis is a contract-theoretic model of multi-jurisdictional banking supervision.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Useful theoretical input for European Banking Union debates and for the MNB's role within the SSM (Single Supervisory Mechanism): the paper formalises why the SSM's hybrid home-host-supervisor structure can dominate either pure regime, and identifies the deposit-insurance design (EDIS) needed to align incentives. Directly relevant for Hungarian central-bank decisions about euro adoption and full SSM participation.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "banking-finance",
+    "industrial-organization"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2101177648"
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2101177648",
+  "policy_instruments": [
+    "banking supervision architecture",
+    "deposit insurance design",
+    "Banking Union"
+  ]
 }

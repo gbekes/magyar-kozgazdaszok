@@ -2,21 +2,34 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "",
-  "summary_en": null,
+  "summary_en": "When demand shifts away from one of a multi-product firm's products, how does the firm reallocate production? Lőrincz uses Hungarian firm-product data to show that firms shift production toward technologically related products in their existing portfolio — they exploit shared inputs and know-how — rather than toward the firm's most profitable lines. Relatedness, not profitability, is what governs short-run reallocation; firms behave like recombiners of capability rather than pure profit-maximisers within the production menu.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian firm-level product-output micro-data (likely PRODCOM-linked customs / PRODCOM panel) covering multi-product manufacturing firms, with year-on-year tracking of within-firm product-mix change. Relatedness measured between product pairs from co-production patterns.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Useful for Hungarian industrial and innovation policy (ITM, NKFIH, county smart-specialisation strategies): firms respond to demand shocks by moving along a 'capability graph', not by rebalancing toward the most profitable product. For active industrial policy this implies that helping firms diversify into related products (skill-adjacent retooling grants) is more likely to be taken up than nudging firms toward unrelated high-margin products.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "firms-productivity",
+    "innovation-digital",
+    "industrial-organization"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
   "featured": false,
   "added_at": "2026-04-27",
-  "last_reviewed_at": "2026-05-02",
-  "review_status": "metadata-fetched",
-  "policy_instruments": [],
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "industrial diversification grants",
+    "smart-specialisation"
+  ],
   "working_paper_series": null,
   "pages": null,
   "issue": null,

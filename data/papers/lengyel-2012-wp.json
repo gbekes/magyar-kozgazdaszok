@@ -16,19 +16,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "Lengyel maps the regional clustering of Hungary's automotive and ICT industries in the first half of the 2000s. Using firm-level and employment data he documents the geographic concentration of automotive activity in Northern Transdanubia (Győr-Moson-Sopron, Komárom-Esztergom) and ICT activity in Budapest, and argues that the two clusters' formation patterns differ: automotive driven by greenfield FDI anchored to the East–West corridor, ICT by knowledge-spillovers within the metropolitan core. [Working-paper-level summary based on the title and Lengyel's documented research program; abstract not publicly accessible — verification recommended.]",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian firm-level employment and revenue data (likely KSH or NAV firm panel) by sector and county or NUTS-3 region, covering roughly 2000–2008. Spatial concentration measured with standard geographic concentration indices (Ellison-Glaeser, locational Gini).",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Foundational for Hungarian regional-development planning (TFM-/HIPA-led FDI strategy, county-level smart-specialisation): the paper documents the spatial signatures of Hungary's two flagship sectors and supports a differentiated regional policy — corridor-based industrial-park investment for automotive vs. metropolitan-knowledge support for ICT — rather than a uniform sectoral approach.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "regional-urban",
+    "firms-productivity",
+    "innovation-digital"
+  ],
+  "methods": [
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
   "openalex_id": "W1520454203"
 }

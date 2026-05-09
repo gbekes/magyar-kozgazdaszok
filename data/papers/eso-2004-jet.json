@@ -16,19 +16,30 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "The classic optimal-auction theorem of Myerson assumes risk-neutral, independently-valued bidders. Eső extends this to environments where bidders' values are correlated and bidders are risk-averse, characterising the optimal mechanism in this richer setting. He shows that the seller can extract additional surplus from correlated information by tying transfers to other bidders' reports, but that risk aversion limits how aggressively this can be done — an interaction that yields cleaner predictions for empirically relevant auction environments.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper. No primary dataset; the result is a generalisation of Myerson's optimal auction to correlated values and risk-averse bidders.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Foundational theory for auction-based public procurement (KEFI, EU TED tenders) and spectrum / energy-market auctions (NMHH spectrum allocation, MEKH electricity auctions): when bidders are plausibly risk-averse and have correlated valuations — the realistic case — the textbook risk-neutral mechanism leaves money on the table. The paper provides the theoretical apparatus for designing auctions that better capture this.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "mechanism-design",
+    "market-design"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2125263285"
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2125263285",
+  "policy_instruments": [
+    "auction-based public procurement",
+    "spectrum auctions"
+  ]
 }

@@ -18,24 +18,25 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "The Borda count voting rule scores candidates by how voters rank them — but is it manipulable? Barbie, Puppe and Tasnádi characterise the preference domains over which the Borda count is non-manipulable, i.e., on which strategic misreporting cannot improve a voter's outcome. They identify the domain restrictions that immunise Borda from individual manipulation and show how restrictive these conditions are relative to the standard universal-domain framework.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper in social choice. No primary dataset; results are formal characterisation theorems.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Theoretical input to the design of voting and committee-decision rules in EU and Hungarian institutions (parliamentary committee voting, public-procurement scoring panels, Eurovision-style ranking aggregations). Practical implication: Borda-count style scoring is robust only on restricted preference domains — a relevant caveat for procurement scoring committees that aggregate evaluator rankings.",
   "policy_relevance_hu": null,
   "topics": [
     "mechanism-design",
-    "political-economy",
-    "methods"
+    "political-economy"
   ],
   "methods": [
     "theory"
   ],
-  "countries_studied": [],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-05-03",
-  "last_reviewed_at": "2026-05-03",
-  "review_status": "metadata-fetched"
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted"
 }

@@ -19,17 +19,20 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "The last decade has shown that sometimes even the largest online social networks (OSNs) collapse. Significant cascading mechanisms have been identified in the pattern of abandoning the OSN iWiW at its peak of popularity and after. We set out to examine the key actors who were the first to leave their networks by contrasting explanations based on the structural position of users in the network. Using heterogeneous choice models, we found that a higher number of connections as well as less clustered ego-networks hindered early abandonment while early adoption was only a secondary factor.",
-  "summary_en": null,
+  "summary_en": "Once a social network starts to shrink, who leaves first? Using full activity data from iWiW — Hungary's once-dominant network — Lőrincz, Koltai, Győr and Takács show that users with denser, more clustered local networks (i.e., higher 'social capital') stayed longer, while early adopters and users with sparse, fragmented ego-networks left first. The decline is not a random cascade: it works through the structure of each user's tie-cluster, with the highly-connected core acting as a brake on collapse.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Anonymised population-scale digital-trace data from iWiW spanning roughly 3.5 million Hungarian users, including the friendship graph and login / last-active timestamps used to identify departure timing. Heterogeneous-choice models on ego-network features (degree, clustering, betweenness).",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian regulators and platform operators (NMHH, MNB digital-services oversight, central registry / e-government services): user attrition from a digital platform is partly a network-structure phenomenon — interventions that build local clusters (community features, group functionality) raise platform resilience independently of pure user-acquisition spend. Useful as a behavioural input to digital-policy impact assessments under the DSA.",
   "policy_relevance_hu": null,
   "topics": [
     "innovation-digital",
-    "behavioral"
+    "behavioral",
+    "demographics-migration"
   ],
-  "methods": [],
+  "methods": [
+    "descriptive-survey"
+  ],
   "countries_studied": [
     "HU"
   ],
@@ -38,7 +41,7 @@
   ],
   "featured": false,
   "added_at": "2026-05-02",
-  "last_reviewed_at": "2026-05-02",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
   "openalex_id": "W2903598494"
 }

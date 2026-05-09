@@ -2,20 +2,30 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "",
-  "summary_en": null,
+  "summary_en": "How do people perceive their own position in the income distribution, and how does that perception relate to actual inequality? Cervone, Gáspár and co-authors propose a 'twofold-subjective' Gini coefficient that combines respondents' perceived ladder-position with their guesses about the distribution shape. Using survey data from many countries they show this twofold measure tracks objective inequality more closely than earlier single-question subjective Ginis, and uncovers systematic differences in how rich and poor respondents misperceive the distribution.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "International survey data on respondents' perceived income position (ladder-rung self-placement) and beliefs about the shape of the income distribution; comparison with WIID / SWIID / OECD measures of objective Gini coefficients across countries.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Useful methodological input for Hungarian inequality-perception surveys (KSH attitudes module, ESS Hungary) and for any government communication on inequality / redistribution policy: subjective inequality measures matter for political support of tax-and-transfer reforms, and the paper provides a sharper tool for measuring them. Particularly relevant for the design of Hungarian KSH survey modules on perceived welfare position.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "inequality-welfare",
+    "behavioral",
+    "methods"
+  ],
+  "methods": [
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
+  "data_types": [
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-27",
-  "last_reviewed_at": "2026-05-02",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
   "policy_instruments": [],
   "working_paper_series": null,
   "pages": null,

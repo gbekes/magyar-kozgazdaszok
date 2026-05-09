@@ -18,11 +18,11 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "Does stock-market liquidity affect activist investors' willingness to intervene in poorly governed firms? Norli, Østergaard and Schindele argue that more liquid stocks reduce the cost of building a stake quietly, letting activists trade ahead of their interventions to recoup costs. They show empirically that 13D filings and activist campaigns are concentrated in liquid stocks and that more liquid targets see larger price reactions on filing dates, consistent with the trading-profits theory.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "US data on Schedule 13D filings (large-stake disclosures used by activists), matched with daily stock-market liquidity measures (Amihud illiquidity, bid–ask spread, volume). Event-study analysis of cumulative returns around filing dates, with liquidity as the cross-sectional moderator.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Speaks to BÉT (Budapest Stock Exchange) and MNB capital-markets policy: lifting liquidity in Hungarian listed names is not only a market-microstructure issue but a corporate-governance one — illiquid markets discourage activist monitoring of underperforming firms. Useful for arguments in favour of incentives that raise free-float liquidity (block-trading rules, market-making subsidies, expanded analyst coverage requirements) on BÉT.",
   "policy_relevance_hu": null,
   "topics": [
     "banking-finance",
@@ -39,6 +39,10 @@
   ],
   "featured": false,
   "added_at": "2026-05-03",
-  "last_reviewed_at": "2026-05-03",
-  "review_status": "metadata-fetched"
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "13D disclosure rules",
+    "stock-market liquidity policy"
+  ]
 }

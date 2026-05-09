@@ -16,19 +16,35 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "Why do some places benefit from R&D spillovers more than others? Lychagin develops a model where the magnitude of received spillovers depends on each location's absorptive capacity (its own R&D and skilled-labour stock). Using US data on patents, citations, and inventor mobility he estimates that absorptive capacity meaningfully amplifies the productivity gains from being near R&D-intensive cities, and quantifies the extent to which agglomeration economies in innovation work through this channel. [Author summary based on the published title and Lychagin's documented research focus; full JUE abstract not publicly accessible — verification recommended.]",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "US patent micro-data (USPTO), inventor-mobility records, and metropolitan-area R&D and skilled-labour stocks; spillover estimation by spatial models with absorptive-capacity interaction terms.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Useful for Hungarian regional R&D policy (NKFIH, EU Structural Funds smart-specialisation): the absorptive-capacity result implies that R&D subsidies have higher returns in regions with existing skilled-labour stocks, and weaker returns in regions without. For Hungary this argues against spreading R&D money thinly across counties and in favour of concentrating it in Budapest, Debrecen and a small set of secondary university hubs.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "innovation-digital",
+    "regional-urban",
+    "firms-productivity"
+  ],
+  "methods": [
+    "panel-data",
+    "structural"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
   "featured": false,
   "added_at": "2026-04-21",
-  "last_reviewed_at": "2026-04-21",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3125226257"
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3125226257",
+  "policy_instruments": [
+    "R&D tax credits",
+    "smart-specialisation",
+    "regional innovation subsidies"
+  ]
 }

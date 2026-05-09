@@ -17,22 +17,26 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "Cake-cutting — fairly dividing a divisible good among agents — is the canonical fair-division problem. Segal-Halevi and Sziklai study competitive equilibria in cake-cutting markets and ask when a small change in agents' preferences leads to a smooth (monotone) change in the equilibrium allocation. They identify the preference and divisibility conditions under which equilibrium is monotone, and exhibit examples where small preference perturbations cause discontinuous reallocations.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper. No primary dataset; results are formal characterisations of equilibrium properties in cake-cutting markets.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Theoretical foundation for fair-division mechanisms used in inheritance and divorce settlements, EU regional-budget allocation, and equitable-distribution rules in privatisation episodes. Practical takeaway for any policy that cuts an indivisible-but-shareable resource (broadcast spectrum, EU agricultural quotas): monotonicity of the allocation rule matters for predictability when underlying valuations shift.",
   "policy_relevance_hu": null,
   "topics": [
     "mechanism-design",
-    "methods"
+    "market-design"
   ],
-  "methods": [],
-  "countries_studied": [],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-26",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
   "openalex_id": "W2790207794"
 }

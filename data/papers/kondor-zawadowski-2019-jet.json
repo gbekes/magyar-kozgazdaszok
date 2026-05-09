@@ -17,19 +17,27 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "How does competition between investors affect the efficiency of capital allocation? Kondor and Zawadowski model investors who learn flexibly about other entrants in the same market, and show that crowding can both speed up and impair information flows. When too many investors target the same opportunity the resulting overcrowding worsens capital allocation and depresses welfare; when entry is moderate it accelerates capital deployment. The result links a microeconomic learning channel to aggregate efficiency, and has clean welfare implications for limits on entry.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper. No empirical data; analysis uses a continuum-of-investors model with flexible learning.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Useful framing for Hungarian and EU asset-management regulation (MNB / ESMA): the paper provides a microfoundation for thinking about whether limits on the number of competing funds in narrow markets — e.g., emerging-market sovereign debt, Hungarian forint government securities, niche corporate-credit segments — could improve allocative efficiency. Also relevant for designing entry rules in venture-capital and growth-equity markets.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "banking-finance",
+    "industrial-organization",
+    "mechanism-design"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-21",
-  "last_reviewed_at": "2026-04-21",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
   "openalex_id": "W2521671571"
 }

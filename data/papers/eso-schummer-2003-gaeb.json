@@ -17,19 +17,31 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "Real-world second-price auctions are vulnerable to side payments: a high-value bidder can offer a competitor a bribe to drop out. Eső and Schummer model bribing and signalling in this setting and characterise when communication between bidders pre-bid is destabilising vs. when it is benign. The paper provides a microfoundation for why second-price auctions, despite their textbook revenue-equivalence properties, can perform worse than first-price auctions in environments where pre-bid bidder communication is feasible.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for Hungarian public-procurement integrity policy (Állami Számvevőszék, Integritás Hatóság, GVH): the paper supports the case for first-price (sealed-bid) over second-price designs in tender environments where pre-bid communication between bidders cannot be reliably prevented — a recurring concern in Hungarian construction and IT-procurement tenders.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "mechanism-design",
+    "industrial-organization",
+    "political-economy"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-19",
-  "last_reviewed_at": "2026-04-19",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2125102323"
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2125102323",
+  "policy_instruments": [
+    "sealed-bid procurement",
+    "anti-collusion auction design"
+  ]
 }

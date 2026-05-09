@@ -2,21 +2,36 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "",
-  "summary_en": null,
+  "summary_en": "Does crop insurance actually help farms — or do well-managed farms simply buy more of it? Baráth, Bokusheva and Fertő use Hungarian farm-level data to disentangle this two-way link, finding that crop insurance use raises farms' technical efficiency once the joint determination is accounted for. Insurance therefore looks like a productive input under financial constraints, not just a passive buffer: farms with credit pressure benefit more from being insured.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian farm-accountancy data (Tesztüzemi rendszer / FADN-style panel) covering several years, with per-farm information on insurance take-up, output, inputs, and financial position. Estimation uses simultaneous-equation / efficiency models to address reverse causality.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for Hungarian agricultural policy (AM, MVH agri-payments) and CAP risk-management instruments: results support continued public co-financing of crop insurance premiums and suggest it should be targeted at credit-constrained farms, where the productivity payoff is largest. Also useful for designing the Hungarian National Risk Management System (NKKR) and EU Pillar-II CAP envelopes.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "agriculture-food",
+    "firms-productivity",
+    "banking-finance"
+  ],
+  "methods": [
+    "panel-data",
+    "iv"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-27",
-  "last_reviewed_at": "2026-05-02",
-  "review_status": "metadata-fetched",
-  "policy_instruments": [],
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "crop insurance subsidies",
+    "CAP Pillar II",
+    "Hungarian NKKR"
+  ],
   "working_paper_series": null,
   "pages": null,
   "issue": "4",

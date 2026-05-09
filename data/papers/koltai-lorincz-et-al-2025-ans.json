@@ -19,17 +19,20 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Our social lives consist of various circles, such as family, friends, and colleagues. Differences in norms and expectations among these circles can create tension in large online social networks (OSNs) due to blurred boundaries. It is unclear whether this phenomenon, known as context collapse, outweighs the convenience of having diverse communities in one place for OSN users. To explore this trade-off, we examined if ego network characteristics indicating context collapse could explain users' decisions to leave iWiW, a defunct Hungarian OSN with over 3.5 million active users at its peak.",
-  "summary_en": null,
+  "summary_en": "Why did iWiW — Hungary's once-dominant social network with 3.5 million users — collapse? Koltai, Lőrincz, Wachs and Takács argue that 'context collapse' was a major culprit: when family, friends and colleagues all live in the same online space, blurred norms create tension that outweighs the convenience of one platform. Using full-network data on iWiW users they show that ego-network features capturing context collapse predict who left first, on top of the well-documented cascade-from-the-edge dynamic.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Anonymised digital trace data from iWiW covering its 3.5-million-user Hungarian user base, including friendship ties and login activity over the platform's decline. Ego-network metrics (diversity, audience overlap) constructed from the friendship graph; departure dates inferred from last-login records.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Useful for Hungarian and EU digital-platform policy debates (DSA implementation, KSH digital surveys, NMHH platform regulation): platform stability isn't only a competition or network-effect issue — design choices that aggregate audiences across life domains can themselves drive churn. For policymakers worried about user lock-in or sudden platform exits (banking apps, e-government portals), the paper offers a behavioral lens beyond the standard network-effects story.",
   "policy_relevance_hu": null,
   "topics": [
     "innovation-digital",
-    "behavioral"
+    "behavioral",
+    "demographics-migration"
   ],
-  "methods": [],
+  "methods": [
+    "descriptive-survey"
+  ],
   "countries_studied": [
     "HU"
   ],
@@ -38,7 +41,7 @@
   ],
   "featured": false,
   "added_at": "2026-05-02",
-  "last_reviewed_at": "2026-05-02",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
   "openalex_id": "W4412070078"
 }

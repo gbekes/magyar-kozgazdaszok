@@ -18,22 +18,26 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "In stable matching problems — the algorithm behind kidney-exchange and school-choice systems — the standard theory assumes full matchings exist. Biró, Cechlárová and Fleiner study what happens when only a 'half-matching' (some agents partially matched) is feasible and ask how the dynamics of partner-swapping evolve toward a stable outcome. The paper extends the classical Gale–Shapley framework to settings where rejection cascades are common and characterises convergence of the resulting dynamic process.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper. No primary dataset; results are derived analytically for the stable-marriage and stable-roommates problems.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Underpins the design of matching mechanisms used in real-world Hungarian and EU allocation problems — kidney-exchange networks (where Hungary participates in EU programmes), school-place allocation, residency matching for medical graduates. The dynamic-stability results inform robustness of these mechanisms when not all agents can be matched in equilibrium.",
   "policy_relevance_hu": null,
   "topics": [
     "mechanism-design",
-    "methods"
+    "market-design"
   ],
-  "methods": [],
-  "countries_studied": [],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-26",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
   "openalex_id": "W2057990406"
 }

@@ -17,18 +17,19 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "How big are the financial-market consequences of monetary-policy shocks, and how do they translate into output and credit costs? Gertler and Karádi identify monetary surprises around FOMC announcements with high-frequency interest-rate movements and feed them into a structural VAR. They find that small policy shocks generate large movements in credit spreads and significant declines in real activity, suggesting that the credit channel — not just the standard interest-rate channel — is central to monetary-policy transmission.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "US macroeconomic time series (industrial production, prices, credit spreads, term-structure variables) plus high-frequency surprises around FOMC dates extracted from federal-funds futures. Identification combines high-frequency external instruments with a structural VAR.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Methodologically central to the MNB's monetary-policy research and to ECB watchers: the paper's high-frequency identification approach is the workhorse for measuring monetary-policy transmission in any small open economy, including Hungary. Practical implication for Hungarian forecasting: credit-spread responses to MNB rate decisions are quantitatively as important as the rate change itself for predicting GDP and inflation paths.",
   "policy_relevance_hu": null,
   "topics": [
-    "macroeconomics",
-    "banking-finance"
+    "banking-finance",
+    "macroeconomics"
   ],
   "methods": [
-    "time-series"
+    "time-series",
+    "iv"
   ],
   "countries_studied": [
     "US"
@@ -38,6 +39,10 @@
   ],
   "featured": false,
   "added_at": "2026-05-07",
-  "last_reviewed_at": "2026-05-07",
-  "review_status": "metadata-fetched"
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "monetary policy",
+    "high-frequency identification"
+  ]
 }

@@ -18,11 +18,11 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "Privatising state-owned enterprises by listing them on the stock exchange feeds new shares into the market — but does it actually improve overall stock-market liquidity? Boubakri, Cosset and Schindele use a cross-country panel of privatisation events to show that privatisation IPOs are associated with measurable improvements in domestic market liquidity, with effects largest in markets where pre-privatisation liquidity was thin. The paper documents one of the indirect benefits of privatisation programmes that is rarely captured in standard cost-benefit analyses.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Cross-country panel of privatisation IPO events with associated daily stock-market liquidity measures (turnover, bid–ask spread, Amihud illiquidity) over the post-privatisation window. Identification compares pre- vs. post-privatisation liquidity conditional on market and firm controls.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Useful background for Hungarian state-asset disposal strategy (MNV, ÁKK, BÉT listing policy) and EU debates over re-privatising state stakes acquired during the COVID era. The liquidity-spillover argument supports IPO-based privatisation over private-sale auctions when the policy goal is to deepen domestic capital markets — directly relevant for any future MOL or Magyar Telekom-style large privatisation on the Budapest exchange.",
   "policy_relevance_hu": null,
   "topics": [
     "banking-finance",
@@ -32,12 +32,18 @@
   "methods": [
     "panel-data"
   ],
-  "countries_studied": [],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [
-    "firm-level-dataset"
+    "macro-aggregate"
   ],
   "featured": false,
   "added_at": "2026-05-03",
-  "last_reviewed_at": "2026-05-03",
-  "review_status": "metadata-fetched"
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "IPO-based privatisation",
+    "stock-market development policy"
+  ]
 }

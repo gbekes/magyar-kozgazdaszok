@@ -2,20 +2,31 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "In order to analyze the role of limited commitment and preference heterogeneity in explaining the consumption allocation, I propose a theoretical and empirical framework to estimate and evaluate a risk-sharing model where insurance transfers have to be self-enforcing and the coefficient of relative risk aversion may depend on observable household characteristics. I compare this model to benchmark models with full commitment and/or without preference heterogeneity using data from three Indian villages. I find that the limited commitment model with heterogeneous preferences outperforms the benchmark models in a statistical sense and in terms of (i) explaining the dynamic response of consumption to idiosyncratic income shocks, (ii) accounting for the variation of consumption unexplained by household and time effects, and (iii) capturing the variation of inequality across time and villages and predicting changes in inequality. I also use the estimated models to predict the effects of a counterfactual tax and transfer policy on the consumption allocation. The limited commitment model with preference heterogeneity predicts larger benefits to the poor than its homogeneous counterpart. (JEL: C52, D10, D52)",
-  "summary_en": null,
+  "summary_en": "How well does the textbook 'limited commitment' model of risk sharing fit village data once you allow households to differ in how risk-averse they are? Laczó estimates the model structurally on data from three Indian ICRISAT villages and finds that adding heterogeneous risk preferences makes the limited-commitment model fit consumption dynamics, residual variation, and inequality movements better than benchmark alternatives. Counterfactuals show that a tax-and-transfer policy delivers larger gains to the poor than a homogeneous-preference model would predict.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "ICRISAT village panel data on three Indian villages (Aurepalle, Shirapur, Kanzara), with household-level consumption, income, and demographic information used in a structural risk-sharing estimation.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance is to development risk-sharing programmes (informal insurance, MGNREGA-style transfers in India). For Hungarian policymakers the methodological lesson is more important: when designing transfer programmes (családi adókedvezmény, energy-price subsidy targeting), assuming a single representative risk preference can substantially understate the gains to poorer households — heterogeneous-risk-preference models matter for distributional impact assessment.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "inequality-welfare",
+    "behavioral",
+    "fiscal-tax"
+  ],
+  "methods": [
+    "structural",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "IN"
+  ],
+  "data_types": [
+    "survey"
+  ],
   "featured": false,
   "added_at": "2026-04-27",
-  "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
   "policy_instruments": [],
   "working_paper_series": null,
   "pages": null,

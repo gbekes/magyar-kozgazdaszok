@@ -16,19 +16,32 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "Standard public-finance models of redistribution close the economy. Tóbiás analyses optimal income redistribution when capital and skilled labour can move across borders, and shows that international tax competition substantially compresses the redistribution intensity that any one country can sustain. The optimal national tax-transfer schedule depends jointly on domestic preferences for redistribution and the elasticity of mobile bases — a quantitatively meaningful constraint that pure-domestic models miss.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper in optimal taxation. No primary dataset; results are derived analytically from a multi-country mobile-factor optimal-tax problem.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for Hungarian tax-policy debate (NGM, ECOFIN coordination): the paper provides the analytical case for why Hungary's redistributive ambitions are constrained by tax competition with neighbouring CEE economies (capital-tax competition, the OECD Pillar-2 minimum-tax debate, mobile high-skilled labour). Useful framework for thinking about the Pillar-2 minimum-tax effects on Hungarian fiscal-policy room.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "fiscal-tax",
+    "trade-fdi",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2182631550"
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2182631550",
+  "policy_instruments": [
+    "personal income tax",
+    "capital tax",
+    "OECD Pillar-2 minimum tax"
+  ]
 }

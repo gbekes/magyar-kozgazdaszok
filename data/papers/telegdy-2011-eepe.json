@@ -16,19 +16,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "Chapter in 'Handbook on International Corporate Governance – Country Analyses, Second Edition' (Edward Elgar 2011). Surveys the structure of corporate ownership and governance in Hungary, including privatization legacies and post-2008 developments. No publisher-side chapter abstract available.",
-  "summary_en": null,
+  "summary_en": "Telegdy surveys the structure of corporate ownership and governance in Hungary in this 2011 country chapter for the Edward Elgar Handbook on International Corporate Governance. He traces the legacy of the 1990s privatisation programme — wide dispersion of ownership in the immediate post-transition period followed by progressive concentration into domestic and foreign blockholders — and reviews the evidence on the link between ownership type and firm performance, board structure, minority-shareholder protection, and the impact of the 2008 crisis on Hungarian listed and unlisted firms.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Narrative chapter drawing on Hungarian firm-registry data, BÉT (Budapest Stock Exchange) listings, secondary literature on the Hungarian privatisation programme, and Telegdy's own published work on Hungarian corporate ownership and performance up to 2010.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Background reading for any Hungarian corporate-governance reform (FM/IM company-law amendments, BÉT listing-rules updates, MNB stewardship guidance): summarises what is known about how privatisation choices in the 1990s shaped today's ownership concentration and how that concentration interacts with firm performance. Also relevant for state-asset management (MNV) decisions about when to dispose of remaining state stakes.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "firms-productivity",
+    "transition-postcommunist",
+    "banking-finance"
+  ],
+  "methods": [
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "firm-level-dataset"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
   "openalex_id": "W2255014736"
 }

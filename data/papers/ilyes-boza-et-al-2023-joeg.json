@@ -19,11 +19,11 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "The aim of this article is to analyze the contribution of social ties to moving to high-opportunity locations and assess whether their effect is more pronounced for low-income individuals as a compensation for economic resources. This is done by utilizing Swedish administrative data and by focusing on a wide range of relationships (observed directly or inferred from the data): close and distant family ties, former co-workers and university peers. For estimating the effect of social ties, we use linear probability models, where observed migration is regressed on individual-specific and target-specific characteristics.",
-  "summary_en": null,
+  "summary_en": "Moving to a high-opportunity place — a city with better wages and jobs — is one of the standard prescriptions for upward mobility. But who actually pulls it off? Ilyés, Boza, Lőrincz and Eriksson use Swedish administrative data to show that close family ties to a destination roughly double the probability of moving there, and the boost is largest for low-income individuals — ties partly substitute for missing economic resources. Distant family, former co-workers and former classmates also help, but less than close kin.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Swedish population-level administrative microdata linking individuals' addresses, incomes, employer histories and educational records, used to reconstruct close-family, distant-family, former-coworker and university-peer ties. Analysis is at the individual level over a multi-year window; estimation uses linear probability models.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Shapes Hungarian regional and labor mobility policy: simply raising wages in Budapest is not enough to attract workers from depressed counties if they have no social anchor there. Suggests complementing mobility subsidies (utazási hozzájárulás, housing support) with active brokering — formalised mentor / first-co-worker programmes. Important caveat: the evidence is from Sweden, where the welfare state cushions moves; effects may be larger or smaller in Hungary.",
   "policy_relevance_hu": null,
   "topics": [
     "regional-urban",
@@ -41,7 +41,7 @@
   ],
   "featured": false,
   "added_at": "2026-05-02",
-  "last_reviewed_at": "2026-05-02",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
   "openalex_id": "W4284959352"
 }

@@ -2,21 +2,35 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "",
-  "summary_en": null,
+  "summary_en": "Which inter-firm relationships persist over time and which disappear? Lőrincz analyses a population-scale network of Hungarian business-to-business transactions and ownership ties and finds that transaction relationships are persistent in a structured way: they cluster geographically, run within rather than across industries, and are reinforced by ownership ties between buyer and seller. The paper documents the link structure of the Hungarian inter-firm economy and provides a baseline for later work on contagion, supply-chain disruptions, and policy targeting.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Population-scale Hungarian business-to-business transaction data (likely NAV invoice / VAT-control records) combined with firm-ownership records, used to construct a longitudinal inter-firm network. Analysis at the firm-pair level over multiple years.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Foundational for Hungarian economic-policy questions where inter-firm structure matters: supply-chain resilience after shocks (energy-price spike, Russia-Ukraine disruption), targeted SME finance via bank loan guarantees, monitoring tax-evasion networks (NAV operations), and competition-policy assessment of vertical relationships. Provides the empirical map a Hungarian policymaker needs to reason quantitatively about contagion in real-world inter-firm linkages.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "firms-productivity",
+    "industrial-organization",
+    "regional-urban"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
   "featured": false,
   "added_at": "2026-04-27",
-  "last_reviewed_at": "2026-05-02",
-  "review_status": "metadata-fetched",
-  "policy_instruments": [],
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "supply-chain monitoring",
+    "VAT enforcement",
+    "competition policy"
+  ],
   "working_paper_series": null,
   "pages": null,
   "issue": null,

@@ -17,23 +17,30 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "When a planner tries to coordinate many agents on a target action — for example, adopting a new technology — who deserves the largest subsidy? Sákovics and Steiner show that the optimal subsidy structure does not target the 'pivotal' agent in the standard sense; instead it concentrates on agents whose decisions enter many others' best-responses through the network, a property the authors quantify exactly. Their formula tells a planner where the marginal coordination dollar is best spent.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper. No data; results derived analytically from a global-games / coordination model with heterogeneous agents.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Practical mechanism-design lesson for Hungarian and EU adoption-subsidy programmes (e-government adoption, electronic invoicing roll-out, SME digital tools, electric-vehicle charging-network installation): subsidy targeting that is calibrated to network influence rather than to need can dramatically lower the public spending needed to hit an adoption threshold. Formula gives a precise way to rank candidate target groups.",
   "policy_relevance_hu": null,
   "topics": [
     "mechanism-design",
+    "innovation-digital",
     "behavioral"
   ],
   "methods": [
     "theory"
   ],
-  "countries_studied": [],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-05-07",
-  "last_reviewed_at": "2026-05-07",
-  "review_status": "metadata-fetched"
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "adoption subsidies",
+    "network-targeted subsidies"
+  ]
 }

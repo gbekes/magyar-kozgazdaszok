@@ -18,19 +18,32 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "Governments can support entrepreneurs in two contrasting ways: guaranteeing the loans private banks make, or directly co-funding the projects with public capital. Arping, Lóránth and Morrison model the trade-off and show that credit guarantees are preferable when the bank screens projects well (the public sector free-rides on bank diligence), while co-funding dominates when banks have limited screening incentive. The paper provides a clean theoretical map for choosing between two policy levers that look interchangeable in practice but generate different equilibrium screening incentives.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper. No primary dataset; the analysis is a contract-theoretic model of entrepreneur–bank–government interaction.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly relevant to Hungarian SME and start-up support policy (Garantiqa, MFB credit guarantee programmes, Széchenyi Tőkebefektetési Alap, EXIM): the paper provides the analytical case for using guarantees in established lending markets where banks already screen well, and co-funding in earlier-stage segments where screening is weak. Useful for ITM / NGM choice between the Garantiqa-style guarantee mix and direct equity-fund expansion.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "banking-finance",
+    "firms-productivity",
+    "innovation-digital"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2164023083"
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2164023083",
+  "policy_instruments": [
+    "credit guarantees",
+    "public co-investment funds",
+    "SME finance instruments"
+  ]
 }

@@ -19,25 +19,32 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "Are stakeholder-oriented firms — those that prioritise workers, communities, suppliers — viable in competitive markets? Ferrell, Liang, Renneboog and Schindele study Norwegian savings banks, where deregulation forced cooperative banks to compete head-to-head with shareholder banks. They find that banks embedded in localities with high social capital exited the market less often, suggesting social capital substitutes for the governance benefits of shareholder ownership. Stakeholder-oriented firms aren't doomed in competitive settings; community ties partly do the work of share prices.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Population data on Norwegian savings banks across the deregulation period, linked to municipality-level social-capital indicators (associational density, voter turnout, blood-donation rates). Identification compares exit hazards before and after deregulation, conditional on local social capital.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Useful for Hungarian and EU debate on cooperative-bank regulation, member-owned credit unions and social-economy enterprises (Magyar Vidék Hitelszövetkezet legacy, EU social-economy strategy): the paper supports the policy case that stakeholder-oriented finance can survive deregulation in places with strong civil-society networks, weakening arguments that cooperative banks must always be merged or demutualised. Caveat: results are Norway-specific.",
   "policy_relevance_hu": null,
   "topics": [
     "banking-finance",
-    "firms-productivity"
+    "firms-productivity",
+    "behavioral"
   ],
   "methods": [
     "panel-data"
   ],
-  "countries_studied": [],
+  "countries_studied": [
+    "NO"
+  ],
   "data_types": [
     "firm-level-dataset"
   ],
   "featured": false,
   "added_at": "2026-05-03",
-  "last_reviewed_at": "2026-05-03",
-  "review_status": "metadata-fetched"
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "cooperative bank regulation",
+    "social-economy policy"
+  ]
 }

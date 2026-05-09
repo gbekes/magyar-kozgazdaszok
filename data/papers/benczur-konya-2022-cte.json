@@ -17,19 +17,31 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "Why have some Central-Eastern European countries converged toward the EU income frontier and others stalled? Benczúr and Kónya frame the question in this 'Contributions to Economics' volume chapter by tracing the post-1990 growth experience of CEE economies and arguing that the convergence engine — capital deepening, FDI-led productivity gains, and integration into European value chains — has been losing steam in the 2010s. The chapter calls for a renewed productivity agenda focused on domestic capabilities rather than further FDI dependence. [Chapter-level summary; the volume does not publish a public abstract — verification recommended.]",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Macroeconomic time-series for CEE economies (national accounts, AMECO / Eurostat productivity data) covering roughly 1990–2020. Growth-accounting decomposition into factor-accumulation and TFP components.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Useful background for Hungarian competitiveness strategy debate (MNB Competitiveness Report, ITM industrial strategy, NGM medium-term plans): supports the case that Hungary cannot reach the EU productivity frontier purely on FDI-driven assembly, and that the next decade's policy agenda needs to lift domestic-firm productivity (R&D, management practices, scale-up financing).",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "macroeconomics",
+    "transition-postcommunist",
+    "firms-productivity"
+  ],
+  "methods": [
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "HU",
+    "CEE",
+    "EU"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
   "openalex_id": "W4210899548"
 }

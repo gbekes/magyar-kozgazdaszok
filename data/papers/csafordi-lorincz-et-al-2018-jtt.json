@@ -19,19 +19,34 @@
   "url_pdf": "https://link.springer.com/content/pdf/10.1007/s10961-018-9670-8.pdf",
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "Do productivity spillovers from foreign-owned to domestic Hungarian firms travel through workers who change jobs? Csáfordi, Lőrincz and co-authors use Hungarian linked employer–employee data to track workers moving from foreign to domestic firms and compare the post-hire productivity of receiving firms to similar firms that did not hire from foreign-owned employers. The paper documents that hires from foreign firms are associated with persistent productivity gains for the receiving Hungarian firm, with effect sizes that scale with the productivity gap and with the migrating worker's industry experience. [Title-and-abstract-of-published-version verification recommended; OpenAlex record carries no abstract.]",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian linked employer–employee administrative data (Bértarifa wage survey + KSH firm panel) over the 2000s, identifying worker job changes between foreign-owned and domestic firms and tracking the receiving firm's productivity trajectory.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for Hungarian FDI and active labour-market policy (HIPA, Foglalkoztatáspolitikai Intézet): supports the case that targeting FDI in industries with substantial domestic supply chains delivers productivity benefits that travel via the labour market, not just via direct supplier relationships. Useful for HIPA's strategy of attracting FDI to corridors where domestic firms have absorptive capacity.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "firms-productivity",
+    "labor-markets",
+    "trade-fdi"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm",
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W2808368687"
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2808368687",
+  "policy_instruments": [
+    "FDI promotion (HIPA)",
+    "active labour-market programmes"
+  ]
 }

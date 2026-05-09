@@ -17,24 +17,33 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "Quantitative easing and central-bank balance-sheet expansion looked like emergency-only tools in 2008–9. Gertler and Karádi build a dynamic stochastic general-equilibrium model with financial intermediaries facing balance-sheet constraints and show that, when private credit markets are impaired, central-bank credit-policy interventions (purchasing assets, lending against collateral) can substantially offset the resulting contraction in output and inflation. The paper provided the first widely-cited DSGE microfoundation for unconventional monetary policy and helped reframe QE as a standard counter-cyclical instrument.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical / quantitative paper. No primary dataset; the model is calibrated to standard US macroeconomic moments and used to simulate counter-factual policy experiments around the 2008 crisis.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly relevant for the MNB and ECB-watching Hungarian analysts when evaluating unconventional monetary-policy programmes (MNB Funding for Growth, FX swap-line operations, asset-purchase schemes): the framework is the workhorse for assessing whether QE-style interventions are quantitatively meaningful in a small open economy. Practical lesson: the size of the gain depends on how binding intermediaries' balance-sheet constraints are — a setting parameter that needs to be calibrated to Hungary specifically.",
   "policy_relevance_hu": null,
   "topics": [
-    "macroeconomics",
-    "banking-finance"
+    "banking-finance",
+    "macroeconomics"
   ],
   "methods": [
     "theory",
     "structural"
   ],
-  "countries_studied": [],
-  "data_types": [],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-05-07",
-  "last_reviewed_at": "2026-05-07",
-  "review_status": "metadata-fetched"
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "unconventional monetary policy",
+    "asset-purchase programmes",
+    "central-bank credit policy"
+  ]
 }

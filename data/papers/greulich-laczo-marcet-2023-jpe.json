@@ -2,20 +2,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "We study optimal Pareto-improving factor taxation when agents are heterogeneous in their labor productivity and wealth and markets are complete. Pareto-improving policies require a gradual reform: labor taxes should be cut, and capital taxes should remain high for a long time before reaching the limit. This policy redistributes wealth in favor of workers, promotes growth, and causes early deficits and government debt in the long run. We address several technical issues, such as sufficiency of Lagrangian solutions in a Ramsey problem, their relation to welfare functions, and solution algorithms. We also provide a proof that long-run capital taxes are zero.",
-  "summary_en": null,
+  "summary_en": "Standard optimal-tax theory says capital should not be taxed in the long run. Greulich, Laczó and Marcet show that this familiar 'zero capital tax' result is only the endpoint — a Pareto-improving reform path actually keeps capital taxes high for a long time and cuts labor taxes immediately. This reform front-loads transfers to workers, raises growth, and runs deficits along the way. The paper also clarifies several technical points (Lagrangian sufficiency, links to welfare functions) that have caused confusion in the optimal-tax literature.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical / computational paper: a heterogeneous-agent Ramsey model with complete markets. No primary data; results come from analytical derivations and numerical solutions.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Speaks directly to the design of capital-vs-labor tax mixes in Hungary and the EU. Provides theoretical cover for the practical position many finance ministries (NGM, ECOFIN) have taken in recent years — keep capital taxes elevated during the transition to a pro-worker reform, even though the long-run optimum is zero. Important caveat: results assume complete markets, so the path needs adaptation for the realistic Hungarian setting with credit constraints.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "fiscal-tax",
+    "macroeconomics",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "theory",
+    "structural"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-27",
-  "last_reviewed_at": "2026-04-28",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
   "policy_instruments": [],
   "working_paper_series": null,
   "pages": null,

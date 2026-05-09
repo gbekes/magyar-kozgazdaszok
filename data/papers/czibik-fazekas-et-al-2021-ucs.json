@@ -19,19 +19,33 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "Public defence procurement is exposed to particular corruption risks: classified specifications, narrow supplier pools, and high deal sizes. Czibik, Fazekas and co-authors construct corruption-risk scores for European defence-procurement contracts and analyse them as a network linking buyers, suppliers, and shared agents. They identify clusters of contracts with elevated risk profiles and document cross-border patterns in how risk concentrates within supplier-agent networks. [Volume-chapter summary; abstract not publicly available — verification recommended.]",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "TED (Tenders Electronic Daily) European public-procurement micro-data restricted to defence-related contracts, augmented with corruption-risk indicators (single-bidder rates, calls-for-tender wording, anomalous contract values) and constructed buyer-supplier-agent networks.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant to Hungarian public-procurement integrity policy (Állami Számvevőszék, Integritás Hatóság) and EU defence-procurement governance (DG DEFIS, EDA): the network-based risk-score methodology is directly applicable to Hungarian public tenders, where Fazekas and colleagues have shown elevated risk indicators. Defence procurement is a particular policy hotspot given Hungarian rearmament programmes and EU defence-fund allocations.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "political-economy",
+    "industrial-organization"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "EU"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
   "featured": false,
   "added_at": "2026-04-23",
-  "last_reviewed_at": "2026-04-23",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3204942860"
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3204942860",
+  "policy_instruments": [
+    "public-procurement integrity rules",
+    "EU TED transparency",
+    "defence-procurement governance"
+  ]
 }

@@ -17,19 +17,29 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "Are election-eve polling errors themselves predictable? Khan and Lieli look at the 2008 Obama–Clinton Democratic primary and show that, yes, prediction-market prices contain information that helps forecast the *errors* of polls. Both cross-sectional and time-series tests indicate prediction-market prices process information faster than polls, and that media-coverage volume is a useful additional input. The result challenges the common assumption that polls are an unbiased baseline.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "2008 US Democratic Party primary state-by-state daily data on (i) prediction-market prices on Intrade, (ii) opinion-poll vote shares aggregated from major pollsters, and (iii) media-coverage volume from text counts. Identification uses Granger-causality and cross-sectional regression of poll-error on lagged market prices.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "For Hungarian election-forecasting, communication research, and any government / NMHH analysis that uses polling as input: the paper supports treating poll-based forecasts as systematically lagged information and combining them with market-style or media-volume data when calibrating expectations. Caveat: setting is a US primary, where prediction markets are mature; Hungarian prediction-market data is much thinner.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "political-economy",
+    "behavioral",
+    "methods"
+  ],
+  "methods": [
+    "time-series"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "digital-trace"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
   "openalex_id": "W2460126745"
 }

@@ -16,19 +16,27 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "Kónya's 'The Neoclassical Growth Model' is a textbook-style chapter that lays out the Solow / Ramsey framework as the backbone for analysing long-run growth. The chapter walks through the model's mechanics, the convergence implications, and the calibration choices required to match emerging-economy data, with a particular focus on how to use the framework for Hungarian and CEE growth diagnostics. [Pedagogical chapter; no separate research abstract — listed in the catalogue for completeness as background to Kónya's published work.]",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Pedagogical / theoretical chapter. No primary data; numerical illustrations may use OECD or Penn World Table aggregates.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Background reference for Hungarian growth-diagnostic exercises (MNB Competitiveness Report, NGM medium-term plans, MFB strategic studies). Useful as a framing device when communicating to non-economist policymakers why Hungary's catch-up growth slows as the capital–labour ratio rises and why total factor productivity becomes the binding constraint at higher income levels.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "macroeconomics",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "HU",
+    "CEE"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
   "openalex_id": "W2784827090"
 }

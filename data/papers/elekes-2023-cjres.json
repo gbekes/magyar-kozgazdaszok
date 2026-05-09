@@ -2,21 +2,35 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "",
-  "summary_en": null,
+  "summary_en": "Can workers in low-wage regions move into high-paying jobs without leaving their region? Elekes uses Swedish administrative micro-data to track individual workers across jobs over time and finds that local access to skill-related, high-wage occupations — i.e., to industries that draw on overlapping skills — substantially raises the probability of escaping low-wage employment. Pure regional growth helps less than the *composition* of the local labour market: a related-variety upgrade is the key mover.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Swedish population-level administrative microdata linking individuals' annual employment, occupation, wage, and residence over a multi-year window. Skill-relatedness between occupations measured from labour-flow patterns; analysis of low-to-high-wage transitions at the worker level.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Concrete input to Hungarian regional and labour-market policy: rather than chasing every kind of inward investment, planners should value FDI and re-skilling programmes that build *related* industries on top of an existing local skill base. For ITM industrial-strategy and EFRE smart-specialisation Hungary should map county-level skill-relatedness and prioritise sectors that are skill-adjacent to current local employment, not greenfield sectors with no skill bridge.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "regional-urban",
+    "labor-markets",
+    "firms-productivity"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "SE"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
   "featured": false,
   "added_at": "2026-04-27",
-  "last_reviewed_at": "2026-05-02",
-  "review_status": "metadata-fetched",
-  "policy_instruments": [],
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "smart-specialisation",
+    "regional FDI targeting",
+    "active labour market programmes"
+  ],
   "working_paper_series": null,
   "pages": null,
   "issue": null,

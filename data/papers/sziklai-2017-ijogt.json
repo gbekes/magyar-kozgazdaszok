@@ -16,22 +16,26 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "How do you identify experts when their inputs are noisy and their domain unverifiable? Sziklai develops a game-theoretic framework where evaluators rank candidates based on track record, and the framework characterises the conditions under which the resulting ranking reliably surfaces true experts. He shows that simple seniority or popularity rules can fail, while peer-nomination weighted by network position is robust under conditions he characterises explicitly.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper in mechanism design. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Useful theoretical framework for Hungarian and EU policy environments where expert panels matter — research-grant evaluation (NKFIH, MTA committees), regulatory advisory boards, parliamentary expert hearings, EU project review panels. The paper's results suggest specific weighting rules for peer-nomination processes that improve the likelihood of identifying genuine experts versus politically-connected nominees.",
   "policy_relevance_hu": null,
   "topics": [
     "mechanism-design",
-    "methods"
+    "political-economy"
   ],
-  "methods": [],
-  "countries_studied": [],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-26",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
   "openalex_id": "W2194552882"
 }

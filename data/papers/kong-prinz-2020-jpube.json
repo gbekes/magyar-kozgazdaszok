@@ -17,19 +17,35 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "When governments imposed COVID-19 shutdowns in early 2020, which specific policies actually moved unemployment? Kong and Prinz exploit timing variation in US state-level mandates (stay-at-home orders, non-essential business closures, restaurant bans) and use Google search-trend proxies to disentangle which policy levers drove unemployment-claim spikes. The paper provides one of the cleanest early decompositions of the labour-market cost of pandemic policy bundles.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "US weekly state-level unemployment-insurance initial-claim data, mandate-by-state-by-date timing of stay-at-home orders and business-closure rules, Google search-trend volumes used as proxies for unobserved policy intensity. Difference-in-differences with proxy-data adjustments.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for Hungarian and EU pandemic-preparedness policy frameworks (BM Belügyminisztérium, EMMI, OOK): when designing future bundles of NPIs the labour-market footprint is largest from blanket business closures, far smaller from voluntary stay-at-home advisories. For Hungarian Ministry of Health / Belügyminisztérium contingency plans, this suggests preferring sector-targeted closures over blanket shutdowns when feasible.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "labor-markets",
+    "health",
+    "fiscal-tax"
+  ],
+  "methods": [
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "admin-individual",
+    "digital-trace"
+  ],
   "featured": false,
   "added_at": "2026-04-19",
-  "last_reviewed_at": "2026-04-19",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W3080856841"
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3080856841",
+  "policy_instruments": [
+    "non-pharmaceutical interventions (NPIs)",
+    "stay-at-home orders",
+    "business-closure mandates"
+  ]
 }

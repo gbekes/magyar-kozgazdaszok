@@ -16,19 +16,26 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "How do agents process new information when their cognitive resources are limited? Tóbiás develops a unified epistemological framework that nests Bayesian updating, bounded-rationality models, and ambiguity-averse processing as special cases. The paper provides axioms identifying each special case and shows that several apparent anomalies in observed information-processing — over-reaction to salient news, under-reaction to abstract data — emerge naturally from the unified model.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper. No primary dataset; the analysis is an axiomatic decision-theory framework.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Theoretical input for Hungarian and EU consumer-finance disclosure policy (MNB Pénzügyi Fogyasztóvédelem, EU PRIIPs Regulation): the framework provides a principled way to predict which disclosures will and won't shift consumer choices, depending on whether the disclosure stresses salient features (over-reacted-to) or abstract numbers (under-reacted-to). Useful theoretical underpinning for evidence-based disclosure design.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "behavioral",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-20",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
   "openalex_id": "W3047286693"
 }

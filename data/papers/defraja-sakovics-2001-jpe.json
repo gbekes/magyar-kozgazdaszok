@@ -17,23 +17,25 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "How does the standard competitive-equilibrium price emerge from real, decentralised trading? De Fraja and Sákovics extend the textbook bargaining-foundation result by allowing each trader to interact simultaneously with several traders on the other side of the market — instead of being matched to one. They show that, contrary to the literature's earlier finding, the Walrasian price re-emerges in the limit even with this richer matching structure, providing a cleaner microfoundation for competitive prices.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper. No data; results from a strategic bargaining model with simultaneous multi-partner matching.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "A foundational paper for thinking about market design in settings where buyers and sellers are not paired one-to-one — e.g., procurement auctions where bidders submit to multiple buyers, online platforms with simultaneous offers, and labour-market matching. Useful background for Hungarian public-procurement reform and electricity-market design (MEKH wholesale auction rules) where decentralised, simultaneous-interaction trading is the norm.",
   "policy_relevance_hu": null,
   "topics": [
     "mechanism-design",
-    "industrial-organization"
+    "market-design"
   ],
   "methods": [
     "theory"
   ],
-  "countries_studied": [],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-05-07",
-  "last_reviewed_at": "2026-05-07",
-  "review_status": "metadata-fetched"
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted"
 }

@@ -16,19 +16,26 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "In game-theoretic analyses of social interaction, agents have both shared common knowledge and private pooled knowledge. Tóbiás studies how these two types of information interact and provides a formal characterisation of when pooled knowledge can be aggregated to common knowledge through communication, and when an information friction prevents this. The paper sharpens the formal toolkit for analysing institutions that aim to convert private into public information — committees, juries, peer-review panels.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper in game theory. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Background theoretical input for Hungarian institutional design (research-grant peer review, parliamentary committee deliberation, BÉT disclosure rules): the paper helps identify when committee structures can aggregate dispersed private information into common knowledge that supports collective decisions, and when they cannot.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "mechanism-design",
+    "behavioral"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-20",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
   "openalex_id": "W3165150463"
 }

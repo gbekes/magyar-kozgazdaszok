@@ -2,20 +2,28 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": "This article studies the effect of limited commitment on sorting when two sides of a frictionless market form pairs to share risk. On each side, agents are identical except for their risk preferences. First, we provide analytical results when transfers do not condition on the history of shocks. More risk-averse agents can commit to larger transfers, as long as their consumption is less risky than their endowment. With sufficiently large idiosyncratic risk and sufficient discounting of the future, matching is positive assortative, unlike under full commitment. Second, we find positive-assortative stable matchings when transfers are history dependent, using a numerical algorithm.",
-  "summary_en": null,
+  "summary_en": "When two people pair up to share risk — for example, in marriage or a business partnership — and neither can commit to staying in the deal forever, who pairs up with whom? Gierlinger and Laczó show that under limited commitment more risk-averse partners can pledge larger transfers because their resulting consumption is smoother than their own income. With enough idiosyncratic shocks and patient agents, the stable matching is positive-assortative — risk-averse pairs with risk-averse, risk-tolerant with risk-tolerant — the opposite of what full commitment predicts.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper plus a numerical algorithm to find stable matchings when transfers are history-dependent. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Relevant for thinking about insurance and risk-pooling institutions where exit is costly but possible: informal village risk-sharing in development settings; partnership and marriage contracts; and, more practically, peer-group lending and mutual-insurance designs. Suggests that pooling people with similar risk preferences is more sustainable than mixing them — a counter-intuitive design lesson for community insurance schemes.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "behavioral",
+    "inequality-welfare",
+    "market-design"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-27",
-  "last_reviewed_at": "2026-05-02",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
   "policy_instruments": [],
   "working_paper_series": null,
   "pages": null,

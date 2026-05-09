@@ -17,19 +17,26 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "When two bidders compete simultaneously for three indivisible objects, the geometry of best-response strategies is much richer than in single-object auctions. Szentes and Rosenthal characterise equilibria of three-object two-bidder simultaneous auctions, showing that mixed-strategy equilibria take geometric forms (chopsticks, tetrahedra) that have no counterpart in single-object analysis. The paper expands the theoretical toolkit for multi-object auctions, where most real-world public-procurement bundles live.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper. No primary dataset; the analysis is a complete characterisation of mixed-strategy equilibria in a specific class of multi-object auctions.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Methodological foundation for designing bundled public-procurement auctions (Hungarian energy concessions, EU spectrum-bundle auctions, MEKH gas-distribution awards): the geometric structure of equilibria in simultaneous multi-object auctions has direct implications for whether package bidding raises or lowers expected revenue versus separate sales — a question current Hungarian and EU procurement policy continues to face.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "mechanism-design",
+    "market-design"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
   "openalex_id": "W2136841155"
 }

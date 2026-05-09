@@ -18,25 +18,32 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "The traditional Phillips curve relates domestic inflation to a domestic output gap. But in an open economy, foreign slack can also influence inflation through import prices and competitive pressure. Ferrari, Rogantini and Takáts test whether global output gaps add explanatory power to inflation regressions across advanced economies, and find that the global gap is a quantitatively meaningful driver in addition to the domestic gap — particularly for small open economies. The paper updates the textbook Phillips-curve specification for the era of integrated global goods markets.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Multi-country panel of advanced economies covering several decades, with quarterly inflation rates, domestic output gaps from standard filters, and constructed global output gaps weighted by trade exposure. Panel time-series estimation with country fixed effects.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct relevance for the MNB monetary-policy framework: as a small open economy with high import-content of consumption, Hungarian inflation forecasts should explicitly incorporate global slack alongside the domestic gap. Practical lesson for the MNB Inflation Report: forecast revisions tied to global-cycle developments (eurozone recession risk, US slowdown) should be weighted alongside domestic output gaps in policy-rate-setting.",
   "policy_relevance_hu": null,
   "topics": [
-    "macroeconomics"
+    "macroeconomics",
+    "banking-finance"
   ],
   "methods": [
     "time-series",
     "panel-data"
   ],
-  "countries_studied": [],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [
     "macro-aggregate"
   ],
   "featured": false,
   "added_at": "2026-05-03",
-  "last_reviewed_at": "2026-05-03",
-  "review_status": "metadata-fetched"
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "monetary policy",
+    "inflation forecasting"
+  ]
 }

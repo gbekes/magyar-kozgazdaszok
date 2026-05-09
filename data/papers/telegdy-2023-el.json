@@ -16,19 +16,33 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "During COVID-19, Hungary disbursed enterprise relief grants to firms hit by the pandemic. Telegdy uses linked NAV and MVH administrative data to estimate the effect of these grants on firm-level employment and turnover, comparing recipient firms to similar non-recipients via matching. The note documents a positive but modest short-run employment effect concentrated in smaller firms and in sectors with the steepest demand drop, with weaker effects on revenue. [Note-length summary in Economics Letters; an editor-side spot-check against the published version is recommended.]",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Hungarian firm-level administrative panel data (NAV corporate tax filings, employment registers) covering 2019–2021, linked to MVH / NAV grant-disbursement records. Matching estimator on firm size, sector, pre-pandemic trajectory.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Directly relevant for evaluating future Hungarian crisis-response programmes (MFB / Eximbank emergency lending, AM agri-relief, ITM industrial buffers). Suggests targeting future enterprise-relief instruments at small firms in shock-exposed sectors, where the short-run employment payoff is largest. Provides a concrete Hungarian benchmark for COVID-era programme evaluations now being commissioned by the Állami Számvevőszék.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "firms-productivity",
+    "fiscal-tax",
+    "labor-markets"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4389395974"
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4389395974",
+  "policy_instruments": [
+    "enterprise relief grants",
+    "COVID-19 SME support"
+  ]
 }

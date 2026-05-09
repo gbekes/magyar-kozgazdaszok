@@ -19,19 +19,35 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "How much does building a port — or expanding an existing one — actually do for the surrounding region's economy? Ducruet, Juhász and co-authors compile a long-panel dataset on global port investments and use the staggered timing of major infrastructure projects to estimate effects on local population, employment, and trade volumes. The paper provides one of the first systematic, cross-country quantifications of port-development returns, separating short-run construction effects from long-run trade-cost reductions. [Author summary based on the published title; the full JIE abstract is not publicly accessible — verification recommended.]",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Cross-country, multi-decade panel of global port-infrastructure investments (likely combining World Port Index, AIS shipping data, Lloyds register), linked to local population, employment, and bilateral-trade panels. Identification by staggered difference-in-differences on port-expansion timing.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Useful for Hungarian and CEE infrastructure-strategy debate (KKM, ITM, EU CEF transport corridors): although Hungary is land-locked, the paper's port-development logic translates to inland-port and rail-hub investments (Záhony-Csap intermodal, Budapest-rail-freight corridors) where staggered investment timing creates similar identification opportunities. Methodologically a benchmark for any Hungarian infrastructure-impact evaluation.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
-  "data_types": [],
+  "topics": [
+    "regional-urban",
+    "trade-fdi",
+    "macroeconomics"
+  ],
+  "methods": [
+    "diff-in-diff",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
+  "data_types": [
+    "admin-firm",
+    "macro-aggregate"
+  ],
   "featured": false,
   "added_at": "2026-04-19",
-  "last_reviewed_at": "2026-04-19",
-  "review_status": "metadata-fetched",
-  "openalex_id": "W4400731733"
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4400731733",
+  "policy_instruments": [
+    "transport-infrastructure investment",
+    "EU CEF / TEN-T programmes"
+  ]
 }

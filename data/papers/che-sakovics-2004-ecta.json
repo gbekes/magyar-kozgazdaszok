@@ -17,24 +17,25 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "When two parties make relationship-specific investments and then bargain over how to split the surplus, the famous holdup problem can lead to under-investment. Che and Sákovics put this in a fully dynamic model where investment and bargaining unfold over time. They show that, with sufficiently small bargaining frictions, the holdup problem essentially disappears: parties can invest efficiently because the option to keep negotiating disciplines opportunistic behaviour. The result reframes a long-standing puzzle in contract theory: holdup is a friction problem, not a structural one.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper. No data; results derived analytically from a dynamic bargaining-and-investment game.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Underpins the design of long-term commercial contracts where neither party can credibly commit (infrastructure concessions, R&D joint ventures, supply contracts with relationship-specific capacity). Practical lesson for Hungarian public-procurement framing (KEHI / KFF) and PPP design: keeping renegotiation channels open with low transaction costs reduces under-investment, contrary to the intuition that strict ex-ante contracts are always better.",
   "policy_relevance_hu": null,
   "topics": [
     "mechanism-design",
-    "industrial-organization",
-    "firms-productivity"
+    "industrial-organization"
   ],
   "methods": [
     "theory"
   ],
-  "countries_studied": [],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-05-07",
-  "last_reviewed_at": "2026-05-07",
-  "review_status": "metadata-fetched"
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted"
 }

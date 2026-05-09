@@ -17,19 +17,26 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "Auction theory typically assumes a risk-neutral seller. Eső and Futó relax this and ask how a risk-averse seller (e.g., a small firm or government department for whom the auction outcome matters at the margin) should design the optimal selling mechanism. They show that optimal reserve prices and rationing rules differ systematically from the risk-neutral benchmark, and that ignoring seller risk aversion can lead to badly calibrated public-procurement and asset-sale designs.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Practical input for Hungarian state-asset auctions (MNV property sales, ÁKK debt auctions): when the public-sector seller has tight budget constraints and faces meaningful uncertainty about realised revenue, reserve-price calibration should account for risk aversion rather than assuming risk-neutrality. Useful theoretical underpinning for ÁKK and MNV auction-design choices.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "mechanism-design",
+    "market-design"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
   "openalex_id": "W2054347841"
 }

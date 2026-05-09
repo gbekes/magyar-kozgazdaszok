@@ -16,19 +16,26 @@
   "url_pdf": null,
   "url_replication": null,
   "abstract": null,
-  "summary_en": null,
+  "summary_en": "The Revenue Equivalence Theorem says that a wide class of auctions yields the same expected seller revenue. Szentes shows how equilibrium-preserving transformations of strategies and types let one move between seemingly different auction formats while preserving expected outcomes — providing a unifying framework for revenue-equivalence results that previously required case-by-case proof. The paper offers a single transformation lemma that generates many revenue-equivalence corollaries as special cases.",
   "summary_hu": null,
-  "data_used": null,
+  "data_used": "Theoretical paper in auction theory. No primary dataset.",
   "data_used_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Theoretical foundation for the design of public-procurement auctions and spectrum allocations (KEFI, NMHH, MEKH): clarifies which design choices are revenue-irrelevant under the equivalence conditions and which break it. Practical takeaway for procurement policy: the choice between first-price and second-price designs is revenue-neutral under classical assumptions, but environment-specific deviations can matter substantially.",
   "policy_relevance_hu": null,
-  "topics": [],
-  "methods": [],
-  "countries_studied": [],
+  "topics": [
+    "mechanism-design",
+    "market-design"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [
+    "GLOBAL"
+  ],
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-22",
-  "review_status": "metadata-fetched",
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted",
   "openalex_id": "W2020125313"
 }
