@@ -13,15 +13,22 @@
   "language": "hu",
   "url": "https://real.mtak.hu/121427/",
   "doi": null,
-  "summary_en": null,
+  "summary_en": "Hajdú compiles a statistical report on the health of children in Hungary in the 2010s, covering mortality, low-birth-weight rates, hospitalisation, vaccination coverage, and BMI distributions across age groups and county-level geography. The report sets a quantitative baseline against which subsequent child-health policy interventions can be measured, and surfaces persistent gaps between high-income (Pest, Western Hungary) and low-income (Eastern Hungary, Northeastern counties) regions.",
   "summary_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Direct input for Hungarian child-health policy (EMMI, NEAK, NNK Public Health Centre): the county-level baselines identify priority districts for paediatric public-health interventions, and the time-series trends inform the calibration of national child-health targets. Standard reference for Hungarian child-poverty analyses and EU equity-fund applications targeting child welfare.",
   "policy_relevance_hu": null,
-  "topics": [],
+  "topics": [
+    "health",
+    "demographics-migration",
+    "inequality-welfare"
+  ],
   "countries_studied": [],
-  "policy_instruments": [],
+  "policy_instruments": [
+    "paediatric public-health programmes",
+    "child-poverty interventions"
+  ],
   "linked_paper_id": null,
   "added_at": "2026-04-25",
-  "last_reviewed_at": "2026-04-25",
-  "review_status": "metadata-fetched"
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted"
 }

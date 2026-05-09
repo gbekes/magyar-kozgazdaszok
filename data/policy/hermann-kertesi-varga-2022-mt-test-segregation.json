@@ -15,15 +15,22 @@
   "language": "hu",
   "url": "https://real.mtak.hu/182569/",
   "doi": null,
-  "summary_en": null,
+  "summary_en": "How much of Hungarian primary-school test-score inequality is between-school (i.e., school-segregation-driven) vs. within-school? Hermann, Kertesi and Varga decompose Hungarian primary-school test-score variance using OKM and KIR data and document that between-school variance accounts for an unusually large share of total inequality compared with OECD peers. The chapter pinpoints the school-allocation mechanisms (free choice, six-year-gymnasium selection at age 10, religious-school exit) that drive the elevated between-school component.",
   "summary_hu": null,
-  "policy_relevance": null,
+  "policy_relevance": "Foundational input for Hungarian education-equity policy (BM Köznevelési Stratégia, OFI): supports policy levers that compress the between-school component — restricted free-choice in segregated districts, later track allocation, integration-bonus funding for receiving schools. Quantifies the equity cost of Hungarian-specific institutional choices in a way that is directly comparable to OECD PISA equity rankings.",
   "policy_relevance_hu": null,
-  "topics": [],
+  "topics": [
+    "education-skills",
+    "inequality-welfare"
+  ],
   "countries_studied": [],
-  "policy_instruments": [],
+  "policy_instruments": [
+    "school-catchment rules",
+    "track-allocation age",
+    "integration funding"
+  ],
   "linked_paper_id": null,
   "added_at": "2026-04-25",
-  "last_reviewed_at": "2026-04-25",
-  "review_status": "metadata-fetched"
+  "last_reviewed_at": "2026-05-09",
+  "review_status": "ai-drafted"
 }
