@@ -1,5 +1,5 @@
 ---
-description: Run the catalogue QA sampling harness (25 random spot-checks)
+description: Run the catalogue QA sampling harness (random spot-checks)
 argument-hint: [--seed N]
 ---
 

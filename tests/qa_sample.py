@@ -1,9 +1,10 @@
 #!/usr/bin/env python
 """qa_sample.py — sampling-based content QA for Magyar Közgazdászok.
 
-Picks 25 random items, one per test slot, and reports PASS / FAIL / SKIP
-with a one-line diagnostic. Same 25 test SLOTS every run (T01–T25);
-the items sampled in each slot vary.
+Picks one random item per test slot and reports PASS / FAIL / SKIP
+with a one-line diagnostic. Same set of test SLOTS every run; the
+items sampled in each slot vary. Slot count is whatever's listed in
+run_all() — count is reported at the bottom of each run.
 
 Eligibility filter: every test ignores items whose `review_status` is
 `human-reviewed` or `author-approved`. The point is to spot-check the
@@ -16,7 +17,7 @@ Categories of failure (printed alongside each FAIL):
   - liveness-flag       : external URL or ID didn't resolve
 
 Usage:
-  python tests/qa_sample.py                # run all 25, print to stdout
+  python tests/qa_sample.py                # run all slots, print to stdout
   python tests/qa_sample.py --save         # also write to tests/reports/
   python tests/qa_sample.py --seed 42      # deterministic run
 
@@ -524,6 +525,40 @@ def t24_policy_url(rng):
                   f"policy {item['id']}", f"HTTP {code} for {item['url']}")
 
 
+_HU_LEAK_RE = re.compile(r'href="\.\./([^"]+?\.html(?:[?#][^"]*)?)"')
+
+def t26_hu_no_en_leak(rng):
+    """`../<page>.html` links inside hu/*.html files take the user OUT of /hu/
+    to the EN equivalent — see the regression caught manually on
+    hu/index.html line 80 (topic-card link). The two `../` paths we
+    legitimately keep are: ../assets/* (shared CSS/JS) and ../index.html
+    (the explicit language-toggle anchor)."""
+    hu_dir = ROOT / "hu"
+    if not hu_dir.exists():
+        return skip("T26", "HU pages don't leak to EN", "defect", "no hu/ dir")
+    files = sorted(hu_dir.glob("*.html"))
+    if not files:
+        return skip("T26", "HU pages don't leak to EN", "defect", "no HU files")
+    f = rng.choice(files)
+    text = f.read_text(encoding="utf-8")
+    leaks = []
+    for m in _HU_LEAK_RE.finditer(text):
+        target = m.group(1)
+        # Permit shared-asset paths (no .html ones exist today, but be defensive)
+        if target.startswith("assets/"):
+            continue
+        # Permit the explicit language-toggle to /index.html
+        if target == "index.html" or target.startswith("index.html?") or target.startswith("index.html#"):
+            continue
+        leaks.append(target)
+    if leaks:
+        return Result("T26", "HU pages don't leak to EN", "defect", "FAIL",
+                      f"file hu/{f.name}",
+                      f"leaky links: {', '.join(leaks[:3])}{' …' if len(leaks) > 3 else ''}")
+    return Result("T26", "HU pages don't leak to EN", "defect", "PASS",
+                  f"file hu/{f.name}")
+
+
 def t25_repec(authors, rng):
     pool = [a for a in authors if not is_locked(a) and has(a, "repec_id")]
     if not pool:
@@ -579,6 +614,7 @@ def run_all(seed: int | None = None):
         ("T23", lambda: t23_photo_loads(authors, rng)),
         ("T24", lambda: t24_policy_url(rng)),
         ("T25", lambda: t25_repec(authors, rng)),
+        ("T26", lambda: t26_hu_no_en_leak(rng)),
     ]
 
     results = []
@@ -602,7 +638,7 @@ def render(results, seed) -> str:
     n_pass = sum(1 for r in results if r.outcome == "PASS")
     n_fail = sum(1 for r in results if r.outcome == "FAIL")
     n_skip = sum(1 for r in results if r.outcome == "SKIP")
-    lines.append(f"Summary: {n_pass}/25 PASS, {n_fail} FAIL, {n_skip} SKIP")
+    lines.append(f"Summary: {n_pass}/{len(results)} PASS, {n_fail} FAIL, {n_skip} SKIP")
     fails = [r for r in results if r.outcome == "FAIL"]
     if fails:
         lines.append("")

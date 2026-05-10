@@ -38,7 +38,7 @@ Every test in this folder follows the same pattern:
 
 | File | What it does |
 |---|---|
-| [`qa_sample.py`](qa_sample.py) | 25-slot mixed harness (structural, format, plausibility, liveness). Run with `python tests/qa_sample.py [--seed N] [--save]`. |
+| [`qa_sample.py`](qa_sample.py) | Sampling harness — one item per test slot (currently 26 slots: structural, format, plausibility, liveness, plus T26 for HU→EN link leaks). Run with `python tests/qa_sample.py [--seed N] [--save]`. |
 | `reports/` | Saved run output. `qa-sample-YYYY-MM-DD-HHMM.txt` per run. |
 
 Add a new test by:
