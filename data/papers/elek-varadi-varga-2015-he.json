@@ -1,0 +1,47 @@
+{
+  "id": "elek-varadi-varga-2015-he",
+  "title": "Effects of geographical accessibility on the use of outpatient care services: quasi-experimental evidence from panel count data",
+  "authors": [
+    "elek-peter",
+    "varadi-balazs",
+    "Márton Varga"
+  ],
+  "publication_type": "article",
+  "journal": "Health Economics",
+  "year": 2015,
+  "volume": "24",
+  "issue": "9",
+  "pages": "1131-1146",
+  "doi": "10.1002/hec.3201",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1002/hec.3201",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Between 2010 and 2012 Hungary opened new outpatient clinics in micro-regions that had previously had none — a quasi-experiment Elek, Váradi and Varga exploit to measure the causal effect of geographic access on outpatient care use. The new locations raised case numbers by 24-27 %. A one-minute reduction in travel time to the nearest outpatient unit increases case numbers by roughly 0.9 % in internal medicine and 3.1 % in rheumatology. The effect runs through visit frequency, not the decision to seek care at all — once people know care is nearby, they use it more often, but the gateway barrier is more about availability than distance.",
+  "summary_hu": "2010 és 2012 között Magyarország új járóbeteg-szakrendelőket nyitott olyan kistérségekben, ahol korábban nem voltak ilyenek — kvázi-kísérlet, amelyet Elek, Váradi és Varga kihasznál a földrajzi hozzáférés járóbeteg-ellátási igénybevételre gyakorolt kauzális hatásának mérésére. Az új helyek 24–27 %-kal növelték az esetszámot. A legközelebbi járóbeteg-egységhez vezető utazási idő egyperces csökkentése körülbelül 0,9 %-kal növeli az esetszámot belgyógyászatban és 3,1 %-kal reumatológiában. A hatás a látogatási gyakoriságon keresztül érvényesül, nem a kezelés keresésének döntésén — ha az emberek tudják, hogy közel van az ellátás, gyakrabban használják, de a belépési gát inkább az elérhetőségről szól, mint a távolságról.",
+  "data_used": "Hungarian administrative outpatient-care utilisation data from NEAK 2008-2012 at the micro-region × specialty × month level, linked to the staggered roll-out of new outpatient locations under the EU-funded Egészségügyi Infrastruktúra programme. Fixed-effects logit and truncated Poisson estimation separately for the extensive and intensive margins.",
+  "data_used_hu": "Magyar adminisztratív járóbeteg-ellátási igénybevételi adatok a NEAK-tól 2008–2012 között, kistérség × szakma × hónap szinten, az EU-finanszírozású Egészségügyi Infrastruktúra programon keresztül megnyitott új járóbeteg-rendelők ütemezett beindításához kapcsolva. Fix hatású logit és csonkolt Poisson becslés külön az extenzív és intenzív margón.",
+  "policy_relevance": "Foundational evidence for NEAK, the Egészségügyi Államtitkárság, and the Magyar Államkincstár when planning further Hungarian outpatient-network expansion (EFOP, RRF, TOP+). The paper quantifies that placing a clinic in a previously-unserved micro-region delivers a 24-27 % case-number increase — a concrete benchmark for the next round of capacity-planning. Useful also for KSH when designing accessibility indicators for the Magyar Területi Egészségügyi Helyzetkép.",
+  "policy_relevance_hu": "Alapvető bizonyíték a NEAK, az Egészségügyi Államtitkárság és a Magyar Államkincstár számára a magyar járóbeteg-hálózat további bővítésének tervezéséhez (EFOP, RRF, TOP+). A tanulmány számszerűsíti, hogy egy korábban ellátatlan kistérségbe szakrendelő elhelyezése 24–27 %-os esetszám-növekedést hoz — konkrét referenciapont a kapacitástervezés következő körének. Hasznos a KSH számára is a Magyar Területi Egészségügyi Helyzetkép elérhetőségi mutatóinak tervezésekor.",
+  "topics": [
+    "health",
+    "regional-urban"
+  ],
+  "methods": [
+    "diff-in-diff",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual",
+    "admin-spatial"
+  ],
+  "featured": true,
+  "added_at": "2026-05-10",
+  "last_reviewed_at": "2026-05-10",
+  "review_status": "ai-drafted",
+  "openalex_id": "W1658589706"
+}

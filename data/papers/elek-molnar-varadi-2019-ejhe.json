@@ -1,0 +1,48 @@
+{
+  "id": "elek-molnar-varadi-2019-ejhe",
+  "title": "The closer the better: does better access to outpatient care prevent hospitalization?",
+  "authors": [
+    "elek-peter",
+    "Tamás Molnár",
+    "varadi-balazs"
+  ],
+  "publication_type": "article",
+  "journal": "European Journal of Health Economics",
+  "year": 2019,
+  "volume": "20",
+  "issue": "6",
+  "pages": "801-817",
+  "doi": "10.1007/s10198-019-01043-4",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1007/s10198-019-01043-4",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Does cheap outpatient access actually keep people out of hospital? Elek, Molnár and Váradi extend their earlier outpatient-access work and link it to hospital utilisation, using the staggered Hungarian clinic openings of 2008-2015. Result: a new clinic raised outpatient visits by 19 % and reduced inpatient stays by 1.6 %. Potentially avoidable hospitalisations fell 5 %. The cost-effectiveness implication is concrete — every euro spent on outpatient care yields a 0.6 euro reduction in inpatient spending in this setting. Direct empirical support for the now-common policy argument that strengthening primary and outpatient care is a Pareto-improving response to inpatient cost pressure.",
+  "summary_hu": "Tényleg távol tartja-e a járóbeteg-ellátás könnyű elérhetősége az embereket a kórháztól? Elek, Molnár és Váradi a járóbeteg-hozzáférésről szóló korábbi munkájukat kibővítik a kórházi igénybevétellel összekapcsolva, a 2008–2015 közötti, ütemezett magyar szakrendelő-nyitásokat használva. Eredmény: egy új szakrendelő 19 %-kal növelte a járóbeteg-látogatásokat és 1,6 %-kal csökkentette a fekvőbeteg-tartózkodásokat. A potenciálisan elkerülhető kórházi felvételek 5 %-kal estek. A költséghatékonysági következmény konkrét — minden járóbeteg-ellátásra fordított euro 0,6 eurós csökkenést hoz a fekvőbeteg-kiadásban ebben a környezetben. Közvetlen empirikus alátámasztása annak a ma már bevett szakpolitikai érvelésnek, hogy az alap- és járóbeteg-ellátás megerősítése Pareto-javító válasz a fekvőbeteg-költségnyomásra.",
+  "data_used": "Hungarian administrative health-care utilisation data 2008-2015 from NEAK, micro-region × month level, linking outpatient and inpatient records. Fixed-effects panel-count estimation around the staggered roll-out of new outpatient clinics. Potentially avoidable hospitalisations identified via the OECD ambulatory-care-sensitive condition list.",
+  "data_used_hu": "Magyar adminisztratív egészségügyi igénybevételi adatok 2008–2015 között a NEAK-tól, kistérség × hónap szinten, járóbeteg- és fekvőbeteg-rekordokat összekapcsolva. Fix hatású panel-count becslés az új járóbeteg-szakrendelők ütemezett beindításához kapcsolva. A potenciálisan elkerülhető kórházi felvételek az OECD járóbeteg-érzékeny állapotok listája alapján azonosítva.",
+  "policy_relevance": "Direct cost-benefit argument for the NEAK, the Egészségügyi Államtitkárság, and the Pénzügyminisztérium when allocating outpatient-versus-inpatient capacity. The paper's 0.6 EUR saved per 1 EUR outpatient spend is the kind of headline number a fiscal-impact memo can ride on. Also relevant to the EFOP and RRF egészségügyi infrastruktúra pipelines and to municipal-level planning around the 60+ újonnan tervezett rendelő allocation rounds.",
+  "policy_relevance_hu": "Közvetlen költség-haszon érvelés a NEAK, az Egészségügyi Államtitkárság és a Pénzügyminisztérium számára a járóbeteg-versus-fekvőbeteg kapacitás allokálásához. A tanulmány 0,6 euró megtakarítás minden 1 euró járóbeteg-kiadásra mutatószáma a fajta címsor-szám, amire egy fiskális-hatáselemzési feljegyzés építhet. Releváns az EFOP és az RRF egészségügyi infrastruktúra csővezetékeihez és a 60+ újonnan tervezett rendelő allokációs körök önkormányzati szintű tervezéséhez is.",
+  "topics": [
+    "health",
+    "regional-urban",
+    "fiscal-tax"
+  ],
+  "methods": [
+    "diff-in-diff",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual",
+    "admin-spatial"
+  ],
+  "featured": false,
+  "added_at": "2026-05-10",
+  "last_reviewed_at": "2026-05-10",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2904966211"
+}

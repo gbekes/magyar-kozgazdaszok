@@ -1,0 +1,46 @@
+{
+  "id": "kiss-kiss-varadi-2023-ijhem",
+  "title": "Do budget constraints limit access to health care? Evidence from PCI treatments in Hungary",
+  "authors": [
+    "András Kiss",
+    "Norbert Kiss",
+    "varadi-balazs"
+  ],
+  "publication_type": "article",
+  "journal": "International Journal of Health Economics and Management",
+  "year": 2023,
+  "volume": "23",
+  "issue": "2",
+  "pages": "281-302",
+  "doi": "10.1007/s10754-023-09349-w",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1007/s10754-023-09349-w",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "In Hungary's single-payer system, hospitals work under an annual DRG-based budget cap. In July 2012, percutaneous coronary intervention (PCI) treatments for acute myocardial infarction were exempted from the cap — a clean policy break Kiss, Kiss and Váradi exploit to test whether budget caps actually restrict care. Using patient-level countrywide records 2009-2015, they find that removing the cap raised PCI utilisation among acute MI patients in months when hospitals had previously bumped against the cap. Health outcomes improved in parallel. The result: hospital-level budget caps bind on clinically appropriate, life-saving treatments, not just on discretionary care.",
+  "summary_hu": "A magyar egybiztosítós rendszerben a kórházak éves DRG-alapú költségvetési plafon alatt dolgoznak. 2012 júliusában az akut miokardiális infarktus perkután koronáriaintervenciós (PCI) kezeléseit kivették a plafonból — tiszta szakpolitikai törés, amelyet Kiss, Kiss és Váradi kihasznál annak tesztelésére, hogy a költségvetési plafonok valóban korlátozzák-e az ellátást. 2009–2015 országos egyéni szintű rekordok alapján azt találják, hogy a plafon eltávolítása növelte a PCI igénybevételét az akut MI-betegek körében azokban a hónapokban, amikor a kórházak korábban beleütköztek a plafonba. Az egészségügyi kimenetelek párhuzamosan javultak. Az eredmény: a kórházszintű költségvetési plafonok klinikailag indokolt, életmentő kezelésekre is szorítanak, nem csak diszkrecionális ellátásra.",
+  "data_used": "Hungarian countrywide individual-level patient records from NEAK 2009-2015, covering all acute myocardial infarction admissions and PCI procedures. Difference-in-differences comparing months in which hospitals had previously hit the DRG budget cap versus months in which they had not, before and after the 2012 PCI exemption. Outcome variables: PCI rate within MI cases and 30-day mortality.",
+  "data_used_hu": "Magyar országos egyéni szintű betegrekordok a NEAK-tól 2009–2015 között, lefedve az összes akut miokardiális infarktus felvételt és PCI eljárást. Difference-in-differences összehasonlítva azokat a hónapokat, amikor a kórházak korábban elérték a DRG költségvetési plafont, azokkal, amikor nem, a 2012-es PCI-mentesítés előtt és után. Kimeneti változók: PCI arány az MI-eseteken belül és 30 napos mortalitás.",
+  "policy_relevance": "Direct policy lesson for the NEAK, Egészségügyi Államtitkárság, and Pénzügyminisztérium when calibrating DRG hospital budget caps. The paper shows the caps bind on life-saving care, not just on the lower-priority margin — which means the design of the cap itself is doing welfare damage. Useful for the post-2025 finanszírozási reform debate and for the EU Recovery and Resilience Facility health-system component, where DRG-design conditionality is on the table.",
+  "policy_relevance_hu": "Közvetlen szakpolitikai tanulság a NEAK, az Egészségügyi Államtitkárság és a Pénzügyminisztérium számára a kórházi DRG költségvetési plafonok kalibrálásához. A tanulmány megmutatja, hogy a plafon életmentő ellátásra is szorít, nem csak az alacsonyabb prioritású margón — ami azt jelenti, hogy maga a plafon tervezése jóléti kárt okoz. Hasznos a 2025 utáni finanszírozási reformvitához és az EU Helyreállítási és Ellenálló-képességi Eszköz egészségügyi rendszer komponenséhez, ahol a DRG-tervezés feltételessége napirenden van.",
+  "topics": [
+    "health",
+    "fiscal-tax",
+    "industrial-organization"
+  ],
+  "methods": [
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
+  "featured": false,
+  "added_at": "2026-05-10",
+  "last_reviewed_at": "2026-05-10",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4366351715"
+}

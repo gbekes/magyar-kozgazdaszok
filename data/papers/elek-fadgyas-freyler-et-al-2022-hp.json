@@ -1,0 +1,49 @@
+{
+  "id": "elek-fadgyas-freyler-et-al-2022-hp",
+  "title": "Effects of lower screening activity during the COVID-19 pandemic on breast cancer patient pathways: Evidence from the age cut-off of organized screening",
+  "authors": [
+    "elek-peter",
+    "Petra Fadgyas-Freyler",
+    "varadi-balazs",
+    "Balázs Mayer",
+    "Antal Zemplényi",
+    "Marcell Csanádi"
+  ],
+  "publication_type": "article",
+  "journal": "Health Policy",
+  "year": 2022,
+  "volume": "126",
+  "issue": "8",
+  "pages": "763-769",
+  "doi": "10.1016/j.healthpol.2022.05.013",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1016/j.healthpol.2022.05.013",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "How much did Hungary's pandemic-era pause in organised breast-cancer screening damage patient outcomes? Elek and co-authors compare women just below the age 65 organised-screening cut-off — who lost two pandemic years of routine screening — with women just above 65 who continued through clinical pathways. Mammography volumes fell 68 % in 2020 Q2, ran near normal in 2020 Q3, then sat 20-35 % below baseline through 2020 Q4-2021 Q2. The partial-mastectomy rate (a proxy for early diagnosis) fell more sharply for the 61-65 cohort than for the 66-70 cohort in 2020 Q2 — direct evidence that screening interruption shifted cases toward later-stage detection.",
+  "summary_hu": "Mekkora kárt okozott a magyar járvány alatti szervezett emlőrákszűrési szünet a betegkimenetelekben? Elek és társszerzői összehasonlítják a 65 éves szervezett szűrési határ alatti nőket — akik elvesztettek két járvány alatti évet a rutinszűrésből — a 65 fölötti nőkkel, akik klinikai utakon folytatták. A mammográfia volumene 68 %-kal esett 2020 Q2-ben, 2020 Q3-ban a megszokott szint közelében volt, majd 2020 Q4–2021 Q2 alatt 20–35 %-kal a referencia alatt maradt. A részleges masztektómia aránya (a korai diagnózis közelítője) élesebben esett a 61–65 évesek kohorszában, mint a 66–70 évesekében 2020 Q2-ben — közvetlen bizonyíték arra, hogy a szűrési megszakítás későbbi stádiumú felfedezés felé tolta az eseteket.",
+  "data_used": "Hungarian administrative breast-cancer claims and procedure data from NEAK 2018-2021, linked to age and organised-screening eligibility. Regression-discontinuity around the 65-year organised-screening cut-off; trend and seasonality adjustment for the time-series of mammography volumes. Partial-mastectomy share used as the early-diagnosis proxy.",
+  "data_used_hu": "Magyar adminisztratív emlőrák-jogcím és -eljárási adatok a NEAK-tól 2018–2021 között, életkorhoz és szervezett szűrés jogosultsághoz kapcsolva. Regression-discontinuity a 65 éves szervezett szűrési határ körül; trend- és szezonalitás-korrigálás a mammográfia volumenek idősorához. A részleges masztektómia részaránya a korai diagnózis közelítőjeként.",
+  "policy_relevance": "Direct cost-of-pandemic-pause estimate for the NNK, NEAK, and Egészségügyi Államtitkárság. Useful in two ways: (i) sizing the recovery effort for organised screening (which patient cohorts to prioritise, by how much); (ii) building the case for screening-resilience design in future public-health emergencies — keeping organised screening running even at reduced capacity is cheaper in cancer-stage terms than a full pause and catch-up. Relevant input for the 2025+ Egészséges Magyarország Stratégia rákszűrési modernizációs vonal.",
+  "policy_relevance_hu": "Közvetlen járvány-alatti-szünet-költségbecslés az NNK, a NEAK és az Egészségügyi Államtitkárság számára. Két szempontból hasznos: (i) a szervezett szűrés helyreállítási erőfeszítésének méretezése (mely betegkohorszokat kell előtérbe helyezni, mekkora ütemben); (ii) annak igazolása, hogy a jövőbeli közegészségügyi vészhelyzetekben szűrési ellenálló-képességet kell tervezni — a szervezett szűrés akár csökkentett kapacitáson való fenntartása olcsóbb rákstádium-kifejezésben, mint a teljes szünet és bepótlás. Releváns input a 2025+ Egészséges Magyarország Stratégia rákszűrési modernizációs vonalához.",
+  "topics": [
+    "health",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "rd",
+    "time-series"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
+  "featured": false,
+  "added_at": "2026-05-10",
+  "last_reviewed_at": "2026-05-10",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4281476647"
+}

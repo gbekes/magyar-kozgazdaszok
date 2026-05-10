@@ -1,0 +1,46 @@
+{
+  "id": "hajdu-kreko-toth-2024-scirep",
+  "title": "Inequalities in regional excess mortality and life expectancy during the COVID-19 pandemic in Europe",
+  "authors": [
+    "hajdu-tamas",
+    "kreko-judit",
+    "Csaba G. Tóth"
+  ],
+  "publication_type": "article",
+  "journal": "Scientific Reports",
+  "year": 2024,
+  "volume": "14",
+  "issue": "1",
+  "pages": "3835",
+  "doi": "10.1038/s41598-024-54366-5",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1038/s41598-024-54366-5",
+  "url_pdf": "https://www.nature.com/articles/s41598-024-54366-5.pdf",
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Did COVID-19 hit Europe's lagging regions disproportionately, and did that widen the cross-regional health gap permanently? Hajdu, Krekó and Tóth assemble data on 201 NUTS-2 regions across Europe and track regional life expectancy from 2019 through 2022. The variance of regional life expectancy spiked in 2021 — pandemic-driven excess mortality was concentrated in regions with already-low pre-pandemic life expectancy. By 2022 the variance had returned to pre-pandemic levels. The widening was sharp but not permanent. A clean documentation of how a Europe-wide health shock interacts with the existing regional health gradient.",
+  "summary_hu": "Aránytalanul sújtotta-e a COVID-19 Európa lemaradó régióit, és tartósan szélesítette-e ez a régiók közötti egészségügyi szakadékot? Hajdu, Krekó és Tóth 201 európai NUTS-2 régió adatait gyűjti össze, és követi a regionális várható élettartamot 2019-től 2022-ig. A regionális várható élettartam szórása 2021-ben felugrott — a járvány által okozott többlethalálozás a már a járvány előtt is alacsony várható élettartamú régiókban koncentrálódott. 2022-re a szórás visszatért a járvány előtti szintre. A szélesedés éles volt, de nem tartós. Tisztán dokumentált példa arra, hogyan hat egy Európa-szintű egészségsokk a meglévő regionális egészségügyi gradiensre.",
+  "data_used": "Annual mortality and life-expectancy data for 201 NUTS-2 regions across Europe, 2019-2022, drawn from Eurostat and national statistical offices. Excess mortality computed against pre-pandemic age-adjusted baseline. Regional life-expectancy variance decomposed into within- and between-country components.",
+  "data_used_hu": "Éves mortalitási és várható élettartam adatok 201 NUTS-2 régióra Európa-szerte, 2019–2022, az Eurostat és a nemzeti statisztikai hivatalok forrásaiból. A többlethalálozás a járvány előtti, korra igazított referenciához viszonyítva számolva. A regionális várható élettartam szórása országon belüli és országok közötti komponensekre bontva.",
+  "policy_relevance": "Background reference for the NNK, EMMI, and the Magyar Államkincstár when assessing the regional aftermath of COVID-19 in Hungary and the EU. The paper documents that pandemic shocks compound pre-existing regional health gradients in the short run but mostly mean-revert — useful framing for the EU Cohesion-Fund health-system strengthening pipeline and for the Hungarian regional health-outcome dashboards under KSH and the Egészségügyi Államtitkárság.",
+  "policy_relevance_hu": "Háttér-hivatkozás az NNK, az EMMI és a Magyar Államkincstár számára a COVID-19 regionális utóhatásainak értékeléséhez Magyarországon és az EU-ban. A tanulmány dokumentálja, hogy a járványsokk rövid távon felerősíti a meglévő regionális egészségügyi gradienseket, de többnyire visszaáll az átlaghoz — hasznos keret az EU Kohéziós Alap egészségügyi rendszermegerősítési csővezetékéhez és a KSH, valamint az Egészségügyi Államtitkárság alá tartozó magyar regionális egészségügyi mutatórendszerekhez.",
+  "topics": [
+    "health",
+    "regional-urban",
+    "demographics-migration"
+  ],
+  "methods": [
+    "descriptive-survey",
+    "panel-data"
+  ],
+  "countries_studied": [],
+  "data_types": [
+    "macro-aggregate",
+    "admin-spatial"
+  ],
+  "featured": false,
+  "added_at": "2026-05-10",
+  "last_reviewed_at": "2026-05-10",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4391839704"
+}
