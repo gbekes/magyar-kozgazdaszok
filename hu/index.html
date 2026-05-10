@@ -77,7 +77,7 @@
 
     const grid = document.getElementById('topic-grid');
     grid.innerHTML = data.topics.map(t => `
-      <a class="topic-card" href="../topic.html?id=${encodeURIComponent(t.id)}">
+      <a class="topic-card" href="topic.html?id=${encodeURIComponent(t.id)}">
         <div class="name">${EFH.esc(t.name_hu || t.name_en)}</div>
         <div class="count">${t.paper_count || 0} tanulmány</div>
       </a>
