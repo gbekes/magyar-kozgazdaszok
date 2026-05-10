@@ -1,0 +1,39 @@
+Magyar Közgazdászok — Evidence for Hungary
+Catalogue content (paper / author / topic / policy / press JSON files
+under `data/`, plus the markdown documentation at the repo root) is
+released under
+
+  Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+  (CC BY-NC-SA 4.0)
+
+  Full text:  https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+  Human-readable summary:
+              https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
+
+Under this licence you are free to:
+  - Share — copy and redistribute the material in any medium or format
+  - Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+  - Attribution    — You must give appropriate credit, link to this
+                     repository (https://github.com/gbekes/magyar-kozgazdaszok),
+                     and indicate if changes were made.
+  - NonCommercial  — You may not use the material for commercial purposes.
+  - ShareAlike     — If you remix, transform, or build upon the material,
+                     you must distribute your contributions under the same
+                     licence as the original.
+
+The site code (HTML / CSS / JavaScript / Python build scripts under
+`assets/`, `scripts/`, `tests/`, and the page-template `*.html` files)
+is also covered by the same CC BY-NC-SA 4.0 licence for simplicity.
+
+Author-attribution note:
+  Bibliographic metadata about individual researchers (name, affiliations,
+  publication record) is factual; the editorial summaries
+  (`summary_*`, `data_used*`, `policy_relevance*`, bios) are the
+  curatorial output of Gábor Békés (editor) with assistance from
+  Anthropic's Claude. Contributions and corrections from named
+  researchers are credited in commit messages and the
+  `submissions/DONE/` archive.
+
+Editor: Gábor Békés (CEU / KRTK), bekesg@ceu.edu

@@ -2557,7 +2557,7 @@
       "countries": [
         "HU"
       ],
-      "paper_count": 4,
+      "paper_count": 5,
       "policy_count": 0,
       "press_count": 19
     },
@@ -4176,6 +4176,50 @@
         "US"
       ],
       "paper_count": 6,
+      "policy_count": 0,
+      "press_count": 0
+    },
+    {
+      "id": "toth-istvan-gyorgy",
+      "name_en": "István György Tóth",
+      "name_hu": "Tóth István György",
+      "affiliations": [
+        {
+          "name": "TÁRKI Social Research Institute",
+          "name_hu": "TÁRKI Társadalomkutatási Intézet",
+          "role": "President",
+          "role_hu": "elnök",
+          "start": null
+        }
+      ],
+      "website": "https://www.tarki.hu/",
+      "email": null,
+      "repec_id": null,
+      "scholar_id": "O4UERcgAAAAJ",
+      "orcid": null,
+      "primary_fields": [
+        "inequality-welfare",
+        "transition-postcommunist"
+      ],
+      "bio_en": "István György Tóth is President of TÁRKI Social Research Institute in Budapest, and one of the central figures of Hungarian and Central-European inequality and social-policy research. He works on income distribution, poverty, welfare-state reform, and the political economy of redistribution, and has co-authored Handbook chapters and OECD-affiliated volumes on cross-country inequality. His journal articles include Tax awareness and reform of the welfare state with János Kornai (Economics of Transition 1998) and child-poverty work with Michael Förster in Economics of Transition and the Journal of European Social Policy.",
+      "bio_hu": "Tóth István György a TÁRKI Társadalomkutatási Intézet elnöke, és a magyar, illetve közép-európai egyenlőtlenség- és szociálpolitikai kutatás egyik központi alakja. Kutatásai a jövedelemeloszlás, a szegénység, a jóléti rendszer reformja és az újraelosztás politikai gazdaságtana köré szerveződnek; társszerzője nemzetközi kézikönyv-fejezeteknek és OECD-hez kapcsolódó köteteknek a kereszt-országos egyenlőtlenségről. Folyóiratcikkei között szerepel a Kornai Jánossal közös „Tax awareness and reform of the welfare state” (Economics of Transition, 1998) és a Michael Försterrel közös gyermekszegénységi munka az Economics of Transitionben és a Journal of European Social Policyban.",
+      "photo_url": null,
+      "qualifying_publication": {
+        "title": "Tax awareness and reform of the welfare state: Hungarian survey results",
+        "journal": "Economics of Transition",
+        "year": 1998
+      },
+      "open_to_media_en": false,
+      "open_to_media_hu": false,
+      "media_note": null,
+      "review_status": "ai-drafted",
+      "openalex_id": null,
+      "added_at": "2026-05-10",
+      "last_reviewed_at": "2026-05-10",
+      "countries": [
+        "HU"
+      ],
+      "paper_count": 4,
       "policy_count": 0,
       "press_count": 0
     },
@@ -17963,6 +18007,57 @@
       "openalex_id": "W2112761158"
     },
     {
+      "id": "csontos-kornai-toth-1998-ect",
+      "title": "Tax awareness and reform of the welfare state: Hungarian survey results",
+      "authors": [
+        "László Csontos",
+        "kornai-janos",
+        "toth-istvan-gyorgy"
+      ],
+      "publication_type": "article",
+      "journal": "Economics of Transition",
+      "year": 1998,
+      "volume": "6",
+      "issue": "2",
+      "pages": "287-312",
+      "doi": "10.1111/j.1468-0351.1998.tb00050.x",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1111/j.1468-0351.1998.tb00050.x",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "This paper reports the results of a survey on the tax awareness of the Hungarian population. Knowledge of tax types and levels is investigated, followed by questions on preferences for state expenditures. The design of the survey is aimed at a contingent evaluation of public sector involvement in health, pensions and higher education. The results show that fiscal illusions have their roots in poor knowledge of the tax cost of public expenditures. When people are provided with additional information on these factors, preferences for state involvement seem to diminish.",
+      "summary_en": "Hungarians say they want a generous welfare state — but do they understand what it costs? Csontos, Kornai and Tóth field a representative Hungarian survey measuring respondents' actual knowledge of tax rates, the tax cost of major spending programmes (health, pensions, higher education), and their preferences for state vs. private provision. They find substantial 'fiscal illusion': respondents systematically underestimate the tax bill behind public services. When they're given accurate cost information, support for high state spending falls measurably — pointing to a clear role for transparent fiscal communication in any welfare-state reform.",
+      "summary_hu": "A magyarok bőkezű jóléti államot mondanak akarni — de értik-e, hogy mibe kerül? Csontos, Kornai és Tóth reprezentatív magyar felmérést készít, amely a válaszadók tényleges adóismereteit, a fő kiadási programok (egészségügy, nyugdíjak, felsőoktatás) adóköltségét és az állami vs. magán-szolgáltatással kapcsolatos preferenciáit méri. Jelentős „fiskális illúziót” találnak: a válaszadók szisztematikusan alábecsülik a közszolgáltatások mögötti adóköltséget. Amikor pontos költséginformációt kapnak, a magas állami kiadások iránti támogatás mérhetően csökken — ami egyértelmű szerepet ad az átlátható fiskális kommunikációnak bármely jóléti rendszer reformban.",
+      "data_used": "Representative Hungarian household survey (TÁRKI, mid-1990s) with knowledge questions on tax types and rates, contingent-valuation questions on willingness to pay for state-provided health care, pensions and higher education, and split-sample information treatments providing actual tax-cost figures.",
+      "data_used_hu": "Reprezentatív magyar háztartási felmérés (TÁRKI, 1990-es évek közepe) az adónemekre és -kulcsokra vonatkozó tudás-kérdésekkel, kontingens-értékelési kérdésekkel az állami egészségügyi ellátás, nyugdíjak és felsőoktatás iránti fizetési hajlandóságról, valamint mintacsoportos információs kezelésekkel, amelyek tényleges adóköltség-adatokat közölnek.",
+      "policy_relevance": "Direct input for any Hungarian welfare-state-reform communications strategy (Pénzügyminisztérium, EMMI, NGM). The paper's central message — that public preferences for state spending are sensitive to credible information about the tax bill — supports systematic disclosure of programme costs in budget documents and pre-reform consultations. Foundational reference in Hungarian fiscal-illusion and tax-morale debates and an early example of behaviorally-informed policy diagnosis.",
+      "policy_relevance_hu": "Közvetlen input bármely magyar jóléti rendszer reform kommunikációs stratégiájához (Pénzügyminisztérium, EMMI, NGM). A tanulmány központi üzenete — hogy az állami kiadások iránti közvélemény-preferenciák érzékenyek a hiteles adóköltség-információra — a programköltségek szisztematikus felfedését támogatja a költségvetési dokumentumokban és a reform-előtti konzultációkban. Alapvető hivatkozás a magyar fiskális illúzió és adómorál vitákban, és a viselkedés-informált szakpolitikai diagnózis korai példája.",
+      "topics": [
+        "fiscal-tax",
+        "behavioral",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "survey"
+      ],
+      "policy_instruments": [
+        "welfare-state reform",
+        "fiscal communication",
+        "contingent valuation"
+      ],
+      "featured": false,
+      "added_at": "2026-05-10",
+      "last_reviewed_at": "2026-05-10",
+      "review_status": "ai-drafted",
+      "openalex_id": null
+    },
+    {
       "id": "csurilla-ferto-2022-appec",
       "title": "How long does a medal win last? Survival analysis of the duration of Olympic success",
       "authors": [
@@ -22254,6 +22349,164 @@
         "political-appointment scope",
         "public-administration reform"
       ]
+    },
+    {
+      "id": "forster-toth-1997-ect",
+      "title": "Poverty, inequalities and social policies in the Visegrad countries",
+      "authors": [
+        "Michael Förster",
+        "toth-istvan-gyorgy"
+      ],
+      "publication_type": "article",
+      "journal": "Economics of Transition",
+      "year": 1997,
+      "volume": "5",
+      "issue": "2",
+      "pages": "505-509",
+      "doi": "10.1111/j.1468-0351.1997.tb00028.x",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1111/j.1468-0351.1997.tb00028.x",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "Förster and Tóth set out a comparative diagnosis of poverty, income inequality and the early-transition social-policy response across the four Visegrád countries (Hungary, Poland, Czech Republic, Slovakia). Drawing on harmonised micro-data from the mid-1990s, they document that all four economies saw a sharp rise in income inequality after 1989, but the channels differed — Hungary and Poland combined widening market-income inequality with shrinking redistribution, while the Czech Republic kept inequality lower mainly through a stronger transfer system. The note frames the early-transition welfare-state-reform debate that the authors continued in subsequent work.",
+      "summary_hu": "Förster és Tóth összehasonlító diagnózist ad a szegénységről, a jövedelmi egyenlőtlenségről és a kora-átmenet kori szociálpolitikai válaszról a négy visegrádi országban (Magyarország, Lengyelország, Csehország, Szlovákia). Az 1990-es évek közepi harmonizált mikroadatokra építve dokumentálják, hogy mind a négy gazdaságban élesen nőtt a jövedelmi egyenlőtlenség 1989 után, de a csatornák eltértek — Magyarország és Lengyelország kombinálta a növekvő piaci-jövedelem egyenlőtlenséget a zsugorodó újraelosztással, míg Csehország főként az erősebb transzferrendszerrel tartotta alacsonyabban az egyenlőtlenséget. A jegyzet kereteket ad a szerzők későbbi, kora-átmenet kori jóléti-rendszer reform vitáknak.",
+      "data_used": "Harmonised household-level micro-data from the four Visegrád countries (Hungary, Poland, Czech Republic, Slovakia) covering the early- to mid-1990s; Luxembourg Income Study (LIS) and national Household Budget Survey waves used for cross-country comparable poverty and inequality measurement.",
+      "data_used_hu": "Harmonizált háztartási szintű mikroadatok a négy visegrádi országból (Magyarország, Lengyelország, Csehország, Szlovákia) az 1990-es évek elejétől közepéig; a Luxembourg Income Study (LIS) és a nemzeti Háztartási Költségvetési Felmérés hullámai országközi szempontból összehasonlítható szegénység- és egyenlőtlenség-mérésre.",
+      "policy_relevance": "Foundational early reference for Hungarian and Visegrád social-policy debate (BM Belügyminisztérium szociális ügyek, EMMI, TÁRKI). The cross-country comparison documents that by the mid-1990s the Hungarian welfare-system response to transition-era inequality was already systematically weaker than the Czech one — a baseline finding still cited in current Hungarian inequality-policy assessments and EU SILC-based comparisons. Useful background for any retrospective analysis of the Bokros-package's distributional consequences.",
+      "policy_relevance_hu": "Alapvető korai hivatkozás a magyar és visegrádi szociálpolitikai vitához (Belügyminisztérium szociális ügyek, EMMI, TÁRKI). Az országközi összehasonlítás dokumentálja, hogy az 1990-es évek közepére a magyar jóléti rendszer átmenet-kori egyenlőtlenségre adott válasza már szisztematikusan gyengébb volt a csehnél — alapmegállapítás, amelyet a jelenlegi magyar egyenlőtlenség-politikai értékelések és az EU SILC-alapú összehasonlítások is idéznek. Hasznos háttér a Bokros-csomag elosztási következményeinek bármely visszamenőleges elemzéséhez.",
+      "topics": [
+        "inequality-welfare",
+        "transition-postcommunist",
+        "fiscal-tax"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "HU",
+        "PL",
+        "CZ",
+        "SK"
+      ],
+      "data_types": [
+        "survey"
+      ],
+      "policy_instruments": [
+        "welfare-state reform",
+        "family transfers",
+        "cash benefits"
+      ],
+      "featured": false,
+      "added_at": "2026-05-10",
+      "last_reviewed_at": "2026-05-10",
+      "review_status": "ai-drafted",
+      "openalex_id": null
+    },
+    {
+      "id": "forster-toth-2001-jesp",
+      "title": "Child Poverty and Family Transfers in the Czech Republic, Hungary and Poland",
+      "authors": [
+        "Michael Förster",
+        "toth-istvan-gyorgy"
+      ],
+      "publication_type": "article",
+      "journal": "Journal of European Social Policy",
+      "year": 2001,
+      "volume": "11",
+      "issue": "4",
+      "pages": "324-341",
+      "doi": "10.1177/095892870101100403",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1177/095892870101100403",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "Governments of the Czech Republic, Hungary and Poland implemented reforms of family benefits in the mid-1990s. What were the common features of those reforms and what were the possible effects on child poverty? Based on household micro data, trends in poverty among children, large families and single parents are presented for two data points: one before and one after the restrictive reforms in family policies. The focus of the analysis is on changes in the effectiveness of benefits on child poverty reduction. Child poverty increased during the observed period in all three countries, despite the reforms.",
+      "summary_en": "In the mid-1990s the Czech Republic, Hungary and Poland tightened their family-benefit systems — moving from universal to means-tested support. What did this do to child poverty? Förster and Tóth use harmonised household micro-data from before and after the reforms and find child poverty rose in all three countries, with the steepest increases for large families and single parents. The poverty-reducing effectiveness of family transfers shrank measurably; means-testing saved budget money but at a clear distributional cost. The paper became a reference point for the EU child-poverty debate and the OECD-led 'Doing Better for Children' line of work.",
+      "summary_hu": "Az 1990-es évek közepén Csehország, Magyarország és Lengyelország szigorította családtámogatási rendszerét — az univerzálisról a rászorultság-alapú támogatásra váltott. Mit tett ez a gyermekszegénységgel? Förster és Tóth a reformok előtti és utáni harmonizált háztartási mikroadatokat használja, és megállapítja, hogy a gyermekszegénység mindhárom országban nőtt, a legmeredekebb növekedés a nagycsaládoknál és az egyszülős háztartásoknál mutatkozott. A családi transzferek szegénység-csökkentő hatékonysága mérhetően csökkent; a rászorultság-alapúság költségvetési pénzt takarított meg, de világos elosztási áron. A tanulmány hivatkozási pont lett az EU gyermekszegénységi vitában és az OECD „Doing Better for Children” munkavonalban.",
+      "data_used": "Harmonised household micro-data for the Czech Republic, Hungary and Poland — Luxembourg Income Study (LIS) waves and national household-budget surveys (KSH HKF in Hungary), with one pre-reform and one post-reform observation per country in the mid-1990s. Decomposition of child poverty into pre-transfer and post-transfer components.",
+      "data_used_hu": "Harmonizált háztartási mikroadatok Csehországra, Magyarországra és Lengyelországra — Luxembourg Income Study (LIS) hullámai és nemzeti háztartási költségvetési felmérések (KSH HKF Magyarországon), országonként egy reform-előtti és egy reform-utáni megfigyeléssel az 1990-es évek közepén. A gyermekszegénység transzfer-előtti és transzfer-utáni komponensekre való felbontása.",
+      "policy_relevance": "Direct input for Hungarian family-policy and child-poverty debate (BM Belügyminisztérium családpolitika, EMMI, KSH gyermekjóléti monitoring). The paper's distributional-cost-of-means-testing finding remains methodologically relevant: every Hungarian családtámogatási reform proposal that shifts toward needs-testing should weigh the documented child-poverty consequences. Useful empirical baseline for evaluating the post-2010 családi adókedvezmény and CSOK regimes against earlier means-tested architectures.",
+      "policy_relevance_hu": "Közvetlen input a magyar családpolitikai és gyermekszegénységi vitához (Belügyminisztérium családpolitika, EMMI, KSH gyermekjóléti monitoring). A tanulmány rászorultság-alapúság elosztási költségéről szóló megállapítása módszertanilag releváns marad: minden magyar családtámogatási reform-javaslatnak, amely a rászorultság-alapúság felé tolódik, mérlegelnie kell a dokumentált gyermekszegénységi következményeket. Hasznos empirikus viszonyítási alap a 2010 utáni családi adókedvezmény és CSOK rendszerek korábbi rászorultság-alapú architektúrákkal való összehasonlításához.",
+      "topics": [
+        "inequality-welfare",
+        "demographics-migration",
+        "transition-postcommunist"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "CZ",
+        "HU",
+        "PL"
+      ],
+      "data_types": [
+        "survey"
+      ],
+      "policy_instruments": [
+        "family allowances",
+        "means-tested benefits",
+        "child-poverty reduction"
+      ],
+      "featured": false,
+      "added_at": "2026-05-10",
+      "last_reviewed_at": "2026-05-10",
+      "review_status": "ai-drafted",
+      "openalex_id": null
+    },
+    {
+      "id": "forster-toth-2015-handbook",
+      "title": "Cross-Country Evidence of the Multiple Causes of Inequality Changes in the OECD Area",
+      "authors": [
+        "Michael Förster",
+        "toth-istvan-gyorgy"
+      ],
+      "publication_type": "chapter",
+      "journal": "Handbook of Income Distribution",
+      "year": 2015,
+      "volume": "2",
+      "issue": null,
+      "pages": "1729-1843",
+      "doi": "10.1016/b978-0-444-59429-7.00020-0",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1016/b978-0-444-59429-7.00020-0",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "Why has income inequality risen across most of the OECD over the past three decades? Förster and Tóth's chapter in the Atkinson-Bourguignon Handbook of Income Distribution synthesises the evidence: technological change favouring skilled labour, globalisation and trade openness, declining union density and minimum-wage erosion, the changing role of taxes and transfers, and shifts in household structure (rising single-parenthood, two-earner couple polarisation). They put numbers on the relative contributions and document substantial cross-country variation — institutions matter, and policy choices visibly modulate the size of the inequality rise that the structural drivers would otherwise produce.",
+      "summary_hu": "Miért nőtt a jövedelmi egyenlőtlenség az OECD nagy részében az elmúlt három évtizedben? Förster és Tóth fejezete az Atkinson-Bourguignon-féle Handbook of Income Distributionban összegzi a bizonyítékokat: a képzett munkavállalókat előnyben részesítő technológiai változás, a globalizáció és a kereskedelmi nyitottság, a szakszervezeti lefedettség csökkenése és a minimálbér eróziója, az adók és transzferek változó szerepe, valamint a háztartási szerkezet eltolódásai (növekvő egyszülős háztartások, kétkeresős párok polarizációja). Számszerűsítik a relatív hozzájárulásokat, és érdemi országközi különbségeket dokumentálnak — az intézmények számítanak, és a szakpolitikai választások láthatóan modulálják azt az egyenlőtlenség-növekedést, amelyet a strukturális mozgatók egyébként termelnének.",
+      "data_used": "OECD-wide harmonised income-distribution data (Luxembourg Income Study, OECD Income Distribution Database, EU-SILC), labour-market institutional indicators (union density, minimum-wage levels, employment-protection indices), tax-and-transfer microsimulation outputs (EUROMOD), and household demographic series. Cross-country panel covering roughly 1980–2010 across 30+ OECD economies.",
+      "data_used_hu": "OECD-szerte harmonizált jövedelemeloszlási adatok (Luxembourg Income Study, OECD Income Distribution Database, EU-SILC), munkaerő-piaci intézményi mutatók (szakszervezeti lefedettség, minimálbér-szintek, foglalkoztatás-védelmi indexek), adó- és transzfer-mikroszimulációs eredmények (EUROMOD), valamint háztartási demográfiai idősorok. Országközi panel kb. 1980–2010 között, 30+ OECD-gazdaságra.",
+      "policy_relevance": "Foundational reference for any Hungarian inequality-policy discussion (Pénzügyminisztérium adópolitika, Belügyminisztérium szociálpolitika, KSH egyenlőtlenség-monitoring). The chapter's central message — that inequality drift is the joint product of structural and policy forces, not destiny — supports the case that the Hungarian flat-tax / family-allowance / minimum-wage policy mix shapes inequality outcomes meaningfully, beyond what global drivers would produce. Standard input for Hungarian and EU SILC-based equity assessments.",
+      "policy_relevance_hu": "Alapvető hivatkozás bármely magyar egyenlőtlenség-politikai vitához (Pénzügyminisztérium adópolitika, Belügyminisztérium szociálpolitika, KSH egyenlőtlenség-monitoring). A fejezet központi üzenete — hogy az egyenlőtlenségi pálya a strukturális és szakpolitikai erők közös eredménye, nem sors — alátámasztja, hogy a magyar egykulcsos adó / családi pótlék / minimálbér szakpolitikai mix érdemben formálja az egyenlőtlenségi kimeneteket azon túl, amit a globális mozgatók produkálnának. Standard input a magyar és EU SILC-alapú méltányossági értékelésekhez.",
+      "topics": [
+        "inequality-welfare",
+        "fiscal-tax",
+        "labor-markets"
+      ],
+      "methods": [
+        "descriptive-survey",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "GLOBAL"
+      ],
+      "data_types": [
+        "survey",
+        "macro-aggregate"
+      ],
+      "policy_instruments": [
+        "progressive taxation",
+        "minimum wage",
+        "family allowances",
+        "skill-biased technology policy"
+      ],
+      "featured": false,
+      "added_at": "2026-05-10",
+      "last_reviewed_at": "2026-05-10",
+      "review_status": "ai-drafted",
+      "openalex_id": null
     },
     {
       "url_pdf": null,
@@ -45607,7 +45860,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 124
+      "paper_count": 125
     },
     {
       "id": "education-skills",
@@ -45640,7 +45893,7 @@
       "policy_framing_en": "Relevant to: family policy, pension system, immigration policy, retention of skilled workers.",
       "policy_framing_hu": "Releváns: családpolitika, nyugdíjrendszer, bevándorláspolitika, szakemberek megtartása.",
       "icon": "users",
-      "paper_count": 58
+      "paper_count": 59
     },
     {
       "id": "trade-fdi",
@@ -45695,7 +45948,7 @@
       "policy_framing_en": "Relevant to: tax reform, budget planning, public debt management, compliance policy.",
       "policy_framing_hu": "Releváns: adóreform, költségvetés-tervezés, államadósság-kezelés, adócompliance.",
       "icon": "coins",
-      "paper_count": 83
+      "paper_count": 86
     },
     {
       "id": "regional-urban",
@@ -45728,7 +45981,7 @@
       "policy_framing_en": "Relevant to: welfare system, anti-poverty programs, family allowances, gender-equal pay policies.",
       "policy_framing_hu": "Releváns: szociális rendszer, szegénység elleni programok, családi pótlékok, egyenlő bérezés.",
       "icon": "scale",
-      "paper_count": 129
+      "paper_count": 133
     },
     {
       "id": "political-economy",
@@ -45750,7 +46003,7 @@
       "policy_framing_en": "Relevant to: long-run diagnoses of the Hungarian and CEE economy, lessons from 30+ years of transition, institutional path dependence.",
       "policy_framing_hu": "Releváns: a magyar és KKE gazdaság hosszú távú diagnózisa, 30+ év rendszerváltásának tanulságai, intézményi útfüggőség.",
       "icon": "flag",
-      "paper_count": 61
+      "paper_count": 63
     },
     {
       "id": "behavioral",
@@ -45761,7 +46014,7 @@
       "policy_framing_en": "Relevant to: consumer protection, pension-default design, nudging, financial-education regulation, addictive-product regulation.",
       "policy_framing_hu": "Releváns: fogyasztóvédelem, nyugdíjalap-alapbeállítások, döntéslendítés (nudge), pénzügyi edukáció szabályozása, függőséget okozó termékek szabályozása.",
       "icon": "brain",
-      "paper_count": 139
+      "paper_count": 140
     },
     {
       "id": "industrial-organization",
@@ -47159,8 +47412,8 @@
     }
   ],
   "counts": {
-    "authors": 98,
-    "papers": 807,
+    "authors": 99,
+    "papers": 811,
     "policy": 35,
     "press": 148,
     "topics": 21

@@ -99,5 +99,10 @@ Corrections welcome: issues or PRs. Editor: Gábor Békés
 
 ## License
 
-Code: MIT. Content (paper summaries, author bios): CC BY 4.0 — attribution to
-"Evidence for Hungary".
+[**CC BY-NC-SA 4.0**](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
+— Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+Both the catalogue content (paper / author / topic JSON, summaries, bios)
+and the site code are released under this licence. See [LICENSE](LICENSE)
+for the full terms. Attribution to *Magyar Közgazdászok — Evidence for
+Hungary* (<https://github.com/gbekes/magyar-kozgazdaszok>); commercial
+use requires permission.

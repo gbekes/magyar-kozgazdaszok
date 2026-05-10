@@ -65,6 +65,12 @@
             : 'Created with Claude. Edited by Gábor Békés. This is v. 0.3.1, 9 May 2026. Corrections and missing papers welcome — see'}
           <a href="contribute.html">${nav.contribute}</a>.
         </p>
+        <p class="small muted">
+          ${isHu
+            ? 'A teljes tartalom és a kód licence:'
+            : 'Content and code are released under'}
+          <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en" target="_blank" rel="noopener">CC BY-NC-SA 4.0</a>.
+        </p>
       </div>
     </footer>
   `;
