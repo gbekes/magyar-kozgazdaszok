@@ -73,28 +73,31 @@
       </header>
 
       <div class="layout-filter">
-        <aside class="filter-sidebar">
-          <h3 style="margin-top:0;">Adattípusok</h3>
-          ${dataLandscape.length ? dataLandscape.map(([d, c]) => `
-            <div class="small" style="display:flex; justify-content:space-between;">
-              <span>${EFH.esc(dataTypeLabelsHu[d] || EFH.dataTypeLabel(d))}</span>
-              <span class="muted">${c}</span>
-            </div>
-          `).join('') : '<p class="muted small">Még nincs adat.</p>'}
+        <details class="filter-disclosure" open>
+          <summary>Témainfo</summary>
+          <aside class="filter-sidebar">
+            <h3 style="margin-top:0;">Adattípusok</h3>
+            ${dataLandscape.length ? dataLandscape.map(([d, c]) => `
+              <div class="small" style="display:flex; justify-content:space-between;">
+                <span>${EFH.esc(dataTypeLabelsHu[d] || EFH.dataTypeLabel(d))}</span>
+                <span class="muted">${c}</span>
+              </div>
+            `).join('') : '<p class="muted small">Még nincs adat.</p>'}
 
-          <h3>Módszerek</h3>
-          ${methodLandscape.length ? methodLandscape.map(([m, c]) => `
-            <div class="small" style="display:flex; justify-content:space-between;">
-              <span>${EFH.esc(methodLabelsHu[m] || EFH.methodLabel(m))}</span>
-              <span class="muted">${c}</span>
-            </div>
-          `).join('') : '<p class="muted small">—</p>'}
+            <h3>Módszerek</h3>
+            ${methodLandscape.length ? methodLandscape.map(([m, c]) => `
+              <div class="small" style="display:flex; justify-content:space-between;">
+                <span>${EFH.esc(methodLabelsHu[m] || EFH.methodLabel(m))}</span>
+                <span class="muted">${c}</span>
+              </div>
+            `).join('') : '<p class="muted small">—</p>'}
 
-          <h3>Kapcsolódó témák</h3>
-          ${relatedList.length ? relatedList.map(([rid, c]) =>
-            `<div class="small"><a href="topic.html?id=${encodeURIComponent(rid)}">${EFH.esc(data.topicsById[rid]?.name_hu || data.topicsById[rid]?.name_en)}</a> <span class="muted">(${c})</span></div>`
-          ).join('') : '<p class="muted small">—</p>'}
-        </aside>
+            <h3>Kapcsolódó témák</h3>
+            ${relatedList.length ? relatedList.map(([rid, c]) =>
+              `<div class="small"><a href="topic.html?id=${encodeURIComponent(rid)}">${EFH.esc(data.topicsById[rid]?.name_hu || data.topicsById[rid]?.name_en)}</a> <span class="muted">(${c})</span></div>`
+            ).join('') : '<p class="muted small">—</p>'}
+          </aside>
+        </details>
 
         <section>
           <div class="result-head">
@@ -105,6 +108,23 @@
         </section>
       </div>
     `;
+
+    // Mobile disclosure: zárva mobilon, nyitva asztalon. Resize-kor újraszinkronizál.
+    const _disclMq = window.matchMedia('(max-width: 800px)');
+    const _discl = document.querySelector('.filter-disclosure');
+    function _syncDiscl() {
+      if (!_discl) return;
+      if (_disclMq.matches) {
+        if (!_discl.dataset.touched) _discl.removeAttribute('open');
+      } else {
+        _discl.setAttribute('open', '');
+      }
+    }
+    if (_discl) {
+      _discl.addEventListener('toggle', () => { _discl.dataset.touched = '1'; });
+      _disclMq.addEventListener('change', _syncDiscl);
+      _syncDiscl();
+    }
   })();
   </script>
 </body>

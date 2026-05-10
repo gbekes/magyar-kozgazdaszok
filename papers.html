@@ -19,31 +19,34 @@
       </div>
 
       <div class="layout-filter">
-        <aside class="filter-sidebar">
-          <h3>About Hungary</h3>
-          <div id="filter-hungary"></div>
+        <details class="filter-disclosure" open>
+          <summary>Filters<span id="filter-count" class="filter-count"></span></summary>
+          <aside class="filter-sidebar">
+            <h3>About Hungary</h3>
+            <div id="filter-hungary"></div>
 
-          <h3>Topic</h3>
-          <div id="filter-topics" class="filter-scroll"></div>
+            <h3>Topic</h3>
+            <div id="filter-topics" class="filter-scroll"></div>
 
-          <h3>Method</h3>
-          <div id="filter-methods" class="filter-scroll"></div>
+            <h3>Method</h3>
+            <div id="filter-methods" class="filter-scroll"></div>
 
-          <h3>Publication type</h3>
-          <div id="filter-types"></div>
+            <h3>Publication type</h3>
+            <div id="filter-types"></div>
 
-          <h3>Year</h3>
-          <div style="display:flex; gap:0.3rem; align-items:center;">
-            <input id="year-from" type="number" placeholder="from" min="1960" max="2030" style="width:50%;">
-            <span>–</span>
-            <input id="year-to" type="number" placeholder="to" min="1960" max="2030" style="width:50%;">
-          </div>
+            <h3>Year</h3>
+            <div style="display:flex; gap:0.3rem; align-items:center;">
+              <input id="year-from" type="number" placeholder="from" min="1960" max="2030" style="width:50%;">
+              <span>–</span>
+              <input id="year-to" type="number" placeholder="to" min="1960" max="2030" style="width:50%;">
+            </div>
 
-          <h3>Language</h3>
-          <div id="filter-languages"></div>
+            <h3>Language</h3>
+            <div id="filter-languages"></div>
 
-          <button class="reset" type="button" id="reset-filters">Reset filters</button>
-        </aside>
+            <button class="reset" type="button" id="reset-filters">Reset filters</button>
+          </aside>
+        </details>
 
         <section>
           <div class="result-head">
@@ -241,6 +244,17 @@
       document.querySelectorAll('#filter-methods input').forEach(cb => cb.checked = state.methods.has(cb.value));
       document.querySelectorAll('#filter-types input').forEach(cb => cb.checked = state.types.has(cb.value));
       document.querySelectorAll('#filter-languages input').forEach(cb => cb.checked = state.languages.has(cb.value));
+
+      // active-filter count for the mobile disclosure summary
+      const totalActive = state.topics.size + state.methods.size + state.types.size
+                        + state.languages.size + state.hungary.size
+                        + ((state.yearFrom || state.yearTo) ? 1 : 0)
+                        + (state.query ? 1 : 0);
+      const fc = document.getElementById('filter-count');
+      if (fc) {
+        fc.textContent = totalActive ? `(${totalActive} active)` : '';
+        fc.classList.toggle('has-active', totalActive > 0);
+      }
     }
 
     // wire up events
@@ -276,6 +290,24 @@
       document.getElementById('paper-search').value = '';
       applyAndRender();
     });
+
+    // Mobile disclosure: closed by default on phones, open on desktop. Re-syncs
+    // on viewport change so resizing browsers behaves predictably.
+    const _disclMq = window.matchMedia('(max-width: 800px)');
+    const _discl = document.querySelector('.filter-disclosure');
+    function _syncDiscl() {
+      if (!_discl) return;
+      if (_disclMq.matches) {
+        if (!_discl.dataset.touched) _discl.removeAttribute('open');
+      } else {
+        _discl.setAttribute('open', '');
+      }
+    }
+    if (_discl) {
+      _discl.addEventListener('toggle', () => { _discl.dataset.touched = '1'; });
+      _disclMq.addEventListener('change', _syncDiscl);
+      _syncDiscl();
+    }
 
     applyAndRender();
   })();

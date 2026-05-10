@@ -241,11 +241,59 @@ section.block > h2 {
 }
 @media (max-width: 800px) {
   .layout-filter { grid-template-columns: 1fr; }
-  /* On mobile the sticky full-height sidebar pushed papers off-screen;
-     drop sticky and cap height so the paper list is visible right below. */
-  .filter-sidebar {
-    position: static;
-    max-height: 14rem;
+  /* On mobile, the sidebar sits inside a <details class="filter-disclosure">
+     wrapper so the user can collapse it with one tap (rules below). */
+  .filter-sidebar { position: static; }
+}
+
+/* ---------- filter / info disclosure (mobile collapse) ----------
+   Markup: <details class="filter-disclosure" open>
+             <summary>Filters <span class="filter-count"></span></summary>
+             <aside class="filter-sidebar">…</aside>
+           </details>
+   On desktop the <summary> is hidden and the aside is always visible.
+   On mobile, the disclosure is closed by default (JS strips `open`);
+   tapping the summary expands it inline, scrolling internally if long. */
+.filter-disclosure > summary { display: none; }
+.filter-count {
+  font-size: 0.85em;
+  color: var(--ink-3);
+  font-weight: 400;
+  margin-left: 0.4em;
+}
+.filter-count.has-active {
+  color: var(--v-3);
+  font-weight: 600;
+}
+@media (max-width: 800px) {
+  .filter-disclosure > summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.6rem 0.85rem;
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    cursor: pointer;
+    list-style: none;
+    font-weight: 500;
+    font-size: 0.95rem;
+    user-select: none;
+  }
+  .filter-disclosure > summary::-webkit-details-marker { display: none; }
+  .filter-disclosure > summary::before {
+    content: "▶";
+    margin-right: 0.5rem;
+    font-size: 0.8em;
+    color: var(--ink-3);
+  }
+  .filter-disclosure[open] > summary::before { content: "▼"; }
+  .filter-disclosure[open] > summary { border-bottom: 0; }
+  /* When open on mobile, cap inner sidebar so the paper list is still
+     reachable below by scrolling; the aside scrolls internally. */
+  .filter-disclosure[open] .filter-sidebar {
+    max-height: 60vh;
+    overflow-y: auto;
+    border-top: 0;
   }
 }
 .filter-sidebar {
