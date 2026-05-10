@@ -1,0 +1,34 @@
+QA sample report — 2026-05-10 21:23 (seed 1778441018)
+================================================================
+T01  PASS   Author-ID resolution               — paper kertesi-kezdi-2011-aer
+T02  PASS   Topic vocabulary                   — paper ambrus-azevedo-et-al-2013-te
+T03  PASS   Journal whitelist                  — paper danis-2017-ms
+T04  PASS   Methods vocabulary                 — paper koczy-2006-jmathe
+T05  PASS   Data-types vocabulary              — paper benczur-katay-et-al-2018-em
+T06  PASS   Country-code shape                 — paper halpern-2013-wp
+T07  PASS   summary_en length                  — paper biro-szabo-2021-tejoh :: 76 words
+T08  FAIL   data_used length                   — paper simonovits-2020-ksz :: 13 words (target 25-110; SPEC 40-80)
+T09  PASS   policy_relevance length            — paper hsu-lai-et-al-2020-jbes :: 46 words
+T10  PASS   HU/EN length ratio                 — paper cai-szeidl-2017-qje :: ratio 1.17
+T11  PASS   Qualifying publication exists      — author benczur-peter
+T12  PASS   Author has ≥1 paper                — author eso-peter
+T13  PASS   Press → paper link                 — press lindner-2020-ujegyenloseg-mw
+T14  PASS   Policy → paper link                — policy murakozy-telegdy-2021-mt-eu-grants
+T15  PASS   review_status integrity            — paper lehman-kovacs-carroll-2014-mansci :: status=ai-drafted
+T16  PASS   HU-country consistency             — paper lenard-horn-et-al-2024-joep
+T17  PASS   HU-mention consistency             — paper darvas-simon-2000-eot
+T18  PASS   HU-relevant has summary_hu         :: no HU-relevant papers missing summary_hu
+T19  PASS   summary_hu is Hungarian            — paper biro-elek-2020-labec
+T20  PASS   policy_relevance names HU actor    — paper lorincz-ilyes-et-al-2024-ksz
+T21  PASS   DOI resolves                       — paper takats-temesvary-2020-jie :: HTTP 200
+T22  PASS   Author website resolves            — author juhasz-sandor :: HTTP 200
+T23  PASS   Author photo loads                 — author sarvary-miklos :: HTTP 200
+T24  PASS   Policy URL resolves                — policy hermann-2022-mt-segregation :: HTTP 200
+T25  PASS   RePEc page resolves                — author konya-istvan :: HTTP 200 (/e/)
+T26  PASS   HU pages don't leak to EN          — file hu/papers.html
+T27  PASS   Authors match OpenAlex             — paper csafordi-lorincz-et-al-2018-jtt :: 4 authors aligned
+
+Summary: 26/27 PASS, 1 FAIL, 0 SKIP
+
+Failures by category:
+  [format-warning    ] T08 paper simonovits-2020-ksz :: 13 words (target 25-110; SPEC 40-80)
