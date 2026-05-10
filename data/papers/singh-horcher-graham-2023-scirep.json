@@ -1,0 +1,47 @@
+{
+  "id": "singh-horcher-graham-2023-scirep",
+  "title": "An evaluation framework for operational interventions on urban mass public transport during a pandemic",
+  "authors": [
+    "Ramandeep Singh",
+    "horcher-daniel",
+    "Daniel J. Graham"
+  ],
+  "publication_type": "article",
+  "journal": "Scientific Reports",
+  "year": 2023,
+  "volume": "13",
+  "issue": null,
+  "pages": "4615",
+  "doi": "10.1038/s41598-023-31892-2",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1038/s41598-023-31892-2",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "How should a metro operator change service patterns under a pandemic — fewer trains? More dwell time? Different signalling? Singh, Hörcher and Graham build a simulation framework that jointly evaluates passenger safety, journey-time costs, and operating costs of pandemic-era interventions. Applied to London Underground's Victoria line, the framework finds optimised schedules deliver 12.3 % to 195.7 % performance improvements over the ad-hoc pandemic-era service levels. The headline lesson is that intuitive crisis responses (just run less) leave large welfare losses on the table; coordinated frequency-dwell-signalling adjustments dominate.",
+  "summary_hu": "Hogyan változtassa egy metróüzemeltető a szolgáltatási mintázatokat egy járvány alatt — kevesebb vonat? Hosszabb megállás? Más jelzőrendszer? Singh, Hörcher és Graham szimulációs keretet épít, amely együttesen értékeli az utasbiztonságot, az utazási idő költségét és az üzemeltetési költségeket a járvány alatti beavatkozásokra. A londoni Victoria vonalra alkalmazva az optimalizált menetrendek 12,3 %-tól 195,7 %-ig terjedő teljesítményjavítást nyújtanak a járvány korabeli ad hoc szolgáltatási szintekhez képest. A fő tanulság, hogy az intuitív válságválaszok (egyszerűen kevesebb járat) jelentős jóléti veszteséget hagynak az asztalon; az összehangolt frekvencia-megállás-jelzőrendszer kiigazítások felülmúlják.",
+  "data_used": "Simulation framework calibrated to London Underground Victoria line: pre-pandemic operational data (train frequencies, dwell times, signalling parameters), passenger demand profiles by station and time of day, and a SEIR-style infection-risk overlay parameterised from COVID-era public-health evidence. Counterfactual operational schemes are evaluated against multi-objective performance criteria.",
+  "data_used_hu": "Szimulációs keret a londoni Victoria metróvonalra kalibrálva: járvány előtti üzemeltetési adatok (vonatfrekvenciák, megállási idők, jelzőrendszer-paraméterek), állomás és napszak szerinti utaskereslet, valamint a COVID-korszak közegészségügyi bizonyítékaira parametrizált SEIR-jellegű fertőzéskockázati réteg. A vizsgálati üzemeltetési sémákat többcélú teljesítménykritériumok alapján értékelik.",
+  "policy_relevance": "Direct relevance for BKK and NNK in pandemic-preparedness planning for the Budapest metro and HÉV. The framework is portable — the M2/M3/M4 lines could be analysed similarly with TfL-style operational data, identifying which combination of frequency cuts, dwell-time adjustments, and ventilation interventions minimises infection risk per unit of service-quality loss. A practical analytical tool for the next pandemic, not just a retrospective.",
+  "policy_relevance_hu": "Közvetlen relevancia a BKK és az NNK számára a budapesti metró és HÉV járványkészültségi tervezéséhez. A keret hordozható — az M2/M3/M4 vonalakat hasonlóképpen lehetne elemezni TfL-stílusú üzemeltetési adatokkal, azonosítva a frekvenciacsökkentés, megállási idő igazítás és szellőztetési beavatkozások mely kombinációja minimalizálja a fertőzéskockázatot egységnyi szolgáltatásminőség-veszteségre. Gyakorlati elemző eszköz a következő járványra, nem csak visszatekintés.",
+  "topics": [
+    "regional-urban",
+    "health",
+    "methods"
+  ],
+  "methods": [
+    "structural"
+  ],
+  "countries_studied": [
+    "GB"
+  ],
+  "data_types": [
+    "admin-spatial",
+    "digital-trace"
+  ],
+  "featured": false,
+  "added_at": "2026-05-10",
+  "last_reviewed_at": "2026-05-10",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4361279749"
+}

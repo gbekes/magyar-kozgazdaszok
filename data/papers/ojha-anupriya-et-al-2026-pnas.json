@@ -1,0 +1,47 @@
+{
+  "id": "ojha-anupriya-et-al-2026-pnas",
+  "title": "Uncovering how transport access reduces deprivation: When colocation misleads",
+  "authors": [
+    "Surabhi Ojha",
+    "Anupriya",
+    "horcher-daniel",
+    "Daniel J. Graham"
+  ],
+  "publication_type": "article",
+  "journal": "Proceedings of the National Academy of Sciences",
+  "year": 2026,
+  "volume": null,
+  "issue": null,
+  "pages": null,
+  "doi": "10.1073/pnas.2532730123",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1073/pnas.2532730123",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Does easier transport access actually reduce deprivation, or do the two just happen to colocate in the same neighbourhoods? Ojha, Anupriya, Hörcher and Graham study London with three competing accessibility measures (gravity, cumulative-opportunity, random-utility) and use road-safety variation as an instrument to recover causal effects. Simple correlations suggest accessibility and deprivation move together; the IV-based causal estimates instead show that accessibility improvements consistently *reduce* deprivation across employment, education and health domains. The random-utility measure is strongly non-linear — small improvements at low-access locations matter more than equal-sized improvements at well-connected ones. A clean argument that transport-investment appraisal cannot rely on correlation alone.",
+  "summary_hu": "Tényleg csökkenti-e a könnyebb közlekedési hozzáférés a hátrányos helyzetet, vagy a kettő csak egymás mellett található ugyanazokban a kerületekben? Ojha, Anupriya, Hörcher és Graham Londont vizsgálja három versengő hozzáférési mérőszámmal (gravitációs, kumulatív lehetőségi, véletlen hasznosság), és a közúti közlekedésbiztonsági variációt használja instrumentumként a kauzális hatás kinyerésére. Az egyszerű korrelációk azt sugallják, hogy a hozzáférés és a hátrány együtt mozog; a IV-alapú kauzális becslések szerint a hozzáférés javítása következetesen *csökkenti* a hátrányt foglalkoztatási, oktatási és egészségügyi területeken. A véletlen-hasznosság mérőszám erősen nem-lineáris — a kis javítások a rossz hozzáférésű helyeken többet érnek, mint az ugyanakkora javítások a már jól bekötött helyeken. Tiszta érvelés amellett, hogy a közlekedési beruházások értékelése nem támaszkodhat csupán a korrelációra.",
+  "data_used": "London-wide georeferenced data on transport accessibility (combining the London Travel Demand Survey, TfL/Network Rail timetables, and OD matrices), neighbourhood-level deprivation indices from the UK Index of Multiple Deprivation, and road-safety records used as the instrumental variable. Three alternative accessibility constructions (gravity, cumulative-opportunity, random-utility) are compared. IV estimation with controls for area characteristics and pre-investment baseline deprivation.",
+  "data_used_hu": "Londonra vonatkozó georeferenced adatok a közlekedési hozzáférhetőségről (a London Travel Demand Survey, a TfL/Network Rail menetrendek és OD-mátrixok kombinálásával), kerületszintű hátrányosság-indexek a UK Index of Multiple Deprivation-ből, valamint közúti közlekedésbiztonsági adatok mint instrumentum. Három alternatív hozzáférhetőségi szerkezet (gravitációs, kumulatív lehetőségi, véletlen-hasznosság) kerül összehasonlításra. IV-becslés területi jellemzőkre és beruházás előtti hátrányosságra való kontrollokkal.",
+  "policy_relevance": "Methodological benchmark for the Magyar Államkincstár, NKFIH, and HÉTFA when appraising Budapest agglomeration transport investments (M3 line refurbishment, suburban-rail upgrades, MÁV electrification). The headline message — correlation-based appraisal systematically misreads accessibility's effect on disadvantage, and the random-utility measure rewards investments in poorly-connected districts disproportionately — has direct implications for how the EU Cohesion-Fund and CEF transport pipelines should be ranked in Hungary. Also relevant for KSH when constructing accessibility indicators for the Magyar Területi Fejlettségi Index.",
+  "policy_relevance_hu": "Módszertani benchmark a Magyar Államkincstár, az NKFIH és a HÉTFA számára a budapesti agglomeráció közlekedési beruházásainak (M3 metró felújítás, elővárosi vasút fejlesztések, MÁV villamosítás) értékeléséhez. A fő üzenet — hogy a korrelációs értékelés rendszerszinten félreolvassa a hozzáférés hatását a hátrányosságra, és a véletlen-hasznosság mérőszám aránytalanul jutalmazza a rossz hozzáférésű kerületekbe való beruházást — közvetlen következményekkel bír arra, hogyan kell rangsorolni az EU Kohéziós Alap és a CEF közlekedési csővezetékét Magyarországon. Releváns a KSH számára is, amikor a Magyar Területi Fejlettségi Index hozzáférhetőségi mutatóit építi.",
+  "topics": [
+    "regional-urban",
+    "inequality-welfare",
+    "methods"
+  ],
+  "methods": [
+    "iv"
+  ],
+  "countries_studied": [
+    "GB"
+  ],
+  "data_types": [
+    "admin-spatial"
+  ],
+  "featured": true,
+  "added_at": "2026-05-10",
+  "last_reviewed_at": "2026-05-10",
+  "review_status": "ai-drafted",
+  "openalex_id": "W7158303478"
+}
