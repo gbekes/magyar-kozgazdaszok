@@ -1,0 +1,36 @@
+QA sample report — 2026-05-10 14:41 (seed 1024)
+================================================================
+T01  PASS   Author-ID resolution               — paper acs-song-et-al-2021-sbe
+T02  PASS   Topic vocabulary                   — paper juhasz-elekes-et-al-2026-joeg
+T03  PASS   Journal whitelist                  — paper granat-lehmann-et-al-2023-frl
+T04  PASS   Methods vocabulary                 — paper eriksson-lengyel-2018-eg
+T05  PASS   Data-types vocabulary              — paper zrubka-beretzky-et-al-2019-eujhe
+T06  PASS   Country-code shape                 — paper benedek-fliege-et-al-2020-mathprog
+T07  PASS   summary_en length                  — paper hermann-horvath-2022-ksz :: 107 words
+T08  FAIL   data_used length                   — paper kiss-rodriguez-lara-et-al-2012-jomca :: 21 words (target 25-110; SPEC 40-80)
+T09  PASS   policy_relevance length            — paper fredriksson-neumayer-et-al-2007-pc :: 51 words
+T10  PASS   HU/EN length ratio                 — paper szeidl-szucs-2021-ecma :: ratio 1.04
+T11  PASS   Qualifying publication exists      — author konya-istvan
+T12  PASS   Author has ≥1 paper                — author vonyo-tamas
+T13  PASS   Press → paper link                 — press juhasz-jazzy-podcast-ip
+T14  PASS   Policy → paper link                — policy murakozy-telegdy-2021-mt-eu-grants
+T15  PASS   review_status integrity            — paper barany-siegel-2018-aejm :: status=ai-drafted
+T16  PASS   HU-country consistency             — paper reizer-2022-labec
+T17  PASS   HU-mention consistency             — paper temesvary-2015-ijio
+T18  PASS   HU-relevant has summary_hu         :: no HU-relevant papers missing summary_hu
+T19  PASS   summary_hu is Hungarian            — paper beauregard-connolly-et-al-2022-cjoec
+T20  FAIL   policy_relevance names HU actor    — paper simonovits-1991-jce :: no HU institution / actor named
+T21  FAIL   DOI resolves                       — paper gabos-gal-et-al-2009-ps :: HTTP 403 for https://doi.org/10.1080/00324720903215293
+T22  PASS   Author website resolves            — author benczur-peter :: HTTP 200
+T23  PASS   Author photo loads                 — author laczo-sarolta :: HTTP 200
+T24  PASS   Policy URL resolves                — policy darvas-greppi-et-al-2026-bruegel-wp-imbalances :: HTTP 200
+T25  PASS   RePEc page resolves                — author konya-istvan :: HTTP 200 (/e/)
+T26  PASS   HU pages don't leak to EN          — file hu/papers.html
+T27  PASS   Authors match OpenAlex             — paper heidhues-koszegi-2015-roio :: 2 authors aligned
+
+Summary: 24/27 PASS, 3 FAIL, 0 SKIP
+
+Failures by category:
+  [format-warning    ] T08 paper kiss-rodriguez-lara-et-al-2012-jomca :: 21 words (target 25-110; SPEC 40-80)
+  [plausibility-flag ] T20 paper simonovits-1991-jce :: no HU institution / actor named
+  [liveness-flag     ] T21 paper gabos-gal-et-al-2009-ps :: HTTP 403 for https://doi.org/10.1080/00324720903215293

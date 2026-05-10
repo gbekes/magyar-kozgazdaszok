@@ -24,7 +24,7 @@ Usage:
 Dependencies: stdlib only (urllib for liveness tests).
 """
 from __future__ import annotations
-import argparse, json, random, re, sys, time, urllib.request, urllib.error
+import argparse, json, random, re, sys, time, unicodedata, urllib.request, urllib.error
 from pathlib import Path
 from datetime import datetime
 
@@ -525,6 +525,95 @@ def t24_policy_url(rng):
                   f"policy {item['id']}", f"HTTP {code} for {item['url']}")
 
 
+def _normalise_name(s: str) -> str:
+    """Strip diacritics, treat hyphens as spaces, lowercase, alpha-only."""
+    if not s:
+        return ""
+    s = unicodedata.normalize("NFD", s)
+    s = "".join(ch for ch in s if unicodedata.category(ch) != "Mn")
+    s = s.replace("-", " ")
+    s = re.sub(r"[^A-Za-z\s]", " ", s)
+    return " ".join(s.split()).lower()
+
+
+def _name_to_key(display_name: str):
+    """Reduce a display name to (given, surname) — first and last alpha tokens.
+    Returns None for empty / single-token strings (which we don't try to match)."""
+    parts = _normalise_name(display_name).split()
+    if len(parts) < 2:
+        return None
+    return (parts[0], parts[-1])
+
+
+def _resolve_paper_authors(p, authors_by_id):
+    """Yield display names for every entry in paper.authors, resolving slugs
+    to data/authors/<slug>.name_en and passing free-text strings through."""
+    for entry in (p.get("authors") or []):
+        if entry in authors_by_id:
+            disp = authors_by_id[entry].get("name_en") or entry
+        else:
+            disp = entry
+        yield disp
+
+
+def t27_authors_match_openalex(papers, authors, rng):
+    """For a random paper with a DOI, fetch OpenAlex's author list and check
+    that the (given, surname) keys match the catalogue's. Catches the
+    Báró/Bíró-style ingestion hallucinations.
+
+    Liveness-flag on network failure (the test isn't a defect tag because
+    a transient HTTP failure shouldn't block; defect-grade evidence has
+    to come from a successful fetch)."""
+    pool = [p for p in papers
+            if not is_locked(p) and has(p, "doi") and (p.get("authors") or [])]
+    if not pool:
+        return skip("T27", "Authors match OpenAlex", "defect", "pool empty")
+    p = rng.choice(pool)
+
+    by_id = {a["id"]: a for a in authors}
+
+    cat_keys = set()
+    for disp in _resolve_paper_authors(p, by_id):
+        k = _name_to_key(disp)
+        if k:
+            cat_keys.add(k)
+    if not cat_keys:
+        return skip("T27", "Authors match OpenAlex", "defect", "no parseable names")
+
+    url = f"https://api.openalex.org/works/doi:{p['doi']}"
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+        with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
+            j = json.loads(r.read())
+    except Exception as e:
+        return Result("T27", "Authors match OpenAlex", "liveness-flag", "FAIL",
+                      f"paper {p['id']}", f"OpenAlex fetch failed: {type(e).__name__}")
+
+    oa_keys = set()
+    for ship in (j.get("authorships") or []):
+        disp = (ship.get("author") or {}).get("display_name") or ""
+        k = _name_to_key(disp)
+        if k:
+            oa_keys.add(k)
+    if not oa_keys:
+        return skip("T27", "Authors match OpenAlex", "defect",
+                    f"OpenAlex returned no parseable authors for {p['id']}")
+
+    extra = cat_keys - oa_keys     # in catalogue but not OpenAlex
+    missing = oa_keys - cat_keys   # in OpenAlex but not catalogue
+
+    if extra or missing:
+        bits = []
+        if extra:
+            bits.append("extra: " + ", ".join(f"{g} {s}" for g, s in sorted(extra)))
+        if missing:
+            bits.append("missing: " + ", ".join(f"{g} {s}" for g, s in sorted(missing)))
+        return Result("T27", "Authors match OpenAlex", "defect", "FAIL",
+                      f"paper {p['id']}", "; ".join(bits))
+    return Result("T27", "Authors match OpenAlex", "defect", "PASS",
+                  f"paper {p['id']}", f"{len(cat_keys)} authors aligned")
+
+
 _HU_LEAK_RE = re.compile(r'href="\.\./([^"]+?\.html(?:[?#][^"]*)?)"')
 
 def t26_hu_no_en_leak(rng):
@@ -615,6 +704,7 @@ def run_all(seed: int | None = None):
         ("T24", lambda: t24_policy_url(rng)),
         ("T25", lambda: t25_repec(authors, rng)),
         ("T26", lambda: t26_hu_no_en_leak(rng)),
+        ("T27", lambda: t27_authors_match_openalex(papers, authors, rng)),
     ]
 
     results = []
