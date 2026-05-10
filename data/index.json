@@ -1871,7 +1871,7 @@
         "US",
         "HU"
       ],
-      "paper_count": 0,
+      "paper_count": 4,
       "policy_count": 0,
       "press_count": 0
     },
@@ -2453,7 +2453,7 @@
       "countries": [
         "HU"
       ],
-      "paper_count": 18,
+      "paper_count": 19,
       "policy_count": 1,
       "press_count": 0
     },
@@ -20624,6 +20624,59 @@
       ]
     },
     {
+      "id": "erceg-jakab-linde-2021-jedc",
+      "title": "Monetary policy strategies for the European Central Bank",
+      "authors": [
+        "Christopher J. Erceg",
+        "jakab-zoltan",
+        "Jesper Lindé"
+      ],
+      "publication_type": "article",
+      "journal": "Journal of Economic Dynamics and Control",
+      "year": 2021,
+      "volume": "132",
+      "issue": null,
+      "pages": "104211",
+      "doi": "10.1016/j.jedc.2021.104211",
+      "working_paper_series": "IMF WP/20/268",
+      "url_published": "https://doi.org/10.1016/j.jedc.2021.104211",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "Should the European Central Bank reformulate its monetary-policy strategy after years stuck near the effective lower bound? Erceg, Jakab and Lindé use an estimated two-region DSGE model to compare the ECB's previous \"below, but close to, 2 percent\" target with three alternatives: a symmetric inflation target, average-inflation targeting, and price-level targeting. They find that any of the three alternatives raises both output and inflation in the euro area relative to the original framework, and that price-level / make-up strategies in particular help anchor expectations when the policy rate is constrained. The paper provides a quantitative input to the 2020–2021 ECB strategy review.",
+      "summary_hu": "Át kell-e dolgoznia az Európai Központi Banknak monetáris-politikai stratégiáját azután, hogy éveken át a kamat-alsóhatár közelében ragadt? Erceg, Jakab és Lindé becsült kétrégiós DSGE-modellben hasonlítja össze az EKB korábbi „2% alatt, de ahhoz közeli” célját három alternatívával: szimmetrikus inflációs cél, átlagos inflációs célkövetés és ár-szint-célzás. Azt találják, hogy bármelyik alternatíva emeli mind a kibocsátást, mind az inflációt az euróövezetben az eredeti kerethez képest, és különösen az ár-szint- / utólagos-pótló stratégiák segítenek lehorgonyozni a várakozásokat akkor, ha a jegybanki kamat korlátozott. A tanulmány kvantitatív input volt a 2020–2021-es EKB stratégiai felülvizsgálathoz.",
+      "data_used": "Two-region (US and euro area) New Keynesian DSGE model with a financial-accelerator block, estimated on US and euro-area macro time series (output, inflation, policy rates, asset prices) covering roughly 1995–2019. Counterfactual simulations of alternative monetary-policy strategies under shocks calibrated to actual euro-area history.",
+      "data_used_hu": "Kétrégiós (USA és euróövezet) Új Keynesi DSGE-modell pénzügyi-akcelerátor blokkal, amerikai és euróövezeti makroidősorokra becsülve (kibocsátás, infláció, jegybanki kamatok, eszközárak), kb. 1995–2019. Alternatív monetáris-politikai stratégiák ellenpéldás szimulációi a tényleges euróövezeti történet alapján kalibrált sokkok mellett.",
+      "policy_relevance": "Direct input to the ECB strategy review and, indirectly, to MNB monetary-policy decisions. The paper supports the case that even a small open economy with a managed-float currency benefits when its main reference central bank (ECB) credibly commits to a make-up strategy — anchoring inflation expectations and reducing the spillover volatility into Hungarian financial conditions. Useful framework for MNB scenario analysis around ECB-policy regime changes.",
+      "policy_relevance_hu": "Közvetlen input volt az EKB stratégiai felülvizsgálatához és közvetve az MNB monetáris-politikai döntéseihez. A tanulmány alátámasztja, hogy egy kis nyitott, lebegtetett árfolyamú gazdaság is profitál, ha a fő referencia-jegybank (EKB) hitelesen elkötelezi magát egy utólagos-pótló stratégia mellett — lehorgonyozva az inflációs várakozásokat és csökkentve a magyar pénzügyi feltételekre gyakorolt átgyűrűzési volatilitást. Hasznos keret az MNB számára az EKB-rendszerváltozások körüli forgatókönyv-elemzéshez.",
+      "topics": [
+        "macroeconomics",
+        "banking-finance"
+      ],
+      "methods": [
+        "structural",
+        "time-series"
+      ],
+      "countries_studied": [
+        "EU",
+        "US"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
+      "policy_instruments": [
+        "inflation targeting",
+        "average-inflation targeting",
+        "price-level targeting",
+        "ECB strategy review"
+      ],
+      "featured": false,
+      "added_at": "2026-05-10",
+      "last_reviewed_at": "2026-05-10",
+      "review_status": "ai-drafted",
+      "openalex_id": null
+    },
+    {
       "id": "eriksson-lengyel-2018-eg",
       "title": "Co-worker Networks and Agglomeration Externalities",
       "authors": [
@@ -27725,6 +27778,109 @@
         "monetary-policy modelling",
         "DSGE model calibration"
       ]
+    },
+    {
+      "id": "jakab-konya-2016-emft",
+      "title": "An Open Economy DSGE Model with Search-and-Matching Frictions: The Case of Hungary",
+      "authors": [
+        "jakab-zoltan",
+        "konya-istvan"
+      ],
+      "publication_type": "article",
+      "journal": "Emerging Markets Finance and Trade",
+      "year": 2016,
+      "volume": "52",
+      "issue": "7",
+      "pages": "1606-1626",
+      "doi": "10.1080/1540496x.2014.1000174",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1080/1540496x.2014.1000174",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "This article builds and estimates a medium scale, small open economy DSGE model augmented with search-and-matching frictions in the labor market, and different wage setting behavior in new and existing jobs. The model is estimated using Hungarian data between 2001–2008. We find that: (i) the inclusion of matching frictions significantly improves the model's empirical fit; (ii) the extent of new hires wage rigidity is quantitatively important for key macro variables; (iii) labor market shocks do not play an important role in inflation dynamics, but the structure of the labor market influences the propagation of various shocks.",
+      "summary_en": "How well does a standard small-open-economy DSGE model fit Hungarian data once labour-market frictions are taken seriously? Jakab and Kónya add search-and-matching frictions and distinguish wage flexibility for new vs. existing hires, then estimate the model on Hungarian quarterly data 2001–2008. Three findings: (i) matching frictions substantially improve empirical fit; (ii) the extent to which new hires' wages are rigid is quantitatively important for key macro variables (inflation, output); (iii) labour-market shocks do not drive inflation, but the labour-market structure shapes how other shocks propagate.",
+      "summary_hu": "Mennyire illeszkedik a magyar adatokra a standard kis-nyitott-gazdaság DSGE-modell, ha komolyan vesszük a munkaerő-piaci súrlódásokat? Jakab és Kónya keresési-illesztési súrlódásokat ad a modellhez, és megkülönbözteti az új és a meglévő munkavállalók bérrugalmasságát, majd a modellt magyar negyedéves adatokra (2001–2008) becsüli. Három megállapítás: (i) az illesztési súrlódások érdemben javítják az empirikus illeszkedést; (ii) az új belépők bérének merevsége számszerűen fontos a kulcs makrováltozók (infláció, kibocsátás) szempontjából; (iii) a munkaerő-piaci sokkok nem hajtják az inflációt, de a munkaerő-piac szerkezete formálja más sokkok továbbterjedését.",
+      "data_used": "Hungarian quarterly macroeconomic time series 2001–2008 (output, inflation, employment, wages, interest and exchange rates) used to Bayesian-estimate a medium-scale small-open-economy DSGE model with search-and-matching labour-market block.",
+      "data_used_hu": "Magyar negyedéves makrogazdasági idősorok 2001–2008 (kibocsátás, infláció, foglalkoztatás, bérek, kamat- és árfolyamok), egy közepes méretű kis-nyitott-gazdaság DSGE-modell Bayes-becsléséhez, keresési-illesztési munkaerő-piaci blokkal.",
+      "policy_relevance": "Direct input for MNB DSGE-model-based forecasting and policy analysis. The paper shows that ignoring matching frictions and the new-hire-vs-incumbent wage distinction misspecifies the propagation of demand and supply shocks in Hungary — a meaningful caveat for MNB inflation-forecast and impulse-response work. Also relevant for NGM employment-policy modelling: the labour-market structure (vacancy duration, separation rates) shapes how monetary and external shocks translate into Hungarian unemployment.",
+      "policy_relevance_hu": "Közvetlen input az MNB DSGE-modellalapú előrejelzéséhez és politikai elemzéséhez. A tanulmány azt mutatja, hogy az illesztési súrlódások és az új-belépő-vs.-meglévő bérkülönbség figyelmen kívül hagyása rosszul specifikálja a kereslet- és kínálati sokkok terjedését Magyarországon — érdemi figyelmeztetés az MNB inflációs-előrejelzéseihez és impulzusválasz-elemzéseihez. Az NGM foglalkoztatáspolitikai modellezéséhez is releváns: a munkaerő-piaci szerkezet (állásüresedés időtartama, elkülönülési ráták) formálja, hogyan fordulnak le a monetáris és külső sokkok a magyar munkanélküliségre.",
+      "topics": [
+        "macroeconomics",
+        "labor-markets",
+        "transition-postcommunist"
+      ],
+      "methods": [
+        "structural",
+        "time-series"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
+      "policy_instruments": [
+        "DSGE forecasting",
+        "monetary policy"
+      ],
+      "featured": false,
+      "added_at": "2026-05-10",
+      "last_reviewed_at": "2026-05-10",
+      "review_status": "ai-drafted",
+      "openalex_id": null
+    },
+    {
+      "id": "jakab-kovacs-oszlay-2001-jce",
+      "title": "How Far Has Trade Integration Advanced? An Analysis of the Actual and Potential Trade of Three Central and Eastern European Countries",
+      "authors": [
+        "jakab-zoltan",
+        "Mihály Kovács",
+        "András Oszlay"
+      ],
+      "publication_type": "article",
+      "journal": "Journal of Comparative Economics",
+      "year": 2001,
+      "volume": "29",
+      "issue": "2",
+      "pages": "276-292",
+      "doi": "10.1006/jcec.2001.1709",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1006/jcec.2001.1709",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "By the late 1990s Hungary, Poland and the Czech Republic had reoriented their trade sharply toward Western Europe — but how close were they to the level of trade an EU-style integration would predict? Jakab, Kovács and Oszlay estimate gravity-model based 'potential trade' levels for the three countries and compare with realised flows. The reorientation toward the EU was already largely complete by the late 1990s; the puzzle was less about under-trade with the EU than about persistent under-trade among the three CEE countries themselves. The paper is widely cited as the empirical baseline for assessing whether transition economies had finished their pre-accession trade-reorientation.",
+      "summary_hu": "Az 1990-es évek végére Magyarország, Lengyelország és Csehország élesen Nyugat-Európa felé fordította kereskedelmét — de mennyire közelítették meg azt a kereskedelmi szintet, amit egy EU-típusú integráció előrejelzene? Jakab, Kovács és Oszlay gravitációs modellen alapuló „potenciális kereskedelmet” becsül a három országra, és összehasonlítja a tényleges áramlásokkal. Az EU felé fordulás az 1990-es évek végére már nagyrészt befejeződött; a fő rejtély nem az EU-val való alulkereskedelem volt, hanem a három KKE-ország közötti tartós alulkereskedelem. A tanulmány a csatlakozás-előtti kereskedelmi átirányulás befejezettségének értékelésében empirikus viszonyítási alappá vált.",
+      "data_used": "Bilateral trade flows between Hungary, Poland and the Czech Republic and a panel of trading partners in the 1990s, from Eurostat / OECD trade statistics. Gravity-model estimation of potential trade with country-pair characteristics (GDP, distance, common border, EU membership) as covariates.",
+      "data_used_hu": "Magyarország, Lengyelország és Csehország kétoldalú kereskedelmi áramlásai egy kereskedelmi-partner panellel az 1990-es években, az Eurostat / OECD kereskedelmi statisztikákból. A potenciális kereskedelem gravitációs modell becslése ország-pár jellemzőkkel (GDP, távolság, közös határ, EU-tagság) mint kovariánsokkal.",
+      "policy_relevance": "Foundational reference for Hungarian and CEE EU-accession trade-policy analysis (KKM, Pénzügyminisztérium, NGM). The paper documents that the EU re-orientation engine was already exhausted by the late 1990s and points to intra-CEE trade as the remaining gap — a finding that informed Visegrad-trade-cooperation discussions and the empirical setup for evaluating CEFTA effects. Methodologically a reusable gravity-model baseline for any subsequent Hungarian trade-policy assessment.",
+      "policy_relevance_hu": "Alapvető hivatkozás a magyar és KKE EU-csatlakozási kereskedelempolitikai elemzéshez (KKM, Pénzügyminisztérium, NGM). A tanulmány azt dokumentálja, hogy az EU-irányú átirányulási motor az 1990-es évek végére már kifulladt, és a megmaradó különbségként a KKE-n belüli kereskedelmet azonosította — ez a megállapítás befolyásolta a visegrádi kereskedelmi-együttműködési vitákat és a CEFTA-hatások értékelésének empirikus keretét. Módszertanilag újrahasznosítható gravitációs-modell alap bármely későbbi magyar kereskedelempolitikai értékeléshez.",
+      "topics": [
+        "trade-fdi",
+        "transition-postcommunist",
+        "macroeconomics"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU",
+        "PL",
+        "CZ"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
+      "policy_instruments": [
+        "EU accession",
+        "trade policy",
+        "CEFTA"
+      ],
+      "featured": false,
+      "added_at": "2026-05-10",
+      "last_reviewed_at": "2026-05-10",
+      "review_status": "ai-drafted",
+      "openalex_id": null
     },
     {
       "id": "jarocinski-karadi-2020-aejmac",
@@ -38603,6 +38759,57 @@
       "openalex_id": "W4406143687"
     },
     {
+      "id": "szapary-jakab-1998-jce",
+      "title": "Exchange Rate Policy in Transition Economies: The Case of Hungary",
+      "authors": [
+        "György Szapáry",
+        "jakab-zoltan"
+      ],
+      "publication_type": "article",
+      "journal": "Journal of Comparative Economics",
+      "year": 1998,
+      "volume": "26",
+      "issue": "4",
+      "pages": "691-717",
+      "doi": "10.1006/jcec.1998.1560",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1006/jcec.1998.1560",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "In March 1995 Hungary replaced its discretionary exchange-rate management with a pre-announced, narrow-band crawling peg as part of the Bokros stabilisation package. Did the new regime do its job? Szapáry (then deputy governor of MNB) and Jakab review Hungary's exchange-rate experience between 1990 and 1997, document the nominal and real-exchange-rate dynamics around the regime change, and argue that the crawling peg meaningfully strengthened policy credibility, lowered inflation expectations, and contributed to the disinflation that followed. The paper is one of the canonical contemporaneous accounts of the Bokros-era stabilisation.",
+      "summary_hu": "1995 márciusában Magyarország a Bokros-csomag részeként a diszkrecionális árfolyam-kezelést előre meghirdetett, szűk sávos csúszó leértékelésre cserélte. Megtette-e a dolgát az új rendszer? Szapáry (akkori MNB-alelnök) és Jakab áttekinti Magyarország 1990 és 1997 közötti árfolyam-tapasztalatát, dokumentálja a nominális és reál-árfolyam dinamikáját a rendszerváltás körül, és amellett érvel, hogy a csúszó leértékelés érdemben erősítette a politikai hitelességet, csökkentette az inflációs várakozásokat, és hozzájárult az ezt követő dezinflációhoz. A tanulmány a Bokros-éra stabilizációjának egyik kanonikus, egyidejű elemzése.",
+      "data_used": "Hungarian monthly macroeconomic time series 1990–1997 (consumer-price inflation, nominal and real exchange rates, monetary aggregates, current account, foreign-exchange reserves), drawn from MNB and KSH publications. Descriptive analysis with reference to the standard exchange-rate-regime-credibility literature.",
+      "data_used_hu": "Magyar havi makrogazdasági idősorok 1990–1997 (fogyasztói árindex, nominális és reálárfolyam, monetáris aggregátumok, folyófizetési mérleg, devizatartalékok), MNB és KSH kiadványokból. Leíró elemzés az árfolyam-rendszer hitelességéről szóló standard szakirodalom keretében.",
+      "policy_relevance": "Foundational policy reference for Hungarian exchange-rate-regime debates and for the historical understanding of the Bokros-era stabilisation. Although the specific 1995–2001 crawling-peg regime is no longer in place, the paper's framework — pre-announced parities as a credibility device when fiscal anchors are weak — remains relevant for emerging-economy stabilisation episodes. Useful background for MNB and Pénzügyminisztérium institutional history and for any future Hungarian regime-change planning (e.g., euro-adoption preparations).",
+      "policy_relevance_hu": "Alapvető szakpolitikai hivatkozás a magyar árfolyam-rendszer-vitákhoz és a Bokros-éra stabilizációjának történeti megértéséhez. Bár a konkrét 1995–2001-es csúszó leértékelési rendszer már nem érvényes, a tanulmány kerete — előre meghirdetett paritások mint hitelességi eszköz, amikor a fiskális horgony gyenge — releváns marad feltörekvő gazdasági stabilizációs epizódokra. Hasznos háttér az MNB és a Pénzügyminisztérium intézménytörténetéhez és bármely jövőbeli magyar rendszerváltási tervezéshez (pl. euró-bevezetési előkészületek).",
+      "topics": [
+        "macroeconomics",
+        "transition-postcommunist",
+        "banking-finance"
+      ],
+      "methods": [
+        "time-series",
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
+      "policy_instruments": [
+        "crawling peg",
+        "exchange-rate regime",
+        "Bokros stabilisation package"
+      ],
+      "featured": false,
+      "added_at": "2026-05-10",
+      "last_reviewed_at": "2026-05-10",
+      "review_status": "ai-drafted",
+      "openalex_id": null
+    },
+    {
       "id": "szeidl-szucs-2021-ecma",
       "title": "Media Capture through Favor Exchange",
       "authors": [
@@ -45400,7 +45607,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 123
+      "paper_count": 124
     },
     {
       "id": "education-skills",
@@ -45444,7 +45651,7 @@
       "policy_framing_en": "Relevant to: EU trade policy, FDI promotion, export promotion, supply chain resilience, industrial policy.",
       "policy_framing_hu": "Releváns: EU kereskedelempolitika, FDI ösztönzés, exporttámogatás, ellátási láncok rugalmassága, iparpolitika.",
       "icon": "globe",
-      "paper_count": 99
+      "paper_count": 100
     },
     {
       "id": "firms-productivity",
@@ -45477,7 +45684,7 @@
       "policy_framing_en": "Relevant to: MNB policy, banking regulation, macroprudential tools, financial inclusion.",
       "policy_framing_hu": "Releváns: MNB-politika, bankszabályozás, makroprudenciális eszközök, pénzügyi befogadás.",
       "icon": "landmark",
-      "paper_count": 173
+      "paper_count": 175
     },
     {
       "id": "fiscal-tax",
@@ -45543,7 +45750,7 @@
       "policy_framing_en": "Relevant to: long-run diagnoses of the Hungarian and CEE economy, lessons from 30+ years of transition, institutional path dependence.",
       "policy_framing_hu": "Releváns: a magyar és KKE gazdaság hosszú távú diagnózisa, 30+ év rendszerváltásának tanulságai, intézményi útfüggőség.",
       "icon": "flag",
-      "paper_count": 58
+      "paper_count": 61
     },
     {
       "id": "behavioral",
@@ -45576,7 +45783,7 @@
       "policy_framing_en": "Relevant to: long-run growth forecasting, macroeconomic modelling, sovereign-debt management, stabilisation policy design.",
       "policy_framing_hu": "Releváns: hosszú távú növekedés előrejelzés, makroökonómiai modellek, államadósság-kezelés, stabilizációs politika.",
       "icon": "line-chart",
-      "paper_count": 150
+      "paper_count": 154
     },
     {
       "id": "agriculture-food",
@@ -46953,7 +47160,7 @@
   ],
   "counts": {
     "authors": 98,
-    "papers": 803,
+    "papers": 807,
     "policy": 35,
     "press": 148,
     "topics": 21
