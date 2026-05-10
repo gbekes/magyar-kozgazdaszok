@@ -1823,6 +1823,59 @@
       "press_count": 0
     },
     {
+      "id": "jakab-zoltan",
+      "name_en": "Zoltán M. Jakab",
+      "name_hu": "Jakab M. Zoltán",
+      "affiliations": [
+        {
+          "name": "International Monetary Fund (Research Department)",
+          "name_hu": "Nemzetközi Valutaalap (Kutatási Osztály)",
+          "role": "Senior Economist",
+          "role_hu": "vezető közgazdász",
+          "start": null
+        },
+        {
+          "name": "Magyar Nemzeti Bank",
+          "name_hu": "Magyar Nemzeti Bank",
+          "role": "Research economist (former)",
+          "role_hu": "kutató közgazdász (korábban)",
+          "start": null
+        }
+      ],
+      "website": null,
+      "email": null,
+      "repec_id": "pja127",
+      "scholar_id": "PeCYBP8AAAAJ",
+      "orcid": "0000-0001-8357-2642",
+      "primary_fields": [
+        "macroeconomics",
+        "banking-finance",
+        "transition-postcommunist"
+      ],
+      "bio_en": "Zoltán M. Jakab is Senior Economist in the Research Department of the International Monetary Fund, where he works on monetary-fiscal interactions, DSGE modelling, and macroeconomic policy in advanced and emerging economies. Before the IMF he was a research economist at the Magyar Nemzeti Bank, where he led the bank's quarterly projection model and helped build the early Hungarian DSGE infrastructure. His joint work with Michael Kumhof on banks and money creation is widely cited; his journal articles appear in the Journal of Comparative Economics, the Journal of Economic Dynamics and Control, and Emerging Markets Finance and Trade.",
+      "bio_hu": "Jakab M. Zoltán a Nemzetközi Valutaalap (IMF) Kutatási Osztályának vezető közgazdásza; munkája a monetáris-fiskális kölcsönhatásokkal, DSGE-modellezéssel és a fejlett, illetve feltörekvő gazdaságok makropolitikájával foglalkozik. Az IMF előtt a Magyar Nemzeti Bank kutatójaként a jegybank negyedéves előrejelző modelljét vezette, és részt vett a magyar DSGE-infrastruktúra korai kiépítésében. Michael Kumhoffal közösen írt, a bankok pénzteremtő szerepéről szóló munkái széles körben idézettek; folyóiratcikkei többek között a Journal of Comparative Economicsban, a Journal of Economic Dynamics and Controlban és az Emerging Markets Finance and Tradeben jelentek meg.",
+      "photo_url": null,
+      "qualifying_publication": {
+        "title": "How Far Has Trade Integration Advanced?: An Analysis of the Actual and Potential Trade of Three Central and Eastern European Countries",
+        "journal": "Journal of Comparative Economics",
+        "year": 2001
+      },
+      "open_to_media_en": false,
+      "open_to_media_hu": false,
+      "media_note": null,
+      "review_status": "ai-drafted",
+      "openalex_id": "A5073531220",
+      "added_at": "2026-05-10",
+      "last_reviewed_at": "2026-05-10",
+      "countries": [
+        "US",
+        "HU"
+      ],
+      "paper_count": 0,
+      "policy_count": 0,
+      "press_count": 0
+    },
+    {
       "id": "janko-zsuzsanna",
       "name_en": "Zsuzsanna Jankó",
       "name_hu": "Jankó Zsuzsanna",
@@ -46899,7 +46952,7 @@
     }
   ],
   "counts": {
-    "authors": 97,
+    "authors": 98,
     "papers": 803,
     "policy": 35,
     "press": 148,
