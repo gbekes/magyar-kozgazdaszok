@@ -1,0 +1,46 @@
+{
+  "id": "boza-szabo-morvai-2025-ksz",
+  "title": "Gyermekvállalás és az anyák keresete a 2010-es években",
+  "authors": [
+    "boza-istvan",
+    "Ágnes Szabó-Morvai"
+  ],
+  "publication_type": "article",
+  "journal": "Közgazdasági Szemle",
+  "year": 2025,
+  "volume": "72",
+  "issue": "6",
+  "pages": "566-595",
+  "doi": "10.18414/KSZ.2025.6.566",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.18414/KSZ.2025.6.566",
+  "url_pdf": "https://real.mtak.hu/220211/",
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "How does childbearing affect Hungarian mothers' earnings, and has the relationship changed over the 2010s? Boza and Szabó-Morvai use Hungarian admin data spanning the 2010s — a decade of significant family-policy reforms (Nők40, GYED-extra, CSOK) — to estimate the child-earnings penalty for mothers. The penalty exists and is substantial, but its magnitude varies meaningfully across cohorts and earnings deciles. The estimate sets the empirical bar for what subsequent family-policy reforms in Hungary need to address if their stated goal is to reduce the maternal earnings gap.",
+  "summary_hu": "Hogyan hat a gyermekvállalás a magyar anyák keresetére, és változott-e ez a kapcsolat a 2010-es években? Boza és Szabó-Morvai magyar adminisztratív adatokat használ a 2010-es évek lefedésére — egy évtized jelentős család-szakpolitikai reformjaival (Nők40, GYED-extra, CSOK) — az anyák gyermek-kereseti büntetésének becslésére. A büntetés létezik és jelentős, de mértéke érdemben változik kohorszok és kereseti decilisek között. A becslés empirikus küszöböt állít fel arra, mit kell érintenie a következő magyar család-szakpolitikai reformoknak, ha kimondott céljuk az anyai kereseti szakadék csökkentése.",
+  "data_used": "Hungarian linked administrative data covering individual earnings and fertility records across the 2010s. Identification: event-study around first-birth event with worker fixed effects; heterogeneity decomposition by pre-birth earnings decile and by major family-policy reform window.",
+  "data_used_hu": "Magyar kapcsolt adminisztratív adatok az egyéni keresetekről és termékenységi rekordokról a 2010-es évek folyamán. Identifikáció: eseménytanulmány az első születés esemény körül munkavállalói fix hatásokkal; heterogenitás-felbontás születés előtti kereseti decilisek és nagyobb család-szakpolitikai reform-ablakok szerint.",
+  "policy_relevance": "Directly applicable to the Belügyminisztérium Family Strategy unit and to the EMMI Egészségbiztosítási Államtitkárság (GYED, GYES design). The paper provides a concrete Hungarian baseline for the motherhood earnings penalty — the metric any family-policy reform should be evaluated against. Useful for the next round of Magyar Demográfiai Stratégia 2030 design discussions and for KSH cohort-level fertility-and-earnings forecasting.",
+  "policy_relevance_hu": "Közvetlenül alkalmazható a Belügyminisztérium Családstratégia egységének és az EMMI Egészségbiztosítási Államtitkárságának (GYED, GYES tervezés). A tanulmány konkrét magyar referencia-értéket ad az anyaság kereseti büntetésére — az a mérőszám, amelyhez bármely család-szakpolitikai reformot értékelni kell. Hasznos a Magyar Demográfiai Stratégia 2030 tervezési vitáinak következő köréhez és a KSH kohorszszintű termékenység-és-kereseti előrejelzéseihez.",
+  "topics": [
+    "labor-markets",
+    "inequality-welfare",
+    "demographics-migration"
+  ],
+  "methods": [
+    "panel-data",
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
+  "featured": false,
+  "added_at": "2026-05-11",
+  "last_reviewed_at": "2026-05-11",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4411470819"
+}

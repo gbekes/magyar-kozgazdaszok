@@ -679,22 +679,22 @@
         {
           "name": "KRTK Institute of Economics",
           "name_hu": "KRTK Közgazdaság-tudományi Intézet",
-          "role": "Research Fellow",
-          "role_hu": "kutató",
+          "role": "Senior Research Fellow",
+          "role_hu": "vezető kutató",
           "start": null
         }
       ],
-      "website": null,
+      "website": "https://www.istvanboza.eu",
       "email": null,
       "repec_id": "pbo1175",
       "scholar_id": "hFDzJMIAAAAJ",
-      "orcid": null,
+      "orcid": "0000-0002-3068-6627",
       "primary_fields": [
         "labor-markets",
         "inequality-welfare"
       ],
-      "bio_en": "István Boza is a researcher at the KRTK Institute of Economics. His work focuses on labor-market outcomes, wage dynamics, and firm-worker matches using Hungarian administrative data. István Boza has published in journals like Nature, Nature Human Behaviour and Journal of Economic Geography.",
-      "bio_hu": "Boza István a KRTK Közgazdaság-tudományi Intézet kutatója. Kutatásai a munkaerő-piaci kimenetelekre, a bérdinamikára és a munkáltató-munkavállaló összekapcsolódásra irányulnak, magyar adminisztratív adatok felhasználásával. Boza István tanulmányai olyan folyóiratokban jelentek meg, mint a Nature, a Nature Human Behaviour és a Journal of Economic Geography.",
+      "bio_en": "István Boza is senior research fellow at the KRTK Institute of Economics. His work focuses on labor-market outcomes, wage differentials, and firm-worker matches using Hungarian and international administrative data. István Boza has published in journals like Nature, Nature Human Behaviour and Journal of Economic Geography.",
+      "bio_hu": "Boza István a KRTK Közgazdaság-tudományi Intézet tudományos főmunkatársa. Kutatásai a munkaerő-piaci kimenetelekre, a bérkülönbségekre és a munkáltató-munkavállaló párosításokra irányulnak, magyar és nemzetközi adminisztratív adatok felhasználásával. Boza István tanulmányai olyan folyóiratokban jelentek meg, mint a Nature, a Nature Human Behaviour és a Journal of Economic Geography.",
       "photo_url": "https://kti.krtk.hu/wp-content/uploads/2025/06/DSC01325-3jpg-scaled-1-e1764149722199.jpg",
       "qualifying_publication": {
         "title": "Immigrant–native pay gap driven by lack of access to high-paying jobs",
@@ -703,18 +703,18 @@
       },
       "deceased": false,
       "died": null,
-      "open_to_media_en": false,
-      "open_to_media_hu": false,
+      "open_to_media_en": true,
+      "open_to_media_hu": true,
       "media_note": null,
-      "review_status": "needs-verification",
+      "review_status": "author-approved",
       "openalex_id": "A5072365613",
-      "last_reviewed_at": "2026-04-27",
+      "last_reviewed_at": "2026-05-11",
       "countries": [
         "HU"
       ],
-      "paper_count": 10,
+      "paper_count": 16,
       "policy_count": 1,
-      "press_count": 0
+      "press_count": 5
     },
     {
       "id": "branyiczki-reka",
@@ -1499,7 +1499,7 @@
       "countries": [
         "HU"
       ],
-      "paper_count": 5,
+      "paper_count": 7,
       "policy_count": 0,
       "press_count": 0
     },
@@ -1871,7 +1871,7 @@
       "countries": [
         "HU"
       ],
-      "paper_count": 8,
+      "paper_count": 7,
       "policy_count": 0,
       "press_count": 0
     },
@@ -2463,9 +2463,9 @@
       "countries": [
         "HU"
       ],
-      "paper_count": 9,
+      "paper_count": 10,
       "policy_count": 0,
-      "press_count": 0
+      "press_count": 1
     },
     {
       "id": "kondor-peter",
@@ -3079,7 +3079,7 @@
       "countries": [
         "HU"
       ],
-      "paper_count": 11,
+      "paper_count": 10,
       "policy_count": 0,
       "press_count": 3
     },
@@ -15384,6 +15384,51 @@
       "openalex_id": "W2885048264"
     },
     {
+      "id": "boza-ilyes-2020-izajole",
+      "title": "Decomposition of co-worker wage gains",
+      "authors": [
+        "boza-istvan",
+        "Virág Ilyés"
+      ],
+      "publication_type": "article",
+      "journal": "IZA Journal of Labor Economics",
+      "year": 2020,
+      "volume": "9",
+      "issue": "1",
+      "pages": "1-31",
+      "doi": "10.2478/izajole-2020-0008",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.2478/izajole-2020-0008",
+      "url_pdf": "https://www.econstor.eu/handle/10419/298389",
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "Why do workers with former co-workers at a new firm earn more? Boza and Ilyés extend their earlier Hungarian-admin-data work to decompose the co-worker wage premium into three components: (i) sorting (better workers select into better firms via former-colleague networks), (ii) match quality (former co-workers know how to make a productive worker-firm match), and (iii) within-firm spillover (former colleagues help each other once on the job). The sorting channel dominates quantitatively. A clean empirical decomposition of how social networks raise wages — and where Hungarian active-labour-market policy could intervene most effectively.",
+      "summary_hu": "Miért keresnek többet azok a munkavállalók, akiknek volt munkatársuk van egy új cégnél? Boza és Ilyés a korábbi magyar-admin-adat munkájukat kibővítve a volt-munkatárs bérpréma három komponensre való felbontását adja: (i) szelekciós csatorna (a jobb munkavállalók a jobb cégekbe szelektálódnak volt-kollégai hálózatokon keresztül), (ii) párosítási minőség (a volt munkatársak tudják, hogyan kell produktív munkavállaló-cég párosítást létrehozni), és (iii) cégen belüli átterjedés (a volt kollégák egymást segítik a munkán). A szelekciós csatorna kvantitatívan dominál. Tiszta empirikus felbontása annak, hogyan emelik a társas hálózatok a béreket — és hol avatkozhat be leghatékonyabban a magyar aktív munkapiaci politika.",
+      "data_used": "Hungarian linked employer-employee administrative data, used to decompose wage gains associated with former co-worker ties. Sample covers the Hungarian working-age population in 2003-2011. Decomposition uses worker fixed effects, firm fixed effects, and match-component identification.",
+      "data_used_hu": "Magyar kapcsolt munkáltatói-munkavállalói adminisztratív adatok, amelyek alapján a tanulmány a korábbi munkatársi kapcsolatokhoz köthető bérelőnyöket bontja fel. A minta a magyar munkaképes korú népességet fedi le 2003–2011 között. A felbontás munkavállalói fix hatásokat, céges fix hatásokat és párosítási-komponens azonosítást használ.",
+      "policy_relevance": "Direct input for Hungarian active-labour-market policy design (NFSZ, NGM). The paper's headline result — that the co-worker premium is driven mainly by sorting rather than productivity — is the empirical foundation for thinking that network-access subsidies (e.g., mentor-pairing programmes) deliver short-run wage gains but won't close skill-driven wage gaps long-term. Useful for evaluating the structure of NFSZ employer-employee-matching services.",
+      "policy_relevance_hu": "Közvetlen input a magyar aktív munkapiaci politika tervezéséhez (NFSZ, NGM). A tanulmány vezető megállapítása — hogy a volt-munkatárs préma elsősorban szelekcióra, nem termelékenységre épül — empirikus alapja annak az érvelésnek, hogy a hálózati-hozzáférés-támogatási programok (pl. mentor-párosítási programok) rövid távú bérnyereséget hoznak, de hosszú távon nem zárják a készség-vezérelt bérkülönbségeket. Hasznos az NFSZ munkáltató-munkavállaló-illesztési szolgáltatásainak strukturális értékeléséhez.",
+      "topics": [
+        "labor-markets",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual",
+        "admin-firm"
+      ],
+      "featured": false,
+      "added_at": "2026-05-11",
+      "last_reviewed_at": "2026-05-11",
+      "review_status": "ai-drafted",
+      "openalex_id": "W3112242660"
+    },
+    {
       "id": "boza-ilyes-2026-ksz",
       "title": "Az EU bértranszparencia-irányelve – kihívások és dilemmák",
       "authors": [
@@ -15472,6 +15517,52 @@
       "last_reviewed_at": "2026-04-27",
       "review_status": "ai-drafted",
       "openalex_id": "W4416297445"
+    },
+    {
+      "id": "boza-szabo-morvai-2025-ksz",
+      "title": "Gyermekvállalás és az anyák keresete a 2010-es években",
+      "authors": [
+        "boza-istvan",
+        "Ágnes Szabó-Morvai"
+      ],
+      "publication_type": "article",
+      "journal": "Közgazdasági Szemle",
+      "year": 2025,
+      "volume": "72",
+      "issue": "6",
+      "pages": "566-595",
+      "doi": "10.18414/KSZ.2025.6.566",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.18414/KSZ.2025.6.566",
+      "url_pdf": "https://real.mtak.hu/220211/",
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "How does childbearing affect Hungarian mothers' earnings, and has the relationship changed over the 2010s? Boza and Szabó-Morvai use Hungarian admin data spanning the 2010s — a decade of significant family-policy reforms (Nők40, GYED-extra, CSOK) — to estimate the child-earnings penalty for mothers. The penalty exists and is substantial, but its magnitude varies meaningfully across cohorts and earnings deciles. The estimate sets the empirical bar for what subsequent family-policy reforms in Hungary need to address if their stated goal is to reduce the maternal earnings gap.",
+      "summary_hu": "Hogyan hat a gyermekvállalás a magyar anyák keresetére, és változott-e ez a kapcsolat a 2010-es években? Boza és Szabó-Morvai magyar adminisztratív adatokat használ a 2010-es évek lefedésére — egy évtized jelentős család-szakpolitikai reformjaival (Nők40, GYED-extra, CSOK) — az anyák gyermek-kereseti büntetésének becslésére. A büntetés létezik és jelentős, de mértéke érdemben változik kohorszok és kereseti decilisek között. A becslés empirikus küszöböt állít fel arra, mit kell érintenie a következő magyar család-szakpolitikai reformoknak, ha kimondott céljuk az anyai kereseti szakadék csökkentése.",
+      "data_used": "Hungarian linked administrative data covering individual earnings and fertility records across the 2010s. Identification: event-study around first-birth event with worker fixed effects; heterogeneity decomposition by pre-birth earnings decile and by major family-policy reform window.",
+      "data_used_hu": "Magyar kapcsolt adminisztratív adatok az egyéni keresetekről és termékenységi rekordokról a 2010-es évek folyamán. Identifikáció: eseménytanulmány az első születés esemény körül munkavállalói fix hatásokkal; heterogenitás-felbontás születés előtti kereseti decilisek és nagyobb család-szakpolitikai reform-ablakok szerint.",
+      "policy_relevance": "Directly applicable to the Belügyminisztérium Family Strategy unit and to the EMMI Egészségbiztosítási Államtitkárság (GYED, GYES design). The paper provides a concrete Hungarian baseline for the motherhood earnings penalty — the metric any family-policy reform should be evaluated against. Useful for the next round of Magyar Demográfiai Stratégia 2030 design discussions and for KSH cohort-level fertility-and-earnings forecasting.",
+      "policy_relevance_hu": "Közvetlenül alkalmazható a Belügyminisztérium Családstratégia egységének és az EMMI Egészségbiztosítási Államtitkárságának (GYED, GYES tervezés). A tanulmány konkrét magyar referencia-értéket ad az anyaság kereseti büntetésére — az a mérőszám, amelyhez bármely család-szakpolitikai reformot értékelni kell. Hasznos a Magyar Demográfiai Stratégia 2030 tervezési vitáinak következő köréhez és a KSH kohorszszintű termékenység-és-kereseti előrejelzéseihez.",
+      "topics": [
+        "labor-markets",
+        "inequality-welfare",
+        "demographics-migration"
+      ],
+      "methods": [
+        "panel-data",
+        "diff-in-diff"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
+      "featured": false,
+      "added_at": "2026-05-11",
+      "last_reviewed_at": "2026-05-11",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4411470819"
     },
     {
       "id": "branyiczki-rosta-2018-kulg",
@@ -24936,6 +25027,146 @@
       ]
     },
     {
+      "id": "godechot-neumann-et-al-2023-ser",
+      "title": "Ups and downs in finance, ups without downs in inequality",
+      "authors": [
+        "Olivier Godechot",
+        "Nils Neumann",
+        "Paula Apascaritei",
+        "boza-istvan",
+        "Martin Hällsten",
+        "Lasse Folke Henriksen",
+        "Are Skeie Hermansen",
+        "Feng Hou",
+        "Jiwook Jung",
+        "Naomi Kodama",
+        "Alena Křížková",
+        "Zoltán Lippényi",
+        "Marta M. Elvira",
+        "Silvia Maja Melzer",
+        "Eunmi Mun",
+        "Halil Sabanci",
+        "Matthew Soener",
+        "Max Thaning"
+      ],
+      "publication_type": "article",
+      "journal": "Socio-Economic Review",
+      "year": 2023,
+      "volume": "21",
+      "issue": "3",
+      "pages": "1601-1627",
+      "doi": "10.1093/ser/mwac036",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1093/ser/mwac036",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "Financial-sector boom-and-bust cycles are well documented — but does the bust phase undo the within-economy inequality that the boom created? Godechot, Neumann, Boza and 15 co-authors use admin employer-employee data from 12 countries 1990-2019 plus European bank reports 2009-2017 to test. The asymmetric result: finance-sector earnings expand sharply during booms, raising the top of the income distribution, but the contraction during busts is much smaller. The bonus-cap and capital-requirements toolkit has had little visible effect on this asymmetry.",
+      "summary_hu": "A pénzügyi szektor fellendülés-recesszió ciklusai jól dokumentáltak — de a recesszió-fázis visszafordítja-e a fellendülés által teremtett gazdaságon belüli egyenlőtlenséget? Godechot, Neumann, Boza és 15 társszerző 12 ország 1990–2019 közötti adminisztratív munkáltató-munkavállaló adatait, plusz európai banki jelentéseket 2009–2017-ből használ a teszthez. Az aszimmetrikus eredmény: a pénzügyi-szektor keresetek élesen bővülnek fellendülésben, emelve a jövedelmi eloszlás csúcsát, de a recesszió alatti zsugorodás sokkal kisebb. A bónusz-plafon és tőkekövetelmény eszköztár alig látható hatást gyakorolt erre az aszimmetriára.",
+      "data_used": "Administrative linked employer-employee data from 1990 to 2019 for 12 countries (Comparative Organizational Inequality Network sample), supplemented with bank-report data from 2009 to 2017 for 13 European countries (ECB Supervisory Data and national-supervisor reports).",
+      "data_used_hu": "Kapcsolt munkáltatói-munkavállalói adminisztratív adatok 12 országból 1990 és 2019 között (Comparative Organizational Inequality Network mintája), kiegészítve 13 európai ország banki jelentéseinek 2009–2017 közötti adataival (EKB Felügyeleti Adatok és nemzeti felügyeleti jelentések).",
+      "policy_relevance": "Direct relevance for the MNB Financial Stability Council, ESRB Hungarian observer, and EU bonus-cap policy review. The paper's central finding — bonus caps and capital requirements have not undone the finance-sector inequality contribution — is the strongest evidence on the table that the post-2009 regulatory toolkit has not delivered on the inequality side of its case. Useful framing for any Hungarian bonus-tax / surtax debate.",
+      "policy_relevance_hu": "Közvetlen relevancia az MNB Pénzügyi Stabilitási Tanácsának, az ESRB magyar megfigyelőjének és az EU bónusz-plafon szakpolitikai felülvizsgálatának. A tanulmány központi megállapítása — hogy a bónusz-plafonok és tőkekövetelmények nem fordították vissza a pénzügyi szektor egyenlőtlenségi hozzájárulását — a legerősebb az asztalon lévő bizonyítékok közül, hogy a 2009 utáni szabályozási eszköztár nem teljesített az egyenlőtlenségi oldalán. Hasznos keret bármely magyar bónusz-adó / pótadó vitához.",
+      "topics": [
+        "labor-markets",
+        "inequality-welfare",
+        "banking-finance"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "EU",
+        "US",
+        "GLOBAL"
+      ],
+      "data_types": [
+        "admin-individual",
+        "admin-firm"
+      ],
+      "featured": false,
+      "added_at": "2026-05-11",
+      "last_reviewed_at": "2026-05-11",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4225727761"
+    },
+    {
+      "id": "godechot-tomaskovic-devey-et-al-2024-ajs",
+      "title": "The great separation: Top earner segregation at work in advanced capitalist economies",
+      "authors": [
+        "Olivier Godechot",
+        "Donald Tomaskovic-Devey",
+        "boza-istvan",
+        "Lasse Folke Henriksen",
+        "Are Skeie Hermansen",
+        "Feng Hou",
+        "Naomi Kodama",
+        "Alena Křížková",
+        "Jiwook Jung",
+        "Zoltán Lippényi",
+        "Silvia Maja Melzer",
+        "Eunmi Mun",
+        "Halil Sabanci",
+        "Max Thaning",
+        "Dustin Avent-Holt",
+        "Nina Bandelj",
+        "Paula Apascaritei",
+        "Alexis Baudour",
+        "David Cort",
+        "Marta M. Elvira",
+        "hajdu-gabor",
+        "Aleksandra Kanjuo-Mrčela",
+        "Joseph King",
+        "Andrew Penner",
+        "Trond Petersen",
+        "Andreja Poje",
+        "William Rainey",
+        "Mirna Safi",
+        "Matthew Soener"
+      ],
+      "publication_type": "article",
+      "journal": "American Journal of Sociology",
+      "year": 2024,
+      "volume": "130",
+      "issue": "2",
+      "pages": "439-495",
+      "doi": "10.1086/731603",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1086/731603",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "Are top earners increasingly working alongside other top earners — in firms separated from the rest? Godechot, Tomaskovic-Devey and a 29-author team document a steady increase in the segregation of top-decile earners across workplaces in advanced capitalist economies over the past three decades. The phenomenon shows up consistently across the Comparative Organizational Inequality Network sample and accelerates with within-firm financialisation. Implications: rising top-earner segregation contributes to within-economy income inequality through a workplace channel distinct from wage-level changes alone.",
+      "summary_hu": "Egyre inkább más csúcskeresőkkel együtt dolgoznak-e a csúcskeresők — a többitől elválasztott cégekben? Godechot, Tomaskovic-Devey és egy 29-fős csapat dokumentálja a csúcsdecilis keresők munkahelyek közötti szegregációjának folyamatos növekedését a fejlett kapitalista gazdaságokban az elmúlt három évtizedben. A jelenség következetesen jelentkezik a Comparative Organizational Inequality Network mintájában, és gyorsul a céges szintű financializálódással. Következmények: a növekvő csúcskeresői szegregáció a gazdaságon belüli jövedelmi egyenlőtlenséghez egy munkahelyi csatornán keresztül járul hozzá, amely különálló a puszta bérszint-változásoktól.",
+      "data_used": "Administrative linked employer-employee data from advanced capitalist economies (CO-IN sample including Hungary, US, France, Norway, Sweden, Czechia, Slovenia, Germany, Korea, Japan, Canada, Spain), used to study segregation of top earners across workplaces over the past three decades. Decomposition of overall inequality into within-firm, between-firm, and between-industry-sorting components.",
+      "data_used_hu": "Fejlett kapitalista országok kapcsolt munkáltatói-munkavállalói adminisztratív adatai (CO-IN minta, beleértve Magyarországot, USA-t, Franciaországot, Norvégiát, Svédországot, Csehországot, Szlovéniát, Németországot, Koreát, Japánt, Kanadát, Spanyolországot), amelyek alapján a tanulmány a csúcskeresők munkahelyek közötti szegregációját vizsgálja az elmúlt három évtizedben. Az általános egyenlőtlenség felbontása cégen belüli, cégek közötti és iparágak közötti összetétel-komponensekre.",
+      "policy_relevance": "Direct background for the MNB wage-and-inequality analysis and for KSH labour-market statistics. The paper's central finding — that top earners are increasingly segregated across firms — implies that classical within-firm pay-band auditing (the kind the EU Pay Transparency Directive emphasises) will increasingly miss the rising source of inequality. Hungarian pay-transparency implementation should pair within-firm reporting with between-firm-sorting monitoring.",
+      "policy_relevance_hu": "Közvetlen háttér az MNB bér- és egyenlőtlenségi elemzéséhez és a KSH munkapiaci statisztikájához. A tanulmány központi megállapítása — hogy a csúcskeresők egyre inkább szegregálódnak cégek között — azt sugallja, hogy a klasszikus cégen belüli bér-sáv auditálás (amit az EU bértranszparencia-irányelv hangsúlyoz) egyre inkább elszalasztja az egyenlőtlenség növekvő forrását. A magyar bértranszparencia-implementációnak párosítania kellene a cégen belüli jelentéstételt a cégek közötti szelekciós monitoringgal.",
+      "topics": [
+        "labor-markets",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "panel-data",
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "HU",
+        "EU",
+        "US",
+        "GLOBAL"
+      ],
+      "data_types": [
+        "admin-individual",
+        "admin-firm"
+      ],
+      "featured": false,
+      "added_at": "2026-05-11",
+      "last_reviewed_at": "2026-05-11",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4399369779"
+    },
+    {
       "id": "goel-telegdy-et-al-2024-jocf",
       "title": "Subsidy-driven firm growth: Does loan history matter? Evidence from a European Union subsidy program",
       "authors": [
@@ -28879,53 +29110,6 @@
       ]
     },
     {
-      "id": "ilyes-boza-et-al-2023-joeg",
-      "title": "How to enter high-opportunity places? The role of social contacts for residential mobility",
-      "authors": [
-        "ilyes-virag",
-        "boza-istvan",
-        "lorincz-laszlo",
-        "Rikard Eriksson"
-      ],
-      "publication_type": "article",
-      "journal": "Journal of Economic Geography",
-      "year": 2023,
-      "volume": "23",
-      "issue": "2",
-      "pages": "371-395",
-      "doi": "10.1093/jeg/lbac019",
-      "working_paper_series": null,
-      "url_published": "https://doi.org/10.1093/jeg/lbac019",
-      "url_pdf": null,
-      "url_replication": null,
-      "abstract": "The aim of this article is to analyze the contribution of social ties to moving to high-opportunity locations and assess whether their effect is more pronounced for low-income individuals as a compensation for economic resources. This is done by utilizing Swedish administrative data and by focusing on a wide range of relationships (observed directly or inferred from the data): close and distant family ties, former co-workers and university peers. For estimating the effect of social ties, we use linear probability models, where observed migration is regressed on individual-specific and target-specific characteristics.",
-      "summary_en": "Moving to a high-opportunity place — a city with better wages and jobs — is one of the standard prescriptions for upward mobility. But who actually pulls it off? Ilyés, Boza, Lőrincz and Eriksson use Swedish administrative data to show that close family ties to a destination roughly double the probability of moving there, and the boost is largest for low-income individuals — ties partly substitute for missing economic resources. Distant family, former co-workers and former classmates also help, but less than close kin.",
-      "summary_hu": null,
-      "data_used": "Swedish population-level administrative microdata linking individuals' addresses, incomes, employer histories and educational records, used to reconstruct close-family, distant-family, former-coworker and university-peer ties. Analysis is at the individual level over a multi-year window; estimation uses linear probability models.",
-      "data_used_hu": null,
-      "policy_relevance": "Shapes Hungarian regional and labor mobility policy: simply raising wages in Budapest is not enough to attract workers from depressed counties if they have no social anchor there. Suggests complementing mobility subsidies (utazási hozzájárulás, housing support) with active brokering — formalised mentor / first-co-worker programmes. Important caveat: the evidence is from Sweden, where the welfare state cushions moves; effects may be larger or smaller in Hungary.",
-      "policy_relevance_hu": null,
-      "topics": [
-        "regional-urban",
-        "labor-markets",
-        "demographics-migration"
-      ],
-      "methods": [
-        "panel-data"
-      ],
-      "countries_studied": [
-        "SE"
-      ],
-      "data_types": [
-        "admin-individual"
-      ],
-      "featured": false,
-      "added_at": "2026-05-02",
-      "last_reviewed_at": "2026-05-09",
-      "review_status": "ai-drafted",
-      "openalex_id": "W4284959352"
-    },
-    {
       "id": "ilyes-sebok-2020-ksz",
       "title": "Egyetemről a munkaerőpiacra. Felsőoktatási ismeretségek hatása a munkaerőpiaci kilátásokra",
       "authors": [
@@ -32113,6 +32297,51 @@
         "Horizon Europe participation",
         "EU Smart Specialisation"
       ]
+    },
+    {
+      "id": "kollo-boza-2026-ee",
+      "title": "School to jail transition — early warnings from the primary school",
+      "authors": [
+        "kollo-janos",
+        "boza-istvan"
+      ],
+      "publication_type": "article",
+      "journal": "Education Economics",
+      "year": 2026,
+      "volume": null,
+      "issue": null,
+      "pages": "1-25",
+      "doi": "10.1080/09645292.2026.2655378",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1080/09645292.2026.2655378",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "Can the Hungarian primary-school years already flag children at elevated risk of later incarceration? Köllő and Boza link Hungarian administrative records on primary-school performance (OKM competence-test data, attendance, grade repetition) with prison-records 2002-2020 to estimate which primary-school signals best predict later imprisonment. Strong association with grade-repetition and large attendance gaps; a quantitative basis for considering targeted school-side interventions as early prevention.",
+      "summary_hu": "Az általános iskolai évek már jelezhetik-e a későbbi börtönkockázatot Magyarországon? Köllő és Boza adminisztratív adatokat kapcsol össze az általános iskolai teljesítményről (OKM kompetencia-mérés, hiányzás, évismétlés) a 2002–2020 közötti börtön-rekordokkal annak megbecslésére, mely általános iskolai jelek jelzik leginkább a későbbi bebörtönzést. Erős kapcsolat az évismétléssel és a nagy hiányzási hiányokkal; kvantitatív alapja annak, hogy a célzott iskolaoldali beavatkozásokat korai prevencióként mérlegeljék.",
+      "data_used": "Hungarian admin data linking primary-school records (OKM competence-test, grade history, attendance) with later Bv. (büntetés-végrehajtás) prison-records for cohorts 2002-2020. Sample of Hungarian primary-school pupils followed into adulthood with prison-admission outcomes.",
+      "data_used_hu": "Magyar adminisztratív adatok, amelyek összekapcsolják az általános iskolai rekordokat (OKM kompetencia-mérés, osztály-történet, hiányzás) a későbbi Bv. (büntetés-végrehajtás) börtön-rekordokkal a 2002–2020 közötti kohorszokra. Magyar általános iskolai tanulók mintája felnőttkorig követve börtön-bekerülési kimenetekkel.",
+      "policy_relevance": "Direct input for the Belügyminisztérium and EMMI early-intervention programmes and for the BvOP (Büntetés-végrehajtás Országos Parancsnoksága) reintegráció arm. The paper supports primary-school-side flag systems to target dropout-prevention and behavioural-support resources at the cohort of children most at risk of later imprisonment — far earlier than the secondary-school exit point at which most current interventions kick in.",
+      "policy_relevance_hu": "Közvetlen input a Belügyminisztérium és az EMMI korai-intervenciós programjainak és a BvOP (Büntetés-végrehajtás Országos Parancsnoksága) reintegrációs ágának. A tanulmány alátámasztja az általános-iskola-oldali jelzőrendszerek bevezetését, hogy a lemorzsolódás-megelőzési és viselkedés-támogatási erőforrásokat azokra a gyermekekre célozzuk, akiknek a legnagyobb a kockázata a későbbi bebörtönzésre — sokkal korábban, mint a középiskolai kilépési pont, ahol a jelenlegi beavatkozások többsége megkezdődik.",
+      "topics": [
+        "education-skills",
+        "labor-markets",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
+      "featured": false,
+      "added_at": "2026-05-11",
+      "last_reviewed_at": "2026-05-11",
+      "review_status": "ai-drafted",
+      "openalex_id": "W7154466679"
     },
     {
       "id": "kollo-boza-balazsi-2021-jlmr",
@@ -37167,6 +37396,51 @@
       "openalex_id": null
     },
     {
+      "id": "mike-boza-molnar-2024-apce",
+      "title": "How do business associations support contract enforcement? Evidence from Hungary",
+      "authors": [
+        "Károly Mike",
+        "boza-istvan",
+        "Gábor Tamás Molnár"
+      ],
+      "publication_type": "article",
+      "journal": "Annals of Public and Cooperative Economics",
+      "year": 2024,
+      "volume": "95",
+      "issue": "4",
+      "pages": "1021-1060",
+      "doi": "10.1111/apce.12479",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1111/apce.12479",
+      "url_pdf": "https://real.mtak.hu/208993/",
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "Hungarian business associations are not just lobbying groups — they help member firms enforce contracts when the formal courts are slow or expensive. Mike, Boza and Molnár survey Hungarian firm members of business associations to document how the contract-enforcement service works in practice: informal mediation, reputational sanctions, member-list checks, and joint legal-cost pooling. The associations function as a private-order layer alongside the formal Hungarian commercial-court system, with measurable take-up especially among small and medium firms.",
+      "summary_hu": "A magyar vállalati érdekképviseleti szervezetek nemcsak lobbicsoportok — segítik a tagvállalatokat a szerződések kikényszerítésében, amikor a formális bíróságok lassúak vagy drágák. Mike, Boza és Molnár magyar vállalati érdekképviseleti tagok körében végzett felmérése dokumentálja, hogyan működik a szerződés-kikényszerítési szolgáltatás a gyakorlatban: informális közvetítés, reputációs szankciók, taglista-ellenőrzések és közös jogi-költség-megosztás. A szervezetek a formális magyar kereskedelmi bírósági rendszer mellett magán-szabályozási rétegként működnek, mérhető igénybevétellel, különösen a kis- és középvállalkozások körében.",
+      "data_used": "Original survey of Hungarian business-association member firms (chamber of commerce members and industry-association members), conducted by the authors, with approximately 1 200 firm respondents. Cross-referenced with the public business-association registry. Survey covers contract-enforcement experience, reputation-mechanism use, and member-screening behaviour.",
+      "data_used_hu": "A szerzők eredeti felmérése magyar vállalati érdekképviseleti tagvállalatokról (kamarai tagok és iparági szervezeti tagok), körülbelül 1 200 vállalati válaszadóval. A nyilvános vállalati érdekképviseleti regiszterrel kereszthivatkozva. A felmérés a szerződés-kikényszerítési tapasztalatra, a reputációs mechanizmusok használatára és a tag-szűrési viselkedésre terjed ki.",
+      "policy_relevance": "Direct relevance for the Magyar Kereskedelmi és Iparkamara, the Igazságügyi Minisztérium kereskedelmi-jogi részlege, and the NGM SME-policy unit. The paper makes the case that strengthening business-association infrastructure (joint legal services, formal mediation, member-screening tools) is a cost-effective complement to commercial-court reform — particularly for the small-firm segment where court-access costs are disproportionately high. Useful framing for any Hungarian alternative-dispute-resolution legislation.",
+      "policy_relevance_hu": "Közvetlen relevancia a Magyar Kereskedelmi és Iparkamara, az Igazságügyi Minisztérium kereskedelmi-jogi részlegének és az NGM KKV-szakpolitikai egységének. A tanulmány érvel amellett, hogy a vállalati érdekképviseleti infrastruktúra megerősítése (közös jogi szolgáltatások, formális közvetítés, tag-szűrési eszközök) költséghatékony kiegészítője a kereskedelmi bírósági reformnak — különösen a kisvállalati szegmensben, ahol a bírósági hozzáférés költsége aránytalanul magas. Hasznos keret bármely magyar alternatív-vitarendezési jogszabályozáshoz.",
+      "topics": [
+        "firms-productivity",
+        "political-economy"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "survey"
+      ],
+      "featured": false,
+      "added_at": "2026-05-11",
+      "last_reviewed_at": "2026-05-11",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4402898692"
+    },
+    {
       "id": "molnar-2026-jhr",
       "title": "Can Academic Redshirting Shrink the Education Gender Gap? Causal Evidence on Student Achievement and Mental Health",
       "authors": [
@@ -37850,6 +38124,75 @@
         "BÉT market-making ösztönző",
         "tőkepiac-fejlesztési program (MNB)"
       ]
+    },
+    {
+      "id": "neumann-godechot-et-al-2026-natcities",
+      "title": "Rapid earnings growth in finance concentrates top earnings in a few large cities",
+      "authors": [
+        "Nils Neumann",
+        "Olivier Godechot",
+        "Lasse Folke Henriksen",
+        "Are Skeie Hermansen",
+        "Feng Hou",
+        "Naomi Kodama",
+        "Zoltán Lippényi",
+        "Silvia Maja Melzer",
+        "Halil Sabanci",
+        "Max Thaning",
+        "Paula Apascaritei",
+        "Dustin Avent-Holt",
+        "Nina Bandelj",
+        "boza-istvan",
+        "Marta M. Elvira",
+        "hajdu-gabor",
+        "Alena Křížková",
+        "Andrew Penner",
+        "Andreja Poje",
+        "Anthony Rainey",
+        "Mirna Safi",
+        "Matthew Soener",
+        "Donald Tomaskovic-Devey"
+      ],
+      "publication_type": "article",
+      "journal": "Nature Cities",
+      "year": 2026,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": "10.1038/s44284-026-00407-1",
+      "working_paper_series": "World Inequality Lab Working Paper 2023/10",
+      "url_published": "https://doi.org/10.1038/s44284-026-00407-1",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "Top earnings in advanced economies have grown fastest in finance — and the finance sector clusters in a small number of cities. Neumann, Godechot and a 23-author cross-country team link administrative employer-employee data from ten countries to show that finance-sector earnings growth has been the dominant force pulling the top earnings distribution toward a handful of metropolitan financial centres. The result connects city-level economic geography to within-country top-income inequality through a specific mechanism that distinguishes the finance sector from other tradable services.",
+      "summary_hu": "A csúcskeresetek növekedése a fejlett gazdaságokban a pénzügyi szektorban volt a leggyorsabb — és a pénzügyi szektor néhány városban koncentrálódik. Neumann, Godechot és egy 23-fős nemzetközi csapat tíz ország adminisztratív munkáltató-munkavállaló adatait összekapcsolva azt mutatja, hogy a pénzügyi szektor keresetnövekedése volt a domináns erő, amely a csúcskereseti eloszlást néhány metropolitán pénzügyi központ felé húzta. Az eredmény a városszintű gazdasági földrajzot országon belüli csúcsjövedelmi egyenlőtlenséghez köti egy specifikus mechanizmuson keresztül, amely a pénzügyi szektort más kereskedhető szolgáltatásoktól megkülönbözteti.",
+      "data_used": "Linked employer-employee administrative data from ten countries (Comparative Organizational Inequality Network sample), used to study how finance-sector earnings growth concentrates top earnings in financial cities. Multi-decade panel coverage.",
+      "data_used_hu": "Tíz ország kapcsolt munkáltatói-munkavállalói adminisztratív adatai (Comparative Organizational Inequality Network mintája), amelyek alapján a tanulmány azt vizsgálja, hogyan koncentrálja a pénzügyi szektor keresetnövekedése a csúcskereseteket pénzügyi központokba. Több évtizedes panel-lefedettség.",
+      "policy_relevance": "Background reference for the MNB Financial Stability and Macroprudential Council, and for KSH urban-economic-geography work. The paper documents how the finance-sector premium concentrates spatially — a useful frame for the Budapest-vs-rest-of-Hungary regional gradient and for any Hungarian financial-cluster industrial-policy proposal. Direct policy implication: regional convergence policy that ignores the sectoral channel (specifically finance) will miss a substantial share of the gap.",
+      "policy_relevance_hu": "Háttér-hivatkozás az MNB Pénzügyi Stabilitási Tanácsának és a KSH városi-gazdaságföldrajzi munkáihoz. A tanulmány dokumentálja, hogyan koncentrálódik térben a pénzügyi szektor prémája — hasznos keret a Budapest-és-vidéke gradienshez és bármely magyar pénzügyi-klaszter iparpolitikai javaslathoz. Közvetlen szakpolitikai következmény: a regionális konvergencia-politika, amely figyelmen kívül hagyja a szektor-csatornát (különösen a pénzügyet), a szakadék jelentős részét elhibázza.",
+      "topics": [
+        "labor-markets",
+        "regional-urban",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "US",
+        "EU",
+        "GLOBAL"
+      ],
+      "data_types": [
+        "admin-individual",
+        "admin-firm"
+      ],
+      "featured": false,
+      "added_at": "2026-05-11",
+      "last_reviewed_at": "2026-05-11",
+      "review_status": "ai-drafted",
+      "openalex_id": "W7155529875"
     },
     {
       "id": "norli-ostergaard-schindele-2014-rfs",
@@ -45630,6 +45973,75 @@
       "last_reviewed_at": "2026-04-25"
     },
     {
+      "id": "boza-2024-portfolio-gender-wage-gap",
+      "title": "Ezért kereshetnek többet a magyar férfiak, mint a nők",
+      "title_en": "Why Hungarian men may earn more than women",
+      "authors": [
+        "boza-istvan"
+      ],
+      "kind": "column",
+      "venue": "KRTK Blog (Portfolio)",
+      "date": "2024-02-01",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/krtk/20240201/ezert-kereshetnek-tobbet-a-magyar-ferfiak-mint-a-nok-666401",
+      "blurb": null,
+      "linked_paper_id": "penner-petersen-et-al-2022-nathumbeh",
+      "added_at": "2026-05-11",
+      "last_reviewed_at": "2026-05-11"
+    },
+    {
+      "id": "boza-2024-portfolio-workplace-segregation",
+      "title": "Súlyos: a dolgozók negyede szinte nem is találkozik átlagbér felett keresővel a munkahelyén",
+      "title_en": "A quarter of workers almost never meet anyone earning above the average wage at work",
+      "authors": [
+        "boza-istvan"
+      ],
+      "kind": "column",
+      "venue": "KRTK Blog (Portfolio)",
+      "date": "2024-11-17",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/krtk/20241117/sulyos-a-dolgozok-negyede-szinte-nem-is-talalkozik-atlagber-felett-keresovel-a-munkahelyen-723146",
+      "blurb": null,
+      "linked_paper_id": "godechot-tomaskovic-devey-et-al-2024-ajs",
+      "added_at": "2026-05-11",
+      "last_reviewed_at": "2026-05-11"
+    },
+    {
+      "id": "boza-2025-portfolio-immigrant-wage-gap",
+      "title": "Ennyivel keresnek kevesebbet a bevándorlók a nyugati országokban",
+      "title_en": "How much less do immigrants earn in Western countries?",
+      "authors": [
+        "boza-istvan"
+      ],
+      "kind": "column",
+      "venue": "KRTK Blog (Portfolio)",
+      "date": "2025-09-28",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/krtk/20250928/ennyivel-keresnek-kevesebbet-a-bevandorlok-a-nyugati-orszagokban-788642",
+      "blurb": null,
+      "linked_paper_id": "hermansen-penner-et-al-2025-nature",
+      "added_at": "2026-05-11",
+      "last_reviewed_at": "2026-05-11"
+    },
+    {
+      "id": "boza-kollo-2021-portfolio-multinationals",
+      "title": "A multi tényleg többet fizet, de nemcsak ezért éri meg ott dolgozni",
+      "title_en": "Multinationals really do pay more, but that is not the only reason it is worth working there",
+      "authors": [
+        "boza-istvan",
+        "kollo-janos"
+      ],
+      "kind": "column",
+      "venue": "KRTK Blog (Portfolio)",
+      "date": "2021-10-17",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/krtk/20211017/a-multi-tenyleg-tobbet-fizet-de-nemcsak-ezert-eri-meg-ott-dolgozni-504860",
+      "blurb": null,
+      "linked_paper_id": "kollo-boza-balazsi-2021-jlmr",
+      "added_at": "2026-05-11",
+      "last_reviewed_at": "2026-05-11"
+    },
+    {
       "id": "brown-earle-telegdy-voxeu-privatisation-mortality",
       "title": "Mass privatisation and mortality: is job loss the link?",
       "title_hu": null,
@@ -45839,6 +46251,24 @@
       "linked_paper_id": null,
       "added_at": "2026-04-25",
       "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "ilyes-boza-2022-portfolio-migration-networks",
+      "title": "Aki az európai jólét fővárosába költözne, annak nemcsak pénzre lesz szüksége",
+      "title_en": "Those moving to Europe's capital of prosperity need more than money",
+      "authors": [
+        "Virág Ilyés",
+        "boza-istvan"
+      ],
+      "kind": "column",
+      "venue": "KRTK Blog (Portfolio)",
+      "date": "2022-12-10",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/krtk/20221210/aki-az-europai-jolet-fovarosaba-koltozne-annak-nemcsak-penzre-lesz-szuksege-583884",
+      "blurb": null,
+      "linked_paper_id": "ilyes-boza-et-al-2022-joeg",
+      "added_at": "2026-05-11",
+      "last_reviewed_at": "2026-05-11"
     },
     {
       "id": "juhasz-2023-npr-indicator",
@@ -47544,7 +47974,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 135
+      "paper_count": 140
     },
     {
       "id": "education-skills",
@@ -47555,7 +47985,7 @@
       "policy_framing_en": "Relevant to: curriculum design, teacher policy, school tracking age, higher education funding, vocational training.",
       "policy_framing_hu": "Releváns: tantervfejlesztés, tanárpolitika, iskolai szelekció életkora, felsőoktatás finanszírozása, szakképzés.",
       "icon": "graduation-cap",
-      "paper_count": 71
+      "paper_count": 72
     },
     {
       "id": "health",
@@ -47599,7 +48029,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 170
+      "paper_count": 171
     },
     {
       "id": "innovation-digital",
@@ -47621,7 +48051,7 @@
       "policy_framing_en": "Relevant to: MNB policy, banking regulation, macroprudential tools, financial inclusion.",
       "policy_framing_hu": "Releváns: MNB-politika, bankszabályozás, makroprudenciális eszközök, pénzügyi befogadás.",
       "icon": "landmark",
-      "paper_count": 183
+      "paper_count": 184
     },
     {
       "id": "fiscal-tax",
@@ -47665,7 +48095,7 @@
       "policy_framing_en": "Relevant to: welfare system, anti-poverty programs, family allowances, gender-equal pay policies.",
       "policy_framing_hu": "Releváns: szociális rendszer, szegénység elleni programok, családi pótlékok, egyenlő bérezés.",
       "icon": "scale",
-      "paper_count": 140
+      "paper_count": 146
     },
     {
       "id": "political-economy",
@@ -47676,7 +48106,7 @@
       "policy_framing_en": "Relevant to: anti-corruption policy, public administration reform, EU affairs, electoral system design.",
       "policy_framing_hu": "Releváns: korrupcióellenes politika, közigazgatási reform, EU-ügyek, választási rendszer.",
       "icon": "building-2",
-      "paper_count": 85
+      "paper_count": 86
     },
     {
       "id": "transition-postcommunist",
@@ -49097,9 +49527,9 @@
   ],
   "counts": {
     "authors": 103,
-    "papers": 841,
+    "papers": 847,
     "policy": 35,
-    "press": 154,
+    "press": 159,
     "topics": 21
   }
 }
