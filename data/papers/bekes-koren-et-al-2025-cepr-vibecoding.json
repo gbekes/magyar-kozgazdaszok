@@ -46,5 +46,8 @@
   "added_at": "2026-04-23",
   "last_reviewed_at": "2026-04-23",
   "review_status": "ai-drafted",
-  "openalex_id": null
+  "openalex_id": null,
+  "summary_hu": "A generatív MI kódasszisztensek gyorsan változtatják, hogyan írunk szoftvert. A tanulmány azt kérdezi, hogy ez az eltolódás összeegyeztethető-e a nyílt forráskódú szoftver-ökoszisztéma folyamatos életképességével. Nagyméretű GitHub-adatok alapján a szerzők megmutatják, hogy a „vibe coding” — MI-eszközökkel gyorsan működő kód előállítása — a hagyományosan emberi által írt kódtól eltérő hozzájárulási mintázatokat, kódstruktúrát és közösségi dinamikát mutat. Az aggodalom, hogy az MI kódoló eszközökre való erős támaszkodás megfosztja a nyílt forráskódot azoktól az emberi-tőke áramlásoktól (mentorálás, gyakornoki képzés, iteratív felülvizsgálat), amelyek történelmileg termékenyen tartották. Időszerű empirikus hozzájárulás az MI-gazdaságtanhoz és a digitális közjavakhoz.",
+  "data_used_hu": "Nagy léptékű GitHub commit- és hozzájárulási adatok, lefedve a generatív-MI kódoló eszközök bevezetésének időszakát. Valószínűleg több tízmillió commit sok repozitóriumon át.",
+  "policy_relevance_hu": "Közvetlenül releváns a magyar MI- és digitálisgazdaság-politika számára (NGM, NKFIH, Innovációs Minisztérium): ha az MI-eszközök helyettesítik — nem pedig kiegészítik — az emberi hozzájárulókat a nyílt forráskódban, akkor azok a politikák, amelyek csupán az MI-elfogadást támogatják, hosszú távú kárt okozhatnak a szoftver-közjavakban. Releváns a magyar nyílt forráskódú stratégiához, a CS-oktatás tervezéséhez, és az MI-termelékenységi állítások értékeléséhez. Korlát: korai bizonyíték; hosszabb távú ökoszisztéma-válasz eltérhet attól, amit a jelenlegi GitHub-nyomok mutatnak."
 }
