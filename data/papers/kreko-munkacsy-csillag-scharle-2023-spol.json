@@ -1,0 +1,48 @@
+{
+  "id": "kreko-munkacsy-csillag-scharle-2023-spol",
+  "title": "A job trial subsidy for youth: Cheap labour or a screening device?",
+  "authors": [
+    "kreko-judit",
+    "Balázs Munkácsy",
+    "Márton Csillag",
+    "Ágota Scharle"
+  ],
+  "publication_type": "article",
+  "journal": "Social Policy and Administration",
+  "year": 2023,
+  "volume": "57",
+  "issue": "7",
+  "pages": "1089-1116",
+  "doi": "10.1111/spol.12924",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1111/spol.12924",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Does a short youth-hiring subsidy buy real jobs or just cheap labour? In 2015 the Hungarian state offered a 90-day wage subsidy for hiring unemployed people under 25. Krekó, Munkácsy, Csillag and Scharle evaluate the programme using NAV administrative records and propensity-score matching, comparing subsidised hires to similar non-subsidised unemployed youths. Participants gain 14-20 additional days of employment over the following six months — a meaningful positive effect. Crucially, the subsidy also functions as a screening device: employers preferentially retain workers with high cognitive skills regardless of formal education. Side caveat: some employers misuse it for seasonal staffing, capturing the subsidy without delivering durable employment.",
+  "summary_hu": "Egy rövid ifjúsági bértámogatás valódi munkahelyeket vesz, vagy csak olcsó munkát? A magyar állam 2015-ben 90 napos bértámogatást ajánlott a 25 év alatti munkanélküliek alkalmazására. Krekó, Munkácsy, Csillag és Scharle a programot NAV adminisztratív rekordok és propensity-score illesztés segítségével értékeli, a támogatott felvételeket hasonló, nem támogatott munkanélküli fiatalokkal összehasonlítva. A résztvevők 14–20 plusz napot nyernek foglalkoztatásban az ezt követő hat hónapban — érdemi pozitív hatás. Kulcsfontosságú, hogy a támogatás egyúttal szűrő-eszközként is működik: a munkáltatók preferáltan tartják meg a magas kognitív képességű dolgozókat a formális iskolázottságtól függetlenül. Mellékkorlát: egyes munkáltatók szezonális munkaerő-igényre használják vissza, megszerezve a támogatást anélkül, hogy tartós foglalkoztatást nyújtanának.",
+  "data_used": "Hungarian NAV (National Tax and Customs Administration) administrative employer-employee monthly records 2014-2018, linked to the public-employment-service (Állami Foglalkoztatási Szolgálat) database of registered unemployed youth and to the 90-day subsidy take-up records of the 2015 programme. Approximately 75 000 subsidised hires matched against a comparable control group of non-subsidised unemployed under-25s via propensity-score matching on pre-spell characteristics. Cognitive-skill proxy from the Hungarian National Competency Assessment (OKM).",
+  "data_used_hu": "Magyar NAV (Nemzeti Adó- és Vámhivatal) adminisztratív munkáltató-munkavállaló havi rekordok 2014–2018 között, az Állami Foglalkoztatási Szolgálat regisztrált munkanélküli fiatalok adatbázisával és a 2015-ös program 90 napos támogatás-igénybevételi rekordjaival összekapcsolva. Mintegy 75 000 támogatott felvétel összehasonlítva egy hasonló, nem támogatott 25 év alatti munkanélküli kontrollcsoporttal propensity-score illesztéssel az időszak előtti jellemzők alapján. A kognitív képesség közelítője a magyar Országos Kompetenciamérés (OKM) alapján.",
+  "policy_relevance": "Directly applicable to the Belügyminisztérium / NGM employment-policy team when designing the next iteration of EU-funded youth-employment subsidies (Garancia, EFOP, RRF). The paper's headline result — 14-20 extra days of employment plus measurable skill-screening — is the kind of net-benefit number that the EU Youth Guarantee policy reviews need. The screening finding is particularly relevant: it argues that short subsidies are cost-effective even when displacement and seasonal misuse are accounted for. A landmark Hungarian-data evaluation of a flagship Hungarian active-labour-market policy.",
+  "policy_relevance_hu": "Közvetlenül alkalmazható a Belügyminisztérium / NGM foglalkoztatáspolitikai csapatának az EU-finanszírozású ifjúsági foglalkoztatási támogatások következő iterációjának (Garancia, EFOP, RRF) tervezésekor. A tanulmány fő eredménye — 14–20 plusz nap foglalkoztatás plusz mérhető képesség-szűrés — az a fajta nettó-haszon szám, amire az EU Ifjúsági Garancia szakpolitikai felülvizsgálatainak szüksége van. A szűrési megállapítás különösen releváns: érvel amellett, hogy a rövid támogatások költséghatékonyak még a kiszorítási és szezonális visszaélési hatások számbavétele után is. Mérföldkő egy magyar adatokon nyugvó, magyar zászlóshajós aktív munkapiaci szakpolitikát értékelő vizsgálatnak.",
+  "topics": [
+    "labor-markets",
+    "education-skills",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "diff-in-diff",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
+  "featured": true,
+  "added_at": "2026-05-11",
+  "last_reviewed_at": "2026-05-11",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4378233149"
+}
