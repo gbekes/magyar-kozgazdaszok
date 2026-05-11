@@ -712,7 +712,7 @@
       "countries": [
         "HU"
       ],
-      "paper_count": 9,
+      "paper_count": 10,
       "policy_count": 1,
       "press_count": 0
     },
@@ -1084,7 +1084,7 @@
       "countries": [
         "HU"
       ],
-      "paper_count": 11,
+      "paper_count": 12,
       "policy_count": 0,
       "press_count": 0
     },
@@ -2412,6 +2412,58 @@
         "HU"
       ],
       "paper_count": 20,
+      "policy_count": 0,
+      "press_count": 0
+    },
+    {
+      "id": "kollo-janos",
+      "name_en": "János Köllő",
+      "name_hu": "Köllő János",
+      "affiliations": [
+        {
+          "name": "HUN-REN Centre for Economic and Regional Studies, Institute of Economics (KRTK KTI)",
+          "name_hu": "HUN-REN Közgazdaság- és Regionális Tudományi Kutatóközpont, Közgazdaságtudományi Intézet (KRTK KTI)",
+          "role": "Scientific Advisor; Director of the Databank",
+          "role_hu": "tudományos tanácsadó; az Adatbank igazgatója",
+          "start": "1977"
+        },
+        {
+          "name": "IZA Institute of Labor Economics, Bonn",
+          "name_hu": "IZA Institute of Labor Economics, Bonn",
+          "role": "Research Fellow",
+          "role_hu": "kutató társ",
+          "start": null
+        }
+      ],
+      "website": "https://kti.krtk.hu/en/researchers/janos-kollo/",
+      "email": null,
+      "repec_id": "pkl64",
+      "scholar_id": null,
+      "orcid": null,
+      "primary_fields": [
+        "labor-markets",
+        "education-skills",
+        "transition-postcommunist"
+      ],
+      "bio_en": "János Köllő is Scientific Advisor at KRTK KTI and Director of its Databank, where he has worked since 1977. His research applies linked administrative micro-data to Hungarian and Central-European labour markets: minimum-wage effects, returns to skills, foreign-ownership wage premia, undeclared work, prison-to-work transitions, and Roma employment discrimination. He is an IZA Research Fellow, GLO Country Lead for Hungary, member of Academia Europaea, and recipient of the Hungarian Academy's József Medal for Lifetime Achievement. Journal articles in Labour Economics, Economics of Transition, the Journal for Labour Market Research, and Empirica.",
+      "bio_hu": "Köllő János a KRTK KTI tudományos tanácsadója és az Adatbank igazgatója; az intézetben 1977 óta dolgozik. Kutatása összekapcsolt adminisztratív mikroadatokat alkalmaz a magyar és közép-európai munkapiacra: minimálbérhatások, képességek hozama, külföldi-tulajdonú cégek bérpréma, nem bejelentett munka, börtön utáni munkaerőpiaci visszailleszkedés, roma foglalkoztatási diszkrimináció. IZA Research Fellow, a GLO magyarországi koordinátora, az Academia Europaea tagja, és az MTA Életműért adott József-díj kitüntetettje. Folyóiratcikkei többek között a Labour Economicsban, az Economics of Transitionben, a Journal for Labour Market Researchben és az Empiricában jelentek meg.",
+      "photo_url": "https://kti.krtk.hu/wp-content/uploads/2025/06/Kollo-Janos-scaled-1.jpg",
+      "qualifying_publication": {
+        "title": "Earnings gains and losses from insured unemployment in Hungary",
+        "journal": "Labour Economics",
+        "year": 1996
+      },
+      "open_to_media_en": false,
+      "open_to_media_hu": false,
+      "media_note": null,
+      "review_status": "ai-drafted",
+      "openalex_id": null,
+      "added_at": "2026-05-11",
+      "last_reviewed_at": "2026-05-11",
+      "countries": [
+        "HU"
+      ],
+      "paper_count": 9,
       "policy_count": 0,
       "press_count": 0
     },
@@ -16887,6 +16939,53 @@
       "openalex_id": "W4226513743"
     },
     {
+      "id": "commander-kollo-2008-eot",
+      "title": "The changing demand for skills: Evidence from the transition",
+      "authors": [
+        "Simon Commander",
+        "kollo-janos"
+      ],
+      "publication_type": "article",
+      "journal": "Economics of Transition",
+      "year": 2008,
+      "volume": "16",
+      "issue": "2",
+      "pages": "199-221",
+      "doi": "10.1111/j.1468-0351.2008.00303.x",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1111/j.1468-0351.2008.00303.x",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "Did the post-socialist transition raise demand for skills, or just throw unskilled labour out of work? Commander and Köllő use cross-country firm-level survey data covering Eastern Europe and the former Soviet Union, plus Hungarian linked employer-employee micro-data, to decompose the skill-demand shift. Result: transition has systematically tilted labour demand against the unskilled, who lost employment disproportionately. The shift is technology- and trade-driven rather than purely a labour-supply story. A clean documentation of one of the central distributional facts of the post-1990 transition.",
+      "summary_hu": "Megnövelte-e a posztszocialista átmenet a képességek iránti keresletet, vagy egyszerűen csak kiszorította a képzetlen munkát? Commander és Köllő kereszt-országos céges felmérési adatokat használ Kelet-Európára és a volt Szovjetunióra, plusz magyar összekapcsolt munkáltató-munkavállaló mikroadatokat, hogy felbontsa a képesség-kereslet eltolódást. Eredmény: az átmenet rendszeresen a képzetlenek ellenére billentette a munkakereslet — ők aránytalanul vesztettek munkát. Az eltolódás technológia- és kereskedelem-vezérelt, nem pusztán munkakínálati történet. Tiszta dokumentálása az 1990 utáni átmenet egyik központi disztribúciós tényének.",
+      "data_used": "EBRD/World Bank BEEPS firm-level survey data across 28 transition countries 2005, combined with Hungarian Wage Tariff Survey 1986-2005 linked to firm-level financial accounts. Decomposition of skill-demand growth into within-industry and between-industry components; counterfactuals using pre-transition labour-force composition.",
+      "data_used_hu": "EBRD/Világbank BEEPS céges felmérési adatok 28 átmeneti ország 2005-ös vágáspontján, magyar Bértarifa-felmérési adatokkal (1986–2005) kombinálva, céges szintű pénzügyi beszámolókhoz kapcsolva. A képesség-kereslet növekedésének felbontása iparágon belüli és iparágak közötti komponensekre; ellenpéldák az átmenet előtti munkaerő-összetétel használatával.",
+      "policy_relevance": "Background reference for the Belügyminisztérium / NGM / KKM employment-strategy units when calibrating skill-formation policy under the EU Recovery and Resilience Facility and the EFOP framework. The paper's central finding — that the post-1990 transition created a persistent skill-demand bias — is the empirical foundation for expanded VET reform, lifelong-learning subsidies, and reskilling programmes targeted at older displaced workers.",
+      "policy_relevance_hu": "Háttér-hivatkozás a Belügyminisztérium / NGM / KKM foglalkoztatási stratégiai egységeinek a képességformálási szakpolitika kalibrálásához az EU Helyreállítási és Ellenálló-képességi Eszköz és az EFOP keretrendszer alatt. A tanulmány központi megállapítása — hogy az 1990 utáni átmenet tartós képesség-kereslet torzítást hozott létre — empirikus alapja a kibővített szakképzési reformnak, az élethosszig tartó tanulás támogatásának és az idősebb elbocsátott munkavállalókat célzó újraképzési programoknak.",
+      "topics": [
+        "labor-markets",
+        "education-skills",
+        "transition-postcommunist"
+      ],
+      "methods": [
+        "descriptive-survey",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-firm",
+        "survey"
+      ],
+      "featured": false,
+      "added_at": "2026-05-11",
+      "last_reviewed_at": "2026-05-11",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2079153954"
+    },
+    {
       "id": "condorelli-szentes-2019-jpe",
       "title": "Information Design in the Holdup Problem",
       "authors": [
@@ -18492,6 +18591,51 @@
       "journal": "Review of Income and Wealth",
       "year": 2023,
       "publication_type": "article"
+    },
+    {
+      "id": "czafit-kollo-2015-izajels",
+      "title": "Employment and wages before and after incarceration — evidence from Hungary",
+      "authors": [
+        "Bence Czafit",
+        "kollo-janos"
+      ],
+      "publication_type": "article",
+      "journal": "IZA Journal of European Labor Studies",
+      "year": 2015,
+      "volume": "4",
+      "issue": "1",
+      "pages": "21",
+      "doi": "10.1186/s40174-015-0044-z",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1186/s40174-015-0044-z",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "What do labour markets do to people coming out of prison? Czafit and Köllő link Hungarian prison-release records to administrative employment and earnings data — one of the cleanest such linkages in the European literature. They find that pre-prison employment and earnings predict post-release outcomes strongly, but a large unconditional penalty remains: ex-prisoners earn substantially less and are far less likely to be in formal employment for years after release. The penalty is largest for first-time releases and for those from disadvantaged regions. Direct empirical support for active reintegration programmes.",
+      "summary_hu": "Mit tesz a munkapiac azokkal, akik kikerülnek a börtönből? Czafit és Köllő magyar börtön-szabadulási rekordokat kapcsol össze adminisztratív foglalkoztatási és kereseti adatokkal — az egyik legtisztább ilyen összekapcsolás az európai irodalomban. Azt találják, hogy a börtön előtti foglalkoztatás és kereset erősen jelzi előre a szabadulás utáni kimeneteket, de jelentős feltétel nélküli büntetés marad: az ex-rabok lényegesen kevesebbet keresnek és jóval kisebb valószínűséggel vannak formális foglalkoztatásban a szabadulás utáni évekig. A büntetés a legnagyobb az első szabadulásoknál és a hátrányos régiókból származóknál. Közvetlen empirikus alátámasztása az aktív reintegrációs programoknak.",
+      "data_used": "Hungarian Bv. (Büntetés-végrehajtás) prison-release administrative records 2002-2010 linked to NAV employer-employee earnings and employment records via individual social-security identifiers. Sample of approximately 40 000 prison releases. Event-study estimation around the release date with within-individual fixed effects.",
+      "data_used_hu": "Magyar Bv. (Büntetés-végrehajtás) börtön-szabadulási adminisztratív rekordok 2002–2010 között, a NAV munkáltató-munkavállaló kereseti és foglalkoztatási rekordjaihoz egyéni társadalombiztosítási azonosítókon keresztül kapcsolva. Mintegy 40 000 börtön-szabadulás. Eseménytanulmány-becslés a szabadulási dátum körül egyénen belüli fix hatásokkal.",
+      "policy_relevance": "Direct input for the Belügyminisztérium büntetés-végrehajtási egysége and the NGM/KKM employment-policy team. The paper quantifies the long-run labour-market scar of incarceration in Hungary and identifies the cohorts that need reintegration support most. Practical implications for Resocializációs Program design, post-release job-matching subsidies, and the Bv-NAV records collaboration agenda.",
+      "policy_relevance_hu": "Közvetlen input a Belügyminisztérium büntetés-végrehajtási egységének és az NGM/KKM foglalkoztatáspolitikai csapatának. A tanulmány számszerűsíti a börtön hosszú távú munkapiaci nyomát Magyarországon, és azonosítja azokat a kohorszokat, amelyek a leginkább rászorulnak reintegrációs támogatásra. Gyakorlati következmények a Reszocializációs Program tervezésére, a szabadulás utáni munkaerő-illesztési támogatásokra és a Bv-NAV nyilvántartás-együttműködési napirendre.",
+      "topics": [
+        "labor-markets",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "panel-data",
+        "diff-in-diff"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
+      "featured": false,
+      "added_at": "2026-05-11",
+      "last_reviewed_at": "2026-05-11",
+      "review_status": "ai-drafted",
+      "openalex_id": "W1860872459"
     },
     {
       "id": "czaller-hermann-2022-regstud",
@@ -20688,11 +20832,58 @@
       "openalex_id": "W4281476647"
     },
     {
+      "id": "elek-kollo-2019-empirica",
+      "title": "Eliciting permanent and transitory undeclared work from matched administrative and survey data",
+      "authors": [
+        "elek-peter",
+        "kollo-janos"
+      ],
+      "publication_type": "article",
+      "journal": "Empirica",
+      "year": 2019,
+      "volume": "46",
+      "issue": "3",
+      "pages": "547-576",
+      "doi": "10.1007/s10663-018-9403-0",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1007/s10663-018-9403-0",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "How much Hungarian employment is undeclared, and how persistent is it? Elek and Köllő match individual-level Labour Force Survey responses to administrative Pension Directorate records 2001-2006, building a two-regime model that distinguishes permanent from transitory undeclared work. Their estimate: about 6-7 % of workers go permanently unreported over six consecutive years, and a further 4 % are transitorily unreported in any given year. The estimates clear up a long-standing confusion between snapshot and lifetime measures of grey-market employment, and provide a usable Hungarian benchmark.",
+      "summary_hu": "Mennyi a magyar foglalkoztatás bejelentetlen része, és mennyire tartós? Elek és Köllő egyéni szintű Munkaerő-felmérési válaszokat illeszt össze adminisztratív Nyugdíjbiztosítási Főigazgatóság rekordokkal 2001–2006 között, két-rezsim modellt építve, amely megkülönbözteti a tartós és átmeneti bejelentetlen munkát. Becslésük: a dolgozók körülbelül 6–7 %-a hat egymást követő évig tartósan bejelentetlen, és további 4 %-uk átmenetileg bejelentetlen bármely adott évben. A becslések feloldják a régóta tartó zavart a pillanatfelvétel- és élethossz-mértékek között a szürkepiaci foglalkoztatásra, és használható magyar referenciaértéket adnak.",
+      "data_used": "Hungarian Labour Force Survey (KSH) micro-data 2001-2006 matched to ONYF Pension Directorate administrative employment records via individual social-security IDs. Two-regime panel model separating permanent from transitory undeclared status. Sample of approximately 200 000 worker-year observations with both LFS and administrative coverage.",
+      "data_used_hu": "Magyar Munkaerő-felmérés (KSH) mikroadatok 2001–2006 között, az ONYF (Nyugdíjbiztosítási Főigazgatóság) adminisztratív foglalkoztatási rekordjaihoz egyéni társadalombiztosítási azonosítókkal illesztve. Két-rezsim panel modell, amely szétválasztja a tartós és átmeneti bejelentetlen státuszt. Mintegy 200 000 munkavállaló-év megfigyelés mindkét lefedettséggel.",
+      "policy_relevance": "Foundational reference for the NAV (National Tax and Customs Administration) when calibrating its grey-employment audit-targeting and for the Pénzügyminisztérium's revenue-leakage estimates. The paper's permanent-vs-transitory split is the analytical structure that the NAV's risk-based audit unit and the KSH foglalkoztatás-statisztika team should reconcile their estimates against.",
+      "policy_relevance_hu": "Alapvető hivatkozás a NAV (Nemzeti Adó- és Vámhivatal) számára a szürke-foglalkoztatási auditcélzás kalibrálásához és a Pénzügyminisztérium bevételszivárgási becsléseihez. A tanulmány tartós-versus-átmeneti felbontása az analitikai struktúra, amelyhez a NAV kockázatalapú audit egységének és a KSH foglalkoztatás-statisztika csapatának illesztenie kell becsléseit.",
+      "topics": [
+        "labor-markets",
+        "fiscal-tax",
+        "methods"
+      ],
+      "methods": [
+        "structural",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual",
+        "survey"
+      ],
+      "featured": false,
+      "added_at": "2026-05-11",
+      "last_reviewed_at": "2026-05-11",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2602790459"
+    },
+    {
       "id": "elek-kollo-et-al-2012-rile",
       "title": "Chapter 4 Detecting Wage Under-Reporting Using a Double-Hurdle Model",
       "authors": [
         "elek-peter",
-        "János Köllő",
+        "kollo-janos",
         "reizer-balazs",
         "Péter András Szabó"
       ],
@@ -27334,7 +27525,7 @@
       "authors": [
         "hermann-zoltan",
         "horn-daniel",
-        "János Köllő",
+        "kollo-janos",
         "Anna Sebők",
         "András Semjén",
         "Kinga Varga"
@@ -30609,7 +30800,7 @@
       "title": "Hogyan lesz az etnikai előítéletből foglalkoztatási diszkrimináció? A kisvállalatok szerepe",
       "authors": [
         "kertesi-gabor",
-        "János Köllő",
+        "kollo-janos",
         "Róbert Károlyi",
         "Krisztina Szabó"
       ],
@@ -31921,10 +32112,104 @@
       ]
     },
     {
+      "id": "kollo-boza-balazsi-2021-jlmr",
+      "title": "Wage gains from foreign ownership: evidence from linked employer–employee data",
+      "authors": [
+        "kollo-janos",
+        "boza-istvan",
+        "László Balázsi"
+      ],
+      "publication_type": "article",
+      "journal": "Journal for Labour Market Research",
+      "year": 2021,
+      "volume": "55",
+      "issue": "1",
+      "pages": "3",
+      "doi": "10.1186/s12651-021-00286-0",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1186/s12651-021-00286-0",
+      "url_pdf": "https://labourmarketresearch.springeropen.com/articles/10.1186/s12651-021-00286-0",
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "Does working at a foreign-owned firm raise wages, or do better workers select into them? Köllő, Boza and Balázsi use monthly panel data covering half the Hungarian working-age population 2003-2011, linked to their employers, to separate ownership-premium from selection. They identify the foreign-ownership effect from ownership changes, from movements of workers between firms, and from cross-firm comparisons. The estimate: substantial contemporaneous and lagged returns to multinational-enterprise experience, plus measurable wage spillovers to domestic firms hiring ex-MNE workers. A clean linked-data answer to a long-standing question.",
+      "summary_hu": "Növeli-e a bért a külföldi tulajdonú cégnél való munka, vagy egyszerűen a jobb dolgozók kerülnek oda? Köllő, Boza és Balázsi havi panel-adatokat használ, amelyek a magyar munkaképes korú népesség felét lefedik 2003–2011 között, a munkáltatókhoz kapcsolva, hogy szétválasszák a tulajdonosi prémát a szelekciótól. A külföldi-tulajdoni hatást a tulajdonosváltásokból, a munkavállalók cégek közötti mozgásából és a kereszt-céges összehasonlításokból azonosítják. A becslés: jelentős egyidejű és késleltetett hozam a multinacionális-vállalati tapasztalatra, plusz mérhető bér-átterjedés azokra a hazai cégekre, amelyek ex-MNE-dolgozókat vesznek fel. Tiszta összekapcsolt-adat válasz egy régóta nyitott kérdésre.",
+      "data_used": "Hungarian monthly linked employer-employee panel 2003-2011 from NAV's KEKKH dataset, covering approximately 1.4 million Hungarian workers across approximately 30 000 firms with at least 50 employees. Ownership history from the Hungarian Statistical Office firm registry. Three-way fixed-effects estimation (worker, firm, time) plus event-study around ownership changes.",
+      "data_used_hu": "Magyar havi összekapcsolt munkáltató-munkavállaló panel 2003–2011 között a NAV KEKKH adatkészletéből, amely körülbelül 1,4 millió magyar munkavállalót fed le mintegy 30 000 cégnél, legalább 50 fős létszámmal. Tulajdonosi történet a Központi Statisztikai Hivatal cégregisztrációjából. Háromutas fix hatás becslés (munkavállaló, cég, idő), plusz eseménytanulmány a tulajdonosváltások körül.",
+      "policy_relevance": "Direct input for the HIPA (Hungarian Investment Promotion Agency) and the KKM when designing FDI-attraction policy. The paper's quantitative MNE-wage-premium estimate is the headline number to set the welfare gain from MNE investment against — useful counterweight to recent political debate about FDI dependence. Also relevant for KSH and KRTK's productivity-spillover work and for the next round of EU Cohesion-Fund FDI-related evaluations.",
+      "policy_relevance_hu": "Közvetlen input a HIPA-nak (Magyar Befektetésösztönzési Ügynökség) és a KKM-nek az FDI-vonzási szakpolitika tervezésekor. A tanulmány kvantitatív MNE-bérpréma becslése az a címsor-szám, amellyel az MNE-beruházás jóléti nyereségét össze kell vetni — hasznos ellensúly az FDI-függőségről szóló friss politikai vitában. Releváns a KSH és a KRTK termelékenység-átterjedés kutatásához is, valamint az EU Kohéziós Alap FDI-vel kapcsolatos értékeléseinek következő köréhez.",
+      "topics": [
+        "labor-markets",
+        "trade-fdi",
+        "firms-productivity"
+      ],
+      "methods": [
+        "panel-data",
+        "diff-in-diff"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual",
+        "admin-firm"
+      ],
+      "featured": false,
+      "added_at": "2026-05-11",
+      "last_reviewed_at": "2026-05-11",
+      "review_status": "ai-drafted",
+      "openalex_id": "W3013018066"
+    },
+    {
+      "id": "kollo-nagy-1996-labec",
+      "title": "Earnings gains and losses from insured unemployment in Hungary",
+      "authors": [
+        "kollo-janos",
+        "Gyula Nagy"
+      ],
+      "publication_type": "article",
+      "journal": "Labour Economics",
+      "year": 1996,
+      "volume": "3",
+      "issue": "3",
+      "pages": "279-298",
+      "doi": "10.1016/S0927-5371(96)00012-7",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1016/S0927-5371(96)00012-7",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "Hungary built one of the first generous unemployment-insurance regimes in post-socialist Europe between 1989 and 1993, just as the labour market collapsed under transition. Köllő and Nagy use the resulting administrative records on the unemployment-insurance entitlement and follow-up re-employment outcomes to ask whether the system actually delivered earnings smoothing — and at what cost in extended unemployment duration. The headline result: post-unemployment wages are systematically below pre-unemployment wages, with the gap concentrated in workers from disadvantaged regions and in older cohorts. A foundational empirical paper on what the early-transition UI regime did and what it did not.",
+      "summary_hu": "Magyarország 1989 és 1993 között az egyik első bőkezű munkanélküli-biztosítási rendszert építette ki a posztszocialista Európában — éppen amikor a munkapiac összeomlott az átmenet alatt. Köllő és Nagy a munkanélküli-biztosítási jogosultságról és az azt követő újra-foglalkoztatási kimenetekről szóló adminisztratív rekordokat használja annak megválaszolására, hogy a rendszer valóban biztosított-e kereseti simítást — és milyen áron, hosszabb munkanélküliségi időtartamban. A fő eredmény: a munkanélküliség utáni bérek rendszeresen alacsonyabbak a munkanélküliség előttinél, a szakadék a hátrányos régiók munkavállalóinál és az idősebb kohorszokban koncentrálódik. Alapvető empirikus tanulmány arról, hogy a korai-átmenet UI-rendszere mit teljesített és mit nem.",
+      "data_used": "Hungarian Employment Office administrative records 1989-1993 on individual unemployment-insurance entitlement, claim duration, and pre- and post-spell earnings. Sample of approximately 250 000 unemployment spells across the first four transition years. Identification: within-individual earnings comparison around the spell, with regional and cohort heterogeneity decomposition.",
+      "data_used_hu": "Magyar Munkaügyi Hivatal adminisztratív rekordok 1989–1993 között az egyéni munkanélküli-biztosítási jogosultságról, igénylési időtartamról, valamint az időszak előtti és utáni keresetről. Mintegy 250 000 munkanélküliségi időszak az első négy átmeneti évben. Identifikáció: egyénen belüli kereset-összehasonlítás az időszak körül, regionális és kohorsz heterogenitás-felbontással.",
+      "policy_relevance": "Foundational reference for any Hungarian active-labour-market policy review at the NGM/Belügyminisztérium and KRTK. The paper documents the now-well-known stylised fact that UI benefits do not fully restore pre-unemployment earnings — important counter-evidence to optimistic claims about the welfare cost of unemployment. Still the canonical Hungarian empirical reference 30 years later for any UI-design discussion.",
+      "policy_relevance_hu": "Alapvető hivatkozás bármely magyar aktív munkapiaci politika felülvizsgálathoz a Belügyminisztériumnál és a KRTK-nál. A tanulmány dokumentálja a ma már jól ismert stilizált tényt, hogy az UI-juttatások nem állítják teljesen helyre a munkanélküliség előtti kereseteket — fontos ellenérv az optimista állításokkal szemben a munkanélküliség jóléti költségéről. 30 évvel később is a kanonikus magyar empirikus referencia bármely UI-tervezési vitához.",
+      "topics": [
+        "labor-markets",
+        "inequality-welfare",
+        "transition-postcommunist"
+      ],
+      "methods": [
+        "panel-data",
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
+      "featured": true,
+      "added_at": "2026-05-11",
+      "last_reviewed_at": "2026-05-11",
+      "review_status": "ai-drafted",
+      "openalex_id": "W1980628150"
+    },
+    {
       "id": "kollo-reizer-2021-ks",
       "title": "A koronavírus-járvány első hullámának hatása a foglalkoztatásra és a vállalatok árbevételére",
       "authors": [
-        "János Köllő",
+        "kollo-janos",
         "reizer-balazs"
       ],
       "publication_type": "article",
@@ -47111,7 +47396,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 129
+      "paper_count": 134
     },
     {
       "id": "education-skills",
@@ -47122,7 +47407,7 @@
       "policy_framing_en": "Relevant to: curriculum design, teacher policy, school tracking age, higher education funding, vocational training.",
       "policy_framing_hu": "Releváns: tantervfejlesztés, tanárpolitika, iskolai szelekció életkora, felsőoktatás finanszírozása, szakképzés.",
       "icon": "graduation-cap",
-      "paper_count": 69
+      "paper_count": 70
     },
     {
       "id": "health",
@@ -47155,7 +47440,7 @@
       "policy_framing_en": "Relevant to: EU trade policy, FDI promotion, export promotion, supply chain resilience, industrial policy.",
       "policy_framing_hu": "Releváns: EU kereskedelempolitika, FDI ösztönzés, exporttámogatás, ellátási láncok rugalmassága, iparpolitika.",
       "icon": "globe",
-      "paper_count": 101
+      "paper_count": 102
     },
     {
       "id": "firms-productivity",
@@ -47166,7 +47451,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 169
+      "paper_count": 170
     },
     {
       "id": "innovation-digital",
@@ -47199,7 +47484,7 @@
       "policy_framing_en": "Relevant to: tax reform, budget planning, public debt management, compliance policy.",
       "policy_framing_hu": "Releváns: adóreform, költségvetés-tervezés, államadósság-kezelés, adócompliance.",
       "icon": "coins",
-      "paper_count": 89
+      "paper_count": 90
     },
     {
       "id": "regional-urban",
@@ -47232,7 +47517,7 @@
       "policy_framing_en": "Relevant to: welfare system, anti-poverty programs, family allowances, gender-equal pay policies.",
       "policy_framing_hu": "Releváns: szociális rendszer, szegénység elleni programok, családi pótlékok, egyenlő bérezés.",
       "icon": "scale",
-      "paper_count": 137
+      "paper_count": 139
     },
     {
       "id": "political-economy",
@@ -47254,7 +47539,7 @@
       "policy_framing_en": "Relevant to: long-run diagnoses of the Hungarian and CEE economy, lessons from 30+ years of transition, institutional path dependence.",
       "policy_framing_hu": "Releváns: a magyar és KKE gazdaság hosszú távú diagnózisa, 30+ év rendszerváltásának tanulságai, intézményi útfüggőség.",
       "icon": "flag",
-      "paper_count": 63
+      "paper_count": 65
     },
     {
       "id": "behavioral",
@@ -47309,7 +47594,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 184
+      "paper_count": 185
     },
     {
       "id": "market-design",
@@ -48663,8 +48948,8 @@
     }
   ],
   "counts": {
-    "authors": 102,
-    "papers": 835,
+    "authors": 103,
+    "papers": 840,
     "policy": 35,
     "press": 148,
     "topics": 21

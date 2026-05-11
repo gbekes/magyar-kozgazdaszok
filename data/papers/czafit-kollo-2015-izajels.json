@@ -1,0 +1,45 @@
+{
+  "id": "czafit-kollo-2015-izajels",
+  "title": "Employment and wages before and after incarceration — evidence from Hungary",
+  "authors": [
+    "Bence Czafit",
+    "kollo-janos"
+  ],
+  "publication_type": "article",
+  "journal": "IZA Journal of European Labor Studies",
+  "year": 2015,
+  "volume": "4",
+  "issue": "1",
+  "pages": "21",
+  "doi": "10.1186/s40174-015-0044-z",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1186/s40174-015-0044-z",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "What do labour markets do to people coming out of prison? Czafit and Köllő link Hungarian prison-release records to administrative employment and earnings data — one of the cleanest such linkages in the European literature. They find that pre-prison employment and earnings predict post-release outcomes strongly, but a large unconditional penalty remains: ex-prisoners earn substantially less and are far less likely to be in formal employment for years after release. The penalty is largest for first-time releases and for those from disadvantaged regions. Direct empirical support for active reintegration programmes.",
+  "summary_hu": "Mit tesz a munkapiac azokkal, akik kikerülnek a börtönből? Czafit és Köllő magyar börtön-szabadulási rekordokat kapcsol össze adminisztratív foglalkoztatási és kereseti adatokkal — az egyik legtisztább ilyen összekapcsolás az európai irodalomban. Azt találják, hogy a börtön előtti foglalkoztatás és kereset erősen jelzi előre a szabadulás utáni kimeneteket, de jelentős feltétel nélküli büntetés marad: az ex-rabok lényegesen kevesebbet keresnek és jóval kisebb valószínűséggel vannak formális foglalkoztatásban a szabadulás utáni évekig. A büntetés a legnagyobb az első szabadulásoknál és a hátrányos régiókból származóknál. Közvetlen empirikus alátámasztása az aktív reintegrációs programoknak.",
+  "data_used": "Hungarian Bv. (Büntetés-végrehajtás) prison-release administrative records 2002-2010 linked to NAV employer-employee earnings and employment records via individual social-security identifiers. Sample of approximately 40 000 prison releases. Event-study estimation around the release date with within-individual fixed effects.",
+  "data_used_hu": "Magyar Bv. (Büntetés-végrehajtás) börtön-szabadulási adminisztratív rekordok 2002–2010 között, a NAV munkáltató-munkavállaló kereseti és foglalkoztatási rekordjaihoz egyéni társadalombiztosítási azonosítókon keresztül kapcsolva. Mintegy 40 000 börtön-szabadulás. Eseménytanulmány-becslés a szabadulási dátum körül egyénen belüli fix hatásokkal.",
+  "policy_relevance": "Direct input for the Belügyminisztérium büntetés-végrehajtási egysége and the NGM/KKM employment-policy team. The paper quantifies the long-run labour-market scar of incarceration in Hungary and identifies the cohorts that need reintegration support most. Practical implications for Resocializációs Program design, post-release job-matching subsidies, and the Bv-NAV records collaboration agenda.",
+  "policy_relevance_hu": "Közvetlen input a Belügyminisztérium büntetés-végrehajtási egységének és az NGM/KKM foglalkoztatáspolitikai csapatának. A tanulmány számszerűsíti a börtön hosszú távú munkapiaci nyomát Magyarországon, és azonosítja azokat a kohorszokat, amelyek a leginkább rászorulnak reintegrációs támogatásra. Gyakorlati következmények a Reszocializációs Program tervezésére, a szabadulás utáni munkaerő-illesztési támogatásokra és a Bv-NAV nyilvántartás-együttműködési napirendre.",
+  "topics": [
+    "labor-markets",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "panel-data",
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
+  "featured": false,
+  "added_at": "2026-05-11",
+  "last_reviewed_at": "2026-05-11",
+  "review_status": "ai-drafted",
+  "openalex_id": "W1860872459"
+}

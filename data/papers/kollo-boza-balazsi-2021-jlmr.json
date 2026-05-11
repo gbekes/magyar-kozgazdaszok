@@ -1,0 +1,48 @@
+{
+  "id": "kollo-boza-balazsi-2021-jlmr",
+  "title": "Wage gains from foreign ownership: evidence from linked employer–employee data",
+  "authors": [
+    "kollo-janos",
+    "boza-istvan",
+    "László Balázsi"
+  ],
+  "publication_type": "article",
+  "journal": "Journal for Labour Market Research",
+  "year": 2021,
+  "volume": "55",
+  "issue": "1",
+  "pages": "3",
+  "doi": "10.1186/s12651-021-00286-0",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1186/s12651-021-00286-0",
+  "url_pdf": "https://labourmarketresearch.springeropen.com/articles/10.1186/s12651-021-00286-0",
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Does working at a foreign-owned firm raise wages, or do better workers select into them? Köllő, Boza and Balázsi use monthly panel data covering half the Hungarian working-age population 2003-2011, linked to their employers, to separate ownership-premium from selection. They identify the foreign-ownership effect from ownership changes, from movements of workers between firms, and from cross-firm comparisons. The estimate: substantial contemporaneous and lagged returns to multinational-enterprise experience, plus measurable wage spillovers to domestic firms hiring ex-MNE workers. A clean linked-data answer to a long-standing question.",
+  "summary_hu": "Növeli-e a bért a külföldi tulajdonú cégnél való munka, vagy egyszerűen a jobb dolgozók kerülnek oda? Köllő, Boza és Balázsi havi panel-adatokat használ, amelyek a magyar munkaképes korú népesség felét lefedik 2003–2011 között, a munkáltatókhoz kapcsolva, hogy szétválasszák a tulajdonosi prémát a szelekciótól. A külföldi-tulajdoni hatást a tulajdonosváltásokból, a munkavállalók cégek közötti mozgásából és a kereszt-céges összehasonlításokból azonosítják. A becslés: jelentős egyidejű és késleltetett hozam a multinacionális-vállalati tapasztalatra, plusz mérhető bér-átterjedés azokra a hazai cégekre, amelyek ex-MNE-dolgozókat vesznek fel. Tiszta összekapcsolt-adat válasz egy régóta nyitott kérdésre.",
+  "data_used": "Hungarian monthly linked employer-employee panel 2003-2011 from NAV's KEKKH dataset, covering approximately 1.4 million Hungarian workers across approximately 30 000 firms with at least 50 employees. Ownership history from the Hungarian Statistical Office firm registry. Three-way fixed-effects estimation (worker, firm, time) plus event-study around ownership changes.",
+  "data_used_hu": "Magyar havi összekapcsolt munkáltató-munkavállaló panel 2003–2011 között a NAV KEKKH adatkészletéből, amely körülbelül 1,4 millió magyar munkavállalót fed le mintegy 30 000 cégnél, legalább 50 fős létszámmal. Tulajdonosi történet a Központi Statisztikai Hivatal cégregisztrációjából. Háromutas fix hatás becslés (munkavállaló, cég, idő), plusz eseménytanulmány a tulajdonosváltások körül.",
+  "policy_relevance": "Direct input for the HIPA (Hungarian Investment Promotion Agency) and the KKM when designing FDI-attraction policy. The paper's quantitative MNE-wage-premium estimate is the headline number to set the welfare gain from MNE investment against — useful counterweight to recent political debate about FDI dependence. Also relevant for KSH and KRTK's productivity-spillover work and for the next round of EU Cohesion-Fund FDI-related evaluations.",
+  "policy_relevance_hu": "Közvetlen input a HIPA-nak (Magyar Befektetésösztönzési Ügynökség) és a KKM-nek az FDI-vonzási szakpolitika tervezésekor. A tanulmány kvantitatív MNE-bérpréma becslése az a címsor-szám, amellyel az MNE-beruházás jóléti nyereségét össze kell vetni — hasznos ellensúly az FDI-függőségről szóló friss politikai vitában. Releváns a KSH és a KRTK termelékenység-átterjedés kutatásához is, valamint az EU Kohéziós Alap FDI-vel kapcsolatos értékeléseinek következő köréhez.",
+  "topics": [
+    "labor-markets",
+    "trade-fdi",
+    "firms-productivity"
+  ],
+  "methods": [
+    "panel-data",
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual",
+    "admin-firm"
+  ],
+  "featured": false,
+  "added_at": "2026-05-11",
+  "last_reviewed_at": "2026-05-11",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3013018066"
+}

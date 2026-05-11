@@ -1,0 +1,47 @@
+{
+  "id": "elek-kollo-2019-empirica",
+  "title": "Eliciting permanent and transitory undeclared work from matched administrative and survey data",
+  "authors": [
+    "elek-peter",
+    "kollo-janos"
+  ],
+  "publication_type": "article",
+  "journal": "Empirica",
+  "year": 2019,
+  "volume": "46",
+  "issue": "3",
+  "pages": "547-576",
+  "doi": "10.1007/s10663-018-9403-0",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1007/s10663-018-9403-0",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "How much Hungarian employment is undeclared, and how persistent is it? Elek and Köllő match individual-level Labour Force Survey responses to administrative Pension Directorate records 2001-2006, building a two-regime model that distinguishes permanent from transitory undeclared work. Their estimate: about 6-7 % of workers go permanently unreported over six consecutive years, and a further 4 % are transitorily unreported in any given year. The estimates clear up a long-standing confusion between snapshot and lifetime measures of grey-market employment, and provide a usable Hungarian benchmark.",
+  "summary_hu": "Mennyi a magyar foglalkoztatás bejelentetlen része, és mennyire tartós? Elek és Köllő egyéni szintű Munkaerő-felmérési válaszokat illeszt össze adminisztratív Nyugdíjbiztosítási Főigazgatóság rekordokkal 2001–2006 között, két-rezsim modellt építve, amely megkülönbözteti a tartós és átmeneti bejelentetlen munkát. Becslésük: a dolgozók körülbelül 6–7 %-a hat egymást követő évig tartósan bejelentetlen, és további 4 %-uk átmenetileg bejelentetlen bármely adott évben. A becslések feloldják a régóta tartó zavart a pillanatfelvétel- és élethossz-mértékek között a szürkepiaci foglalkoztatásra, és használható magyar referenciaértéket adnak.",
+  "data_used": "Hungarian Labour Force Survey (KSH) micro-data 2001-2006 matched to ONYF Pension Directorate administrative employment records via individual social-security IDs. Two-regime panel model separating permanent from transitory undeclared status. Sample of approximately 200 000 worker-year observations with both LFS and administrative coverage.",
+  "data_used_hu": "Magyar Munkaerő-felmérés (KSH) mikroadatok 2001–2006 között, az ONYF (Nyugdíjbiztosítási Főigazgatóság) adminisztratív foglalkoztatási rekordjaihoz egyéni társadalombiztosítási azonosítókkal illesztve. Két-rezsim panel modell, amely szétválasztja a tartós és átmeneti bejelentetlen státuszt. Mintegy 200 000 munkavállaló-év megfigyelés mindkét lefedettséggel.",
+  "policy_relevance": "Foundational reference for the NAV (National Tax and Customs Administration) when calibrating its grey-employment audit-targeting and for the Pénzügyminisztérium's revenue-leakage estimates. The paper's permanent-vs-transitory split is the analytical structure that the NAV's risk-based audit unit and the KSH foglalkoztatás-statisztika team should reconcile their estimates against.",
+  "policy_relevance_hu": "Alapvető hivatkozás a NAV (Nemzeti Adó- és Vámhivatal) számára a szürke-foglalkoztatási auditcélzás kalibrálásához és a Pénzügyminisztérium bevételszivárgási becsléseihez. A tanulmány tartós-versus-átmeneti felbontása az analitikai struktúra, amelyhez a NAV kockázatalapú audit egységének és a KSH foglalkoztatás-statisztika csapatának illesztenie kell becsléseit.",
+  "topics": [
+    "labor-markets",
+    "fiscal-tax",
+    "methods"
+  ],
+  "methods": [
+    "structural",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual",
+    "survey"
+  ],
+  "featured": false,
+  "added_at": "2026-05-11",
+  "last_reviewed_at": "2026-05-11",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2602790459"
+}

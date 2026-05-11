@@ -20,7 +20,7 @@
     about: 'Bemutatkozás',
     contribute: 'Közreműködés',
     brand: 'Magyar Közgazd<em>ászok</em>',
-    brandSub: 'innovatív közgazdászok a döntéshozóknak'
+    brandSub: 'magyar közgazdasági kutatások tárlata'
   } : {
     papers: 'Papers',
     authors: 'Authors',
@@ -28,7 +28,7 @@
     about: 'About',
     contribute: 'Contribute',
     brand: 'Magyar Közgazd<em>ászok</em>',
-    brandSub: 'innovative economists for policymakers'
+    brandSub: 'showcasing economics research'
   };
 
   const header = `
@@ -57,8 +57,8 @@
     <footer class="site">
       <div class="container">
         <p><strong>${nav.brand}</strong> — ${isHu
-          ? 'akadémiai kutatások az innovatív magyar közgazdászoktól, a döntéshozóknak.'
-          : 'academic research by innovative Hungarian economists, for policymakers.'}</p>
+          ? 'magyar közgazdászok akadémiai kutatásainak nyilvános tárlata.'
+          : 'a public showcase of academic research by Hungarian economists.'}</p>
         <p class="small muted">
           ${isHu
             ? 'Claude segítségével készült. Kurátor: Békés Gábor. Jelenlegi verzió: 0.3.1, 2026. május 9. Jelezz hibát vagy hiányt a'
