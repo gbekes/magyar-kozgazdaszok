@@ -1,0 +1,49 @@
+{
+  "id": "bahaj-foulis-pinter-surico-2022-jme",
+  "title": "Employment and the residential collateral channel of monetary policy",
+  "authors": [
+    "Saleem Bahaj",
+    "Angus Foulis",
+    "pinter-gabor",
+    "Paolo Surico"
+  ],
+  "publication_type": "article",
+  "journal": "Journal of Monetary Economics",
+  "year": 2022,
+  "volume": "131",
+  "issue": null,
+  "pages": "26-44",
+  "doi": "10.1016/j.jmoneco.2022.07.002",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1016/j.jmoneco.2022.07.002",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Does monetary policy hit employment partly through firm owners' home equity? Bahaj, Foulis, Pintér and Surico use UK firm- and director-level data linked to residential property records to track how monetary-policy shocks transmit through the directors' residential collateral. A rate cut that raises director house prices loosens the borrowing constraint on their firm, which then hires more workers. The residential-collateral channel accounts for a sizeable share of the employment response to monetary policy in their UK sample. A clean micro-data measurement of an indirect channel macro models had been speculating about.",
+  "summary_hu": "Részben a cégtulajdonosok lakásvagyonán keresztül hat-e a monetáris politika a foglalkoztatásra? Bahaj, Foulis, Pintér és Surico brit cég- és igazgató-szintű adatokat használ, lakóingatlan-nyilvántartásokkal összekapcsolva annak nyomon követésére, hogyan terjed a monetáris-politikai sokk az igazgatók lakhatási kollaterálján keresztül. A kamatcsökkentés, amely növeli az igazgató háziárát, lazítja cégének hitelkorlátját, amely aztán több munkavállalót vesz fel. A lakhatási-kollaterál csatorna jelentős részt magyaráz a foglalkoztatás monetáris-politikai válaszában a brit mintájukban. Tiszta mikroadat-mérése egy közvetett csatornának, amiről a makró modellek korábban csak spekuláltak.",
+  "data_used": "UK firm-level Companies House and HMRC employer records 1997-2014 linked to Land Registry residential property transactions for company directors. Approximately 1 million firm-year observations with director home-address matching. Identification: high-frequency monetary-policy surprises around Bank of England announcements, with director-level home-equity exposure as the cross-section interactor.",
+  "data_used_hu": "Brit cégszintű Companies House és HMRC munkáltatói rekordok 1997–2014 között, a Land Registry céges igazgatókra vonatkozó lakóingatlan-tranzakcióival összekapcsolva. Körülbelül 1 millió cég-év megfigyelés igazgatói lakcím-illesztéssel. Identifikáció: magas frekvenciájú monetáris-politikai meglepetések a Bank of England bejelentései körül, igazgatói szintű lakásvagyon-kitettséggel mint kereszt-szekciós interakcióval.",
+  "policy_relevance": "Direct relevance for the MNB Monetary Council when assessing the full transmission of policy rate changes — Hungarian SMEs are also disproportionately owner-managed, so the residential-collateral channel likely operates here too. Useful framing for the Pénzügyi Stabilitási Tanács when calibrating the joint LTV-DTI-DSTI rule structure; the paper's evidence is the cleanest available on how residential-collateral loosening feeds into firm-side employment.",
+  "policy_relevance_hu": "Közvetlen relevancia az MNB Monetáris Tanácsa számára a politikai kamatváltozások teljes transzmissziójának értékeléséhez — a magyar KKV-k szintén aránytalanul tulajdonos-menedzseltek, így a lakhatási-kollaterál csatorna itt is valószínűleg működik. Hasznos keret a Pénzügyi Stabilitási Tanács számára az LTV–DTI–DSTI együttes szabálystruktúra kalibrálásához; a tanulmány bizonyítéka a legtisztább, ami elérhető arról, hogyan terjed a lakhatási-kollaterál enyhülése a cégoldali foglalkoztatás felé.",
+  "topics": [
+    "macroeconomics",
+    "banking-finance",
+    "labor-markets"
+  ],
+  "methods": [
+    "panel-data",
+    "iv"
+  ],
+  "countries_studied": [
+    "GB"
+  ],
+  "data_types": [
+    "admin-firm",
+    "admin-individual"
+  ],
+  "featured": false,
+  "added_at": "2026-05-11",
+  "last_reviewed_at": "2026-05-11",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4284958250"
+}

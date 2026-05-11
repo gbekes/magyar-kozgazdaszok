@@ -1,0 +1,46 @@
+{
+  "id": "hajdu-hajdu-2021-scirep",
+  "title": "Post-conception heat exposure increases clinically unobserved pregnancy losses",
+  "authors": [
+    "hajdu-tamas",
+    "hajdu-gabor"
+  ],
+  "publication_type": "article",
+  "journal": "Scientific Reports",
+  "year": 2021,
+  "volume": "11",
+  "issue": "1",
+  "pages": "1987",
+  "doi": "10.1038/s41598-021-81496-x",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1038/s41598-021-81496-x",
+  "url_pdf": "https://www.nature.com/articles/s41598-021-81496-x.pdf",
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Climate-fertility studies tend to count births and miss early pregnancy losses that women themselves may not notice. Hajdu and Hajdu use Hungarian birth and conception records 1981-2014 plus daily temperature data to estimate the effect of post-conception heat exposure on the share of conceptions that reach observed pregnancy. Hot days in the first weeks after conception sharply increase clinically unobserved pregnancy losses — the conception count falls disproportionately, not just the birth count. The implied climate-warming cost to fertility is larger than studies based on births alone capture, with most of the loss happening before women realise they were pregnant.",
+  "summary_hu": "A klíma-termékenység vizsgálatok hajlamosak születéseket számolni, és elsiklanak a korai terhességvesztések felett, amelyeket maga az anya esetleg észre sem vesz. Hajdu és Hajdu az 1981–2014 közötti magyar születési és fogantatási adatokat napi hőmérsékleti adatokkal kombinálva becsüli meg, hogyan hat a fogantatás utáni hőterhelés a megfigyelt terhességig eljutó fogantatások arányára. A fogantatás utáni első hetekben tapasztalt forró napok élesen növelik a klinikailag észrevétlen terhességvesztéseket — a fogantatási szám aránytalanul esik, nem csak a születési szám. A klímamelegedés implikált termékenységi költsége így nagyobb, mint amit a csak születésekre épülő tanulmányok megragadnak — a veszteség nagy része még azelőtt történik, hogy az asszonyok megtudnák, hogy terhesek voltak.",
+  "data_used": "Hungarian administrative birth-record data 1981-2014 from KSH, combined with reconstructed conception dates (birth date minus gestational age) and daily local-area temperature from OMSZ. Effect identified within-region from idiosyncratic heat shocks in the 1-4 weeks post-conception, controlling for seasonal patterns and longer-term temperature trends.",
+  "data_used_hu": "Magyar adminisztratív születési-rekord adatok 1981–2014 között a KSH-tól, rekonstruált fogantatási dátumokkal (születési dátum mínusz terhességi kor) és napi helyi szintű hőmérséklettel az OMSZ-tól. A hatás régión belül azonosítva idioszinkratikus hőhullámokból a fogantatás utáni 1–4. hétben, szezonális mintázatokra és hosszabb távú hőmérsékleti trendekre kontrollálva.",
+  "policy_relevance": "Direct input for KSH and the Belügyminisztérium Family Strategy unit's climate-and-fertility scenarios. The paper shifts the expected order of magnitude of climate-warming fertility effects upward, with implications for long-run population projections that feed into MNB's labour-force forecasts and the EMMI public-health resource-planning. Useful framing for EU Cohesion-Fund climate-adaptation pipelines on maternal health.",
+  "policy_relevance_hu": "Közvetlen input a KSH és a Belügyminisztérium Családstratégia egységének klíma-és-termékenység forgatókönyveihez. A tanulmány felfelé módosítja a klímamelegedés termékenységi hatásainak várt nagyságrendjét, ami következményekkel jár a hosszú távú népességvetítésekre, amelyek az MNB munkaerő-előrejelzéseit és az EMMI közegészségügyi erőforrás-tervezést táplálják. Hasznos keret az EU Kohéziós Alap klíma-alkalmazkodási csővezetékek anyai egészségügyi vonalához.",
+  "topics": [
+    "demographics-migration",
+    "energy-environment",
+    "health"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual",
+    "macro-aggregate"
+  ],
+  "featured": false,
+  "added_at": "2026-05-11",
+  "last_reviewed_at": "2026-05-11",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3122200146"
+}

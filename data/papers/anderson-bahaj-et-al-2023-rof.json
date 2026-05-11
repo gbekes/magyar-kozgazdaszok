@@ -1,0 +1,48 @@
+{
+  "id": "anderson-bahaj-et-al-2023-rof",
+  "title": "Lending relationships and the collateral channel",
+  "authors": [
+    "Gareth Anderson",
+    "Saleem Bahaj",
+    "Matthieu Chavaz",
+    "Angus Foulis",
+    "pinter-gabor"
+  ],
+  "publication_type": "article",
+  "journal": "Review of Finance",
+  "year": 2023,
+  "volume": "27",
+  "issue": "3",
+  "pages": "851-887",
+  "doi": "10.1093/rof/rfac041",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1093/rof/rfac041",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Lending relationships are usually thought to *insulate* corporate investment from collateral-value shocks. Anderson, Bahaj, Chavaz, Foulis and Pintér use UK firm-bank matched data to ask whether they really do. The answer is yes — and especially so for relationships that involve director-bank social ties, where the bank has independent information about the firm. Effects are largest at small and young firms. Lending-relationship strength is a quantitatively important moderator of the housing-collateral channel — what looks like a uniform collateral effect masks meaningful heterogeneity by bank-firm proximity.",
+  "summary_hu": "A hitelkapcsolatokról általában azt gondolják, hogy *szigetelik* a vállalati beruházást a kollaterál-érték sokkjaitól. Anderson, Bahaj, Chavaz, Foulis és Pintér brit cég-bank illesztett adatokat használ annak megválaszolására, hogy valóban így van-e. A válasz igen — és különösen így van azokra a kapcsolatokra, amelyek igazgató-bank társas kötelékeket tartalmaznak, ahol a banknak független információja van a cégről. A hatás a legnagyobb a kis és fiatal cégeknél. A hitelkapcsolat-erősség kvantitatívan fontos moderátor a lakhatási-kollaterál csatornának — ami egyenletes kollaterál-hatásnak tűnik, valójában a bank-cég közelség szerinti érdemi heterogenitást rejt.",
+  "data_used": "UK firm-bank matched data 1997-2017 from Companies House, FCA banking records, and HMRC employer data, with director-bank-board overlap identified through director registry cross-references. About 250 000 firm-bank year observations. Identification: differential exposure to local house-price shocks across bank-firm relationships with vs. without director-bank board overlap.",
+  "data_used_hu": "Brit cég-bank illesztett adatok 1997–2017 között a Companies House-ból, FCA banki rekordokból és HMRC munkáltatói adatokból, az igazgató-bank-igazgatótanács átfedéssel az igazgatói nyilvántartás kereszthivatkozásaiból azonosítva. Körülbelül 250 000 cég-bank év megfigyelés. Identifikáció: a helyi háriár-sokkokra való differenciált kitettség a bank-cég kapcsolatokban igazgató-bank igazgatótanácsi átfedéssel és anélkül.",
+  "policy_relevance": "Useful for MNB and PSZÁF / Pénzügyi Stabilitási Tanács supervisors when designing collateral-haircut and LTV rules differentiated by firm-bank relationship strength. The paper makes the case that uniform haircut rules underweight the welfare cost in long-standing relationship banking — a consideration relevant to Hungary's Növekedési Hitelprogram and to the SME-finance design more broadly.",
+  "policy_relevance_hu": "Hasznos az MNB és a Pénzügyi Stabilitási Tanács felügyelőinek a kollaterál-haircut és LTV szabályok cég-bank kapcsolat-erősség szerinti differenciálásához. A tanulmány azt érvelve, hogy az egyenletes haircut-szabályok alulsúlyozzák a jóléti költséget a hosszú távú kapcsolati bankolásban — releváns megfontolás a magyar Növekedési Hitelprogramhoz és tágabban a KKV-finanszírozás tervezéséhez.",
+  "topics": [
+    "banking-finance",
+    "firms-productivity"
+  ],
+  "methods": [
+    "panel-data",
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "GB"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
+  "featured": false,
+  "added_at": "2026-05-11",
+  "last_reviewed_at": "2026-05-11",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2803256614"
+}

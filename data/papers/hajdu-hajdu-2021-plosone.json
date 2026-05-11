@@ -1,0 +1,45 @@
+{
+  "id": "hajdu-hajdu-2021-plosone",
+  "title": "The long-term impact of restricted access to abortion on children's socioeconomic outcomes",
+  "authors": [
+    "hajdu-gabor",
+    "hajdu-tamas"
+  ],
+  "publication_type": "article",
+  "journal": "PLOS ONE",
+  "year": 2021,
+  "volume": "16",
+  "issue": "3",
+  "pages": "e0248638",
+  "doi": "10.1371/journal.pone.0248638",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1371/journal.pone.0248638",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "What happens to children born to mothers who would otherwise have terminated the pregnancy? Hajdu and Hajdu use Hungary's 1974 tightening of abortion rules — which sharply restricted access — to compare cohorts conceived just before and just after the reform. Children born under the tighter regime score worse on schooling outcomes and later labour-market measures decades on. The penalty is concentrated in disadvantaged subgroups (low maternal education, single mothers). A clean long-run identification on an episode-specific Hungarian policy that closely mirrors current US abortion-access debates.",
+  "summary_hu": "Mi történik azokkal a gyermekekkel, akiknek anyja egyébként megszakítaná a terhességet? Hajdu és Hajdu Magyarország 1974-es abortuszszabály-szigorítását használja — amely élesen korlátozta a hozzáférést — a reform előtt és után fogant kohorszok összehasonlítására. A szigorúbb rendszerben született gyermekek évtizedekkel később rosszabbul teljesítenek iskolázottsági és munkapiaci mutatókban. A hátrány a hátrányos helyzetű alcsoportokra (alacsony anyai iskolázottság, egyedülálló anyák) koncentrálódik. Tiszta hosszú távú identifikáció egy epizód-specifikus magyar szakpolitikán, amely közelről hasonlít a jelenlegi amerikai abortusz-hozzáférési vitákra.",
+  "data_used": "Hungarian census 2011 micro-data linked to birth cohorts around the 1974 abortion-restriction reform, plus KSH's annual labour-force survey extracts for affected cohorts. Difference-in-differences comparing pre-reform and post-reform conception cohorts within mother characteristics (education, marital status). Sample of several hundred thousand individuals from the cohort window.",
+  "data_used_hu": "Magyar 2011-es népszámlálási mikroadatok az 1974-es abortuszkorlátozási reform körüli születési kohorszokhoz kapcsolva, plusz a KSH éves munkaerő-felmérés kivonatai az érintett kohorszokra. Difference-in-differences a reform előtti és utáni fogantatási kohorszok összehasonlítása az anyai jellemzők (iskolázottság, családi állapot) szerint. Néhány százezres minta a kohorsz-ablakból.",
+  "policy_relevance": "Background reference for the Belügyminisztérium's Family Strategy and the EMMI population-policy unit when evaluating reproductive-health policy trade-offs. The Hungarian 1974 reform is one of very few clean natural experiments on this question; the paper's evidence on long-run socioeconomic costs to children of restricted-access conception is a useful counterweight to short-run policy narratives. Also of interest to KSH demographic-history teams.",
+  "policy_relevance_hu": "Háttér-hivatkozás a Belügyminisztérium Családstratégiájához és az EMMI népességpolitikai egységéhez a reprodukciós-egészségügyi szakpolitikai átváltások értékeléséhez. Az 1974-es magyar reform egyike azon kevés tiszta természetes kísérletnek erre a kérdésre; a tanulmány bizonyítéka a korlátozott hozzáférés mellett fogant gyermekek hosszú távú társadalmi-gazdasági költségeiről hasznos ellensúlya a rövid távú szakpolitikai narratíváknak. Érdekes a KSH demográfiatörténeti csapatainak is.",
+  "topics": [
+    "demographics-migration",
+    "health",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
+  "featured": false,
+  "added_at": "2026-05-11",
+  "last_reviewed_at": "2026-05-11",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3136914492"
+}

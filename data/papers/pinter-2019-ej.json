@@ -1,0 +1,45 @@
+{
+  "id": "pinter-2019-ej",
+  "title": "House Prices and Job Losses",
+  "authors": [
+    "pinter-gabor"
+  ],
+  "publication_type": "article",
+  "journal": "Economic Journal",
+  "year": 2019,
+  "volume": "129",
+  "issue": "618",
+  "pages": "991-1013",
+  "doi": "10.1111/ecoj.12613",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1111/ecoj.12613",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Why do house-price busts coincide with job losses? Pintér builds an aggregate SVAR and a regional proxy SVAR for the UK and then writes down a general-equilibrium model with collateral constraints, endogenous job separation, and housing shocks, estimated by Bayesian methods. House-price shocks explain about 10-20 % of output fluctuations and 20-30 % of corporate-credit, unemployment, and job-separation variation — running through the collateral channel rather than just through household demand. A clean demonstration that housing matters for labour markets in part because firms borrow against it.",
+  "summary_hu": "Miért esik egybe a háriár-zuhanás a munkahely-veszteséggel? Pintér egy aggregált SVAR-t és egy regionális proxy-SVAR-t épít az Egyesült Királyságra, majd egy általános egyensúlyi modellt ír fel kollaterál-korlátokkal, endogén állásmegszűnéssel és lakhatási sokkokkal, Bayes-i módszerrel becsülve. A háriár-sokkok az output ingadozásainak körülbelül 10–20 %-át és a vállalati hitel, munkanélküliség és állásmegszűnés ingadozásának 20–30 %-át magyarázzák — a kollaterál-csatornán keresztül, nem pusztán a háztartási kereslet csatornáján. Tiszta demonstráció arra, hogy a lakhatás részben azért számít a munkapiacok számára, mert a cégek kölcsönöket vesznek fel rá.",
+  "data_used": "UK aggregate and regional quarterly data on house prices, unemployment, job-separation rates, corporate credit, and macro controls from ONS and Bank of England 1987-2014. SVAR estimation (aggregate and regional proxy) plus Bayesian estimation of a DSGE model with collateral constraints and endogenous job separation. Replication structure standard for monetary-macro work.",
+  "data_used_hu": "Brit aggregált és regionális negyedéves adatok a házárakról, munkanélküliségről, állásmegszűnési rátákról, vállalati hitelről és makró kontrollokról az ONS-től és a Bank of Englandtől 1987–2014 között. SVAR becslés (aggregált és regionális proxy), plusz Bayes-i becslése egy DSGE-modellnek kollaterál-korlátokkal és endogén állásmegszűnéssel. A replikációs struktúra a monetáris-makró munka standard formája.",
+  "policy_relevance": "Foundational reference for the MNB's macro-modelling unit when calibrating the collateral channel in Hungarian DSGE work. The paper's quantitative claim — housing-collateral shocks explain 20-30 % of unemployment variation — is the kind of headline the MNB Macroprudential Council can use when arguing for tighter LTV/DTI regulation. Also relevant to the Pénzügyminisztérium's cyclical-buffer calibration.",
+  "policy_relevance_hu": "Alapvető hivatkozás az MNB makró-modellezési egysége számára a kollaterál-csatorna kalibrálásához a magyar DSGE-munkákban. A tanulmány kvantitatív állítása — a lakhatási kollaterál sokkok a munkanélküliségi variáció 20–30 %-át magyarázzák — az a fajta címsor, amit az MNB Pénzügyi Stabilitási Tanácsa felhasználhat szigorúbb LTV/DTI szabályozás melletti érveléshez. Releváns a Pénzügyminisztérium ciklikus puffer-kalibrálásához is.",
+  "topics": [
+    "macroeconomics",
+    "banking-finance",
+    "labor-markets"
+  ],
+  "methods": [
+    "structural",
+    "time-series"
+  ],
+  "countries_studied": [
+    "GB"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
+  "featured": true,
+  "added_at": "2026-05-11",
+  "last_reviewed_at": "2026-05-11",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2133246183"
+}

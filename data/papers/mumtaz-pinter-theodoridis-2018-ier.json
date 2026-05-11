@@ -1,0 +1,47 @@
+{
+  "id": "mumtaz-pinter-theodoridis-2018-ier",
+  "title": "What do VARs tell us about the impact of a credit supply shock?",
+  "authors": [
+    "Haroon Mumtaz",
+    "pinter-gabor",
+    "Konstantinos Theodoridis"
+  ],
+  "publication_type": "article",
+  "journal": "International Economic Review",
+  "year": 2018,
+  "volume": "59",
+  "issue": "2",
+  "pages": "625-646",
+  "doi": "10.1111/iere.12282",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1111/iere.12282",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Different SVAR identification schemes for credit-supply shocks tend to give different answers. Mumtaz, Pintér and Theodoridis run a horse race across four widely-used schemes — Cholesky, sign restrictions, narrative IV, and a DSGE-implied scheme — on UK data, and ask which best matches the DSGE-implied true shock under simulated data. Their finding: sign-restriction schemes and narrative IV recover the credit-supply shock reasonably well; Cholesky does poorly. A practical reference for empirical-macro researchers picking an identification scheme and for central-bank modellers building credit-shock measures.",
+  "summary_hu": "A hitel-kínálati sokkokra vonatkozó különböző SVAR-azonosítási sémák gyakran eltérő válaszokat adnak. Mumtaz, Pintér és Theodoridis lóversenyt rendez négy gyakran használt séma — Cholesky, előjelkorlát, narratív IV és DSGE-implikált séma — között az Egyesült Királyság adatain, és vizsgálja, melyik egyezik legjobban a DSGE-implikált valódi sokkal szimulált adatokon. Eredményük: az előjelkorlát-sémák és a narratív IV ésszerűen visszanyerik a hitel-kínálati sokkot; a Cholesky rosszul teljesít. Gyakorlati referencia az empirikus-makrós kutatóknak a séma kiválasztásához és a jegybanki modellezőknek a hitel-sokk mérőszámok építéséhez.",
+  "data_used": "UK quarterly macro data 1979-2014 from ONS, Bank of England, and Datastream — GDP, prices, credit aggregates, interest rates, household and corporate borrowing — combined with Monte Carlo simulations from a calibrated DSGE benchmark. SVAR estimation under four identification schemes; narrative-IV proxy from Romer-Romer-style policy text classification.",
+  "data_used_hu": "Brit negyedéves makró adatok 1979–2014 között az ONS, a Bank of England és a Datastream forrásaiból — GDP, árak, hitelaggregátumok, kamatlábak, háztartási és vállalati hitelfelvétel — kalibrált DSGE referencia Monte Carlo szimulációival kombinálva. SVAR-becslés négy azonosítási séma alatt; narratív-IV proxy Romer-Romer-stílusú szakpolitikai-szöveg-osztályozásból.",
+  "policy_relevance": "Direct methodological input for the MNB Research Department and KRTK macroeconometrics group when building Hungarian credit-shock measures. The paper's takeaway — sign restrictions and narrative IV outperform Cholesky for credit shocks — is the standard the next MNB Quarterly Projection Model credit module should be evaluated against. Also relevant to the Pénzügyi Stabilitási Tanács's credit-cycle dashboards.",
+  "policy_relevance_hu": "Közvetlen módszertani input az MNB Kutatási Osztálya és a KRTK makroökonometriai csoportja számára a magyar hitel-sokk mérőszámok építéséhez. A tanulmány tanulsága — az előjelkorlátok és a narratív IV felülmúlja a Cholesky-t a hitel-sokkok esetén — az a standard, amelyhez a következő MNB Negyedéves Előrejelző Modell hitel-modulját mérni kell. Releváns a Pénzügyi Stabilitási Tanács hitel-ciklus műszerfalaihoz is.",
+  "topics": [
+    "macroeconomics",
+    "banking-finance",
+    "methods"
+  ],
+  "methods": [
+    "structural",
+    "time-series"
+  ],
+  "countries_studied": [
+    "GB"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
+  "featured": false,
+  "added_at": "2026-05-11",
+  "last_reviewed_at": "2026-05-11",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2240034461"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "koren-peto-2020-plosone",
+  "title": "Business disruptions from social distancing",
+  "authors": [
+    "koren-miklos",
+    "peto-rita"
+  ],
+  "publication_type": "article",
+  "journal": "PLOS ONE",
+  "year": 2020,
+  "volume": "15",
+  "issue": "9",
+  "pages": "e0239113",
+  "doi": "10.1371/journal.pone.0239113",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1371/journal.pone.0239113",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "How exposed is each industry to social-distancing requirements? Koren and Pető map the US occupational structure into theory-based measures of how much each job relies on face-to-face communication, on close physical proximity to coworkers, and on close proximity to customers. They aggregate to industry level and find that 43 million US workers pre-pandemic worked in occupations that depend heavily on at least one of these contact dimensions. The exposure measure was widely used in 2020-2021 crisis policy analysis to target sector-specific employment support. A clean, transparent, replicable input for any pandemic-preparedness exercise.",
+  "summary_hu": "Mennyire van kitéve egy-egy iparág a társadalmi távolságtartási követelményeknek? Koren és Pető az amerikai foglalkozási struktúrát elméletalapú mérőszámokká alakítja arra, hogy egy-egy munkahely mennyire támaszkodik a személyes kommunikációra, a kollégákkal való szoros fizikai közelségre és az ügyfelekkel való szoros közelségre. Iparágszintre aggregálva azt találják, hogy 43 millió amerikai munkavállaló a járvány előtt olyan foglalkozásokban dolgozott, amelyek erősen függnek legalább az egyik érintkezési dimenziótól. A kitettségi mérőszámot 2020–2021 válságpolitikai elemzésben széles körben használták az ágazat-specifikus foglalkoztatási támogatás célzására. Tiszta, átlátható, replikálható input bármely járvány-felkészültségi gyakorlathoz.",
+  "data_used": "US O*NET occupational characteristics database 2019 — work-context items on physical proximity, face-to-face contact, customer interaction — mapped to BLS Occupational Employment Statistics (May 2019) to count workers by exposure dimension. Industry aggregation via the BLS Industry-Occupation Matrix. All inputs and code released publicly for replication and adaptation to other countries.",
+  "data_used_hu": "Amerikai O*NET foglalkozási jellemzők adatbázis 2019 — munkakörülmény-elemek a fizikai közelségről, személyes érintkezésről, ügyfél-interakcióról — a BLS Foglalkozási Foglalkoztatási Statisztikájához (2019. május) illesztve, hogy a munkavállalókat kitettségi dimenzió szerint számolják. Iparági aggregálás a BLS Iparág-Foglalkozás Mátrix segítségével. Az összes input és kód nyilvánosan elérhető a replikációhoz és más országokra való adaptáláshoz.",
+  "policy_relevance": "Direct input for KSH and NGM/KKM when targeting sector-specific employment support during pandemic waves. The paper's exposure measures were used in real-time European policy analysis during the COVID-19 first wave; the Hungarian replication using KSH foglalkozás-statisztika is a low-cost extension. Relevant for the Belügyminisztérium / NNK pandemic-preparedness planning and for KRTK labour-market crisis research.",
+  "policy_relevance_hu": "Közvetlen input a KSH és az NGM/KKM számára az ágazat-specifikus foglalkoztatási támogatás célzásához a járványhullámok alatt. A tanulmány kitettségi mérőszámait valós idejű európai szakpolitikai elemzésben használták a COVID-19 első hullámában; a magyar replikáció a KSH foglalkozás-statisztikájával alacsony költségű kiterjesztés. Releváns a Belügyminisztérium / NNK járvány-felkészültségi tervezéséhez és a KRTK munkapiaci válság-kutatáshoz.",
+  "topics": [
+    "labor-markets",
+    "industrial-organization",
+    "methods"
+  ],
+  "methods": [
+    "descriptive-survey"
+  ],
+  "countries_studied": [],
+  "data_types": [
+    "admin-individual"
+  ],
+  "featured": false,
+  "added_at": "2026-05-11",
+  "last_reviewed_at": "2026-05-11",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3014364737"
+}

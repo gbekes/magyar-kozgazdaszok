@@ -1447,7 +1447,7 @@
       "countries": [
         "NL"
       ],
-      "paper_count": 2,
+      "paper_count": 3,
       "policy_count": 0,
       "press_count": 0
     },
@@ -1499,7 +1499,7 @@
       "countries": [
         "HU"
       ],
-      "paper_count": 2,
+      "paper_count": 5,
       "policy_count": 0,
       "press_count": 0
     },
@@ -1545,7 +1545,7 @@
       "countries": [
         "HU"
       ],
-      "paper_count": 6,
+      "paper_count": 9,
       "policy_count": 4,
       "press_count": 2
     },
@@ -2558,7 +2558,7 @@
         "AT",
         "HU"
       ],
-      "paper_count": 14,
+      "paper_count": 15,
       "policy_count": 2,
       "press_count": 11
     },
@@ -3384,7 +3384,7 @@
       "countries": [
         "HU"
       ],
-      "paper_count": 3,
+      "paper_count": 4,
       "policy_count": 0,
       "press_count": 2
     },
@@ -3428,7 +3428,7 @@
       "countries": [
         "CH"
       ],
-      "paper_count": 2,
+      "paper_count": 8,
       "policy_count": 0,
       "press_count": 0
     },
@@ -4106,7 +4106,7 @@
         "CH",
         "HU"
       ],
-      "paper_count": 3,
+      "paper_count": 7,
       "policy_count": 0,
       "press_count": 0
     },
@@ -7993,6 +7993,54 @@
       ]
     },
     {
+      "id": "anderson-bahaj-et-al-2023-rof",
+      "title": "Lending relationships and the collateral channel",
+      "authors": [
+        "Gareth Anderson",
+        "Saleem Bahaj",
+        "Matthieu Chavaz",
+        "Angus Foulis",
+        "pinter-gabor"
+      ],
+      "publication_type": "article",
+      "journal": "Review of Finance",
+      "year": 2023,
+      "volume": "27",
+      "issue": "3",
+      "pages": "851-887",
+      "doi": "10.1093/rof/rfac041",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1093/rof/rfac041",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "Lending relationships are usually thought to *insulate* corporate investment from collateral-value shocks. Anderson, Bahaj, Chavaz, Foulis and Pintér use UK firm-bank matched data to ask whether they really do. The answer is yes — and especially so for relationships that involve director-bank social ties, where the bank has independent information about the firm. Effects are largest at small and young firms. Lending-relationship strength is a quantitatively important moderator of the housing-collateral channel — what looks like a uniform collateral effect masks meaningful heterogeneity by bank-firm proximity.",
+      "summary_hu": "A hitelkapcsolatokról általában azt gondolják, hogy *szigetelik* a vállalati beruházást a kollaterál-érték sokkjaitól. Anderson, Bahaj, Chavaz, Foulis és Pintér brit cég-bank illesztett adatokat használ annak megválaszolására, hogy valóban így van-e. A válasz igen — és különösen így van azokra a kapcsolatokra, amelyek igazgató-bank társas kötelékeket tartalmaznak, ahol a banknak független információja van a cégről. A hatás a legnagyobb a kis és fiatal cégeknél. A hitelkapcsolat-erősség kvantitatívan fontos moderátor a lakhatási-kollaterál csatornának — ami egyenletes kollaterál-hatásnak tűnik, valójában a bank-cég közelség szerinti érdemi heterogenitást rejt.",
+      "data_used": "UK firm-bank matched data 1997-2017 from Companies House, FCA banking records, and HMRC employer data, with director-bank-board overlap identified through director registry cross-references. About 250 000 firm-bank year observations. Identification: differential exposure to local house-price shocks across bank-firm relationships with vs. without director-bank board overlap.",
+      "data_used_hu": "Brit cég-bank illesztett adatok 1997–2017 között a Companies House-ból, FCA banki rekordokból és HMRC munkáltatói adatokból, az igazgató-bank-igazgatótanács átfedéssel az igazgatói nyilvántartás kereszthivatkozásaiból azonosítva. Körülbelül 250 000 cég-bank év megfigyelés. Identifikáció: a helyi háriár-sokkokra való differenciált kitettség a bank-cég kapcsolatokban igazgató-bank igazgatótanácsi átfedéssel és anélkül.",
+      "policy_relevance": "Useful for MNB and PSZÁF / Pénzügyi Stabilitási Tanács supervisors when designing collateral-haircut and LTV rules differentiated by firm-bank relationship strength. The paper makes the case that uniform haircut rules underweight the welfare cost in long-standing relationship banking — a consideration relevant to Hungary's Növekedési Hitelprogram and to the SME-finance design more broadly.",
+      "policy_relevance_hu": "Hasznos az MNB és a Pénzügyi Stabilitási Tanács felügyelőinek a kollaterál-haircut és LTV szabályok cég-bank kapcsolat-erősség szerinti differenciálásához. A tanulmány azt érvelve, hogy az egyenletes haircut-szabályok alulsúlyozzák a jóléti költséget a hosszú távú kapcsolati bankolásban — releváns megfontolás a magyar Növekedési Hitelprogramhoz és tágabban a KKV-finanszírozás tervezéséhez.",
+      "topics": [
+        "banking-finance",
+        "firms-productivity"
+      ],
+      "methods": [
+        "panel-data",
+        "diff-in-diff"
+      ],
+      "countries_studied": [
+        "GB"
+      ],
+      "data_types": [
+        "admin-firm"
+      ],
+      "featured": false,
+      "added_at": "2026-05-11",
+      "last_reviewed_at": "2026-05-11",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2803256614"
+    },
+    {
       "id": "ang-bencsik-et-al-2025-aeri",
       "title": "Community Engagement with Law Enforcement after High-Profile Acts of Police Violence",
       "authors": [
@@ -8373,6 +8421,50 @@
       "openalex_id": null
     },
     {
+      "id": "avdjiev-takats-2018-rof",
+      "title": "Monetary policy spillovers and currency networks in cross-border bank lending: Lessons from the 2013 Fed taper tantrum",
+      "authors": [
+        "Stefan Avdjiev",
+        "takats-elod"
+      ],
+      "publication_type": "article",
+      "journal": "Review of Finance",
+      "year": 2018,
+      "volume": "23",
+      "issue": "5",
+      "pages": "993-1029",
+      "doi": "10.1093/rof/rfy030",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1093/rof/rfy030",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "When the Federal Reserve signalled tapering of QE in 2013, capital flows to emerging markets reversed sharply — but the pattern was uneven. Avdjiev and Takáts use BIS cross-border banking statistics to show that the spillover ran through *currency networks*, not just geography: countries whose cross-border bank lending was disproportionately in dollars saw the sharpest reversals, even when their fundamentals were sound. The exposure to USD-denominated borrowing was a quantitatively important predictor of crisis-period flow reversals, holding everything else equal. A clean argument for currency-composition surveillance, not just country-level surveillance.",
+      "summary_hu": "Amikor a Federal Reserve 2013-ban jelezte a QE szigorítását, a tőkeáramlás a feltörekvő piacok felé élesen megfordult — de a minta egyenetlen volt. Avdjiev és Takáts a BIS határokon átnyúló banki statisztikáit használja annak bemutatására, hogy az átterjedés *valutahálózatokon* keresztül futott, nem pusztán földrajzon: azok az országok, amelyek határokon átnyúló banki hitelezése aránytalanul dollárban volt, a legélesebb fordulatokat tapasztalták, még akkor is, amikor fundamentumaik szilárdak voltak. A USD-denominált hitelfelvételnek való kitettség kvantitatívan fontos előrejelzője volt a válság-időszaki áramlás-fordulatoknak, minden mást egyenlőnek véve. Tiszta érv a valuta-összetétel megfigyelése mellett, nem csak az ország szintű megfigyelés mellett.",
+      "data_used": "BIS Locational Banking Statistics 2010-2015 quarterly, decomposed by source country, destination country, and reporting currency. Identification: cross-country variation in pre-tantrum dollar exposure interacted with the May-September 2013 Fed taper signal. Robustness on alternative pre-tantrum windows and on currency-network centrality measures.",
+      "data_used_hu": "BIS lokációs banki statisztikák 2010–2015 negyedéves bontásban, forrásország, célország és jelentési valuta szerint felbontva. Identifikáció: a tantrum előtti dollárkitettség keresztországos variációja a 2013. május–szeptemberi Fed taper-jelzéssel interakcióban. Robusztusság alternatív tantrum előtti ablakokra és valutahálózat-centralitási mértékekre.",
+      "policy_relevance": "Direct relevance for the MNB and the ÁKK when assessing Hungarian exposure to global monetary-policy spillovers. The paper's currency-network framing gives a concrete metric the MNB Financial Stability Department can use to monitor Hungary's downstream exposure to USD- and EUR-denominated funding chains — beyond direct bilateral lending exposure to source-country banks. Useful input for the next iteration of MNB's Financial Stability Report and for ÁKK's foreign-currency debt issuance strategy.",
+      "policy_relevance_hu": "Közvetlen relevancia az MNB és az ÁKK számára Magyarország globális monetáris-politikai átterjedéseknek való kitettségének értékelésében. A tanulmány valutahálózat-keretezése konkrét mérőszámot ad az MNB Pénzügyi Stabilitási Igazgatóságának arra, hogy nyomon kövesse Magyarország továbbgyűrűző kitettségét USD- és EUR-denominált finanszírozási láncoknak — túlmutatva a forrásország bankjai felé fennálló közvetlen kétoldalú hitelezési kitettségen. Hasznos input az MNB Pénzügyi Stabilitási Jelentésének következő iterációjához és az ÁKK devizaadósság-kibocsátási stratégiájához.",
+      "topics": [
+        "banking-finance",
+        "macroeconomics",
+        "trade-fdi"
+      ],
+      "methods": [
+        "panel-data",
+        "diff-in-diff"
+      ],
+      "countries_studied": [],
+      "data_types": [
+        "macro-aggregate"
+      ],
+      "featured": false,
+      "added_at": "2026-05-11",
+      "last_reviewed_at": "2026-05-11",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2896342468"
+    },
+    {
       "id": "babus-kondor-2018-ecma",
       "title": "Trading and Information Diffusion in Over-the-Counter Markets",
       "authors": [
@@ -8470,6 +8562,55 @@
         "credit guarantee schemes",
         "SME finance"
       ]
+    },
+    {
+      "id": "bahaj-foulis-pinter-surico-2022-jme",
+      "title": "Employment and the residential collateral channel of monetary policy",
+      "authors": [
+        "Saleem Bahaj",
+        "Angus Foulis",
+        "pinter-gabor",
+        "Paolo Surico"
+      ],
+      "publication_type": "article",
+      "journal": "Journal of Monetary Economics",
+      "year": 2022,
+      "volume": "131",
+      "issue": null,
+      "pages": "26-44",
+      "doi": "10.1016/j.jmoneco.2022.07.002",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1016/j.jmoneco.2022.07.002",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "Does monetary policy hit employment partly through firm owners' home equity? Bahaj, Foulis, Pintér and Surico use UK firm- and director-level data linked to residential property records to track how monetary-policy shocks transmit through the directors' residential collateral. A rate cut that raises director house prices loosens the borrowing constraint on their firm, which then hires more workers. The residential-collateral channel accounts for a sizeable share of the employment response to monetary policy in their UK sample. A clean micro-data measurement of an indirect channel macro models had been speculating about.",
+      "summary_hu": "Részben a cégtulajdonosok lakásvagyonán keresztül hat-e a monetáris politika a foglalkoztatásra? Bahaj, Foulis, Pintér és Surico brit cég- és igazgató-szintű adatokat használ, lakóingatlan-nyilvántartásokkal összekapcsolva annak nyomon követésére, hogyan terjed a monetáris-politikai sokk az igazgatók lakhatási kollaterálján keresztül. A kamatcsökkentés, amely növeli az igazgató háziárát, lazítja cégének hitelkorlátját, amely aztán több munkavállalót vesz fel. A lakhatási-kollaterál csatorna jelentős részt magyaráz a foglalkoztatás monetáris-politikai válaszában a brit mintájukban. Tiszta mikroadat-mérése egy közvetett csatornának, amiről a makró modellek korábban csak spekuláltak.",
+      "data_used": "UK firm-level Companies House and HMRC employer records 1997-2014 linked to Land Registry residential property transactions for company directors. Approximately 1 million firm-year observations with director home-address matching. Identification: high-frequency monetary-policy surprises around Bank of England announcements, with director-level home-equity exposure as the cross-section interactor.",
+      "data_used_hu": "Brit cégszintű Companies House és HMRC munkáltatói rekordok 1997–2014 között, a Land Registry céges igazgatókra vonatkozó lakóingatlan-tranzakcióival összekapcsolva. Körülbelül 1 millió cég-év megfigyelés igazgatói lakcím-illesztéssel. Identifikáció: magas frekvenciájú monetáris-politikai meglepetések a Bank of England bejelentései körül, igazgatói szintű lakásvagyon-kitettséggel mint kereszt-szekciós interakcióval.",
+      "policy_relevance": "Direct relevance for the MNB Monetary Council when assessing the full transmission of policy rate changes — Hungarian SMEs are also disproportionately owner-managed, so the residential-collateral channel likely operates here too. Useful framing for the Pénzügyi Stabilitási Tanács when calibrating the joint LTV-DTI-DSTI rule structure; the paper's evidence is the cleanest available on how residential-collateral loosening feeds into firm-side employment.",
+      "policy_relevance_hu": "Közvetlen relevancia az MNB Monetáris Tanácsa számára a politikai kamatváltozások teljes transzmissziójának értékeléséhez — a magyar KKV-k szintén aránytalanul tulajdonos-menedzseltek, így a lakhatási-kollaterál csatorna itt is valószínűleg működik. Hasznos keret a Pénzügyi Stabilitási Tanács számára az LTV–DTI–DSTI együttes szabálystruktúra kalibrálásához; a tanulmány bizonyítéka a legtisztább, ami elérhető arról, hogyan terjed a lakhatási-kollaterál enyhülése a cégoldali foglalkoztatás felé.",
+      "topics": [
+        "macroeconomics",
+        "banking-finance",
+        "labor-markets"
+      ],
+      "methods": [
+        "panel-data",
+        "iv"
+      ],
+      "countries_studied": [
+        "GB"
+      ],
+      "data_types": [
+        "admin-firm",
+        "admin-individual"
+      ],
+      "featured": false,
+      "added_at": "2026-05-11",
+      "last_reviewed_at": "2026-05-11",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4284958250"
     },
     {
       "id": "baji-biro-2018-he",
@@ -23783,6 +23924,49 @@
       ]
     },
     {
+      "id": "gal-pinter-2017-jmcb",
+      "title": "Capital over the business cycle: Renting versus ownership",
+      "authors": [
+        "Péter Gál",
+        "pinter-gabor"
+      ],
+      "publication_type": "article",
+      "journal": "Journal of Money, Credit and Banking",
+      "year": 2017,
+      "volume": "49",
+      "issue": "6",
+      "pages": "1299-1338",
+      "doi": "10.1111/jmcb.12419",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1111/jmcb.12419",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "Why is rented capital so much more cyclical than owned capital? Gál and Pintér document a sharp empirical fact: rented capital expenditure in the US falls roughly twice as much as owned capital during recessions. They build a DSGE model with frictions on capital rental contracts (limited commitment, search) and show that introducing these frictions matches the data quantitatively. Implication for monetary policy: focusing on aggregate investment misses an important compositional shift between rented and owned capital during downturns. The piece travels to any economy with a sizable rental sector for equipment and structures.",
+      "summary_hu": "Miért sokkal ciklikusabb a bérelt tőke, mint a saját tulajdonú? Gál és Pintér éles empirikus tényt dokumentál: a bérelt tőke-kiadás az USA-ban recesszióban körülbelül kétszer akkorát esik, mint a saját tulajdonú. DSGE-modellt építenek a tőke-bérleti szerződések súrlódásaival (korlátozott elköteleződés, keresés), és megmutatják, hogy ezek a súrlódások kvantitatívan illeszkednek az adatokhoz. Monetáris-politikai implikáció: az aggregát beruházásra koncentrálva elsiklunk egy fontos összetétel-eltolódás felett a bérelt és saját tulajdonú tőke között a visszaesésekben. A munka átvihető bármilyen gazdaságra, ahol jelentős a berendezések és építmények bérleti szektora.",
+      "data_used": "US Flow of Funds and BEA capital-account data 1985-2014, decomposed into rented vs. owned capital expenditure by industry. DSGE model with capital-rental frictions (limited commitment, search-and-match between renter firms and capital owners), estimated by Bayesian methods on aggregate moments.",
+      "data_used_hu": "Amerikai Flow of Funds és BEA tőke-számla adatok 1985–2014 között, bérelt vs. saját tulajdonú tőke-kiadásra bontva iparág szerint. DSGE-modell tőke-bérleti súrlódásokkal (korlátozott elköteleződés, keresés-és-illesztés bérlő cégek és tőketulajdonosok között), Bayes-i módszerrel becsülve aggregát momentumokra.",
+      "policy_relevance": "Background reference for the MNB Macro-Financial Modelling group when adding an investment-composition dimension to the next iteration of the Quarterly Projection Model. The paper's methodological point — that rented vs. owned capital matters for the cyclical investment response — is directly applicable to Hungarian-firm capital data from NAV and KSH, where lease-versus-buy decisions are observable.",
+      "policy_relevance_hu": "Háttér-hivatkozás az MNB Makró-Pénzügyi Modellező csoportjának, amikor egy beruházás-összetétel dimenziót adnak hozzá a Negyedéves Előrejelző Modell következő iterációjához. A tanulmány módszertani állítása — hogy a bérelt vs. saját tulajdonú tőke számít a ciklikus beruházási válaszhoz — közvetlenül alkalmazható a NAV és a KSH magyar céges tőkeadataira, ahol a lízing-versus-vásárlás döntések megfigyelhetők.",
+      "topics": [
+        "macroeconomics",
+        "firms-productivity",
+        "banking-finance"
+      ],
+      "methods": [
+        "structural"
+      ],
+      "countries_studied": [],
+      "data_types": [
+        "macro-aggregate"
+      ],
+      "featured": false,
+      "added_at": "2026-05-11",
+      "last_reviewed_at": "2026-05-11",
+      "review_status": "ai-drafted",
+      "openalex_id": "W3121597976"
+    },
+    {
       "id": "galasso-mitchell-et-al-2016-ijio",
       "title": "Market outcomes and dynamic patent buyouts",
       "authors": [
@@ -24564,7 +24748,7 @@
         "Tirupam Goel",
         "telegdy-almos",
         "Ádám Banai",
-        "Előd Takáts"
+        "takats-elod"
       ],
       "publication_type": "article",
       "journal": "Journal of Corporate Finance",
@@ -25189,6 +25373,54 @@
       ]
     },
     {
+      "id": "gyongyosi-rariga-verner-2025-nberwp",
+      "title": "The foreign currency Fisher channel: Evidence from households",
+      "authors": [
+        "gyongyosi-gyozo",
+        "Judit Rariga",
+        "Emil Verner"
+      ],
+      "publication_type": "working_paper",
+      "journal": null,
+      "year": 2025,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": "10.3386/w34234",
+      "working_paper_series": "NBER Working Paper No. 34234",
+      "url_published": "https://www.nber.org/papers/w34234",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "Hungarian households borrowed extensively in Swiss francs and euros before the 2008 crisis. When the forint depreciated, their debt-service costs surged. Gyöngyösi, Rariga and Verner use Hungarian micro-data on these foreign-currency mortgages to estimate how households absorbed the shock. The pass-through to consumption was close to one-for-one with the increase in debt service — households cut spending proportionally to the increased monthly payment, with a flight from quality (downshifting brand choices, postponing durable purchases). Labour-supply margins were modest. The paper isolates the household-side Fisher channel — exchange-rate-driven real-debt revaluation — and quantifies it cleanly.",
+      "summary_hu": "A magyar háztartások 2008 előtt jelentős mértékben vettek fel hiteleket svájci frankban és euróban. Amikor a forint leértékelődött, az adósságszolgálatuk megugrott. Gyöngyösi, Rariga és Verner magyar mikroadatokat használ e devizahitelekről annak megbecslésére, hogyan vették fel a háztartások a sokkot. A fogyasztásra való átgyűrűzés közel egy-az-egyhez volt az adósságszolgálat növekedésével — a háztartások a havi törlesztő-emelkedéssel arányosan csökkentették kiadásaikat, minőségből való meneküléssel (alacsonyabb márkájú választások, tartós cikk-vásárlások halasztása). A munkaerő-kínálati margók szerények voltak. A tanulmány izolálja a háztartás-oldali Fisher-csatornát — az árfolyam-vezérelt reáladósság-átértékelést — és tisztán számszerűsíti.",
+      "data_used": "Hungarian administrative household-level micro-data 2006-2015 from KSH and the MNB Household Lending Database: monthly mortgage-payment records by currency, household consumption from the Household Budget and Living Conditions Survey, employment and earnings from KSH. Identification: cross-household variation in pre-2008 foreign-currency loan share, interacted with monthly forint/CHF and forint/EUR exchange-rate variation.",
+      "data_used_hu": "Magyar adminisztratív háztartás-szintű mikroadatok 2006–2015 között a KSH-tól és az MNB Háztartási Hitelezési Adatbázisából: havi jelzáloghitel-törlesztési rekordok valuta szerint, háztartási fogyasztás a Háztartási Költségvetési és Életkörülmény-felmérésből, foglalkoztatás és kereset a KSH-tól. Identifikáció: a 2008 előtti devizahitel-részarány keresztháztartási variációja, havi forint/CHF és forint/EUR árfolyam-variációval interakcióban.",
+      "policy_relevance": "Foundational evidence for the MNB Financial Stability Department and the Pénzügyminisztérium when calibrating future macroprudential rules on foreign-currency household lending. The paper's quantitative finding — near-one-for-one pass-through of FX-driven debt revaluation to consumption — is the strongest single argument for keeping the 2014-era currency-conversion rule and for tightening foreign-currency lending caps. Direct input for MNB's 2025+ Financial Stability Report risk scenarios.",
+      "policy_relevance_hu": "Alapvető bizonyíték az MNB Pénzügyi Stabilitási Igazgatósága és a Pénzügyminisztérium számára a háztartási devizahitelezésre vonatkozó jövőbeli makroprudenciális szabályok kalibrálásához. A tanulmány kvantitatív megállapítása — a devizaárfolyam-vezérelt adósságátértékelés közel egy-az-egyhez való átgyűrűzése a fogyasztásra — a legerősebb egyedi érv a 2014-es devizakonverziós szabály fenntartása és a devizahitelezési korlátok szigorítása mellett. Közvetlen input az MNB 2025+ Pénzügyi Stabilitási Jelentésének kockázati forgatókönyveihez.",
+      "topics": [
+        "banking-finance",
+        "macroeconomics",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "panel-data",
+        "diff-in-diff"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual",
+        "survey"
+      ],
+      "featured": true,
+      "added_at": "2026-05-11",
+      "last_reviewed_at": "2026-05-11",
+      "review_status": "ai-drafted",
+      "openalex_id": null
+    },
+    {
       "url_pdf": null,
       "url_replication": null,
       "abstract": "We study the impact of debtor distress on support for a populist far-right political party during a financial crisis. Our empirical approach exploits variation in exposure to foreign currency household loans during a currency crisis in Hungary. Foreign currency debt exposure leads to a large, persistent increase in support for the populist far right. We document that the far right advocated for foreign currency debtors' interests by proposing aggressive debt relief and was rewarded with support from these voters. Our findings are consistent with theories emphasizing that conflict between creditors and debtors can shape political outcomes after financial crises.",
@@ -25234,6 +25466,144 @@
       "journal": "Journal of Finance",
       "year": 2022,
       "publication_type": "article"
+    },
+    {
+      "id": "hajdu-hajdu-2021-plosone",
+      "title": "The long-term impact of restricted access to abortion on children's socioeconomic outcomes",
+      "authors": [
+        "hajdu-gabor",
+        "hajdu-tamas"
+      ],
+      "publication_type": "article",
+      "journal": "PLOS ONE",
+      "year": 2021,
+      "volume": "16",
+      "issue": "3",
+      "pages": "e0248638",
+      "doi": "10.1371/journal.pone.0248638",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1371/journal.pone.0248638",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "What happens to children born to mothers who would otherwise have terminated the pregnancy? Hajdu and Hajdu use Hungary's 1974 tightening of abortion rules — which sharply restricted access — to compare cohorts conceived just before and just after the reform. Children born under the tighter regime score worse on schooling outcomes and later labour-market measures decades on. The penalty is concentrated in disadvantaged subgroups (low maternal education, single mothers). A clean long-run identification on an episode-specific Hungarian policy that closely mirrors current US abortion-access debates.",
+      "summary_hu": "Mi történik azokkal a gyermekekkel, akiknek anyja egyébként megszakítaná a terhességet? Hajdu és Hajdu Magyarország 1974-es abortuszszabály-szigorítását használja — amely élesen korlátozta a hozzáférést — a reform előtt és után fogant kohorszok összehasonlítására. A szigorúbb rendszerben született gyermekek évtizedekkel később rosszabbul teljesítenek iskolázottsági és munkapiaci mutatókban. A hátrány a hátrányos helyzetű alcsoportokra (alacsony anyai iskolázottság, egyedülálló anyák) koncentrálódik. Tiszta hosszú távú identifikáció egy epizód-specifikus magyar szakpolitikán, amely közelről hasonlít a jelenlegi amerikai abortusz-hozzáférési vitákra.",
+      "data_used": "Hungarian census 2011 micro-data linked to birth cohorts around the 1974 abortion-restriction reform, plus KSH's annual labour-force survey extracts for affected cohorts. Difference-in-differences comparing pre-reform and post-reform conception cohorts within mother characteristics (education, marital status). Sample of several hundred thousand individuals from the cohort window.",
+      "data_used_hu": "Magyar 2011-es népszámlálási mikroadatok az 1974-es abortuszkorlátozási reform körüli születési kohorszokhoz kapcsolva, plusz a KSH éves munkaerő-felmérés kivonatai az érintett kohorszokra. Difference-in-differences a reform előtti és utáni fogantatási kohorszok összehasonlítása az anyai jellemzők (iskolázottság, családi állapot) szerint. Néhány százezres minta a kohorsz-ablakból.",
+      "policy_relevance": "Background reference for the Belügyminisztérium's Family Strategy and the EMMI population-policy unit when evaluating reproductive-health policy trade-offs. The Hungarian 1974 reform is one of very few clean natural experiments on this question; the paper's evidence on long-run socioeconomic costs to children of restricted-access conception is a useful counterweight to short-run policy narratives. Also of interest to KSH demographic-history teams.",
+      "policy_relevance_hu": "Háttér-hivatkozás a Belügyminisztérium Családstratégiájához és az EMMI népességpolitikai egységéhez a reprodukciós-egészségügyi szakpolitikai átváltások értékeléséhez. Az 1974-es magyar reform egyike azon kevés tiszta természetes kísérletnek erre a kérdésre; a tanulmány bizonyítéka a korlátozott hozzáférés mellett fogant gyermekek hosszú távú társadalmi-gazdasági költségeiről hasznos ellensúlya a rövid távú szakpolitikai narratíváknak. Érdekes a KSH demográfiatörténeti csapatainak is.",
+      "topics": [
+        "demographics-migration",
+        "health",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "diff-in-diff"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
+      "featured": false,
+      "added_at": "2026-05-11",
+      "last_reviewed_at": "2026-05-11",
+      "review_status": "ai-drafted",
+      "openalex_id": "W3136914492"
+    },
+    {
+      "id": "hajdu-hajdu-2021-scirep",
+      "title": "Post-conception heat exposure increases clinically unobserved pregnancy losses",
+      "authors": [
+        "hajdu-tamas",
+        "hajdu-gabor"
+      ],
+      "publication_type": "article",
+      "journal": "Scientific Reports",
+      "year": 2021,
+      "volume": "11",
+      "issue": "1",
+      "pages": "1987",
+      "doi": "10.1038/s41598-021-81496-x",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1038/s41598-021-81496-x",
+      "url_pdf": "https://www.nature.com/articles/s41598-021-81496-x.pdf",
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "Climate-fertility studies tend to count births and miss early pregnancy losses that women themselves may not notice. Hajdu and Hajdu use Hungarian birth and conception records 1981-2014 plus daily temperature data to estimate the effect of post-conception heat exposure on the share of conceptions that reach observed pregnancy. Hot days in the first weeks after conception sharply increase clinically unobserved pregnancy losses — the conception count falls disproportionately, not just the birth count. The implied climate-warming cost to fertility is larger than studies based on births alone capture, with most of the loss happening before women realise they were pregnant.",
+      "summary_hu": "A klíma-termékenység vizsgálatok hajlamosak születéseket számolni, és elsiklanak a korai terhességvesztések felett, amelyeket maga az anya esetleg észre sem vesz. Hajdu és Hajdu az 1981–2014 közötti magyar születési és fogantatási adatokat napi hőmérsékleti adatokkal kombinálva becsüli meg, hogyan hat a fogantatás utáni hőterhelés a megfigyelt terhességig eljutó fogantatások arányára. A fogantatás utáni első hetekben tapasztalt forró napok élesen növelik a klinikailag észrevétlen terhességvesztéseket — a fogantatási szám aránytalanul esik, nem csak a születési szám. A klímamelegedés implikált termékenységi költsége így nagyobb, mint amit a csak születésekre épülő tanulmányok megragadnak — a veszteség nagy része még azelőtt történik, hogy az asszonyok megtudnák, hogy terhesek voltak.",
+      "data_used": "Hungarian administrative birth-record data 1981-2014 from KSH, combined with reconstructed conception dates (birth date minus gestational age) and daily local-area temperature from OMSZ. Effect identified within-region from idiosyncratic heat shocks in the 1-4 weeks post-conception, controlling for seasonal patterns and longer-term temperature trends.",
+      "data_used_hu": "Magyar adminisztratív születési-rekord adatok 1981–2014 között a KSH-tól, rekonstruált fogantatási dátumokkal (születési dátum mínusz terhességi kor) és napi helyi szintű hőmérséklettel az OMSZ-tól. A hatás régión belül azonosítva idioszinkratikus hőhullámokból a fogantatás utáni 1–4. hétben, szezonális mintázatokra és hosszabb távú hőmérsékleti trendekre kontrollálva.",
+      "policy_relevance": "Direct input for KSH and the Belügyminisztérium Family Strategy unit's climate-and-fertility scenarios. The paper shifts the expected order of magnitude of climate-warming fertility effects upward, with implications for long-run population projections that feed into MNB's labour-force forecasts and the EMMI public-health resource-planning. Useful framing for EU Cohesion-Fund climate-adaptation pipelines on maternal health.",
+      "policy_relevance_hu": "Közvetlen input a KSH és a Belügyminisztérium Családstratégia egységének klíma-és-termékenység forgatókönyveihez. A tanulmány felfelé módosítja a klímamelegedés termékenységi hatásainak várt nagyságrendjét, ami következményekkel jár a hosszú távú népességvetítésekre, amelyek az MNB munkaerő-előrejelzéseit és az EMMI közegészségügyi erőforrás-tervezést táplálják. Hasznos keret az EU Kohéziós Alap klíma-alkalmazkodási csővezetékek anyai egészségügyi vonalához.",
+      "topics": [
+        "demographics-migration",
+        "energy-environment",
+        "health"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual",
+        "macro-aggregate"
+      ],
+      "featured": false,
+      "added_at": "2026-05-11",
+      "last_reviewed_at": "2026-05-11",
+      "review_status": "ai-drafted",
+      "openalex_id": "W3122200146"
+    },
+    {
+      "id": "hajdu-hajdu-2022-jpope",
+      "title": "Temperature, climate change, and human conception rates: evidence from Hungary",
+      "authors": [
+        "hajdu-tamas",
+        "hajdu-gabor"
+      ],
+      "publication_type": "article",
+      "journal": "Journal of Population Economics",
+      "year": 2022,
+      "volume": "35",
+      "issue": "4",
+      "pages": "1751-1776",
+      "doi": "10.1007/s00148-020-00814-1",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1007/s00148-020-00814-1",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "Does hotter weather suppress conception? Hajdu and Hajdu link monthly Hungarian birth records 1981-2014 to local temperature data and estimate how heat exposure 9-10 months before birth changes conception rates. Hot months (mean above 25°C) reduce conceptions by about 10 % relative to a 15°C baseline. The effect is concentrated in summer-conceived first-trimester pregnancies. Under medium-pace climate-warming scenarios the implied direct effect on Hungarian fertility is small but negative. Tight identification — within-region, within-calendar-month variation — and a clean Hungarian micro-data application of a question previously studied mostly on US data.",
+      "summary_hu": "Visszafogja-e a melegebb idő a fogantatást? Hajdu és Hajdu összekapcsolja az 1981–2014 közötti havi magyar születési adatokat a helyi hőmérsékleti adatokkal, és megbecsüli, hogy a születés előtti 9–10 hónapos hőterhelés hogyan változtatja a fogantatási arányokat. A meleg hónapok (átlag 25 °C felett) a fogantatást körülbelül 10 %-kal csökkentik a 15 °C-os referenciához képest. A hatás a nyári fogantatású első trimeszteres terhességekre koncentrálódik. Mérsékelt ütemű klímamelegedési forgatókönyvek mellett az implikált közvetlen hatás a magyar termékenységre kicsi, de negatív. Szoros identifikáció — régión belüli, naptári hónapon belüli variáció — és tiszta magyar mikroadat-alkalmazása egy korábban főleg amerikai adatokon vizsgált kérdésnek.",
+      "data_used": "Monthly Hungarian administrative birth-record data 1981-2014 from KSH, merged with local-area daily temperature data from the Hungarian Meteorological Service (OMSZ). Identifying variation: within-region, within-calendar-month deviations in temperature from the local long-run mean. Robustness checks on alternative temperature thresholds and on intra-year displacement effects.",
+      "data_used_hu": "Havi magyar adminisztratív születési-rekord adatok 1981–2014 között a KSH-tól, helyi szintű napi hőmérsékleti adatokkal összekapcsolva az Országos Meteorológiai Szolgálattól (OMSZ). Identifikációs variáció: régión belüli, naptári hónapon belüli hőmérséklet-eltérések a helyi hosszú távú átlagtól. Robusztussági tesztek alternatív hőmérsékleti küszöbökre és éven belüli kiszorítási hatásokra.",
+      "policy_relevance": "Direct input for KSH demographic projections and for the EMMI / Belügyminisztérium Family Strategy 2030 planning round. The paper quantifies a climate-warming channel for Hungarian fertility separate from social/economic drivers — small in magnitude but non-zero, with regional variation that maps onto KSH's NUTS-3 climate-vulnerability planning. Relevant also to MNB long-run demographic scenarios.",
+      "policy_relevance_hu": "Közvetlen input a KSH demográfiai vetítéseihez és az EMMI / Belügyminisztérium 2030-as Családstratégia tervezési köréhez. A tanulmány a klímamelegedés egy magyar termékenységi csatornáját számszerűsíti, amely elkülönül a társadalmi/gazdasági tényezőktől — kis mértékű, de nem nulla, regionális variációval, amely illeszkedik a KSH NUTS-3 klímasebezhetőségi tervezéséhez. Releváns az MNB hosszú távú demográfiai forgatókönyveihez is.",
+      "topics": [
+        "demographics-migration",
+        "energy-environment",
+        "health"
+      ],
+      "methods": [
+        "panel-data",
+        "diff-in-diff"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "admin-individual",
+        "macro-aggregate"
+      ],
+      "featured": false,
+      "added_at": "2026-05-11",
+      "last_reviewed_at": "2026-05-11",
+      "review_status": "ai-drafted",
+      "openalex_id": "W3024587671"
     },
     {
       "id": "hajdu-kertesi-et-al-2018-tbejo",
@@ -29304,6 +29674,49 @@
       "openalex_id": "W2036776787"
     },
     {
+      "id": "juselius-takats-2021-jedc",
+      "title": "Inflation and demography through time",
+      "authors": [
+        "Mikael Juselius",
+        "takats-elod"
+      ],
+      "publication_type": "article",
+      "journal": "Journal of Economic Dynamics and Control",
+      "year": 2021,
+      "volume": "128",
+      "issue": null,
+      "pages": "104136",
+      "doi": "10.1016/j.jedc.2021.104136",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1016/j.jedc.2021.104136",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "Does an ageing population push inflation up or down? The macro consensus and the popular narrative disagree. Juselius and Takáts assemble a cross-country panel covering 22 advanced economies 1955-2019 and link inflation to the demographic dependency ratio (very young + very old to working-age). Their finding: the relationship is positive — larger dependent populations are associated with higher inflation in the medium run, consistent with consumption pressure from non-savers exceeding the production capacity sustained by the working-age. Robust to alternative dependency-ratio definitions and to the period of stable inflation regimes. A clean macro-fact for inflation-forecasting models in ageing economies.",
+      "summary_hu": "Felfelé vagy lefelé tolja az inflációt egy öregedő népesség? A makro-konszenzus és a populáris narratíva nem ért egyet. Juselius és Takáts 22 fejlett gazdaságot lefedő ország-panelt állít össze 1955–2019-re, és az inflációt a demográfiai eltartottsági aránnyal (nagyon fiatal + nagyon idős a munkaképes korhoz) kapcsolja össze. Eredményük: a kapcsolat pozitív — a nagyobb eltartott népesség a középtávon magasabb inflációval van összefüggésben, összhangban azzal, hogy a nem-megtakarítók fogyasztási nyomása meghaladja a munkaképes korúak fenntartott termelési kapacitását. Robusztus alternatív eltartottsági-arány definíciókra és a stabil inflációs rezsimek időszakára. Tiszta makró-tény az inflációs-előrejelző modellek számára öregedő gazdaságokban.",
+      "data_used": "Cross-country annual panel 1955-2019 covering 22 OECD advanced economies. Variables: CPI inflation, dependency ratio (UN World Population Prospects), output gap, oil prices, exchange-rate regimes. Panel estimation with country fixed effects and decade dummies; robustness using narrative inflation-regime classifications.",
+      "data_used_hu": "Keresztországos éves panel 1955–2019, 22 OECD fejlett gazdaságot lefedve. Változók: CPI-infláció, eltartottsági arány (UN World Population Prospects), kibocsátási rés, olajárak, árfolyamrendszerek. Panel-becslés ország fix hatásokkal és évtized-dummikkal; robusztusság narratív inflációs-rezsim besorolásokkal.",
+      "policy_relevance": "Direct input for the MNB Monetary Council's medium-run inflation outlook in an ageing Hungary. The paper's robust positive demographic-inflation link argues against the assumption — common in central-bank long-run frameworks — that ageing is deflationary. Useful framing for the next MNB Inflation Report's long-run scenario chapter and for KSH demographic-inflation interaction work.",
+      "policy_relevance_hu": "Közvetlen input az MNB Monetáris Tanácsának középtávú inflációs kilátásához egy öregedő Magyarországon. A tanulmány robusztus pozitív demográfia-infláció kapcsolata érv a feltételezés ellen — gyakori a jegybanki hosszú távú keretrendszerekben — hogy az öregedés deflációs. Hasznos keret a következő MNB Inflációs Jelentés hosszú távú forgatókönyv fejezetéhez és a KSH demográfia-infláció interakciós munkáihoz.",
+      "topics": [
+        "macroeconomics",
+        "demographics-migration"
+      ],
+      "methods": [
+        "panel-data",
+        "time-series"
+      ],
+      "countries_studied": [],
+      "data_types": [
+        "macro-aggregate"
+      ],
+      "featured": false,
+      "added_at": "2026-05-11",
+      "last_reviewed_at": "2026-05-11",
+      "review_status": "ai-drafted",
+      "openalex_id": "W3158514647"
+    },
+    {
       "id": "kang-kondor-et-al-2014-jofaq",
       "title": "Do Hedge Funds Reduce Idiosyncratic Risk?",
       "authors": [
@@ -32518,6 +32931,49 @@
       "last_reviewed_at": "2026-05-09",
       "review_status": "ai-drafted",
       "openalex_id": "W4399366508"
+    },
+    {
+      "id": "koren-peto-2020-plosone",
+      "title": "Business disruptions from social distancing",
+      "authors": [
+        "koren-miklos",
+        "peto-rita"
+      ],
+      "publication_type": "article",
+      "journal": "PLOS ONE",
+      "year": 2020,
+      "volume": "15",
+      "issue": "9",
+      "pages": "e0239113",
+      "doi": "10.1371/journal.pone.0239113",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1371/journal.pone.0239113",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "How exposed is each industry to social-distancing requirements? Koren and Pető map the US occupational structure into theory-based measures of how much each job relies on face-to-face communication, on close physical proximity to coworkers, and on close proximity to customers. They aggregate to industry level and find that 43 million US workers pre-pandemic worked in occupations that depend heavily on at least one of these contact dimensions. The exposure measure was widely used in 2020-2021 crisis policy analysis to target sector-specific employment support. A clean, transparent, replicable input for any pandemic-preparedness exercise.",
+      "summary_hu": "Mennyire van kitéve egy-egy iparág a társadalmi távolságtartási követelményeknek? Koren és Pető az amerikai foglalkozási struktúrát elméletalapú mérőszámokká alakítja arra, hogy egy-egy munkahely mennyire támaszkodik a személyes kommunikációra, a kollégákkal való szoros fizikai közelségre és az ügyfelekkel való szoros közelségre. Iparágszintre aggregálva azt találják, hogy 43 millió amerikai munkavállaló a járvány előtt olyan foglalkozásokban dolgozott, amelyek erősen függnek legalább az egyik érintkezési dimenziótól. A kitettségi mérőszámot 2020–2021 válságpolitikai elemzésben széles körben használták az ágazat-specifikus foglalkoztatási támogatás célzására. Tiszta, átlátható, replikálható input bármely járvány-felkészültségi gyakorlathoz.",
+      "data_used": "US O*NET occupational characteristics database 2019 — work-context items on physical proximity, face-to-face contact, customer interaction — mapped to BLS Occupational Employment Statistics (May 2019) to count workers by exposure dimension. Industry aggregation via the BLS Industry-Occupation Matrix. All inputs and code released publicly for replication and adaptation to other countries.",
+      "data_used_hu": "Amerikai O*NET foglalkozási jellemzők adatbázis 2019 — munkakörülmény-elemek a fizikai közelségről, személyes érintkezésről, ügyfél-interakcióról — a BLS Foglalkozási Foglalkoztatási Statisztikájához (2019. május) illesztve, hogy a munkavállalókat kitettségi dimenzió szerint számolják. Iparági aggregálás a BLS Iparág-Foglalkozás Mátrix segítségével. Az összes input és kód nyilvánosan elérhető a replikációhoz és más országokra való adaptáláshoz.",
+      "policy_relevance": "Direct input for KSH and NGM/KKM when targeting sector-specific employment support during pandemic waves. The paper's exposure measures were used in real-time European policy analysis during the COVID-19 first wave; the Hungarian replication using KSH foglalkozás-statisztika is a low-cost extension. Relevant for the Belügyminisztérium / NNK pandemic-preparedness planning and for KRTK labour-market crisis research.",
+      "policy_relevance_hu": "Közvetlen input a KSH és az NGM/KKM számára az ágazat-specifikus foglalkoztatási támogatás célzásához a járványhullámok alatt. A tanulmány kitettségi mérőszámait valós idejű európai szakpolitikai elemzésben használták a COVID-19 első hullámában; a magyar replikáció a KSH foglalkozás-statisztikájával alacsony költségű kiterjesztés. Releváns a Belügyminisztérium / NNK járvány-felkészültségi tervezéséhez és a KRTK munkapiaci válság-kutatáshoz.",
+      "topics": [
+        "labor-markets",
+        "industrial-organization",
+        "methods"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
+      "countries_studied": [],
+      "data_types": [
+        "admin-individual"
+      ],
+      "featured": false,
+      "added_at": "2026-05-11",
+      "last_reviewed_at": "2026-05-11",
+      "review_status": "ai-drafted",
+      "openalex_id": "W3014364737"
     },
     {
       "id": "koren-telegdy-2024-cesifo",
@@ -36634,6 +37090,53 @@
       "openalex_id": "W2030264255"
     },
     {
+      "id": "mumtaz-pinter-theodoridis-2018-ier",
+      "title": "What do VARs tell us about the impact of a credit supply shock?",
+      "authors": [
+        "Haroon Mumtaz",
+        "pinter-gabor",
+        "Konstantinos Theodoridis"
+      ],
+      "publication_type": "article",
+      "journal": "International Economic Review",
+      "year": 2018,
+      "volume": "59",
+      "issue": "2",
+      "pages": "625-646",
+      "doi": "10.1111/iere.12282",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1111/iere.12282",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "Different SVAR identification schemes for credit-supply shocks tend to give different answers. Mumtaz, Pintér and Theodoridis run a horse race across four widely-used schemes — Cholesky, sign restrictions, narrative IV, and a DSGE-implied scheme — on UK data, and ask which best matches the DSGE-implied true shock under simulated data. Their finding: sign-restriction schemes and narrative IV recover the credit-supply shock reasonably well; Cholesky does poorly. A practical reference for empirical-macro researchers picking an identification scheme and for central-bank modellers building credit-shock measures.",
+      "summary_hu": "A hitel-kínálati sokkokra vonatkozó különböző SVAR-azonosítási sémák gyakran eltérő válaszokat adnak. Mumtaz, Pintér és Theodoridis lóversenyt rendez négy gyakran használt séma — Cholesky, előjelkorlát, narratív IV és DSGE-implikált séma — között az Egyesült Királyság adatain, és vizsgálja, melyik egyezik legjobban a DSGE-implikált valódi sokkal szimulált adatokon. Eredményük: az előjelkorlát-sémák és a narratív IV ésszerűen visszanyerik a hitel-kínálati sokkot; a Cholesky rosszul teljesít. Gyakorlati referencia az empirikus-makrós kutatóknak a séma kiválasztásához és a jegybanki modellezőknek a hitel-sokk mérőszámok építéséhez.",
+      "data_used": "UK quarterly macro data 1979-2014 from ONS, Bank of England, and Datastream — GDP, prices, credit aggregates, interest rates, household and corporate borrowing — combined with Monte Carlo simulations from a calibrated DSGE benchmark. SVAR estimation under four identification schemes; narrative-IV proxy from Romer-Romer-style policy text classification.",
+      "data_used_hu": "Brit negyedéves makró adatok 1979–2014 között az ONS, a Bank of England és a Datastream forrásaiból — GDP, árak, hitelaggregátumok, kamatlábak, háztartási és vállalati hitelfelvétel — kalibrált DSGE referencia Monte Carlo szimulációival kombinálva. SVAR-becslés négy azonosítási séma alatt; narratív-IV proxy Romer-Romer-stílusú szakpolitikai-szöveg-osztályozásból.",
+      "policy_relevance": "Direct methodological input for the MNB Research Department and KRTK macroeconometrics group when building Hungarian credit-shock measures. The paper's takeaway — sign restrictions and narrative IV outperform Cholesky for credit shocks — is the standard the next MNB Quarterly Projection Model credit module should be evaluated against. Also relevant to the Pénzügyi Stabilitási Tanács's credit-cycle dashboards.",
+      "policy_relevance_hu": "Közvetlen módszertani input az MNB Kutatási Osztálya és a KRTK makroökonometriai csoportja számára a magyar hitel-sokk mérőszámok építéséhez. A tanulmány tanulsága — az előjelkorlátok és a narratív IV felülmúlja a Cholesky-t a hitel-sokkok esetén — az a standard, amelyhez a következő MNB Negyedéves Előrejelző Modell hitel-modulját mérni kell. Releváns a Pénzügyi Stabilitási Tanács hitel-ciklus műszerfalaihoz is.",
+      "topics": [
+        "macroeconomics",
+        "banking-finance",
+        "methods"
+      ],
+      "methods": [
+        "structural",
+        "time-series"
+      ],
+      "countries_studied": [
+        "GB"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
+      "featured": false,
+      "added_at": "2026-05-11",
+      "last_reviewed_at": "2026-05-11",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2240034461"
+    },
+    {
       "id": "murakozy-reizer-2017-ks",
       "title": "A magyar vállalati adózás heterogenitása",
       "authors": [
@@ -37680,6 +38183,98 @@
       "last_reviewed_at": "2026-04-26",
       "review_status": "ai-drafted",
       "openalex_id": "W3134022475"
+    },
+    {
+      "id": "pinter-2019-ej",
+      "title": "House Prices and Job Losses",
+      "authors": [
+        "pinter-gabor"
+      ],
+      "publication_type": "article",
+      "journal": "Economic Journal",
+      "year": 2019,
+      "volume": "129",
+      "issue": "618",
+      "pages": "991-1013",
+      "doi": "10.1111/ecoj.12613",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1111/ecoj.12613",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "Why do house-price busts coincide with job losses? Pintér builds an aggregate SVAR and a regional proxy SVAR for the UK and then writes down a general-equilibrium model with collateral constraints, endogenous job separation, and housing shocks, estimated by Bayesian methods. House-price shocks explain about 10-20 % of output fluctuations and 20-30 % of corporate-credit, unemployment, and job-separation variation — running through the collateral channel rather than just through household demand. A clean demonstration that housing matters for labour markets in part because firms borrow against it.",
+      "summary_hu": "Miért esik egybe a háriár-zuhanás a munkahely-veszteséggel? Pintér egy aggregált SVAR-t és egy regionális proxy-SVAR-t épít az Egyesült Királyságra, majd egy általános egyensúlyi modellt ír fel kollaterál-korlátokkal, endogén állásmegszűnéssel és lakhatási sokkokkal, Bayes-i módszerrel becsülve. A háriár-sokkok az output ingadozásainak körülbelül 10–20 %-át és a vállalati hitel, munkanélküliség és állásmegszűnés ingadozásának 20–30 %-át magyarázzák — a kollaterál-csatornán keresztül, nem pusztán a háztartási kereslet csatornáján. Tiszta demonstráció arra, hogy a lakhatás részben azért számít a munkapiacok számára, mert a cégek kölcsönöket vesznek fel rá.",
+      "data_used": "UK aggregate and regional quarterly data on house prices, unemployment, job-separation rates, corporate credit, and macro controls from ONS and Bank of England 1987-2014. SVAR estimation (aggregate and regional proxy) plus Bayesian estimation of a DSGE model with collateral constraints and endogenous job separation. Replication structure standard for monetary-macro work.",
+      "data_used_hu": "Brit aggregált és regionális negyedéves adatok a házárakról, munkanélküliségről, állásmegszűnési rátákról, vállalati hitelről és makró kontrollokról az ONS-től és a Bank of Englandtől 1987–2014 között. SVAR becslés (aggregált és regionális proxy), plusz Bayes-i becslése egy DSGE-modellnek kollaterál-korlátokkal és endogén állásmegszűnéssel. A replikációs struktúra a monetáris-makró munka standard formája.",
+      "policy_relevance": "Foundational reference for the MNB's macro-modelling unit when calibrating the collateral channel in Hungarian DSGE work. The paper's quantitative claim — housing-collateral shocks explain 20-30 % of unemployment variation — is the kind of headline the MNB Macroprudential Council can use when arguing for tighter LTV/DTI regulation. Also relevant to the Pénzügyminisztérium's cyclical-buffer calibration.",
+      "policy_relevance_hu": "Alapvető hivatkozás az MNB makró-modellezési egysége számára a kollaterál-csatorna kalibrálásához a magyar DSGE-munkákban. A tanulmány kvantitatív állítása — a lakhatási kollaterál sokkok a munkanélküliségi variáció 20–30 %-át magyarázzák — az a fajta címsor, amit az MNB Pénzügyi Stabilitási Tanácsa felhasználhat szigorúbb LTV/DTI szabályozás melletti érveléshez. Releváns a Pénzügyminisztérium ciklikus puffer-kalibrálásához is.",
+      "topics": [
+        "macroeconomics",
+        "banking-finance",
+        "labor-markets"
+      ],
+      "methods": [
+        "structural",
+        "time-series"
+      ],
+      "countries_studied": [
+        "GB"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
+      "featured": true,
+      "added_at": "2026-05-11",
+      "last_reviewed_at": "2026-05-11",
+      "review_status": "ai-drafted",
+      "openalex_id": "W2133246183"
+    },
+    {
+      "id": "pinter-wang-zou-2024-rfs",
+      "title": "Size discount and size penalty: Trading costs in bond markets",
+      "authors": [
+        "pinter-gabor",
+        "Chaojun Wang",
+        "Junyuan Zou"
+      ],
+      "publication_type": "article",
+      "journal": "Review of Financial Studies",
+      "year": 2024,
+      "volume": "37",
+      "issue": "7",
+      "pages": "2156-2190",
+      "doi": "10.1093/rfs/hhae007",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1093/rfs/hhae007",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "Do larger bond trades cost more or less? Pintér, Wang and Zou bring rich UK trade-level data on government and corporate bond markets to answer. Across clients, larger trades incur lower costs — a size discount. But within a client, after controlling for who is trading, costs rise with size — a size penalty. The cross-client variation reflects sophisticated traders selecting into large trades; the within-client penalty reflects price impact. A clean dual decomposition of bond trading costs, with direct policy implications for dealer-market regulation and central-bank market operations.",
+      "summary_hu": "A nagyobb kötvénykereskedések többe vagy kevesebbe kerülnek? Pintér, Wang és Zou gazdag brit kereskedés-szintű adatokat hoz az állami és vállalati kötvénypiacokról, hogy válaszoljanak. Ügyfelek között a nagyobb kereskedések alacsonyabb költséget viselnek — méretkedvezmény. De egy ügyfélen belül, miután kontrollálunk arra, hogy ki kereskedik, a költség nő a mérettel — méretbüntetés. A kereszt-ügyfél variáció a kifinomult kereskedők nagy kereskedésekbe való szelekcióját tükrözi; az ügyfélen belüli büntetés az árhatást tükrözi. A kötvénykereskedési költségek tiszta kettős felbontása, közvetlen szakpolitikai következményekkel a kereskedő-piaci szabályozásra és a jegybanki piaci műveletekre.",
+      "data_used": "UK regulator FCA bond trade-level data 2011-2020, covering both gilts (government) and sterling corporate bonds. Trade-by-trade matching to dealer and client identifiers; price-impact estimation within-client; cross-client cost-decomposition into size, complexity, and identity components. Several million transactions across approximately 5 000 clients.",
+      "data_used_hu": "Brit szabályozói FCA kötvény-kereskedés-szintű adatok 2011–2020 között, mind a gilts (állami), mind a font sterling vállalati kötvényeket lefedve. Kereskedésenkénti illesztés kereskedő- és ügyfél-azonosítókhoz; árhatás-becslés ügyfélen belül; kereszt-ügyfél költség-felbontás méret, komplexitás és identitás komponenseire. Néhány millió tranzakció körülbelül 5 000 ügyfél között.",
+      "policy_relevance": "Relevant for the MNB Foreign Exchange and Money Market Operations Department when designing its government-bond purchase operations under tightening cycles, and for the ÁKK (Hungarian Government Debt Management Agency) when calibrating issuance size and timing. The paper's evidence that within-client price impact rises with trade size — but cross-client size discounts make small clients overpay — argues for execution algorithms that randomise issuance size and dealer selection.",
+      "policy_relevance_hu": "Releváns az MNB Devizapiaci és Pénzpiaci Műveletek Igazgatóságának az állampapír-vásárlási műveletek tervezéséhez szigorítási ciklusokban, és az ÁKK-nak (Államadósság Kezelő Központ) a kibocsátási méret és időzítés kalibrálásához. A tanulmány bizonyítéka, hogy az ügyfélen belüli árhatás nő a kereskedés méretével — de a kereszt-ügyfél méretkedvezmények miatt a kis ügyfelek túlfizetnek — amellett érvel, hogy a végrehajtási algoritmusok randomizálják a kibocsátási méretet és a kereskedő-választást.",
+      "topics": [
+        "banking-finance",
+        "industrial-organization",
+        "macroeconomics"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "GB"
+      ],
+      "data_types": [
+        "admin-firm",
+        "digital-trace"
+      ],
+      "featured": false,
+      "added_at": "2026-05-11",
+      "last_reviewed_at": "2026-05-11",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4393376093"
     },
     {
       "id": "pinto-bencsik-et-al-2020-economica",
@@ -40339,7 +40934,7 @@
       "id": "takats-temesvary-2021-jie",
       "title": "How does the interaction of macroprudential and monetary policies affect cross-border bank lending?",
       "authors": [
-        "Előd Takáts",
+        "takats-elod",
         "temesvary-judit"
       ],
       "publication_type": "article",
@@ -46516,7 +47111,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 126
+      "paper_count": 129
     },
     {
       "id": "education-skills",
@@ -46538,7 +47133,7 @@
       "policy_framing_en": "Relevant to: healthcare system design, hospital payment, prevention programs, pharmaceutical policy, mental health services.",
       "policy_framing_hu": "Releváns: egészségügyi rendszer kialakítása, kórházi finanszírozás, prevenciós programok, gyógyszerpolitika, mentális szolgáltatások.",
       "icon": "heart-pulse",
-      "paper_count": 60
+      "paper_count": 63
     },
     {
       "id": "demographics-migration",
@@ -46549,7 +47144,7 @@
       "policy_framing_en": "Relevant to: family policy, pension system, immigration policy, retention of skilled workers.",
       "policy_framing_hu": "Releváns: családpolitika, nyugdíjrendszer, bevándorláspolitika, szakemberek megtartása.",
       "icon": "users",
-      "paper_count": 60
+      "paper_count": 64
     },
     {
       "id": "trade-fdi",
@@ -46560,7 +47155,7 @@
       "policy_framing_en": "Relevant to: EU trade policy, FDI promotion, export promotion, supply chain resilience, industrial policy.",
       "policy_framing_hu": "Releváns: EU kereskedelempolitika, FDI ösztönzés, exporttámogatás, ellátási láncok rugalmassága, iparpolitika.",
       "icon": "globe",
-      "paper_count": 100
+      "paper_count": 101
     },
     {
       "id": "firms-productivity",
@@ -46571,7 +47166,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 167
+      "paper_count": 169
     },
     {
       "id": "innovation-digital",
@@ -46593,7 +47188,7 @@
       "policy_framing_en": "Relevant to: MNB policy, banking regulation, macroprudential tools, financial inclusion.",
       "policy_framing_hu": "Releváns: MNB-politika, bankszabályozás, makroprudenciális eszközök, pénzügyi befogadás.",
       "icon": "landmark",
-      "paper_count": 175
+      "paper_count": 183
     },
     {
       "id": "fiscal-tax",
@@ -46626,7 +47221,7 @@
       "policy_framing_en": "Relevant to: energy transition, carbon pricing, renewable support, environmental standards.",
       "policy_framing_hu": "Releváns: energiaátmenet, szén-dioxid árazás, megújulók támogatása, környezeti szabványok.",
       "icon": "leaf",
-      "paper_count": 26
+      "paper_count": 28
     },
     {
       "id": "inequality-welfare",
@@ -46637,7 +47232,7 @@
       "policy_framing_en": "Relevant to: welfare system, anti-poverty programs, family allowances, gender-equal pay policies.",
       "policy_framing_hu": "Releváns: szociális rendszer, szegénység elleni programok, családi pótlékok, egyenlő bérezés.",
       "icon": "scale",
-      "paper_count": 135
+      "paper_count": 137
     },
     {
       "id": "political-economy",
@@ -46681,7 +47276,7 @@
       "policy_framing_en": "Relevant to: competition policy (GVH), merger review, platform regulation, auction design, sector-specific regulation.",
       "policy_framing_hu": "Releváns: versenypolitika (GVH), fúziókontroll, platformszabályozás, aukciótervezés, ágazati szabályozás.",
       "icon": "network",
-      "paper_count": 116
+      "paper_count": 118
     },
     {
       "id": "macroeconomics",
@@ -46692,7 +47287,7 @@
       "policy_framing_en": "Relevant to: long-run growth forecasting, macroeconomic modelling, sovereign-debt management, stabilisation policy design.",
       "policy_framing_hu": "Releváns: hosszú távú növekedés előrejelzés, makroökonómiai modellek, államadósság-kezelés, stabilizációs politika.",
       "icon": "line-chart",
-      "paper_count": 154
+      "paper_count": 162
     },
     {
       "id": "agriculture-food",
@@ -46714,7 +47309,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 182
+      "paper_count": 184
     },
     {
       "id": "market-design",
@@ -46965,7 +47560,7 @@
     {
       "short": "JIE",
       "name": "Journal of International Economics",
-      "tier": "B",
+      "tier": "A",
       "field": "trade"
     },
     {
@@ -48069,7 +48664,7 @@
   ],
   "counts": {
     "authors": 102,
-    "papers": 822,
+    "papers": 835,
     "policy": 35,
     "press": 148,
     "topics": 21

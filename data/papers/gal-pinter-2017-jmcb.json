@@ -1,0 +1,43 @@
+{
+  "id": "gal-pinter-2017-jmcb",
+  "title": "Capital over the business cycle: Renting versus ownership",
+  "authors": [
+    "Péter Gál",
+    "pinter-gabor"
+  ],
+  "publication_type": "article",
+  "journal": "Journal of Money, Credit and Banking",
+  "year": 2017,
+  "volume": "49",
+  "issue": "6",
+  "pages": "1299-1338",
+  "doi": "10.1111/jmcb.12419",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1111/jmcb.12419",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Why is rented capital so much more cyclical than owned capital? Gál and Pintér document a sharp empirical fact: rented capital expenditure in the US falls roughly twice as much as owned capital during recessions. They build a DSGE model with frictions on capital rental contracts (limited commitment, search) and show that introducing these frictions matches the data quantitatively. Implication for monetary policy: focusing on aggregate investment misses an important compositional shift between rented and owned capital during downturns. The piece travels to any economy with a sizable rental sector for equipment and structures.",
+  "summary_hu": "Miért sokkal ciklikusabb a bérelt tőke, mint a saját tulajdonú? Gál és Pintér éles empirikus tényt dokumentál: a bérelt tőke-kiadás az USA-ban recesszióban körülbelül kétszer akkorát esik, mint a saját tulajdonú. DSGE-modellt építenek a tőke-bérleti szerződések súrlódásaival (korlátozott elköteleződés, keresés), és megmutatják, hogy ezek a súrlódások kvantitatívan illeszkednek az adatokhoz. Monetáris-politikai implikáció: az aggregát beruházásra koncentrálva elsiklunk egy fontos összetétel-eltolódás felett a bérelt és saját tulajdonú tőke között a visszaesésekben. A munka átvihető bármilyen gazdaságra, ahol jelentős a berendezések és építmények bérleti szektora.",
+  "data_used": "US Flow of Funds and BEA capital-account data 1985-2014, decomposed into rented vs. owned capital expenditure by industry. DSGE model with capital-rental frictions (limited commitment, search-and-match between renter firms and capital owners), estimated by Bayesian methods on aggregate moments.",
+  "data_used_hu": "Amerikai Flow of Funds és BEA tőke-számla adatok 1985–2014 között, bérelt vs. saját tulajdonú tőke-kiadásra bontva iparág szerint. DSGE-modell tőke-bérleti súrlódásokkal (korlátozott elköteleződés, keresés-és-illesztés bérlő cégek és tőketulajdonosok között), Bayes-i módszerrel becsülve aggregát momentumokra.",
+  "policy_relevance": "Background reference for the MNB Macro-Financial Modelling group when adding an investment-composition dimension to the next iteration of the Quarterly Projection Model. The paper's methodological point — that rented vs. owned capital matters for the cyclical investment response — is directly applicable to Hungarian-firm capital data from NAV and KSH, where lease-versus-buy decisions are observable.",
+  "policy_relevance_hu": "Háttér-hivatkozás az MNB Makró-Pénzügyi Modellező csoportjának, amikor egy beruházás-összetétel dimenziót adnak hozzá a Negyedéves Előrejelző Modell következő iterációjához. A tanulmány módszertani állítása — hogy a bérelt vs. saját tulajdonú tőke számít a ciklikus beruházási válaszhoz — közvetlenül alkalmazható a NAV és a KSH magyar céges tőkeadataira, ahol a lízing-versus-vásárlás döntések megfigyelhetők.",
+  "topics": [
+    "macroeconomics",
+    "firms-productivity",
+    "banking-finance"
+  ],
+  "methods": [
+    "structural"
+  ],
+  "countries_studied": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
+  "featured": false,
+  "added_at": "2026-05-11",
+  "last_reviewed_at": "2026-05-11",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3121597976"
+}

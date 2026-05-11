@@ -1,0 +1,44 @@
+{
+  "id": "avdjiev-takats-2018-rof",
+  "title": "Monetary policy spillovers and currency networks in cross-border bank lending: Lessons from the 2013 Fed taper tantrum",
+  "authors": [
+    "Stefan Avdjiev",
+    "takats-elod"
+  ],
+  "publication_type": "article",
+  "journal": "Review of Finance",
+  "year": 2018,
+  "volume": "23",
+  "issue": "5",
+  "pages": "993-1029",
+  "doi": "10.1093/rof/rfy030",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1093/rof/rfy030",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "When the Federal Reserve signalled tapering of QE in 2013, capital flows to emerging markets reversed sharply — but the pattern was uneven. Avdjiev and Takáts use BIS cross-border banking statistics to show that the spillover ran through *currency networks*, not just geography: countries whose cross-border bank lending was disproportionately in dollars saw the sharpest reversals, even when their fundamentals were sound. The exposure to USD-denominated borrowing was a quantitatively important predictor of crisis-period flow reversals, holding everything else equal. A clean argument for currency-composition surveillance, not just country-level surveillance.",
+  "summary_hu": "Amikor a Federal Reserve 2013-ban jelezte a QE szigorítását, a tőkeáramlás a feltörekvő piacok felé élesen megfordult — de a minta egyenetlen volt. Avdjiev és Takáts a BIS határokon átnyúló banki statisztikáit használja annak bemutatására, hogy az átterjedés *valutahálózatokon* keresztül futott, nem pusztán földrajzon: azok az országok, amelyek határokon átnyúló banki hitelezése aránytalanul dollárban volt, a legélesebb fordulatokat tapasztalták, még akkor is, amikor fundamentumaik szilárdak voltak. A USD-denominált hitelfelvételnek való kitettség kvantitatívan fontos előrejelzője volt a válság-időszaki áramlás-fordulatoknak, minden mást egyenlőnek véve. Tiszta érv a valuta-összetétel megfigyelése mellett, nem csak az ország szintű megfigyelés mellett.",
+  "data_used": "BIS Locational Banking Statistics 2010-2015 quarterly, decomposed by source country, destination country, and reporting currency. Identification: cross-country variation in pre-tantrum dollar exposure interacted with the May-September 2013 Fed taper signal. Robustness on alternative pre-tantrum windows and on currency-network centrality measures.",
+  "data_used_hu": "BIS lokációs banki statisztikák 2010–2015 negyedéves bontásban, forrásország, célország és jelentési valuta szerint felbontva. Identifikáció: a tantrum előtti dollárkitettség keresztországos variációja a 2013. május–szeptemberi Fed taper-jelzéssel interakcióban. Robusztusság alternatív tantrum előtti ablakokra és valutahálózat-centralitási mértékekre.",
+  "policy_relevance": "Direct relevance for the MNB and the ÁKK when assessing Hungarian exposure to global monetary-policy spillovers. The paper's currency-network framing gives a concrete metric the MNB Financial Stability Department can use to monitor Hungary's downstream exposure to USD- and EUR-denominated funding chains — beyond direct bilateral lending exposure to source-country banks. Useful input for the next iteration of MNB's Financial Stability Report and for ÁKK's foreign-currency debt issuance strategy.",
+  "policy_relevance_hu": "Közvetlen relevancia az MNB és az ÁKK számára Magyarország globális monetáris-politikai átterjedéseknek való kitettségének értékelésében. A tanulmány valutahálózat-keretezése konkrét mérőszámot ad az MNB Pénzügyi Stabilitási Igazgatóságának arra, hogy nyomon kövesse Magyarország továbbgyűrűző kitettségét USD- és EUR-denominált finanszírozási láncoknak — túlmutatva a forrásország bankjai felé fennálló közvetlen kétoldalú hitelezési kitettségen. Hasznos input az MNB Pénzügyi Stabilitási Jelentésének következő iterációjához és az ÁKK devizaadósság-kibocsátási stratégiájához.",
+  "topics": [
+    "banking-finance",
+    "macroeconomics",
+    "trade-fdi"
+  ],
+  "methods": [
+    "panel-data",
+    "diff-in-diff"
+  ],
+  "countries_studied": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
+  "featured": false,
+  "added_at": "2026-05-11",
+  "last_reviewed_at": "2026-05-11",
+  "review_status": "ai-drafted",
+  "openalex_id": "W2896342468"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "gyongyosi-rariga-verner-2025-nberwp",
+  "title": "The foreign currency Fisher channel: Evidence from households",
+  "authors": [
+    "gyongyosi-gyozo",
+    "Judit Rariga",
+    "Emil Verner"
+  ],
+  "publication_type": "working_paper",
+  "journal": null,
+  "year": 2025,
+  "volume": null,
+  "issue": null,
+  "pages": null,
+  "doi": "10.3386/w34234",
+  "working_paper_series": "NBER Working Paper No. 34234",
+  "url_published": "https://www.nber.org/papers/w34234",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Hungarian households borrowed extensively in Swiss francs and euros before the 2008 crisis. When the forint depreciated, their debt-service costs surged. Gyöngyösi, Rariga and Verner use Hungarian micro-data on these foreign-currency mortgages to estimate how households absorbed the shock. The pass-through to consumption was close to one-for-one with the increase in debt service — households cut spending proportionally to the increased monthly payment, with a flight from quality (downshifting brand choices, postponing durable purchases). Labour-supply margins were modest. The paper isolates the household-side Fisher channel — exchange-rate-driven real-debt revaluation — and quantifies it cleanly.",
+  "summary_hu": "A magyar háztartások 2008 előtt jelentős mértékben vettek fel hiteleket svájci frankban és euróban. Amikor a forint leértékelődött, az adósságszolgálatuk megugrott. Gyöngyösi, Rariga és Verner magyar mikroadatokat használ e devizahitelekről annak megbecslésére, hogyan vették fel a háztartások a sokkot. A fogyasztásra való átgyűrűzés közel egy-az-egyhez volt az adósságszolgálat növekedésével — a háztartások a havi törlesztő-emelkedéssel arányosan csökkentették kiadásaikat, minőségből való meneküléssel (alacsonyabb márkájú választások, tartós cikk-vásárlások halasztása). A munkaerő-kínálati margók szerények voltak. A tanulmány izolálja a háztartás-oldali Fisher-csatornát — az árfolyam-vezérelt reáladósság-átértékelést — és tisztán számszerűsíti.",
+  "data_used": "Hungarian administrative household-level micro-data 2006-2015 from KSH and the MNB Household Lending Database: monthly mortgage-payment records by currency, household consumption from the Household Budget and Living Conditions Survey, employment and earnings from KSH. Identification: cross-household variation in pre-2008 foreign-currency loan share, interacted with monthly forint/CHF and forint/EUR exchange-rate variation.",
+  "data_used_hu": "Magyar adminisztratív háztartás-szintű mikroadatok 2006–2015 között a KSH-tól és az MNB Háztartási Hitelezési Adatbázisából: havi jelzáloghitel-törlesztési rekordok valuta szerint, háztartási fogyasztás a Háztartási Költségvetési és Életkörülmény-felmérésből, foglalkoztatás és kereset a KSH-tól. Identifikáció: a 2008 előtti devizahitel-részarány keresztháztartási variációja, havi forint/CHF és forint/EUR árfolyam-variációval interakcióban.",
+  "policy_relevance": "Foundational evidence for the MNB Financial Stability Department and the Pénzügyminisztérium when calibrating future macroprudential rules on foreign-currency household lending. The paper's quantitative finding — near-one-for-one pass-through of FX-driven debt revaluation to consumption — is the strongest single argument for keeping the 2014-era currency-conversion rule and for tightening foreign-currency lending caps. Direct input for MNB's 2025+ Financial Stability Report risk scenarios.",
+  "policy_relevance_hu": "Alapvető bizonyíték az MNB Pénzügyi Stabilitási Igazgatósága és a Pénzügyminisztérium számára a háztartási devizahitelezésre vonatkozó jövőbeli makroprudenciális szabályok kalibrálásához. A tanulmány kvantitatív megállapítása — a devizaárfolyam-vezérelt adósságátértékelés közel egy-az-egyhez való átgyűrűzése a fogyasztásra — a legerősebb egyedi érv a 2014-es devizakonverziós szabály fenntartása és a devizahitelezési korlátok szigorítása mellett. Közvetlen input az MNB 2025+ Pénzügyi Stabilitási Jelentésének kockázati forgatókönyveihez.",
+  "topics": [
+    "banking-finance",
+    "macroeconomics",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "panel-data",
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual",
+    "survey"
+  ],
+  "featured": true,
+  "added_at": "2026-05-11",
+  "last_reviewed_at": "2026-05-11",
+  "review_status": "ai-drafted",
+  "openalex_id": null
+}

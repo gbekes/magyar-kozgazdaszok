@@ -1,0 +1,47 @@
+{
+  "id": "pinter-wang-zou-2024-rfs",
+  "title": "Size discount and size penalty: Trading costs in bond markets",
+  "authors": [
+    "pinter-gabor",
+    "Chaojun Wang",
+    "Junyuan Zou"
+  ],
+  "publication_type": "article",
+  "journal": "Review of Financial Studies",
+  "year": 2024,
+  "volume": "37",
+  "issue": "7",
+  "pages": "2156-2190",
+  "doi": "10.1093/rfs/hhae007",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1093/rfs/hhae007",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Do larger bond trades cost more or less? Pintér, Wang and Zou bring rich UK trade-level data on government and corporate bond markets to answer. Across clients, larger trades incur lower costs — a size discount. But within a client, after controlling for who is trading, costs rise with size — a size penalty. The cross-client variation reflects sophisticated traders selecting into large trades; the within-client penalty reflects price impact. A clean dual decomposition of bond trading costs, with direct policy implications for dealer-market regulation and central-bank market operations.",
+  "summary_hu": "A nagyobb kötvénykereskedések többe vagy kevesebbe kerülnek? Pintér, Wang és Zou gazdag brit kereskedés-szintű adatokat hoz az állami és vállalati kötvénypiacokról, hogy válaszoljanak. Ügyfelek között a nagyobb kereskedések alacsonyabb költséget viselnek — méretkedvezmény. De egy ügyfélen belül, miután kontrollálunk arra, hogy ki kereskedik, a költség nő a mérettel — méretbüntetés. A kereszt-ügyfél variáció a kifinomult kereskedők nagy kereskedésekbe való szelekcióját tükrözi; az ügyfélen belüli büntetés az árhatást tükrözi. A kötvénykereskedési költségek tiszta kettős felbontása, közvetlen szakpolitikai következményekkel a kereskedő-piaci szabályozásra és a jegybanki piaci műveletekre.",
+  "data_used": "UK regulator FCA bond trade-level data 2011-2020, covering both gilts (government) and sterling corporate bonds. Trade-by-trade matching to dealer and client identifiers; price-impact estimation within-client; cross-client cost-decomposition into size, complexity, and identity components. Several million transactions across approximately 5 000 clients.",
+  "data_used_hu": "Brit szabályozói FCA kötvény-kereskedés-szintű adatok 2011–2020 között, mind a gilts (állami), mind a font sterling vállalati kötvényeket lefedve. Kereskedésenkénti illesztés kereskedő- és ügyfél-azonosítókhoz; árhatás-becslés ügyfélen belül; kereszt-ügyfél költség-felbontás méret, komplexitás és identitás komponenseire. Néhány millió tranzakció körülbelül 5 000 ügyfél között.",
+  "policy_relevance": "Relevant for the MNB Foreign Exchange and Money Market Operations Department when designing its government-bond purchase operations under tightening cycles, and for the ÁKK (Hungarian Government Debt Management Agency) when calibrating issuance size and timing. The paper's evidence that within-client price impact rises with trade size — but cross-client size discounts make small clients overpay — argues for execution algorithms that randomise issuance size and dealer selection.",
+  "policy_relevance_hu": "Releváns az MNB Devizapiaci és Pénzpiaci Műveletek Igazgatóságának az állampapír-vásárlási műveletek tervezéséhez szigorítási ciklusokban, és az ÁKK-nak (Államadósság Kezelő Központ) a kibocsátási méret és időzítés kalibrálásához. A tanulmány bizonyítéka, hogy az ügyfélen belüli árhatás nő a kereskedés méretével — de a kereszt-ügyfél méretkedvezmények miatt a kis ügyfelek túlfizetnek — amellett érvel, hogy a végrehajtási algoritmusok randomizálják a kibocsátási méretet és a kereskedő-választást.",
+  "topics": [
+    "banking-finance",
+    "industrial-organization",
+    "macroeconomics"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "GB"
+  ],
+  "data_types": [
+    "admin-firm",
+    "digital-trace"
+  ],
+  "featured": false,
+  "added_at": "2026-05-11",
+  "last_reviewed_at": "2026-05-11",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4393376093"
+}

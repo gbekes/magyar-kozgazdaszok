@@ -36,10 +36,11 @@ An author is admitted if they have **at least one publication** in any journal o
 - Journal of Economic Perspectives
 - Theoretical Economics
 - AEA Papers and Proceedings
+- Journal of International Economics (top field journal in trade — promoted from Tier B)
 
 **Tier B — top field journals:**
 - _Labor_: Journal of Labor Economics, Labour Economics, Journal of Human Resources
-- _Trade / international_: Journal of International Economics, Review of International Economics
+- _Trade / international_: Review of International Economics
 - _Finance_: Journal of Finance, Review of Financial Studies, Journal of Financial Economics, Review of Finance, Journal of International Money and Finance, Finance Research Letters, Journal of International Financial Markets Institutions & Money, Emerging Markets Review
 - _Macro / monetary_: Journal of Monetary Economics, Journal of Money, Credit and Banking
 - _IO_: RAND Journal of Economics, International Journal of Industrial Organization
@@ -63,6 +64,7 @@ Store the full list as `data/journals.json` so it is editable without code chang
 Rationale: the top-journal criterion (i) signals that the author has cleared a high editorial bar at least once; the volume criterion (ii) signals a sustained record of internationally-refereed work in the field. Either alone is too easy — a single lucky placement isn't a research career, and three workshop-tier publications aren't recognisable as one. The two together require both peak quality and consistency. Once admitted, all of the author's peer-reviewed papers and recent working papers are eligible for the catalogue (filter later in the UI). The journal whitelist is a guide, not a gate — borderline admissions remain editorial decisions.
 
 **Recent changes to this list:**
+- 2026-05-11: Journal of International Economics promoted from Tier B to Tier A — it is the top field journal in international trade and sits at the immediate-peers level alongside JEEA, RES, EJ.
 - 2026-04-27: Tightened condition (ii) from "3 peer-reviewed English articles in any econ/finance/mgmt journal" to "3 publications in international good journals (on `data/journals.json`, excluding `B-hu`)".
 - 2026-04-26: Admission rule tightened from OR to AND — both (i) and (ii) now required (previously either was sufficient).
 - Added to Tier A: International Economic Review, Review of Economics and Statistics, Journal of Economic Perspectives, Theoretical Economics, AEA Papers and Proceedings.

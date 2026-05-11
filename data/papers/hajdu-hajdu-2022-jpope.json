@@ -1,0 +1,47 @@
+{
+  "id": "hajdu-hajdu-2022-jpope",
+  "title": "Temperature, climate change, and human conception rates: evidence from Hungary",
+  "authors": [
+    "hajdu-tamas",
+    "hajdu-gabor"
+  ],
+  "publication_type": "article",
+  "journal": "Journal of Population Economics",
+  "year": 2022,
+  "volume": "35",
+  "issue": "4",
+  "pages": "1751-1776",
+  "doi": "10.1007/s00148-020-00814-1",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1007/s00148-020-00814-1",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Does hotter weather suppress conception? Hajdu and Hajdu link monthly Hungarian birth records 1981-2014 to local temperature data and estimate how heat exposure 9-10 months before birth changes conception rates. Hot months (mean above 25°C) reduce conceptions by about 10 % relative to a 15°C baseline. The effect is concentrated in summer-conceived first-trimester pregnancies. Under medium-pace climate-warming scenarios the implied direct effect on Hungarian fertility is small but negative. Tight identification — within-region, within-calendar-month variation — and a clean Hungarian micro-data application of a question previously studied mostly on US data.",
+  "summary_hu": "Visszafogja-e a melegebb idő a fogantatást? Hajdu és Hajdu összekapcsolja az 1981–2014 közötti havi magyar születési adatokat a helyi hőmérsékleti adatokkal, és megbecsüli, hogy a születés előtti 9–10 hónapos hőterhelés hogyan változtatja a fogantatási arányokat. A meleg hónapok (átlag 25 °C felett) a fogantatást körülbelül 10 %-kal csökkentik a 15 °C-os referenciához képest. A hatás a nyári fogantatású első trimeszteres terhességekre koncentrálódik. Mérsékelt ütemű klímamelegedési forgatókönyvek mellett az implikált közvetlen hatás a magyar termékenységre kicsi, de negatív. Szoros identifikáció — régión belüli, naptári hónapon belüli variáció — és tiszta magyar mikroadat-alkalmazása egy korábban főleg amerikai adatokon vizsgált kérdésnek.",
+  "data_used": "Monthly Hungarian administrative birth-record data 1981-2014 from KSH, merged with local-area daily temperature data from the Hungarian Meteorological Service (OMSZ). Identifying variation: within-region, within-calendar-month deviations in temperature from the local long-run mean. Robustness checks on alternative temperature thresholds and on intra-year displacement effects.",
+  "data_used_hu": "Havi magyar adminisztratív születési-rekord adatok 1981–2014 között a KSH-tól, helyi szintű napi hőmérsékleti adatokkal összekapcsolva az Országos Meteorológiai Szolgálattól (OMSZ). Identifikációs variáció: régión belüli, naptári hónapon belüli hőmérséklet-eltérések a helyi hosszú távú átlagtól. Robusztussági tesztek alternatív hőmérsékleti küszöbökre és éven belüli kiszorítási hatásokra.",
+  "policy_relevance": "Direct input for KSH demographic projections and for the EMMI / Belügyminisztérium Family Strategy 2030 planning round. The paper quantifies a climate-warming channel for Hungarian fertility separate from social/economic drivers — small in magnitude but non-zero, with regional variation that maps onto KSH's NUTS-3 climate-vulnerability planning. Relevant also to MNB long-run demographic scenarios.",
+  "policy_relevance_hu": "Közvetlen input a KSH demográfiai vetítéseihez és az EMMI / Belügyminisztérium 2030-as Családstratégia tervezési köréhez. A tanulmány a klímamelegedés egy magyar termékenységi csatornáját számszerűsíti, amely elkülönül a társadalmi/gazdasági tényezőktől — kis mértékű, de nem nulla, regionális variációval, amely illeszkedik a KSH NUTS-3 klímasebezhetőségi tervezéséhez. Releváns az MNB hosszú távú demográfiai forgatókönyveihez is.",
+  "topics": [
+    "demographics-migration",
+    "energy-environment",
+    "health"
+  ],
+  "methods": [
+    "panel-data",
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual",
+    "macro-aggregate"
+  ],
+  "featured": false,
+  "added_at": "2026-05-11",
+  "last_reviewed_at": "2026-05-11",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3024587671"
+}
