@@ -1,0 +1,50 @@
+{
+  "id": "csurilla-ferto-et-al-2026-scirep",
+  "title": "Human values and physical activity before and during COVID-19 restrictions in Hungary",
+  "authors": [
+    "csurilla-gergely",
+    "ferto-imre",
+    "Zsófia Benedek",
+    "József Fogarasi",
+    "Zoltán Bakucs"
+  ],
+  "publication_type": "article",
+  "journal": "Scientific Reports",
+  "year": 2026,
+  "volume": "16",
+  "issue": "1",
+  "pages": null,
+  "doi": "10.1038/s41598-026-41883-8",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1038/s41598-026-41883-8",
+  "url_pdf": "https://www.nature.com/articles/s41598-026-41883-8.pdf",
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Did the COVID-19 lockdown change *who* exercised, and how did that depend on people's underlying values? Csurilla, Fertő, Benedek, Fogarasi and Bakucs use Hungarian survey-panel data spanning before and during the COVID-19 restrictions, with Schwartz human-values items linked to self-reported physical activity. Two findings: pre-pandemic, activity rates differed across values clusters in expected ways (achievement / self-direction-oriented people exercised more). Under restrictions, that gradient flattened — values-typical patterns of physical activity were disrupted by the constraint, not just shifted. The paper documents a value × constraint interaction that public-health communication during restriction periods should account for.",
+  "summary_hu": "Megváltoztatta-e a COVID-19 lezárás, hogy *kik* sportolnak, és hogyan függött ez az emberek alapértékeitől? Csurilla, Fertő, Benedek, Fogarasi és Bakucs magyar kérdőíves paneladatokat használ a COVID-19 korlátozások előtti és alatti időszakra, a Schwartz emberi-érték elemekhez kapcsolva az önbevallott fizikai aktivitást. Két megállapítás: a járvány előtt az aktivitási arányok várt módon különböztek érték-klaszterek között (a teljesítmény- és önirányítás-orientált emberek többet sportoltak). A korlátozások alatt ez a gradiens ellaposodott — a fizikai aktivitás érték-tipikus mintázatait a korlátozás megzavarta, nem csak eltolta. A tanulmány érték × korlát interakciót dokumentál, amelyet a korlátozási időszakok közegészségügyi kommunikációjának figyelembe kell vennie.",
+  "data_used": "Hungarian survey-panel data covering 2018-2021, with respondents tracked through the COVID-19 restriction period. Schwartz human-values inventory items linked to self-reported physical-activity frequency and duration. Difference-in-differences between pre- and during-restriction observations, with values-cluster heterogeneity.",
+  "data_used_hu": "Magyar kérdőíves paneladatok 2018–2021 között, a válaszadókat a COVID-19 korlátozási időszakon át követve. Schwartz emberi-érték kérdőív-elemek az önbevallott fizikai-aktivitási gyakorisághoz és időtartamhoz kapcsolva. Difference-in-differences a korlátozás előtti és alatti megfigyelések között, érték-klaszter heterogenitással.",
+  "policy_relevance": "Input for the NNK (Nemzeti Népegészségügyi Központ) and the Belügyminisztérium Sportért Felelős Államtitkársága when designing public-health-activity communication during emergency / restriction periods. The paper's central message — that constraint flattens values-typical activity patterns — argues for broader (not values-segmented) communication strategies during lockdown phases, and for re-segmentation when restrictions lift. Useful for the Hungarian Health Promotion Strategy's pandemic-preparedness module.",
+  "policy_relevance_hu": "Input az NNK (Nemzeti Népegészségügyi Központ) és a Belügyminisztérium Sportért Felelős Államtitkársága számára a korlátozási / vészhelyzeti időszakok közegészségügyi-aktivitási kommunikációjának tervezéséhez. A tanulmány központi üzenete — hogy a korlát ellaposítja az érték-tipikus aktivitási mintázatokat — szélesebb (nem érték-szegmentált) kommunikációs stratégia mellett érvel a lezárási fázisokban, és újra-szegmentálás mellett, amikor a korlátozások enyhülnek. Hasznos a Magyar Egészségfejlesztési Stratégia járvány-felkészültségi moduljához.",
+  "topics": [
+    "health",
+    "behavioral",
+    "demographics-migration"
+  ],
+  "methods": [
+    "diff-in-diff",
+    "panel-data",
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "survey"
+  ],
+  "featured": false,
+  "added_at": "2026-05-12",
+  "last_reviewed_at": "2026-05-12",
+  "review_status": "ai-drafted",
+  "openalex_id": "W7132855357"
+}

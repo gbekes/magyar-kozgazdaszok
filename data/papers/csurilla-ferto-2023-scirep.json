@@ -1,0 +1,44 @@
+{
+  "id": "csurilla-ferto-2023-scirep",
+  "title": "The less obvious effect of hosting the Olympics on sporting performance",
+  "authors": [
+    "csurilla-gergely",
+    "ferto-imre"
+  ],
+  "publication_type": "article",
+  "journal": "Scientific Reports",
+  "year": 2023,
+  "volume": "13",
+  "issue": "1",
+  "pages": "819",
+  "doi": "10.1038/s41598-022-27259-8",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1038/s41598-022-27259-8",
+  "url_pdf": "https://www.nature.com/articles/s41598-022-27259-8.pdf",
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Does hosting the Olympic Games actually boost the host country's medal count for years afterwards, or is the 'home advantage' confined to the Games themselves? Csurilla and Fertő assemble medal-count panels for 1996-2020 across summer-Olympic host countries plus controls. The obvious effect (home Games → more medals at home) is well known. The less-obvious result: hosting raises the country's medal count at the next 1-2 Games abroad too, but the bump fades by Games 3-4. The lift is concentrated in sports the host invested in. Hosting buys a temporary, sport-specific boost — not a long-run programme.",
+  "summary_hu": "Tényleg megnöveli-e az olimpia rendezése a házigazda éremszámát évekkel a Játékok után, vagy a „hazai előny” csak az adott olimpiára szól? Csurilla és Fertő éremszám-panelt állít össze 1996–2020-ra a nyári olimpia házigazda országaira és kontrollcsoporttal. A nyilvánvaló hatás (hazai Játékok → több hazai érem) jól ismert. A kevésbé nyilvánvaló eredmény: a rendezés növeli az ország éremszámát a következő 1–2 külföldi Játékon is, de a lökés a 3–4. Játékra elhalványul. Az emelés azokra a sportágakra koncentrálódik, amelyekbe a házigazda befektetett. A rendezés átmeneti, sportág-specifikus lendületet ad — nem hosszú távú programot.",
+  "data_used": "Country-level Olympic medal-count panel 1996-2020 for summer Games hosts (Atlanta, Sydney, Athens, Beijing, London, Rio, Tokyo) and a synthetic-control group. Difference-in-differences around hosting event with country and Games fixed effects. Sub-decomposition by sport category (team / individual, host-investment-intensive sports).",
+  "data_used_hu": "Ország-szintű olimpiai éremszám-panel 1996–2020-ra a nyári Játékok házigazdáira (Atlanta, Sydney, Athén, Peking, London, Rio, Tokió) és szintetikus kontrollcsoporttal. Difference-in-differences a rendezési esemény körül ország- és Játék-fix hatásokkal. Aldekompozíció sportkategória szerint (csapatos / egyéni, házigazda-beruházás-intenzív sportágak).",
+  "policy_relevance": "For the Belügyminisztérium Sportért Felelős Államtitkársága and HOC (Hungarian Olympic Committee) when assessing bid economics. The paper's central finding — that hosting boosts medal performance for ~2 cycles in invested-in sports, then fades — implies that bid-economics models overestimate the long-run sporting return. A 2-cycle post-Games competitive advantage is what countries should price in, not a decade-long programme effect.",
+  "policy_relevance_hu": "A Belügyminisztérium Sportért Felelős Államtitkársága és a MOB (Magyar Olimpiai Bizottság) számára pályázat-gazdaságtan értékeléséhez. A tanulmány központi megállapítása — hogy a rendezés ~2 ciklusra emeli az éremteljesítményt a beruházott sportágakban, majd elhalványul — azt sugallja, hogy a pályázat-gazdaságtani modellek túlbecsülik a hosszú távú sport-megtérülést. A 2 ciklus utáni versenyelőnnyel kell számolni, nem egy évtizedes programhatással.",
+  "topics": [
+    "behavioral",
+    "regional-urban",
+    "industrial-organization"
+  ],
+  "methods": [
+    "diff-in-diff",
+    "panel-data"
+  ],
+  "countries_studied": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
+  "featured": false,
+  "added_at": "2026-05-12",
+  "last_reviewed_at": "2026-05-12",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4318979373"
+}

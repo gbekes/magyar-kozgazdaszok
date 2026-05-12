@@ -54,16 +54,21 @@ An author is admitted if they have **at least one publication** in any journal o
 - _Environment_: Journal of Environmental Economics and Management, Journal of the Association of Environmental and Resource Economists
 - _Economic history_: Journal of Economic History, Explorations in Economic History, European Review of Economic History
 
+**Tier C — "good" tier:** respectable international peer-reviewed journals that are *not* in the top of their field but still represent genuine internationally-refereed work. Examples: Applied Economics, Scientific Reports, PLOS ONE, BMC Public Health, Journal of Sports Economics, Food Policy, Social Science Quarterly, Eastern European Economics. Tier C **does not satisfy criterion (i)** but **does count toward criterion (ii)**.
+
+**Tier B-hu:** Hungarian-language domestic outlets (Közgazdasági Szemle, Szigma, Külgazdaság). Excluded from criterion (ii) — they reflect domestic reach, not internationally-refereed work.
+
 Store the full list as `data/journals.json` so it is editable without code changes.
 
 **Admission rule:** an author is admitted if **both** conditions hold:
 
-- (i) at least one publication in a journal on the Tier A / Tier B list above, **and**
-- (ii) at least **3 publications in international, peer-reviewed good journals** — i.e., journals that appear on `data/journals.json` (any tier), excluding `B-hu` (Hungarian-language outlets like *Közgazdasági Szemle* or *Acta Oeconomica*, which are domestic regardless of peer review).
+- (i) at least one publication in a journal on the Tier A / Tier B list above (the **top-publication test**), **and**
+- (ii) at least **3 publications** in international, peer-reviewed journals on `data/journals.json` of any tier (A, B, or C), **excluding** Tier B-hu (the **volume test**).
 
-Rationale: the top-journal criterion (i) signals that the author has cleared a high editorial bar at least once; the volume criterion (ii) signals a sustained record of internationally-refereed work in the field. Either alone is too easy — a single lucky placement isn't a research career, and three workshop-tier publications aren't recognisable as one. The two together require both peak quality and consistency. Once admitted, all of the author's peer-reviewed papers and recent working papers are eligible for the catalogue (filter later in the UI). The journal whitelist is a guide, not a gate — borderline admissions remain editorial decisions.
+Rationale: the top-publication criterion (i) signals that the author has cleared a high editorial bar at least once; the volume criterion (ii) signals a sustained record of internationally-refereed work in the field. Either alone is too easy — a single lucky placement isn't a research career, and three workshop-tier publications aren't recognisable as one. The two together require both peak quality and consistency. Once admitted, all of the author's peer-reviewed papers and recent working papers are eligible for the catalogue (filter later in the UI). The journal whitelist is a guide, not a gate — borderline admissions remain editorial decisions.
 
 **Recent changes to this list:**
+- 2026-05-12: Tier C formalised in the SPEC (was already used in `data/journals.json`). Applied Economics moved B→C (broad generalist outlet, not a top field journal). Scientific Reports moved C→B (broad-science but with PNAS-like gatekeeping; comparable to Nature Communications). Added: American Journal of Agricultural Economics (B), Food Policy (C), Journal of Sports Economics (C), Social Science Quarterly (C).
 - 2026-05-11: Journal of International Economics promoted from Tier B to Tier A — it is the top field journal in international trade and sits at the immediate-peers level alongside JEEA, RES, EJ.
 - 2026-04-27: Tightened condition (ii) from "3 peer-reviewed English articles in any econ/finance/mgmt journal" to "3 publications in international good journals (on `data/journals.json`, excluding `B-hu`)".
 - 2026-04-26: Admission rule tightened from OR to AND — both (i) and (ii) now required (previously either was sufficient).
