@@ -35,6 +35,41 @@
         <p class="small muted">Technical detail for the curious: your email becomes a file in <code>submissions/</code>, Claude Code parses it and opens the right JSON edits, Gábor reviews the diff and pushes. The entire review gate is one editor reading the proposed change on a GitHub pull-request diff.</p>
       </section>
 
+      <h2>If you want to help develop the catalogue further</h2>
+      <p>Once your own page is in shape, the catalogue's biggest gap is what AI can't catch: domain judgment and tacit field knowledge. If you have a few hours and want to spend them well, here are the four tasks where an expert hour is worth ten of ours.</p>
+
+      <ol>
+        <li>
+          <strong>Walk a topic page in your field</strong> (~3 hours). Pick one of the 21 topics — labor-markets, banking-finance, demographics-migration, fiscal-tax, whichever matches your training. Read each paper's <em>summary</em> and <em>policy relevance</em>, and flag mistakes with simple labels:
+          <ul>
+            <li><code>WRONG-CLAIM</code> — the summary describes the paper's finding incorrectly.</li>
+            <li><code>HALLUCINATED-HU</code> — the summary invents Hungarian relevance that isn't there.</li>
+            <li><code>WEAK-POLICY</code> — the <em>policy relevance</em> is too generic; a 2–3-sentence rewrite would help.</li>
+            <li><code>WRONG-TOPIC</code> — the paper is mis-tagged.</li>
+          </ul>
+          One line per flagged paper is plenty. We do the rewrites.
+        </li>
+
+        <li>
+          <strong>Missing economists in your field</strong> (~1.5 hours). Who clears the bar (one top-journal placement plus three internationally peer-reviewed publications) and isn't here? Send the name, a Scholar or RePEc link, and one or two top journals. Admission is an editorial call.
+        </li>
+
+        <li>
+          <strong>Mis-classified or missing policy / press items</strong> (~30 min – 1 hour). Munkaerőpiaci Tükör / KTI MT-DP chapters we've classified wrongly or missed entirely. Plus media items (Portfolio, ÉS, Qubit, 444, G7, podcasts) about catalogue papers that aren't linked yet.
+        </li>
+
+        <li>
+          <strong>Hungarian-language review</strong> (~1 hour). The HU summaries are partly AI-translated. Read a few in your field and flag clumsy phrasing, wrong technical terms, or translations that obscure the meaning. Especially valuable on institution names, policy-instrument names, and field jargon. One-line notes per flagged paper.
+        </li>
+      </ol>
+
+      <p><strong>One language is enough.</strong> Send your notes in English or Hungarian, whichever is faster. No need to handle both sides.</p>
+
+      <p><strong>What we don't ask for:</strong> bulk rewrites (just flag; we'll fix), journal-whitelist suggestions (editorial), or general "what do you think" feedback. Concrete, paper-level flags are worth 100× more.</p>
+
+      <h3>Handoff</h3>
+      <p>Plain Markdown, two channels: <strong>email</strong> to <a href="mailto:bekesg@ceu.edu">bekesg@ceu.edu</a>, or <strong>open a <a href="https://github.com/gbekes/magyar-kozgazdaszok/issues" target="_blank" rel="noopener">GitHub issue</a></strong>. For a worked example of the format, see <a href="https://github.com/gbekes/magyar-kozgazdaszok/blob/main/submissions/DONE/2026-05-11-boza-istvan.md" target="_blank" rel="noopener">Boza István's 2026-05-11 submission</a>.</p>
+
       <h2>If you're anyone else</h2>
       <p>Readers, policymakers, journalists, students — all corrections and suggestions welcome, through one of these channels:</p>
       <ul>

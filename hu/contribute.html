@@ -35,6 +35,41 @@
         <p class="small muted">Technikai részlet az érdeklődőknek: az e-mailed egy fájlba kerül a <code>submissions/</code> mappában, Claude Code feldolgozza és elvégzi a JSON-szerkesztéseket, Gábor átnézi a diff-et és push-ol. A review-gate egy szerkesztő, aki a GitHub pull-request diff-et elolvassa.</p>
       </section>
 
+      <h2>Ha tovább szeretnél segíteni a katalógus fejlesztésében</h2>
+      <p>Miután a saját oldalad rendben van, a katalógus legnagyobb hiányossága az, amit az AI nem tud kiszúrni: a szakmai megítélés és a hallgatólagos szakterületi tudás. Ha van néhány órád, itt a négy feladat, ahol a szakértői óra tízszer többet ér, mint a miénk.</p>
+
+      <ol>
+        <li>
+          <strong>Sétálj végig egy téma-oldalon a saját szakterületeden</strong> (~3 óra). Válassz egyet a 21 téma közül — munkapiac, pénzügy, demográfia, fiskális, amelyik a képzettségedhez illik — és minden papernél olvasd át a <em>summary</em>-t és a <em>szakpolitikai relevanciát</em>. Egyszerű címkékkel jelöld a hibákat:
+          <ul>
+            <li><code>WRONG-CLAIM</code> — az összefoglaló rosszul írja le a cikk eredményét.</li>
+            <li><code>HALLUCINATED-HU</code> — az összefoglaló kitalál magyar relevanciát, amit a cikk nem támaszt alá.</li>
+            <li><code>WEAK-POLICY</code> — a <em>szakpolitikai relevancia</em> túl általános; 2–3 mondatos átfogalmazás kéne.</li>
+            <li><code>WRONG-TOPIC</code> — rossz tematikai besorolás.</li>
+          </ul>
+          Egy sor per jelölt paper elég. Az átírást mi csináljuk.
+        </li>
+
+        <li>
+          <strong>Hiányzó kollégák a szakterületeden</strong> (~1,5 óra). Ki teljesíti a feltételt (egy top-folyóirat-publikáció plusz három nemzetközi lektorált) és nincs még itt? Egy név, egy Scholar/RePEc link, 1–2 top folyóirat. A felvétel szerkesztői döntés.
+        </li>
+
+        <li>
+          <strong>Rosszul besorolt vagy hiányzó policy / press tételek</strong> (~30 perc – 1 óra). Rosszul besorolt vagy teljesen hiányzó Munkaerőpiaci Tükör / KTI MT-DP fejezetek. Plusz: katalógusbéli paperekhez tartozó média-megjelenések (Portfolio, ÉS, Qubit, 444, G7, podcast), amik még nincsenek linkelve.
+        </li>
+
+        <li>
+          <strong>Magyar nyelvű review</strong> (~1 óra). A magyar összefoglalók részben AI-fordítottak. Olvass át párat a szakterületeden, és jelöld a sutaságot, a rossz szakszavakat, vagy azt, ha a fordítás eltakarja a jelentést. Különösen hasznos intézménynevek, szakpolitikai eszközök neve, és szakzsargon esetén. Egysoros megjegyzések paperenként.
+        </li>
+      </ol>
+
+      <p><strong>Elég egy nyelven.</strong> Magyarul vagy angolul, ahogy kényelmesebb. Nem várjuk el, hogy mindkettőt karbantartsd.</p>
+
+      <p><strong>Amit nem kérünk:</strong> bulk átírás (csak flag-elj, mi javítjuk), folyóirat-lista módosítás (szerkesztői), vagy általános „tetszik / nem tetszik" feedback. A konkrét, paper-szintű flag-ek 100× hasznosabbak.</p>
+
+      <h3>Visszaküldés</h3>
+      <p>Plain Markdown, két csatorna: <strong>email</strong> a <a href="mailto:bekesg@ceu.edu">bekesg@ceu.edu</a> címre, vagy <strong>nyiss egy <a href="https://github.com/gbekes/magyar-kozgazdaszok/issues" target="_blank" rel="noopener">GitHub-issue</a>-t</strong>. A bevált formátumra példa: <a href="https://github.com/gbekes/magyar-kozgazdaszok/blob/main/submissions/DONE/2026-05-11-boza-istvan.md" target="_blank" rel="noopener">Boza István 2026-05-11 submissionje</a>.</p>
+
       <h2>Ha bárki más vagy</h2>
       <p>Olvasók, döntéshozók, újságírók, diákok — minden javítás és javaslat jöhet ezeken az utakon:</p>
       <ul>
