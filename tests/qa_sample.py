@@ -49,12 +49,13 @@ DATA_TYPES = {"admin-firm", "admin-tax", "admin-individual", "survey",
               "digital-trace", "historical"}
 SEMANTIC_COUNTRIES = {"GLOBAL", "global", "EU", "CEE", "TRANSITION"}
 HU_INSTITUTIONS = {
-    "MNB", "KSH", "NGM", "ITM", "NEAK", "NAV", "KRTK", "HIPA", "NKFIH",
-    "AM", "EMMI", "BÉT", "MFB", "MÁK", "BM", "ÁKK", "OEP", "ONYF",
-    "GVH", "KKM", "Pénzügyminisztérium", "Eximbank", "MEKH", "OFI",
-    "Belügyminisztérium", "Egészségügyi", "Államtitkárság", "OKM",
-    "PSZÁF", "Magyar Államkincstár", "Magyar Nemzeti Bank",
-    "Köznevelési", "Oktatási Hivatal", "ETDA", "EBH", "ÁSZ",
+    "MNB", "KSH", "NGM", "ITM", "NEAK", "NAV", "KRTK", "HIPA", "HEPA",
+    "NKFIH", "AM", "EMMI", "BÉT", "MFB", "MÁK", "BM", "ÁKK", "OEP",
+    "ONYF", "GVH", "KKM", "Pénzügyminisztérium", "Eximbank", "MEKH",
+    "OFI", "Belügyminisztérium", "Egészségügyi", "Államtitkárság",
+    "OKM", "PSZÁF", "Magyar Államkincstár", "Magyar Nemzeti Bank",
+    "Köznevelési", "Oktatási Hivatal", "ETDA", "EBH", "ÁSZ", "NNK",
+    "OBA", "BKK", "MÁV", "GFM", "Innovációs Minisztérium",
 }
 REVIEW_STATUSES = {"metadata-fetched", "ai-drafted", "human-reviewed",
                    "author-approved"}
