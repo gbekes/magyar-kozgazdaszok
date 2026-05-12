@@ -1,0 +1,47 @@
+{
+  "id": "chetty-sandor-szeidl-2017-jof",
+  "title": "The effect of housing on portfolio choice",
+  "authors": [
+    "Raj Chetty",
+    "sandor-laszlo",
+    "szeidl-adam"
+  ],
+  "publication_type": "article",
+  "journal": "Journal of Finance",
+  "year": 2017,
+  "volume": "72",
+  "issue": "3",
+  "pages": "1171-1212",
+  "doi": "10.1111/jofi.12500",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1111/jofi.12500",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "How does owning a house change how a household holds the rest of its wealth — in stocks, in cash, in safer assets? Chetty, Sándor and Szeidl decompose the answer using US Survey of Consumer Finances data and a sharp identification strategy. Rising property values, holding mortgage debt fixed, *raise* stockholding — the wealth effect dominates. Rising mortgage debt, holding property value fixed, *reduces* stockholding — the leverage effect. The two effects offset, so simple cross-sectional correlations between homeownership and stockholding hide a meaningful structural relationship. Standard portfolio-choice models that ignore housing wealth and mortgage debt as separate moving parts get the household-finance picture wrong.",
+  "summary_hu": "Hogyan változtatja meg a házbirtoklás, hogy egy háztartás miben tartja a vagyona maradékát — részvényekben, készpénzben, biztonságosabb eszközökben? Chetty, Sándor és Szeidl az amerikai Survey of Consumer Finances adatait használja a válasz felbontására, éles azonosítási stratégiával. Az emelkedő ingatlanértékek, a jelzáloghitel-tartozást rögzítve, *növelik* a részvénytartást — a vagyonhatás dominál. Az emelkedő jelzáloghitel-tartozás, az ingatlanértéket rögzítve, *csökkenti* a részvénytartást — a tőkeáttételi hatás. A két hatás kiegyenlíti egymást, így a házbirtoklás és a részvénytartás közötti egyszerű keresztmetszeti korrelációk elrejtik az érdemi strukturális kapcsolatot. A standard portfólió-választási modellek, amelyek figyelmen kívül hagyják a lakásvagyont és a jelzáloghitel-tartozást mint elkülönült mozgó részeket, rosszul rajzolják meg a háztartási-pénzügyi képet.",
+  "data_used": "US Survey of Consumer Finances triennial waves 1989-2010 plus PSID household panel data. Identification: instrumental-variable strategy exploiting local-market house-price variation interacted with predicted household mobility to isolate the wealth effect from the leverage effect. Sample of approximately 30 000 household-year observations.",
+  "data_used_hu": "Amerikai Survey of Consumer Finances háromévenkénti hullámok 1989–2010 között, plusz PSID háztartási panel-adatok. Identifikáció: instrumentális-változós stratégia, amely a helyi piaci háriár-variációt interakcióba állítja a háztartás előrejelzett mobilitásával, hogy elválassza a vagyonhatást a tőkeáttételi hatástól. Mintegy 30 000 háztartás-év megfigyelés.",
+  "policy_relevance": "Reference for the MNB Macroprudential Council and the Pénzügyi Stabilitási Tanács when calibrating LTV/DTI rules. The paper shows that the relationship between housing wealth and household financial-asset allocation has both wealth and leverage components that move in opposite directions — both should be considered when policy tools target one or the other. Hungarian retail-investor allocations between MÁP+ government bonds and equity-index funds are influenced by exactly this kind of housing-wealth channel.",
+  "policy_relevance_hu": "Hivatkozás az MNB Pénzügyi Stabilitási Tanácsának az LTV/DTI szabályok kalibrálásakor. A tanulmány megmutatja, hogy a lakásvagyon és a háztartási pénzügyi eszköz-allokáció közötti kapcsolatnak van vagyon- és tőkeáttételi komponense is, amelyek ellentétes irányba mozognak — mindkettőt figyelembe kell venni, amikor a szakpolitikai eszközök egyiket vagy másikat célozzák. A magyar lakossági befektetők MÁP+ állampapír és részvényindex-alap közötti allokációját pontosan ez a lakásvagyon-csatorna befolyásolja.",
+  "topics": [
+    "banking-finance",
+    "regional-urban"
+  ],
+  "methods": [
+    "iv",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "survey",
+    "admin-individual"
+  ],
+  "featured": true,
+  "added_at": "2026-05-12",
+  "last_reviewed_at": "2026-05-12",
+  "review_status": "ai-drafted",
+  "openalex_id": "W3023874919"
+}
