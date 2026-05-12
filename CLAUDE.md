@@ -23,12 +23,15 @@ Editor: Gábor Békés.
   `verify_authors.py`.
 - `submissions/` — author-correction queue (free-text files in, processed
   entries out to gitignored `DONE/`).
-- `SPEC.md`, `WORKFLOW.md`, `TAXONOMY.md`, `BUILD.md`, `VISION.md` — docs.
+- `SPEC.md` — schemas, vocabularies, admission rule (root).
+- `docs/development/` — `WORKFLOW.md`, `TAXONOMY.md`, `BUILD.md`,
+  `VISION.md`, `SEED_ECONOMISTS.md`, `DEEPL.md`, `OUTREACH.md`,
+  `hu-econ-verifier.skill`, `sample-*.json`.
 - `.claude/skills/` — project skills (`research-author`, `audit-author`,
   `draft-summary`, `media-scan`). See [.claude/skills/README.md](.claude/skills/README.md)
-  for what they do and when each fires. Plus the standalone
-  `hu-econ-verifier.skill` at the repo root for eligibility / paper-existence
-  checks.
+  for what they do and when each fires. The standalone
+  `hu-econ-verifier.skill` (now in `docs/development/`) covers
+  eligibility / paper-existence checks.
 
 ## Conventions
 

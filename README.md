@@ -33,12 +33,12 @@ Open <http://localhost:8080/>. Hungarian mirror at `/hu/`.
 
 Docs:
 
-- [**VISION.md**](VISION.md) — what and why (audience, scope, open questions)
+- [**VISION.md**](docs/development/VISION.md) — what and why (audience, scope, open questions)
 - [**SPEC.md**](SPEC.md) — inclusion criteria, data schemas, tech stack, site UX
-- [**WORKFLOW.md**](WORKFLOW.md) — how content gets from a name to a paper page
-- [**TAXONOMY.md**](TAXONOMY.md) — the controlled vocabularies (topics, methods, data types)
-- [**SEED_ECONOMISTS.md**](SEED_ECONOMISTS.md) — starter roster with sources
-- [**BUILD.md**](BUILD.md) — how to run locally and how to use the ingestion pipeline
+- [**WORKFLOW.md**](docs/development/WORKFLOW.md) — how content gets from a name to a paper page
+- [**TAXONOMY.md**](docs/development/TAXONOMY.md) — the controlled vocabularies (topics, methods, data types)
+- [**SEED_ECONOMISTS.md**](docs/development/SEED_ECONOMISTS.md) — starter roster with sources
+- [**BUILD.md**](docs/development/BUILD.md) — how to run locally and how to use the ingestion pipeline
 
 ## Adding a paper
 
@@ -62,7 +62,7 @@ python scripts/ingest.py run <author_id> --max-works 10
 python build.py
 ```
 
-Full workflow and safety guarantees are described in [BUILD.md](BUILD.md).
+Full workflow and safety guarantees are described in [BUILD.md](docs/development/BUILD.md).
 
 ## Deploy
 

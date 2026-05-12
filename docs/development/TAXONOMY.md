@@ -105,7 +105,7 @@ Multi-country papers get multiple tags. A paper on HU + PL + CZ gets `HU`, `PL`,
 
 ## 6. Auto-tagging guidance (for AI workflow)
 
-When the AI ingestion pipeline (`docs/WORKFLOW.md`) suggests tags from an abstract:
+When the AI ingestion pipeline (`WORKFLOW.md`) suggests tags from an abstract:
 
 - Start from topic. One primary topic is usually obvious; the 2nd and 3rd are where judgment comes in.
 - Method tag: look at the abstract for trigger words (RCT, randomize, difference-in-differences, regression discontinuity, instrument, structural, equilibrium, estimate, calibrate, panel, time series, VAR).

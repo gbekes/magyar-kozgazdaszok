@@ -182,7 +182,7 @@ Not a replacement for `topics` — it's additive.
   at least one language is on. Only changed via a submission from the
   author.
 
-### 2.3 Topic schema (static, curated — see `TAXONOMY.md`)
+### 2.3 Topic schema (static, curated — see `docs/development/TAXONOMY.md`)
 
 ```json
 {
@@ -404,7 +404,7 @@ Writing rules:
 - For policy relevance, be specific about _who_ would use it (ministry, agency) and _how_ (design of program X, target Y)
 - Never copy from the abstract. Paraphrase entirely.
 
-AI prompt template in `docs/WORKFLOW.md` § 3.
+AI prompt template in `docs/development/WORKFLOW.md` § 3.
 
 ---
 

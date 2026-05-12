@@ -14,9 +14,14 @@ env/
 .DS_Store
 Thumbs.db
 
-# Pipeline intermediate files
+# Pipeline intermediate files (per-batch inputs to apply_*.py scripts —
+# editorial decisions are recorded in the resulting commit, not in the
+# batch JSON, so these stay local-only).
 scripts/drafts_batch*.json
 scripts/drafts_*.json
+scripts/summaries_hu_*.json
+scripts/bios_hu.json
+scripts/backfill_instruments.json
 *.draft.txt
 
 # Author-submission archive (local-only record after processing)

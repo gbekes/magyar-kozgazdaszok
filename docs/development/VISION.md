@@ -36,7 +36,7 @@ Design decisions break in favor of audience 1 wherever they conflict.
 
 **"Hungarian" means:** Hungarian nationality, born in Hungary, or primary affiliation at a Hungarian institution for ≥3 years. Kept deliberately broad; diaspora counts.
 
-**Starting target: ~30 authors, ~300 papers by end of year one.** See `docs/SEED_ECONOMISTS.md` for the seed list.
+**Starting target: ~30 authors, ~300 papers by end of year one.** See `SEED_ECONOMISTS.md` for the seed list.
 
 ## Site map
 
@@ -61,7 +61,7 @@ Hungarian version at `/hu/...` mirroring the same structure. English and Hungari
 1. Astro + Tailwind + Pagefind scaffold (see `docs/SPEC.md` § Tech)
 2. JSON data model in `/data/papers/*.json` and `/data/authors/*.json` (schemas in `docs/SPEC.md`)
 3. All routes above, working against the JSON files
-4. Topic taxonomy wired in (15 areas from `docs/TAXONOMY.md`)
+4. Topic taxonomy wired in (15 areas from `TAXONOMY.md`)
 5. Client-side search via Pagefind
 6. Filter UI on `/papers` (topic, year, method at minimum)
 7. Seed with the two example JSONs in `/data/` + ~5 more hand-entered papers
@@ -73,9 +73,9 @@ Hungarian version at `/hu/...` mirroring the same structure. English and Hungari
 ## How to read the rest of this repo
 
 - `docs/SPEC.md` — the full technical spec: inclusion criteria, data schemas, tech stack, site structure
-- `docs/TAXONOMY.md` — policy areas, methods, data types, country tags
-- `docs/WORKFLOW.md` — how to go from "name of economist" to "paper entry on the site"
-- `docs/SEED_ECONOMISTS.md` — starter roster with sources
+- `TAXONOMY.md` — policy areas, methods, data types, country tags
+- `WORKFLOW.md` — how to go from "name of economist" to "paper entry on the site"
+- `SEED_ECONOMISTS.md` — starter roster with sources
 - `data/sample-paper.json` — example paper entry (use as template)
 - `data/sample-author.json` — example author entry (use as template)
 

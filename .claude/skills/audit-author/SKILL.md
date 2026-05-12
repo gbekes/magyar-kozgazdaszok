@@ -56,7 +56,7 @@ An author slug or name. Resolve name → slug via `data/authors/`.
   en.wikipedia.org, commons.wikimedia.org); fetch otherwise.
 - `repec_id`, `scholar_id`, `orcid` — present
 - `qualifying_publication` — non-null
-- `primary_fields` — at least one entry, all valid against `TAXONOMY.md`
+- `primary_fields` — at least one entry, all valid against `docs/development/TAXONOMY.md`
 - `review_status` — flag if `stub`
 - `deceased` / `died` — internally consistent
 

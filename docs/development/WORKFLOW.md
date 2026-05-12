@@ -22,7 +22,7 @@ Each stage is tracked in a simple state column on the `papers/*.json` file: `rev
 
 ## Stage 1 — Roster
 
-**Input:** the seed list in `docs/SEED_ECONOMISTS.md`.
+**Input:** the seed list in `SEED_ECONOMISTS.md`.
 
 **Process:**
 1. For each candidate name, check eligibility per `SPEC.md` § 1

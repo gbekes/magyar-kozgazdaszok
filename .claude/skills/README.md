@@ -13,8 +13,8 @@ repo. Each skill lives in its own folder with a `SKILL.md` (frontmatter
 | [draft-summary](draft-summary/SKILL.md) | Author the policymaker-facing fields (`summary_*`, `data_used`, `policy_relevance`) for paper / policy / press, single-item or batch, EN and HU. Produces JSON for `apply_drafts.py` / `apply_summaries_hu.py`. | "draft X", "translate Y to Hungarian", "fill in policy_relevance for W", "do drafts for author A" |
 | [media-scan](media-scan/SKILL.md) | Walk the curated outlet list ([sources.md](media-scan/sources.md)) for press / policy items by Hungarian economists not yet in the catalogue. Author-driven or outlet-driven. | "scan press", "find new columns", "media coverage of X", "sweep VoxEU", "what did we miss on Portfolio" |
 
-The repo also has the standalone [hu-econ-verifier](../../hu-econ-verifier-SKILL.md)
-skill (packaged as `hu-econ-verifier.skill`), which handles two narrow
+The repo also has the standalone [hu-econ-verifier](../../docs/development/hu-econ-verifier-SKILL.md)
+skill (packaged as `docs/development/hu-econ-verifier.skill`), which handles two narrow
 fact-checks: is X a Hungarian economist, and does paper Y actually
 exist. The skills above defer to it for those questions.
 

@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 """Paper ingestion pipeline for Evidence for Hungary.
 
-Stages (see docs/WORKFLOW.md):
+Stages (see docs/development/WORKFLOW.md):
   1. discover   — fetch paper list from OpenAlex for an author → stub JSONs
   2. metadata   — fill DOI, abstract, volume/issue from Crossref / OpenAlex
   3. draft      — have Claude write summary / data / policy / tags
