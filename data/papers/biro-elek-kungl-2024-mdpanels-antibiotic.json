@@ -1,0 +1,49 @@
+{
+  "id": "biro-elek-kungl-2024-mdpanels-antibiotic",
+  "title": "Multi-dimensional Panels in Health Economics with an Application on Antibiotic Consumption",
+  "authors": [
+    "biro-aniko",
+    "elek-peter",
+    "Nóra Kungl"
+  ],
+  "publication_type": "chapter",
+  "journal": "The Econometrics of Multi-dimensional Panels (Advanced Studies in Theoretical and Applied Econometrics)",
+  "year": 2024,
+  "volume": null,
+  "issue": null,
+  "pages": "479-509",
+  "doi": "10.1007/978-3-031-49849-7_15",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1007/978-3-031-49849-7_15",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "This chapter reviews how multi-dimensional panel data techniques can be used in health economics. We illustrate the methods with an application on antibiotic consumption in Hungary, exploiting the multi-dimensional structure of patient–physician–time data to separate patient-side, physician-side, and area-level variation in prescribing behaviour.",
+  "summary_en": "How much of the variation in antibiotic prescribing comes from patients, doctors, or local area effects? Bíró, Elek and Kungl show how multi-dimensional panel methods — methods that simultaneously include patient, physician and area fixed effects — let researchers disentangle these channels using Hungarian linked primary-care and prescription data. The chapter demonstrates the methodology and applies it to the practical health-policy question of inappropriate antibiotic use, showing that physician-side variation matters as much as patient-side variation for prescribing patterns.",
+  "summary_hu": "Az antibiotikum-felírás varianciájának mennyi része származik a betegektől, az orvosoktól, vagy a helyi hatásoktól? Bíró, Elek és Kungl bemutatják, hogyan teszik lehetővé a multi-dimenziós panel-módszerek — amelyek egyszerre tartalmazzák a beteg-, az orvos- és a terület-fixhatásokat — e csatornák szétválasztását magyar összekapcsolt alapellátási és felírási adatok alapján. A fejezet bemutatja a módszertant, és alkalmazza azt a nem-megfelelő antibiotikum-használat gyakorlati egészségpolitikai kérdésére, megmutatva, hogy az orvos-oldali variáció ugyanannyira fontos, mint a beteg-oldali a felírási mintákban.",
+  "data_used": "Hungarian linked administrative primary-care and antibiotic prescription data, patient–physician–time structure.",
+  "data_used_hu": "Magyar összekapcsolt adminisztratív alapellátási és antibiotikum-felírási adatok, beteg–orvos–idő struktúrával.",
+  "policy_relevance": "Methodological reference for Hungarian and European health-policy analysts working on physician prescribing variation, antibiotic stewardship (NEAK / NNK / OGYÉI), and small-area health-care quality measurement. The empirical application shows that targeting physician-level interventions (peer comparison letters, prescribing audits) is well-justified because physician variation is a substantial share of total prescribing variation.",
+  "policy_relevance_hu": "Módszertani referencia a magyar és európai egészségpolitikai elemzőknek, akik az orvosi felírási varianciát, antibiotikum-stewardshipet (NEAK / NNK / OGYÉI) vagy kis-területi egészségügyi minőségmérést vizsgálnak. Az empirikus alkalmazás megmutatja, hogy az orvosi szintű beavatkozások (peer-összehasonlító levelek, felírási auditok) jól megalapozottak, mert az orvosi variáció jelentős részét teszi ki az összvarianciának.",
+  "topics": [
+    "health",
+    "methods"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "antibiotic stewardship",
+    "physician peer comparison",
+    "prescribing audit"
+  ]
+}
