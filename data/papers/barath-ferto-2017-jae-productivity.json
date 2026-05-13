@@ -1,0 +1,48 @@
+{
+  "id": "barath-ferto-2017-jae-productivity",
+  "title": "Productivity and Convergence in European Agriculture",
+  "authors": [
+    "barath-lajos",
+    "ferto-imre"
+  ],
+  "publication_type": "article",
+  "journal": "Journal of Agricultural Economics",
+  "year": 2017,
+  "volume": "68",
+  "issue": "1",
+  "pages": "228-248",
+  "doi": "10.1111/1477-9552.12157",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1111/1477-9552.12157",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "We investigate relative productivity levels and decompose productivity change for European agriculture between 2004 and 2013. The decomposition is based on a stochastic frontier framework that allows us to identify the contribution of technical change, efficiency change, scale effect and input mix effect. We find heterogeneity in productivity levels and growth across EU Member States, with the new Member States generally lagging but converging.",
+  "summary_en": "How productive is European agriculture across Member States — and are the new (post-2004) members catching up with the old ones? Baráth and Fertő combine stochastic-frontier methods with FADN data for 2004–2013 across EU countries, and decompose total factor productivity growth into technical change, efficiency change, scale effects and input-mix effects. Two findings stand out: productivity levels and growth rates vary widely across Member States, and the post-2004 accession countries (Hungary included) generally lag the EU-15 — but they are catching up, with TFP gains driven mostly by efficiency improvements and input-mix changes rather than new technology. The paper is a standard reference for CAP productivity debates.",
+  "summary_hu": "Mennyire termelékeny az európai mezőgazdaság az egyes tagállamokban — és felzárkóznak-e a 2004 utáni belépők a régiekhez? Baráth és Fertő sztochasztikus határelemzéssel dolgozza fel a FADN-adatokat 2004–2013-ra az EU-tagállamokra, és az össztényezős termelékenység (TFP) növekedését felbontják műszaki haladásra, hatékonyságváltozásra, mérethatásra és input-összetétel-hatásra. Két fő eredmény: a termelékenység szintje és növekedési üteme erősen szóródik a tagállamok között, és a 2004 után csatlakozó országok (köztük Magyarország) általában elmaradnak az EU-15-től — de felzárkóznak, ráadásul a felzárkózást nem új technológia, hanem javuló hatékonyság és módosuló input-összetétel hajtja. A tanulmány a KAP termelékenységi vitáinak egyik bázisreferenciája.",
+  "data_used": "EU FADN (Farm Accountancy Data Network) farm-level panel 2004–2013 across EU Member States. Stochastic frontier analysis (translog production function) with TFP decomposition into technical change, efficiency change, scale and input-mix.",
+  "data_used_hu": "EU FADN (Mezőgazdasági Számviteli Hálózat) gazdaság-szintű panel 2004–2013 az EU-tagállamokra. Sztochasztikus határelemzés (translog termelési függvény) TFP-felbontással: műszaki haladás, hatékonyságváltozás, mérethatás és input-összetétel.",
+  "policy_relevance": "Background for Hungarian CAP-implementation policy (AM, AKI) and EU-level CAP reform debates. The finding that new Member States are catching up via efficiency and input-mix change — not via better technology — suggests CAP measures aimed at advisory services, farm management training and structural adjustment may matter more than technology subsidies for productivity convergence. The TFP-decomposition method is reusable for Hungarian farm-sector monitoring.",
+  "policy_relevance_hu": "Háttér a magyar KAP-végrehajtási politikához (AM, AKI) és az EU-szintű KAP-reform vitákhoz. Az az eredmény, hogy az új tagállamok hatékonyság- és input-összetétel-változással zárkóznak fel — nem új technológiával —, arra utal, hogy a tanácsadói szolgáltatásra, gazda-továbbképzésre és szerkezeti alkalmazkodásra fókuszáló KAP-intézkedések fontosabbak lehetnek a termelékenységi konvergencia szempontjából, mint a technológia-támogatás. A TFP-felbontási módszer a magyar gazdaság-szintű monitoringhoz újrahasznosítható.",
+  "topics": [
+    "agriculture-food",
+    "firms-productivity"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "EU"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "CAP productivity measures",
+    "farm advisory services"
+  ],
+  "openalex_id": null
+}

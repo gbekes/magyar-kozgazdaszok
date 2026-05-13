@@ -241,7 +241,7 @@
       ],
       "paper_count": 7,
       "policy_count": 0,
-      "press_count": 0
+      "press_count": 1
     },
     {
       "id": "barany-zsofia",
@@ -1440,9 +1440,9 @@
       "countries": [
         "HU"
       ],
-      "paper_count": 24,
-      "policy_count": 0,
-      "press_count": 4
+      "paper_count": 28,
+      "policy_count": 2,
+      "press_count": 9
     },
     {
       "id": "fleiner-tamas",
@@ -2634,7 +2634,7 @@
         "HU"
       ],
       "paper_count": 20,
-      "policy_count": 0,
+      "policy_count": 1,
       "press_count": 0
     },
     {
@@ -4466,7 +4466,7 @@
         "HU"
       ],
       "paper_count": 13,
-      "policy_count": 0,
+      "policy_count": 1,
       "press_count": 0
     },
     {
@@ -10058,54 +10058,6 @@
       "openalex_id": null
     },
     {
-      "id": "bakucs-ferto-2015-agec-milk",
-      "title": "Empirical tests of sale theories: Hungarian milk prices",
-      "authors": [
-        "bakucs-zoltan",
-        "ferto-imre"
-      ],
-      "publication_type": "article",
-      "journal": "Agricultural Economics (Czech)",
-      "year": 2015,
-      "volume": "61",
-      "issue": "11",
-      "pages": "511-521",
-      "doi": "10.17221/168/2014-AGRICECON",
-      "working_paper_series": null,
-      "url_published": "https://doi.org/10.17221/168/2014-AGRICECON",
-      "url_pdf": null,
-      "url_replication": null,
-      "abstract": "We test competing theories of retail price 'sales' (temporary price reductions) for Hungarian dairy products using high-frequency scanner-style price data. We distinguish between loss-leader, intertemporal price-discrimination, and inventory-based explanations and find evidence consistent with a mix of demand-side and competition-driven mechanisms.",
-      "summary_en": "Why do retailers run frequent temporary 'sales' on milk and dairy? Bakucs and Fertő test several competing theories — loss-leader pricing, intertemporal price discrimination, and inventory management — on Hungarian retail dairy prices. The pattern fits a mixture: sales are driven both by demand-side discrimination (different willingness-to-pay across consumer types) and by competitive pressure between retail chains, rather than by any single mechanism. The paper documents how strongly Hungarian dairy retail prices fluctuate around posted regular prices, which matters for how food-price statistics and CPI measures should treat dairy.",
-      "summary_hu": "Miért tartanak a kereskedelmi láncok gyakran „akciókat” tejre és tejtermékre? Bakucs és Fertő több versengő elméletet tesztel — veszteségvezér-árazás, időbeli árdiszkrimináció, készletgazdálkodás — a magyar kiskereskedelmi tejár-adatokon. A kép kevert: az akciókat egyrészt keresleti oldali diszkrimináció (eltérő fizetési hajlandóság a vásárlói csoportok között), másrészt a láncok közötti versenynyomás hajtja — nincs egyetlen domináns mechanizmus. A tanulmány dokumentálja, milyen erősen ingadozik a magyar tej kiskereskedelmi ára a kiírt szabálytalan árhoz képest, ami fontos a fogyasztói árstatisztikák és a fogyasztói árindex (CPI) szempontjából.",
-      "data_used": "High-frequency Hungarian retail dairy price data (weekly product-level prices at major retail chains). Identification of 'sale' episodes via posted regular prices and temporary deviations; competing-theory tests via regression and hazard-style models.",
-      "data_used_hu": "Nagy gyakoriságú magyar kiskereskedelmi tejár-adatok (heti termékszintű árak a fő láncoknál). „Akciós” epizódok azonosítása a kiírt szabályos árakhoz és a rövid távú eltérésekhez képest; versengő-elmélet tesztek regresszióval és hazard-jellegű modellekkel.",
-      "policy_relevance": "Relevant to KSH food-price measurement, GVH retail-competition policy, and the AM food-price commentary. The finding that frequent sales are partly competition-driven supports a competition-friendly retail-policy stance over price caps; the price-discrimination component cautions against interpreting headline retail-price movements as efficiency signals. Method reusable for monitoring price pass-through in food-price-spike episodes.",
-      "policy_relevance_hu": "Releváns a KSH élelmiszer-árméréséhez, a GVH kiskereskedelmi-verseny politikájához és az AM élelmiszerár-kommentárjához. Az az eredmény, hogy a gyakori akciókat részben a verseny hajtja, a verseny-barát kiskereskedelmi szabályozást támogatja az árstop helyett; az árdiszkriminációs komponens figyelmeztet, hogy a kiskereskedelmi árváltozások önmagukban nem hatékonysági jelek. A módszer újrahasznosítható az élelmiszerár-sokk epizódok árátadásának nyomon követésére.",
-      "topics": [
-        "agriculture-food",
-        "consumer-pricing"
-      ],
-      "methods": [
-        "panel-data"
-      ],
-      "countries_studied": [
-        "HU"
-      ],
-      "data_types": [
-        "scanner"
-      ],
-      "featured": false,
-      "added_at": "2026-05-13",
-      "last_reviewed_at": "2026-05-13",
-      "review_status": "ai-drafted",
-      "policy_instruments": [
-        "retail competition policy",
-        "food price monitoring"
-      ],
-      "openalex_id": null
-    },
-    {
       "id": "bakucs-ferto-et-al-2009-eclett",
       "title": "Investment and financial constraints in Hungarian agriculture",
       "authors": [
@@ -10153,6 +10105,56 @@
         "agricultural credit-guarantee schemes",
         "subsidised farm lending"
       ]
+    },
+    {
+      "id": "bakucs-ferto-et-al-2010-easternee-oligopsony",
+      "title": "Estimating Oligopsony Power in the Hungarian Market for Slaughter Hogs",
+      "authors": [
+        "bakucs-zoltan",
+        "ferto-imre",
+        "Heinrich Hockmann",
+        "Oleksandr Perekhozhuk"
+      ],
+      "publication_type": "article",
+      "journal": "Eastern European Economics",
+      "year": 2010,
+      "volume": "48",
+      "issue": "1",
+      "pages": "64-78",
+      "doi": "10.2753/EEE0012-8775480104",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.2753/EEE0012-8775480104",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "Using monthly time-series data on the Hungarian slaughter-hog market, we estimate market-power parameters from a New Empirical Industrial Organization (NEIO) framework. We test whether processors / slaughterhouses exert oligopsony power over hog producers and quantify the implied wedge between marginal product value and producer price.",
+      "summary_en": "Are Hungarian hog producers being squeezed by a small number of slaughterhouses buying from them — i.e. by oligopsony power? Bakucs, Fertő, Hockmann and Perekhozhuk estimate a New Empirical Industrial Organization model on monthly slaughter-hog price data and test for a wedge between the marginal product value and the price hog farmers actually receive. The result: significant oligopsony power on the buyer side. Slaughterhouses pay below the competitive level, transferring producer surplus to processors. The paper is one of the few quantitative estimates of agricultural-supply-chain market power in Hungary.",
+      "summary_hu": "Vajon a magyar sertéstartókat néhány vágóhíd nyomja-e meg vásárlóerejével — vagyis van-e oligopszón hatalom a felvásárlói oldalon? Bakucs, Fertő, Hockmann és Perekhozhuk egy New Empirical Industrial Organization (NEIO) modellt becsül havi sertésvágási áradatokon, és arra a résre teszteli, amely a termék határértéke és a sertéstartó által kapott ár között van. Az eredmény: szignifikáns oligopszón hatalom a vételi oldalon. A vágóhidak a verseny szintje alatti árat fizetnek, és termelői többletet visznek el a feldolgozóknak. A tanulmány az agrár-ellátási lánc piaci erejének egyik kevés magyar kvantitatív becslése.",
+      "data_used": "Monthly time-series data on Hungarian slaughter-hog prices and quantities, mid-1990s–2000s. NEIO market-power estimation: simultaneous equations for hog supply and processor demand, identification of the oligopsony-power parameter.",
+      "data_used_hu": "Havi idősoros adatok a magyar sertésvágási árakra és mennyiségekre, 1990-es évek közepe–2000-es évek. NEIO piaci-erő becslés: szimultán egyenletek a sertés-kínálatra és a feldolgozói keresletre, az oligopszón-hatalom paraméterének azonosítása.",
+      "policy_relevance": "Direct input to GVH (Gazdasági Versenyhivatal) supply-chain investigations and to Agrárminisztérium 'unfair trading practices' work. The finding of measurable processor-side oligopsony power supports the case for supply-chain regulation in Hungarian agri-food, including the implementation of the EU UTP Directive. Method reusable for estimating market power in dairy, poultry, and grain procurement chains.",
+      "policy_relevance_hu": "Közvetlen input a GVH (Gazdasági Versenyhivatal) ellátási lánc-vizsgálataihoz és az Agrárminisztérium „tisztességtelen kereskedelmi gyakorlat” munkájához. Az az eredmény, hogy mérhető feldolgozói oldali oligopszón hatalom van, érvet ad az ellátási lánc szabályozása mellett a magyar agrár-élelmiszer-szektorban, beleértve az EU UTP-irányelv implementációját. A módszer újrahasznosítható a tej-, baromfi- és gabonafelvásárlás piaci erejének becslésére.",
+      "topics": [
+        "agriculture-food",
+        "industrial-organization"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
+      "featured": false,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13",
+      "review_status": "ai-drafted",
+      "policy_instruments": [
+        "UTP Directive implementation",
+        "supply-chain regulation"
+      ],
+      "openalex_id": null
     },
     {
       "id": "bakucs-ferto-fogarasi-2009-econlet",
@@ -16146,6 +16148,55 @@
       "last_reviewed_at": "2026-04-27",
       "review_status": "ai-drafted",
       "openalex_id": "W4364369868"
+    },
+    {
+      "id": "bojnec-ferto-2009-foodpol",
+      "title": "Agro-food trade competitiveness of Central European and Balkan countries",
+      "authors": [
+        "Štefan Bojnec",
+        "ferto-imre"
+      ],
+      "publication_type": "article",
+      "journal": "Food Policy",
+      "year": 2009,
+      "volume": "34",
+      "issue": "5",
+      "pages": "417-425",
+      "doi": "10.1016/j.foodpol.2009.01.003",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1016/j.foodpol.2009.01.003",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "This paper analyses agro-food trade competitiveness of Central European and Balkan countries on the EU and global markets using indices of revealed comparative advantage. It identifies products and subsectors where these countries hold persistent competitive advantage and how positions evolve during transition and EU integration.",
+      "summary_en": "How competitive are Central European and Balkan countries in agro-food trade — and where are the persistent advantages? Bojnec and Fertő apply four revealed-comparative-advantage indices to disaggregated trade data for the region, on both EU and global markets. Findings: comparative advantages are concentrated in cereals, oilseeds, and live animals for some Central European countries (Hungary, Romania), in dairy and processed products for others (Slovenia), and the picture has been only slowly shifting over the transition period. A regional benchmark paper for Hungarian agri-food trade strategy.",
+      "summary_hu": "Mennyire versenyképesek a közép-európai és balkáni országok az agrár-élelmiszer-kereskedelemben — és hol vannak a tartós előnyök? Bojnec és Fertő négy feltárt komparatív előny indexet alkalmaz a régió dezaggregált kereskedelmi adatára, EU- és globális piacokon egyaránt. Eredmények: a komparatív előnyök gabona-, olajos magvak- és élőállat-szegmensben koncentrálódnak néhány közép-európai országnál (Magyarország, Románia), tej- és feldolgozott termékeknél másoknál (Szlovénia), és a kép a transzformációs időszakban csak lassan változott. Regionális benchmark-tanulmány a magyar agrár-élelmiszer kereskedelmi stratégiához.",
+      "data_used": "Disaggregated agro-food trade data for Central European and Balkan countries with EU and world partners, 1995–2005. Four revealed comparative advantage indices (Balassa, symmetric Balassa, Vollrath, Lafay) computed at product level.",
+      "data_used_hu": "Dezaggregált agrár-élelmiszer kereskedelmi adatok a közép-európai és balkáni országokra, EU- és világpiaci partnerekkel, 1995–2005. Négy feltárt komparatív előny index (Balassa, szimmetrikus Balassa, Vollrath, Lafay) termékszinten.",
+      "policy_relevance": "Reference for Hungarian agri-trade strategy benchmarking against regional competitors (Romania, Slovenia, Serbia, Croatia). The finding that comparative advantage in the region is slow-moving cautions against expecting rapid structural shifts from short-run policy interventions; it also identifies the segments (cereals, oilseeds, live animals) where Hungary's regional position is strongest and worth defending.",
+      "policy_relevance_hu": "Referencia a magyar agrár-kereskedelmi stratégia regionális versenytárs-benchmarkjához (Románia, Szlovénia, Szerbia, Horvátország). Az az eredmény, hogy a komparatív előny lassan változik a régióban, óvatosságra int azzal, hogy rövid távú szakpolitikai beavatkozásoktól gyors szerkezeti elmozdulást várjunk; egyúttal azonosítja azokat a szegmenseket (gabona, olajos magvak, élőállat), ahol Magyarország regionális pozíciója a legerősebb és védelemre érdemes.",
+      "topics": [
+        "agriculture-food",
+        "trade-fdi"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU",
+        "EU"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
+      "featured": false,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13",
+      "review_status": "ai-drafted",
+      "policy_instruments": [
+        "regional trade strategy",
+        "agri-food export support"
+      ],
+      "openalex_id": null
     },
     {
       "id": "bojnec-ferto-2011-appec",
@@ -25319,6 +25370,151 @@
         "cooperative bank regulation",
         "social-economy policy"
       ]
+    },
+    {
+      "id": "ferto-2005-jae-vertical-trade",
+      "title": "Vertically Differentiated Trade and Differences in Factor Endowment: The Case of Agri-Food Products between Hungary and the EU",
+      "authors": [
+        "ferto-imre"
+      ],
+      "publication_type": "article",
+      "journal": "Journal of Agricultural Economics",
+      "year": 2005,
+      "volume": "56",
+      "issue": "1",
+      "pages": "117-134",
+      "doi": "10.1111/j.1477-9552.2005.tb00125.x",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1111/j.1477-9552.2005.tb00125.x",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "This paper investigates the relationship between vertical intra-industry trade and factor endowment differences in Hungarian agri-food trade with the EU. Using disaggregated trade data and product-level unit values, the paper tests whether the Falvey-Kierzkowski model — in which a larger gap in factor endowment yields a larger share of vertically differentiated trade — holds for Hungarian agri-food.",
+      "summary_en": "Two countries with very different factor endowments (capital, labour, land) should trade goods of different quality within the same product category, according to the Falvey-Kierzkowski model. Does this hold for Hungarian agri-food trade with the EU? Fertő uses disaggregated trade data and product-level unit values, and finds the prediction broadly confirmed: where Hungary and an EU partner differ more in factor endowments, the share of vertically differentiated (different-quality) trade is higher. The paper was an early systematic test of vertical-IIT theory on agri-food and a building block of Fertő's larger research programme on EU agri-food trade.",
+      "summary_hu": "Két olyan ország, amelyek tényezőellátottsága (tőke, munka, föld) erősen eltér, a Falvey-Kierzkowski modell szerint különböző minőségű árukat cserél ugyanabban a termékkategóriában. Vajon ez áll-e a magyar–EU agrár-élelmiszer-kereskedelemre? Fertő dezaggregált kereskedelmi adatokat és termékszintű egységárakat használ, és nagyjából igazolja az elméletet: ahol Magyarország és egy EU-partner tényezőellátottsága inkább eltér, ott magasabb a vertikálisan differenciált (különböző minőségű) kereskedelem aránya. A tanulmány a vertikális IIT-elmélet egyik korai szisztematikus tesztje az agrár-élelmiszer-szektorra, és Fertő szélesebb EU agrár-kereskedelmi kutatási programjának építőköve.",
+      "data_used": "Disaggregated Hungarian agri-food trade data with EU partners. Product-level unit values used to separate vertical from horizontal intra-industry trade; factor-endowment differences proxied by GDP per capita, capital/labour ratios. Cross-country regression framework.",
+      "data_used_hu": "Dezaggregált magyar agrár-élelmiszer kereskedelmi adatok EU-partnerekkel. Termékszintű egységárak a vertikális és horizontális ágazatközi kereskedelem szétválasztására; a tényezőellátottság különbségét egy főre jutó GDP, tőke/munka arány közelíti. Több ország közötti regressziós keret.",
+      "policy_relevance": "Background for Hungarian agri-food export-strategy thinking and historical context for CAP-era trade evolution. The vertical-IIT framework — capturing quality differentiation — is the analytical lens through which Hungary's later move toward processed and high-value agri-food exports should be assessed; the paper documents the starting point. Methodology is reusable for current export-quality monitoring.",
+      "policy_relevance_hu": "Háttér a magyar agrár-export-stratégiai gondolkodáshoz és történelmi kontextus a KAP-korszak kereskedelmi evolúciójához. A vertikális IIT-keret — amely a minőségi differenciálást ragadja meg — az az analitikus szemüveg, amelyen keresztül Magyarország későbbi elmozdulása a feldolgozott és magas hozzáadott értékű agrár-export felé értelmezhető; a tanulmány a kiindulópontot dokumentálja. A módszertan újrahasznosítható a jelenlegi export-minőség monitoringhoz.",
+      "topics": [
+        "agriculture-food",
+        "trade-fdi"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU",
+        "EU"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
+      "featured": false,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13",
+      "review_status": "ai-drafted",
+      "policy_instruments": [
+        "agri-food trade strategy",
+        "EU integration"
+      ],
+      "openalex_id": null
+    },
+    {
+      "id": "ferto-2009-jae-labour-iit",
+      "title": "Labour Market Adjustment and Intra-Industry Trade: The Effects of Association on the Hungarian Food Industry",
+      "authors": [
+        "ferto-imre"
+      ],
+      "publication_type": "article",
+      "journal": "Journal of Agricultural Economics",
+      "year": 2009,
+      "volume": "60",
+      "issue": "3",
+      "pages": "668-681",
+      "doi": "10.1111/j.1477-9552.2009.00201.x",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1111/j.1477-9552.2009.00201.x",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "This paper examines whether the smooth-adjustment hypothesis — that intra-industry trade (IIT) is associated with lower labour-market adjustment costs than inter-industry trade — holds for the Hungarian food industry during the EU-association period. Using disaggregated trade and employment data, the paper tests the relationship between marginal IIT and labour-market adjustment.",
+      "summary_en": "When trade expands rapidly, do workers in import-competing industries get displaced? The smooth-adjustment hypothesis predicts that intra-industry trade (trading similar goods both ways) causes less labour-market disruption than inter-industry trade (specialisation across distinct sectors). Fertő tests this for the Hungarian food industry during the EU-association period (1995–2003), using marginal IIT as the key measure. The result broadly supports smooth-adjustment: more marginal IIT correlates with smaller employment swings, but the effect is modest and varies by subsector. A useful empirical anchor for political-economy discussions of trade integration.",
+      "summary_hu": "Amikor a kereskedelem gyorsan bővül, elveszítik-e a munkájukat az import-versennyel szembesülő iparágak dolgozói? A „smooth adjustment” hipotézis azt jósolja, hogy az ágazatközi kereskedelem (hasonló áruk kétirányú cseréje) kevésbé okoz munkapiaci zavart, mint az ágazatok közötti specializáció. Fertő ezt a magyar élelmiszeriparra teszteli az EU-csatlakozási időszakban (1995–2003), a marginális IIT-vel mint kulcsmérőszámmal. Az eredmény nagyjából alátámasztja a hipotézist: több marginális IIT kisebb foglalkoztatási ingadozással jár, de a hatás mérsékelt és alszektoronként eltérő. Hasznos empirikus horgony a kereskedelmi integráció politikai-gazdasági vitáihoz.",
+      "data_used": "Disaggregated Hungarian food-industry trade and employment data 1995–2003. Marginal intra-industry trade indices (Brülhart) computed at the product level; regression of subsector employment change on marginal IIT and controls.",
+      "data_used_hu": "Dezaggregált magyar élelmiszer-ipari kereskedelmi és foglalkoztatási adatok 1995–2003. Marginális ágazatközi kereskedelem (Brülhart-féle) indexek termékszinten; alszektor-szintű foglalkoztatás-változás regressziója a marginális IIT-re és kontrollokra.",
+      "policy_relevance": "Historical reference for evaluating EU-association and CAP-trade liberalisation effects on Hungarian food-industry employment. The smooth-adjustment finding qualifies the standard 'trade kills jobs' narrative for the food sector — but the modest effect size cautions against treating IIT growth as fully painless. Method reusable for assessing labour-market effects of new trade agreements (Mercosur, etc.).",
+      "policy_relevance_hu": "Történelmi referencia az EU-csatlakozás és a KAP-kereskedelmi liberalizáció magyar élelmiszeripari foglalkoztatási hatásainak értékeléséhez. A „smooth adjustment” eredmény árnyalja a szokványos „a kereskedelem munkahelyeket pusztít” narratívát az élelmiszer-szektorban — de a hatás mérsékelt mérete óvatosságra int azzal, hogy az IIT-növekedést teljesen fájdalommentesnek tekintsük. A módszer újrahasznosítható az új kereskedelmi megállapodások (Mercosur stb.) foglalkoztatási hatásainak vizsgálatára.",
+      "topics": [
+        "agriculture-food",
+        "trade-fdi",
+        "labor-markets"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
+      "featured": false,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13",
+      "review_status": "ai-drafted",
+      "policy_instruments": [
+        "trade-adjustment assistance",
+        "labour-market policy"
+      ],
+      "openalex_id": null
+    },
+    {
+      "id": "ferto-2026-ksz-mercosur",
+      "title": "Szűrt liberalizáció és kettős mérce: Az EU–Mercosur megállapodás agrárhatásai, környezeti kockázatai és politikai gazdaságtana",
+      "authors": [
+        "ferto-imre"
+      ],
+      "publication_type": "article",
+      "journal": "Közgazdasági Szemle",
+      "year": 2026,
+      "volume": "73",
+      "issue": "3",
+      "pages": "271-291",
+      "doi": "10.18414/KSZ.2026.3.271",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.18414/KSZ.2026.3.271",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "A tanulmány az EU–Mercosur megállapodás agrárhatásait, környezeti kockázatait és politikai gazdaságtanát vizsgálja. A piacnyitás és az EU környezetvédelmi, állatjóléti és élelmiszerbiztonsági normái közötti feszültségeket „szűrt liberalizáció” keretében elemzi: a teljes hatás az EU-mezőgazdaságra mérsékelt, de a disztribúciós következmények jelentősek. Sérülékeny szektorok: marha, baromfi, cukor; potenciális nyertesek: tej, sertés.",
+      "summary_en": "What will the EU–Mercosur trade agreement mean for European — and Hungarian — agriculture? Fertő's review article frames the agreement as 'filtered liberalisation': tariff-rate quotas, sustainability requirements and other standards filter what actually gets imported. The aggregate impact on EU agriculture is modest, but the distributional consequences are large. Beef, poultry and sugar producers face concentrated losses; dairy and pork producers potentially gain export opportunities. The 'double standard' tension — strict internal EU rules paired with weaker external enforcement — undermines the political legitimacy of the agreement. Recommendations: targeted risk management, supply-chain regulation, enforcement-capacity investment, and quality upgrading rather than reactive crisis management.",
+      "summary_hu": "Mit jelent az EU–Mercosur kereskedelmi megállapodás az európai — és a magyar — mezőgazdaság számára? Fertő szemlecikke a megállapodást „szűrt liberalizációként” értelmezi: a vámkontingensek, fenntarthatósági követelmények és egyéb normák szűrik, hogy ténylegesen mi jut be a piacra. Az aggregált hatás az EU-mezőgazdaságra mérsékelt, de a disztribúciós következmények jelentősek. A marha-, baromfi- és cukorágazat koncentrált veszteségekkel szembesül; a tej- és sertéságazat potenciálisan exportlehetőségeket nyer. A „kettős mérce” feszültsége — szigorú belső EU-szabályok és gyengébb külső kikényszerítés — aláássa a megállapodás politikai legitimitását. Ajánlások: célzott kockázatkezelés, ellátási lánc-szabályozás, kikényszerítési kapacitás-fejlesztés és minőségi feljebb lépés a reaktív válságkezelés helyett.",
+      "data_used": "Review essay drawing on EU agri-food trade statistics, Mercosur ratification timeline, comparative regulatory analysis of EU and Mercosur agricultural standards, and the existing literature on EU trade-agreement impacts.",
+      "data_used_hu": "Szemlecikk az EU agrár-élelmiszer kereskedelmi statisztikák, a Mercosur ratifikációs ütemterv, az EU és Mercosur agrárszabályozás összehasonlító elemzése és az EU-kereskedelmi megállapodások hatásairól szóló szakirodalom alapján.",
+      "policy_relevance": "Direct policy input for the Hungarian position on EU–Mercosur ratification (KKM, AM). The framing — that aggregate impacts are modest but distributional concentrated, and that 'double standards' undermine legitimacy — gives Hungarian agri-trade policy a richer set of arguments than the binary 'support/oppose' framing. Specific recommendations for supply-chain regulation and risk management are directly actionable for AKI and NAK.",
+      "policy_relevance_hu": "Közvetlen szakpolitikai input a magyar EU–Mercosur ratifikációs álláspontkialakításhoz (KKM, AM). A keretezés — hogy az aggregált hatás mérsékelt, de a disztribúciós koncentrált, és hogy a „kettős mérce” aláássa a legitimitást — gazdagabb érvkészletet ad a magyar agrár-kereskedelmi politikának, mint a kétpólusú „támogat/ellenez” felfogás. A konkrét ellátási lánc-szabályozási és kockázatkezelési ajánlások közvetlenül felhasználhatók az AKI és a NAK számára.",
+      "topics": [
+        "agriculture-food",
+        "trade-fdi",
+        "political-economy"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "HU",
+        "EU"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
+      "featured": false,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13",
+      "review_status": "ai-drafted",
+      "policy_instruments": [
+        "EU trade-agreement strategy",
+        "supply-chain regulation"
+      ],
+      "openalex_id": null
     },
     {
       "id": "ferto-bakucs-falkowski-2021-jae",
@@ -49313,6 +49509,82 @@
       "review_status": "ai-drafted"
     },
     {
+      "id": "ferto-2014-cei-hit-structural-transformation",
+      "title": "The Structural Transformation in Central and Eastern European Agriculture",
+      "title_hu": null,
+      "authors": [
+        "ferto-imre"
+      ],
+      "outlet_kind": "working_paper",
+      "outlet": "CEI Working Paper Series 2014-9",
+      "outlet_issue": null,
+      "institution": "Center for Economic Institutions, Hitotsubashi University",
+      "year": 2014,
+      "language": "en",
+      "url": "https://ideas.repec.org/p/hit/hitcei/2014-9.html",
+      "doi": null,
+      "summary_en": "How did agriculture in the ten Central and Eastern European countries restructure between 1990 and 2010? Fertő's working paper documents the transition: a Lewis-style structural transformation, where the agricultural share of employment and output declines as the broader economy industrialises and labour reallocates. Despite very different farm structures (large corporate farms in Hungary, Czechia, eastern Germany; small family farms in Poland, Romania, the Baltic states) and different policy paths (gradual vs. shock-therapy reform), the ten countries follow broadly similar transformation trajectories. Both macroeconomic conditions and micro-level farm structure matter.",
+      "summary_hu": null,
+      "policy_relevance": "Background reference for the Hungarian agricultural-policy community (AM, AKI, NAK) and for EU agricultural-policy debate. The Lewis-transformation framing — agriculture as a declining-share sector during industrialisation — sets the realistic baseline against which Hungary's CAP-era policy choices should be judged: it is normal and not pathological that the agricultural-employment share keeps falling. Useful long view on the Hungarian agri-sector for new policymakers.",
+      "policy_relevance_hu": null,
+      "topics": [
+        "agriculture-food",
+        "transition-postcommunist",
+        "firms-productivity"
+      ],
+      "countries_studied": [
+        "HU",
+        "EU"
+      ],
+      "policy_instruments": [
+        "CAP implementation",
+        "rural-development strategy"
+      ],
+      "linked_paper_id": null,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13",
+      "review_status": "ai-drafted"
+    },
+    {
+      "id": "ferto-koczy-et-al-2021-krtk-wp",
+      "title": "Power ranking of the members of the Agricultural Committee of the European Parliament (working paper)",
+      "title_hu": null,
+      "authors": [
+        "ferto-imre",
+        "koczy-laszlo",
+        "Attila Kovács",
+        "sziklai-balazs"
+      ],
+      "outlet_kind": "working_paper",
+      "outlet": "KRTK-KTI Working Paper 2114",
+      "outlet_issue": null,
+      "institution": "KRTK Institute of Economics",
+      "year": 2021,
+      "language": "en",
+      "url": "https://www.mtakti.hu/wp-content/uploads/2021/03/CERSIEWP202114.pdf",
+      "doi": null,
+      "summary_en": "KRTK-KTI working paper version of the 2020 ERAE article. Uses a spatial Banzhaf voting-power index to rank MEPs on the European Parliament's Agricultural Committee (COMAGRI). The working-paper version provides additional detail on methodology and robustness checks beyond the published article — useful for analysts replicating or extending the power-index calculation for new COMAGRI compositions.",
+      "summary_hu": null,
+      "policy_relevance": "Practical input for Hungarian EU-affairs and agricultural-lobbying strategy (MFM, NAK, AM). The working paper's open access and methodological detail make it the version of reference for analysts who need to redo the calculation for a new Parliament composition or to extend the index to other committees. Direct relevance for Hungarian strategic appointments to COMAGRI and for assessing the influence of Hungarian MEPs.",
+      "policy_relevance_hu": "Gyakorlati input a magyar EU-politikai és agrár-lobbi stratégiához (MFM, NAK, AM). A műhelytanulmány nyílt hozzáférése és módszertani részletessége miatt ez az a verzió, amelyet az elemzők újraszámoláshoz használhatnak egy új parlamenti összetételre, vagy az index más bizottságokra történő kiterjesztéséhez. Közvetlen relevancia a magyar COMAGRI-jelöltek stratégiai pozícionálásához és a magyar EP-képviselők befolyásának értékeléséhez.",
+      "topics": [
+        "agriculture-food",
+        "political-economy",
+        "mechanism-design"
+      ],
+      "countries_studied": [
+        "EU"
+      ],
+      "policy_instruments": [
+        "EU lobbying strategy",
+        "MEP-committee assignment"
+      ],
+      "linked_paper_id": "ferto-koczy-et-al-2020-eurae",
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13",
+      "review_status": "ai-drafted"
+    },
+    {
       "id": "hajdu-2021-real-children-health-stat",
       "title": "Statistical report on the health of children in Hungary in the 2010s",
       "title_hu": "Statisztikai jelentés a gyermekegészség állapotáról Magyarországon a 21. század második évtizedében",
@@ -51017,6 +51289,40 @@
       "last_reviewed_at": "2026-04-25"
     },
     {
+      "id": "ferto-2022-kti-interview",
+      "title": "„I am an agricultural economist despite graduating in that field” — interview with Imre Fertő",
+      "title_hu": "„Annak ellenére vagyok agrárközgazdász, hogy azon a szakon végeztem” — interjú Fertő Imrével",
+      "authors": [
+        "ferto-imre"
+      ],
+      "kind": "interview",
+      "venue": "KRTK Institute of Economics",
+      "date": "2022-06-01",
+      "language": "hu",
+      "url": "https://kti.krtk.hu/media/interju/annak-ellenere-vagyok-agrarkozgazdasz-hogy-azon-a-szakon-vegeztem-interju-ferto-imrevel/",
+      "blurb": "Hosszabb portré-interjú Fertő pályájáról: a Rajk Szakkollégiumtól a Kornai-projekten át a newcastle-i PhD-ig, az agrár-közgazdaságtan választásáig, az MTA KTI igazgatói (2016–2019) és KRTK főigazgatói (2019–) éveiig. Az interjú érinti a Hitotsubashi vendégkutatást és az „alkalmazott közgazdaságtan” mint kutatási filozófiát.",
+      "linked_paper_id": null,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13"
+    },
+    {
+      "id": "ferto-2025-agroinform-competitiveness",
+      "title": "What makes Hungarian agriculture more competitive? Not subsidies",
+      "title_hu": "Mitől lehet versenyképesebb a hazai agrárium? Hát nem a támogatásoktól",
+      "authors": [
+        "ferto-imre"
+      ],
+      "kind": "interview",
+      "venue": "Agroinform",
+      "date": "2025-05-24",
+      "language": "hu",
+      "url": "https://www.agroinform.hu/gazdasag/mitol-lehet-versenykepesebb-a-hazai-agrarium-hat-nem-a-tamogatasoktol-82151-001",
+      "blurb": "Hosszabb interjú Fertővel a magyar agrárium versenyképességéről: a szektor heterogén, az exportszerkezet nyers- és félkész termékekre szorult; a területalapú EU-támogatások (a támogatások 80%-a 20% gazdasághoz megy) nem javítják, sőt csökkenthetik a technikai hatékonyságot. A megoldás magas hozzáadott értékű feldolgozott termékek és generációváltás.",
+      "linked_paper_id": null,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13"
+    },
+    {
       "id": "ferto-2025-portfolio-krtk-akg",
       "title": "Do agri-environmental programmes really increase eco-efficiency?",
       "title_hu": "Valóban növelik az agrár-környezetvédelmi programok az öko-hatékonyságot?",
@@ -51066,6 +51372,58 @@
       "linked_paper_id": null,
       "added_at": "2026-04-25",
       "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "ferto-2026-portfolio-cap-reform",
+      "title": "Almost every Hungarian is affected by the EU agricultural-policy reform — 85% of the population lives within a kilometre of farmland",
+      "title_hu": "Szinte minden magyart érint az uniós agrárpolitika reformja – a lakosság 85%-a egy kilométerre él agrárterületektől",
+      "authors": [
+        "ferto-imre"
+      ],
+      "kind": "column",
+      "venue": "KRTK Blog (Portfolio)",
+      "date": "2026-03-07",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/krtk/20260307/szinte-minden-magyart-erint-az-unios-agrarpolitika-reformja-a-lakossag-85-a-egy-kilometerre-el-agrarteruletektol-822200",
+      "blurb": "Fertő amellett érvel, hogy 85% magyar él egy kilométeren belül agrárterülettől, ezért a 2028 utáni KAP-reform nem szektorális, hanem mindennapi életminőség-kérdés — a vidék, a táj és a környezet közvetlenül érinti a városi lakosságot is.",
+      "linked_paper_id": null,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13"
+    },
+    {
+      "id": "ferto-2026-portfolio-mercosur",
+      "title": "What impact the Mercosur agreement could have on Hungarian agriculture and food industry",
+      "title_hu": "Ilyen hatása lehet a magyar agráriumra, élelmiszeriparra a Mercosur-megállapodásnak",
+      "authors": [
+        "ferto-imre"
+      ],
+      "kind": "column",
+      "venue": "KRTK Blog (Portfolio)",
+      "date": "2026-01-21",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/krtk/20260121/ilyan-hatasa-lehet-a-magyar-agrariumra-elelmiszeriparra-a-mercosur-megallapodasnak-812157",
+      "blurb": "A koncentrált veszteségek (marha-, baromfi-szektor) és diffúz nyereségek aszimmetriája politikailag is nehezíti a Mercosur-megállapodás kezelését. Fertő szerint a megoldás célzott kockázatkezelés, ellátási lánc-szabályozás és minőségi feljebb lépés — nem reaktív válságkezelés.",
+      "linked_paper_id": null,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13"
+    },
+    {
+      "id": "ferto-bakucs-2024-portfolio-organic",
+      "title": "Can we feed humanity with organic food?",
+      "title_hu": "Képesek lehetünk bioélelmiszerekkel ellátni az emberiséget?",
+      "authors": [
+        "ferto-imre",
+        "bakucs-zoltan"
+      ],
+      "kind": "column",
+      "venue": "KRTK Blog (Portfolio)",
+      "date": "2024-05-11",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/krtk/20240511/kepesek-lehetunk-bioelelmiszerekkel-ellatni-az-emberiseget-685267",
+      "blurb": "Az ökológiai gazdálkodás termelékenysége a tejtermelésben átlagosan 30%-kal alacsonyabb, mint a hagyományosé — de a matching-módszerek a különbséget jelentősen leszűkítik. A prémiumár kompenzál; a politikának a struktúrális akadályokra (legelőhozzáférés, tudásátadás) kell fókuszálnia.",
+      "linked_paper_id": null,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13"
     },
     {
       "id": "french-lindner-et-al-2026-voxeu-china",
@@ -52972,7 +53330,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 154
+      "paper_count": 155
     },
     {
       "id": "education-skills",
@@ -53016,7 +53374,7 @@
       "policy_framing_en": "Relevant to: EU trade policy, FDI promotion, export promotion, supply chain resilience, industrial policy.",
       "policy_framing_hu": "Releváns: EU kereskedelempolitika, FDI ösztönzés, exporttámogatás, ellátási láncok rugalmassága, iparpolitika.",
       "icon": "globe",
-      "paper_count": 107
+      "paper_count": 111
     },
     {
       "id": "firms-productivity",
@@ -53027,7 +53385,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 183
+      "paper_count": 184
     },
     {
       "id": "innovation-digital",
@@ -53104,7 +53462,7 @@
       "policy_framing_en": "Relevant to: anti-corruption policy, public administration reform, EU affairs, electoral system design.",
       "policy_framing_hu": "Releváns: korrupcióellenes politika, közigazgatási reform, EU-ügyek, választási rendszer.",
       "icon": "building-2",
-      "paper_count": 91
+      "paper_count": 93
     },
     {
       "id": "transition-postcommunist",
@@ -53115,7 +53473,7 @@
       "policy_framing_en": "Relevant to: long-run diagnoses of the Hungarian and CEE economy, lessons from 30+ years of transition, institutional path dependence.",
       "policy_framing_hu": "Releváns: a magyar és KKE gazdaság hosszú távú diagnózisa, 30+ év rendszerváltásának tanulságai, intézményi útfüggőség.",
       "icon": "flag",
-      "paper_count": 65
+      "paper_count": 66
     },
     {
       "id": "behavioral",
@@ -53137,7 +53495,7 @@
       "policy_framing_en": "Relevant to: competition policy (GVH), merger review, platform regulation, auction design, sector-specific regulation.",
       "policy_framing_hu": "Releváns: versenypolitika (GVH), fúziókontroll, platformszabályozás, aukciótervezés, ágazati szabályozás.",
       "icon": "network",
-      "paper_count": 144
+      "paper_count": 145
     },
     {
       "id": "macroeconomics",
@@ -53159,7 +53517,7 @@
       "policy_framing_en": "Relevant to: EU Common Agricultural Policy (CAP), food-safety regulation, rural development programmes, land-use policy.",
       "policy_framing_hu": "Releváns: EU Közös Agrárpolitika (KAP), élelmiszer-biztonsági szabályozás, vidékfejlesztési programok, földhasználati szabályozás.",
       "icon": "wheat",
-      "paper_count": 23
+      "paper_count": 29
     },
     {
       "id": "methods",
@@ -53192,7 +53550,7 @@
       "policy_framing_en": "Relevant to: regulatory design, procurement, voting reform, contract law, antitrust analysis, committee design.",
       "policy_framing_hu": "Releváns: szabályozási tervezés, közbeszerzés, választási reform, szerződésjog, versenypolitika, bizottsági tervezés.",
       "icon": "scale",
-      "paper_count": 95
+      "paper_count": 96
     }
   ],
   "journals": [
@@ -54555,9 +54913,9 @@
   ],
   "counts": {
     "authors": 112,
-    "papers": 931,
-    "policy": 40,
-    "press": 171,
+    "papers": 935,
+    "policy": 42,
+    "press": 176,
     "topics": 21
   }
 }
