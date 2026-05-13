@@ -138,7 +138,7 @@
       "media_note": null,
       "review_status": "confident",
       "openalex_id": "A5035270562",
-      "last_reviewed_at": "2026-04-27",
+      "last_reviewed_at": "2026-05-13",
       "countries": [
         "US"
       ],
@@ -984,9 +984,9 @@
       ],
       "website": "https://unipub.lib.uni-corvinus.hu/search?ln=hu&p=csoka+peter",
       "email": null,
-      "repec_id": null,
+      "repec_id": "pcs9",
       "scholar_id": "SwW4jyAAAAAJ",
-      "orcid": null,
+      "orcid": "0000-0003-1703-5835",
       "primary_fields": [
         "banking-finance",
         "methods"
@@ -999,18 +999,18 @@
         "journal": "Finance Research Letters",
         "year": 2025
       },
-      "open_to_media_en": false,
-      "open_to_media_hu": false,
+      "open_to_media_en": true,
+      "open_to_media_hu": true,
       "media_note": null,
       "review_status": "confident",
       "openalex_id": "A5019909890",
-      "last_reviewed_at": "2026-04-27",
+      "last_reviewed_at": "2026-05-13",
       "countries": [
         "HU"
       ],
       "paper_count": 20,
       "policy_count": 0,
-      "press_count": 0
+      "press_count": 1
     },
     {
       "id": "csurilla-gergely",
@@ -2571,18 +2571,18 @@
       },
       "deceased": false,
       "died": null,
-      "open_to_media_en": false,
-      "open_to_media_hu": false,
-      "media_note": null,
-      "review_status": "needs-verification",
+      "open_to_media_en": true,
+      "open_to_media_hu": true,
+      "media_note": "Rendszeres szerző a KRTK-Portfolio blogon (viselkedési közgazdaságtan, bankpánik).",
+      "review_status": "confident",
       "openalex_id": "A5061689420",
-      "last_reviewed_at": "2026-04-27",
+      "last_reviewed_at": "2026-05-13",
       "countries": [
         "HU"
       ],
       "paper_count": 20,
       "policy_count": 0,
-      "press_count": 0
+      "press_count": 2
     },
     {
       "id": "koczy-laszlo",
@@ -2626,16 +2626,16 @@
       "died": null,
       "open_to_media_en": true,
       "open_to_media_hu": true,
-      "media_note": null,
+      "media_note": "Rendszeres szerző a KRTK-Portfolio blogon (választási rendszer, apportionment).",
       "review_status": "author-approved",
       "openalex_id": "A5027677214",
-      "last_reviewed_at": "2026-05-05",
+      "last_reviewed_at": "2026-05-13",
       "countries": [
         "HU"
       ],
       "paper_count": 20,
-      "policy_count": 1,
-      "press_count": 0
+      "policy_count": 2,
+      "press_count": 1
     },
     {
       "id": "kollo-janos",
@@ -4377,6 +4377,7 @@
       "media_note": null,
       "review_status": "confident",
       "openalex_id": "A5015662394",
+      "last_reviewed_at": "2026-05-13",
       "countries": [
         "GB"
       ],
@@ -50078,6 +50079,43 @@
       "review_status": "ai-drafted"
     },
     {
+      "id": "koczy-sziklai-2026-krtk-pb-electoral-districts",
+      "title": "Legal Compliance of the 2024 Hungarian Electoral District Allocation",
+      "title_hu": "A 2024. évi választókerület-kiosztás törvényi megfelelősége",
+      "authors": [
+        "koczy-laszlo",
+        "Balázs R. Sziklai"
+      ],
+      "outlet_kind": "policy-brief",
+      "outlet": "KRTK Policy Brief",
+      "outlet_issue": "No. 3",
+      "institution": "HUN-REN KRTK",
+      "year": 2026,
+      "language": "en",
+      "url": "https://krtk.elte.hu/wp-content/uploads/2026/01/krtk_policy_brief_no_03_en.pdf",
+      "doi": null,
+      "summary_en": "Sziklai and Kóczy examine whether Hungary's 2024 redrawing of the 106 single-member electoral districts (Act LXXIX of 2024) actually satisfies the electoral law's own population-balance requirements. Applying an apportionment-theory framework, they show three Tolna-county districts remain more than 20% below the national average eligible-voter count — precisely the threshold at which the law itself mandates redistricting. The brief proposes a near-optimal reallocation: shifting one district each from two over-represented counties to Pest county and Budapest.",
+      "summary_hu": "Sziklai és Kóczy azt vizsgálják, hogy a 2024. évi LXXIX. törvénnyel újrarajzolt 106 egyéni választókerület valóban megfelel-e a választási törvény saját népességarányossági követelményeinek. Apportionment-elméleti keretben kimutatják, hogy három tolnai választókerület még mindig több mint 20%-kal a választópolgárok országos átlagszáma alatt van — épp annál a küszöbnél, amelynél a törvény kötelezővé teszi az újraosztást. A brief egy közel-optimális átrendezést javasol: egy-egy körzet áthelyezését két felül-reprezentált megyéből Pest megyébe és Budapestre.",
+      "policy_relevance": "Directly relevant for the National Election Office (NVI) and parliament: the existing district map is in measurable violation of the 2024 Act's own thresholds before the 2026 election, and a transparent, rule-based reallocation is available. Also relevant for the Constitutional Court and for civil-society electoral observers (e.g. Unhack Democracy, TASZ) as a technical basis for legal challenges to vote-weight inequality.",
+      "policy_relevance_hu": "Közvetlenül releváns a Nemzeti Választási Iroda és az Országgyűlés számára: a jelenlegi körzetbeosztás a 2026-os választás előtt mérhetően sérti a 2024-es törvény saját küszöbeit, és átlátható, szabályalapú átrendezés rendelkezésre áll. Az Alkotmánybíróság és a választási civil szervezetek (pl. Unhack Democracy, TASZ) számára is technikai alap a szavazatérték-egyenlőtlenség jogi vitatásához.",
+      "topics": [
+        "political-economy",
+        "methods"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "policy_instruments": [
+        "electoral district apportionment",
+        "Act LXXIX of 2024",
+        "single-member district map"
+      ],
+      "linked_paper_id": "koczy-sziklai-2026-aoor",
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13",
+      "review_status": "ai-drafted"
+    },
+    {
       "id": "konya-2024-fer-nobel-laureates",
       "title": "The connection between institutions and economic development — the work of the 2024 Nobel laureates in economics",
       "title_hu": "Az intézmények és a gazdasági fejlődés kapcsolata — a 2024-es közgazdasági Nobel-díjasok munkássága",
@@ -50281,6 +50319,25 @@
       "linked_paper_id": "abagna-hornok-mulyukova-2025-jde",
       "added_at": "2026-04-25",
       "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "bako-ertl-kiss-2026-portfolio-present-bias",
+      "title": "Why do we procrastinate or overvalue immediate gains? It can matter for our financial decisions too",
+      "title_hu": "Miért halogatunk vagy értékeljük túl az azonnali nyereséget? – Ez fontos lehet a pénzügyi döntéseinknél is",
+      "authors": [
+        "kiss-hubert",
+        "Barna Bakó",
+        "Antal Ertl"
+      ],
+      "kind": "column",
+      "venue": "Portfolio (KRTK blog)",
+      "date": "2026-02-14",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/krtk/20260214/miert-halogatunk-vagy-ertekeljuk-tul-az-azonnali-nyereseget-ez-fontos-lehet-a-penzugyi-donteseinknel-is-817072",
+      "blurb": "Bakó, Ertl és Kiss a jelenpreferenciát („present bias”) mutatja be: miért értékeljük túl az azonnali jutalmat akkor is, ha a türelem jobb eredményt hozna. A szerzők motivált emlékezetről és arról is írnak, hogy az elkötelezettségi eszközök (határidők, fogadások) hogyan segíthetnek tanulásban, egészségben és pénzügyi tervezésben.",
+      "linked_paper_id": null,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13"
     },
     {
       "id": "bekes-2013-index-data",
@@ -51165,6 +51222,23 @@
       "last_reviewed_at": "2026-04-25"
     },
     {
+      "id": "csoka-2022-corvinus-game-theory-bankruptcy",
+      "title": "Researcher stories: Using game theory to figure out what a fair bankruptcy procedure looks like",
+      "title_hu": "Kutatói sztorik: Játékelmélettel fejti meg, milyen az igazságos csődeljárás",
+      "authors": [
+        "csoka-peter"
+      ],
+      "kind": "interview",
+      "venue": "Corvinus University",
+      "date": "2022-09-02",
+      "language": "hu",
+      "url": "https://www.uni-corvinus.hu/post/hir/kutatoi-sztorik-jatekelmelettel-fejti-meg-milyen-az-igazsagos-csodeljaras/",
+      "blurb": "A Corvinus „Kutatói sztorik” sorozatában Csóka Péter pénzügyi professzor arról beszél, hogyan használja a kooperatív játékelméletet arra, hogy meghatározza, mi minősül igazságos csődeljárásnak — különösen, ha egy vállalat tartozásai meghaladják a rendelkezésre álló vagyont.",
+      "linked_paper_id": null,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13"
+    },
+    {
       "id": "csomos-lengyel-2021-portfolio-tavolsag",
       "title": "Számít-e a földrajzi távolság? Városok közötti nemzetközi tudományos együttműködések változása",
       "title_hu": "Számít-e a földrajzi távolság? Városok közötti nemzetközi tudományos együttműködések változása",
@@ -51902,6 +51976,43 @@
       "added_at": "2026-05-03",
       "last_reviewed_at": "2026-05-03",
       "review_status": "ai-drafted"
+    },
+    {
+      "id": "kiss-keller-szakal-2024-portfolio-language-savings",
+      "title": "Success is encoded in our language: do you get rich sooner if you speak this kind of language?",
+      "title_hu": "A nyelvünkbe van kódolva a siker: előbb leszel gazdag, ha ilyen nyelvet beszélsz?",
+      "authors": [
+        "kiss-hubert",
+        "Tamás Keller",
+        "Péter Szakál"
+      ],
+      "kind": "column",
+      "venue": "Portfolio (KRTK blog)",
+      "date": "2024-04-27",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/krtk/20240427/a-nyelvunkbe-van-kodolva-a-siker-elobb-leszel-gazdag-ha-ilyen-nyelvet-beszelsz-682843",
+      "blurb": "Keller, Kiss és Szakál azt tesztelik, hogy a magyar mintán is megjelenik-e M. Keith Chen híres „nyelvi-megtakarítási hipotézise” — vagyis hogy a jelen idővel jövőről beszélő nyelvet használók türelmesebbek-e. Eredményük szerint nem találtak kapcsolatot a nyelvhasználat és az időpreferencia között.",
+      "linked_paper_id": null,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13"
+    },
+    {
+      "id": "koczy-sziklai-2026-portfolio-tolna-vote",
+      "title": "A Tolna voter's ballot is worth one and a half times more than a Budapest one — there is just time until April to debate reform",
+      "title_hu": "Egy tolnai szavazó voksa másfélszer többet ér, mint egy budapestié – Áprilisig épp alkalmas az idő a reformról vitázni",
+      "authors": [
+        "koczy-laszlo",
+        "Balázs R. Sziklai"
+      ],
+      "kind": "column",
+      "venue": "Portfolio (KRTK blog)",
+      "date": "2026-02-22",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/krtk/20260222/egy-tolnai-szavazo-voksa-masfelszer-tobbet-er-mint-egy-budapestie-aprilisig-epp-alkalmas-az-ido-a-reformrol-vitazni-818564",
+      "blurb": "Kóczy és Sziklai a KRTK-Portfolio blogon mutatja be, hogy a 2024-ben újrarajzolt választókerületi térkép továbbra is sérti a saját törvényi küszöbeit — három tolnai körzet több mint 20%-kal az országos átlag alatt van. A 2026-os választás előtti hónapok a reform megtárgyalására még alkalmasak lennének.",
+      "linked_paper_id": "koczy-sziklai-2026-aoor",
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13"
     },
     {
       "id": "koren-2013-index-erc-interview",
@@ -53462,7 +53573,7 @@
       "policy_framing_en": "Relevant to: anti-corruption policy, public administration reform, EU affairs, electoral system design.",
       "policy_framing_hu": "Releváns: korrupcióellenes politika, közigazgatási reform, EU-ügyek, választási rendszer.",
       "icon": "building-2",
-      "paper_count": 93
+      "paper_count": 94
     },
     {
       "id": "transition-postcommunist",
@@ -53528,7 +53639,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 228
+      "paper_count": 229
     },
     {
       "id": "market-design",
@@ -54914,8 +55025,8 @@
   "counts": {
     "authors": 112,
     "papers": 935,
-    "policy": 42,
-    "press": 176,
+    "policy": 43,
+    "press": 180,
     "topics": 21
   }
 }
