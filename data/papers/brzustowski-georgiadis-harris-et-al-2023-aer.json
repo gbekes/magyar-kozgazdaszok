@@ -19,11 +19,11 @@
   "url_replication": null,
   "abstract": "This paper reconsiders the problem of a durable-good monopolist who cannot make intertemporal commitments. The buyer’s valuation is binary and his private information. The seller has access to dynamic contracts and, in each period, decides whether to deploy the previous period’s contract or to replace it with a new one. The main result of the paper is that the Coase conjecture fails: the monopo-list’s payoff is bounded away from the low valuation irrespective of the discount factor. (JEL D42, D82, D86, L12)",
   "summary_en": "A classic puzzle in economics: a monopolist selling a durable good (say, a rare painting) should, in theory, rapidly cut the price once sales slow — anticipating this, buyers wait, and the monopolist's market power collapses. This is the Coase conjecture. The paper reopens the question for a setting where the seller can use \"smart contracts\" — dynamic contracts that can be rewritten each period. Surprisingly, with smart contracts the Coase conjecture fails: the monopolist can sustain prices well above the buyer's lowest possible valuation, no matter how patient buyers are. The result reframes a foundational prediction of durable-goods theory.",
-  "summary_hu": null,
+  "summary_hu": "Klasszikus közgazdasági rejtvény: egy tartós cikket (mondjuk egy ritka festményt) eladó monopolistának elméletileg gyorsan csökkentenie kellene az árat, amint lassul az eladás — ezt előre látva a vevők kivárnak, és a monopolista piaci ereje összeomlik. Ez a Coase-sejtés. A cikk újranyitja a kérdést egy olyan helyzetre, ahol az eladó „okos szerződéseket” használhat — időszakonként újraírható dinamikus szerződéseket. Meglepő módon okos szerződésekkel a Coase-sejtés megdől: a monopolista a vevők türelmétől függetlenül a legalacsonyabb lehetséges fizetési hajlandóság fölött tudja tartani az árat. Az eredmény átkeretezi a tartós javak elméletének egyik alapvető előrejelzését.",
   "data_used": "Theoretical paper; no empirical data.",
-  "data_used_hu": null,
+  "data_used_hu": "Elméleti dolgozat; nincs empirikus adat.",
   "policy_relevance": "Relevant to Hungarian competition policy (GVH) and digital-platform regulation. Smart contracts on blockchains and dynamic pricing algorithms on e-commerce platforms give durable-goods sellers tools that existed only in theory a decade ago. The paper implies that market power in durable-goods and digital-service markets may be more durable than classical Coase-conjecture arguments suggested, and that the advent of automated contract enforcement is itself a market-structure change. Caveat: the result is theoretical and assumes commitment-preserving contracts — in practice, enforcement and consumer awareness vary, and the effect size in specific Hungarian markets would require case-by-case assessment.",
-  "policy_relevance_hu": null,
+  "policy_relevance_hu": "Releváns a hazai versenypolitika (GVH) és a digitális platformok szabályozása szempontjából. A blokklánc-alapú okos szerződések és az e-kereskedelmi platformok dinamikus árazó algoritmusai olyan eszközöket adnak a tartós javakat értékesítő eladók kezébe, amelyek egy évtizede csak elméletben léteztek. A cikk arra utal, hogy a tartós javak és a digitális szolgáltatások piacán a piaci erő tartósabb lehet, mint amit a klasszikus Coase-érvelés sugallna, és az automatikus szerződés-érvényesítés megjelenése önmagában is piaci struktúrát formáló változás. Korlátok: az eredmény elméleti, és kötelezettségvállalást fenntartó szerződéseket feltételez — a gyakorlatban a végrehajtás és a fogyasztói tudatosság heterogén, és a konkrét magyar piaci hatások eseti vizsgálatot igényelnek.",
   "topics": [
     "industrial-organization"
   ],
@@ -36,7 +36,7 @@
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-23",
+  "last_reviewed_at": "2026-05-13",
   "review_status": "ai-drafted",
   "openalex_id": "W4367321980",
   "policy_instruments": [

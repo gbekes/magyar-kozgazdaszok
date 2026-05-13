@@ -18,11 +18,11 @@
   "url_replication": null,
   "abstract": "We study a two-sided dynamic matching market where agents arrive randomly. An arriving agent is immediately matched if agents are waiting on the other side. Otherwise, the agent decides whether to exit the market or join a queue to wait for a match. Waiting is costly: agents discount the future and incur costs while they wait. We characterize the equilibrium and socially optimal queue sizes under first-come, first-served. Depending on the model parameters, equilibrium queues can be shorter or longer than efficiency would require them to be. Indeed, socially optimal queues may be unbounded, even if equilibrium queues are not. By contrast, when agents only incur flow costs while they wait, equilibrium queues are typically longer than socially optimal ones (cf. Baccara et al., 2020). Unlike one-sided markets, the comparison between equilibrium and socially optimal queues in two-sided markets depends on agents' time preferences.",
   "summary_en": "When agents on both sides of a matching market arrive over time and incur waiting costs, when should regulators encourage queueing? Doval and Szentes characterise both equilibrium and socially optimal queue sizes in a two-sided dynamic matching market with future discounting and per-period waiting costs. Depending on parameters, equilibrium queues can be shorter or longer than optimal — and optimal queues may be unbounded even when equilibrium queues are not. The comparison depends critically on time preferences (discounting) — pure-flow-cost analysis (Baccara et al. 2020) misses this dimension entirely. Two-sided markets need richer policy tools than one-sided ones.",
-  "summary_hu": null,
+  "summary_hu": "Amikor egy párosítási piac mindkét oldalán időben érkeznek a szereplők és várakozási költségük is van, mikor érdemes a szabályozónak ösztönöznie a sorbaállást? Doval és Szentes Balázs egy kétoldalú, dinamikus párosítási piacon — diszkontálással és időszaki várakozási költségekkel — egyaránt karakterizálja az egyensúlyi és a társadalmilag optimális sorhosszt. A paraméterektől függően az egyensúlyi sorok lehetnek az optimálisnál rövidebbek vagy hosszabbak — sőt az optimális sorok lehetnek korlátlanok akkor is, amikor az egyensúlyiak nem. Az összehasonlítást kritikusan befolyásolják az időpreferenciák (diszkontálás) — a tisztán átfolyási költségű elemzés (Baccara és tsai., 2020) ezt a dimenziót teljesen kihagyja. A kétoldalú piacok gazdagabb szabályozási eszközöket kívánnak meg, mint az egyoldalúak.",
   "data_used": "Theoretical model — two-sided dynamic matching market with random arrivals, discounting, and waiting costs. No primary dataset.",
-  "data_used_hu": null,
+  "data_used_hu": "Elméleti modell — kétoldalú, dinamikus párosítási piac véletlen érkezésekkel, diszkontálással és várakozási költségekkel. Nincs adatbázis.",
   "policy_relevance": "Direct relevance for Hungarian markets organised as queueing systems: organ-donation matching (OVSZ), housing-allocation queues (kommunális ingatlankezelés), and labour-market matching at NFSZ. The paper shows two-sided queue regulation requires policies beyond simple admission control or caps — useful framing for Belügyminisztérium and Igazságügyi Minisztérium when designing matching protocols.",
-  "policy_relevance_hu": null,
+  "policy_relevance_hu": "Közvetlenül releváns a sorbaállási rendszerként szervezett magyar piacokra: szervátültetés-párosítás (OVSZ), kommunális ingatlankezelés lakásvárólistái, valamint az NFSZ munkaerő-piaci párosítása. A cikk megmutatja, hogy a kétoldalú sorok szabályozása túlmutat az egyszerű belépéskorlátozáson és kapacitásplafonokon — hasznos keret a Belügyminisztérium és az Igazságügyi Minisztérium számára párosítási protokollok tervezésénél.",
   "topics": [
     "mechanism-design",
     "labor-markets",
@@ -35,7 +35,7 @@
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-29",
+  "last_reviewed_at": "2026-05-13",
   "review_status": "ai-drafted",
   "openalex_id": "W4405105861"
 }

@@ -20,11 +20,11 @@
   "url_replication": null,
   "abstract": "This paper considers a moral hazard model with agent limited liability. Prior to interacting with the principal, the agent designs the production technology, which is a specification of his cost of generating each output distribution. After observing the production technology, the principal offers a payment scheme and then the agent chooses a distribution over outputs. We show that there is an optimal design involving only binary distributions (i.e., the cost of any other distribution is prohibitively high), and we characterize the equilibrium technology defined on the binary distributions. Notably, the equilibrium payoff of both players is 1/e.",
   "summary_en": "In standard moral-hazard problems, the principal designs incentives for an agent with given costs of producing different output distributions. Garrett, Georgiadis, Smolin and Szentes flip this: what if the agent designs the production technology BEFORE the principal sees it? They show the agent's optimal design is surprisingly simple — restrict the technology to only binary output distributions, making any continuous distribution prohibitively costly. The equilibrium payoff of both players turns out to be exactly 1/e (~37%) — a striking constant emerging from the equilibrium structure. The result reframes how to think about agent-driven technology choice.",
-  "summary_hu": null,
+  "summary_hu": "A szokásos morális kockázati feladványokban a megbízó az ügynök számára adott eredmény-eloszlási költségek mellett tervez ösztönzőket. Garrett, Georgiadis, Smolin és Szentes Balázs ezt megfordítja: mi van, ha az ügynök tervezi a termelési technológiát, MIELŐTT a megbízó látja azt? Megmutatják, hogy az ügynök optimális technológiája meglepően egyszerű — csak bináris eredmény-eloszlásokra szorítkozik, minden más folytonos eloszlás költségét tiltóan magasra teszi. Az egyensúlyi kifizetés mindkét félnek pontosan 1/e (kb. 37%) lesz — figyelemre méltó konstans, amely az egyensúly szerkezetéből adódik. Az eredmény újraértelmezi az ügynök által vezérelt technológiaválasztást.",
   "data_used": "Theoretical model — moral-hazard framework with agent technology design and limited liability. No primary dataset.",
-  "data_used_hu": null,
+  "data_used_hu": "Elméleti modell — morális kockázati keret korlátozott felelősséggel, ahol az ügynök tervezi a technológiát. Nincs adatbázis.",
   "policy_relevance": "Relevant for Hungarian regulators designing principal-agent contracts: state-asset management (MNV), public-procurement contracts (Public Procurement Authority KH), R&D-grant terms (NRDI Fund). The paper shows that allowing the agent to choose the cost structure produces sharp equilibrium properties — useful theoretical reference for analysing performance-based public contracts.",
-  "policy_relevance_hu": null,
+  "policy_relevance_hu": "Releváns a megbízó–ügynök szerződéseket tervező hazai szabályozók számára: állami vagyonkezelés (MNV), közbeszerzési szerződések (Közbeszerzési Hatóság), kutatás-fejlesztési pályázatok feltételei (NKFI Alap). A cikk azt mutatja meg, hogy ha az ügynök választhatja a költségszerkezetet, az éles egyensúlyi tulajdonságokat eredményez — hasznos elméleti referencia a teljesítményalapú közszerződések elemzéséhez.",
   "topics": [
     "mechanism-design",
     "industrial-organization"
@@ -36,7 +36,7 @@
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-29",
+  "last_reviewed_at": "2026-05-13",
   "review_status": "ai-drafted",
   "openalex_id": "W4319971686"
 }

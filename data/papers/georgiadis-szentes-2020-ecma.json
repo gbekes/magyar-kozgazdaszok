@@ -18,11 +18,11 @@
   "url_replication": null,
   "abstract": "This paper considers a Principal–Agent model with hidden action in which the Principal can monitor the Agent by acquiring independent signals conditional on effort at a constant marginal cost. The Principal aims to implement a target effort level at minimal cost. The main result of the paper is that the optimal information‐acquisition strategy is a two‐threshold policy and, consequently, the equilibrium contract specifies two possible wages for the Agent. This result provides a rationale for the frequently observed single‐bonus wage contracts .",
   "summary_en": "A firm (the principal) wants to motivate a worker (the agent) to exert effort but cannot directly observe effort. It can, however, buy information (monitoring signals) at a constant marginal cost. What's the best monitoring strategy? The paper's clean answer: a two-threshold policy is optimal — gather information until it crosses one threshold, wage the agent one of two amounts depending on which side of the threshold the signal falls. Consequently, the optimal contract specifies just two possible wages — explaining why single-bonus wage contracts (hit target, get bonus; miss, don't) are so common in practice.",
-  "summary_hu": null,
+  "summary_hu": "Egy cég (a megbízó) erőfeszítésre szeretné ösztönözni a munkavállalót (az ügynököt), de a tényleges erőfeszítést nem figyelheti meg közvetlenül. Állandó határköltséggel azonban információt (monitorozási jeleket) vásárolhat. Mi a legjobb monitorozási stratégia? A cikk tiszta válasza: két küszöbös politika az optimális — addig kell információt gyűjteni, amíg az érték át nem lép egy küszöböt, és a munkavállalót a két jel-tartomány szerint kétféle bérrel kell jutalmazni. Következésképp az optimális szerződés csak két lehetséges bért tartalmaz — ez magyarázza, miért olyan gyakoriak a gyakorlatban az egybónuszos szerződések (cél teljesül: bónusz; nem teljesül: nincs).",
   "data_used": "Theoretical paper; no empirical data.",
-  "data_used_hu": null,
+  "data_used_hu": "Elméleti dolgozat; nincs empirikus adat.",
   "policy_relevance": "Primarily a foundational contribution to contract theory. Relevant to how public-sector performance-pay schemes are designed (Magyar Posta, MÁV, public-administration bonuses) and to firm compensation policy. The result rationalises simple pass/fail bonus contracts over complex performance-sensitive schemes. Caveat: the model assumes a clean effort-monitoring technology; real-world performance evaluation has idiosyncrasies, political interference, and gaming concerns that the model does not address.",
-  "policy_relevance_hu": null,
+  "policy_relevance_hu": "Elsősorban alapozó hozzájárulás a szerződéselmélethez. Releváns a közszférás teljesítménybérezés tervezéséhez (Magyar Posta, MÁV, közigazgatási bónuszok) és a vállalati bérezési politikához. Az eredmény racionalizálja, hogy az egyszerű cél-teljesült/nem-teljesült bónusz miért előnyösebb az összetett teljesítményérzékeny rendszereknél. Korlátok: a modell tiszta erőfeszítés-monitorozási technológiát feltételez; a valós teljesítményértékelést egyedi jellemzők, politikai befolyás és a rendszer kijátszásának kockázatai is befolyásolják, amelyekkel a modell nem foglalkozik.",
   "topics": [
     "industrial-organization"
   ],
@@ -35,7 +35,7 @@
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-23",
+  "last_reviewed_at": "2026-05-13",
   "review_status": "ai-drafted",
   "openalex_id": "W3088173592",
   "policy_instruments": [

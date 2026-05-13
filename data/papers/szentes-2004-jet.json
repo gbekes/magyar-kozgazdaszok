@@ -17,11 +17,11 @@
   "url_replication": null,
   "abstract": null,
   "summary_en": "The Revenue Equivalence Theorem says that a wide class of auctions yields the same expected seller revenue. Szentes shows how equilibrium-preserving transformations of strategies and types let one move between seemingly different auction formats while preserving expected outcomes — providing a unifying framework for revenue-equivalence results that previously required case-by-case proof. The paper offers a single transformation lemma that generates many revenue-equivalence corollaries as special cases.",
-  "summary_hu": null,
+  "summary_hu": "A bevételegyenértékesség tétele (Revenue Equivalence Theorem) szerint az aukciók egy széles osztálya azonos várható eladói bevételt eredményez. Szentes Balázs azt mutatja meg, hogy stratégia- és típus-egyensúlymegőrző transzformációkkal átjárhatóvá válnak látszólag különböző aukciós formátumok úgy, hogy a várható kimenetek változatlanok maradnak — ez egységes keretet ad olyan bevételegyenértékességi eredményekhez, amelyeket korábban eseti bizonyításokkal kellett igazolni. A cikk egyetlen transzformációs lemmát kínál, amelyből számos bevételegyenértékességi következmény speciális esetként adódik.",
   "data_used": "Theoretical paper in auction theory. No primary dataset.",
-  "data_used_hu": null,
+  "data_used_hu": "Elméleti aukcióelméleti dolgozat. Nincs adatbázis.",
   "policy_relevance": "Theoretical foundation for the design of public-procurement auctions and spectrum allocations (KEFI, NMHH, MEKH): clarifies which design choices are revenue-irrelevant under the equivalence conditions and which break it. Practical takeaway for procurement policy: the choice between first-price and second-price designs is revenue-neutral under classical assumptions, but environment-specific deviations can matter substantially.",
-  "policy_relevance_hu": null,
+  "policy_relevance_hu": "Elméleti alap a közbeszerzési aukciók és frekvenciakiosztások (KEFI, NMHH, MEKH) tervezéséhez: tisztázza, mely tervezési döntések közömbösek a bevétel szempontjából az egyenértékességi feltételek mellett, és melyek bontják meg azt. Közbeszerzés-politikai gyakorlati tanulság: az elsőáras és másodáras aukciók közötti választás klasszikus feltételek mellett bevétel-semleges, de a környezeti eltérések jelentősen módosíthatják az eredményt.",
   "topics": [
     "mechanism-design",
     "market-design"
@@ -35,7 +35,7 @@
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-05-09",
+  "last_reviewed_at": "2026-05-13",
   "review_status": "ai-drafted",
   "openalex_id": "W2020125313"
 }

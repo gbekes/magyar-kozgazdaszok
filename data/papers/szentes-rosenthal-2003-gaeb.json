@@ -18,11 +18,11 @@
   "url_replication": null,
   "abstract": null,
   "summary_en": "When two bidders compete simultaneously for three indivisible objects, the geometry of best-response strategies is much richer than in single-object auctions. Szentes and Rosenthal characterise equilibria of three-object two-bidder simultaneous auctions, showing that mixed-strategy equilibria take geometric forms (chopsticks, tetrahedra) that have no counterpart in single-object analysis. The paper expands the theoretical toolkit for multi-object auctions, where most real-world public-procurement bundles live.",
-  "summary_hu": null,
+  "summary_hu": "Amikor két licitáló párhuzamosan, három oszthatatlan tárgyért versenyez, a legjobb válaszstratégiák geometriája sokkal gazdagabb, mint egytárgyas aukcióknál. Szentes Balázs és Rosenthal jellemzi a háromtárgyas, kétlicitálós, párhuzamos aukciók egyensúlyait, és megmutatja, hogy a kevert stratégiás egyensúlyok olyan geometriai alakzatokat öltenek (pálcikák, tetraéderek), amelyeknek nincs egytárgyas megfelelőjük. A cikk bővíti a többtárgyas aukciók elméleti eszköztárát — éppen abban a környezetben, ahol a valós közbeszerzési csomagok legtöbbje működik.",
   "data_used": "Theoretical paper. No primary dataset; the analysis is a complete characterisation of mixed-strategy equilibria in a specific class of multi-object auctions.",
-  "data_used_hu": null,
+  "data_used_hu": "Elméleti dolgozat. Nincs adatbázis; az elemzés egy adott többtárgyas aukciós osztály kevert stratégiás egyensúlyainak teljes karakterizációja.",
   "policy_relevance": "Methodological foundation for designing bundled public-procurement auctions (Hungarian energy concessions, EU spectrum-bundle auctions, MEKH gas-distribution awards): the geometric structure of equilibria in simultaneous multi-object auctions has direct implications for whether package bidding raises or lowers expected revenue versus separate sales — a question current Hungarian and EU procurement policy continues to face.",
-  "policy_relevance_hu": null,
+  "policy_relevance_hu": "Módszertani alap a csomagos közbeszerzési aukciók tervezéséhez (hazai energiakoncessziók, uniós frekvenciacsomagok, MEKH gázelosztási kiírások): a párhuzamos többtárgyas aukciók egyensúlyainak geometriai szerkezete közvetlenül érinti, hogy a csomagos licitálás növeli vagy csökkenti-e a várható bevételt a különálló értékesítéshez képest — ez a kérdés a hazai és uniós közbeszerzési politikában ma is napirenden van.",
   "topics": [
     "mechanism-design",
     "market-design"
@@ -36,7 +36,7 @@
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-05-09",
+  "last_reviewed_at": "2026-05-13",
   "review_status": "ai-drafted",
   "openalex_id": "W2136841155"
 }

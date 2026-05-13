@@ -18,11 +18,11 @@
   "url_replication": null,
   "abstract": "This paper considers a continuous-time biological model in which the growth rate of a population is determined by the risk attitude of its individuals. We consider choices over lotteries which determine the number of offspring and involve both idiosyncratic and aggregate risks. We distinguish between two types of aggregate risk: environmental variations and natural disasters. Environmental variations influence the death and birth rates, while natural disasters result in instantaneous drops in population size.",
   "summary_en": "Where do human risk preferences come from? Robatto and Szentes build a continuous-time biological model in which a population's growth rate depends on its members' risk attitudes when faced with lotteries that determine offspring count. They distinguish two types of aggregate risk — environmental variations affecting birth/death rates, and natural disasters causing instantaneous population drops. The model derives evolutionarily stable risk preferences from biological fundamentals. The result links observed human risk attitudes (loss aversion, idiosyncratic vs. aggregate risk handling) to ancestral selection pressures.",
-  "summary_hu": null,
+  "summary_hu": "Honnan származnak az emberi kockázati preferenciák? Robatto és Szentes Balázs folytonos idejű biológiai modellt épít, amelyben egy populáció növekedési rátája tagjai kockázati hozzáállásától függ olyan lottójátékok mellett, amelyek meghatározzák az utódok számát. Az aggregált kockázat két típusát különböztetik meg — a környezeti változásokat, amelyek a születési és halálozási rátát befolyásolják, és a természeti katasztrófákat, amelyek a populáció méretének azonnali csökkenését okozzák. A modell evolúciósan stabil kockázati preferenciákat vezet le biológiai alapokból. Az eredmény az ősi szelekciós nyomásokhoz köti a megfigyelt emberi kockázati hozzáállásokat (veszteségkerülés, az egyedi és aggregált kockázatok eltérő kezelése).",
   "data_used": "Theoretical model — continuous-time biological population dynamics with idiosyncratic and aggregate risk. No primary dataset.",
-  "data_used_hu": null,
+  "data_used_hu": "Elméleti modell — folytonos idejű biológiai populációdinamika egyedi és aggregált kockázattal. Nincs adatbázis.",
   "policy_relevance": "Provides foundations for behavioural-economics interventions used by Hungarian and EU policy researchers when designing risk-communication strategies: pension auto-enrolment defaults (MNB), insurance-take-up nudges, financial-literacy campaigns. Useful theoretical reference for understanding why people respond to aggregate vs. idiosyncratic risks differently.",
-  "policy_relevance_hu": null,
+  "policy_relevance_hu": "Elméleti alapot ad a hazai és uniós szakpolitikai kutatók által használt viselkedésalapú beavatkozásokhoz a kockázatkommunikáció tervezésekor: nyugdíj-automatikus belépés alapértelmezett beállításai (MNB), biztosítási termékek igénybevételét segítő nudge-ok, pénzügyi tudatosságot fejlesztő kampányok. Hasznos elméleti referencia annak megértéséhez, hogy az emberek miért reagálnak eltérően az aggregált és az egyedi kockázatokra.",
   "topics": [
     "behavioral",
     "macroeconomics"
@@ -34,7 +34,7 @@
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-19",
-  "last_reviewed_at": "2026-04-29",
+  "last_reviewed_at": "2026-05-13",
   "review_status": "ai-drafted",
   "openalex_id": "W2189502241"
 }

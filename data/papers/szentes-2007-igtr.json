@@ -17,11 +17,11 @@
   "url_replication": null,
   "abstract": "Symmetric equilibria are constructed for a class of symmetric auction games. The games all have two identical bidders bidding in two simultaneous sealed-bid auctions for identical objects. Information is complete and the objects are either complements or substitutes. In both cases a continuum of mixed-strategy equilibria are identified. All these equilibria have a surprising structure: The supports of all the mixtures that generate equilibria are two one-dimensional curves, and they surround a two-dimensional set of pure best responses.",
   "summary_en": "When two bidders bid simultaneously in two separate sealed-bid auctions for identical objects, what equilibria can arise? Szentes constructs symmetric equilibria for this class of auction games. With complete information and either complementary or substitute objects, a continuum of mixed-strategy equilibria are identified. The structural finding is striking: the supports of all the mixtures generating equilibria are two one-dimensional curves, surrounded by a two-dimensional set of pure best responses. This curve-and-region structure is unusual in the auction-equilibrium literature and has implications for designing simultaneous-bidding mechanisms.",
-  "summary_hu": null,
+  "summary_hu": "Ha két licitáló egyszerre licitál két különálló, azonos tárgyú zárt borítékos aukcióban, milyen egyensúlyok jöhetnek létre? Szentes Balázs szimmetrikus egyensúlyokat szerkeszt erre az aukciós játékosztályra. Teljes információ mellett, akár komplementer, akár helyettesítő tárgyakkal, kevert stratégiás egyensúlyok kontinuuma azonosítható. A szerkezeti megállapítás figyelemre méltó: az egyensúlyokat generáló kevert stratégiák tartóhalmazai két egydimenziós görbéből állnak, amelyeket egy kétdimenziós tisztastratégiás válaszhalmaz vesz körül. Ez a görbe–tartomány szerkezet szokatlan az aukciós egyensúlyok irodalmában, és következményei vannak a párhuzamos licitálási mechanizmusok tervezésére.",
   "data_used": "Theoretical paper. Game-theoretic analysis of simultaneous sealed-bid auctions with two bidders. Mathematical construction of mixed-strategy equilibria.",
-  "data_used_hu": null,
+  "data_used_hu": "Elméleti dolgozat. Két licitálós, párhuzamos zárt borítékos aukciók játékelméleti elemzése. Kevert stratégiás egyensúlyok matematikai konstrukciója.",
   "policy_relevance": "Indirect relevance to the Hungarian Public Procurement Authority (Közbeszerzési Hatóság) and to MEKH spectrum / energy-block auctions: simultaneous-bid designs are common in practice but their multi-equilibrium structure is rarely modelled. The paper's curve-and-region equilibrium geometry suggests the welfare ranking of simultaneous vs sequential auctions may be more delicate than commonly assumed in policy reviews.",
-  "policy_relevance_hu": null,
+  "policy_relevance_hu": "Közvetett relevancia a Közbeszerzési Hatóság és a MEKH frekvencia- és energiablokk-aukciói számára: a párhuzamos licitálási konstrukciók a gyakorlatban gyakoriak, de többegyensúlyos szerkezetüket ritkán modellezik. A cikk görbe–tartomány egyensúlyi geometriája arra utal, hogy a párhuzamos és a szekvenciális aukciók jóléti rangsora kényesebb kérdés, mint amit a szakpolitikai elemzések általában feltételeznek.",
   "topics": [
     "mechanism-design",
     "industrial-organization"
@@ -33,7 +33,7 @@
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-27",
+  "last_reviewed_at": "2026-05-13",
   "review_status": "ai-drafted",
   "openalex_id": "W2139204974"
 }
