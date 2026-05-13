@@ -957,7 +957,7 @@
       "countries": [
         "HU"
       ],
-      "paper_count": 3,
+      "paper_count": 4,
       "policy_count": 0,
       "press_count": 0
     },
@@ -1329,7 +1329,7 @@
       "countries": [
         "HU"
       ],
-      "paper_count": 16,
+      "paper_count": 17,
       "policy_count": 0,
       "press_count": 4
     },
@@ -18877,6 +18877,49 @@
       "last_reviewed_at": "2026-05-12",
       "review_status": "ai-drafted",
       "openalex_id": "W4318979373"
+    },
+    {
+      "id": "csurilla-ferto-2024-ssqu",
+      "title": "How to win the first Olympic medal? And the second?",
+      "authors": [
+        "csurilla-gergely",
+        "ferto-imre"
+      ],
+      "publication_type": "article",
+      "journal": "Social Science Quarterly",
+      "year": 2024,
+      "volume": "105",
+      "issue": "5",
+      "pages": "1544-1564",
+      "doi": "10.1111/ssqu.13436",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1111/ssqu.13436",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "What does it take for a country to win its first Olympic medal — and what changes once you're trying to win more? Csurilla and Fertő use country-level panel data across seven Summer Olympics (1996-2021) and zero-inflated beta regressions to separate the first-medal and additional-medal margins. Population size matters for both. Economic development matters strongly for the first medal but flattens for subsequent ones — a development-dependent threshold. Superpower nations (US, China, Russia) have sport-specific advantages that decouple from general national characteristics. The decomposition implies different policy levers for small-country bid strategies vs. established Olympic powers.",
+      "summary_hu": "Mi kell egy országnak az első olimpiai éremhez — és mi változik, amikor már a többediket akarja? Csurilla és Fertő ország-szintű paneladatokat használ hét nyári olimpiára (1996–2021), zero-inflated béta-regressziókkal szétválasztva az első-érem és további-érem margókat. A népesség mindkettőnél számít. A gazdasági fejlettség erősen jelzi az első érmet, de ellaposodik a következőkre — egy fejlettség-függő küszöb. A szuperhatalmak (USA, Kína, Oroszország) sport-specifikus előnyökkel rendelkeznek, amelyek elválnak az általános ország-jellemzőktől. A felbontás eltérő szakpolitikai eszközöket sugall a kisország-pályázati stratégiákhoz vs. a már bevett olimpiai nagyhatalmakhoz.",
+      "data_used": "Country-level panel data across seven Summer Olympic Games (Atlanta 1996, Sydney 2000, Athens 2004, Beijing 2008, London 2012, Rio 2016, Tokyo 2021). Outcome: weighted market-share medal performance indicator. Zero-inflated beta regression separates participation, first-medal, and additional-medal margins. Predictors: population, GDP per capita, history of hosting, sport-specific investment.",
+      "data_used_hu": "Ország-szintű paneladatok hét nyári olimpiára (Atlanta 1996, Sydney 2000, Athén 2004, Peking 2008, London 2012, Rio 2016, Tokió 2021). Kimenet: súlyozott piacrész-éremteljesítmény mutató. Zero-inflated béta-regresszió szétválasztja a részvétel, első-érem és további-érem margókat. Magyarázó változók: népesség, egy főre jutó GDP, házigazdai múlt, sportágspecifikus beruházás.",
+      "policy_relevance": "For the Belügyminisztérium Sportért Felelős Államtitkársága and MOB (Magyar Olimpiai Bizottság) when prioritising sport-investment allocation. The paper's key message — that the first-medal and additional-medal margins respond to different country characteristics — argues for a tiered investment strategy: build cross-cutting human / economic infrastructure for breakthrough sports, and target sport-specific investment for sports where Hungary already medals.",
+      "policy_relevance_hu": "A Belügyminisztérium Sportért Felelős Államtitkársága és a MOB (Magyar Olimpiai Bizottság) számára a sport-befektetés-allokáció priorizálásához. A tanulmány fő üzenete — hogy az első-érem és további-érem margók eltérő ország-jellemzőkre reagálnak — réteges befektetési stratégia mellett érvel: keresztmetszeti humán- / gazdasági infrastruktúra építése áttörés-sportágakhoz, és sportág-specifikus befektetés célzása azokra a sportokra, ahol Magyarország már érmel.",
+      "topics": [
+        "behavioral",
+        "industrial-organization"
+      ],
+      "methods": [
+        "panel-data",
+        "descriptive-survey"
+      ],
+      "countries_studied": [],
+      "data_types": [
+        "macro-aggregate"
+      ],
+      "featured": false,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4401542589"
     },
     {
       "id": "csurilla-ferto-et-al-2026-scirep",
@@ -48599,7 +48642,7 @@
       "policy_framing_en": "Relevant to: consumer protection, pension-default design, nudging, financial-education regulation, addictive-product regulation.",
       "policy_framing_hu": "Releváns: fogyasztóvédelem, nyugdíjalap-alapbeállítások, döntéslendítés (nudge), pénzügyi edukáció szabályozása, függőséget okozó termékek szabályozása.",
       "icon": "brain",
-      "paper_count": 143
+      "paper_count": 144
     },
     {
       "id": "industrial-organization",
@@ -48610,7 +48653,7 @@
       "policy_framing_en": "Relevant to: competition policy (GVH), merger review, platform regulation, auction design, sector-specific regulation.",
       "policy_framing_hu": "Releváns: versenypolitika (GVH), fúziókontroll, platformszabályozás, aukciótervezés, ágazati szabályozás.",
       "icon": "network",
-      "paper_count": 119
+      "paper_count": 120
     },
     {
       "id": "macroeconomics",
@@ -50028,7 +50071,7 @@
   ],
   "counts": {
     "authors": 106,
-    "papers": 854,
+    "papers": 855,
     "policy": 35,
     "press": 159,
     "topics": 21
