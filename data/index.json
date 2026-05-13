@@ -2995,7 +2995,7 @@
       ],
       "bio_en": "Judit Krekó is a senior researcher at the Budapest Institute for Policy Analysis and at the HUN-REN Centre for Economic and Regional Studies (KRTK). Her research applies microeconometric methods to Hungarian labour-market and social policy — disability insurance, employment quotas, regional health inequalities — often with co-authors Dániel Prinz, Álmos Telegdy, and Andrea Weber. Before joining the Budapest Institute in 2019 she spent more than a decade as a senior analyst at the Magyar Nemzeti Bank. Her recent papers appear in Labour Economics, Economica, and Scientific Reports.",
       "bio_hu": "Krekó Judit a Budapest Institute for Policy Analysis és a HUN-REN Közgazdaság- és Regionális Tudományi Kutatóközpont (KRTK) vezető kutatója. Kutatása mikroökonometriai módszereket alkalmaz a magyar munkaerőpiac és szociálpolitika kérdéseire — rokkantsági ellátás, foglalkoztatási kvóta, regionális egészségügyi egyenlőtlenségek —, gyakori társszerzői Prinz Dániel, Telegdy Álmos és Andrea Weber. A Budapest Institute-hoz 2019-ben csatlakozott; előtte több mint egy évtizedig volt a Magyar Nemzeti Bank vezető elemzője. Friss tanulmányai a Labour Economicsban, az Economicában és a Scientific Reportsban jelentek meg.",
-      "photo_url": null,
+      "photo_url": "https://kti.krtk.hu/wp-content/uploads/2025/06/Kreko-Judit-scaled-1.jpg",
       "qualifying_publication": {
         "title": "Take-up and labor supply responses to disability insurance earnings limits",
         "journal": "Labour Economics",
@@ -3007,7 +3007,7 @@
       "review_status": "ai-drafted",
       "openalex_id": "A5088485925",
       "added_at": "2026-05-10",
-      "last_reviewed_at": "2026-05-10",
+      "last_reviewed_at": "2026-05-13",
       "countries": [
         "HU"
       ],
@@ -3170,6 +3170,13 @@
           "name_hu": "University College London",
           "role": "Professor of Economics",
           "role_hu": "közgazdaságtudomány professzor",
+          "start": 2022
+        },
+        {
+          "name": "Institute for Fiscal Studies (IFS-CPP)",
+          "name_hu": "Institute for Fiscal Studies (IFS-CPP)",
+          "role": "Co-Director / Research Associate",
+          "role_hu": "társigazgató, kutató munkatárs",
           "start": 2015
         },
         {
@@ -3177,11 +3184,32 @@
           "name_hu": "KRTK Közgazdaság-tudományi Intézet",
           "role": "External Fellow",
           "role_hu": "külső munkatárs",
-          "start": 2018
+          "start": 2015
+        },
+        {
+          "name": "CEPR",
+          "name_hu": "CEPR",
+          "role": "Research Affiliate",
+          "role_hu": "kutató munkatárs",
+          "start": 2017
+        },
+        {
+          "name": "IZA",
+          "name_hu": "IZA",
+          "role": "Research Fellow",
+          "role_hu": "kutató munkatárs",
+          "start": 2015
+        },
+        {
+          "name": "Centre for Economic Performance, LSE",
+          "name_hu": "Centre for Economic Performance, LSE",
+          "role": "Associate",
+          "role_hu": "kutató munkatárs",
+          "start": 2016
         }
       ],
       "website": "https://sites.google.com/site/attilalindner/",
-      "email": null,
+      "email": "a.lindner@ucl.ac.uk",
       "repec_id": "pli582",
       "scholar_id": "pvRQMxkAAAAJ",
       "orcid": null,
@@ -3189,24 +3217,25 @@
         "labor-markets",
         "firms-productivity"
       ],
-      "bio_en": "Attila Lindner is Professor of Economics at University College London. He studies labor markets, with a focus on how policies such as minimum wages and payroll taxes affect workers, firms, and prices. Much of his empirical work uses Hungarian administrative data. Attila Lindner has published in journals like American Economic Journal: Applied Economics, American Economic Review and Quarterly Journal of Economics.",
-      "bio_hu": "Lindner Attila a University College London közgazdaságtan professzora. A munkaerőpiacot kutatja, különös tekintettel arra, hogyan hatnak a minimálbér és a bérterhek a munkavállalókra, a vállalatokra és az árakra. Empirikus munkáinak jelentős része magyar adminisztratív adatokon alapul. Lindner Attila tanulmányai olyan folyóiratokban jelentek meg, mint az American Economic Journal: Applied Economics, az American Economic Review és a Quarterly Journal of Economics.",
+      "bio_en": "Attila Lindner is Professor of Economics at University College London, where he co-directs the IFS Centre for the Microeconomic Analysis of Public Policy and serves as a joint managing editor of the Review of Economic Studies. His research uses Hungarian and other administrative micro-data to study minimum wages, payroll taxes, unemployment insurance and pension design. His papers appear in the Quarterly Journal of Economics (three times), American Economic Review, Review of Economic Studies and AEJ: Applied Economics, and he co-authored the minimum-wage chapter of the Handbook of Labor Economics (2024). He holds an ERC Starting Grant, won the 2024 Gábor Kézdi Award, and is a Research Affiliate at CEPR, IZA and KRTK.",
+      "bio_hu": "Lindner Attila a University College London közgazdaságtan professzora, az IFS Centre for the Microeconomic Analysis of Public Policy társigazgatója, és a Review of Economic Studies társ-főszerkesztője. Magyar és külföldi adminisztratív mikroadatokon vizsgálja a minimálbér, a bérterhek, a munkanélküli-ellátás és a nyugdíjrendszer hatásait. Tanulmányai a Quarterly Journal of Economicsban (háromszor), az American Economic Reviewban, a Review of Economic Studiesban és az AEJ: Appliedben jelentek meg; ő írta Arindrajit Dube-bal a Handbook of Labor Economics 2024-es minimálbér-fejezetét. ERC Starting Grant nyertese, 2024-ben Kézdi Gábor-díjat kapott, és a CEPR, IZA, valamint a KRTK kutató munkatársa.",
       "photo_url": "https://profiles.ucl.ac.uk/52122-attila-lindner/thumbnail",
       "qualifying_publication": {
         "title": "Who Pays for the Minimum Wage?",
         "journal": "American Economic Review",
         "year": 2019
       },
-      "open_to_media_en": false,
-      "open_to_media_hu": false,
-      "media_note": null,
+      "open_to_media_en": true,
+      "open_to_media_hu": true,
+      "media_note": "Rendszeresen ír a Telex Defacto rovatába, és hozzáférhető angol és magyar nyelvű sajtó-megkeresésekre munkaerőpiaci, adópolitikai, minimálbér- és vagyonadó-kérdésekben.",
       "openalex_id": "A5111929267",
-      "review_status": "needs-verification",
+      "review_status": "confident",
       "countries": [
         "GB",
         "HU"
       ],
-      "paper_count": 6,
+      "last_reviewed_at": "2026-05-13",
+      "paper_count": 9,
       "policy_count": 0,
       "press_count": 7
     },
@@ -4766,7 +4795,7 @@
       ],
       "bio_en": "István György Tóth is President of TÁRKI Social Research Institute in Budapest, and one of the central figures of Hungarian and Central-European inequality and social-policy research. He works on income distribution, poverty, welfare-state reform, and the political economy of redistribution, and has co-authored Handbook chapters and OECD-affiliated volumes on cross-country inequality. His journal articles include Tax awareness and reform of the welfare state with János Kornai (Economics of Transition 1998) and child-poverty work with Michael Förster in Economics of Transition and the Journal of European Social Policy.",
       "bio_hu": "Tóth István György a TÁRKI Társadalomkutatási Intézet elnöke, és a magyar, illetve közép-európai egyenlőtlenség- és szociálpolitikai kutatás egyik központi alakja. Kutatásai a jövedelemeloszlás, a szegénység, a jóléti rendszer reformja és az újraelosztás politikai gazdaságtana köré szerveződnek; társszerzője nemzetközi kézikönyv-fejezeteknek és OECD-hez kapcsolódó köteteknek a kereszt-országos egyenlőtlenségről. Folyóiratcikkei között szerepel a Kornai Jánossal közös „Tax awareness and reform of the welfare state” (Economics of Transition, 1998) és a Michael Försterrel közös gyermekszegénységi munka az Economics of Transitionben és a Journal of European Social Policyban.",
-      "photo_url": null,
+      "photo_url": "https://www.tarki.hu/sites/default/files/faces/toth.jpg",
       "qualifying_publication": {
         "title": "Tax awareness and reform of the welfare state: Hungarian survey results",
         "journal": "Economics of Transition",
@@ -4778,7 +4807,7 @@
       "review_status": "ai-drafted",
       "openalex_id": null,
       "added_at": "2026-05-10",
-      "last_reviewed_at": "2026-05-10",
+      "last_reviewed_at": "2026-05-13",
       "countries": [
         "HU"
       ],
@@ -5183,7 +5212,7 @@
       ],
       "bio_en": "Zoltan Wolf is an applied microeconomist working with U.S. Census Bureau plant-level data on firm dynamics, productivity dispersion, and the macro consequences of micro heterogeneity. He has been a long-time contributor to the Census Bureau's Collaborative Micro-Productivity Project. Zoltan Wolf has published in journals like American Economic Journal: Macroeconomics, American Economic Review and Review of Economics and Statistics.",
       "bio_hu": "Wolf Zoltán alkalmazott mikroökonómus, aki az amerikai Census Bureau telephely-szintű adataival dolgozik a vállalati dinamikák, termelékenységi szóródás és a mikro-heterogenitás makrogazdasági következményei területén. Régóta közreműködője a Census Bureau Collaborative Micro-Productivity Projectjének. Wolf Zoltán tanulmányai olyan folyóiratokban jelentek meg, mint az American Economic Journal: Macroeconomics, az American Economic Review és a Review of Economics and Statistics.",
-      "photo_url": null,
+      "photo_url": "https://lh3.googleusercontent.com/sitesv/AA5AbUBilENYaVRpxs1vPLfAf3_cZ6XNXsc7Ze7iDWxJioqqiDq7w2ePL-w025ZojHLZ9xsVCtv9JrGm2NR4buh5BmyWGJJu3w9i5Hc14vxDc4qt3_f3P8LJ5ybaGK6gK_TJVyrky3kufAQL3CIcKR_7C171vJSrHi_c87sEFWvDBKlMnidPLRhStb97Ac0=w16383",
       "qualifying_publication": null,
       "deceased": false,
       "died": null,
@@ -5191,6 +5220,7 @@
       "open_to_media_hu": false,
       "media_note": null,
       "review_status": "needs-verification",
+      "last_reviewed_at": "2026-05-13",
       "countries": [
         "US"
       ],
@@ -17478,6 +17508,57 @@
       "openalex_id": "W3123490317"
     },
     {
+      "id": "cengiz-dube-lindner-zipperer-2019-qje",
+      "title": "The Effect of Minimum Wages on Low-Wage Jobs",
+      "authors": [
+        "Doruk Cengiz",
+        "Arindrajit Dube",
+        "lindner-attila",
+        "Ben Zipperer"
+      ],
+      "publication_type": "article",
+      "journal": "Quarterly Journal of Economics",
+      "year": 2019,
+      "volume": "134",
+      "issue": "3",
+      "pages": "1405-1454",
+      "doi": "10.1093/qje/qjz014",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1093/qje/qjz014",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "We estimate the effect of minimum wages on low-wage jobs using 138 prominent state-level minimum wage changes between 1979 and 2016 in the United States using a difference-in-differences approach. We first estimate the effect of the minimum wage increase on employment changes by wage bins throughout the hourly wage distribution. We then focus on the bottom part of the wage distribution and compare the number of excess jobs paying at or slightly above the new minimum wage to the missing jobs paying below it to infer the employment effect. We find that the overall number of low-wage jobs remained essentially unchanged over the five years following the increase. At the same time, the direct effect of the minimum wage on average earnings was amplified by modest wage spillovers at the bottom of the wage distribution. Our estimates by detailed demographic groups show that the lack of job loss is not explained by labor-labor substitution at the bottom of the wage distribution. We also find no evidence of disemployment when we consider higher levels of minimum wages.",
+      "summary_en": "How many low-wage jobs do US minimum-wage hikes destroy? Cengiz, Dube, Lindner and Zipperer pool 138 state-level minimum-wage increases between 1979 and 2016 and develop a bunching estimator: they count the missing jobs just below the new minimum and compare with the excess jobs just above it. The result is striking. Over the five years after each hike, the number of low-wage jobs is essentially unchanged — the missing jobs and the excess jobs roughly cancel. Average earnings of affected workers rise sharply. The paper is one of the most cited pieces of evidence in the modern minimum-wage debate and shifted policy discussion away from the textbook prediction of large disemployment effects.",
+      "summary_hu": "Mennyi alacsony bérű állást szüntet meg egy minimálbér-emelés az Egyesült Államokban? Cengiz, Dube, Lindner és Zipperer 138, 1979 és 2016 közötti tagállami minimálbér-emelést elemez egy úgynevezett „bunching\" becslővel: megszámolják a hiányzó állásokat az új minimum alatt, és összevetik a többletállásokkal közvetlenül felette. Az eredmény figyelemre méltó: minden emelés után öt évvel az alacsony bérű állások száma érdemben nem változik — a hiányzó és a többlet állások nagyjából kioltják egymást. Az érintett dolgozók átlagos bére érdemben nő. A tanulmány a modern minimálbér-kutatás egyik legtöbbet idézett darabja, és nagyban formálta a szakpolitikai vitát.",
+      "data_used": "US Current Population Survey monthly wage data 1979–2016 covering 138 state-level minimum wage increases. Sample includes approximately 95% of the US workforce; the bunching estimator focuses on hourly-wage workers in the bottom of the distribution.",
+      "data_used_hu": "Amerikai Current Population Survey havi bérinformációi 1979 és 2016 között, 138 tagállami minimálbér-emelést lefedve. A minta az amerikai munkaerő mintegy 95 százalékát fedi le; a bunching módszer az órabéres dolgozókra fókuszál a bérelosztás alján.",
+      "policy_relevance": "Central reference for any minimum-wage policy debate. For Hungarian minimálbér / VKF discussions: confirms that modest-to-large statutory hikes can be absorbed mostly through wage redistribution rather than job loss, but the evidence is from a high-income setting with very localised wage variation. The paper's main contribution is methodological — the bunching estimator is now standard for evaluating minimum-wage and similar discontinuities. Caveat: US labour market institutions and informality differ from Hungary; the magnitudes do not transfer directly.",
+      "policy_relevance_hu": "Központi hivatkozás minden minimálbér-vitában. A magyar minimálbér / VKF-tárgyalások szempontjából: alátámasztja, hogy a mérsékelt-nagyobb emelések többnyire bérek átrendeződéseként és nem munkahely-veszteségként jelennek meg, de az adat egy magas jövedelmű országból származik nagyon lokális bérszórással. A tanulmány fő hozzájárulása módszertani — a bunching becslő ma már standard módszer minimálbér és hasonló diszkontinuitások értékelésére. Korlát: az amerikai munkaerőpiaci intézmények és a feketegazdaság aránya eltér Magyarországtól; a nagyságrendek nem vihetők át közvetlenül.",
+      "topics": [
+        "labor-markets",
+        "methods"
+      ],
+      "methods": [
+        "diff-in-diff",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "survey-individual"
+      ],
+      "featured": true,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13",
+      "review_status": "ai-drafted",
+      "openalex_id": null,
+      "policy_instruments": [
+        "minimum wage",
+        "minimálbér"
+      ]
+    },
+    {
       "url_pdf": null,
       "url_replication": null,
       "abstract": "The paper provides a quantitative examination of the link between political institutions and deaths during the first 100 days of the COVID-19 pandemic. The study demonstrates that countries with more democratic political institutions experienced deaths on a larger per capita scale than less democratic countries, with results robust to the inclusion of many relevant controls, a battery of estimation techniques, and estimation with instruments for the institutional measures. Additionally, the authors examine the extent to which COVID-19 deaths were impacted heterogeneously by policy responses across types of political institutions, finding that policy responses in democracies were less effective in reducing deaths in the early stages of the crisis.",
@@ -22506,6 +22587,56 @@
       "openalex_id": null
     },
     {
+      "id": "dube-lindner-2021-jep",
+      "title": "City Limits: What Do Local-Area Minimum Wages Do?",
+      "authors": [
+        "Arindrajit Dube",
+        "lindner-attila"
+      ],
+      "publication_type": "article",
+      "journal": "Journal of Economic Perspectives",
+      "year": 2021,
+      "volume": "35",
+      "issue": "1",
+      "pages": "27-50",
+      "doi": "10.1257/jep.35.1.27",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1257/jep.35.1.27",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "In 2010, only three US cities had their own minimum wage exceeding the relevant state or federal minimum. By 2020, this number had grown to 42. While substantial research exists on the impact of state and federal minimum wage policies, less is known about the impact of city-level minima. This paper reviews the recent rise of local-area minimum-wage policies, considers the main trade-offs of having minimum-wage variation by region, and summarises the evolving evidence on city-level minimum-wage changes. To date, evidence suggests effects on wages and employment have been broadly similar to those for state- and federal-level changes.",
+      "summary_en": "In 2010, only three US cities set their own minimum wage above the state or federal floor; by 2020, 42 cities had. Dube and Lindner survey what economists have learned from this rapid spread of local minimum-wage variation. The take-away: effects on wages and employment so far look broadly similar to what state and federal hikes produce — modest disemployment, sizable wage gains for affected workers, limited price pass-through in non-tradeable sectors. The paper sets out the framework for thinking about regional wage floors and discusses the key trade-offs, including how local cost-of-living differences should be priced into floor-setting.",
+      "summary_hu": "2010-ben még csak három amerikai város határozott meg saját, az állami vagy szövetségi szint feletti minimálbért; 2020-ra ez a szám 42-re nőtt. Dube és Lindner áttekintik, mit tanulhattunk eddig a helyi minimálbérek gyors elterjedéséből. A főüzenet: a hatások a bérekre és a foglalkoztatásra eddig nagyjából hasonlók, mint amit a tagállami és szövetségi szintű emeléseknél látunk — mérsékelt foglalkoztatási hatás, érdemi bérnövekedés az érintett dolgozóknál, korlátozott árhatás a nem-cserélhető szektorokban. A tanulmány keretet ad a regionális bérszintek gondolkodásához, és bemutatja a kulcs-kompromisszumokat, beleértve a helyi megélhetési költségek figyelembevételét.",
+      "data_used": "Synthesis paper drawing on published US city-level minimum-wage studies, US Census/CPS wage data, and city ordinance databases compiled by the UC Berkeley Labor Center.",
+      "data_used_hu": "Szintézis tanulmány, amely publikált amerikai város-szintű minimálbér-tanulmányokra, az amerikai Census/CPS bérinformációkra és a UC Berkeley Labor Center által karbantartott városi rendelet-adatbázisokra épül.",
+      "policy_relevance": "Directly relevant for any country considering regional or sectoral wage floors, including current Hungarian debates about regional differentiation. Implication: regional minimum wages can be set above the national floor in high-cost regions without large disemployment, but require monitoring. For Budapest and other high-cost Hungarian cities, the framework provides a starting point. Caveat: US setting; Hungarian regional wage gaps and labour-market segmentation are different.",
+      "policy_relevance_hu": "Közvetlenül releváns minden olyan ország számára, amely regionális vagy ágazati minimálbéreket fontolgat, beleértve a regionális differenciálás magyar vitáit. Implikáció: a regionális minimálbérek a nemzeti szint fölé emelhetők magas költségű régiókban érdemi foglalkoztatási hatás nélkül, de figyelni kell. Budapest és más magas költségű magyar városok számára a keret kiindulópont. Korlát: amerikai környezet; a magyar regionális bérolló és a munkaerőpiaci szegmentáció más.",
+      "topics": [
+        "labor-markets",
+        "regional-urban"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "survey-individual",
+        "macro-aggregate"
+      ],
+      "featured": false,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13",
+      "review_status": "ai-drafted",
+      "openalex_id": null,
+      "policy_instruments": [
+        "local minimum wage",
+        "regional minimum wage",
+        "regionális minimálbér"
+      ]
+    },
+    {
       "id": "ducruet-juhasz-et-al-2024-jie",
       "title": "All aboard: The effects of port development",
       "authors": [
@@ -22654,6 +22785,59 @@
         "long-run productivity forecasting",
         "pension-system projections",
         "sectoral policy"
+      ]
+    },
+    {
+      "id": "dustmann-lindner-et-al-2022-qje",
+      "title": "Reallocation Effects of the Minimum Wage",
+      "authors": [
+        "Christian Dustmann",
+        "lindner-attila",
+        "Uta Schönberg",
+        "Matthias Umkehrer",
+        "Philipp vom Berge"
+      ],
+      "publication_type": "article",
+      "journal": "Quarterly Journal of Economics",
+      "year": 2022,
+      "volume": "137",
+      "issue": "1",
+      "pages": "267-328",
+      "doi": "10.1093/qje/qjab028",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1093/qje/qjab028",
+      "url_pdf": "https://academic.oup.com/qje/article-pdf/137/1/267/41929667/qjab028.pdf",
+      "url_replication": null,
+      "abstract": "We investigate the wage, employment, and reallocation effects of the introduction of a nationwide minimum wage in Germany that affected 15% of all employees. Based on an extensive data set that comprises the universe of administrative employment records, we find that the minimum wage raised wages but did not lower employment, even in the short run. The minimum wage led to the reallocation of low-wage workers from smaller to larger, from lower- to higher-paying, and from less to more productive establishments. This worker upgrading accounts for up to 17% of the wage increase induced by the minimum wage.",
+      "summary_en": "What happens to low-wage workers when a country introduces a nationwide minimum wage from scratch? Dustmann, Lindner and co-authors use the universe of German administrative employment records to study the 2015 introduction of Germany's federal minimum wage, which directly affected 15 percent of employees. Wages went up; employment did not fall. The new channel they uncover is reallocation: low-wage workers moved from smaller, lower-paying, less productive establishments to larger, higher-paying, more productive ones. This upgrading accounts for up to 17 percent of the wage gain. The paper reshaped the labour-economics understanding of how minimum wages work — not just by lifting wages within firms, but by reshuffling workers across them.",
+      "summary_hu": "Mi történik az alacsony bérű dolgozókkal, ha egy ország nulláról bevezet egy országos minimálbért? Dustmann, Lindner és szerzőtársaik a teljes német adminisztratív foglalkoztatási adatállományt használják a 2015-ös német szövetségi minimálbér bevezetésének vizsgálatára, amely a foglalkoztatottak 15 százalékát közvetlenül érintette. A bérek emelkedtek; a foglalkoztatás nem csökkent. Az új csatorna, amit feltárnak, az újrarendeződés: az alacsony bérű dolgozók kisebb, alacsonyabb bérű, kevésbé termelékeny vállalkozásokból nagyobb, magasabb bérű, termelékenyebb vállalkozásokba kerültek át. Ez a fejlődés a bérnövekedés akár 17 százalékáért is felelős. A tanulmány átformálta a minimálbér-irodalmat: a hatás nemcsak vállalaton belüli béremelés, hanem a dolgozók átrendeződése a vállalatok között.",
+      "data_used": "Universe of German administrative social-security employment records (IAB) 2010–2017, covering all employees in establishments subject to social-security contributions. Linked to establishment-level data on size, wages, productivity proxies, and industry.",
+      "data_used_hu": "A német adminisztratív társadalombiztosítási foglalkoztatási regiszter (IAB) teljes adatbázisa 2010 és 2017 között, lefedve a társadalombiztosítási járulékkötelezettség alatt álló összes munkavállalót. Vállalatszintű adatokhoz kapcsolva (méret, bérek, termelékenységi mutatók, ágazat).",
+      "policy_relevance": "Important framing for the EU Adequate Minimum Wage Directive, for the German Mindestlohnkommission and for any country considering a meaningful new national minimum wage (relevant for Hungary's VKF). Implication: low employment effects can be explained partly by within-firm absorption (as in Hungary 2000–02) and partly by worker reallocation across firms. For Hungarian policymakers, the paper validates that minimum-wage hikes can serve as a productivity-enhancing reallocation lever, not only a redistributive one. Caveat: Germany's labour market is unusually formal and integrated; the magnitude of reallocation in less productive labour markets may differ.",
+      "policy_relevance_hu": "Fontos keret az EU megfelelő minimálbér-irányelvéhez, a német Mindestlohnkommission munkájához és minden olyan országnak, amely érdemi új országos minimálbéren gondolkodik (releváns a magyar VKF szempontjából). Az implikáció: a minimálbér alacsony foglalkoztatási hatása részben vállalaton belüli alkalmazkodással (mint Magyarországon 2000–02-ben), részben a munkavállalók vállalatok közötti átrendeződésével magyarázható. A magyar döntéshozók számára a tanulmány alátámasztja, hogy a minimálbér-emelés nemcsak újraelosztási, hanem termelékenység-növelő átrendezési eszköz is lehet. Korlát: a német munkaerőpiac szokatlanul formális és integrált; a kevésbé termelékeny munkaerőpiacokon az átrendeződés mértéke eltérő lehet.",
+      "topics": [
+        "labor-markets",
+        "firms-productivity"
+      ],
+      "methods": [
+        "diff-in-diff",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "DE"
+      ],
+      "data_types": [
+        "admin-firm",
+        "admin-individual"
+      ],
+      "featured": true,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13",
+      "review_status": "ai-drafted",
+      "openalex_id": null,
+      "policy_instruments": [
+        "national statutory minimum wage",
+        "minimálbér"
       ]
     },
     {
@@ -51476,7 +51660,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 140
+      "paper_count": 143
     },
     {
       "id": "education-skills",
@@ -51531,7 +51715,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 178
+      "paper_count": 179
     },
     {
       "id": "innovation-digital",
@@ -51575,7 +51759,7 @@
       "policy_framing_en": "Relevant to: regional development funds, housing policy, transport investment, urban planning.",
       "policy_framing_hu": "Releváns: regionális fejlesztési alapok, lakáspolitika, közlekedési beruházások, városfejlesztés.",
       "icon": "building",
-      "paper_count": 110
+      "paper_count": 111
     },
     {
       "id": "energy-environment",
@@ -51674,7 +51858,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 224
+      "paper_count": 225
     },
     {
       "id": "market-design",
@@ -53059,7 +53243,7 @@
   ],
   "counts": {
     "authors": 112,
-    "papers": 911,
+    "papers": 914,
     "policy": 35,
     "press": 159,
     "topics": 21
