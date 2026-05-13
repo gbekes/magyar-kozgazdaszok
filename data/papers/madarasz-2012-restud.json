@@ -1,0 +1,45 @@
+{
+  "id": "madarasz-2012-restud",
+  "title": "Information Projection: Model and Applications",
+  "authors": [
+    "madarasz-kristof"
+  ],
+  "publication_type": "article",
+  "journal": "Review of Economic Studies",
+  "year": 2012,
+  "volume": "79",
+  "issue": "3",
+  "pages": "961-985",
+  "doi": "10.1093/restud/rdr044",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1093/restud/rdr044",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "A model in which people exaggerate the extent to which their own information is shared with others. In agency settings with learning, biased evaluators overestimate what experts could have known ex ante and undervalue their contribution, so experts become overly cautious — relying excessively on early signals or avoiding complementary information evaluators might find independently. Applications include defensive medicine; standard remedies are often ineffective or counterproductive.",
+  "summary_en": "Why do experts so often play it safe even when boldness would serve their client better? Madarász formalises a bias he calls information projection: people exaggerate how much of their own private knowledge other people also have. In a principal-agent setup with learning, the principal looks back at an expert's decision and assumes the expert could have foreseen what the principal now knows. So expert effort is systematically under-credited. The expert reacts by leaning hard on early, easily verifiable signals and shying away from complementary information the principal might dig up independently. The model fits defensive medicine, conservative auditing, and over-citation in academia. Standard remedies — more disclosure, sharper performance pay — often miss or backfire.",
+  "summary_hu": "Miért választják a szakértők olyan gyakran a biztonsági játékot, amikor a bátorság ügyfél-szempontból jobb lenne? Madarász formalizál egy torzítást, amit információs projekciónak nevez: az emberek eltúlozzák, mennyit tudnak mások abból, amit ők maguk tudnak. Tanuló elv-ügynök helyzetben a megbízó visszamenőleg úgy néz a szakértői döntésre, mintha a szakértő előre láthatta volna, amit a megbízó most már tud. A szakértői erőfeszítést így rendszeresen alulértékeli. A szakértő erre korai, könnyen ellenőrizhető jelekre támaszkodik, és kerüli azokat a kiegészítő infókat, amiket a megbízó önállóan is megtalálhat. A modell illik a defenzív orvoslásra, a túlóvatos könyvvizsgálatra, az akadémiai túlhivatkozásra. A bevett orvosságok — bővebb tájékoztatás, élesebb teljesítménybér — gyakran nem hatnak vagy visszaütnek.",
+  "data_used": "Theoretical / formal paper. No primary dataset. Develops a Bayesian-with-bias agency model where the principal partially projects her ex post information onto the agent's ex ante information set, and works out the implications for effort, information acquisition, and contract design across several application sketches (medicine, audit, advisory).",
+  "data_used_hu": "Elméleti / formális tanulmány. Nincs elsődleges adatbázis. Bayes-i, torzított elv-ügynök modellt épít, amelyben a megbízó részben utólagos információját rávetíti az ügynök előzetes infóhalmazára, és kidolgozza ennek hatásait az erőfeszítésre, az információszerzésre és a szerződéstervezésre több alkalmazási vázlatban (orvoslás, könyvvizsgálat, tanácsadás).",
+  "policy_relevance": "For the Belügyminisztérium and NEAK on defensive-medicine cost overruns: more disclosure of patient-outcome data may amplify, not reduce, defensive testing because doctors anticipate ex post hindsight from regulators. For the Számvevőszék and bank-supervision desks at the MNB on auditor liability rules: making auditors more accountable for missed signals can push them toward over-reliance on early, paper-trail evidence and away from costly investigative work. For NGM consumer-protection when designing professional-liability frameworks (legal, medical, financial advice) — the standard 'more transparency' fix is often the wrong tool.",
+  "policy_relevance_hu": "A Belügyminisztérium és a NEAK számára a defenzív orvoslás költségtúllépéseihez: a betegkimeneti adatok bővebb közzététele felerősítheti, nem csökkentheti a védekező vizsgálatokat, mert az orvosok előre számolnak a szabályozó utólagos „mindent-tudó” nézőpontjával. Az Állami Számvevőszék és az MNB bankfelügyeleti egységei számára a könyvvizsgálói felelősségi szabályokhoz: az auditor erőteljesebb felelősségre vonása korai, papíron jól dokumentálható jelekre tereli őket, és el a költséges nyomozómunkától. Az NGM fogyasztóvédelem számára a szakmai-felelősségi keretek tervezésekor (jog, orvoslás, pénzügyi tanácsadás) — a bevett „több átláthatóság” recept gyakran rossz eszköz.",
+  "topics": [
+    "behavioral",
+    "methods",
+    "industrial-organization"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [],
+  "data_types": [],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "professional liability",
+    "disclosure regulation",
+    "audit oversight"
+  ],
+  "openalex_id": null
+}

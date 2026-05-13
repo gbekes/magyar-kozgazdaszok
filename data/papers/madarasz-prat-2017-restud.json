@@ -1,0 +1,46 @@
+{
+  "id": "madarasz-prat-2017-restud",
+  "title": "Sellers with Misspecified Models",
+  "authors": [
+    "madarasz-kristof",
+    "Andrea Prat"
+  ],
+  "publication_type": "article",
+  "journal": "Review of Economic Studies",
+  "year": 2017,
+  "volume": "84",
+  "issue": "2",
+  "pages": "790-815",
+  "doi": "10.1093/restud/rdw030",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1093/restud/rdw030",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "A principal who uses a misspecified model of agent preferences can suffer first-order losses when non-local incentive constraints bind. The authors propose a two-step mechanism: choose the model-optimal menu, then let agents share a fixed fraction of the seller's profits at the model-optimal price. This bounds losses and shrinks them smoothly as the model improves; mechanisms without profit-sharing cannot achieve a valid approximation.",
+  "summary_en": "What happens to a monopolist who designs price menus from a slightly wrong model of customers? Madarász and Prat show that even tiny mis-specification can wreck profits — non-local incentive constraints bind, and small modelling errors blow up into first-order losses. Their fix is a two-step mechanism. First, offer the menu the model says is optimal. Then offer customers a small, fixed cut of the seller's realised profit at the model-optimal price. That profit-sharing rider stops customers from cherry-picking the contract the seller most misprices. Losses now grow smoothly with model error and shrink as the model improves. Mechanisms without a profit-sharing component cannot deliver this kind of robust approximation.",
+  "summary_hu": "Mi történik egy monopolistával, aki kissé rossz modellből rajzolja meg az ártáblát? Madarász és Prat megmutatja: akár apró tévedés is szét tudja zúzni a profitot — a nem lokális ösztönzési feltételek megkötnek, és kis modellhibák elsőrendű veszteséggé hizlalódnak. Az általuk javasolt javítás kétlépcsős. Először a modell szerint optimális menüt kínálják. Aztán a vevők kapnak egy kis, fix részt a modell szerint optimális áron realizált eladói profitból. Ez a profitmegosztó kiegészítés megakadályozza, hogy a vevők azt a szerződést válasszák, ahol az eladó a legjobban félrelő az árazással. A veszteség most már simán nő a modellhibával és csökken, ahogy a modell javul. Profitmegosztás nélküli mechanizmusok nem tudnak ilyen robusztus közelítést.",
+  "data_used": "Theoretical / formal paper. No primary dataset. Mechanism design framework: a seller-principal designs a screening menu for heterogeneous buyer types under an explicitly misspecified prior over the type distribution. Robustness is evaluated by worst-case profit loss as the model approaches the truth.",
+  "data_used_hu": "Elméleti / formális tanulmány. Nincs elsődleges adatbázis. Mechanizmustervezési keret: egy eladó-megbízó vevőszűrő menüt tervez heterogén vevőtípusokra explicit módon rossz priorral a típuseloszlásra. A robusztusságot a legrosszabb esetbeli profitveszteséggel mérik, ahogy a modell közelít az igazsághoz.",
+  "policy_relevance": "For the GVH and NMHH on regulating price-discrimination menus (telecoms tariffs, electricity tariffs, banking package design) when the regulator's own demand model is imperfect: the paper shows why simple menus produced by mildly-wrong models can be very far from optimal, and why a small revenue-sharing rule between firm and consumer can produce a robust outcome. Useful as a microfoundation for the Hungarian energy regulator (MEKH) on rezsi-style pricing rules: profit-linked rebate components can hedge regulator model error without committing to a specific demand estimate.",
+  "policy_relevance_hu": "A GVH és NMHH számára az árdiszkriminációs menük szabályozásához (telekom-, áram-tarifák, banki csomagtervezés), amikor a szabályozó saját keresleti modellje sem tökéletes: a dolgozat megmutatja, miért lehetnek a kissé hibás modellből rajzolt egyszerű menük távol az optimálistól, és miért tud egy kicsi cég-vevő bevételmegosztási szabály robusztus kimenetet adni. Mikromegalapozás a MEKH-nek a rezsi-jellegű árazási szabályokhoz: profithoz kötött visszatérítő komponens fedezi a szabályozó modellhibáját anélkül, hogy egy konkrét keresleti becslés mellett elköteleződne.",
+  "topics": [
+    "behavioral",
+    "industrial-organization",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [],
+  "data_types": [],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "price regulation",
+    "mechanism design",
+    "consumer protection"
+  ],
+  "openalex_id": null
+}

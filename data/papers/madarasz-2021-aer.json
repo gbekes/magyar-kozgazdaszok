@@ -1,0 +1,48 @@
+{
+  "id": "madarasz-2021-aer",
+  "title": "Bargaining under the Illusion of Transparency",
+  "authors": [
+    "madarasz-kristof"
+  ],
+  "publication_type": "article",
+  "journal": "American Economic Review",
+  "year": 2021,
+  "volume": "111",
+  "issue": "11",
+  "pages": "3500-3539",
+  "doi": "10.1257/aer.20150004",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1257/aer.20150004",
+  "url_pdf": "https://www.aeaweb.org/articles?id=10.1257/aer.20150004",
+  "url_replication": null,
+  "abstract": "Studies bargaining when a buyer overestimates the chance that her private information has leaked to the seller. When the buyer makes the offer, the seller gains relative to a posted-price benchmark; when the seller makes offers, the buyer's misperception delivers outcomes that diverge from standard predictions. Reducing price commitment can favour the seller, and under conditions unrestricted bargaining converges rapidly to full surplus extraction, while transparent-belief bargaining drags on. The predictions are consistent with controlled experiments.",
+  "summary_en": "What happens when a buyer wrongly believes the seller can read her mind? Madarász builds a bargaining model in which the buyer exaggerates how much her private valuation has leaked to the seller. When the buyer makes the offer, this 'transparency illusion' helps the seller — she over-concedes because she thinks the seller already knows her type. When the seller makes the offer, predicted outcomes split sharply from the rational-buyer benchmark: dropping price-commitment power tends to help the seller, and under unrestricted alternating bargaining the seller extracts essentially the full surplus very quickly. Lab experiments back the core predictions. The paper rewrites the basic intuition that more buyer privacy always protects the buyer.",
+  "summary_hu": "Mi történik, ha a vevő tévesen úgy hiszi, hogy az eladó belelát a fejébe? Madarász olyan alkudozási modellt épít, amelyben a vevő eltúlozza, mennyit szivárgott át a saját értékeléséből az eladóhoz. Ha a vevő tesz ajánlatot, ez az „átláthatóság-illúzió” az eladónak kedvez — a vevő túl sokat enged, mert azt hiszi, az eladó már úgyis ismeri a típusát. Ha az eladó ajánlja az árat, a jóslatok élesen eltérnek a racionális vevős esettől: az árelköteleződés gyengítése inkább az eladónak segít, és korlátlan alkudozásban az eladó gyakorlatilag a teljes többletet gyorsan lefölözi. Laborkísérletek megerősítik a fő jóslatokat. A dolgozat átírja azt az alapvető intuíciót, hogy több vevői titok mindig a vevőt védi.",
+  "data_used": "Theoretical / formal paper with supporting laboratory experiments. Two-player buyer-seller bargaining games with controlled private information about buyer valuation, run on a university subject pool. Treatments vary who makes the offer, whether price commitment is available, and the structure of alternating offers. Subjects play one-shot and repeated rounds; key outcomes are agreement rates, surplus division, and delay.",
+  "data_used_hu": "Elméleti / formális tanulmány laboratóriumi kísérletekkel kiegészítve. Kétszereplős vevő-eladó alkudozási játékok, ahol a vevő értékelése kontrollált privát információ; egyetemi alany-poolon futtatva. A kezelések azt változtatják, ki tesz ajánlatot, van-e árelköteleződés, és milyen a váltakozó ajánlatok szerkezete. Az alanyok egylövéses és ismételt köröket játszanak; a fő kimenetek a megegyezési arányok, a többlet megosztása és a késleltetés.",
+  "policy_relevance": "Relevant to the GVH (Hungarian Competition Authority) and consumer-protection units at the NGM when evaluating market designs that hinge on perceived information leakage — used-car platforms, second-hand housing portals, salary negotiation tools. The paper warns that more buyer privacy does not automatically protect buyers if buyers themselves overestimate how much sellers can infer; weakening sellers' commitment power can hurt buyers. For the MNB it offers a microfoundation for why nominal bargaining outcomes (mortgage refinancing, fee negotiation) can lopsidedly favour the better-informed side even when the formal information structure is symmetric.",
+  "policy_relevance_hu": "A GVH (Gazdasági Versenyhivatal) és az NGM fogyasztóvédelmi egységei számára releváns olyan piactervezések értékelésekor, amelyek azon múlnak, mennyi információ szivárog át — használtautó-platformok, lakásportálok, béralku-eszközök. A dolgozat figyelmeztet: a vevői privátszféra erősítése nem védi automatikusan a vevőt, ha a vevő maga túlbecsüli, mennyit tud kikövetkeztetni az eladó; az eladó árelköteleződésének gyengítése árthat a vevőnek. Az MNB-nek mikromegalapozást ad arra, miért dőlnek el a nominális alkuk (jelzáloghitel-újrastrukturálás, díjalku) egyoldalúan a jobban informált fél javára, akkor is, ha formálisan szimmetrikus az infóhelyzet.",
+  "topics": [
+    "behavioral",
+    "industrial-organization",
+    "methods"
+  ],
+  "methods": [
+    "theory",
+    "rct"
+  ],
+  "countries_studied": [],
+  "data_types": [
+    "field-experiment"
+  ],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "consumer protection",
+    "market design",
+    "information disclosure"
+  ],
+  "openalex_id": null
+}

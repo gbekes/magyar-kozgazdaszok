@@ -1,0 +1,45 @@
+{
+  "id": "madarasz-pycia-2025-cepr-cost-content",
+  "title": "Cost over Content: Information Choice in Trade",
+  "authors": [
+    "madarasz-kristof",
+    "Marek Pycia"
+  ],
+  "publication_type": "working_paper",
+  "journal": null,
+  "year": 2025,
+  "volume": null,
+  "issue": null,
+  "pages": null,
+  "doi": null,
+  "working_paper_series": "CEPR",
+  "url_published": "https://cepr.org/publications/dp19902",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "In static and dynamic trading environments where buyers choose from arbitrary signal processes that reveal or obfuscate information to a seller, the authors prove a 'cost-over-content' theorem: in equilibrium buyers select only the cheapest processes regardless of informational content, and pooling on any cheapest process is an equilibrium. This reveals a general market failure driven by the direct cost of information choice, with implications for information defaults; applications include bargaining, signaling, disclosure, consumer privacy and data trade.",
+  "summary_en": "When buyers can choose what information to reveal to a seller — through privacy settings, data-sharing toggles, or which signal to send — which information do they actually pick? Madarász and Pycia prove a sharp result for both static and dynamic trade: in equilibrium buyers always pick the cheapest available signal, no matter how informative the more expensive options are. Pooling on the cheapest option is itself an equilibrium. Information content drops out; the direct cost of choice dominates. The result is a general market failure that the standard 'consumers will reveal when revelation pays' intuition misses. It speaks to information defaults in bargaining, signaling models, disclosure law, consumer privacy regulation, and the design of data-trade markets.",
+  "summary_hu": "Amikor a vevő választhat, mit fed fel az eladónak — adatvédelmi beállításon, adatmegosztó kapcsolón, vagy azzal, hogy melyik jelet küldi — mit választ valójában? Madarász és Pycia éles eredményt bizonyít statikus és dinamikus kereskedésre is: egyensúlyban a vevő mindig a legolcsóbb elérhető jelet választja, mindegy, mennyire informatívak a drágább alternatívák. A legolcsóbbra való összegyűlés maga is egyensúly. Az információtartalom kiesik; a választás közvetlen költsége dominál. Ez általános piaci kudarc, amit a bevett „a vevő felfed, ha megéri” intuíció eltakar. Üzenete van az alkudozásbeli információs alapbeállításnak, a jelzésmodelleknek, a közzétételi jognak, a fogyasztói adatvédelem szabályozásának és az adatkereskedelmi piacok tervezésének.",
+  "data_used": "Theoretical / formal paper. No primary dataset. Constructs a buyer-seller trade environment in which the buyer freely chooses any Blackwell-type signal process from a menu with arbitrary direct costs. Proves equilibrium results (existence, characterisation, pooling) in static and dynamic versions, and discusses application to bargaining, signaling, disclosure, privacy and data-trade.",
+  "data_used_hu": "Elméleti / formális tanulmány. Nincs elsődleges adatbázis. Vevő-eladó kereskedési környezetet épít, amelyben a vevő szabadon választ bármely Blackwell-típusú jelfolyamatot egy tetszőleges közvetlen költségű menüből. Egyensúlyi eredményeket bizonyít (létezés, jellemzés, összegyűlés) statikus és dinamikus változatban, és tárgyalja az alkalmazást alkudozásra, jelzésre, közzétételre, adatvédelemre és adatkereskedelemre.",
+  "policy_relevance": "Sharply relevant for NAIH (Hungarian Data Protection Authority) and NMHH on GDPR-style consent design: if the cheapest-to-pick option is 'reject all', or worse 'accept all' because it is one click, buyers will pool there independent of what is actually being collected. The paper supplies a microfounded case for non-neutral information defaults (default = privacy-preserving) rather than relying on consumer choice. For the MNB and GVH on transparency requirements in mortgage and insurance disclosure: the cheapest format gets chosen regardless of clarity, so the regulator must set the cheapest option to be the welfare-improving one. Useful for any nascent Hungarian data-trade or open-banking framework.",
+  "policy_relevance_hu": "Élesen releváns a NAIH és az NMHH számára a GDPR-jellegű hozzájárulás-tervezéshez: ha a legolcsóbban választható opció a „mindent elutasít” — vagy rosszabb, az egykattintásos „mindent elfogad” — a vevők arra gyűlnek függetlenül attól, mit gyűjtenek valójában. A dolgozat mikromegalapozást ad a nem semleges információs alapbeállítások (alapértelmezett = adatvédő) mellett, szemben azzal, hogy a fogyasztói választásra hagyatkozunk. Az MNB és a GVH számára a jelzáloghitel- és biztosítási tájékoztatás átláthatósági követelményeihez: a legolcsóbb formátumot választják a világosságtól függetlenül, így a szabályozónak a legolcsóbb opciót kell jólétjavítóra állítania. Hasznos a magyar adatkereskedelmi vagy nyílt-banki keret tervezéséhez.",
+  "topics": [
+    "behavioral",
+    "industrial-organization",
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [],
+  "data_types": [],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "consumer privacy regulation",
+    "information defaults"
+  ],
+  "openalex_id": null
+}
