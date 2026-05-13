@@ -1,0 +1,44 @@
+{
+  "id": "gyimesi-2024-jse",
+  "title": "Competitive Balance in the Post-2024 Champions League and the European Super League: A Simulation Study",
+  "authors": [
+    "gyimesi-andras"
+  ],
+  "publication_type": "article",
+  "journal": "Journal of Sports Economics",
+  "year": 2024,
+  "volume": "25",
+  "issue": "6",
+  "pages": "707-734",
+  "doi": "10.1177/15270025241249362",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1177/15270025241249362",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "The proposal of the European Super League and the 2024/25 reform of the UEFA Champions League are both major events in European club football. This study compares the competitive balance of these new tournament formats with the previous Champions League format using simulation methods based on team seeding and Elo ratings from the 2020/21–2021/22 seasons.",
+  "summary_en": "Does the 2024/25 Champions League reform deliver more balanced matches than the old format, and how would a closed European Super League compare? Gyimesi simulates each format using team-strength estimates from Elo ratings over 2020/21 and 2021/22. The new Champions League — Swiss-system 36-team league phase replacing the eight four-team groups — produces a measurable improvement in match-level competitive balance over the previous format. A closed Super League, by contrast, would concentrate top-strength matches but reduce uncertainty further down the table. The paper supplies the first empirical baseline for evaluating UEFA's reform against its stated competitive-balance goals.",
+  "summary_hu": "Tényleg kiegyensúlyozottabb mérkőzéseket hoz-e a 2024/25-ös Bajnokok Ligája-reform, mint a régi rendszer, és hogy aránylik ehhez egy zárt Európai Szuperliga? Gyimesi mindegyik tornaformátumot szimulálja a csapatok Elo-pontszámai alapján a 2020/21 és 2021/22 szezonok adatain. Az új BL — 36 csapatos svájci-rendszerű ligaszakasz a nyolc négyes csoport helyett — mérhetően kiegyensúlyozottabb mérkőzéseket eredményez, mint a korábbi rendszer. A zárt Szuperliga viszont a legerősebb csapatok közötti mérkőzéseket sűrítené, az alsóbb pozíciókban viszont csökkentené a bizonytalanságot. A tanulmány az első empirikus referenciapont az UEFA reformjának értékeléséhez.",
+  "data_used": "Elo ratings for European top-division clubs, 2020/21–2021/22 seasons, drawn from the public clubelo.com dataset. Monte Carlo simulations of three tournament formats (pre-2024 Champions League, post-2024 reformed Champions League, hypothetical Super League) drawing match outcomes from Elo-implied win probabilities; competitive-balance metrics aggregated across simulated seasons.",
+  "data_used_hu": "Az európai elsőosztályú klubok Elo-pontszámai a 2020/21 és 2021/22 szezonokra (clubelo.com publikus adatbázis). Monte Carlo-szimulációk három tornaformátumra (2024 előtti Bajnokok Ligája, 2024 utáni reformált BL, hipotetikus Szuperliga); a mérkőzéskimeneteket az Elo-pontszámokból származó győzelmi valószínűségekből húzza, és szezononként aggregálja a kiegyensúlyozottsági mutatókat.",
+  "policy_relevance": "Directly relevant for UEFA, the Magyar Labdarúgó Szövetség and Hungarian-football policy advisors evaluating how reformed European competitions affect domestic-league competitive balance and broadcast value. The paper provides the workhorse simulation framework for assessing further format changes; it also informs the policy debate on closed superleagues that has surfaced repeatedly since 2021. For Hungarian club football, which engages with the Champions League primarily through qualifiers, the result that the new format improves match-level uncertainty is operationally relevant.",
+  "policy_relevance_hu": "Közvetlenül érdekes az UEFA, a Magyar Labdarúgó Szövetség és a magyar futballpolitika szakértői számára, akik a reformált európai kupasorozatok hazai bajnokságra és közvetítési értékekre gyakorolt hatását vizsgálják. A tanulmány a formátumváltozások értékelésének mintakeretét adja, és érvet visz a 2021 óta visszatérően felmerülő zárt szuperliga-vitába is. A magyar klubok számára — akik elsősorban a selejtezőkön át kapcsolódnak a BL-hez — az az eredmény, hogy az új rendszer mérkőzésszinten kiegyensúlyozottabb, gyakorlati relevanciával bír.",
+  "topics": [
+    "industrial-organization",
+    "methods"
+  ],
+  "methods": [
+    "theory",
+    "panel-data"
+  ],
+  "countries_studied": [],
+  "data_types": [],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "tournament format design",
+    "competitive-balance evaluation"
+  ],
+  "openalex_id": null
+}

@@ -1,0 +1,43 @@
+{
+  "id": "gyimesi-2020-jse",
+  "title": "League Ranking Mobility Affects Attendance: Evidence From European Soccer Leagues",
+  "authors": [
+    "gyimesi-andras"
+  ],
+  "publication_type": "article",
+  "journal": "Journal of Sports Economics",
+  "year": 2020,
+  "volume": "21",
+  "issue": "8",
+  "pages": "808-828",
+  "doi": "10.1177/1527002520944451",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1177/1527002520944451",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "This study examines whether season-to-season ranking mobility influences stadium attendance across European soccer leagues. Using panel regression on 19 leagues, the analysis finds that ranking mobility — an indicator of dynamic long-term competitive balance — significantly affects average stadium attendance per game, particularly when only the top five ranking positions are considered.",
+  "summary_en": "Do fans care if the same handful of clubs win the league every year, or do they reward leagues with more shuffling at the top? Gyimesi builds a panel of 19 European soccer leagues and measures season-to-season ranking mobility — a dynamic competitive-balance indicator. Stadium attendance rises in leagues with more turnover, especially when the mobility metric focuses on the top five positions: when a different set of teams contests the title each season, fans show up. The result is robust across specifications and league sizes, and it sharpens the case that long-run unpredictability — not just match-by-match closeness — drives demand for football.",
+  "summary_hu": "Számít-e a szurkolóknak, hogy minden évben ugyanaz a néhány klub nyer-e bajnokságot, vagy értékelik-e az élmezőny éves cserélődését? Gyimesi 19 európai labdarúgó-bajnokságból álló panelt épít, és szezonról szezonra méri a rangsorbeli mobilitást — a hosszú távú kiegyensúlyozottság dinamikus mutatóját. A stadionlátogatottság magasabb azokban a bajnokságokban, ahol nagyobb a cserélődés, különösen ha a mobilitást az első öt helyezésre szűkítjük: ha évről évre más csapatok küzdenek a bajnoki címért, a szurkolók kimennek a meccsekre. Az eredmény különböző specifikációkban is megáll, és megerősíti, hogy a hosszú távú bizonytalanság — nem csupán a mérkőzésenkénti szorosság — hajtja a labdarúgás iránti keresletet.",
+  "data_used": "Season-level panel of 19 top European soccer leagues, multi-year coverage. Outcome: average stadium attendance per match. Key regressor: ranking-mobility index measuring season-to-season churn at the top of the table; alternative variant restricts to the top five positions. Fixed-effects panel regression with league and season controls.",
+  "data_used_hu": "Szezonszintű panel a 19 legmagasabb osztályú európai labdarúgó-bajnokságról, többéves lefedettséggel. Függő változó: a mérkőzésenkénti átlagos stadionlátogatottság. Fő magyarázó változó: a táblázat élmezőnyének éves cserélődését mérő mobilitási index, alternatívan az első öt helyezésre szűkítve. Panel-fixhatás regressziók bajnokság- és szezon-kontrollokkal.",
+  "policy_relevance": "Of interest to the Magyar Labdarúgó Szövetség and TV-rights negotiators when assessing the demand-side payoff of competition-balancing rules (financial fair play, salary caps, draft-style mechanisms). The result that top-of-table churn — not generic balance — drives attendance suggests that interventions targeting the very top (e.g., title-race mobility) would have larger demand effects than blanket parity measures. UEFA bodies designing competitive-balance rules also have a directly applicable demand metric.",
+  "policy_relevance_hu": "A Magyar Labdarúgó Szövetség és a közvetítési-jog tárgyalói számára releváns: a versenykiegyenlítő szabályok (financial fair play, fizetési plafonok, draft-jellegű mechanizmusok) keresleti hozadékának értékelésekor használható. Mivel a látogatottságot az élmezőny cserélődése — nem általában a kiegyensúlyozottság — hajtja, a célzott, élmezőny-mobilitást támogató beavatkozások nagyobb keresleti hatást ígérnek, mint az általános paritást célzó eszközök. Az UEFA versenykiegyensúlyozási szabályainak tervezői is közvetlenül hasznosítható keresleti mutatót kapnak.",
+  "topics": [
+    "industrial-organization",
+    "behavioral"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [],
+  "data_types": [],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "competition design",
+    "broadcast-rights valuation"
+  ],
+  "openalex_id": null
+}

@@ -1,0 +1,56 @@
+{
+  "id": "braun-gyimesi-et-al-2023-twec",
+  "title": "Exposure to trade disruptions in case of the Russia–Ukraine conflict: A product network approach",
+  "authors": [
+    "Erik Braun",
+    "Emese Braun",
+    "gyimesi-andras",
+    "Zita Iloskics",
+    "Tamás Sebestyén"
+  ],
+  "publication_type": "article",
+  "journal": "World Economy",
+  "year": 2023,
+  "volume": "46",
+  "issue": "10",
+  "pages": "2950-2982",
+  "doi": "10.1111/twec.13417",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1111/twec.13417",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "This paper provides a product network-based analysis of the impact of the Russia–Ukraine war on the economy of third countries. Ukraine dominates in iron and agricultural products, while Russia is important through exporting energy sources, raw materials and iron products. Post-Soviet and European countries have high exposure to Russian imports, while Middle Eastern and African countries depend heavily on Ukraine, especially for grain imports.",
+  "summary_en": "When the war on Ukraine cut off two large commodity exporters, which third countries were most exposed and through which products? Braun, Gyimesi and the PTE team build a product-network model of bilateral imports for 2019, then re-route flows when Ukrainian or Russian supply is removed. The structural exposure is concentrated: Russian energy and metals hit post-Soviet economies and Central Europe hardest; Ukrainian grain shortfalls cascade into Middle Eastern and North African food security. The paper maps which products and which partners propagate the shock furthest — a substitution-network reading of the trade-war impact, sharper than the usual headline-trade-volume comparisons.",
+  "summary_hu": "Mely harmadik országokat érintette a legjobban az ukrajnai háború kiváltotta kereskedelmi sokk, és milyen termékeken keresztül? Braun, Gyimesi és a PTE-s szerzőcsapat termékhálózati modellt épít a 2019-es kétoldalú importadatokra, majd kiveszi a hálózatból az ukrán vagy orosz kínálatot. A strukturális kitettség koncentrált: az orosz energia- és fémimport kiesése elsősorban a posztszovjet térséget és Közép-Európát sújtja, az ukrán gabona kimaradása viszont a közel-keleti és észak-afrikai élelmiszerellátást rendíti meg. A tanulmány termék és partner szerint térképezi fel, hogy a sokk hová terjed leginkább — ami élesebb képet ad, mint a szokásos összesített kereskedelmi adatok.",
+  "data_used": "UN Comtrade bilateral product-level export data for 2019, before the war shock. Inputs are aggregated into a global product–country trade network; counterfactual disruption scenarios remove Russian or Ukrainian supply and trace cascading exposure through the network.",
+  "data_used_hu": "UN Comtrade kétoldalú termékszintű exportadatok 2019-ből, még a háború előtt. Az adatok globális termék-ország kereskedelmi hálózatba rendezve; az ellenpéldás forgatókönyvek Oroszország vagy Ukrajna kínálatát veszik ki, és a hálózaton tovagyűrűző kitettséget követik nyomon.",
+  "policy_relevance": "Directly relevant for the Külgazdasági és Külügyminisztérium and the Magyar Nemzeti Bank when modelling Hungary's exposure to Russian energy/metals withdrawal and to grain-import cascades. Hungary sits in the high-exposure cluster on the Russian side; the methodology gives a product-by-product map of which links in supply chains break first. The framework is also useful for the Európai Bizottság sanctions-impact assessments and for Magyar Élelmiszerbank-style food-security scenarios.",
+  "policy_relevance_hu": "Közvetlenül érdekes a Külgazdasági és Külügyminisztérium, valamint az MNB számára a magyar gazdaság orosz energia- és fémimportra, valamint a gabona-importláncokra való kitettségének modellezésében. Magyarország az orosz oldalon a magas kitettségű csoportba tartozik; a módszertan termékről termékre megmutatja, mely láncszemek szakadnak el először. A keret hasznos az Európai Bizottság szankcióhatás-vizsgálataihoz és élelmezésbiztonsági forgatókönyvekhez is.",
+  "topics": [
+    "trade-fdi",
+    "regional-urban",
+    "methods"
+  ],
+  "methods": [
+    "structural",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "RU",
+    "UA",
+    "EU"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "trade-sanctions impact assessment",
+    "supply-chain exposure mapping",
+    "food-security policy"
+  ],
+  "openalex_id": null
+}
