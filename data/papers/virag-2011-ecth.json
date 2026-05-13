@@ -17,11 +17,11 @@
   "url_replication": null,
   "abstract": "We study first-price auctions with resale when there are many bidders and derive existence and characterization results under the assumption that the winner of the initial auction runs a second-price auction with an optimal reserve price. The fact that symmetrization fails when there are more than two bidders has been observed before, but we also provide the direction: weaker bidders are less likely to win than stronger ones. For a special class of distributions and three bidders, we prove that the bid distributions are more symmetric with resale than without. Numerical simulations suggest that the more bidders there are, the more similar the allocation is to the case without resale, and thus, the more asymmetric the bid distributions are between strong and weak bidders. We also show in an example that the revenue advantage of first-price auctions over second-price auctions is positive, but decreasing in the number of bidders.",
   "summary_en": "When losers in a first-price auction can later resell to other bidders, how does this change strategic bidding? Virág studies first-price auctions with resale and many bidders, assuming the winner runs an optimal-reserve second-price auction in the resale stage. He proves equilibrium existence and shows weaker bidders are less likely to win than stronger ones — the 'symmetrization' that two-bidder analysis suggested fails with more bidders. With more bidders, allocations approach the no-resale benchmark and bid distributions become more asymmetric. Revenue advantage of first-price over second-price exists but shrinks as bidder count rises.",
-  "summary_hu": null,
+  "summary_hu": "Hogyan változik a stratégiai licitálás, ha az első-áras aukció vesztesei később továbbértékesíthetik a megnyert jószágot a többi licitálónak? Virág Gábor olyan első-áras aukciókat vizsgál, ahol sok licitáló indul, és a győztes a másodlagos piacon optimális minimálárral kiírt második-áras aukciót bonyolít le. Az egyensúly létezését bebizonyítja, és megmutatja, hogy a gyengébb licitálók valószínűbb veszítenek, mint az erősebbek – a két szereplőre korlátozott elemzéseknél megfigyelt „szimmetrizáció” több licitáló esetén nem érvényesül. Sok licitálónál a kiosztás közelít a továbbértékesítés nélküli esethez, a licitek eloszlása pedig egyre aszimmetrikusabb lesz. Az első-áras aukció bevételi előnye a második-árassal szemben fennáll, de a licitálók számával csökken.",
   "data_used": "Theoretical model — first-price auction with resale and many heterogeneous bidders. No primary dataset.",
-  "data_used_hu": null,
+  "data_used_hu": "Elméleti modell: első-áras aukció továbbértékesítéssel, sok heterogén licitálóval. Nem használ adatbázist.",
   "policy_relevance": "Direct relevance for state-asset auctions (MNV, ÁKK) and EU public-procurement design where resale markets are active. The paper shows simple two-bidder intuitions don't extend to many-bidder settings — Hungarian large-asset auctions (telecoms spectrum, real-estate portfolios) should account for resale-driven asymmetry. Useful framework for procurement-design at KKM and the Public Procurement Authority (KH).",
-  "policy_relevance_hu": null,
+  "policy_relevance_hu": "Közvetlen relevanciával bír az állami vagyonelemek aukcióira (MNV, ÁKK) és az uniós közbeszerzési pályázatokra ott, ahol aktív a másodlagos piac. A dolgozat azt mutatja, hogy a két licitálóra vonatkozó egyszerű intuíció nem általánosítható – a magyar nagy értékű aukcióknak (mobiltelekommunikációs frekvenciák, ingatlanportfóliók) érdemes figyelembe venniük a továbbértékesítés okozta aszimmetriát. Hasznos keret a Külgazdasági és Külügyminisztérium (KKM) és a Közbeszerzési Hatóság számára a tendertervezésben.",
   "topics": [
     "mechanism-design",
     "industrial-organization"
@@ -33,7 +33,7 @@
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-19",
-  "last_reviewed_at": "2026-04-29",
+  "last_reviewed_at": "2026-05-13",
   "review_status": "ai-drafted",
   "openalex_id": "W2157448422"
 }

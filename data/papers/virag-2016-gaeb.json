@@ -17,11 +17,11 @@
   "url_replication": null,
   "abstract": "We study auctions with resale and reserve prices. We characterize the equilibrium, and compare the revenues of the first price auction with that of the second price auction. We show that several results change when a reserve price is introduced. First, the second-price auction may yield higher revenues than the first-price auction. Second, the strong bidder is more likely to win than the weak bidder.",
   "summary_en": "Should an auctioneer set a reserve price when bidders can resell after winning? Virág studies first- and second-price auctions with resale and reserve prices. Once a reserve price is introduced, several classical results change: the second-price auction can yield higher revenues than the first-price auction (reversing the standard ordering), and stronger bidders become more likely to win than weak ones (the resale market amplifies asymmetry rather than dampening it). The paper provides a complete equilibrium characterisation in this setting.",
-  "summary_hu": null,
+  "summary_hu": "Érdemes-e minimálárat alkalmaznia az aukciót kiírónak, ha a licitálók a győzelem után tovább tudják értékesíteni a jószágot? Virág Gábor első-áras és második-áras aukciókat vizsgál továbbértékesítéssel és minimálárral. Megmutatja, hogy a minimálár bevezetése után több klasszikus eredmény átfordul: a második-áras aukció magasabb bevételt hozhat, mint az első-áras (azaz a megszokott sorrend megfordul), és az erősebb licitálók valószínűbb nyernek, mint a gyengébbek (vagyis a másodlagos piac inkább felerősíti az aszimmetriát, mintsem tompítaná). A dolgozat teljes körű egyensúlyi jellemzést ad ebben a környezetben.",
   "data_used": "Theoretical model — auction theory with resale and reserve prices. No primary dataset.",
-  "data_used_hu": null,
+  "data_used_hu": "Elméleti modell: aukcióelmélet továbbértékesítéssel és minimálárakkal. Nem használ adatbázist.",
   "policy_relevance": "Direct relevance for the design of state-asset auctions with reserve prices: ÁKK Treasury bond auctions, MNV state-property sales, MNB FX-rate fixing auctions, and EU public-procurement reserve-price regulations. The paper shows reserve prices change the revenue ordering between first- and second-price auctions in resale-active markets — useful for the Hungarian Public Procurement Authority and ÁKK when calibrating reserve prices in the presence of secondary markets.",
-  "policy_relevance_hu": null,
+  "policy_relevance_hu": "Közvetlenül használható a minimáláras állami aukciók tervezésében: ilyen az ÁKK államkötvény-aukciói, az MNV állami vagyon-értékesítései, az MNB devizapiaci aukciói és az uniós közbeszerzési minimálár-szabályozás. A dolgozat azt mutatja, hogy aktív másodlagos piac esetén a minimálár megfordítja az első-áras és a második-áras aukció bevételi sorrendjét. Hasznos szempont a Közbeszerzési Hatóság és az ÁKK számára a minimálárak kalibrálásánál, ahol másodlagos piac is működik.",
   "topics": [
     "mechanism-design",
     "industrial-organization"
@@ -33,7 +33,7 @@
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-29",
+  "last_reviewed_at": "2026-05-13",
   "review_status": "ai-drafted",
   "openalex_id": "W2508730125"
 }

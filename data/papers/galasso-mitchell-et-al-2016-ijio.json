@@ -19,11 +19,11 @@
   "url_replication": null,
   "abstract": "Patents are a useful but imperfect reward for innovation. In sectors like pharmaceuticals, where monopoly distortions seem particularly severe, there is growing international political pressure to identify new reward mechanisms which complement the patent system and reduce prices. Innovation prizes and other non-patent rewards are becoming more prevalent in government's innovation policy, and are also widely implemented by private philanthropists. In this paper we describe situations in which a patent buyout is effective, using information from market outcomes as a guide to the payment amount. We allow for the fact that sales may be manipulable by the innovator in search of the buyout payment, and show that in a wide variety of cases the optimal policy still involves some form of patent buyout. The buyout uses two key pieces of information: market outcomes observed during the patent's life, and the competitive outcome after the patent is bought out. We show that such dynamic market information can be effective at determining both marginal and total willingness to pay of consumers in many important cases, and therefore can generate the right innovation incentives.",
   "summary_en": "Patents are a clumsy way to reward innovation: they create monopoly distortions that hurt consumers, especially in pharmaceuticals. Galasso, Mitchell and Virág ask whether the government can buy out a patent at a price that uses the market itself as a guide. They show that — even when the innovator can manipulate sales to pump up the buyout price — observing market outcomes during the patent's life and the post-buyout competitive price is enough information to set the right reward in many important cases. Buyouts can replicate the right innovation incentive without monopoly losses.",
-  "summary_hu": null,
+  "summary_hu": "A szabadalmi rendszer esetlenül jutalmazza az innovációt: monopolhelyzetet teremt, ami torzítja a piacot és különösen a gyógyszerszektorban károsítja a fogyasztókat. Galasso, Mitchell és Virág Gábor azt vizsgálják, hogyan tudja a kormányzat kivásárolni egy szabadalmat olyan áron, amelyhez magát a piaci kimenetet veszi alapul. Megmutatják, hogy a szabadalmi időszak alatti piaci megfigyelések, valamint a kivásárlást követő versenypiaci ár együtt elegendő információt adnak a helyes jutalmazási szint kialakításához – még akkor is, ha az innovátor mesterségesen felpumpálhatja az eladásokat. Az így konstruált kivásárlás visszaadja a megfelelő innovációs ösztönzést, a monopolisztikus veszteségek nélkül.",
   "data_used": "Theoretical mechanism-design paper. No empirical data; results are derived analytically.",
-  "data_used_hu": null,
+  "data_used_hu": "Elméleti mechanizmustervezési dolgozat. Nem használ empirikus adatot, az eredmények analitikus levezetésből származnak.",
   "policy_relevance": "Directly relevant to debates over alternative innovation rewards in Hungary and the EU: prize funds, advance market commitments, and patent buyouts (e.g., for high-cost drugs that the NEAK budget struggles to absorb). The paper shows that a buyout scheme using market-revenue information can be incentive-compatible even when innovators game sales — important for any Hungarian or EU-level rewarder considering buyouts as an alternative to compulsory licensing.",
-  "policy_relevance_hu": null,
+  "policy_relevance_hu": "Közvetlenül kapcsolódik az innováció alternatív jutalmazásáról szóló magyar és uniós szakpolitikai vitákhoz: díjalapok, előzetes piaci kötelezettségvállalások és szabadalom-kivásárlások (például a NEAK költségvetését megterhelő drága gyógyszerek esetében). A dolgozat megmutatja, hogy egy piaci bevételen alapuló kivásárlási konstrukció akkor is ösztönzéskompatibilis tud lenni, ha az innovátor manipulálja az eladásokat. Ez fontos szempont minden olyan magyar vagy uniós szereplőnek, aki a kényszerengedélyezés alternatívájaként mérlegeli a kivásárlást.",
   "topics": [
     "innovation-digital",
     "industrial-organization",
@@ -38,7 +38,7 @@
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-05-09",
+  "last_reviewed_at": "2026-05-13",
   "review_status": "ai-drafted",
   "openalex_id": "W3121583531"
 }

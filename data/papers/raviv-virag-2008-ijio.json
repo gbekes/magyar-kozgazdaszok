@@ -18,11 +18,11 @@
   "url_replication": null,
   "abstract": "This paper provides theoretical and empirical analysis of a selling mechanism used by an Internet web-site that combines important features of auctions and gambling, and is the first analysis of such a selling mechanism, which provides insights into how the two kinds of behavior might be related in real life. The winner of the object is the bidder with the highest bid not submitted by any other bidder. In the equilibrium of the game theoretical model, each bid made with positive probability yields the same probability of winning. The theoretical predictions are that bidders are more likely to submit higher bids, and the bid distribution does not depend on the value of the object or the highest bid allowed if one controls for the number of bidders, both of which are confirmed by the data.",
   "summary_en": "An online auction site combined auction and gambling features: the winner was the bidder with the highest unique bid (one not matched by any other). Raviv and Virág develop the equilibrium theory and test it against actual bidding data. They show theoretically that every bid placed with positive probability has the same winning probability, the bid distribution doesn't depend on the object's value, and bidders skew toward higher bids. Empirical bidding patterns from the site confirm both predictions, providing rare empirical validation of a theoretical auction model.",
-  "summary_hu": null,
+  "summary_hu": "Egy online aukciós oldal ötvözte az aukció és a szerencsejáték logikáját: a győztes az volt, aki a legmagasabb olyan licitet adta le, amelyet senki más nem ismételt meg. Raviv és Virág Gábor kidolgozzák az egyensúlyi elméletet, és a tényleges licitálási adatokkal vetik össze. Elméletileg igazolják, hogy minden pozitív valószínűséggel adott licit ugyanakkora nyerési eséllyel jár, hogy a licit eloszlása független a jószág értékétől, és hogy a licitálók a magasabb tételek felé húznak. Az oldal empirikus licitálási mintái mindkét állítást megerősítik – ez ritka példa egy elméleti aukciómodell közvetlen empirikus validálására.",
   "data_used": "Bid-level data from a now-defunct lowest-unique-bid online auction site, covering thousands of auctions across a range of object values; complete bid histories including bidder identifiers and submission times.",
-  "data_used_hu": null,
+  "data_used_hu": "Egyedi licit szintű adatok egy ma már nem működő, „legalacsonyabb egyedi licit nyer” típusú online aukciós oldalról. Több ezer aukciót lefed különböző értékű tárgyakra, és teljes licit-történetet ad licitáló-azonosítókkal és beküldési időponttal együtt.",
   "policy_relevance": "Hungarian online auction sites (vatera.hu, jofogás) and gambling regulator (SZF) face questions about how auction-gambling hybrids should be regulated. The paper demonstrates theoretically and empirically that such hybrid mechanisms are bidding-strategy-distinct from standard auctions. Useful for SZF and SZTNH when classifying and licensing online platforms blending auction and lottery elements.",
-  "policy_relevance_hu": null,
+  "policy_relevance_hu": "A magyar online aukciós piacok (vatera.hu, jófogás.hu) és a szerencsejáték-szabályozó (SZF) szemben állnak azzal a kérdéssel, hogyan kezeljék az aukciós és szerencsejáték-elemeket vegyítő platformokat. A dolgozat elméletileg és empirikusan is megmutatja, hogy az ilyen hibrid mechanizmusok licitálási stratégia szempontjából eltérnek a szokványos aukcióktól. Hasznos szempont az SZF és az SZTNH számára az online aukciós-lottós platformok kategorizálásánál és engedélyezésénél.",
   "topics": [
     "mechanism-design",
     "industrial-organization",
@@ -38,7 +38,7 @@
   ],
   "featured": false,
   "added_at": "2026-04-19",
-  "last_reviewed_at": "2026-04-29",
+  "last_reviewed_at": "2026-05-13",
   "review_status": "ai-drafted",
   "openalex_id": "W3123411681"
 }

@@ -18,11 +18,11 @@
   "url_replication": null,
   "abstract": "We argue that in addition to the textbook exploitation of consumers, the presence of naive consumers leads to a participation distortion in competitive markets, since the additional profits from naive consumers lead competitive firms to lower transparent prices below cost in order to attract these consumers. [Source: paraphrased from publisher / Bonn working-paper description; verify against published Springer abstract.]",
   "summary_en": "Standard models of consumer exploitation focus on how firms extract surplus from naive consumers via hidden fees or complex pricing. Heidhues and Kőszegi point out a previously-overlooked second distortion: in competitive markets, the additional profits firms can earn from naive consumers push them to set transparent (headline) prices below cost in order to attract these consumers. The 'participation distortion' means too many naive consumers enter markets they should avoid. Applied to the US credit-card market, this distortion is at least as economically important as the hidden-fee distortion that has dominated the regulatory debate.",
-  "summary_hu": null,
-  "data_used": "Theoretical model with calibration to US credit-card market data on transparent rates, hidden fees, and naive vs. sophisticated consumer shares.",
-  "data_used_hu": null,
+  "summary_hu": "A naiv fogyasztók kihasználásának klasszikus modelljei arra fókuszálnak, hogyan vonnak el a vállalatok többletet rejtett díjakkal vagy bonyolult árazással. Heidhues és Kőszegi rámutatnak egy korábban figyelmen kívül hagyott második torzulásra: versenypiacon a naiv fogyasztókon elérhető pluszprofit arra ösztönzi a vállalatokat, hogy a látható (kamat-)árakat költség alá nyomják, így csábítva be ezeket a fogyasztókat. A „belépési torzulás” azt jelenti, hogy túl sok naiv fogyasztó lép be olyan piacokra, ahol nem kellene fogyasztania. Az amerikai hitelkártyapiacra alkalmazva ez a torzulás legalább annyira fontos közgazdaságilag, mint a rejtett díjas torzulás, amely eddig uralta a szabályozási vitát.",
+  "data_used": "Theoretical / calibrated paper. The credit-card market is described with a small set of parameters drawn from US industry data: average transparent (headline APR) rates, the level and distribution of hidden fees — late, overlimit, balance-transfer — and the share of naive vs. sophisticated consumers. Counterfactual welfare exercises vary the disclosure regime and the share of naive consumers in the population.",
+  "data_used_hu": "Elméleti / kalibrált tanulmány. A hitelkártyapiacot néhány, az amerikai iparági adatokból vett paraméter írja le: átlagos látható (induló THM) kamatszintek, a rejtett díjak (késedelmi, túllépési, átutalási) szintje és eloszlása, valamint a naiv és a kifinomult fogyasztók aránya. Az ellenpéldás jóléti kísérletek a tájékoztatási rendszert és a naiv fogyasztók arányát változtatják.",
   "policy_relevance": "Direct relevance for MNB consumer-credit oversight and EU Consumer Credit Directive enforcement. The paper provides theoretical support for headline-rate regulation (not just hidden-fee transparency) in markets with naive consumers — relevant for designing Hungarian consumer-credit truth-in-lending rules and assessing the welfare effects of teaser-rate offers.",
-  "policy_relevance_hu": null,
+  "policy_relevance_hu": "Közvetlenül érdekes az MNB fogyasztóihitel-felügyelete és az EU fogyasztóihitel-irányelv végrehajtása szempontjából. A tanulmány elméleti alátámasztást ad a látható (induló) kamatszintek szabályozására — nem csupán a rejtett díjak átláthatóságára — olyan piacokon, ahol naiv fogyasztók is vannak. Releváns a magyar fogyasztóihitel-tájékoztatási szabályok tervezéséhez és a kedvezményes induló kamatok jóléti hatásának vizsgálatához.",
   "topics": [
     "behavioral",
     "industrial-organization",
@@ -37,7 +37,7 @@
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-29",
+  "last_reviewed_at": "2026-05-13",
   "review_status": "ai-drafted",
   "openalex_id": "W1668711338"
 }

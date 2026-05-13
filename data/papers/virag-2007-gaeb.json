@@ -17,11 +17,11 @@
   "url_replication": null,
   "abstract": null,
   "summary_en": "In repeated common-value auctions — for example, repeated procurement rounds for the same type of good — bidders learn from each round about the underlying value. Virág studies how asymmetric bidders (e.g., an incumbent supplier with private information vs. a fresh entrant) play across repeated rounds, and characterises the conditions under which repetition mitigates the winner's curse vs. amplifies it. The paper bridges static common-value auction theory with dynamic, learning-driven auction settings relevant for procurement.",
-  "summary_hu": null,
+  "summary_hu": "Közös értékű aukciók ismétlődő lebonyolítása esetén – például amikor ugyanazt a terméktípust többször szerzik be tendereztetés útján – a licitálók minden forduló után új információt szereznek a tárgyi érték nagyságáról. Virág Gábor azt vizsgálja, hogyan licitálnak az aszimmetrikus helyzetű szereplők (mondjuk a beszállító, aki már bent van és privát információval rendelkezik, szemben egy új belépővel) egymást követő fordulókon át, és pontosan jellemzi, milyen feltételek mellett mérsékli az ismétlés a győztes átkát, és mikor erősíti fel. A dolgozat összeköti a statikus közös értékű aukciók elméletét a dinamikus, tanulás vezérelte közbeszerzési helyzetekkel.",
   "data_used": "Theoretical paper in auction theory. No primary dataset.",
-  "data_used_hu": null,
+  "data_used_hu": "Elméleti dolgozat az aukcióelmélet területén. Nem használ adatbázist.",
   "policy_relevance": "Useful theoretical input for the design of repeated public-procurement tenders in Hungary and the EU (KEFI multi-year framework agreements, EU framework procurement contracts): when the same buyers / sellers interact across rounds, asymmetric-information dynamics differ from one-shot auctions, and the paper characterises when repetition helps or hurts the buyer.",
-  "policy_relevance_hu": null,
+  "policy_relevance_hu": "Hasznos elméleti támpont a magyar és uniós ismétlődő közbeszerzési pályázatok (KEFI többéves keretmegállapodások, uniós keretszerződések) tervezéséhez: ha ugyanazok a vevők és eladók fordulóról fordulóra találkoznak, az aszimmetrikus információ dinamikája más mintázatot követ, mint az egylövéses aukciókban. A dolgozat pontosan megadja, mikor használ és mikor árt az ismétlés a vevőnek.",
   "topics": [
     "mechanism-design",
     "industrial-organization"
@@ -35,7 +35,7 @@
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-05-09",
+  "last_reviewed_at": "2026-05-13",
   "review_status": "ai-drafted",
   "openalex_id": "W2016537136"
 }

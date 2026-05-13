@@ -17,11 +17,11 @@
   "url_replication": null,
   "abstract": "We consider a model of directed search where the sellers are allowed to post mechanisms with entry fees. Regardless of the number of buyers and sellers, the sellers are able to extract all the surplus of the buyers by introducing entry fees and making price schedules positively sloped in the number of buyers arriving to their shops. This is in contrast to results that are achieved for large markets under the assumption that sellers cannot influence the utility of any particular buyer (market utility assumption), in which case buyers obtain strictly positive rents. If there is a bound on the prices or on the entry fees that can be charged, then the equilibrium with full rent extraction does not exist any more, and the market utility assumption is restored for large markets.",
   "summary_en": "In directed-search models (where buyers choose which seller to approach), can sellers extract all buyer surplus by posting clever pricing schemes? Virág shows yes: by posting mechanisms with entry fees and price schedules that scale positively with the number of buyers arriving, sellers can extract all consumer surplus regardless of market size. This contrasts with classical results that assume sellers cannot affect any individual buyer's utility (the 'market utility assumption'), under which buyers retain positive rents. Imposing limits on prices or entry fees breaks the full-rent-extraction equilibrium and restores the classical result for large markets.",
-  "summary_hu": null,
+  "summary_hu": "Az úgynevezett irányított keresési modellekben (ahol a vevők döntik el, melyik eladóhoz mennek) ki tudja-e ügyes árazási konstrukciókkal sajátítani az eladó a teljes vevői többletet? Virág Gábor megmutatja: igen. Ha az eladó belépési díjat ír elő, és úgy állítja össze az ársémát, hogy az emelkedjen a megjelenő vevők számával, akkor – a piac méretétől függetlenül – ki tudja vonni a teljes fogyasztói többletet. Ez ellentmond a klasszikus eredménynek, amely abból indul ki, hogy az eladó egyetlen vevő hasznosságát sem tudja befolyásolni (úgynevezett market utility feltevés), és amelyben a vevők pozitív járadékot tartanak meg. Ha viszont szabályozói korlát van az árakon vagy a belépési díjakon, a teljes többlet-elsajátítás egyensúlya összeomlik, és nagy piacokon visszatérünk a klasszikus eredményhez.",
   "data_used": "Theoretical model — directed-search and posted-mechanism analysis. No primary dataset.",
-  "data_used_hu": null,
+  "data_used_hu": "Elméleti modell: irányított keresés és előre meghirdetett mechanizmusok elemzése. Nem használ adatbázist.",
   "policy_relevance": "Direct policy implication: regulatory caps on prices or entry fees in markets with directed search prevent sellers from extracting all consumer surplus. Useful for GVH and MEKH when designing price caps in regulated industries (telecoms termination rates, energy retail, insurance). Also informs Hungarian e-commerce platform regulation under EU Digital Markets Act implementation.",
-  "policy_relevance_hu": null,
+  "policy_relevance_hu": "Egyenes szakpolitikai következtetés: az irányított keresésű piacokon az árakra vagy belépési díjakra vonatkozó szabályozói plafon megakadályozza, hogy az eladó kisajátítsa a teljes fogyasztói többletet. Hasznos a GVH és a MEKH számára árszabályozott iparágak (mobilhívás-végződtetési díjak, energia-kiskereskedelem, biztosítás) árplafonjainak tervezéséhez. Egyúttal segíti az uniós digitális piacokról szóló jogszabály (DMA) magyar implementálását az e-kereskedelmi platformok szabályozásában.",
   "topics": [
     "industrial-organization",
     "mechanism-design"
@@ -33,7 +33,7 @@
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-29",
+  "last_reviewed_at": "2026-05-13",
   "review_status": "ai-drafted",
   "openalex_id": "W1998995727"
 }

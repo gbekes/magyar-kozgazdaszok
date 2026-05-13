@@ -18,11 +18,11 @@
   "url_replication": null,
   "abstract": "We show that under post-auction market interaction revealing (hiding) information is revenue maximizing if the utility function is convex (concave) in the signaled type. Previous literature considered the sign of the first derivative with respect to the perceived type crucial.",
   "summary_en": "Should an auctioneer reveal information about winning bidders' types when post-auction market interactions are anticipated? Molnár and Virág show the answer depends on a curvature property: with utility convex in the signaled type, revealing information is revenue-maximising; with concave utility, hiding it is. This corrects a common misconception in the literature that focused on the sign of the first derivative — the second derivative (curvature) is what actually matters when post-auction signaling effects are at play.",
-  "summary_hu": null,
+  "summary_hu": "Érdemes-e az aukciót kiírónak felfednie a győztes licitálók típusára vonatkozó információt, ha az aukció után még piaci interakciók is várhatók? Molnár József és Virág Gábor válasza egy görbületi tulajdonságon múlik: ha a hasznosság a jelzett típusban konvex, akkor az információ felfedése maximalizálja a bevételt; ha konkáv, akkor a titokban tartás. Ez korrigálja az irodalomban elterjedt félreértést, amely az első derivált előjelére koncentrált – valójában a második derivált, vagyis a görbület számít, amikor az aukció utáni jelzéses hatások is működnek.",
   "data_used": "Theoretical model — auction-design analysis with post-auction market interaction. No primary dataset.",
-  "data_used_hu": null,
+  "data_used_hu": "Elméleti modell: aukciótervezés-elemzés aukció utáni piaci interakcióval. Nem használ adatbázist.",
   "policy_relevance": "Direct relevance for the design of public-asset auctions and procurement processes by ÁKK (debt management), MNB (FX auctions), MNV (state asset sales), and EU procurement bodies. The paper shows revealing-versus-hiding-bidder-information decisions should depend on post-auction market structure (whether winner faces convex or concave returns), not on intuitive 'transparency is always best' arguments.",
-  "policy_relevance_hu": null,
+  "policy_relevance_hu": "Közvetlen relevanciával bír az állami vagyon aukcióinak és közbeszerzéseinek tervezésében az ÁKK (államadósság-kezelés), az MNB (devizaaukciók), az MNV (állami vagyon-értékesítés) és az uniós közbeszerzési szervek számára. A dolgozat azt mutatja, hogy a licitálói információ felfedéséről vagy titokban tartásáról szóló döntésnek az aukció utáni piaci szerkezeten kell alapulnia (azon, hogy a győztes konvex vagy konkáv hozammal néz-e szembe), nem pedig az „átláthatóság mindig jó” típusú intuíción.",
   "topics": [
     "mechanism-design",
     "industrial-organization"
@@ -34,7 +34,7 @@
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-29",
+  "last_reviewed_at": "2026-05-13",
   "review_status": "ai-drafted",
   "openalex_id": "W2030264255"
 }
