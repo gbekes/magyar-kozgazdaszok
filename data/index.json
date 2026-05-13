@@ -913,7 +913,7 @@
       "countries": [
         "HU"
       ],
-      "paper_count": 21,
+      "paper_count": 24,
       "policy_count": 0,
       "press_count": 0
     },
@@ -18267,6 +18267,91 @@
       "openalex_id": null
     },
     {
+      "id": "csato-2019-igtr",
+      "title": "Some Impossibilities of Ranking in Generalized Tournaments",
+      "authors": [
+        "csato-laszlo"
+      ],
+      "publication_type": "article",
+      "journal": "International Game Theory Review",
+      "year": 2019,
+      "volume": "21",
+      "issue": "01",
+      "pages": "1-15",
+      "doi": "10.1142/S0219198919400048",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1142/S0219198919400048",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "Generalised tournaments — settings where pairs of players may face each other multiple times or not at all, and outcomes can be more than win/loss — are common in sports, voting, and peer evaluation. Csató proves that no ranking method on generalised tournaments can simultaneously satisfy several natural fairness properties. The impossibility result is in the Arrow-tradition: it forces designers to make explicit trade-offs rather than search for an unobtainable ideal procedure.",
+      "summary_hu": "Az általánosított tornák — olyan helyzetek, ahol a játékospárok többször vagy egyáltalán nem találkoznak, és az eredmény több lehet, mint győzelem/vereség — gyakoriak sportban, szavazásban, és szakmai értékelésben. Csató bebizonyítja, hogy az általánosított tornákon nem létezik olyan rangsorolási módszer, amely egyidejűleg teljesíthet több természetes méltányossági tulajdonságot. A lehetetlenségi eredmény Arrow-féle hagyományba illeszkedik: explicit kompromisszumokra kényszeríti a tervezőket, ahelyett, hogy egy elérhetetlen ideális eljárást keresnének.",
+      "data_used": "Pure axiomatic theory. The paper formulates fairness properties for ranking methods on generalised tournaments and proves that no method can satisfy all of them simultaneously.",
+      "data_used_hu": "Tisztán axiomatikus elmélet. A tanulmány méltányossági tulajdonságokat fogalmaz meg az általánosított tornákon működő rangsorolási módszerekre, és bebizonyítja, hogy egyetlen módszer sem teljesítheti ezeket egyidejűleg.",
+      "policy_relevance": "Useful for the Magyar Tudományos Akadémia, NKFIH, and any peer-evaluation body that ranks researchers, departments or institutions based on uneven evaluation matrices. The result formalises the long-felt impression that any single bibliometric or peer-review ranking is unavoidably arbitrary in some respect. The right response is to publish multiple rankings under different axiom sets rather than treat any one as definitive — a recommendation directly applicable to ELTE / BME / SZTE rankings and ERC-style evaluation panels.",
+      "policy_relevance_hu": "Hasznos a Magyar Tudományos Akadémia, az NKFIH és minden olyan szakmai értékelő testület számára, amely kutatókat, tanszékeket vagy intézményeket rangsorol egyenetlen értékelési mátrixok alapján. Az eredmény formalizálja azt a régóta meglévő benyomást, hogy bármely egyetlen bibliometriai vagy szakmai bírálati rangsor szükségszerűen önkényes valamilyen szempontból. A helyes válasz, hogy több rangsort tegyenek közzé különböző axióma-halmazok alatt, ahelyett, hogy bármelyiket véglegesnek tekintenék — közvetlenül alkalmazható javaslat az ELTE / BME / SZTE rangsorokra és az ERC-jellegű értékelő panelekre.",
+      "topics": [
+        "methods"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [],
+      "data_types": [],
+      "featured": false,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13",
+      "review_status": "ai-drafted",
+      "policy_instruments": [
+        "ranking methodology"
+      ],
+      "openalex_id": null
+    },
+    {
+      "id": "csato-2019-jse",
+      "title": "UEFA Champions League Entry Has Not Satisfied Strategyproofness in Three Seasons",
+      "authors": [
+        "csato-laszlo"
+      ],
+      "publication_type": "article",
+      "journal": "Journal of Sports Economics",
+      "year": 2019,
+      "volume": "20",
+      "issue": "7",
+      "pages": "975-981",
+      "doi": "10.1177/1527002518822702",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1177/1527002518822702",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "Csató documents three specific UEFA Champions League seasons in which the entry rules created a strategy-proofness failure — a club could improve its seeding by deliberately losing rather than winning. The note pins down concrete examples rather than just theoretical scenarios. Because Champions League rules interact with national-league qualification, the result also has implications for how UEFA coefficients and access lists should be designed in future seasons.",
+      "summary_hu": "Csató dokumentál három konkrét UEFA Bajnokok Ligája szezont, amelyekben a részvételi szabályok stratégia-megelőzési hibát teremtettek — egy klub szándékos vereséggel javíthatott a kiemelésén ahelyett, hogy győzött volna. Az írás konkrét példákat rögzít, nem csak elméleti forgatókönyveket. Mivel a BL-szabályok a nemzeti bajnokságok kvalifikációs szabályaival is kölcsönhatnak, az eredmény hatással van arra, hogyan érdemes az UEFA-együtthatókat és a hozzáférési listákat kialakítani a jövőbeli szezonokban.",
+      "data_used": "UEFA Champions League entry-rule documentation and qualification round results for three specific seasons in which the published rules created an exploitable strategy-proofness failure. The contribution is verification of concrete exploit scenarios rather than aggregate simulation.",
+      "data_used_hu": "UEFA Bajnokok Ligája részvételi szabály dokumentáció és kvalifikációs köri eredmények három konkrét szezonra, amelyekben a közzétett szabályok kihasználható stratégia-megelőzési hibát teremtettek. A hozzájárulás konkrét kihasználási forgatókönyvek ellenőrzése, nem aggregált szimuláció.",
+      "policy_relevance": "Pinned-down evidence for UEFA that its qualification rules have repeatedly violated strategy-proofness — useful when the Competition Department reviews proposed rule changes. The Magyar Labdarúgó Szövetség faces the downstream consequences: any rule that creates losing incentives can affect how Hungarian clubs approach late qualification fixtures. The note serves as a template for documenting failures, encouraging federations to check new rules before adoption.",
+      "policy_relevance_hu": "Pontosan rögzített bizonyíték az UEFA számára, hogy a kvalifikációs szabályai ismételten sértették a stratégia-megelőzést — hasznos, amikor a Versenytisztviselő javasolt szabálymódosításokat vizsgál. A Magyar Labdarúgó Szövetség viseli a tovagyűrűző következményeket: bármely vereség-ösztönzőt teremtő szabály hatással lehet arra, hogyan közelítenek a magyar klubok a kvalifikációs záró meccseikhez. Az írás minta a hibák dokumentálására, és ösztönzi a szövetségeket, hogy elfogadás előtt ellenőrizzék az új szabályokat.",
+      "topics": [
+        "methods",
+        "industrial-organization"
+      ],
+      "methods": [
+        "theory"
+      ],
+      "countries_studied": [],
+      "data_types": [],
+      "featured": false,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13",
+      "review_status": "ai-drafted",
+      "policy_instruments": [
+        "tournament design",
+        "qualification rules",
+        "strategy-proofness"
+      ],
+      "openalex_id": null
+    },
+    {
       "id": "csato-2020-aor",
       "title": "The UEFA Champions League seeding is not strategy-proof since the 2015/16 season",
       "authors": [
@@ -18307,6 +18392,52 @@
         "tournament design",
         "seeding rules",
         "strategy-proofness"
+      ],
+      "openalex_id": null
+    },
+    {
+      "id": "csato-2020-jse",
+      "title": "Optimal Tournament Design: Lessons From the Men's Handball Champions League",
+      "authors": [
+        "csato-laszlo"
+      ],
+      "publication_type": "article",
+      "journal": "Journal of Sports Economics",
+      "year": 2020,
+      "volume": "21",
+      "issue": "8",
+      "pages": "848-868",
+      "doi": "10.1177/1527002520944604",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1177/1527002520944604",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "The Men's Handball Champions League has changed format repeatedly in search of competitive balance and broadcast appeal. Csató simulates the recent format variants on calibrated team-strength data and identifies the design choices that drive tournament-quality outcomes: number of teams, group size, knockout-bracket construction. Several format adjustments are shown to dominate the current design on multiple criteria — preserving competitive stakes, rewarding strong teams appropriately, and limiting tanking incentives.",
+      "summary_hu": "A férfi Kézilabda Bajnokok Ligája formátuma többször változott a versenyegyensúly és a közvetítési vonzerő keresése közben. Csató kalibrált csapaterősség-adatokon szimulálja a közelmúlt formátum-változatait, és azonosítja a tornaminőséget hajtó tervezési döntéseket: csapatszám, csoportméret, egyenes kieséses ág felépítése. Több formátum-módosításról bizonyítja, hogy több szempontból is dominálják a jelenlegi tervet — versenytét megőrzése, az erős csapatok megfelelő jutalmazása, a szándékos vereség ösztönzőinek korlátozása.",
+      "data_used": "Men's Handball Champions League match results from recent seasons used to calibrate team-strength distributions, plus Monte Carlo simulation of the official and alternative formats under those distributions. Performance metrics: probability of strongest team winning, share of competitive matches, tanking-incentive exposure.",
+      "data_used_hu": "A férfi Kézilabda Bajnokok Ligája közelmúltbeli szezonjainak mérkőzéseredményei alapján kalibrált csapaterősség-eloszlások, valamint a hivatalos és alternatív formátumok Monte Carlo-szimulációja ezek mellett. Teljesítmény-mutatók: a legerősebb csapat győzelmi valószínűsége, a versengő mérkőzések aránya, szándékos-vereség ösztönző kitettsége.",
+      "policy_relevance": "Direct input for the European Handball Federation (EHF) and the Magyar Kézilabda Szövetség. The Hungarian league produces strong CL competitors (Veszprém, Pick Szeged), so format choices have real consequences for Hungarian clubs. The simulation framework is also reusable by the Magyar Vízilabda Szövetség and other smaller-team-sport federations contemplating European-format changes.",
+      "policy_relevance_hu": "Közvetlen input az Európai Kézilabda Szövetség (EHF) és a Magyar Kézilabda Szövetség számára. A magyar bajnokság erős BL-résztvevőket állít (Veszprém, Pick Szeged), így a formátum-döntéseknek valós következményei vannak a magyar klubokra nézve. A szimulációs keret újrahasznosítható a Magyar Vízilabda Szövetség és más kisebb csapatsportágú szövetségek számára is, akik európai formátum-változtatást fontolgatnak.",
+      "topics": [
+        "methods",
+        "industrial-organization"
+      ],
+      "methods": [
+        "theory",
+        "panel-data"
+      ],
+      "countries_studied": [],
+      "data_types": [
+        "macro-aggregate"
+      ],
+      "featured": false,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13",
+      "review_status": "ai-drafted",
+      "policy_instruments": [
+        "tournament design",
+        "competition format reform"
       ],
       "openalex_id": null
     },
@@ -50745,7 +50876,7 @@
       "policy_framing_en": "Relevant to: competition policy (GVH), merger review, platform regulation, auction design, sector-specific regulation.",
       "policy_framing_hu": "Releváns: versenypolitika (GVH), fúziókontroll, platformszabályozás, aukciótervezés, ágazati szabályozás.",
       "icon": "network",
-      "paper_count": 142
+      "paper_count": 144
     },
     {
       "id": "macroeconomics",
@@ -50778,7 +50909,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 215
+      "paper_count": 218
     },
     {
       "id": "market-design",
@@ -52163,7 +52294,7 @@
   ],
   "counts": {
     "authors": 110,
-    "papers": 895,
+    "papers": 898,
     "policy": 35,
     "press": 159,
     "topics": 21
