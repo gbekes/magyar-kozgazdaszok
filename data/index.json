@@ -2168,7 +2168,7 @@
       ],
       "bio_en": "Péter Karádi is Senior Lead Economist in the Monetary Policy Research Division at the European Central Bank in Frankfurt and a CEPR Research Fellow. His research focuses on monetary macroeconomics — conventional and unconventional monetary policy, financial frictions, and price-setting behaviour. Péter Karádi has published in journals like the American Economic Journal: Macroeconomics, the Journal of Monetary Economics and the Journal of Political Economy Macroeconomics. He earned his PhD from New York University in 2010 and previously served as Senior Economist at the Magyar Nemzeti Bank.",
       "bio_hu": "Karádi Péter az Európai Központi Bank frankfurti Monetáris Politikai Kutatási Részlegének vezető közgazdásza és a CEPR kutatótársa. Kutatási területe a monetáris makroökonómia — hagyományos és nem hagyományos monetáris politika, pénzügyi súrlódások és árazási magatartás. Karádi Péter tanulmányai olyan folyóiratokban jelentek meg, mint az American Economic Journal: Macroeconomics, a Journal of Monetary Economics és a Journal of Political Economy Macroeconomics. Doktori fokozatát a New York Universityn szerezte 2010-ben, korábban a Magyar Nemzeti Bank vezető közgazdásza volt.",
-      "photo_url": "https://lh3.googleusercontent.com/sitesv/AA5AbUCi-GuUQ5_ndUwmrrga1vJQLKqAkqfIFcszsefiL-ShiffLWCNKE5NWGhE58buV7kIornnMsXkOzrGsd5ROKzKzQJzj6UNi4zyV_G2EGf047r_lV8tVTC6Xza1gCEomg28i6WHpS4WfEMF1bgmrOpOmwC35duEDGfzrN7fG0jyDc5CiK3y9E-Lo35-pprYm1nGRYLeRveT_Qw87uU5GqELeEjhzzqTYOLkY6AY=w1280",
+      "photo_url": "https://lh3.googleusercontent.com/sitesv/AA5AbUB8C7_2Z6gtNwSThBuq3UGf4kw8F0c3vLNeNNgYVWw8G-zBe6H6zTSDHWoTqHkEdHJkcloPCWD9uqCfXSWf2h7izEkBKzraff-m1XSU1Y7qI23DJg4DNl3XLSlq2DSkSakGt9QeIl-s5qDPzzJiadNWvgbfsuZENecz-L7OFrs45a2K2X4-QUa3zUZjpBjCiWi2-rbSN2QH9fJg2GNHeTK77jZ34yC93WB92Ms=w1280",
       "qualifying_publication": {
         "title": "A model of unconventional monetary policy",
         "journal": "Journal of Monetary Economics",
@@ -2178,11 +2178,11 @@
       "open_to_media_hu": false,
       "media_note": null,
       "review_status": "needs-verification",
-      "last_reviewed_at": "2026-05-07",
+      "last_reviewed_at": "2026-05-13",
       "countries": [
         "DE"
       ],
-      "paper_count": 3,
+      "paper_count": 4,
       "policy_count": 0,
       "press_count": 0
     },
@@ -30614,6 +30614,58 @@
       ]
     },
     {
+      "id": "karadi-nakov-et-al-2024-cepr-strike",
+      "title": "Strike while the Iron is Hot: Optimal Monetary Policy with a Nonlinear Phillips Curve",
+      "authors": [
+        "karadi-peter",
+        "Anton Nakov",
+        "Galo Nuño",
+        "Ernesto Pastén",
+        "Dominik Thaler"
+      ],
+      "publication_type": "working_paper",
+      "journal": null,
+      "year": 2024,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": null,
+      "working_paper_series": "CEPR",
+      "url_published": "https://cepr.org/publications/dp19339",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "We study the Ramsey optimal monetary policy within the Golosov-Lucas (2007) state-dependent pricing framework. The model provides microfoundations for a nonlinear Phillips curve: the sensitivity of inflation to activity increases after large shocks due to an endogenous rise in the frequency of price changes, as observed during the recent inflation surge. In response to large cost-push shocks, optimal policy leverages the lower sacrifice ratio to reduce inflation and stabilize the frequency of price adjustments. At the same time, when facing total factor productivity shocks, an efficient disturbance, the optimal policy commits to strict price stability, similar to the prescription in the standard Calvo (1987) model.",
+      "summary_en": "How aggressively should a central bank lean against inflation when it surges? Karádi and co-authors embed the Ramsey planner's problem in a state-dependent pricing model where firms reset prices more often during large shocks. The result is a nonlinear Phillips curve — inflation's sensitivity to activity rises with the size of the shock, just as observed in 2021-22. The optimal response to a large cost-push shock is therefore aggressive front-loaded disinflation: the sacrifice ratio is lower precisely when prices move freely, and tight policy stops price-change frequency from spiralling. Against productivity shocks, by contrast, the textbook prescription survives: keep prices stable.",
+      "summary_hu": "Mennyire határozottan szigorítson a jegybank, ha az infláció hirtelen elszabadul? Karádi és társszerzői a Ramsey-tervező problémáját olyan állapotfüggő árazási modellben oldják meg, amelyben a vállalatok nagy sokkok idején gyakrabban árazzák át termékeiket. Az eredmény egy nemlineáris Phillips-görbe: az infláció érzékenysége a gazdasági aktivitásra annál nagyobb, minél nagyobb a sokk — pontosan ahogy 2021–22-ben megfigyelhető volt. Nagy költséglökés esetén az optimális válasz az előrehozott, határozott dezinfláció: az áldozati hányad alacsonyabb, amikor az árak amúgy is mozognak, a szigorítás pedig megakadályozza, hogy az árváltoztatási gyakoriság elszabaduljon. Termelékenységi sokkokra viszont a tankönyvi recept marad érvényes: szigorú árstabilitás.",
+      "data_used": "Theoretical / quantitative paper. No primary dataset; the Golosov-Lucas (2007) state-dependent pricing framework is calibrated to standard US micro-price moments (price-change frequencies, distribution of price changes) and used to solve the Ramsey planner's optimal-policy problem under cost-push and productivity shocks of varying size.",
+      "data_used_hu": "Elméleti / kvantitatív tanulmány. Nincs elsődleges adatbázis; a Golosov–Lucas (2007) állapotfüggő árazási keret szokványos amerikai mikro-ár momentumokra (árváltoztatási gyakoriság, az árváltozások eloszlása) van kalibrálva, és a Ramsey-tervező optimálispolitika-problémáját oldja meg eltérő nagyságú költséglökés- és termelékenységi sokkokra.",
+      "policy_relevance": "Of direct interest to the MNB and ECB-watching Hungarian analysts evaluating the post-2022 tightening cycle. The paper supplies the microfoundations for the aggressive front-loaded disinflation that major central banks pursued in 2022-24: when inflation is high and many firms are already resetting prices, fast tightening costs less output than the standard Calvo model predicts. For Hungary — where headline CPI peaked above 25% in early 2023 — this is the workhorse framework for asking whether the MNB's rapid 2022-23 rate hikes were appropriately calibrated, and how to think about future cost-push shocks (energy, FX).",
+      "policy_relevance_hu": "Közvetlenül érdekes az MNB és az EKB-figyelő magyar elemzők számára a 2022 utáni szigorítási ciklus értékeléséhez. A tanulmány elméleti alapot ad a vezető jegybankok 2022–24-es agresszív, előrehozott dezinflációs álláspontjának: ha az infláció magas, és a vállalatok amúgy is gyakran árazzák át a termékeiket, akkor a gyors szigorítás kevesebb termelést áldoz, mint amennyit a hagyományos Calvo-modell jelez. Magyarországra — ahol a fogyasztói infláció 2023 elején 25% fölött tetőzött — ez az a keretrendszer, amellyel az MNB 2022–23-as gyors kamatemelési pályája értékelhető, és amellyel a jövőbeli költséglökések (energia, árfolyam) kezelése átgondolható.",
+      "topics": [
+        "macroeconomics",
+        "banking-finance"
+      ],
+      "methods": [
+        "theory",
+        "structural"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
+      "featured": false,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13",
+      "review_status": "ai-drafted",
+      "policy_instruments": [
+        "optimal monetary policy",
+        "inflation stabilisation",
+        "state-dependent pricing"
+      ]
+    },
+    {
       "id": "karlan-mobius-et-al-2009-qje",
       "title": "Trust and Social Collateral<sup>*</sup>",
       "authors": [
@@ -48565,7 +48617,7 @@
       "policy_framing_en": "Relevant to: MNB policy, banking regulation, macroprudential tools, financial inclusion.",
       "policy_framing_hu": "Releváns: MNB-politika, bankszabályozás, makroprudenciális eszközök, pénzügyi befogadás.",
       "icon": "landmark",
-      "paper_count": 185
+      "paper_count": 186
     },
     {
       "id": "fiscal-tax",
@@ -48664,7 +48716,7 @@
       "policy_framing_en": "Relevant to: long-run growth forecasting, macroeconomic modelling, sovereign-debt management, stabilisation policy design.",
       "policy_framing_hu": "Releváns: hosszú távú növekedés előrejelzés, makroökonómiai modellek, államadósság-kezelés, stabilizációs politika.",
       "icon": "line-chart",
-      "paper_count": 163
+      "paper_count": 164
     },
     {
       "id": "agriculture-food",
@@ -50071,7 +50123,7 @@
   ],
   "counts": {
     "authors": 106,
-    "papers": 855,
+    "papers": 856,
     "policy": 35,
     "press": 159,
     "topics": 21
