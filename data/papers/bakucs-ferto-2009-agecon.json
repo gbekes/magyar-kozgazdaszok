@@ -1,0 +1,49 @@
+{
+  "id": "bakucs-ferto-2009-agecon",
+  "title": "The growth of family farms in Hungary",
+  "authors": [
+    "bakucs-zoltan",
+    "ferto-imre"
+  ],
+  "publication_type": "article",
+  "journal": "Agricultural Economics",
+  "year": 2009,
+  "volume": "40",
+  "issue": "s1",
+  "pages": "789-795",
+  "doi": "10.1111/j.1574-0862.2009.00415.x",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1111/j.1574-0862.2009.00415.x",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "Examines whether Gibrat's Law holds for Hungarian family farms using FADN data 2001–2007 with quantile regression. The law is rejected across quantiles — smaller farms expand more rapidly. No support for the 'disappearing middle' hypothesis. Subsidies and operator age are the most significant growth factors.",
+  "summary_en": "Do bigger Hungarian family farms grow faster than smaller ones — as the standard 'Gibrat's law' would predict — or is the opposite true? Bakucs and Fertő test the proposition on Hungarian Farm Accountancy Data Network records for 2001-2007 using quantile regression, which lets growth rates differ along the size distribution. The law is rejected across the board: smaller farms grow faster, so the size distribution is converging rather than dispersing. The often-claimed 'disappearing middle' (a hollowing-out of mid-sized farms) is not visible in the data either. The two strongest growth predictors are CAP subsidies and operator age — younger farmers and better-subsidised farms expand.",
+  "summary_hu": "Vajon a nagyobb magyar családi gazdaságok gyorsabban nőnek-e, mint a kisebbek — ahogy a klasszikus „Gibrat-törvény” jósolná —, vagy fordítva? Bakucs és Fertő a magyar Tesztüzemi (FADN) adatok 2001–2007-es panelján kvantilis regresszióval vizsgálja a növekedést, ami megengedi, hogy a növekedési ütemek a méretskála mentén különbözzenek. A törvény minden kvantilisben elbukik: a kisebb gazdaságok gyorsabban nőnek, vagyis a méreteloszlás közelít, nem szóródik. A gyakran emlegetett „eltűnő közép” (a középméretű gazdaságok kiüresedése) sem mutatkozik az adatokban. A növekedés két legerősebb előrejelzője a KAP-támogatás és a gazda életkora: a fiatalabb és jobban támogatott gazdaságok nőnek.",
+  "data_used": "Hungarian Farm Accountancy Data Network (FADN / Tesztüzemi) panel for 2001–2007, covering several thousand commercial family farms across all main farm types and regions. Outcome: annual asset / output growth; quantile regression across the size distribution; controls include subsidies received, operator age, region.",
+  "data_used_hu": "Magyar Tesztüzemi Adathálózat (FADN) panel 2001–2007-re, több ezer kereskedelmi családi gazdaságra, az összes főbb gazdaság-típusra és régióra. Függő változó: éves eszköz- / kibocsátási növekedés; kvantilis regresszió a méreteloszlás mentén; kontrollok között a kapott támogatások, a gazda életkora és a régió.",
+  "policy_relevance": "Useful for the Agrárminisztérium and AKI in calibrating CAP-funded young-farmer and small-farm support programmes. The finding that smaller and younger farms grow faster supports targeting subsidies at those segments rather than scale-neutral payments; the rejection of the 'disappearing middle' hypothesis cautions against policy framing that assumes middle-sized farms need rescuing. The methodology — quantile-regression growth testing on FADN — is reusable for ongoing CAP impact evaluation.",
+  "policy_relevance_hu": "Hasznos az Agrárminisztérium és az AKI számára a KAP-finanszírozású fiatal gazda és kisgazdaság-támogatási programok kalibrálásához. Az eredmény — hogy a kisebb és fiatalabb gazdaságok gyorsabban nőnek — alátámasztja a célzott támogatást a méretarányos kifizetésekkel szemben; az „eltűnő közép” hipotézis elvetése pedig óvatosságra int azzal a politikai keretezéssel szemben, amely a középméretű gazdaságok megmentését feltételezi. A módszertan — kvantilis regresszió FADN-adatokon — a folyamatos KAP-hatásvizsgálatban újrahasznosítható.",
+  "topics": [
+    "agriculture-food",
+    "firms-productivity",
+    "regional-urban"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "CAP small-farm support",
+    "young-farmer programmes"
+  ],
+  "openalex_id": null
+}

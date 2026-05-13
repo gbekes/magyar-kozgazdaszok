@@ -1,0 +1,52 @@
+{
+  "id": "bakucs-ferto-fogarasi-2009-econlet",
+  "title": "Investment and financial constraints in Hungarian agriculture",
+  "authors": [
+    "bakucs-zoltan",
+    "ferto-imre",
+    "József Fogarasi"
+  ],
+  "publication_type": "article",
+  "journal": "Economics Letters",
+  "year": 2009,
+  "volume": "104",
+  "issue": "3",
+  "pages": "122-124",
+  "doi": "10.1016/j.econlet.2009.04.019",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1016/j.econlet.2009.04.019",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Are Hungarian farms financially constrained — do they invest less than they would if they could borrow against future cash flow? Bakucs, Fertő and Fogarasi run Euler-equation investment tests on Hungarian Farm Accountancy Data Network (FADN) micro-data from the mid-2000s. Investment is sensitive to cash flow above and beyond what fundamentals predict — the classic signature of credit constraints — and the constraint binds more tightly for smaller farms and lower-equity operations. The diagnostic puts a number on what was anecdotally known: small Hungarian farms invest less than their profitability warrants because credit markets won't fund them.",
+  "summary_hu": "Pénzügyileg korlátozottak-e a magyar gazdaságok — kevesebbet ruháznak-e be, mint amennyit a jövőbeli pénzáramuk indokolna, ha a bankok hiteleznének rá? Bakucs, Fertő és Fogarasi Euler-egyenleten alapuló beruházási teszteket futtat a 2000-es évek közepi magyar Tesztüzemi (FADN) mikroadatokon. A beruházás a pénzáramra a fundamentumokon túl is érzékeny — ez a hitelkorlátok klasszikus jele —, és a korlát szigorúbb a kisebb és alacsonyabb saját tőkéjű gazdaságoknál. A teszt számszerűsíti azt, amit eddig csak anekdotikusan tudtunk: a kis magyar gazdaságok azért ruháznak be a jövedelmezőségükhöz képest kevesebbet, mert a hitelpiac nem finanszírozza őket.",
+  "data_used": "Hungarian Farm Accountancy Data Network (FADN / Tesztüzemi) annual panel for the mid-2000s, several thousand farms. Estimates a structural Euler-equation investment model with cash-flow as a credit-constraint diagnostic; sample splits by farm size and equity ratio to identify which segments are more constrained.",
+  "data_used_hu": "Magyar Tesztüzemi (FADN) éves panel a 2000-es évek közepéből, több ezer gazdaságra. Strukturális Euler-egyenlet alapú beruházási modellt becsül, ahol a pénzáramra való érzékenység a hitelkorlátok diagnosztikája; a mintát gazdaság-méret és saját tőke aránya szerint bontja, hogy melyik szegmens szorul be jobban.",
+  "policy_relevance": "Directly relevant for the Magyar Államkincstár MFB Agrárhitel programmes and AKI when evaluating credit-guarantee, KAVOSZ-style schemes for small farms. The result that Hungarian small farms are credit-constrained justifies targeted credit-guarantee or subsidised-loan instruments at exactly the small/young-farm segment — and warns that scale-neutral CAP first-pillar payments will leak less productively than financial-instrument-based support.",
+  "policy_relevance_hu": "Közvetlenül érdekes a Magyar Államkincstár MFB Agrárhitel és az AKI számára a kisgazdaságoknak szóló kezesvállalási, KAVOSZ-típusú programok értékelésekor. Az eredmény — hogy a magyar kisgazdaságok hitelkorlátosak — alátámasztja a célzott hitelgarancia- vagy kamattámogatott hitel-instrumentumokat éppen a kis és fiatal gazdák körében, és figyelmeztet rá, hogy a méretarányos KAP-első pilléres kifizetések kevésbé hatékonyan érnek célt, mint a pénzügyi-instrumentum alapú támogatás.",
+  "topics": [
+    "agriculture-food",
+    "firms-productivity",
+    "banking-finance"
+  ],
+  "methods": [
+    "structural",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "credit-guarantee schemes",
+    "subsidised farm loans",
+    "CAP support targeting"
+  ],
+  "openalex_id": null
+}

@@ -1,0 +1,50 @@
+{
+  "id": "ferto-bakucs-falkowski-2021-jae",
+  "title": "Dairy sector trade dynamics: Some insights on the evolution of trade linkages within the EU",
+  "authors": [
+    "ferto-imre",
+    "bakucs-zoltan",
+    "Jan Fałkowski"
+  ],
+  "publication_type": "article",
+  "journal": "Journal of Agricultural Economics",
+  "year": 2021,
+  "volume": "72",
+  "issue": "3",
+  "pages": "698-711",
+  "doi": "10.1111/1477-9552.12429",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1111/1477-9552.12429",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "The authors examine how trade network structures develop within economic integration, testing whether initial network size correlates with new trade connections and whether a country's trade evolution depends on partners' networks. Using intra-EU dairy trade data 2001–2015, they find support for both predictions.",
+  "summary_en": "Does economic integration produce a denser web of trade ties, or do existing big traders simply trade more with each other? Fertő, Bakucs and Fałkowski study intra-EU dairy trade for 2001–2015 — a window covering eastward enlargement — and trace which country pairs added new trade links and which deepened existing ones. Countries with bigger initial trade networks gained new partners faster; a country's trade growth also depends on the network position of its existing partners. The dairy sector behaves like a preferential-attachment system: integration intensifies links among hubs more than it spreads trade evenly across new entrants.",
+  "summary_hu": "A gazdasági integráció valóban sűríti-e a kereskedelmi kapcsolatok hálózatát, vagy a már nagy kereskedők egymás közötti forgalma nő? Fertő, Bakucs és Fałkowski az EU-n belüli tejipari kereskedelmet vizsgálja 2001 és 2015 között — a keleti bővítést is lefedő időszakban —, és követi, hogy mely országpárok között születtek új kapcsolatok, és melyek mélyítették a meglévőket. A kezdetben nagyobb kereskedelmi hálózattal rendelkező országok gyorsabban szereztek új partnereket, és egy ország kereskedelmi növekedése a partnerei hálózati helyzetétől is függ. A tejipari piac „preferenciális kapcsolódás” logikáját követi: az integráció elsősorban a központok közötti kapcsolatokat erősíti.",
+  "data_used": "Intra-EU bilateral dairy trade data 2001–2015 from Eurostat / Comext, structured as a directed trade network. Tests link-formation and link-deepening dynamics against initial network size and partners' network positions; controls for country size and EU-accession status.",
+  "data_used_hu": "EU-n belüli kétoldalú tejipari kereskedelmi adatok 2001–2015, Eurostat / Comext forrásból, irányított kereskedelmi hálózatba rendezve. A kapcsolat-kialakulás és -mélyülés dinamikáját teszteli a kezdeti hálózatméret és a partnerek hálózati helyzete ellenében; országméret- és csatlakozási kontrollokkal.",
+  "policy_relevance": "Relevant for the Agrárminisztérium and KSH agri-trade analysts assessing how CAP integration shapes Hungarian dairy exporters' market access. The preferential-attachment finding implies that countries entering the network late (Hungary among new member states) face a structural headwind: trade growth disproportionately accrues to incumbent hubs. Useful for evaluating bilateral trade-promotion programmes (HEPA, Magyar Tejtermelők Szövetsége initiatives) and for setting realistic baselines on which CAP-funded market-access interventions can be tested.",
+  "policy_relevance_hu": "Az Agrárminisztérium és a KSH agrárkereskedelmi elemzői számára releváns annak vizsgálatához, hogyan formálja a KAP-integráció a magyar tejipari exportőrök piaci hozzáférését. A preferenciális kapcsolódási eredmény azt jelzi: a hálózatba később belépő országok (köztük Magyarország és a többi újonnan csatlakozó tagállam) szerkezeti hátszelet kapnak — a kereskedelmi növekedés aránytalanul a meglévő központokhoz csapódik. Hasznos a kétoldalú piacszerzési programok (HEPA, Magyar Tejtermelők Szövetsége) értékeléséhez és a KAP-finanszírozású piacra jutási intézkedések reális kiindulópontjának meghatározásához.",
+  "topics": [
+    "agriculture-food",
+    "trade-fdi",
+    "regional-urban"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "EU"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "trade-promotion design",
+    "CAP integration analysis"
+  ],
+  "openalex_id": null
+}
