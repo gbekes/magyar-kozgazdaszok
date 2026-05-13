@@ -1,0 +1,43 @@
+{
+  "id": "agoston-csato-2024-ejor",
+  "title": "A lexicographically optimal completion for pairwise comparison matrices with missing entries",
+  "authors": [
+    "Kolos Csaba Ágoston",
+    "csato-laszlo"
+  ],
+  "publication_type": "article",
+  "journal": "European Journal of Operational Research",
+  "year": 2024,
+  "volume": "314",
+  "issue": "3",
+  "pages": "1078-1086",
+  "doi": "10.1016/j.ejor.2023.10.035",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1016/j.ejor.2023.10.035",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "When a decision maker compares options pairwise but cannot fill every cell of the comparison matrix, how should the gaps be filled to keep the resulting ranking defensible? Ágoston and Csató propose a lexicographic completion that minimises the worst inconsistency first, then successively improves the rest. The rule yields a unique completion under mild conditions and outperforms the standard eigenvector-based fillers on stability when entries are noisy. The method is directly usable in expert-elicitation settings — from procurement scoring to medical triage — where forcing every pairwise judgement is impractical.",
+  "summary_hu": "Amikor a döntéshozó páronkénti összehasonlításokat végez, de nem tudja a teljes mátrixot kitölteni, hogyan érdemes pótolni a hiányzó cellákat, hogy a kapott rangsor védhető maradjon? Ágoston és Csató olyan lexikografikus kiegészítést javasolnak, amely először a legrosszabb inkonzisztenciát minimalizálja, majd lépésről lépésre javítja a többit. Az eljárás enyhe feltételek mellett egyértelmű kiegészítést ad, és zajos bemenetek esetén jobb stabilitást nyújt, mint a klasszikus sajátvektor-alapú megoldások. A módszer közvetlenül használható szakértői megítélés alapú döntéseknél — közbeszerzési pontozástól triázsig —, ahol a teljes páronkénti értékelés nem reális.",
+  "data_used": "Theoretical analysis of incomplete pairwise comparison matrices using the lexicographic minimax criterion. Numerical experiments on benchmark matrices of varying size and density compare the proposed rule against eigenvector-based and least-squares completions. The contribution is an algorithm plus existence/uniqueness results, not an empirical study.",
+  "data_used_hu": "Hiányos páronkénti összehasonlító mátrixok elméleti elemzése a lexikografikus minimax kritérium szerint. Különböző méretű és sűrűségű benchmark-mátrixokon végzett numerikus kísérletek hasonlítják össze a javasolt eljárást a sajátvektor- és legkisebb négyzetek alapú kiegészítésekkel. A hozzájárulás algoritmus plusz létezési/egyértelműségi eredmények, nem empirikus tanulmány.",
+  "policy_relevance": "Useful for Hungarian public procurement units, the Közbeszerzési Hatóság and the State Audit Office (Állami Számvevőszék) when scoring bids on multi-criteria scales with incomplete expert input. Healthcare priority-setting committees, climate-policy advisory boards and any AHP-style decision process face the same incomplete-matrix problem; the lexicographic rule offers a transparent, reproducible default that auditors can replicate.",
+  "policy_relevance_hu": "Hasznos a magyar közbeszerzési egységek, a Közbeszerzési Hatóság és az Állami Számvevőszék számára, amikor ajánlatokat pontoznak több szempont mentén hiányos szakértői bemenet alapján. Egészségügyi prioritás-meghatározó bizottságok, klímapolitikai tanácsadó testületek és minden AHP-jellegű döntési folyamat ugyanezzel a hiányos-mátrix problémával szembesül; a lexikografikus szabály átlátható, reprodukálható alapértelmezést kínál, amelyet az ellenőrök is le tudnak utánozni.",
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [],
+  "data_types": [],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "ranking methodology",
+    "expert elicitation"
+  ],
+  "openalex_id": null
+}

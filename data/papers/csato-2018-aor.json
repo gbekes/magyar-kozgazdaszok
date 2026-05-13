@@ -1,0 +1,42 @@
+{
+  "id": "csato-2018-aor",
+  "title": "Characterization of an inconsistency ranking for pairwise comparison matrices",
+  "authors": [
+    "csato-laszlo"
+  ],
+  "publication_type": "article",
+  "journal": "Annals of Operations Research",
+  "year": 2018,
+  "volume": "261",
+  "issue": "1",
+  "pages": "155-165",
+  "doi": "10.1007/s10479-017-2627-8",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1007/s10479-017-2627-8",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "How should two pairwise comparison matrices be ranked by inconsistency — when can we say one is more inconsistent than another? Csató provides an axiomatic characterisation of an inconsistency ranking, showing that a particular ordering is uniquely pinned down by a short list of natural properties. The result moves the conversation from 'which numerical index do we like' to 'which ordering of matrices we accept', a more disciplined way to think about consistency thresholds.",
+  "summary_hu": "Hogyan rangsoroljunk két páronkénti összehasonlító mátrixot inkonzisztencia szerint — mikor mondhatjuk, hogy az egyik inkonzisztensebb a másiknál? Csató axiomatikus karakterizációt ad egy inkonzisztencia-rangsorra, kimutatva, hogy egy adott sorrendet egyértelműen meghatároz néhány természetes tulajdonság rövid listája. Az eredmény a vitát „melyik numerikus indexet kedveljük” kérdéséről „melyik mátrix-rangsort fogadjuk el” kérdésére tolja — fegyelmezettebb módja a konzisztencia-küszöbök gondolkodásának.",
+  "data_used": "Pure axiomatic theory. The paper formulates properties for any ordering of pairwise comparison matrices by inconsistency and proves a uniqueness theorem.",
+  "data_used_hu": "Tisztán axiomatikus elmélet. A tanulmány tulajdonságokat fogalmaz meg a páronkénti összehasonlító mátrixok inkonzisztencia szerinti bármely rendezésére, és egyértelműségi tételt bizonyít.",
+  "policy_relevance": "Foundational scholarship for regulators setting consistency thresholds in AHP-style scoring — the Közbeszerzési Hatóság being the obvious Hungarian use case for tender evaluations. The result lets a regulator commit to an ordering rather than a numerical cutoff: cleaner, more defensible, and resistant to gaming through reparameterisation.",
+  "policy_relevance_hu": "Alapozó kutatás az AHP-jellegű pontozásban konzisztencia-küszöböt megszabó szabályozók számára — a Közbeszerzési Hatóság a nyilvánvaló magyar felhasználási eset tendervizsgálatok terén. Az eredmény lehetővé teszi a szabályozónak, hogy rendezés mellett kötelezze el magát numerikus küszöb helyett: tisztább, védhetőbb és reparametrizálással nehezebben kijátszható.",
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [],
+  "data_types": [],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "ranking methodology",
+    "inconsistency measurement"
+  ],
+  "openalex_id": null
+}

@@ -1,0 +1,41 @@
+{
+  "id": "csato-2019-ejor",
+  "title": "A characterization of the Logarithmic Least Squares Method",
+  "authors": [
+    "csato-laszlo"
+  ],
+  "publication_type": "article",
+  "journal": "European Journal of Operational Research",
+  "year": 2019,
+  "volume": "276",
+  "issue": "1",
+  "pages": "212-216",
+  "doi": "10.1016/j.ejor.2019.01.011",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1016/j.ejor.2019.01.011",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "The logarithmic least squares (geometric mean) method is a leading alternative to the eigenvector method for deriving priorities from pairwise comparisons. Csató provides an axiomatic characterisation: a short list of natural properties uniquely identifies this method. The result strengthens the case for the geometric mean as a defensible default in multi-criteria decision analysis, because any alternative rule must violate at least one of the listed properties — making the trade-off explicit rather than hidden in algorithmic choice.",
+  "summary_hu": "A logaritmikus legkisebb négyzetek (mértani közép) módszer a sajátvektor-módszer egyik vezető alternatívája a páronkénti összehasonlításokból kapott prioritások számítására. Csató axiomatikus karakterizációt ad: néhány természetes tulajdonság rövid listája egyértelműen kijelöli ezt a módszert. Az eredmény erősíti a mértani közép használata melletti érveket, mert minden alternatív szabálynak meg kell sértenie legalább egyet a felsorolt tulajdonságok közül — így a kompromisszum nyilvánvalóvá válik, nem rejtőzik el az algoritmikus választásban.",
+  "data_used": "Pure axiomatic theory. The paper formulates a set of properties for ranking methods on pairwise comparison matrices and proves that the logarithmic least squares method is the unique procedure satisfying all of them.",
+  "data_used_hu": "Tisztán axiomatikus elmélet. A tanulmány tulajdonság-halmazt fogalmaz meg a páronkénti összehasonlító mátrixokon működő rangsoroló módszerekre, és bizonyítja, hogy a logaritmikus legkisebb négyzetek módszere az egyetlen eljárás, amely mindegyiket teljesíti.",
+  "policy_relevance": "Provides theoretical justification for adopting the geometric mean in any AHP-based decision process in Hungarian public administration. The Közbeszerzési Hatóság, NKFIH research-funding panels and the Állami Számvevőszék in performance-audit settings all use multi-criteria scoring; a characterisation result like this is the kind of evidence that supports moving away from the more popular but more brittle eigenvector method in regulatory practice.",
+  "policy_relevance_hu": "Elméleti indoklást ad arra, hogy a magyar közigazgatás bármely AHP-alapú döntési folyamatában a mértani közepet vezessék be. A Közbeszerzési Hatóság, az NKFIH kutatási panelek és az Állami Számvevőszék teljesítmény-ellenőrzései mind többkritériumos pontozást használnak; egy ilyen karakterizációs eredmény az a típusú bizonyíték, ami a népszerűbb, de törékenyebb sajátvektor-módszertől való elmozdulást támogatja a szabályozási gyakorlatban.",
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [],
+  "data_types": [],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "ranking methodology"
+  ],
+  "openalex_id": null
+}

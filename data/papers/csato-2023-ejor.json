@@ -1,0 +1,46 @@
+{
+  "id": "csato-2023-ejor",
+  "title": "How to avoid uncompetitive games? The importance of tie-breaking rules",
+  "authors": [
+    "csato-laszlo"
+  ],
+  "publication_type": "article",
+  "journal": "European Journal of Operational Research",
+  "year": 2023,
+  "volume": "307",
+  "issue": "3",
+  "pages": "1260-1269",
+  "doi": "10.1016/j.ejor.2022.11.015",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1016/j.ejor.2022.11.015",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Round-robin groups regularly produce a final match where one team has already qualified and the other has nothing left to play for — except the tie-breaking rule may make their nominal effort matter. Csató shows that the choice of tie-breaker (head-to-head versus goal difference versus points) systematically changes how often the final group match is competitive. Simulation on calibrated football tournaments finds that a goal-difference tie-breaker reduces stakeless matches by a meaningful margin compared with head-to-head, with no cost to overall ranking quality.",
+  "summary_hu": "A körmérkőzéses csoportokban rendszeresen előfordul olyan záró meccs, amelyben az egyik csapat már kvalifikálta magát, a másiknak pedig semmi érdemi tétje nincs — kivéve, ha a döntetlen-feloldó szabály miatt a névleges teljesítményük mégis számít. Csató bizonyítja, hogy a döntetlen-feloldó (egymás elleni eredmény, gólkülönbség, pontok) szisztematikusan befolyásolja, milyen gyakran lesz versengő a záró csoportmérkőzés. Kalibrált labdarúgótornákon végzett szimuláció szerint a gólkülönbségen alapuló döntetlen-feloldó érdemben csökkenti a tét nélküli mérkőzések arányát az egymás elleni eredményhez képest, anélkül, hogy a végső rangsor minősége romlana.",
+  "data_used": "Monte Carlo simulation of round-robin football groups under alternative tie-breaking rules: head-to-head results, goal difference, goals scored, points. Team strengths drawn from realistic FIFA-rating distributions. Outcome measures: probability that the final group match has competitive stakes for both teams; probability that the deserving team advances.",
+  "data_used_hu": "Körmérkőzéses labdarúgó-csoportok Monte Carlo-szimulációja különböző döntetlen-feloldó szabályok mellett: egymás elleni eredmény, gólkülönbség, rúgott gólok, pontok. A csapaterősségek realisztikus FIFA-elo-eloszlásból származnak. Eredményváltozók: annak valószínűsége, hogy a záró csoportmeccsnek mindkét csapat számára van tétje; annak valószínűsége, hogy az érdemes csapat jut tovább.",
+  "policy_relevance": "Concrete input for UEFA, FIFA and the Magyar Labdarúgó Szövetség (MLSZ) when revising group-stage regulations. The result that goal-difference tie-breakers preserve competitive stakes more often than head-to-head should inform the MLSZ NB I cup-format design and any UEFA national-team competition reform. Other federations using round-robin formats (handball, basketball, water polo) can apply the same simulation logic to their own competitions.",
+  "policy_relevance_hu": "Konkrét input az UEFA, FIFA és a Magyar Labdarúgó Szövetség (MLSZ) számára a csoportkör-szabályok felülvizsgálatához. Az az eredmény, hogy a gólkülönbséges döntetlen-feloldó gyakrabban őrzi meg a versenytétet, mint az egymás elleni, befolyásolhatja az MLSZ Magyar Kupa-tervezést és bármely UEFA-válogatott reformot. A körmérkőzéses formát használó más szövetségek (kézilabda, kosárlabda, vízilabda) ugyanezt a szimulációs logikát alkalmazhatják saját versenyeikre.",
+  "topics": [
+    "methods",
+    "industrial-organization"
+  ],
+  "methods": [
+    "theory",
+    "panel-data"
+  ],
+  "countries_studied": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "tournament design",
+    "tie-breaking rules"
+  ],
+  "openalex_id": null
+}

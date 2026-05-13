@@ -1,0 +1,44 @@
+{
+  "id": "bozoki-csato-temesi-2016-ejor",
+  "title": "An application of incomplete pairwise comparison matrices for ranking top tennis players",
+  "authors": [
+    "Sándor Bozóki",
+    "csato-laszlo",
+    "József Temesi"
+  ],
+  "publication_type": "article",
+  "journal": "European Journal of Operational Research",
+  "year": 2016,
+  "volume": "248",
+  "issue": "1",
+  "pages": "211-218",
+  "doi": "10.1016/j.ejor.2015.06.069",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1016/j.ejor.2015.06.069",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "How do you rank tennis players who have rarely played each other? Bozóki, Csató and Temesi treat head-to-head records as an incomplete pairwise comparison matrix and apply the logarithmic least squares completion to rank top players across eras. The method handles the sparsity of cross-era matches gracefully and produces a ranking that lines up with expert consensus on the all-time greats while making the methodology fully transparent. The approach generalises to any setting where head-to-head data is uneven — chess, esports, academic citation graphs.",
+  "summary_hu": "Hogyan rangsoroljunk olyan teniszezőket, akik ritkán játszottak egymással? Bozóki, Csató és Temesi az egymás elleni eredményeket hiányos páronkénti összehasonlító mátrixként kezeli, és a logaritmikus legkisebb négyzetek módszerével rangsorol minden idők legjobb játékosai között. A módszer elegánsan kezeli a korszakok közötti meccsek hiányosságát, és olyan rangsort ad, amely egyezik a szakértői konszenzussal a minden idők legnagyobbjairól, miközben a módszertant teljesen átláthatóvá teszi. Az eljárás általánosítható minden olyan helyzetre, ahol az egymás elleni adatok egyenetlenek — sakk, esport, tudományos hivatkozási gráfok.",
+  "data_used": "Head-to-head results among top male and female tennis players spanning multiple eras, drawn from public match databases. The matrix is highly incomplete because cross-era players never met. The logarithmic least squares method on incomplete matrices yields a complete ranking; robustness checks vary the player pool and the era boundaries.",
+  "data_used_hu": "A férfi és női élvonalbeli teniszezők egymás elleni eredményei több korszakon át, nyilvános meccsadatbázisokból. A mátrix erősen hiányos, mert a korszakok közötti játékosok soha nem találkoztak. A hiányos mátrixokon működő logaritmikus legkisebb négyzetek módszer teljes rangsort ad; a robusztussági ellenőrzések változtatják a játékoskört és a korszakhatárokat.",
+  "policy_relevance": "The methodology is directly transferable to research-funding decisions, where panellists rate proposals only on subsets of the full field, and to journal-quality rankings, where direct cross-citation is rare. For Hungarian institutions like NKFIH and MTA, the incomplete-matrix approach offers a transparent alternative to ad-hoc weighted averages. For sports federations, it gives a defensible all-time-ranking framework — useful for the Magyar Tenisz Szövetség or any chess body.",
+  "policy_relevance_hu": "A módszertan közvetlenül átvihető a kutatás-finanszírozási döntésekre, ahol a bírálók csak részhalmazokat értékelnek, és a folyóirat-minőségi rangsorokra, ahol a közvetlen kereszthivatkozás ritka. Magyar intézmények — NKFIH, MTA — számára a hiányos-mátrix megközelítés átlátható alternatívát kínál az eseti súlyozott átlagokhoz képest. Sportszövetségek számára védhető minden idők rangsor-keretet ad — hasznos a Magyar Tenisz Szövetség vagy bármely sakkszervezet számára.",
+  "topics": [
+    "methods",
+    "industrial-organization"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [],
+  "data_types": [],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "ranking methodology"
+  ],
+  "openalex_id": null
+}

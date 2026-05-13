@@ -1,0 +1,47 @@
+{
+  "id": "csato-petroczy-2025-aor",
+  "title": "Competitive balance in the UEFA Champions League group stage: Novel measures show no evidence of decline",
+  "authors": [
+    "csato-laszlo",
+    "Dóra Gréta Petróczy"
+  ],
+  "publication_type": "article",
+  "journal": "Annals of Operations Research",
+  "year": 2025,
+  "volume": "352",
+  "issue": "1",
+  "pages": "105-120",
+  "doi": "10.1007/s10479-025-06780-9",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1007/s10479-025-06780-9",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Common wisdom holds that competitive balance in the Champions League group stage has eroded as elite clubs pull away. Csató and Petróczy build new balance measures that account for the structure of the draw (seeding pots) rather than just match-by-match outcomes. Applied to two decades of group-stage data, the measures show no statistically robust decline — competitive balance is closer to flat than to deteriorating once draw structure is properly handled. The result complicates the narrative that motivated UEFA's 2024 format reform.",
+  "summary_hu": "A közvélekedés szerint a Bajnokok Ligája csoportkörének versenyegyensúlya romlott, ahogy az elitklubok elszakadnak. Csató és Petróczy olyan új egyensúly-mutatókat alkotnak, amelyek figyelembe veszik a sorsolás szerkezetét (kiemelési kalapokat), nem csak a meccsenkénti eredményeket. Két évtizednyi csoportkör-adatra alkalmazva a mutatók nem mutatnak statisztikailag robusztus romlást — a versenyegyensúly inkább stabil, mint romló, ha a sorsolási szerkezetet helyesen kezeljük. Az eredmény megnehezíti azt a narratívát, amely az UEFA 2024-es formátumreformját motiválta.",
+  "data_used": "UEFA Champions League group-stage match results from the early 2000s through the 2023/24 season. The analysis constructs balance measures that condition on seeding pots, so two groups with identical match-outcome dispersion but different seeding configurations are scored differently. Trend tests compare across formats (32-team group stage, prior eras).",
+  "data_used_hu": "Az UEFA Bajnokok Ligája csoportkörének mérkőzéseredményei a 2000-es évek elejétől a 2023/24-es szezonig. Az elemzés olyan egyensúly-mutatókat épít, amelyek a kiemelési kalapokra kondicionálnak, így két azonos eredmény-szóródású, de eltérő kiemelési konfigurációjú csoport eltérő pontszámot kap. Trendtesztek hasonlítanak össze formátumokat (32 csapatos csoportkör, korábbi korszakok).",
+  "policy_relevance": "Directly relevant to UEFA's communication around the 2024 'Swiss-system' Champions League reform, which was sold partly on competitive-balance grounds. The paper suggests the empirical case for a major format change was weaker than UEFA implied. For the Magyar Labdarúgó Szövetség and other national federations, the methodology is reusable for assessing domestic-league balance in NB I and similar leagues — a useful diagnostic for league-format debates.",
+  "policy_relevance_hu": "Közvetlenül releváns az UEFA 2024-es „svájci rendszerű” BL-reform körüli kommunikáció szempontjából, amelyet részben versenyegyensúly-érvekkel adtak el. A tanulmány szerint a jelentős formátum-változtatás empirikus indoka gyengébb volt, mint ahogy az UEFA sugallta. A Magyar Labdarúgó Szövetség és más nemzeti szövetségek számára a módszertan újrahasznosítható a hazai bajnokságok (NB I és hasonlók) egyensúlyának értékelésére — hasznos diagnosztika a bajnokság-formátum vitáihoz.",
+  "topics": [
+    "methods",
+    "industrial-organization"
+  ],
+  "methods": [
+    "theory",
+    "panel-data"
+  ],
+  "countries_studied": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "competitive balance measurement",
+    "tournament design"
+  ],
+  "openalex_id": null
+}

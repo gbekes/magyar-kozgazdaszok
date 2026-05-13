@@ -1,0 +1,48 @@
+{
+  "id": "csato-gyimesi-2026-ejor",
+  "title": "Increasing competitiveness by imbalanced groups: The example of the 48-team FIFA World Cup",
+  "authors": [
+    "csato-laszlo",
+    "gyimesi-andras"
+  ],
+  "publication_type": "article",
+  "journal": "European Journal of Operational Research",
+  "year": 2026,
+  "volume": "332",
+  "issue": "3",
+  "pages": "868-879",
+  "doi": "10.1016/j.ejor.2025.11.025",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1016/j.ejor.2025.11.025",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "Stakeless matches—where at least one team is indifferent to the outcome because it has already qualified or been eliminated—threaten the fairness of sports tournaments. The cost of such matches is higher if the indifferent team is more likely to win by playing honestly. This paper proposes a novel format based on imbalanced groups, which substantially reduces the probability of stakeless matches played by the strongest teams according to Monte Carlo simulations.",
+  "summary_en": "The expanded 48-team FIFA World Cup creates many situations where one team has already qualified or been eliminated before the final group match, making the game effectively meaningless. Csató and Gyimesi propose a tournament format with deliberately imbalanced groups and show through Monte Carlo simulation that this format substantially cuts the probability of stakeless matches played by strong teams. The redesign preserves the 48-team format and total match count while sharply reducing the share of matches with no competitive stakes — a direct response to fairness concerns raised after the 2026 expansion.",
+  "summary_hu": "A 48 csapatos FIFA-világbajnokság számos olyan helyzetet teremt, amikor egy csapat már a csoportkör utolsó mérkőzése előtt kvalifikálta magát vagy kiesett, így a meccs gyakorlatilag tét nélkülivé válik. Csató és Gyimesi olyan tornaformátumot javasol, amelyben a csoportok szándékosan kiegyensúlyozatlanok, és Monte Carlo-szimulációval bizonyítják, hogy ez a forma jelentősen csökkenti az erős csapatok tét nélküli mérkőzéseinek valószínűségét. Az átalakítás megőrzi a 48 csapatos formátumot és az összes mérkőzést, miközben élesen visszavágja a tét nélküli meccsek arányát — közvetlen válasz a 2026-os bővítés körüli fair-play aggályokra.",
+  "data_used": "Monte Carlo simulation of the 48-team FIFA World Cup under the official format and under a proposed imbalanced-group alternative. Team strengths calibrated from the FIFA/Elo rating distribution as of recent World Cup cycles. Outcome measure: probability that a final group-stage match is stakeless for at least one participant, conditional on team strength.",
+  "data_used_hu": "Monte Carlo-szimuláció a 48 csapatos FIFA-világbajnokságra a hivatalos és egy javasolt kiegyensúlyozatlan-csoportos alternatíva mellett. A csapaterősségek a közelmúltbeli VB-ciklusok FIFA/Elo-eloszlása alapján vannak kalibrálva. Eredményváltozó: annak valószínűsége, hogy egy záró csoportmérkőzés tét nélküli legalább az egyik résztvevő számára, a csapaterősség függvényében.",
+  "policy_relevance": "Direct input for FIFA's Competitions Committee and for UEFA when designing post-2026 World Cup and qualification formats. The Magyar Labdarúgó Szövetség (MLSZ) faces analogous design problems in domestic Cup and league groups: deliberately imbalanced seeding can preserve competitive stakes in late rounds without changing the number of teams or matches. The Monte Carlo framework is reusable for any federation contemplating expansion or restructuring.",
+  "policy_relevance_hu": "Közvetlen input a FIFA Versenybizottsága és az UEFA számára a 2026 utáni VB- és kvalifikációs formátumok tervezéséhez. A Magyar Labdarúgó Szövetség (MLSZ) hasonló tervezési problémákkal néz szembe a hazai Kupa- és bajnoki csoportokban: a szándékosan kiegyensúlyozatlan kiemelés megőrizheti a versenytétet a záró fordulókban anélkül, hogy a csapatok vagy mérkőzések száma változna. A Monte Carlo-keret újrahasznosítható minden bővítést vagy átalakítást fontolgató szövetség számára.",
+  "topics": [
+    "methods",
+    "industrial-organization"
+  ],
+  "methods": [
+    "theory",
+    "panel-data"
+  ],
+  "countries_studied": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "tournament design",
+    "group seeding",
+    "competition format reform"
+  ],
+  "openalex_id": null
+}

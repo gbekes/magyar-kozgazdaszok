@@ -1,0 +1,49 @@
+{
+  "id": "csato-kiss-szadoczki-2025-aor",
+  "title": "The allocation of FIFA World Cup slots based on the ranking of confederations",
+  "authors": [
+    "csato-laszlo",
+    "László Marcell Kiss",
+    "Zsombor Szádoczki"
+  ],
+  "publication_type": "article",
+  "journal": "Annals of Operations Research",
+  "year": 2025,
+  "volume": "344",
+  "issue": "1",
+  "pages": "153-173",
+  "doi": "10.1007/s10479-024-06091-5",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1007/s10479-024-06091-5",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "FIFA divides World Cup slots among continental confederations through a process that mixes historical precedent with political negotiation rather than performance. Csató, Kiss and Szádoczki propose an allocation rule derived from a transparent ranking of confederations based on match results. Applied retrospectively to recent World Cups, the rule shifts slots toward South America and Africa relative to the current allocation, and provides a defensible benchmark FIFA could cite when negotiating the 48-team expansion.",
+  "summary_hu": "A FIFA a világbajnoki helyeket egy olyan eljárásban osztja el a kontinentális szövetségek között, amely a történelmi precedenst és a politikai alkut keveri a teljesítményméréssel. Csató, Kiss és Szádoczki olyan allokációs szabályt javasolnak, amely a kontinentális szövetségek átlátható, mérkőzéseredmények alapján számolt rangsorára épül. Visszamenőleg alkalmazva a közelmúlt világbajnokságaira a szabály Dél-Amerika és Afrika javára tolja a helyeket a jelenlegi elosztáshoz képest, és olyan védhető viszonyítási pontot ad, amelyre a FIFA hivatkozhatna a 48 csapatos bővítés tárgyalásakor.",
+  "data_used": "Match results from FIFA-recognised international fixtures across confederations over multiple World Cup cycles. The data feed a pairwise-comparison ranking of confederations. Counterfactual slot allocations are computed under the proposed rule and compared with FIFA's actual allocation.",
+  "data_used_hu": "FIFA által elismert válogatott mérkőzések eredményei a kontinentális szövetségek között több világbajnoki cikluson át. Az adatok a kontinentális szövetségek páronkénti összehasonlító rangsorát táplálják. A javasolt szabály szerinti ellentényű helyelosztások a FIFA tényleges elosztásával vannak összehasonlítva.",
+  "policy_relevance": "Direct input for the FIFA Council on the 48-team World Cup slot allocation. The rule is transparent and reproducible, in contrast to the negotiated quotas currently used. For UEFA — and indirectly the Magyar Labdarúgó Szövetség, which negotiates qualification through UEFA — a performance-based benchmark provides leverage in slot debates. The methodology also generalises to confederation-cup allocations and youth-tournament slot rules.",
+  "policy_relevance_hu": "Közvetlen input a FIFA Tanácsa számára a 48 csapatos VB helyelosztásához. A szabály átlátható és reprodukálható, szemben a jelenleg használt tárgyalásos kvótákkal. Az UEFA számára — és közvetve a Magyar Labdarúgó Szövetség számára, amely az UEFA-n keresztül tárgyal a kvalifikációról — a teljesítmény-alapú referencia tárgyalási muníciót ad a hely-vitákban. A módszer általánosítható a konföderációs kupák helyelosztására és az utánpótlás-tornák szabályaira is.",
+  "topics": [
+    "methods",
+    "industrial-organization"
+  ],
+  "methods": [
+    "theory",
+    "panel-data"
+  ],
+  "countries_studied": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "tournament design",
+    "slot allocation",
+    "ranking methodology"
+  ],
+  "openalex_id": null
+}

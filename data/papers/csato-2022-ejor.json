@@ -1,0 +1,46 @@
+{
+  "id": "csato-2022-ejor",
+  "title": "Quantifying incentive (in)compatibility: A case study from sports",
+  "authors": [
+    "csato-laszlo"
+  ],
+  "publication_type": "article",
+  "journal": "European Journal of Operational Research",
+  "year": 2022,
+  "volume": "302",
+  "issue": "2",
+  "pages": "717-726",
+  "doi": "10.1016/j.ejor.2022.01.042",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1016/j.ejor.2022.01.042",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "A tournament rule is incentive-compatible if no team can benefit from losing on purpose, but in practice incentive failures come in degrees. Csató develops a quantitative measure of how often, and by how much, real qualification rules give teams a reason to throw matches. The framework is applied to UEFA's qualification mechanism, where the probability of a winning-by-losing situation is small but non-trivial. The contribution is a metric federations can report alongside other tournament-quality indicators, rather than a binary pass/fail verdict on strategy-proofness.",
+  "summary_hu": "Egy tornaszabály ösztönző-kompatibilis, ha egyetlen csapat sem profitálhat szándékos vereségből, de a gyakorlatban az ösztönző-kompatibilitás megsértése fokozatos kérdés. Csató kvantitatív mértéket dolgoz ki arra, milyen gyakran és mekkora mértékben adnak okot a valós kvalifikációs szabályok a meccsek szándékos elvesztésére. A keretet az UEFA kvalifikációs mechanizmusára alkalmazza, ahol a vereséggel-nyerni helyzet valószínűsége kicsi, de nem elhanyagolható. A hozzájárulás egy olyan mutató, amelyet a szövetségek a többi versenyminőségi indikátor mellett közölhetnek, nem pusztán egy bináris megfelel/nem felel meg ítélet.",
+  "data_used": "Theoretical framework for measuring incentive incompatibility plus simulation of UEFA qualification scenarios. Team strengths calibrated from rating data; rules implemented as published. Outcome measures: probability of an exploitable scenario; expected gain from strategic losing; sensitivity to rating distribution.",
+  "data_used_hu": "Az ösztönző-inkompatibilitás mérésére szolgáló elméleti keret és az UEFA-kvalifikációs forgatókönyvek szimulációja. A csapaterősségek rangadatokból kalibrálva; a szabályok a közzétett formában implementálva. Eredményváltozók: kihasználható forgatókönyv valószínűsége; szándékos vereségből származó várható nyereség; érzékenység a rangsoreloszlásra.",
+  "policy_relevance": "For UEFA, FIFA and the IIHF, the measurement framework offers a way to publish an incentive-compatibility score for each tournament format under review. The Magyar Labdarúgó Szövetség can apply the same metric to NB I promotion-relegation playoff rules and Magyar Kupa qualification. A continuous metric is more useful for regulators than a binary verdict because most formats are imperfect but not catastrophically so.",
+  "policy_relevance_hu": "Az UEFA, FIFA és IIHF számára a mérési keret módot ad arra, hogy minden vizsgált tornaformátumhoz ösztönző-kompatibilitási pontszámot közöljenek. A Magyar Labdarúgó Szövetség ugyanezt a mutatót alkalmazhatja az NB I osztályozó és a Magyar Kupa-kvalifikáció szabályaira. A szabályozók számára egy folyamatos mérőszám hasznosabb, mint egy bináris ítélet, mert a legtöbb formátum tökéletlen, de nem katasztrofálisan az.",
+  "topics": [
+    "methods",
+    "industrial-organization"
+  ],
+  "methods": [
+    "theory",
+    "panel-data"
+  ],
+  "countries_studied": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "tournament design",
+    "incentive compatibility metric"
+  ],
+  "openalex_id": null
+}

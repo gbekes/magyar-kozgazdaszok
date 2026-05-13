@@ -1,0 +1,43 @@
+{
+  "id": "csato-2017-aor",
+  "title": "On the ranking of a Swiss system chess team tournament",
+  "authors": [
+    "csato-laszlo"
+  ],
+  "publication_type": "article",
+  "journal": "Annals of Operations Research",
+  "year": 2017,
+  "volume": "254",
+  "issue": "1",
+  "pages": "17-36",
+  "doi": "10.1007/s10479-017-2440-4",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1007/s10479-017-2440-4",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Swiss-system tournaments are common in chess team competitions but their ranking rules differ across federations and produce divergent final standings. Csató examines a chess team tournament and shows that the result depends materially on the choice of ranking rule: alternative methods drawn from the operations research literature would have placed different teams on the podium. The paper argues for adopting a pairwise-comparison ranking that is more robust to the specific draw of opponents each team faced.",
+  "summary_hu": "A svájci rendszerű tornák gyakoriak a sakk csapatversenyeken, de a rangsorolási szabályaik szövetségenként eltérnek és különböző végső sorrendet adnak. Csató egy sakk csapattornát vizsgál, és kimutatja, hogy az eredmény érdemben függ a rangsorolási szabály választásától: az operációkutatási szakirodalomból vett alternatív módszerek más csapatokat tettek volna a dobogóra. A tanulmány páronkénti összehasonlító rangsor mellett érvel, amely robusztusabb az adott csapat ellenfeleinek konkrét sorsolásával szemben.",
+  "data_used": "Match-level data from a Swiss-system chess team tournament covering all rounds and team line-ups. The final ranking under the official tie-breaking rules is compared with rankings produced by alternative pairwise-comparison methods (eigenvector, logarithmic least squares).",
+  "data_used_hu": "Mérkőzés-szintű adatok egy svájci rendszerű sakk csapattornáról, az összes fordulóra és csapatfelállásra kiterjedően. A hivatalos döntetlen-feloldó szabályokkal kapott végső rangsor össze van hasonlítva alternatív páronkénti összehasonlító módszerek (sajátvektor, logaritmikus legkisebb négyzetek) eredményeivel.",
+  "policy_relevance": "Direct input for the Magyar Sakkszövetség and FIDE on Swiss-system ranking rules. The chess case generalises: Swiss-system tie-breaking is also used in fencing, debate competitions and esports. Any federation that uses Swiss-system formats can apply Csató's pairwise-comparison alternative to check whether their current rules systematically favour particular draw paths.",
+  "policy_relevance_hu": "Közvetlen input a Magyar Sakkszövetség és a FIDE számára a svájci rendszerű rangsorolási szabályokkal kapcsolatban. A sakk-eset általánosítható: a svájci rendszerű döntetlen-feloldást vívásban, vitavetélkedőkön és esportokban is használják. Bármely svájci formátumot használó szövetség alkalmazhatja Csató páronkénti összehasonlító alternatíváját annak ellenőrzésére, hogy a jelenlegi szabályaik szisztematikusan kedveznek-e bizonyos sorsolási útvonalaknak.",
+  "topics": [
+    "methods",
+    "industrial-organization"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [],
+  "data_types": [],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "tournament design",
+    "ranking methodology"
+  ],
+  "openalex_id": null
+}

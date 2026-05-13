@@ -1,0 +1,43 @@
+{
+  "id": "csato-agoston-bozoki-2024-aor",
+  "title": "On the coincidence of optimal completions for small pairwise comparison matrices with missing entries",
+  "authors": [
+    "csato-laszlo",
+    "Kolos Csaba Ágoston",
+    "Sándor Bozóki"
+  ],
+  "publication_type": "article",
+  "journal": "Annals of Operations Research",
+  "year": 2024,
+  "volume": "333",
+  "issue": "1",
+  "pages": "239-247",
+  "doi": "10.1007/s10479-023-05586-x",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1007/s10479-023-05586-x",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Different methods for filling missing entries in pairwise comparison matrices — eigenvector-based, geometric mean, lexicographic — can in principle give different rankings. Csató, Ágoston and Bozóki prove that for small matrices (up to a specified size) with realistic incompleteness patterns, the leading completion methods produce the same ranking under broad conditions. The practical implication: for the small expert panels typical in procurement or research evaluation, the choice of completion algorithm is less important than the choice of inputs.",
+  "summary_hu": "A páronkénti összehasonlító mátrixok hiányzó celláinak kitöltésére szolgáló különböző módszerek — sajátvektor-alapú, mértani közép, lexikografikus — elvben különböző rangsorokat adhatnak. Csató, Ágoston és Bozóki bebizonyítja, hogy kis mátrixokra (megadott méretig) realisztikus hiányosság-mintázatok mellett a vezető kiegészítő módszerek tág feltételek között ugyanazt a rangsort adják. Gyakorlati következmény: a közbeszerzésben vagy kutatási értékelésben tipikus kis szakértői panelek esetén a kiegészítő algoritmus választása kevésbé fontos, mint a bemenetek megválasztása.",
+  "data_used": "Theoretical analysis backed by a complete enumeration of incomplete pairwise comparison matrices up to a specified size. For each missing-entry pattern, the optimal completions under eigenvector, geometric mean and least squares criteria are computed and compared. The contribution is a coincidence theorem plus the boundary cases where methods diverge.",
+  "data_used_hu": "Elméleti elemzés, amelyet a megadott méretig terjedő hiányos páronkénti összehasonlító mátrixok teljes felsorolása támaszt alá. Minden hiányosság-mintázatra kiszámolják és összehasonlítják a sajátvektor, mértani közép és legkisebb négyzetek szerinti optimális kiegészítéseket. A hozzájárulás egy egybeesési tétel és azok a határesetek, ahol a módszerek eltérnek.",
+  "policy_relevance": "Practical guidance for procurement officers, peer-review panels and any committee using AHP-style scoring with incomplete pairwise input. The Közbeszerzési Hatóság and NKFIH research panels can stop worrying about completion-method choice on small matrices and focus on getting better expert input. The boundary cases identified in the paper tell practitioners when the choice does matter and a robustness check is required.",
+  "policy_relevance_hu": "Gyakorlati útmutató közbeszerzési szakembereknek, szakmai bírálóbizottságoknak és minden olyan testületnek, amely AHP-jellegű pontozást használ hiányos páronkénti bemenettel. A Közbeszerzési Hatóság és az NKFIH kutatási panelek nem kell tovább aggódjanak a kis mátrixokon használt kiegészítő-módszer választása miatt — inkább a szakértői bemenet minőségére kell koncentrálniuk. A tanulmányban azonosított határesetek jelzik, mikor számít mégis a választás, és mikor kell robusztussági ellenőrzést végezni.",
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [],
+  "data_types": [],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "ranking methodology"
+  ],
+  "openalex_id": null
+}

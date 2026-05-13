@@ -1,0 +1,44 @@
+{
+  "id": "csato-2024-ejor",
+  "title": "Right-left asymmetry of the eigenvector method: A simulation study",
+  "authors": [
+    "csato-laszlo"
+  ],
+  "publication_type": "article",
+  "journal": "European Journal of Operational Research",
+  "year": 2024,
+  "volume": "313",
+  "issue": "2",
+  "pages": "708-717",
+  "doi": "10.1016/j.ejor.2023.09.022",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1016/j.ejor.2023.09.022",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "The eigenvector method, the workhorse of the Analytic Hierarchy Process, can return different priority vectors depending on whether the dominant right or left eigenvector is used — a property practitioners often ignore. Csató quantifies the asymmetry via Monte Carlo simulation on randomly perturbed comparison matrices of varying size and inconsistency level. The right-left gap can be large enough to flip rankings of alternatives, especially in small or noisy matrices. Decision processes that rely on AHP should report both directions or switch to symmetric rules.",
+  "summary_hu": "A sajátvektor-módszer, az AHP-eljárás munkalova, eltérő prioritás-vektort adhat attól függően, hogy a domináns jobb vagy bal sajátvektort használják — ezt a tulajdonságot a gyakorlatban gyakran figyelmen kívül hagyják. Csató Monte Carlo-szimulációval méri az aszimmetriát különböző méretű és inkonzisztencia-szintű, véletlenszerűen perturbált összehasonlítási mátrixokon. A jobb-bal eltérés elég nagy lehet ahhoz, hogy alternatívák sorrendjét felforgassa, különösen kis vagy zajos mátrixoknál. Az AHP-ra támaszkodó döntési folyamatoknak mindkét irányt jelenteniük kellene, vagy szimmetrikus szabályra kellene váltaniuk.",
+  "data_used": "Monte Carlo simulation on randomly generated pairwise comparison matrices of size 3 to 9 with controlled inconsistency. Compares the priority vectors obtained from the right eigenvector with those from the left eigenvector across 1000s of replications. Outcome measures: rank reversal frequency, magnitude of priority-weight differences.",
+  "data_used_hu": "Monte Carlo-szimuláció 3 és 9 közötti méretű, kontrollált inkonzisztenciájú, véletlenszerűen generált páronkénti összehasonlító mátrixokon. A jobb sajátvektorból kapott prioritás-vektort hasonlítja össze a bal sajátvektorból kapottal több ezer ismétlésben. Eredményváltozók: rangsor-felcserélődés gyakorisága, prioritás-súly-eltérések nagysága.",
+  "policy_relevance": "A warning for anyone using AHP in Hungarian public administration — from EU-fund project ranking at NKFIH to procurement scoring at the Közbeszerzési Hatóság. If the analyst silently uses the right eigenvector and a peer reviewer uses the left, the same data can produce different winners. The paper supports moving toward symmetric methods (geometric mean, least squares) or, at minimum, mandatory robustness checks across both eigenvector directions.",
+  "policy_relevance_hu": "Figyelmeztetés mindenkinek, aki AHP-t használ a magyar közigazgatásban — az NKFIH EU-forrás-pályázati rangsorolásától a Közbeszerzési Hatóság ajánlatpontozásáig. Ha az elemző csendben a jobb sajátvektort használja, a bíráló pedig a balt, ugyanaz az adat különböző nyertest hozhat. A tanulmány a szimmetrikus módszerek (mértani közép, legkisebb négyzetek) felé tett elmozdulást támogatja, vagy minimum kötelező robusztussági ellenőrzést mindkét sajátvektor-irányra.",
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "theory",
+    "panel-data"
+  ],
+  "countries_studied": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "ranking methodology"
+  ],
+  "openalex_id": null
+}

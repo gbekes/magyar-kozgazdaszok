@@ -1,0 +1,46 @@
+{
+  "id": "csato-2020-jse",
+  "title": "Optimal Tournament Design: Lessons From the Men's Handball Champions League",
+  "authors": [
+    "csato-laszlo"
+  ],
+  "publication_type": "article",
+  "journal": "Journal of Sports Economics",
+  "year": 2020,
+  "volume": "21",
+  "issue": "8",
+  "pages": "848-868",
+  "doi": "10.1177/1527002520944604",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1177/1527002520944604",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "The Men's Handball Champions League has changed format repeatedly in search of competitive balance and broadcast appeal. Csató simulates the recent format variants on calibrated team-strength data and identifies the design choices that drive tournament-quality outcomes: number of teams, group size, knockout-bracket construction. Several format adjustments are shown to dominate the current design on multiple criteria — preserving competitive stakes, rewarding strong teams appropriately, and limiting tanking incentives.",
+  "summary_hu": "A férfi Kézilabda Bajnokok Ligája formátuma többször változott a versenyegyensúly és a közvetítési vonzerő keresése közben. Csató kalibrált csapaterősség-adatokon szimulálja a közelmúlt formátum-változatait, és azonosítja a tornaminőséget hajtó tervezési döntéseket: csapatszám, csoportméret, egyenes kieséses ág felépítése. Több formátum-módosításról bizonyítja, hogy több szempontból is dominálják a jelenlegi tervet — versenytét megőrzése, az erős csapatok megfelelő jutalmazása, a szándékos vereség ösztönzőinek korlátozása.",
+  "data_used": "Men's Handball Champions League match results from recent seasons used to calibrate team-strength distributions, plus Monte Carlo simulation of the official and alternative formats under those distributions. Performance metrics: probability of strongest team winning, share of competitive matches, tanking-incentive exposure.",
+  "data_used_hu": "A férfi Kézilabda Bajnokok Ligája közelmúltbeli szezonjainak mérkőzéseredményei alapján kalibrált csapaterősség-eloszlások, valamint a hivatalos és alternatív formátumok Monte Carlo-szimulációja ezek mellett. Teljesítmény-mutatók: a legerősebb csapat győzelmi valószínűsége, a versengő mérkőzések aránya, szándékos-vereség ösztönző kitettsége.",
+  "policy_relevance": "Direct input for the European Handball Federation (EHF) and the Magyar Kézilabda Szövetség. The Hungarian league produces strong CL competitors (Veszprém, Pick Szeged), so format choices have real consequences for Hungarian clubs. The simulation framework is also reusable by the Magyar Vízilabda Szövetség and other smaller-team-sport federations contemplating European-format changes.",
+  "policy_relevance_hu": "Közvetlen input az Európai Kézilabda Szövetség (EHF) és a Magyar Kézilabda Szövetség számára. A magyar bajnokság erős BL-résztvevőket állít (Veszprém, Pick Szeged), így a formátum-döntéseknek valós következményei vannak a magyar klubokra nézve. A szimulációs keret újrahasznosítható a Magyar Vízilabda Szövetség és más kisebb csapatsportágú szövetségek számára is, akik európai formátum-változtatást fontolgatnak.",
+  "topics": [
+    "methods",
+    "industrial-organization"
+  ],
+  "methods": [
+    "theory",
+    "panel-data"
+  ],
+  "countries_studied": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "tournament design",
+    "competition format reform"
+  ],
+  "openalex_id": null
+}

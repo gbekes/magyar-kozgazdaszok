@@ -1,0 +1,49 @@
+{
+  "id": "csato-toth-2020-ejor",
+  "title": "University rankings from the revealed preferences of the applicants",
+  "authors": [
+    "csato-laszlo",
+    "Csaba Tóth"
+  ],
+  "publication_type": "article",
+  "journal": "European Journal of Operational Research",
+  "year": 2020,
+  "volume": "286",
+  "issue": "1",
+  "pages": "309-320",
+  "doi": "10.1016/j.ejor.2020.03.046",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1016/j.ejor.2020.03.046",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Hungarian university rankings typically rely on expert composites or input measures like staff-student ratios. Csató and Tóth build a ranking from the revealed preferences of applicants — whenever a student admitted to programme A chooses B instead, B 'beats' A in a pairwise comparison. Applied to Hungarian central-admission data over multiple years, the method produces a stable, transparent ranking of programmes and institutions that closely tracks elite-perception orderings without using any expert judgement. The ranking is reproducible by any party with access to the admission data.",
+  "summary_hu": "A magyar egyetemi rangsorok jellemzően szakértői kompozit mutatókra vagy bemeneti változókra (oktató-hallgató arányra) támaszkodnak. Csató és Tóth a jelentkezők kinyilvánított preferenciáira építve állítja össze a rangsort — valahányszor egy az A programba felvett hallgató B-t választja helyette, B páronkénti összehasonlításban „legyőzi” A-t. A magyar központi felvételi adatokon több éven át alkalmazva a módszer stabil, átlátható programi és intézményi rangsort ad, amely szorosan követi az elit-percepció szerinti sorrendet, miközben nem használ semmilyen szakértői ítéletet. A rangsor reprodukálható mindenki számára, aki hozzáfér a felvételi adatokhoz.",
+  "data_used": "Hungarian central university admission data over several years, covering all applicants and their submitted programme preferences. The method constructs a pairwise comparison matrix from co-acceptances and applies an inconsistency-minimising ranking rule. Robustness checks vary the year window and the treatment of indifferent applicants.",
+  "data_used_hu": "Magyar központi egyetemi felvételi adatok több éven át, az összes jelentkezőt és a benyújtott programi sorrendjüket lefedve. A módszer páronkénti összehasonlító mátrixot épít az együttes felvételekből, és inkonzisztencia-minimalizáló rangsoroló szabályt alkalmaz. A robusztussági ellenőrzések változtatják az időablakot és a közömbös jelentkezők kezelését.",
+  "policy_relevance": "Direct input for the Innovációs és Technológiai Minisztérium and the Oktatási Hivatal: the central admission system already collects all the data needed to publish an applicant-revealed ranking of Hungarian programmes, with no expert panel or commercial ranking provider required. Such a ranking is harder to game than input-based composites and could complement the official tájékoztató. Useful for HU higher-education funding decisions and accreditation discussions.",
+  "policy_relevance_hu": "Közvetlen input a Kulturális és Innovációs Minisztérium és az Oktatási Hivatal számára: a központi felvételi rendszer már most begyűjt minden szükséges adatot ahhoz, hogy közzétegyenek egy jelentkező-preferencia alapú rangsort a magyar programokról, anélkül, hogy szakértői panelre vagy kereskedelmi rangsorszolgáltatóra lenne szükség. Egy ilyen rangsor nehezebben manipulálható, mint a bemenet-alapú kompozitok, és kiegészíthetné a hivatalos tájékoztatót. Hasznos a hazai felsőoktatás-finanszírozási döntésekhez és az akkreditációs vitákhoz.",
+  "topics": [
+    "education-skills",
+    "methods"
+  ],
+  "methods": [
+    "theory",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "ranking methodology",
+    "higher-education policy"
+  ],
+  "openalex_id": null
+}

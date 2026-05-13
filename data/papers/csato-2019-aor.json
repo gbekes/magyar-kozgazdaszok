@@ -1,0 +1,42 @@
+{
+  "id": "csato-2019-aor",
+  "title": "Axiomatizations of inconsistency indices for triads",
+  "authors": [
+    "csato-laszlo"
+  ],
+  "publication_type": "article",
+  "journal": "Annals of Operations Research",
+  "year": 2019,
+  "volume": "280",
+  "issue": "1",
+  "pages": "99-110",
+  "doi": "10.1007/s10479-019-03210-5",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1007/s10479-019-03210-5",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "An inconsistency index quantifies how internally contradictory a set of pairwise comparisons is. The simplest unit is a triad of three options. Csató provides axiomatic characterisations of several leading inconsistency indices restricted to triads, identifying which set of properties uniquely determines each one. The exercise turns a question that was largely empirical (which index 'feels' right) into a question of which axioms a practitioner is willing to commit to.",
+  "summary_hu": "Az inkonzisztencia-index azt méri, mennyire belsőleg ellentmondásos egy páronkénti összehasonlítás-sorozat. A legegyszerűbb egység három opció triádja. Csató axiomatikus karakterizációkat ad több vezető inkonzisztencia-indexre triádokra szűkítve, azonosítva, hogy mely tulajdonság-halmaz határoz meg egyértelműen egy-egy indexet. Az elemzés egy nagyrészt empirikus kérdést (melyik index „érződik” helyesnek) olyan kérdéssé alakít, hogy mely axiómákat hajlandó a szakember elfogadni.",
+  "data_used": "Pure axiomatic theory restricted to triads of pairwise comparisons. The contribution is a set of characterisation theorems: each leading inconsistency index is shown to be the unique index satisfying a particular short list of properties.",
+  "data_used_hu": "Tisztán axiomatikus elmélet páronkénti összehasonlítások triádjaira szűkítve. A hozzájárulás karakterizációs tételek sora: minden vezető inkonzisztencia-indexről kimutatva, hogy az egyetlen index, amely egy bizonyos rövid tulajdonság-listát teljesít.",
+  "policy_relevance": "Background scholarship for any auditor or regulator who has to choose an inconsistency cutoff in AHP-based decisions — the Közbeszerzési Hatóság being a concrete Hungarian example. Axiomatic results let the regulator state explicitly which properties matter, instead of picking an index by convention. The paper is the kind of foundational input that lets standards bodies (e.g., MSZT) write defensible rules for multi-criteria decision support.",
+  "policy_relevance_hu": "Háttér-anyag minden olyan ellenőrnek vagy szabályozónak, aki inkonzisztencia-küszöböt választ AHP-alapú döntéseknél — a Közbeszerzési Hatóság konkrét magyar példa. Az axiomatikus eredmények lehetővé teszik a szabályozó számára, hogy explicit megmondja, mely tulajdonságok számítanak, ahelyett, hogy egy indexet konvenció alapján választana. A tanulmány az a fajta alapozó input, ami lehetővé teszi a szabványügyi testületek (pl. MSZT) számára védhető szabályok megalkotását a többkritériumos döntéstámogatáshoz.",
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [],
+  "data_types": [],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "ranking methodology",
+    "inconsistency measurement"
+  ],
+  "openalex_id": null
+}

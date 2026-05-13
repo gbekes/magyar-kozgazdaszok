@@ -1,0 +1,42 @@
+{
+  "id": "csato-petroczy-2021-ejor",
+  "title": "On the monotonicity of the eigenvector method",
+  "authors": [
+    "csato-laszlo",
+    "Dóra Gréta Petróczy"
+  ],
+  "publication_type": "article",
+  "journal": "European Journal of Operational Research",
+  "year": 2021,
+  "volume": "292",
+  "issue": "1",
+  "pages": "230-237",
+  "doi": "10.1016/j.ejor.2020.10.020",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1016/j.ejor.2020.10.020",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "When a decision maker revises a pairwise judgement to favour option A over option B more strongly, the priority weight of A should rise relative to B — this minimum monotonicity property is easy to state but often violated. Csató and Petróczy characterise the conditions under which the eigenvector method respects monotonicity and show that violations are common in matrices with realistic levels of inconsistency. The paper supports the case for alternative aggregation rules (geometric mean, least squares) in any setting where the ranking must be defensible against simple revisions of input data.",
+  "summary_hu": "Ha egy döntéshozó úgy módosít egy páronkénti ítéletet, hogy az A opciót erősebben részesíti előnyben a B opcióval szemben, akkor A prioritás-súlyának is nőnie kellene B-hez képest — ez az alap monotonitási tulajdonság könnyen kimondható, de gyakran sérül. Csató és Petróczy jellemzik azokat a feltételeket, amelyek mellett a sajátvektor-módszer tiszteletben tartja a monotonitást, és kimutatják, hogy a sérülések gyakoriak a realisztikus inkonzisztencia-szintű mátrixokban. A tanulmány az alternatív aggregálási szabályok (mértani közép, legkisebb négyzetek) használata mellett érvel olyan helyzetekben, ahol a rangsornak ellen kell állnia a bemeneti adatok egyszerű módosításának.",
+  "data_used": "Theoretical analysis of the eigenvector method's monotonicity properties on pairwise comparison matrices, supplemented by numerical experiments showing how often monotonicity is violated as a function of matrix size and inconsistency. The contribution is a set of formal results plus illustrative counter-examples.",
+  "data_used_hu": "A sajátvektor-módszer monotonitási tulajdonságainak elméleti elemzése páronkénti összehasonlító mátrixokon, kiegészítve numerikus kísérletekkel arról, milyen gyakran sérül a monotonitás a mátrixméret és az inkonzisztencia függvényében. A hozzájárulás formális eredmények sora és illusztratív ellenpéldák.",
+  "policy_relevance": "Procurement officers, expert-panel chairs and regulators using AHP-style scoring should know that the eigenvector method can return non-monotonic priorities even when the inputs look reasonable. The Közbeszerzési Hatóság, scientific peer-review committees and EU-fund allocation boards rely on aggregation rules whose monotonicity is rarely audited. Switching to monotonic alternatives (or auditing existing AHP decisions for monotonicity) is a concrete administrative reform supported by this analysis.",
+  "policy_relevance_hu": "A közbeszerzési szakembereknek, szakértői panel elnököknek és AHP-jellegű pontozást használó szabályozóknak tudniuk kell, hogy a sajátvektor-módszer akkor is adhat nem-monoton prioritásokat, amikor a bemenetek észszerűnek tűnnek. A Közbeszerzési Hatóság, a tudományos bírálóbizottságok és az EU-forrás-elosztó testületek olyan aggregálási szabályokra támaszkodnak, amelyek monotonitását ritkán ellenőrzik. A monoton alternatívákra való áttérés (vagy a meglévő AHP-döntések monotonitás-ellenőrzése) konkrét adminisztratív reform, amit ez az elemzés alátámaszt.",
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [],
+  "data_types": [],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "ranking methodology"
+  ],
+  "openalex_id": null
+}

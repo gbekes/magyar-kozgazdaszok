@@ -1,0 +1,46 @@
+{
+  "id": "csato-2025-aor",
+  "title": "Mitigating the risk of tanking in multi-stage tournaments",
+  "authors": [
+    "csato-laszlo"
+  ],
+  "publication_type": "article",
+  "journal": "Annals of Operations Research",
+  "year": 2025,
+  "volume": "344",
+  "issue": "1",
+  "pages": "135-151",
+  "doi": "10.1007/s10479-024-06066-6",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1007/s10479-024-06066-6",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "In multi-stage tournaments, finishing a group stage in a worse position can sometimes lead to an easier knockout bracket — giving teams a reason to tank. Csató catalogues the design choices that drive tanking risk and shows, through simulation on UEFA and FIFA formats, that simple adjustments to bracket-construction rules reduce the probability of beneficial losing without changing the surface format. The result is a low-cost menu of fixes that competition organisers can apply without rewriting their tournament from scratch.",
+  "summary_hu": "Többszakaszos tornákon a csoportkör rosszabb helyezése néha könnyebb egyenes kieséses ághoz vezet — okot adva a csapatoknak a szándékos vereségre. Csató rendszerezi azokat a tervezési döntéseket, amelyek a szándékos vereség kockázatát hajtják, és UEFA- és FIFA-formátumokon végzett szimulációval mutatja meg, hogy az ágpárosítási szabályok egyszerű módosítása csökkenti a hasznos vereség valószínűségét anélkül, hogy a felszíni formátum változna. Az eredmény olyan alacsony költségű javaslatcsomag, amelyet a versenyrendezők alkalmazhatnak, anélkül, hogy a tornát alapjaiból át kellene írniuk.",
+  "data_used": "Monte Carlo simulation of multi-stage tournaments (group stage feeding into a knockout) under realistic team-strength distributions calibrated from FIFA and UEFA rating data. The analysis compares the official bracket-construction rules with proposed alternatives on the frequency and expected payoff of tanking opportunities.",
+  "data_used_hu": "Többszakaszos tornák (csoportkör + egyenes kieséses szakasz) Monte Carlo-szimulációja realisztikus csapaterősség-eloszlások mellett, amelyek FIFA- és UEFA-rangadatokból vannak kalibrálva. Az elemzés összehasonlítja a hivatalos ágpárosítási szabályokat a javasolt alternatívákkal a szándékos vereségi lehetőségek gyakorisága és várható hozama szempontjából.",
+  "policy_relevance": "Useful for UEFA, FIFA, IIHF and the Magyar Labdarúgó Szövetség when reviewing playoff structures. The recommendations are minimally invasive — small adjustments to seeding and bracket-construction rules rather than wholesale format changes — and so are politically realistic to adopt. Domestic federations running playoff series (NB I labdarúgás, magyar kosárlabda) can replicate the analysis on their own data.",
+  "policy_relevance_hu": "Hasznos az UEFA, FIFA, IIHF és a Magyar Labdarúgó Szövetség számára a rájátszás-szerkezetek felülvizsgálatakor. A javaslatok minimálisan beavatkozók — kis kiemelési és ágpárosítási módosítások, nem teljes formátumváltások — így politikailag reális elfogadni őket. A rájátszást futtató hazai szövetségek (NB I labdarúgás, magyar kosárlabda) a saját adataikon megismételhetik az elemzést.",
+  "topics": [
+    "methods",
+    "industrial-organization"
+  ],
+  "methods": [
+    "theory",
+    "panel-data"
+  ],
+  "countries_studied": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "tournament design",
+    "bracket construction"
+  ],
+  "openalex_id": null
+}

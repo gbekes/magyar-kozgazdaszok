@@ -1,0 +1,44 @@
+{
+  "id": "csato-2020-aor",
+  "title": "The UEFA Champions League seeding is not strategy-proof since the 2015/16 season",
+  "authors": [
+    "csato-laszlo"
+  ],
+  "publication_type": "article",
+  "journal": "Annals of Operations Research",
+  "year": 2020,
+  "volume": "292",
+  "issue": "1",
+  "pages": "161-169",
+  "doi": "10.1007/s10479-020-03637-1",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1007/s10479-020-03637-1",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "When UEFA changed the Champions League seeding rule in 2015/16 to favour reigning national champions in Pot 1, the unintended side effect was a system that no longer rewards better performance. Csató constructs concrete scenarios in which a club gains a better seeding by losing rather than winning, demonstrating the strategy-proofness failure. The cases are not hypothetical — they could plausibly arise in the final matches of the qualification path. UEFA's revisions in subsequent seasons partially address this, but the underlying mechanism remains relevant for future format changes.",
+  "summary_hu": "Amikor az UEFA 2015/16-ban úgy módosította a Bajnokok Ligája kiemelési szabályát, hogy a regnáló nemzeti bajnokokat előnyben részesítse az első kalapban, a nem szándékolt mellékhatás egy olyan rendszer lett, amely már nem mindig jutalmazza a jobb teljesítményt. Csató konkrét forgatókönyveket állít fel, amelyekben egy klub jobb kiemelést szerez vereséggel, mint győzelemmel, ezzel demonstrálva a stratégia-megelőzés sérülését. Az esetek nem hipotetikusak — reálisan előfordulhatnak a kvalifikációs út záró meccsein. Az UEFA későbbi szezonokban tett módosításai részben kezelik ezt, de az alapmechanizmus releváns marad a jövőbeli formátum-változtatások szempontjából.",
+  "data_used": "Formal analysis of UEFA Champions League seeding rules as published for the 2015/16 onwards seasons. The paper enumerates qualification scenarios and identifies cases where the rule violates strategy-proofness — i.e., a club gains better treatment in the draw by deliberately losing.",
+  "data_used_hu": "Az UEFA Bajnokok Ligája kiemelési szabályainak formális elemzése a 2015/16-tól közzétett verziókban. A tanulmány felsorolja a kvalifikációs forgatókönyveket, és azonosítja azokat az eseteket, amelyekben a szabály sérti a stratégia-megelőzést — vagyis egy klub szándékos vereséggel jobb sorsolási bánásmódot szerez.",
+  "policy_relevance": "Concrete UEFA-level finding: a rule designed to please national champions created exploitable losing incentives. Useful template for the Magyar Labdarúgó Szövetség and other federations when proposing changes that favour particular stakeholders — every seeding tweak should be checked for strategy-proofness consequences before adoption. The paper informed subsequent UEFA seeding adjustments.",
+  "policy_relevance_hu": "Konkrét UEFA-szintű megállapítás: egy a nemzeti bajnokok kedvében járó szabály kihasználható vereség-ösztönzőket teremtett. Hasznos minta a Magyar Labdarúgó Szövetség és más szövetségek számára, amikor egyes érintetteket előnyben részesítő változtatásokat javasolnak — minden kiemelési módosítást ellenőrizni kell a stratégia-megelőzés következményei szempontjából, mielőtt elfogadnák. A tanulmány hatott a következő UEFA-kiemelési módosításokra.",
+  "topics": [
+    "methods",
+    "industrial-organization"
+  ],
+  "methods": [
+    "theory"
+  ],
+  "countries_studied": [],
+  "data_types": [],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "tournament design",
+    "seeding rules",
+    "strategy-proofness"
+  ],
+  "openalex_id": null
+}

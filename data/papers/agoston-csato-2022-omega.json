@@ -1,0 +1,46 @@
+{
+  "id": "agoston-csato-2022-omega",
+  "title": "Inconsistency thresholds for incomplete pairwise comparison matrices",
+  "authors": [
+    "Kolos Csaba Ágoston",
+    "csato-laszlo"
+  ],
+  "publication_type": "article",
+  "journal": "Omega",
+  "year": 2022,
+  "volume": "108",
+  "issue": "C",
+  "pages": "102576",
+  "doi": "10.1016/j.omega.2021.102576",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1016/j.omega.2021.102576",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "AHP-style decision processes typically reject pairwise comparison matrices whose inconsistency exceeds a fixed threshold — but the standard thresholds were derived for complete matrices and may not transfer to the incomplete case. Ágoston and Csató derive consistency thresholds tailored to incomplete matrices through extensive simulation, providing operational cutoffs that account for matrix size and missing-entry pattern. The paper won the Omega 2022 Best Paper Award. The thresholds are directly usable in software that implements incomplete-AHP procedures.",
+  "summary_hu": "Az AHP-jellegű döntési folyamatok jellemzően elutasítják azokat a páronkénti összehasonlító mátrixokat, amelyek inkonzisztenciája meghalad egy rögzített küszöböt — de a standard küszöbök teljes mátrixokra születtek, és nem feltétlenül vihetők át a hiányos esetre. Ágoston és Csató kiterjedt szimulációval vezet le hiányos mátrixokra szabott konzisztencia-küszöböket, és olyan operatív értékeket ad, amelyek figyelembe veszik a mátrixméretet és a hiányosság-mintázatot. A tanulmány az Omega 2022 Best Paper-díját nyerte el. A küszöbök közvetlenül használhatók az inkomplett AHP-eljárást implementáló szoftverekben.",
+  "data_used": "Large-scale Monte Carlo simulation of incomplete pairwise comparison matrices with varying size and missing-entry density. For each configuration, the distribution of standard inconsistency indices is computed under the null of underlying consistency, yielding size-and-density-conditional consistency thresholds.",
+  "data_used_hu": "Nagyszabású Monte Carlo-szimuláció hiányos páronkénti összehasonlító mátrixokon különböző méretek és hiányosság-sűrűségek mellett. Minden konfigurációra kiszámolják a standard inkonzisztencia-indexek eloszlását az alap-konzisztencia null-hipotézise mellett, így méret- és sűrűség-feltételes konzisztencia-küszöböket adnak.",
+  "policy_relevance": "Winner of the Omega 2022 Best Paper Award. Practical input for any procurement, peer-review or planning process that uses incomplete pairwise comparisons. The Közbeszerzési Hatóság, NKFIH research panels, and any AHP-based committee can apply the published thresholds out of the box, instead of relying on heuristic cutoffs developed for complete matrices. The thresholds make incomplete AHP defensible in audit and judicial review.",
+  "policy_relevance_hu": "Az Omega 2022 Best Paper-díjának nyertese. Gyakorlati input minden olyan közbeszerzési, szakmai bírálati vagy tervezési folyamathoz, amely hiányos páronkénti összehasonlításokat használ. A Közbeszerzési Hatóság, az NKFIH kutatási panelek és minden AHP-alapú bizottság alkalmazhatja a közzétett küszöböket első olvasatra, ahelyett, hogy a teljes mátrixokra kidolgozott heurisztikus értékekre támaszkodna. A küszöbök védhetővé teszik az inkomplett AHP-t ellenőrzés és bírósági felülvizsgálat előtt is.",
+  "topics": [
+    "methods"
+  ],
+  "methods": [
+    "theory",
+    "panel-data"
+  ],
+  "countries_studied": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "ranking methodology",
+    "consistency thresholds"
+  ],
+  "openalex_id": null
+}

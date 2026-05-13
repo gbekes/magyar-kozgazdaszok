@@ -1,0 +1,46 @@
+{
+  "id": "csato-2023-jse",
+  "title": "A comparative study of scoring systems by simulations",
+  "authors": [
+    "csato-laszlo"
+  ],
+  "publication_type": "article",
+  "journal": "Journal of Sports Economics",
+  "year": 2023,
+  "volume": "24",
+  "issue": "4",
+  "pages": "526-545",
+  "doi": "10.1177/15270025221134781",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1177/15270025221134781",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Should football leagues award three points for a win and one for a draw, or some other ratio? Csató simulates league seasons under alternative point systems and measures how closely the resulting standings match the underlying true team strengths. The three-points-for-a-win system, adopted globally in the 1990s, performs roughly as well as plausible alternatives — but the specific ratio is less important than how draws are valued relative to losses. The paper provides federations with a quantitative basis for scoring-system choices that have so far been settled by tradition.",
+  "summary_hu": "Adjanak a labdarúgó-bajnokságok győzelemért három pontot és döntetlenért egyet, vagy valamilyen más arány lenne jobb? Csató bajnoki szezonokat szimulál alternatív pontrendszerek mellett, és méri, mennyire közelíti a kapott végső sorrend a tényleges csapaterősségeket. A globálisan az 1990-es években bevezetett három pont a győzelemért rendszer nagyjából ugyanúgy teljesít, mint az ésszerű alternatívák — de a konkrét arány kevésbé fontos, mint az, hogyan értékelik a döntetlent a vereséghez képest. A tanulmány a szövetségek számára kvantitatív alapot ad pontrendszer-döntésekhez, amelyeket eddig a tradíció szabott meg.",
+  "data_used": "Monte Carlo simulation of league seasons under multiple scoring systems (e.g., 3-1-0, 2-1-0, 4-2-1). Team strengths drawn from realistic distributions calibrated from football rating data. Outcome measures: correlation between final ranking and true strength order; probability that the deserving champion finishes first; sensitivity to draw frequency.",
+  "data_used_hu": "Bajnoki szezonok Monte Carlo-szimulációja több pontrendszer mellett (pl. 3-1-0, 2-1-0, 4-2-1). A csapaterősségek labdarúgó-rangadatokból kalibrált realisztikus eloszlásokból. Eredményváltozók: a végső rangsor és a valódi erősség-sorrend korrelációja; annak valószínűsége, hogy az érdemes bajnok lesz az első; érzékenység a döntetlen-gyakoriságra.",
+  "policy_relevance": "Direct input for the Magyar Labdarúgó Szövetség when reviewing NB I and lower-division scoring rules, and for any federation considering scoring reform (rugby, hockey, basketball variants). The result that the qualitative jump from 2-1-0 to 3-1-0 matters more than the specific ratio supports holding the line on the current system rather than tinkering. UEFA and FIFA can use the framework to evaluate any future scoring proposal on consistent quantitative grounds.",
+  "policy_relevance_hu": "Közvetlen input a Magyar Labdarúgó Szövetség számára az NB I és az alacsonyabb osztályú pontszabályok felülvizsgálatához, és minden olyan szövetségnek, amely pontrendszer-reformot fontolgat (rögbi, jégkorong, kosárlabda-változatok). Az az eredmény, hogy a 2-1-0-ról 3-1-0-ra történő minőségi ugrás többet számít, mint a konkrét arány, a jelenlegi rendszer megtartása mellett szól, nem a finomhangolás mellett. Az UEFA és FIFA a keretet bármely jövőbeli pontozási javaslat egységes kvantitatív értékelésére használhatja.",
+  "topics": [
+    "methods",
+    "industrial-organization"
+  ],
+  "methods": [
+    "theory",
+    "panel-data"
+  ],
+  "countries_studied": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "tournament design",
+    "scoring system reform"
+  ],
+  "openalex_id": null
+}
