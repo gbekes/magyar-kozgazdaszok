@@ -1,0 +1,53 @@
+{
+  "id": "lengyel-bokanyi-et-al-2020-scirep",
+  "title": "The role of geography in the complex diffusion of innovations",
+  "authors": [
+    "lengyel-balazs",
+    "Eszter Bokányi",
+    "Riccardo Di Clemente",
+    "János Kertész",
+    "Marta C. González"
+  ],
+  "publication_type": "article",
+  "journal": "Scientific Reports",
+  "year": 2020,
+  "volume": "10",
+  "issue": "1",
+  "pages": "15065",
+  "doi": "10.1038/s41598-020-72137-w",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1038/s41598-020-72137-w",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "How do innovations spread across a country? Using the full ten-year history of iWiW — the Hungarian online social network that reached three million users between 2002 and 2012 — the authors trace how user invitations propagated across municipalities. They find that geography mattered: adoption was strongly driven both by local social ties and by urban hierarchy (innovations hopped down the urban ladder from larger to smaller settlements). Crucially, the two channels interacted: the complex contagion (where multiple exposures are needed to adopt) was reinforced by geographic proximity. The paper offers a sharp empirical picture of how digital innovations actually diffuse in space.",
+  "summary_hu": "Hogyan terjednek az innovációk egy országon belül? Az iWiW magyar közösségi hálózat 2002–2012-es teljes tízéves története alapján — három millió felhasználóval — a szerzők nyomon követik, hogyan terjedtek a felhasználói meghívások a települések között. Megmutatják, hogy a földrajz számít: a befogadást egyaránt erősen hajtották a helyi társadalmi kapcsolatok és a városi hierarchia (az innováció a nagyobb településekről „lefelé\" terjedt a kisebbek felé). A két csatorna kölcsönhatott egymással: a komplex fertőzést (ahol több találkozás kell az átvételhez) a földrajzi közelség erősítette. A tanulmány éles empirikus képet ad arról, hogyan terjednek valójában a digitális innovációk a térben.",
+  "data_used": "Full lifecycle data of iWiW (Hungarian online social network, 2002–2012): ~3 million users, ~300 million friendship ties, geo-located invitations. Diffusion modelled at the municipality level; complex-contagion analysis at the individual level.",
+  "data_used_hu": "Az iWiW magyar közösségi hálózat teljes életciklus-adata (2002–2012): ~3 millió felhasználó, ~300 millió ismerősi kapcsolat, geolokalizált meghívások. A terjedés települési szinten modellezve; komplex-fertőzéses elemzés egyéni szinten.",
+  "policy_relevance": "Background reference for innovation-diffusion policy (NKFIH) and rural-digitalisation programmes (Digitális Jólét Program). The paper challenges the assumption that internet-era innovations diffuse uniformly: in fact, the urban hierarchy still channels adoption, and small settlements lag. Argues for explicit place-based components in digital-skill and digital-service rollout. Hungarian-evidenced and directly applicable.",
+  "policy_relevance_hu": "Háttér-anyag az innovációterjedési politikához (NKFIH) és a vidéki digitalizációs programokhoz (Digitális Jólét Program). A tanulmány megkérdőjelezi azt a feltételezést, hogy az internet-korszak innovációi egyenletesen terjednek: valójában a városi hierarchia továbbra is csatornázza az átvételt, és a kistelepülések lemaradnak. Az érv: a digitális készség- és szolgáltatás-kiépítésben kifejezett területi szempontokra van szükség. Magyar adat alapú, közvetlenül használható.",
+  "topics": [
+    "innovation-digital",
+    "regional-urban",
+    "methods"
+  ],
+  "methods": [
+    "panel-data",
+    "structural"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "digital-trace"
+  ],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "openalex_id": null,
+  "policy_instruments": [
+    "digitalisation programmes",
+    "place-based innovation policy"
+  ]
+}

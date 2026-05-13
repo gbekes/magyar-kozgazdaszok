@@ -1,0 +1,52 @@
+{
+  "id": "bokanyi-juhasz-et-al-2021-scirep",
+  "title": "Universal patterns of long-distance commuting and social assortativity in cities",
+  "authors": [
+    "Eszter Bokányi",
+    "juhasz-sandor",
+    "Márton Karsai",
+    "lengyel-balazs"
+  ],
+  "publication_type": "article",
+  "journal": "Scientific Reports",
+  "year": 2021,
+  "volume": "11",
+  "issue": "1",
+  "pages": "20829",
+  "doi": "10.1038/s41598-021-00416-1",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1038/s41598-021-00416-1",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Who commutes long distances to which cities, and what does it imply for urban inequality? Combining iWiW Hungarian social-network data with travel-to-work flows, the authors document a striking regularity: in all Hungarian cities, the share of long-distance commuters scales predictably with city population, and commuters are socially more similar to one another than to local residents. The implication is that long-distance commuting reinforces social segregation — the people travelling far for work are drawn from particular socio-economic strata, deepening the divide between commuter and resident populations of host cities.",
+  "summary_hu": "Kik ingáznak hosszú távra mely városokba, és mit jelent ez a városi egyenlőtlenség szempontjából? Az iWiW magyar közösségi hálózat adatait munkába járási áramlásokkal összekapcsolva a szerzők meglepő szabályosságot mutatnak meg: minden magyar városban a hosszú távú ingázók aránya kiszámíthatóan skálázódik a város népességével, és az ingázók szociálisan inkább egymáshoz hasonlítanak, mint a helyi lakosokhoz. A következtetés: a hosszú távú ingázás erősíti a szociális szegregációt — akik messzire járnak dolgozni, meghatározott szocio-ökonómiai rétegekből kerülnek ki, mélyítve a befogadó város ingázó és helyi lakos népessége közötti szakadékot.",
+  "data_used": "Hungarian commuting data (2011 census travel-to-work flows) combined with the iWiW social-network database (2002–2012), allowing identification of commuters' social profile. City-level cross-section across all Hungarian cities.",
+  "data_used_hu": "Magyar ingázási adatok (2011-es népszámlálás munkába járási áramlások) az iWiW közösségi hálózati adatbázissal (2002–2012) kombinálva — lehetővé téve az ingázók szociális profiljának azonosítását. Városi szintű keresztmetszet az összes magyar városra.",
+  "policy_relevance": "Relevant for Hungarian transport policy (ITM, MÁV-Volán) and regional-equality policy. The finding that long-distance commuters are socio-economically selected has implications for how to evaluate the success of commuting-infrastructure investments — they may serve narrow strata rather than broaden labour-market access. Suggests targeted commuting subsidies (e.g., for low-wage workers in lagging counties) could partly close the access gap. Hungarian data; directly applicable.",
+  "policy_relevance_hu": "Releváns a magyar közlekedéspolitika (ITM, MÁV-Volán) és a regionális egyenlőtlenségpolitika számára. Az eredmény — hogy a hosszú távú ingázók szocio-ökonómiailag szelektáltak — következménnyel jár az ingázási infrastruktúra-beruházások sikerének értékelésére: ezek szűk rétegeket szolgálhatnak ki, ahelyett hogy szélesítenék a munkapiaci hozzáférést. A célzott ingázási támogatások (pl. alacsony bérű dolgozóknak lemaradó megyékben) részben zárhatják a hozzáférési szakadékot. Magyar adat; közvetlenül használható.",
+  "topics": [
+    "regional-urban",
+    "labor-markets",
+    "innovation-digital"
+  ],
+  "methods": [
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-individual",
+    "digital-trace"
+  ],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "openalex_id": null,
+  "policy_instruments": [
+    "commuting subsidies",
+    "transport infrastructure"
+  ]
+}

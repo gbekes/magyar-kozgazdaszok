@@ -239,7 +239,7 @@
       "countries": [
         "HU"
       ],
-      "paper_count": 6,
+      "paper_count": 7,
       "policy_count": 0,
       "press_count": 0
     },
@@ -331,7 +331,7 @@
       "countries": [
         "HU"
       ],
-      "paper_count": 6,
+      "paper_count": 7,
       "policy_count": 0,
       "press_count": 0
     },
@@ -1392,8 +1392,8 @@
         {
           "name": "KRTK Institute of Economics",
           "name_hu": "KRTK Közgazdaság-tudományi Intézet",
-          "role": "Senior Research Fellow",
-          "role_hu": "vezető kutató",
+          "role": "Scientific Advisor, head of Agricultural Economics and Rural Development Research Group",
+          "role_hu": "kutatóprofesszor, Agrárközgazdaságtan és Vidékfejlesztés Kutatócsoport vezetője",
           "start": null
         },
         {
@@ -1402,19 +1402,27 @@
           "role": "Professor",
           "role_hu": "egyetemi tanár",
           "start": null
+        },
+        {
+          "name": "Hungarian University of Agriculture and Life Sciences (MATE), Kaposvár Campus",
+          "name_hu": "Magyar Agrár- és Élettudományi Egyetem (MATE), Kaposvári Campus",
+          "role": "Professor",
+          "role_hu": "egyetemi tanár",
+          "start": null
         }
       ],
-      "website": null,
-      "email": null,
-      "repec_id": null,
+      "website": "https://kti.krtk.hu/en/researchers/ferto-imre-2/",
+      "email": "ferto.imre@krtk.elte.hu",
+      "repec_id": "pfe118",
       "scholar_id": "GqFUcEEAAAAJ",
-      "orcid": null,
+      "orcid": "0000-0002-3742-5964",
       "primary_fields": [
-        "firms-productivity",
-        "trade-fdi"
+        "agriculture-food",
+        "trade-fdi",
+        "firms-productivity"
       ],
-      "bio_en": "Imre Fertő is a senior researcher at the KRTK Institute of Economics. His research focuses on agricultural economics, food policy, and trade. Imre Fertő has published in journals like Agricultural Economics, Applied Economics and Journal of Agricultural Economics.",
-      "bio_hu": "Fertő Imre a KRTK Közgazdaság-tudományi Intézet vezető kutatója. Kutatási területe az agrárgazdaságtan, az élelmiszer-politika és a kereskedelem. Fertő Imre tanulmányai olyan folyóiratokban jelentek meg, mint az Agricultural Economics, az Applied Economics és a Journal of Agricultural Economics.",
+      "bio_en": "Imre Fertő is research professor and head of the Agricultural Economics and Rural Development Research Group at the KRTK Institute of Economics; he was Director General of KRTK from 2019 and previously directed the Institute of Economics (2016–2019). He also holds professorships at Corvinus and at MATE Kaposvár. His research covers agricultural and food economics, agri-food trade, productivity and efficiency in farming, CAP impacts, and — more recently — the economics of sport. He has published in Journal of Agricultural Economics, Agricultural Economics, European Review of Agricultural Economics, Food Policy, World Economy and Scientific Reports, with hundreds of papers in IDEAS/RePEc. MTA Doctor (2007), Hungarian Order of Merit (2020), Agricultural Economics Society Lifetime Achievement Award (2023).",
+      "bio_hu": "Fertő Imre kutatóprofesszor a KRTK Közgazdaság-tudományi Intézetben, ahol az Agrárközgazdaságtan és Vidékfejlesztés Kutatócsoportot vezeti; 2019-től a KRTK főigazgatója, korábban (2016–2019) a KTI igazgatója volt. Egyetemi tanár a Corvinuson és a MATE Kaposvári Campusán. Kutatási területe az agrár- és élelmiszergazdaságtan, az agrár-élelmiszer-kereskedelem, a mezőgazdasági termelékenység és hatékonyság, a KAP hatásai, valamint újabban a sportgazdaságtan. Publikációi olyan folyóiratokban jelentek meg, mint a Journal of Agricultural Economics, az Agricultural Economics, az European Review of Agricultural Economics, a Food Policy, a World Economy és a Scientific Reports; az IDEAS/RePEc oldalán több száz tétel kötődik a nevéhez. MTA doktora (2007), Magyar Érdemrend Tisztikeresztje (2020), Agricultural Economics Society Életmű-díj (2023).",
       "photo_url": "https://kti.krtk.hu/wp-content/uploads/2025/06/Ferto-Imre-scaled-1.jpg",
       "qualifying_publication": {
         "title": "The relationship between the ecologisation of farms and total factor productivity",
@@ -1423,16 +1431,16 @@
       },
       "deceased": false,
       "died": null,
-      "open_to_media_en": false,
-      "open_to_media_hu": false,
-      "media_note": null,
-      "review_status": "needs-verification",
+      "open_to_media_en": true,
+      "open_to_media_hu": true,
+      "media_note": "Rendszeresen ad interjút és ír véleménycikket agrárpolitikai kérdésekről (KAP-reform, agrár-élelmiszerkereskedelem, élelmiszerárak, agrár-környezetvédelem). Magyarul és angolul is elérhető.",
+      "review_status": "verified",
       "openalex_id": "A5010337700",
-      "last_reviewed_at": "2026-04-27",
+      "last_reviewed_at": "2026-05-13",
       "countries": [
         "HU"
       ],
-      "paper_count": 21,
+      "paper_count": 24,
       "policy_count": 0,
       "press_count": 4
     },
@@ -10050,6 +10058,54 @@
       "openalex_id": null
     },
     {
+      "id": "bakucs-ferto-2015-agec-milk",
+      "title": "Empirical tests of sale theories: Hungarian milk prices",
+      "authors": [
+        "bakucs-zoltan",
+        "ferto-imre"
+      ],
+      "publication_type": "article",
+      "journal": "Agricultural Economics (Czech)",
+      "year": 2015,
+      "volume": "61",
+      "issue": "11",
+      "pages": "511-521",
+      "doi": "10.17221/168/2014-AGRICECON",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.17221/168/2014-AGRICECON",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "We test competing theories of retail price 'sales' (temporary price reductions) for Hungarian dairy products using high-frequency scanner-style price data. We distinguish between loss-leader, intertemporal price-discrimination, and inventory-based explanations and find evidence consistent with a mix of demand-side and competition-driven mechanisms.",
+      "summary_en": "Why do retailers run frequent temporary 'sales' on milk and dairy? Bakucs and Fertő test several competing theories — loss-leader pricing, intertemporal price discrimination, and inventory management — on Hungarian retail dairy prices. The pattern fits a mixture: sales are driven both by demand-side discrimination (different willingness-to-pay across consumer types) and by competitive pressure between retail chains, rather than by any single mechanism. The paper documents how strongly Hungarian dairy retail prices fluctuate around posted regular prices, which matters for how food-price statistics and CPI measures should treat dairy.",
+      "summary_hu": "Miért tartanak a kereskedelmi láncok gyakran „akciókat” tejre és tejtermékre? Bakucs és Fertő több versengő elméletet tesztel — veszteségvezér-árazás, időbeli árdiszkrimináció, készletgazdálkodás — a magyar kiskereskedelmi tejár-adatokon. A kép kevert: az akciókat egyrészt keresleti oldali diszkrimináció (eltérő fizetési hajlandóság a vásárlói csoportok között), másrészt a láncok közötti versenynyomás hajtja — nincs egyetlen domináns mechanizmus. A tanulmány dokumentálja, milyen erősen ingadozik a magyar tej kiskereskedelmi ára a kiírt szabálytalan árhoz képest, ami fontos a fogyasztói árstatisztikák és a fogyasztói árindex (CPI) szempontjából.",
+      "data_used": "High-frequency Hungarian retail dairy price data (weekly product-level prices at major retail chains). Identification of 'sale' episodes via posted regular prices and temporary deviations; competing-theory tests via regression and hazard-style models.",
+      "data_used_hu": "Nagy gyakoriságú magyar kiskereskedelmi tejár-adatok (heti termékszintű árak a fő láncoknál). „Akciós” epizódok azonosítása a kiírt szabályos árakhoz és a rövid távú eltérésekhez képest; versengő-elmélet tesztek regresszióval és hazard-jellegű modellekkel.",
+      "policy_relevance": "Relevant to KSH food-price measurement, GVH retail-competition policy, and the AM food-price commentary. The finding that frequent sales are partly competition-driven supports a competition-friendly retail-policy stance over price caps; the price-discrimination component cautions against interpreting headline retail-price movements as efficiency signals. Method reusable for monitoring price pass-through in food-price-spike episodes.",
+      "policy_relevance_hu": "Releváns a KSH élelmiszer-árméréséhez, a GVH kiskereskedelmi-verseny politikájához és az AM élelmiszerár-kommentárjához. Az az eredmény, hogy a gyakori akciókat részben a verseny hajtja, a verseny-barát kiskereskedelmi szabályozást támogatja az árstop helyett; az árdiszkriminációs komponens figyelmeztet, hogy a kiskereskedelmi árváltozások önmagukban nem hatékonysági jelek. A módszer újrahasznosítható az élelmiszerár-sokk epizódok árátadásának nyomon követésére.",
+      "topics": [
+        "agriculture-food",
+        "consumer-pricing"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "scanner"
+      ],
+      "featured": false,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13",
+      "review_status": "ai-drafted",
+      "policy_instruments": [
+        "retail competition policy",
+        "food price monitoring"
+      ],
+      "openalex_id": null
+    },
+    {
       "id": "bakucs-ferto-et-al-2009-eclett",
       "title": "Investment and financial constraints in Hungarian agriculture",
       "authors": [
@@ -10584,6 +10640,54 @@
       "journal": "Eastern European Economics",
       "year": 2017,
       "publication_type": "article"
+    },
+    {
+      "id": "barath-ferto-2017-jae-productivity",
+      "title": "Productivity and Convergence in European Agriculture",
+      "authors": [
+        "barath-lajos",
+        "ferto-imre"
+      ],
+      "publication_type": "article",
+      "journal": "Journal of Agricultural Economics",
+      "year": 2017,
+      "volume": "68",
+      "issue": "1",
+      "pages": "228-248",
+      "doi": "10.1111/1477-9552.12157",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1111/1477-9552.12157",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "We investigate relative productivity levels and decompose productivity change for European agriculture between 2004 and 2013. The decomposition is based on a stochastic frontier framework that allows us to identify the contribution of technical change, efficiency change, scale effect and input mix effect. We find heterogeneity in productivity levels and growth across EU Member States, with the new Member States generally lagging but converging.",
+      "summary_en": "How productive is European agriculture across Member States — and are the new (post-2004) members catching up with the old ones? Baráth and Fertő combine stochastic-frontier methods with FADN data for 2004–2013 across EU countries, and decompose total factor productivity growth into technical change, efficiency change, scale effects and input-mix effects. Two findings stand out: productivity levels and growth rates vary widely across Member States, and the post-2004 accession countries (Hungary included) generally lag the EU-15 — but they are catching up, with TFP gains driven mostly by efficiency improvements and input-mix changes rather than new technology. The paper is a standard reference for CAP productivity debates.",
+      "summary_hu": "Mennyire termelékeny az európai mezőgazdaság az egyes tagállamokban — és felzárkóznak-e a 2004 utáni belépők a régiekhez? Baráth és Fertő sztochasztikus határelemzéssel dolgozza fel a FADN-adatokat 2004–2013-ra az EU-tagállamokra, és az össztényezős termelékenység (TFP) növekedését felbontják műszaki haladásra, hatékonyságváltozásra, mérethatásra és input-összetétel-hatásra. Két fő eredmény: a termelékenység szintje és növekedési üteme erősen szóródik a tagállamok között, és a 2004 után csatlakozó országok (köztük Magyarország) általában elmaradnak az EU-15-től — de felzárkóznak, ráadásul a felzárkózást nem új technológia, hanem javuló hatékonyság és módosuló input-összetétel hajtja. A tanulmány a KAP termelékenységi vitáinak egyik bázisreferenciája.",
+      "data_used": "EU FADN (Farm Accountancy Data Network) farm-level panel 2004–2013 across EU Member States. Stochastic frontier analysis (translog production function) with TFP decomposition into technical change, efficiency change, scale and input-mix.",
+      "data_used_hu": "EU FADN (Mezőgazdasági Számviteli Hálózat) gazdaság-szintű panel 2004–2013 az EU-tagállamokra. Sztochasztikus határelemzés (translog termelési függvény) TFP-felbontással: műszaki haladás, hatékonyságváltozás, mérethatás és input-összetétel.",
+      "policy_relevance": "Background for Hungarian CAP-implementation policy (AM, AKI) and EU-level CAP reform debates. The finding that new Member States are catching up via efficiency and input-mix change — not via better technology — suggests CAP measures aimed at advisory services, farm management training and structural adjustment may matter more than technology subsidies for productivity convergence. The TFP-decomposition method is reusable for Hungarian farm-sector monitoring.",
+      "policy_relevance_hu": "Háttér a magyar KAP-végrehajtási politikához (AM, AKI) és az EU-szintű KAP-reform vitákhoz. Az az eredmény, hogy az új tagállamok hatékonyság- és input-összetétel-változással zárkóznak fel — nem új technológiával —, arra utal, hogy a tanácsadói szolgáltatásra, gazda-továbbképzésre és szerkezeti alkalmazkodásra fókuszáló KAP-intézkedések fontosabbak lehetnek a termelékenységi konvergencia szempontjából, mint a technológia-támogatás. A TFP-felbontási módszer a magyar gazdaság-szintű monitoringhoz újrahasznosítható.",
+      "topics": [
+        "agriculture-food",
+        "firms-productivity"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "EU"
+      ],
+      "data_types": [
+        "admin-firm"
+      ],
+      "featured": false,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13",
+      "review_status": "ai-drafted",
+      "policy_instruments": [
+        "CAP productivity measures",
+        "farm advisory services"
+      ],
+      "openalex_id": null
     },
     {
       "url_pdf": null,
@@ -16183,6 +16287,54 @@
       "last_reviewed_at": "2026-04-27",
       "review_status": "ai-drafted",
       "openalex_id": "W2552697550"
+    },
+    {
+      "id": "bojnec-ferto-2017-jae-quality",
+      "title": "Quality Upgrades of EU Agri-Food Exports",
+      "authors": [
+        "Štefan Bojnec",
+        "ferto-imre"
+      ],
+      "publication_type": "article",
+      "journal": "Journal of Agricultural Economics",
+      "year": 2017,
+      "volume": "68",
+      "issue": "1",
+      "pages": "269-279",
+      "doi": "10.1111/1477-9552.12204",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1111/1477-9552.12204",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "We examine determinants of quality upgrades in EU agri-food exports using panel data covering 2000–2011. Export unit values are positively correlated with the level of economic development and population size of the destination, while comparative advantage and trade costs reduce quality upgrades. Income inequality has a positive association with quality specialisation. Results are robust for both vertically specialised and final agri-food products.",
+      "summary_en": "Are EU member states selling higher-quality agri-food abroad over time — and what drives quality upgrading? Bojnec and Fertő use panel data on EU agri-food exports 2000–2011, with destination-level unit values as a proxy for export quality. Three findings: (1) richer and larger destination markets pull up export quality; (2) destinations with higher income inequality demand more quality-differentiated agri-food (a high-end segment exists); (3) revealed comparative advantage and trade costs (distance, tariffs) push quality down — bulk-commodity advantage and friction-heavy trade work against quality upgrading. The pattern holds for both vertically specialised intermediates and final products, useful for Hungary's agri-food export strategy.",
+      "summary_hu": "Egyre jobb minőségű agrár-élelmiszert exportálnak-e az EU-tagországok, és mi hajtja a minőségi feljebb lépést? Bojnec és Fertő az EU agrár-élelmiszer-exportját vizsgálja panel-adatokon 2000–2011-re, ahol a célországi egységár a minőség közvetett mérője. Három eredmény: (1) gazdagabb és nagyobb célországokba magasabb minőségű árut visznek; (2) a magasabb jövedelmi egyenlőtlenségű országok több minőség-differenciált terméket kérnek (van prémiumszegmens); (3) a feltárt komparatív előny és a kereskedelmi költségek (távolság, vámok) lefelé húzzák a minőséget — vagyis a tömegáru-fókusz és a sok súrlódással terhelt kereskedelem a minőségi feljebb lépés ellen hat. A minta áll a vertikálisan szakosodott köztes és a végtermékekre is — releváns a magyar agrár-export stratégia szempontjából.",
+      "data_used": "EU agri-food exports panel 2000–2011 at the country-product level. Outcome: export unit values (destination-specific). Drivers: GDP per capita, population, Gini, revealed comparative advantage indices, distance, MFN tariffs.",
+      "data_used_hu": "EU agrár-élelmiszer export panel 2000–2011, ország-termék szinten. Függő változó: export egységár (célország-specifikus). Magyarázók: egy főre jutó GDP, népesség, Gini, feltárt komparatív előny indexek, távolság, MFN vámok.",
+      "policy_relevance": "Direct input for Hungarian agri-food export strategy (HEPA, NAK, AM). The finding that comparative advantage and high trade costs push quality down means Hungary's traditional bulk-commodity advantage (cereals, raw meat) is the wrong base for quality upgrading; targeted support for processed and differentiated products toward high-income / high-inequality destinations (Germany, Austria, Western EU) is the higher-return strategy. The unit-value framework is reusable for AKI export-quality monitoring.",
+      "policy_relevance_hu": "Közvetlen input a magyar agrár-export stratégiához (HEPA, NAK, AM). Az az eredmény, hogy a komparatív előny és a magas kereskedelmi költségek lefelé húzzák a minőséget, azt jelenti: Magyarország hagyományos tömegáru-előnye (gabona, nyers hús) rossz bázis a minőségi feljebb lépéshez; a feldolgozott és differenciált termékek célzott támogatása magas jövedelmű / magas egyenlőtlenségű célországok (Németország, Ausztria, Nyugat-EU) felé jobb stratégia. Az egységáras keret újrahasznosítható az AKI export-minőség-monitoringjához.",
+      "topics": [
+        "agriculture-food",
+        "trade-fdi"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "EU"
+      ],
+      "data_types": [
+        "macro-aggregate"
+      ],
+      "featured": false,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13",
+      "review_status": "ai-drafted",
+      "policy_instruments": [
+        "agri-food export promotion",
+        "quality upgrading support"
+      ],
+      "openalex_id": null
     },
     {
       "id": "bokanyi-juhasz-et-al-2021-scirep",
@@ -52864,7 +53016,7 @@
       "policy_framing_en": "Relevant to: EU trade policy, FDI promotion, export promotion, supply chain resilience, industrial policy.",
       "policy_framing_hu": "Releváns: EU kereskedelempolitika, FDI ösztönzés, exporttámogatás, ellátási láncok rugalmassága, iparpolitika.",
       "icon": "globe",
-      "paper_count": 106
+      "paper_count": 107
     },
     {
       "id": "firms-productivity",
@@ -52875,7 +53027,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 182
+      "paper_count": 183
     },
     {
       "id": "innovation-digital",
@@ -53007,7 +53159,7 @@
       "policy_framing_en": "Relevant to: EU Common Agricultural Policy (CAP), food-safety regulation, rural development programmes, land-use policy.",
       "policy_framing_hu": "Releváns: EU Közös Agrárpolitika (KAP), élelmiszer-biztonsági szabályozás, vidékfejlesztési programok, földhasználati szabályozás.",
       "icon": "wheat",
-      "paper_count": 20
+      "paper_count": 23
     },
     {
       "id": "methods",
@@ -54403,7 +54555,7 @@
   ],
   "counts": {
     "authors": 112,
-    "papers": 928,
+    "papers": 931,
     "policy": 40,
     "press": 171,
     "topics": 21

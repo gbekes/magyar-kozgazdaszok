@@ -1,0 +1,53 @@
+{
+  "id": "wachs-yasseri-et-al-2019-rsos",
+  "title": "Social capital predicts corruption risk in towns",
+  "authors": [
+    "Johannes Wachs",
+    "Taha Yasseri",
+    "lengyel-balazs",
+    "János Kertész"
+  ],
+  "publication_type": "article",
+  "journal": "Royal Society Open Science",
+  "year": 2019,
+  "volume": "6",
+  "issue": "4",
+  "pages": "182103",
+  "doi": "10.1098/rsos.182103",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1098/rsos.182103",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Where is corruption more likely? Using a unique combination of public-procurement data on Hungarian municipalities and a measure of social-capital structure derived from the iWiW online social network, the authors show that towns where the local social network is fragmented into tight, inward-looking cliques have a higher corruption risk in public tenders. By contrast, towns with bridging ties between groups — a sign of richer civic life — show less procurement irregularity. The finding gives a network-science backbone to Putnam-style arguments that the texture of community ties matters for governance quality.",
+  "summary_hu": "Hol valószínűbb a korrupció? A szerzők magyar önkormányzati közbeszerzési adatokat egy egyedi módon mért társadalmi-tőke-szerkezettel (az iWiW közösségi hálózat lokális struktúrájával) párosítják. Megmutatják, hogy azokban a városokban, ahol a helyi társadalmi háló zárt, befelé forduló klikkekre töredezik, magasabb a közbeszerzési korrupciós kockázat. Ezzel szemben azok a városok, ahol „áthidaló\" kapcsolatok kötik össze a csoportokat — a gazdagabb civil élet jele —, kevesebb közbeszerzési szabálytalanságot mutatnak. Az eredmény hálózattudományos alapot ad a putnami érvnek, hogy a közösségi kötések szövete számít a kormányzás minőségéhez.",
+  "data_used": "Hungarian municipal public-procurement records (corruption-risk indicators based on single-bidder and other red flags) merged with the structure of the iWiW Hungarian online social network at the town level (2002–2012). Cross-sectional analysis at the municipality level.",
+  "data_used_hu": "Magyar önkormányzati közbeszerzési adatok (korrupciós kockázati mutatók: egyajánlatos pályázatok és egyéb piros zászlók) az iWiW magyar közösségi hálózat települési szintű szerkezetével összekapcsolva (2002–2012). Településszintű keresztmetszeti elemzés.",
+  "policy_relevance": "Directly relevant for Hungarian anti-corruption and public-procurement policy (Integritás Hatóság, Közbeszerzési Hatóság, EU OLAF). Suggests that anti-corruption monitoring should be geographically targeted using social-structure indicators, not just procurement red flags. Also relevant for community-development programmes (LEADER, integrated rural development) that can build bridging ties. Hungarian-evidenced; immediately applicable. Caveat: associational, not causal — common factors (history, economic isolation) may drive both fragmented networks and corruption.",
+  "policy_relevance_hu": "Közvetlenül releváns a magyar antikorrupciós és közbeszerzési politika számára (Integritás Hatóság, Közbeszerzési Hatóság, EU OLAF). Azt javasolja, hogy az antikorrupciós monitorozás földrajzilag célzottan, társadalmi-szerkezeti mutatók alapján is történjen, ne csak közbeszerzési piros zászlók szerint. Releváns a közösségfejlesztési programok (LEADER, integrált vidékfejlesztés) számára is, amelyek áthidaló kapcsolatokat építhetnek. Magyar adat alapú; közvetlenül használható. Korlát: korrelációs, nem ok-okozati — közös tényezők (történelem, gazdasági elszigeteltség) hajthatják mind a hálózati töredezettséget, mind a korrupciót.",
+  "topics": [
+    "regional-urban",
+    "political-economy",
+    "innovation-digital"
+  ],
+  "methods": [
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "admin-firm",
+    "digital-trace"
+  ],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "openalex_id": null,
+  "policy_instruments": [
+    "anti-corruption monitoring",
+    "public-procurement oversight",
+    "community-development programmes"
+  ]
+}

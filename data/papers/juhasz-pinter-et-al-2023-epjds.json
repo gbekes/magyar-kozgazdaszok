@@ -1,0 +1,54 @@
+{
+  "id": "juhasz-pinter-et-al-2023-epjds",
+  "title": "Amenity complexity and urban locations of socio-economic mixing",
+  "authors": [
+    "juhasz-sandor",
+    "Gergő Pintér",
+    "Ádám J. Kovács",
+    "Endre Borza",
+    "Gergely Mónus",
+    "lorincz-laszlo",
+    "lengyel-balazs"
+  ],
+  "publication_type": "article",
+  "journal": "EPJ Data Science",
+  "year": 2023,
+  "volume": "12",
+  "issue": "1",
+  "pages": "34",
+  "doi": "10.1140/epjds/s13688-023-00413-6",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1140/epjds/s13688-023-00413-6",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Where in a city do rich and poor actually meet? Using fine-grained urban data on amenities (shops, restaurants, services) and visit flows in Budapest, the authors construct an index of amenity complexity — how diverse and rare the mix of venues at a location is. They show that locations with more complex amenity mixes attract visitors from a wider range of socio-economic backgrounds and become hotspots of social mixing. Simple, single-purpose locations (only shops, only services) do not. The finding gives urban planners a concrete, measurable target: cultivating amenity complexity is a lever for reducing socio-economic segregation in city space.",
+  "summary_hu": "Hol találkoznak ténylegesen egy városban a gazdagok és a szegények? Részletes városi adatok alapján — kiszolgáló helyek (üzletek, éttermek, szolgáltatások) és látogatási áramlások Budapestre — a szerzők egy „amenity-komplexitási\" indexet építenek: mennyire sokrétű és ritka az adott helyen elérhető üzletek és szolgáltatások keveréke. Megmutatják, hogy a komplexebb amenity-összetételű helyek szélesebb szocio-ökonómiai háttérből vonzanak látogatókat, és a szociális keveredés gócpontjaivá válnak. Az egyszerű, egycélú helyek (csak üzletek, csak szolgáltatások) nem. Az eredmény konkrét, mérhető célt ad a várostervezőknek: az amenity-komplexitás ápolása fogantyú a városi szocio-ökonómiai szegregáció csökkentésére.",
+  "data_used": "Budapest amenity-database (Google Places-type fine-grained venue records) combined with anonymised mobile-phone visit data. Socio-economic indicators at the neighbourhood level (income, education). Complexity index built from venue co-occurrence patterns.",
+  "data_used_hu": "Budapesti amenity-adatbázis (Google Places-típusú részletes hely-rekordok) anonimizált mobiltelefonos látogatási adatokkal kombinálva. Szocio-ökonómiai mutatók városrészi szinten (jövedelem, iskolázottság). Komplexitási index a hely-előfordulási minták alapján.",
+  "policy_relevance": "Relevant for Budapest urban-planning, district-level rehabilitation and zoning policy (Főváros, district mayors' offices, ITM regional development). The paper suggests that mixed-use zoning, rather than mono-functional retail or service zones, is the more effective lever for cross-class mixing. Useful input for the design of cultural-quarter and urban-regeneration programmes. Budapest data; principles extend to other large Hungarian cities (Debrecen, Szeged).",
+  "policy_relevance_hu": "Releváns a budapesti várostervezés, kerületi rehabilitáció és övezet-politika számára (Főváros, kerületi polgármesteri hivatalok, ITM területfejlesztés). A tanulmány azt sugallja, hogy a vegyes funkciójú övezet — nem az egyfunkciós kiskereskedelmi vagy szolgáltató zóna — a hatékonyabb fogantyú az osztályok közötti keveredésre. Hasznos input kulturális negyed- és városrehabilitációs programok tervezéséhez. Budapesti adat; az elvek kiterjeszthetők más nagyvárosokra (Debrecen, Szeged).",
+  "topics": [
+    "regional-urban",
+    "innovation-digital"
+  ],
+  "methods": [
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "digital-trace"
+  ],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "openalex_id": null,
+  "policy_instruments": [
+    "mixed-use zoning",
+    "urban regeneration",
+    "cultural-quarter policy"
+  ]
+}

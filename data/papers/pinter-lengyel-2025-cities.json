@@ -1,0 +1,49 @@
+{
+  "id": "pinter-lengyel-2025-cities",
+  "title": "Quantifying barriers of urban mobility",
+  "authors": [
+    "Gergő Pintér",
+    "lengyel-balazs"
+  ],
+  "publication_type": "article",
+  "journal": "Cities",
+  "year": 2025,
+  "volume": "167",
+  "issue": null,
+  "pages": "106322",
+  "doi": "10.1016/j.cities.2025.106322",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1016/j.cities.2025.106322",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Where do urban residents not go, and why? Using anonymised mobile-phone location data for Budapest, Pintér and Lengyel quantify how much rivers, motorways, railway tracks and similar built features deflect everyday movement compared with what straight-line distance would predict. They show that these physical barriers cause large, measurable detours and reduce mixing between neighbourhoods on opposite sides — even when the street-network detour is short. The paper offers a clean empirical method to test whether new bridges, underpasses or pedestrian links would actually reconnect urban populations, rather than just look good on a map.",
+  "summary_hu": "Hová nem mennek a városlakók, és miért? Anonimizált mobiltelefonos helyadatokra építve Pintér és Lengyel megméri, hogy a folyók, autópályák, vasútvonalak és hasonló épített elemek mennyiben térítik el a hétköznapi mozgást ahhoz képest, amit a légvonalbeli távolság előrejelezne. Megmutatják, hogy ezek a fizikai akadályok nagy, mérhető kerülőutakat okoznak, és csökkentik a két oldal közötti keveredést — még akkor is, ha az utcahálózati kerülő rövid. A tanulmány tiszta empirikus módszert kínál annak tesztelésére, hogy egy új híd, aluljáró vagy gyalogos kapcsolat valóban újra összekötné-e a városi népességet, vagy csak a térképen néz ki jól.",
+  "data_used": "Anonymised mobile-phone (CDR-type) location data for Budapest. Movement patterns aggregated to small spatial units. Built-environment data (rivers, motorways, railways) overlaid; statistical models compare observed flows with straight-line and street-network counterfactuals.",
+  "data_used_hu": "Anonimizált mobiltelefonos (CDR-típusú) helyadatok Budapestre. Mozgási minták kis területi egységekre aggregálva. Beépített környezet adatai (folyók, autópályák, vasutak) ráhelyezve; statisztikai modellek hasonlítják össze a megfigyelt áramlásokat a légvonalas és utcahálózati ellenpárokkal.",
+  "policy_relevance": "Highly relevant for Budapest urban-planning and transport policy (Főváros, BKK, ITM). Provides a method to quantify ex ante which new infrastructure (bridges, pedestrian links, public-transport bypasses) would most reduce neighbourhood-level segregation. Useful input for the Budapest 2040 mobility plan and for cohesion-funded urban regeneration. Budapest data; directly applicable to other Hungarian cities (Debrecen, Miskolc) where rail or river severance is a planning constraint.",
+  "policy_relevance_hu": "Erősen releváns a budapesti várostervezés és közlekedéspolitika számára (Főváros, BKK, ITM). Olyan módszert ad, amely ex ante számszerűsíti, melyik új infrastruktúra (híd, gyalogos kapcsolat, közösségi közlekedési átvágás) csökkentené leginkább a városrész-szintű szegregációt. Hasznos input a Budapest 2040 mobilitási tervhez és a kohéziós forrásból finanszírozott városrehabilitációhoz. Budapesti adat; közvetlenül alkalmazható más magyar városokra (Debrecen, Miskolc), ahol vasúti vagy folyó-keresztezés tervezési korlát.",
+  "topics": [
+    "regional-urban",
+    "innovation-digital"
+  ],
+  "methods": [
+    "descriptive-survey"
+  ],
+  "countries_studied": [
+    "HU"
+  ],
+  "data_types": [
+    "digital-trace"
+  ],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "openalex_id": "W4413010451",
+  "policy_instruments": [
+    "urban-transport planning",
+    "infrastructure investment",
+    "urban regeneration"
+  ]
+}

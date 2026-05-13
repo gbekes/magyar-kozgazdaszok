@@ -1,0 +1,52 @@
+{
+  "id": "toth-juhasz-et-al-2021-eps",
+  "title": "Repeated collaboration of inventors across European regions",
+  "authors": [
+    "Gergő Tóth",
+    "juhasz-sandor",
+    "elekes-zoltan",
+    "lengyel-balazs"
+  ],
+  "publication_type": "article",
+  "journal": "European Planning Studies",
+  "year": 2021,
+  "volume": "29",
+  "issue": "12",
+  "pages": "2252-2272",
+  "doi": "10.1080/09654313.2021.1914555",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1080/09654313.2021.1914555",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "When inventors in two European regions collaborate, how often do they do it again? Using the universe of EPO patent records, the authors map repeated cross-regional inventor ties across European NUTS-3 regions. Only a small fraction of cross-regional collaborations are repeated; gravity modelling shows that geographical proximity is the dominant predictor of a tie repeating, even when controlling for prior collaboration intensity and triadic closure. The result tempers the standard view that one-off Europe-wide collaborations build durable innovation links — sustained co-invention remains a regional, not pan-European, phenomenon.",
+  "summary_hu": "Ha két európai régió feltalálói együttműködnek, milyen gyakran teszik ezt újra? Az EPO szabadalmi adatok teljes körén a szerzők feltérképezik az ismétlődő régiók közötti feltalálói kapcsolatokat európai NUTS-3 régiók között. Csak a régiók közötti együttműködések kis része ismétlődik; gravitációs modellezés kimutatja, hogy a földrajzi közelség a kapcsolat megismétlődésének domináns előrejelzője, még a korábbi együttműködési intenzitás és a triadikus zárás kontrollálása mellett is. Az eredmény mérsékli azt a hagyományos nézetet, hogy az egyszeri európai szintű együttműködések tartós innovációs kapcsolatokat építenek — a tartós közös találmány továbbra is regionális, nem páneurópai jelenség.",
+  "data_used": "European Patent Office (EPO) patent and inventor records, full cross-section of EU NUTS-3 regions. Co-inventor network analysis with gravity models of tie repetition.",
+  "data_used_hu": "Európai Szabadalmi Hivatal (EPO) szabadalmi és feltalálói adatok, az EU NUTS-3 régiók teljes keresztmetszete. Társfeltalálói hálózati elemzés és kapcsolat-ismétlődési gravitációs modellek.",
+  "policy_relevance": "Relevant for EU Horizon Europe and Hungarian innovation policy (NKFIH, ITM). The standard EU narrative — that Framework-Programme funding creates durable cross-regional research links — is partially contradicted: ties rarely repeat without geographical proximity. Argues for combining cross-regional grants with sustained, place-based collaboration infrastructure (consortia, mobility, repeat-funding incentives). Useful input for the design of EU Smart Specialisation Strategies and for Hungarian participation in Horizon Europe.",
+  "policy_relevance_hu": "Releváns az EU Horizon Europe és a magyar innovációpolitika számára (NKFIH, ITM). A hagyományos EU-narratíva — hogy a keretprogramos finanszírozás tartós régiók közötti kutatási kapcsolatokat hoz létre — részben megdől: a kapcsolatok ritkán ismétlődnek földrajzi közelség nélkül. Az érv: a régiók közötti pályázatokat kell kombinálni tartós, területi alapú együttműködési infrastruktúrával (konzorciumok, mobilitás, ismételt finanszírozási ösztönzők). Hasznos input az EU Intelligens Szakosodási Stratégiák tervezéséhez és a magyar Horizon Europe-részvételhez.",
+  "topics": [
+    "innovation-digital",
+    "regional-urban"
+  ],
+  "methods": [
+    "panel-data",
+    "iv-rd"
+  ],
+  "countries_studied": [
+    "EU"
+  ],
+  "data_types": [
+    "admin-firm"
+  ],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "openalex_id": null,
+  "policy_instruments": [
+    "EU Framework Programme",
+    "smart specialisation",
+    "innovation network policy"
+  ]
+}
