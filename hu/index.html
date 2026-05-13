@@ -3,110 +3,29 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Magyar Közgazdászok — magyar közgazdasági kutatások tárlata</title>
-  <meta name="description" content="Nemzetközi közgazdasági folyóiratokban publikáló magyar közgazdászok munkáinak nyilvános tárlata — döntéshozóknak, újságíróknak és a szélesebb közönségnek.">
-  <link rel="stylesheet" href="../assets/style.css">
+  <title>Munka folyamatban — Magyar Közgazdászok</title>
+  <meta name="robots" content="noindex">
+  <style>
+    body { font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+           max-width: 38rem; margin: 6rem auto; padding: 0 1.5rem;
+           line-height: 1.6; color: #1a1a1a; }
+    h1 { font-size: 2rem; margin-bottom: 0.25rem; }
+    .sub { font-size: 1.1rem; color: #555; margin-top: 0; }
+    hr { border: 0; border-top: 1px solid #ddd; margin: 2rem 0; }
+    p { color: #333; }
+    .meta { margin-top: 2.5rem; font-size: 0.85em; color: #888; }
+    .meta a { color: #888; }
+  </style>
 </head>
 <body>
-  <div id="site-header"></div>
+  <h1>Munka folyamatban</h1>
+  <p class="sub">A Magyar Közgazdászok katalógus jelenleg karbantartás alatt áll. Hamarosan visszatérünk.</p>
 
-  <section class="hero">
-    <div class="container">
-      <h1 class="hero-title">Magyar Közgazd<em>ászok</em></h1>
-      <p class="lede">Nemzetközi közgazdasági folyóiratokban publikáló magyar közgazdászok munkáinak bővülő nyilvános tárlata — döntéshozóknak, újságíróknak és a szélesebb közönségnek.</p>
-      <div class="search-wrap">
-        <div class="search-bar">
-          <input id="hero-search" type="search" placeholder='Keress cím, szerző, téma alapján — "/" a fókuszra' autocomplete="off">
-          <button type="button" onclick="document.getElementById('hero-search').focus()">Keresés</button>
-        </div>
-        <div id="hero-results" class="search-results hidden"></div>
-      </div>
-      <div class="stats">
-        <span><strong id="stat-papers">…</strong> tanulmány</span>
-        <span><strong id="stat-authors">…</strong> szerző</span>
-        <span><strong>15</strong> szakpolitikai téma</span>
-        <span class="muted"><a href="../index.html" style="color:var(--v-9);">English</a></span>
-      </div>
-    </div>
-  </section>
+  <hr>
 
-  <main>
-    <div class="container">
-      <section class="block scope-block">
-        <h2>Kik szerepelnek a gyűjteményben — és hogyan kerülhetsz be</h2>
-        <p>Rövid, közérthető összefoglalók lektorált magyar közgazdasági kutatásokból, 15 szakpolitikai téma szerint rendezve — minisztériumi munkatársaknak és elemzőknek, akiknek gyorsan kell hitelt érdemlő bizonyíték, és egy nevesített szakértő, akit meg lehet kérdezni.</p>
-        <p>Bármilyen ilyen gyűjtemény szükségszerűen hiányos — nevek mindig kimaradnak, a határeseteket pedig így vagy úgy kell eldönteni. Kimaradt sok remek közgazdász és más társadalomtudós, akik főleg nem közgazdasági, hanem egyéb (határterületi) szaklapokban publikálnak.</p>
-        <p><strong>Ha úgy érzed, ide tartozol és nem vagy itt, kérlek jelezd</strong> — önjelölés természetesen jöhet. Javaslatokat issue-ként vagy PR-ként várunk a <a href="https://github.com/gbekes/magyar-kozgazdaszok" target="_blank" rel="noopener">GitHub repóban</a>, vagy a <a href="contribute.html">közreműködés oldalon</a>.</p>
-        <p>Az oldal olyan magyar közgazdászok tanulmányait gyűjti össze, akiknek <strong>legalább három jó nemzetközi közgazdasági szaklapban megjelent publikációjuk van, ezek között pedig legalább egy top publikáció</strong>. A pontos szabály és a fehérlista a <a href="journals.html">folyóiratok oldalon</a> található.</p>
-        <p><a href="journals.html" class="scope-cta">A figyelembe vett folyóiratok →</a></p>
-        <p class="small muted">Az oldal aktív fejlesztés alatt áll; egyes szövegek még nem kerültek emberi ellenőrzésre. <strong>Ha már szerepelsz a gyűjteményben:</strong> kérjük, ellenőrizd a saját oldaladat és a tanulmányaid összefoglalóit, és segíts pontosítani <a href="contribute.html">a gyűjteményt</a>. Köszönjük!</p>
-      </section>
+  <h1>Work in progress</h1>
+  <p class="sub">The Magyar Közgazdászok catalogue is temporarily offline for maintenance. We'll be back soon.</p>
 
-      <div class="banner-review">
-        A felület teljesen magyar; az egyes tanulmányok közérthető összefoglalói és a szerzői bemutatók fokozatosan kerülnek fordításra. Ahol még nincs magyar változat, az angol szöveg jelenik meg.
-      </div>
-
-      <section class="block">
-        <h2>Hogyan használd</h2>
-        <ol>
-          <li><strong>Indulj egy témától vagy a kereső-mezőtől.</strong> A 15 szakpolitikai téma adja a tág térképet; a kereső címekre, absztraktokra, összefoglalókra és szerzőkre fut.</li>
-          <li><strong>A tanulmány oldalán először a „Szakpolitikai relevancia" szekciót olvasd el.</strong> Rövid, pontokba szedett — egy képernyő alapján eldől, hogy érdemes-e mélyebbre menni.</li>
-          <li><strong>Aztán nézd meg az adatok leírását és az összefoglalót.</strong> Milyen ország, milyen évek, milyen módszer — ebből látod, mennyire vihető át az eredmény Magyarországra.</li>
-          <li><strong>Kérdezz rá, ha hasznos.</strong> Kövesd a DOI-linket a megjelent tanulmányhoz; írj a szerzőnek, ha utólagos kérdésed van.</li>
-          <li><strong>Ha egy kutatás érdekel, írj a kutatónak közvetlenül.</strong> Az affiliációt és elérhetőséget a <a href="authors.html">szerzők oldalon</a> találod.</li>
-        </ol>
-        <p class="small muted">A módszertanért, hatókörért, és azért, hogy mit <em>nem</em> fedez le szándékosan ez a katalógus, lásd a <a href="about.html">Bemutatkozás</a> oldalt.</p>
-      </section>
-
-      <section class="block">
-        <h2>Témák</h2>
-        <div id="topic-grid" class="topic-grid"></div>
-      </section>
-
-      <section class="block">
-        <h2>Kiemelt tanulmányok</h2>
-        <div id="featured-list"></div>
-      </section>
-
-      <section class="block">
-        <h2>Legutóbb hozzáadva</h2>
-        <div id="recent-list"></div>
-      </section>
-    </div>
-  </main>
-
-  <div id="site-footer"></div>
-
-  <script src="../assets/app.js"></script>
-  <script src="../assets/chrome.js"></script>
-  <script>
-  (async function () {
-    const EFH = window.EFH;
-    const data = await EFH.loadData();
-
-    document.getElementById('stat-papers').textContent = data.counts.papers;
-    document.getElementById('stat-authors').textContent = data.counts.authors;
-
-    const grid = document.getElementById('topic-grid');
-    grid.innerHTML = data.topics.map(t => `
-      <a class="topic-card" href="topic.html?id=${encodeURIComponent(t.id)}">
-        <div class="name">${EFH.esc(t.name_hu || t.name_en)}</div>
-        <div class="count">${t.paper_count || 0} tanulmány</div>
-      </a>
-    `).join('');
-
-    const featured = data.papers.filter(p => p.featured).slice(0, 4);
-    document.getElementById('featured-list').innerHTML = featured.length
-      ? featured.map(p => EFH.paperCardHtml(data, p, 'hu')).join('')
-      : '<p class="muted">Még nincs kiemelt tanulmány.</p>';
-
-    const recent = [...data.papers]
-      .sort((a, b) => (b.added_at || '').localeCompare(a.added_at || ''))
-      .slice(0, 6);
-    document.getElementById('recent-list').innerHTML = recent.map(p => EFH.paperCardHtml(data, p, 'hu')).join('');
-
-    EFH.attachSearchBar(document.getElementById('hero-search'), document.getElementById('hero-results'));
-  })();
-  </script>
+  <p class="meta">— Békés Gábor · <a href="https://github.com/gbekes/magyar-kozgazdaszok">github.com/gbekes/magyar-kozgazdaszok</a></p>
 </body>
 </html>
