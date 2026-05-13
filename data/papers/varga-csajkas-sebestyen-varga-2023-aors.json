@@ -1,0 +1,53 @@
+{
+  "id": "varga-csajkas-sebestyen-varga-2023-aors",
+  "title": "Dynamics of collaboration among high-growth firms: results from an agent-based policy simulation",
+  "authors": [
+    "Anna Varga-Csajkás",
+    "sebestyen-tamas",
+    "varga-attila"
+  ],
+  "publication_type": "article",
+  "journal": "The Annals of Regional Science",
+  "year": 2023,
+  "volume": "70",
+  "issue": "2",
+  "pages": "353-377",
+  "doi": "10.1007/s00168-022-01150-w",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1007/s00168-022-01150-w",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Can targeted subsidies actually make high-growth firms (gazelles) form denser collaboration networks, and would that lift regional productivity? The authors build an agent-based model in which heterogeneous firms decide whether to invest in R&D and whom to partner with, calibrated to Hungarian data. They run counterfactual policy experiments: matching grants for gazelle-led consortia, broker organisations, and untargeted subsidies. Targeting gazelles in already-connected regions accelerates network density and aggregate output; the same money sprayed across all firms produces little. The mechanism is selectivity, not volume.",
+  "summary_hu": "El lehet-e érni célzott támogatással, hogy a gyorsan növekvő cégek (gazellák) sűrűbb együttműködési hálózatba szerveződjenek, és emeli-e ez a regionális termelékenységet? A szerzők ágensalapú modellt építenek, amelyben heterogén vállalatok döntenek a K+F-ről és a partnerválasztásról, magyar adatokra kalibrálva. Háromféle politikát szimulálnak: matching grant gazella-vezette konzorciumoknak, brókerszervezet, illetve általános támogatás. A már kapcsolódó régiókban a gazellák célzása gyorsítja a hálózatsűrűsödést és emeli az aggregált kibocsátást; ugyanennyi pénz mindenkire szétterítve alig hoz eredményt. A mechanizmus a szelektivitás, nem a volumen.",
+  "data_used": "Agent-based simulation calibrated to Hungarian firm-level data (NAV / TEÁOR registry, high-growth firm definition à la Eurostat-OECD). Firms decide on R&D effort and partner choice with heterogeneous absorptive capacity. Policy levers: subsidy-targeting rule, broker presence, matching grant size. Counterfactual runs compared on network density, R&D investment, and aggregate output. Calibration uses Hungarian KSH and NKFIH innovation-survey moments.",
+  "data_used_hu": "Ágensalapú szimuláció magyar vállalati adatokra (NAV / TEÁOR regiszter, Eurostat-OECD gyorsan növekvő cégek definíciója) kalibrálva. A vállalatok heterogén abszorpciós kapacitással döntenek K+F-erőfeszítésről és partnerválasztásról. Politikai változók: támogatási célzási szabály, bróker jelenléte, matching grant nagysága. Az ellentételeket hálózatsűrűségen, K+F-beruházáson és aggregált kibocsátáson hasonlítják össze. A kalibráció a KSH és NKFIH innovációs felmérés momentumait használja.",
+  "policy_relevance": "Direct input for NKFIH and the Kulturális és Innovációs Minisztérium when designing the next gazelle-firm support scheme (Horizon Europe co-financing, GINOP-successor regional innovation tenders). The result that selectivity dominates volume cuts against the political instinct to spread innovation subsidies thinly. For the Pénzügyminisztérium evaluating value-for-money of past INNO-tenders, the simulation framework is a benchmarking tool. Pro Régió and county-level development agencies can use the broker-policy lever to test whether intermediary organisations earn their public funding.",
+  "policy_relevance_hu": "Közvetlen input az NKFIH és a Kulturális és Innovációs Minisztérium számára a következő gazella-támogatási program (Horizon Europe társfinanszírozás, GINOP-utód regionális innovációs pályázatok) tervezéséhez. Az eredmény — hogy a szelektivitás dominál a volumen felett — szembemegy a politikai ösztönnel, hogy az innovációs támogatást vékonyan terítsék szét. A Pénzügyminisztérium számára, amely a korábbi INNO-pályázatok költséghatékonyságát értékeli, a szimulációs keret benchmark-eszköz. A Pro Régió és a megyei fejlesztési ügynökségek a brókerpolitikai változót használhatják annak tesztelésére, hogy a közvetítő szervezetek kitermelik-e a közpénzt.",
+  "topics": [
+    "innovation-digital",
+    "firms-productivity",
+    "regional-urban"
+  ],
+  "methods": [
+    "structural",
+    "theory"
+  ],
+  "countries_studied": [
+    "EU"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "high-growth firm subsidy",
+    "matching grants",
+    "broker organisations",
+    "regional innovation policy"
+  ],
+  "openalex_id": null
+}

@@ -1,0 +1,51 @@
+{
+  "id": "anselin-varga-acs-2000-pirs",
+  "title": "Geographic and sectoral characteristics of academic knowledge externalities",
+  "authors": [
+    "Luc Anselin",
+    "varga-attila",
+    "Zoltan J. Acs"
+  ],
+  "publication_type": "article",
+  "journal": "Papers in Regional Science",
+  "year": 2000,
+  "volume": "79",
+  "issue": "4",
+  "pages": "435-443",
+  "doi": "10.1007/PL00013603",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1007/PL00013603",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Where does academic R&D actually leak into commercial innovation — at the metropolitan scale, the state scale, or both, and does it differ by sector? Anselin, Varga and Acs decompose the US university-to-innovation channel across five high-tech sectors (electronics, instruments, drugs, chemicals, machinery) at both MSA and county levels. The spillover is sharp and local for electronics and instruments — disappearing within a metropolitan area's commuting zone — but broader and state-wide for drugs and chemicals. One-size-fits-all regional innovation policy misses this sectoral geography.",
+  "summary_hu": "Hol szivárog át valójában az akadémiai K+F kereskedelmi innovációba — nagyvárosi szinten, tagállami szinten, vagy mindkettőn, és sektoronként eltér-e? Anselin, Varga és Acs öt high-tech ágazatra (elektronika, műszergyártás, gyógyszer, vegyipar, gépgyártás) bontja le az amerikai egyetem-innováció csatornát mind MSA-, mind megyei szinten. A spillover éles és lokális az elektronikára és műszergyártásra — egy nagyvárosi régió ingázási zónáján belül kihal —, de szélesebb és tagállam-szintű a gyógyszer- és vegyiparra. Az egységes regionális innovációs politika ezt a sektorális földrajzot elvéti.",
+  "data_used": "US Small Business Administration innovation citation database (1982), decomposed into five SIC-based high-tech sectors. Innovation counts assigned to both MSA and state level. University R&D from NSF surveys; private R&D from McGraw-Hill. Spatial econometric estimation of a knowledge-production function at two geographic scales, with sector-specific spatial-lag and distance-decay parameters.",
+  "data_used_hu": "Az amerikai Small Business Administration innovációs adatbázisa (1982), öt SIC-alapú high-tech ágazatra bontva. Innovációszám MSA- és tagállami szintre is hozzárendelve. Egyetemi K+F az NSF-felmérésekből; magán-K+F a McGraw-Hill-től. Tudástermelési függvény térbeli ökonometriai becslése két földrajzi skálán, ágazat-specifikus térbeli eltolás- és távolság-elhalási paraméterekkel.",
+  "policy_relevance": "Methodological input for NKFIH and the Kulturális és Innovációs Minisztérium when designing the next regional innovation strategy. The sectoral-geography finding cautions against treating innovation policy as scale-neutral: Hungarian electronics and instruments clusters (Győr, Székesfehérvár) need university capacity inside the commuting zone; pharma and chemistry (Debrecen, Szeged, Veszprém) can absorb spillover from county-level distance. For the Európai Bizottság Smart Specialisation team and Pro Régió this paper supplies the evidence that the appropriate policy radius depends on the sector targeted.",
+  "policy_relevance_hu": "Módszertani input az NKFIH és a Kulturális és Innovációs Minisztérium számára a következő regionális innovációs stratégia tervezéséhez. Az ágazat-földrajzi megállapítás óv attól, hogy az innovációs politikát skála-semlegesen kezeljék: a magyar elektronikai és műszergyártási klaszterek (Győr, Székesfehérvár) ingázási zónán belüli egyetemi kapacitást igényelnek; a gyógyszer- és vegyipar (Debrecen, Szeged, Veszprém) megyei szintű távolságból is fel tudja venni a spillovert. Az Európai Bizottság Smart Specialisation csapata és a Pro Régió számára a tanulmány azt az evidenciát adja, hogy a megfelelő politikai sugár az ágazattól függ.",
+  "topics": [
+    "innovation-digital",
+    "regional-urban",
+    "methods"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "sectoral innovation policy",
+    "regional innovation policy",
+    "spatial knowledge spillovers"
+  ],
+  "openalex_id": null
+}

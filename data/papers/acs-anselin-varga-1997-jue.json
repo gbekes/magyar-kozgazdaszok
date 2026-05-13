@@ -1,0 +1,51 @@
+{
+  "id": "acs-anselin-varga-1997-jue",
+  "title": "Local geographic spillovers between university research and high technology innovations",
+  "authors": [
+    "Zoltan J. Acs",
+    "Luc Anselin",
+    "varga-attila"
+  ],
+  "publication_type": "article",
+  "journal": "Journal of Urban Economics",
+  "year": 1997,
+  "volume": "42",
+  "issue": "3",
+  "pages": "422-448",
+  "doi": "10.1006/juec.1997.2032",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1006/juec.1997.2032",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Does academic research nearby actually translate into more high-tech innovation in a city, or is the link diffused across the whole national economy? Acs, Anselin and Varga match university R&D spending to count-level innovation output across US metropolitan areas (MSAs). Once they account for the spatial autocorrelation that earlier studies ignored, the local university-to-innovation channel is strong and concentrated: a 1% increase in academic R&D in an MSA raises the local high-tech innovation count by roughly the same amount. Distance kills the spillover within a few dozen kilometres.",
+  "summary_hu": "A közeli akadémiai kutatás valóban több high-tech innovációt eredményez egy városban, vagy a kapcsolat szétterül a nemzetgazdaságban? Acs, Anselin és Varga az egyetemi K+F-kiadásokat összepárosítja az innovációszámlálással amerikai nagyvárosi régiókban (MSA). Amint a korábbi kutatások által figyelmen kívül hagyott térbeli autokorrelációt figyelembe veszik, az egyetem-innováció helyi csatorna erős és koncentrált: az akadémiai K+F 1%-os emelkedése egy MSA-ban körülbelül ugyanennyivel emeli a helyi high-tech innovációk számát. A távolság néhány tucat kilométeren belül megöli a spillovert.",
+  "data_used": "US Small Business Administration innovation citation database (Edwards-Gordon, 1982 cross-section), aggregated to MSA level. University R&D from National Science Foundation surveys, private R&D from McGraw-Hill industry surveys. Cross-sectional spatial econometric regression of MSA innovation count on local university R&D, local private R&D, and spatially-lagged terms. Distance-decay parameters estimated by spatial weights matrix variants.",
+  "data_used_hu": "Az amerikai Small Business Administration innovációs adatbázisa (Edwards-Gordon, 1982-es keresztmetszet) MSA-szintre aggregálva. Egyetemi K+F a National Science Foundation felmérésekből, magán-K+F a McGraw-Hill iparági felmérésekből. Keresztmetszeti térbeli ökonometriai regresszió: MSA innovációszám a helyi egyetemi K+F, helyi magán-K+F és térbelileg eltolt változók függvényében. Távolság-elhalási paraméterek térbeli súlymátrix-változatokkal becsülve.",
+  "policy_relevance": "Foundational evidence for any Hungarian innovation policy that bets on geography. For NKFIH and the Kulturális és Innovációs Minisztérium, the implication is that university R&D money is not a substitute for private R&D money — it complements it within a single labour-market region, but the spillover dies out fast with distance. For regional agencies (Pro Régió, Észak-Magyarországi régió ügynökségek) the paper supports concentrating university capacity in places that already have absorptive private firms. The Európai Bizottság Smart Specialisation framework leans heavily on this and related Varga results.",
+  "policy_relevance_hu": "Alapvető evidencia minden magyar innovációs politika számára, amely a földrajzra épít. Az NKFIH és a Kulturális és Innovációs Minisztérium számára a tanulság: az egyetemi K+F-pénz nem helyettesíti a magán-K+F-pénzt — kiegészíti egy munkaerőpiaci régión belül, de a spillover gyorsan kihalad a távolsággal. A regionális ügynökségek (Pro Régió, észak-magyarországi régiós ügynökségek) számára a tanulmány alátámasztja, hogy az egyetemi kapacitást olyan helyeken kell koncentrálni, ahol már vannak abszorpcióképes magánvállalatok. Az Európai Bizottság Smart Specialisation kerete erősen erre és más Varga-eredményekre épít.",
+  "topics": [
+    "innovation-digital",
+    "regional-urban",
+    "firms-productivity"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "university R&D funding",
+    "regional innovation policy",
+    "spatial knowledge spillovers"
+  ],
+  "openalex_id": null
+}

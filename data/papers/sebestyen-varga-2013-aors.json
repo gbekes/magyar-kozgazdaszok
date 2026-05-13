@@ -1,0 +1,50 @@
+{
+  "id": "sebestyen-varga-2013-aors",
+  "title": "Research productivity and the quality of interregional knowledge networks",
+  "authors": [
+    "sebestyen-tamas",
+    "varga-attila"
+  ],
+  "publication_type": "article",
+  "journal": "The Annals of Regional Science",
+  "year": 2013,
+  "volume": "51",
+  "issue": "1",
+  "pages": "155-189",
+  "doi": "10.1007/s00168-012-0545-x",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1007/s00168-012-0545-x",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Why do some European regions get more scientific output per euro of R&D than others? Sebestyén and Varga show that what matters is not just how many cross-border research links a region has, but how good those links are. Using EU Framework Programme co-participation data for 189 NUTS-2 regions, they build a network-quality index combining partner centrality, partner research performance, and partner-network density. Regions plugged into high-quality external networks publish substantially more per researcher than regions with the same local R&D but weak partners. Quality of collaborators beats raw count.",
+  "summary_hu": "Miért hoz egyes európai régiókban több tudományos eredményt egy euró K+F, mint máshol? Sebestyén és Varga megmutatja, hogy nem a határon átnyúló kutatási kapcsolatok száma számít, hanem a minőségük. Az EU Keretprogram-együttműködéseket használva 189 NUTS-2 régióra hálózatminőségi indexet építenek a partnerek centralitásából, kutatási teljesítményéből és a partnerhálózat sűrűségéből. A jó minőségű külső hálózatra kapcsolt régiók kutatónként lényegesen több publikációt produkálnak, mint a hasonló hazai K+F-fel, de gyenge partnerekkel rendelkezők. A partner minősége fontosabb, mint a partnerek darabszáma.",
+  "data_used": "189 NUTS-2 European regions, 2000s. Inputs: regional R&D expenditure, researcher headcount, GDP. Network data built from EU Framework Programme (FP5, FP6) co-participation records. Network-quality index combines partner centrality, partner publication output, and ego-network density. Cross-sectional regression of regional publication output on local R&D, agglomeration controls, and the network-quality index.",
+  "data_used_hu": "189 NUTS-2 európai régió, 2000-es évek. Bemenetek: regionális K+F-kiadás, kutatólétszám, GDP. A hálózati adatok az EU Keretprogram (FP5, FP6) közös részvételi rekordjaiból épülnek. A hálózatminőségi index a partnerek centralitását, publikációs teljesítményét és az ego-hálózat sűrűségét kombinálja. Keresztmetszeti regresszió: regionális publikációs kibocsátás a hazai K+F, agglomerációs kontrollok és a hálózatminőségi index függvényében.",
+  "policy_relevance": "Direct input for NKFIH and the Kulturális és Innovációs Minisztérium when designing Horizon Europe partnership strategy. The implication for Hungary: throwing more public money at domestic R&D yields less than steering Hungarian universities into consortia with high-centrality, high-performance European partners. For the Európai Bizottság Smart Specialisation team, the paper supplies the evidence base for evaluating partner choice — not just participation count — in Framework Programme funding decisions. Pro Régió and the Észak-Magyarországi régió ügynökségek can use the partner-quality index to screen consortium invitations.",
+  "policy_relevance_hu": "Közvetlen input az NKFIH és a Kulturális és Innovációs Minisztérium számára a Horizon Europe partnerségi stratégia kialakításához. Magyar tanulság: több hazai K+F-pénz kevesebbet hoz, mint ha a magyar egyetemeket magas centralitású, magas teljesítményű európai partnerekkel működő konzorciumokba terelik. Az Európai Bizottság Smart Specialisation csapata számára a tanulmány a partnerválasztás — nem csak a részvételszám — értékelésének evidenciabázisát adja a Keretprogram-finanszírozási döntésekben. A Pro Régió és az észak-magyarországi régiós ügynökségek a partnerminőségi indexszel szűrhetik a konzorciumi meghívásokat.",
+  "topics": [
+    "innovation-digital",
+    "regional-urban",
+    "methods"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "EU"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "Framework Programme partnership policy",
+    "regional innovation policy",
+    "research network quality"
+  ],
+  "openalex_id": null
+}

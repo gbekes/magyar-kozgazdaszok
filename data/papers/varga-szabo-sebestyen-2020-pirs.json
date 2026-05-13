@@ -1,0 +1,52 @@
+{
+  "id": "varga-szabo-sebestyen-2020-pirs",
+  "title": "Economic impact modelling of smart specialization policy: Which industries should prioritization target?",
+  "authors": [
+    "varga-attila",
+    "Norbert Szabó",
+    "sebestyen-tamas"
+  ],
+  "publication_type": "article",
+  "journal": "Papers in Regional Science",
+  "year": 2020,
+  "volume": "99",
+  "issue": "5",
+  "pages": "1367-1388",
+  "doi": "10.1111/pirs.12529",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1111/pirs.12529",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Smart-specialisation programmes ask regions to pick a handful of priority industries — but which industries actually yield the largest regional payoff per euro spent? Varga, Szabó and Sebestyén use the GMR-Europe regional CGE model to score candidate priority sectors by their simulated GDP and employment impact, accounting for inter-industry spillovers, knowledge networks and trade linkages. The ranking is far from intuitive: sectors with the biggest direct R&D content do not always produce the biggest aggregate gains, because spillover and trade-linkage strength matter as much as own-sector productivity. The paper provides a defensible quantitative basis for industry prioritisation in S3 plans.",
+  "summary_hu": "Az Intelligens Szakosodási programok arra kérik a régiókat, hogy néhány prioritás-ágazatot válasszanak — de melyek azok az ágazatok, amelyek a legnagyobb regionális hozamot adják eurónként? Varga, Szabó és Sebestyén a GMR-Europe regionális CGE-modellel rangsorolja a jelölt prioritás-ágazatokat szimulált GDP- és foglalkoztatási hatás alapján, figyelembe véve az ágazatközi tovagyűrűzést, a tudáshálózatokat és a kereskedelmi kapcsolatokat. A rangsor egyáltalán nem intuitív: a legtöbb saját K+F-tartalmú ágazat nem mindig produkálja a legnagyobb aggregát nyereséget, mert a tovagyűrűzés és a kereskedelmi kapcsolatok ereje legalább annyit számít, mint a saját ágazati termelékenység. A tanulmány védhető kvantitatív alapot ad a S3-tervekben szereplő ágazat-prioritáláshoz.",
+  "data_used": "GMR-Europe regional CGE model calibrated to NUTS-2 European regional data, with industry-level inter-input-output, knowledge-network and trade-linkage modules. Industry rankings derived from counterfactual policy shocks targeting each candidate sector; outcome metrics are regional GDP and employment effects.",
+  "data_used_hu": "GMR-Europe regionális CGE-modell, NUTS-2 európai regionális adatokra kalibrálva, ágazat-szintű ágazatközi (input–output), tudáshálózati és kereskedelmi modulokkal. Az ágazati rangsor az egyes jelölt szektorokat célzó szakpolitikai sokk-szimulációkból származik; az eredménymutatók a regionális GDP- és foglalkoztatási hatások.",
+  "policy_relevance": "Directly relevant to the Kulturális és Innovációs Minisztérium, the NKFIH and the regional development agencies (Pro Régió, Észak-Magyarország Régió ügynökségek) when drafting Magyar Intelligens Szakosodási Stratégia priority lists. The framework provides a transparent way to compare candidate industries on simulated impact rather than on lobbying weight, and the result that spillover-rich rather than R&D-intensive sectors often dominate is operationally useful. The Európai Bizottság's ex-ante impact-assessment expectations for ESIF programming can be met using this methodology.",
+  "policy_relevance_hu": "Közvetlenül érdekes a Kulturális és Innovációs Minisztérium, az NKFIH és a regionális fejlesztési ügynökségek (Pro Régió, Észak-Magyarország régiók ügynökségei) számára a Magyar Intelligens Szakosodási Stratégia prioritáslistáinak megalkotásakor. A keret átlátható módon összehasonlíthatóvá teszi a jelölt ágazatokat szimulált hatás alapján — érdekérvényesítési súly helyett —, és az az eredmény, hogy gyakran a magas tovagyűrűzésű, nem a magas saját-K+F-tartalmú ágazatok dominálnak, közvetlenül hasznosítható. Az Európai Bizottság ESIF-programozási előzetes hatásvizsgálatainak elvárásai ezen módszertannal teljesíthetők.",
+  "topics": [
+    "innovation-digital",
+    "regional-urban",
+    "firms-productivity"
+  ],
+  "methods": [
+    "structural",
+    "theory"
+  ],
+  "countries_studied": [
+    "EU"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "smart specialisation",
+    "industry prioritisation",
+    "regional CGE modelling"
+  ],
+  "openalex_id": null
+}

@@ -1,0 +1,48 @@
+{
+  "id": "sebestyen-2017-ecmod",
+  "title": "Moving beyond the iceberg model: The role of trade relations in endogenizing transportation costs in computable general equilibrium models",
+  "authors": [
+    "sebestyen-tamas"
+  ],
+  "publication_type": "article",
+  "journal": "Economic Modelling",
+  "year": 2017,
+  "volume": "67",
+  "issue": "C",
+  "pages": "159-174",
+  "doi": "10.1016/j.econmod.2017.01.020",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1016/j.econmod.2017.01.020",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Standard general-equilibrium trade models use Samuelson's 'iceberg' assumption — a fixed fraction of goods melts away in transit, regardless of the trade relationship. Sebestyén replaces this with transport costs that depend on the volume and structure of bilateral trade ties, so trade itself shapes the cost of trading. Embedded in a multi-region CGE model, the endogenous-cost version delivers materially different predictions for trade-policy counterfactuals: in particular, the welfare gains from new free-trade agreements are larger when the agreement also strengthens the underlying trade relationship rather than just lowering tariffs.",
+  "summary_hu": "A szokványos általános egyensúlyi kereskedelmi modellek Samuelson „jéghegy”-feltevését használják: a szállított termékek rögzített hányada egyszerűen „elolvad” úton, függetlenül a kereskedelmi kapcsolattól. Sebestyén ezt olyan szállítási költségekkel helyettesíti, amelyek a kétoldalú kereskedelmi kapcsolat volumenétől és szerkezetétől függenek — vagyis maga a kereskedés alakítja a kereskedés költségét. Több régiós CGE-modellbe építve az endogén-költséges változat lényegesen más jóslatokat ad a kereskedelempolitikai forgatókönyvekre: az új szabadkereskedelmi megállapodások jóléti nyeresége nagyobb, ha a megállapodás a vámcsökkentésen túl a mögöttes kereskedelmi kapcsolatot is erősíti.",
+  "data_used": "Theoretical / quantitative paper. A multi-region computable general-equilibrium (CGE) model is calibrated to standard global-trade input-output benchmarks; the standard iceberg-cost specification is replaced by an endogenous transport-cost function dependent on bilateral trade volume and composition. Counterfactual experiments compare trade-policy outcomes under iceberg vs. endogenous-cost assumptions.",
+  "data_used_hu": "Elméleti / kvantitatív tanulmány. Több régiós CGE-modell, szokványos globális kereskedelmi input–output benchmarkokra kalibrálva; a jéghegy-feltevést olyan endogén szállításiköltség-függvény váltja fel, amely a kétoldalú kereskedelem volumenétől és összetételétől függ. Ellenpéldás kísérletek hasonlítják össze a kereskedelempolitikai kimeneteket a jéghegy- és az endogén-költségű változatokban.",
+  "policy_relevance": "Of interest for the Külgazdasági és Külügyminisztérium and MNB modellers analysing the welfare effects of new EU trade agreements (CETA, EU-Mercosur) or sanctions packages on Hungary. The result that endogenous trade-relationship strength matters as much as headline tariff rates argues for paying more attention to non-tariff complementary policies (logistics infrastructure, customs facilitation) in any cost-benefit analysis. Useful baseline for any Hungarian CGE modelling shop assessing trade-policy options.",
+  "policy_relevance_hu": "A Külgazdasági és Külügyminisztérium és az MNB modellezői számára érdekes, akik új EU-kereskedelmi megállapodások (CETA, EU–Mercosur) vagy szankciócsomagok jóléti hatását elemzik Magyarországra. Az eredmény — hogy az endogén kereskedelmi-kapcsolati erő annyit számít, mint a vámszintek — érv amellett, hogy a nem-vám típusú kiegészítő intézkedéseknek (logisztikai infrastruktúra, vámigazgatási egyszerűsítés) is súlyt adjunk a költség-haszon-elemzésekben. Hasznos kiindulópont bármely magyar CGE-modellezési műhelynek a kereskedelempolitikai opciók értékelésében.",
+  "topics": [
+    "trade-fdi",
+    "macroeconomics",
+    "methods"
+  ],
+  "methods": [
+    "structural",
+    "theory"
+  ],
+  "countries_studied": [],
+  "data_types": [
+    "macro-aggregate"
+  ],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "trade-policy modelling",
+    "CGE methodology",
+    "free-trade-agreement assessment"
+  ],
+  "openalex_id": null
+}

@@ -1,0 +1,51 @@
+{
+  "id": "acs-anselin-varga-2002-respol",
+  "title": "Patents and innovation counts as measures of regional production of new knowledge",
+  "authors": [
+    "Zoltan J. Acs",
+    "Luc Anselin",
+    "varga-attila"
+  ],
+  "publication_type": "article",
+  "journal": "Research Policy",
+  "year": 2002,
+  "volume": "31",
+  "issue": "7",
+  "pages": "1069-1085",
+  "doi": "10.1016/S0048-7333(01)00184-6",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1016/S0048-7333(01)00184-6",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Are patent counts a fair proxy for regional innovation output, or do they systematically miss what they should be measuring? Acs, Anselin and Varga put two regional measures head-to-head across 125 US metropolitan areas: USPTO patent counts and the Small Business Administration's count of commercialised innovations. The two series correlate strongly at the regional level (around 0.8) and respond to the same drivers — university R&D, private R&D, agglomeration. Patents are a defensible substitute for innovation counts when innovation data are unavailable, with one caveat: they understate small-firm and service-sector innovation.",
+  "summary_hu": "Tisztességes proxy-e a szabadalomszám a regionális innovációs kibocsátásra, vagy szisztematikusan kihagyja, amit mérnie kellene? Acs, Anselin és Varga két regionális mértéket állít egymás mellé 125 amerikai nagyvárosi régióra: az USPTO szabadalomszámát és a Small Business Administration kommercializált innovációinak számát. A két idősor regionális szinten erősen korrelál (kb. 0,8) és ugyanazokra a tényezőkre — egyetemi K+F, magán-K+F, agglomeráció — reagál. A szabadalom védhető helyettesítő, ha innovációs adat nincs, egy kikötéssel: alábecsüli a kisvállalati és szolgáltatási innovációt.",
+  "data_used": "125 US metropolitan statistical areas, 1982 cross-section. Innovation counts from US Small Business Administration's innovation citation database (Edwards-Gordon). USPTO patent counts assigned to MSA by inventor address. University R&D from NSF, private R&D from McGraw-Hill. Spatial econometric regressions with spatially-lagged regressors and a Moran-I diagnostic. Robustness across industry composition and university-presence subsamples.",
+  "data_used_hu": "125 amerikai nagyvárosi statisztikai régió (MSA), 1982-es keresztmetszet. Innovációszámlálás a Small Business Administration innovációs adatbázisából (Edwards-Gordon). USPTO szabadalomszám az feltaláló címe szerint MSA-hoz rendelve. Egyetemi K+F az NSF-től, magán-K+F a McGraw-Hill-től. Térbeli ökonometriai regressziók térbelileg eltolt magyarázókkal és Moran-I diagnosztikával. Robusztusság az iparági összetétel és az egyetemi jelenlét részmintáin.",
+  "policy_relevance": "The methodological backbone of European regional innovation measurement. For NKFIH and the Kulturális és Innovációs Minisztérium, the result that patents and innovation counts move together gives cover for using EPO/USPTO patent data — which are cheap and timely — instead of slow innovation surveys when allocating regional R&D money. The caveat matters for Hungary: small-firm and service-sector innovation are under-represented, so patent-only allocation would penalise Budapest's KKV ecosystem and the service-heavy Pest county. The Európai Bizottság Smart Specialisation team cites this paper as the standard reference on regional innovation measurement.",
+  "policy_relevance_hu": "Az európai regionális innovációmérés módszertani gerince. Az NKFIH és a Kulturális és Innovációs Minisztérium számára az az eredmény, hogy a szabadalom és az innovációszám együtt mozog, igazolja az EPO/USPTO szabadalomadatok használatát — amelyek olcsók és frissek — a lassú innovációs felmérések helyett a regionális K+F-források elosztásában. A kikötés magyarországi jelentőséggel bír: a kisvállalati és szolgáltatási innováció alulreprezentált, így a szabadalom-alapú allokáció hátrányba hozná a budapesti KKV-ökoszisztémát és a szolgáltatás-súlyos Pest megyét. Az Európai Bizottság Smart Specialisation csapata ezt a tanulmányt idézi standard hivatkozásként a regionális innovációmérésben.",
+  "topics": [
+    "innovation-digital",
+    "regional-urban",
+    "methods"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "patent measurement",
+    "innovation indicators",
+    "regional R&D evaluation"
+  ],
+  "openalex_id": null
+}

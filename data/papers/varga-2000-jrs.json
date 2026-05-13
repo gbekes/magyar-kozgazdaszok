@@ -1,0 +1,48 @@
+{
+  "id": "varga-2000-jrs",
+  "title": "Local academic knowledge transfers and the concentration of economic activity",
+  "authors": [
+    "varga-attila"
+  ],
+  "publication_type": "article",
+  "journal": "Journal of Regional Science",
+  "year": 2000,
+  "volume": "40",
+  "issue": "2",
+  "pages": "289-309",
+  "doi": "10.1111/0022-4146.00175",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1111/0022-4146.00175",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Does economic agglomeration around a university change how much of its research actually reaches local firms? Varga tests this on 125 US metropolitan areas, regressing the count of commercialised high-tech innovations on university R&D, private R&D, and interaction terms with measures of business-services density and high-tech employment concentration. The university-to-innovation channel is roughly twice as strong in heavily agglomerated MSAs as in thin ones. A university planted in a low-agglomeration city generates a fraction of the local spillover of the same university in a dense one — agglomeration is not a nice-to-have but a precondition.",
+  "summary_hu": "Megváltoztatja-e egy egyetem körüli gazdasági agglomeráció azt, hogy a kutatása mennyire ér el a helyi vállalatokhoz? Varga 125 amerikai nagyvárosi régión teszteli, a kommercializált high-tech innovációk számát az egyetemi K+F, magán-K+F és üzleti szolgáltatás-sűrűség, high-tech foglalkoztatás-koncentráció interakcióira regresszálva. Az egyetem-innováció csatorna körülbelül kétszer olyan erős erősen agglomerált MSA-kban, mint a vékonyakban. Egy alacsony agglomerációjú városba ültetett egyetem ugyanannak az egyetemnek a sűrű városi spilloverjének töredékét adja — az agglomeráció nem kellemes hozadék, hanem előfeltétel.",
+  "data_used": "125 US metropolitan statistical areas, 1982 cross-section. Innovation counts from US Small Business Administration database. University R&D from NSF surveys, private R&D from McGraw-Hill. Agglomeration measured by business-services employment share and high-tech employment concentration. Spatial econometric specification with interaction terms between university R&D and agglomeration; spatially-lagged regressors handle cross-MSA spillover.",
+  "data_used_hu": "125 amerikai nagyvárosi statisztikai régió, 1982-es keresztmetszet. Innovációszámlálás a Small Business Administration adatbázisából. Egyetemi K+F az NSF-felmérésekből, magán-K+F a McGraw-Hill-től. Az agglomeráció mérése az üzleti szolgáltatások foglalkoztatási részarányával és a high-tech foglalkoztatás koncentrációjával történik. Térbeli ökonometriai specifikáció az egyetemi K+F és agglomeráció közti interakciós tagokkal; térbelileg eltolt magyarázók kezelik az MSA-k közti spillovert.",
+  "policy_relevance": "Sharp implication for Hungarian university-policy debates. For the Kulturális és Innovációs Minisztérium evaluating which regional universities to expand, the result says that pouring research money into a low-agglomeration host town produces small local spillover — the same euro spent in Budapest, Debrecen, Szeged, Pécs or Győr produces multiples. For Pro Régió and the Észak-Magyarországi régió ügynökségek that lobby for new university capacity, the paper is a warning: capacity without ambient business density does not deliver. NKFIH and the Európai Bizottság Smart Specialisation team use this argument when ranking regional innovation strategies.",
+  "policy_relevance_hu": "Éles tanulság a magyar egyetempolitikai vitákhoz. A Kulturális és Innovációs Minisztérium számára, amely a kibővítendő regionális egyetemeket választja, az eredmény szerint a kutatási forrást alacsony agglomerációjú helyszínre önteni kis helyi spillovert hoz — ugyanaz az euró Budapesten, Debrecenben, Szegeden, Pécsen vagy Győrben többszöröst hoz. A Pro Régió és az észak-magyarországi régiós ügynökségek számára, akik új egyetemi kapacitásért lobbiznak, a tanulmány figyelmeztetés: a kapacitás üzleti sűrűség nélkül nem teljesít. Az NKFIH és az Európai Bizottság Smart Specialisation csapata ezt az érvet használja a regionális innovációs stratégiák rangsorolásakor.",
+  "topics": [
+    "innovation-digital",
+    "regional-urban"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "university R&D funding",
+    "agglomeration policy",
+    "regional innovation policy"
+  ],
+  "openalex_id": null
+}

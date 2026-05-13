@@ -1,0 +1,51 @@
+{
+  "id": "sebestyen-varga-2019-regstud",
+  "title": "Knowledge networks in regional development: an agent-based model and its application",
+  "authors": [
+    "sebestyen-tamas",
+    "varga-attila"
+  ],
+  "publication_type": "article",
+  "journal": "Regional Studies",
+  "year": 2019,
+  "volume": "53",
+  "issue": "9",
+  "pages": "1333-1343",
+  "doi": "10.1080/00343404.2018.1500692",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1080/00343404.2018.1500692",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Why does the same R&D spending generate large returns in some regions and barely any in others? Sebestyén and Varga build an agent-based model in which firms and research organisations connect into knowledge networks, and the resulting spillovers depend on the connection structure rather than on totals. Calibrated to European regional data, the model shows that the productivity of new R&D depends sharply on how well the region's actors are linked to high-performing partners — connection quality dominates spending quantity. The framework gives regional-policy designers a way to evaluate ex-ante whether a region's innovation environment can absorb additional public R&D euros.",
+  "summary_hu": "Miért hoz ugyanaz a K+F-ráfordítás egyik régióban nagy megtérülést, másikban szinte semmit? Sebestyén és Varga ágensalapú modellt épít, amelyben a vállalatok és kutatóhelyek tudáshálózatokba kapcsolódnak, és a hálózati szerkezet — nem az összesített ráfordítás — határozza meg a tudáscsordogálás hatékonyságát. Európai regionális adatokra kalibrálva a modell éles eredményt ad: az új K+F termelékenysége elsősorban attól függ, milyen jól kapcsolódnak a régió szereplői magas teljesítményű partnerekhez — a kapcsolatok minősége fontosabb a ráfordítás mennyiségénél. A keret ex ante eszközt ad a regionális politika tervezőinek: felmérhető, képes-e egy régió innovációs környezete elnyelni további közforrás-K+F-eurókat.",
+  "data_used": "Agent-based simulation calibrated to European regional R&D and patent data. Regions are populated with heterogeneous firms and research organisations that form a stylised knowledge network; spillover intensity is a function of network topology (centrality, density, connection to high-performers). Policy counterfactuals vary R&D injection size and target region.",
+  "data_used_hu": "Európai regionális K+F- és szabadalmi adatokra kalibrált ágensalapú szimuláció. A régiók heterogén vállalatokból és kutatóhelyekből állnak, amelyek tudáshálózatba szerveződnek; a tudáscsordogálás intenzitása a hálózati topológia függvénye (centralitás, sűrűség, kapcsolódás a magas teljesítményű szereplőkhöz). A szakpolitikai forgatókönyvek a K+F-injekció méretét és a célzott régiót variálják.",
+  "policy_relevance": "Directly relevant for the Kulturális és Innovációs Minisztérium and the NKFIH (National Research, Development and Innovation Office) in designing place-based R&D programmes. The result that regional R&D productivity depends on connection quality, not spending totals, argues against uniform per-capita R&D allocation and in favour of programmes that first build network access (collaborative grants, mobility schemes) before pumping in funding. Useful for evaluating the Magyarországi Vidékfejlesztési Program and EU-funded Smart Specialisation Strategies for less-connected Hungarian regions (Észak-Magyarország, Dél-Alföld).",
+  "policy_relevance_hu": "Közvetlenül releváns a Kulturális és Innovációs Minisztérium és az NKFIH számára a területi alapú K+F-programok tervezéséhez. Az eredmény — hogy a regionális K+F-termelékenységet a kapcsolatok minősége, nem a ráfordítás-szint határozza meg — érv az egységes, fejenkénti K+F-elosztással szemben, és a hálózati hozzáférést építő programok (közös pályázatok, mobilitási sémák) mellett, mielőtt a forrásokat beleömlesztenénk. Hasznos a Vidékfejlesztési Program és az EU-finanszírozású Intelligens Szakosodási Stratégiák értékeléséhez a kevésbé kapcsolódó hazai régiókban (Észak-Magyarország, Dél-Alföld).",
+  "topics": [
+    "innovation-digital",
+    "regional-urban",
+    "methods"
+  ],
+  "methods": [
+    "theory",
+    "structural"
+  ],
+  "countries_studied": [
+    "EU"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "regional R&D policy",
+    "smart specialisation",
+    "innovation network building"
+  ],
+  "openalex_id": null
+}

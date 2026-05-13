@@ -1,0 +1,50 @@
+{
+  "id": "varga-fischer-2003-aors",
+  "title": "Spatial knowledge spillovers and university research: Evidence from Austria",
+  "authors": [
+    "varga-attila",
+    "Manfred M. Fischer"
+  ],
+  "publication_type": "article",
+  "journal": "The Annals of Regional Science",
+  "year": 2003,
+  "volume": "37",
+  "issue": "2",
+  "pages": "303-322",
+  "doi": "10.1007/s001680200115",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1007/s001680200115",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": null,
+  "summary_en": "Does the local university-to-industry knowledge channel that holds in the US also hold in a small, less metropolitan European economy? Varga and Fischer test it on Austrian Wirtschaftsbezirke (economic districts), the smallest available regional unit. Patenting by private firms responds to local university R&D, but the effect is concentrated in just three districts — Vienna, Graz, Linz — where business density is high enough to absorb academic output. Outside those urban cores, the same university R&D produces essentially no measurable local industry effect. The American pattern transfers, but only above an agglomeration threshold.",
+  "summary_hu": "Az amerikai egyetem-ipar helyi tudáscsatorna működik-e egy kis, kevésbé nagyvárosias európai gazdaságban is? Varga és Fischer osztrák gazdasági kerületeken (Wirtschaftsbezirk) teszteli, a legkisebb elérhető regionális egységen. A magánvállalati szabadalmaztatás reagál a helyi egyetemi K+F-re, de a hatás mindössze három kerületre — Bécs, Graz, Linz — koncentrálódik, ahol az üzleti sűrűség elég magas az akadémiai kibocsátás abszorpciójához. E városi magokon kívül ugyanaz az egyetemi K+F gyakorlatilag nem mérhető helyi ipari hatást ad. Az amerikai mintázat átültethető, de csak egy agglomerációs küszöb felett.",
+  "data_used": "Austrian Wirtschaftsbezirke (~99 economic districts), late 1990s. Patent counts from EPO (European Patent Office) assigned to inventor address. University R&D headcount and expenditure from Statistik Austria. Private R&D imputed from R&D-employment surveys. Spatial econometric Cobb-Douglas knowledge-production function with university and private R&D as inputs and EPO patents as output. Spatial weights matrix at district level.",
+  "data_used_hu": "Osztrák gazdasági kerületek (Wirtschaftsbezirk, ~99 egység), 1990-es évek vége. Szabadalomszám az EPO-tól (Európai Szabadalmi Hivatal) az feltaláló címe szerint hozzárendelve. Egyetemi K+F-létszám és -kiadás a Statistik Austria-tól. Magán-K+F a K+F-foglalkoztatási felmérésekből imputálva. Térbeli ökonometriai Cobb-Douglas tudástermelési függvény az egyetemi és magán-K+F bemenetekkel és EPO-szabadalmakkal kimenetként. Térbeli súlymátrix kerületi szinten.",
+  "policy_relevance": "Most directly relevant Varga paper for Hungary because Austria is structurally comparable: small open economy, three or four metropolitan cores, university capacity spread across them. For the Kulturális és Innovációs Minisztérium and NKFIH, the Austrian three-city result maps onto a Hungarian Budapest-Debrecen-Szeged-Pécs-Győr pattern: only the top urban cores deliver measurable university-to-industry spillover. For Pro Régió and the regional development agencies, the lesson is to stop expecting a university by itself to lift a thinly-industrialised district. The Európai Bizottság Smart Specialisation team uses Austria as a reference case for Central European member states.",
+  "policy_relevance_hu": "A Magyarország számára legközvetlenebbül releváns Varga-tanulmány, mert Ausztria strukturálisan hasonló: kis nyitott gazdaság, három-négy nagyvárosi mag, közöttük elosztott egyetemi kapacitás. A Kulturális és Innovációs Minisztérium és az NKFIH számára az osztrák háromvárosi eredmény magyar Budapest-Debrecen-Szeged-Pécs-Győr mintázatra fordul: csak a felső városi magokban mérhető az egyetem-ipar spillover. A Pro Régió és a regionális fejlesztési ügynökségek számára a tanulság: ne várjuk el egy egyetemtől, hogy önmagában felemeljen egy gyengén iparosodott kerületet. Az Európai Bizottság Smart Specialisation csapata Ausztriát referenciaesetként használja közép-európai tagállamokra.",
+  "topics": [
+    "innovation-digital",
+    "regional-urban",
+    "firms-productivity"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "AT"
+  ],
+  "data_types": [
+    "macro-aggregate"
+  ],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "policy_instruments": [
+    "university R&D funding",
+    "regional innovation policy",
+    "spatial knowledge spillovers"
+  ],
+  "openalex_id": null
+}
