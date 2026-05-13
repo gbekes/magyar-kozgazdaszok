@@ -1,0 +1,53 @@
+{
+  "id": "french-lindner-et-al-2025-restud",
+  "title": "Labor Supply and the Pension-Contribution Link",
+  "authors": [
+    "Eric French",
+    "lindner-attila",
+    "Cormac O'Dea",
+    "Tom Zawisza"
+  ],
+  "publication_type": "article",
+  "journal": "Review of Economic Studies",
+  "year": 2025,
+  "volume": null,
+  "issue": null,
+  "pages": null,
+  "doi": "10.3386/w30184",
+  "working_paper_series": "NBER WP 30184",
+  "url_published": "https://www.nber.org/papers/w30184",
+  "url_pdf": "https://www.nber.org/system/files/working_papers/w30184/w30184.pdf",
+  "url_replication": null,
+  "abstract": "We estimate the impact of public pension systems on labor supply far from the normal retirement age by exploiting Poland's switch from a Defined Benefit (DB) to a Notional Defined Contribution (NDC) scheme for men born after 1948. Using the universe of Polish administrative records, we find that the change increased the link between earnings and future pension benefits among older workers, leading to a sharp rise in employment. We estimate an employment elasticity with respect to the return to work of 0.44 for ages 51-54. A lifecycle model implies the reform increases employment among those in their 30s but decreases it at older ages, reducing overall labor supply across the lifecycle by 2 months.",
+  "summary_en": "Does linking pension benefits more tightly to lifetime contributions get people to work more? French, Lindner, O'Dea and Zawisza exploit Poland's 1999 switch from a defined-benefit to a notional-defined-contribution (NDC) pension scheme for men born after 1948 — a sharp cohort discontinuity. Using the universe of Polish administrative records, they find that workers facing the new contribution-benefit link have a 0.44 employment elasticity with respect to the return to work at ages 51-54: employment jumps. But a lifecycle model shows total labour supply across the lifecycle barely changes — workers shift labour from their 30s to their 50s. A first-rate test of pension-incentive design using the cleanest natural experiment available in the region.",
+  "summary_hu": "A pontosabb járulék-nyugdíj kapcsolat megnöveli-e az embereket munkára? French, Lindner, O'Dea és Zawisza a lengyel 1999-es nyugdíjreformot használja ki, amely az 1948 után született férfiaknál meghatározott szolgáltatású rendszerről „elvi járulékfedezeti\" (NDC) rendszerre váltott — éles kohorszbeli diszkontinuitás. A teljes lengyel adminisztratív adatállományt használva azt találják, hogy az új járulék-nyugdíj kapcsolattal szembesülő dolgozóknál a foglalkoztatás 51–54 éves korban erősen reagál a munkából származó hozamra (rugalmasság: 0,44). De egy életciklus-modell azt mutatja, hogy a teljes munkakínálat alig változik — a dolgozók a 30-as éveikből áthelyezik a munkát az 50-es éveikbe. A régióban elérhető legtisztább természetes kísérlet a nyugdíj-ösztönzési tervezés vizsgálatára.",
+  "data_used": "Universe of Polish administrative employment-and-pension records (ZUS), 1990s–2010s, covering male workers born around the 1948 reform cohort cutoff. Linked individual earnings, pension contributions, and retirement decisions.",
+  "data_used_hu": "A lengyel adminisztratív foglalkoztatási és nyugdíjbiztosítási adatállomány (ZUS) teljes adatbázisa, 1990-es évek–2010-es évek, az 1948-as reform-kohorszhoz közeli férfi munkavállalókat lefedve. Egyéni keresetek, járulékok és nyugdíjazási döntések összekapcsolva.",
+  "policy_relevance": "Highly relevant for the Hungarian pension debate and for the Ministry of National Economy's review of Tb járulékok and the Magyar nyugdíjrendszer. The Polish NDC reform is a regional natural experiment with direct parallels to Hungarian options. Implication: a clearer contribution-benefit link raises employment in late working life but partly cannibalises employment at younger ages — net lifecycle labour supply moves are small. For pension-reform design (e.g., Bíró-Lindner-Prinz line on payroll-tax incentives), this is the benchmark estimate of NDC's behavioural response.",
+  "policy_relevance_hu": "Erősen releváns a magyar nyugdíj-vitához és a Nemzetgazdasági Minisztérium Tb-járulékokra és a magyar nyugdíjrendszerre vonatkozó felülvizsgálatához. A lengyel NDC-reform regionális természetes kísérlet, közvetlen párhuzamokkal a magyar opciókhoz. Implikáció: a tisztább járulék-nyugdíj kapcsolat növeli a foglalkoztatást a késői munkás években, de részben csökkenti a fiatalabb korban — a teljes életciklus-szintű munkakínálat-változás kicsi. A nyugdíj-reform tervezéséhez (pl. a Bíró–Lindner–Prinz vonal a bérterhekről) ez az NDC viselkedési válaszának benchmark becslése.",
+  "topics": [
+    "labor-markets",
+    "inequality-welfare",
+    "public-finance"
+  ],
+  "methods": [
+    "diff-in-diff",
+    "structural"
+  ],
+  "countries_studied": [
+    "PL"
+  ],
+  "data_types": [
+    "admin-individual"
+  ],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "openalex_id": null,
+  "policy_instruments": [
+    "notional defined contribution pension",
+    "elvi járulékfedezeti nyugdíjrendszer",
+    "Tb járulék"
+  ]
+}

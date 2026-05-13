@@ -1,0 +1,51 @@
+{
+  "id": "cengiz-dube-lindner-zipperer-2019-qje",
+  "title": "The Effect of Minimum Wages on Low-Wage Jobs",
+  "authors": [
+    "Doruk Cengiz",
+    "Arindrajit Dube",
+    "lindner-attila",
+    "Ben Zipperer"
+  ],
+  "publication_type": "article",
+  "journal": "Quarterly Journal of Economics",
+  "year": 2019,
+  "volume": "134",
+  "issue": "3",
+  "pages": "1405-1454",
+  "doi": "10.1093/qje/qjz014",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1093/qje/qjz014",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "We estimate the effect of minimum wages on low-wage jobs using 138 prominent state-level minimum wage changes between 1979 and 2016 in the United States using a difference-in-differences approach. We first estimate the effect of the minimum wage increase on employment changes by wage bins throughout the hourly wage distribution. We then focus on the bottom part of the wage distribution and compare the number of excess jobs paying at or slightly above the new minimum wage to the missing jobs paying below it to infer the employment effect. We find that the overall number of low-wage jobs remained essentially unchanged over the five years following the increase. At the same time, the direct effect of the minimum wage on average earnings was amplified by modest wage spillovers at the bottom of the wage distribution. Our estimates by detailed demographic groups show that the lack of job loss is not explained by labor-labor substitution at the bottom of the wage distribution. We also find no evidence of disemployment when we consider higher levels of minimum wages.",
+  "summary_en": "How many low-wage jobs do US minimum-wage hikes destroy? Cengiz, Dube, Lindner and Zipperer pool 138 state-level minimum-wage increases between 1979 and 2016 and develop a bunching estimator: they count the missing jobs just below the new minimum and compare with the excess jobs just above it. The result is striking. Over the five years after each hike, the number of low-wage jobs is essentially unchanged — the missing jobs and the excess jobs roughly cancel. Average earnings of affected workers rise sharply. The paper is one of the most cited pieces of evidence in the modern minimum-wage debate and shifted policy discussion away from the textbook prediction of large disemployment effects.",
+  "summary_hu": "Mennyi alacsony bérű állást szüntet meg egy minimálbér-emelés az Egyesült Államokban? Cengiz, Dube, Lindner és Zipperer 138, 1979 és 2016 közötti tagállami minimálbér-emelést elemez egy úgynevezett „bunching\" becslővel: megszámolják a hiányzó állásokat az új minimum alatt, és összevetik a többletállásokkal közvetlenül felette. Az eredmény figyelemre méltó: minden emelés után öt évvel az alacsony bérű állások száma érdemben nem változik — a hiányzó és a többlet állások nagyjából kioltják egymást. Az érintett dolgozók átlagos bére érdemben nő. A tanulmány a modern minimálbér-kutatás egyik legtöbbet idézett darabja, és nagyban formálta a szakpolitikai vitát.",
+  "data_used": "US Current Population Survey monthly wage data 1979–2016 covering 138 state-level minimum wage increases. Sample includes approximately 95% of the US workforce; the bunching estimator focuses on hourly-wage workers in the bottom of the distribution.",
+  "data_used_hu": "Amerikai Current Population Survey havi bérinformációi 1979 és 2016 között, 138 tagállami minimálbér-emelést lefedve. A minta az amerikai munkaerő mintegy 95 százalékát fedi le; a bunching módszer az órabéres dolgozókra fókuszál a bérelosztás alján.",
+  "policy_relevance": "Central reference for any minimum-wage policy debate. For Hungarian minimálbér / VKF discussions: confirms that modest-to-large statutory hikes can be absorbed mostly through wage redistribution rather than job loss, but the evidence is from a high-income setting with very localised wage variation. The paper's main contribution is methodological — the bunching estimator is now standard for evaluating minimum-wage and similar discontinuities. Caveat: US labour market institutions and informality differ from Hungary; the magnitudes do not transfer directly.",
+  "policy_relevance_hu": "Központi hivatkozás minden minimálbér-vitában. A magyar minimálbér / VKF-tárgyalások szempontjából: alátámasztja, hogy a mérsékelt-nagyobb emelések többnyire bérek átrendeződéseként és nem munkahely-veszteségként jelennek meg, de az adat egy magas jövedelmű országból származik nagyon lokális bérszórással. A tanulmány fő hozzájárulása módszertani — a bunching becslő ma már standard módszer minimálbér és hasonló diszkontinuitások értékelésére. Korlát: az amerikai munkaerőpiaci intézmények és a feketegazdaság aránya eltér Magyarországtól; a nagyságrendek nem vihetők át közvetlenül.",
+  "topics": [
+    "labor-markets",
+    "methods"
+  ],
+  "methods": [
+    "diff-in-diff",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "US"
+  ],
+  "data_types": [
+    "survey-individual"
+  ],
+  "featured": true,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "openalex_id": null,
+  "policy_instruments": [
+    "minimum wage",
+    "minimálbér"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "dube-lindner-2024-handbook",
+  "title": "Minimum Wages in the 21st Century",
+  "authors": [
+    "Arindrajit Dube",
+    "lindner-attila"
+  ],
+  "publication_type": "chapter",
+  "journal": "Handbook of Labor Economics, Volume 5",
+  "year": 2024,
+  "volume": "5",
+  "issue": null,
+  "pages": "261-383",
+  "doi": "10.1016/bs.heslab.2024.11.004",
+  "working_paper_series": "NBER WP 32878",
+  "url_published": "https://doi.org/10.1016/bs.heslab.2024.11.004",
+  "url_pdf": "https://www.nber.org/system/files/working_papers/w32878/w32878.pdf",
+  "url_replication": null,
+  "abstract": "This chapter surveys the literature on the impact of minimum wages on low-wage labor markets. We describe and critically review empirical methods in the new minimum-wage literature — particularly those leveraging quasi-experimental variation — and provide a quantitative overview of the recent evidence on employment and wage effects. We also explore emerging research on the impact of the minimum wage on other margins including amenities, other inputs, firm entry and exit, output prices, demand, profits, and productivity. We present a comprehensive picture of how minimum wage policies affect firms, workers, and labor markets, and review evidence on the policy's impact on wage inequality and income distribution. Finally, we discuss how these effects can vary depending on economic context and a country's development level.",
+  "summary_en": "Twenty-five years after the New Jersey-Pennsylvania minimum-wage studies relaunched the field, what does the modern evidence say? Dube and Lindner write the definitive Handbook of Labor Economics chapter on minimum wages. They synthesise the quasi-experimental literature, present a quantitative meta-summary of employment and wage effects, and extend the analysis to less-studied margins: amenities, capital substitution, firm entry/exit, prices, profits, productivity. Two central conclusions: (1) employment effects of moderate minimum wages are small and often statistically indistinguishable from zero, even at relatively high Kaitz indices; (2) the policy's redistributive impact is meaningful but bounded by labour-market segmentation. A defining state-of-the-art reference for the field for the next decade.",
+  "summary_hu": "Huszonöt évvel azután, hogy a New Jersey-Pennsylvania-i minimálbér-tanulmányok újraindították a területet, mit mond a modern bizonyíték? Dube és Lindner megírják a Handbook of Labor Economics meghatározó minimálbér-fejezetét. Szintetizálják a kvázi-kísérleti irodalmat, kvantitatív meta-összefoglalót adnak a foglalkoztatási és bérhatásokról, és kiterjesztik az elemzést a kevésbé vizsgált területekre: munkahelyi körülmények, tőkehelyettesítés, vállalati be- és kilépés, árak, profit, termelékenység. Két fő következtetés: (1) a mérsékelt minimálbérek foglalkoztatási hatása kicsi, és gyakran nem különböztethető meg statisztikailag a nullától, viszonylag magas Kaitz-indexnél is; (2) a politika újraelosztási hatása érdemi, de a munkaerőpiac szegmentációja korlátozza. Meghatározó referencia a területnek az elkövetkező évtizedre.",
+  "data_used": "Synthesis of published quasi-experimental studies on US, UK, German, Hungarian, French, Brazilian and other minimum-wage events. Methodological review draws on bunching estimators, synthetic control, and DiD designs.",
+  "data_used_hu": "Az amerikai, brit, német, magyar, francia, brazil és más minimálbér-események publikált kvázi-kísérleti tanulmányainak szintézise. A módszertani áttekintés bunching becslőkre, szintetikus kontrollra és diff-in-diff tervekre épít.",
+  "policy_relevance": "Single most useful reference for any Hungarian policymaker engaging with the minimum-wage debate (VKF, NGM, MNB). Covers the full quasi-experimental evidence base and discusses development-level heterogeneity (relevant for Hungary's middle-income labour market). Implication for VKF: textbook predictions of large disemployment are not supported by modern evidence; the policy is best understood as a partial-equilibrium price floor whose welfare effects depend on monopsony, pass-through to prices, and firm reallocation. Should be standard reading for every analyst in the Ministry of National Economy.",
+  "policy_relevance_hu": "Magyar döntéshozók számára a minimálbér-vitában (VKF, NGM, MNB) használható egyik leghasznosabb hivatkozás. Lefedi a teljes kvázi-kísérleti bizonyítékbázist, és tárgyalja a fejlettségi szint szerinti heterogenitást (releváns Magyarország közepes jövedelmű munkaerőpiacához). Implikáció a VKF-nek: a tankönyvi nagy foglalkoztatás-veszteséget a modern bizonyíték nem támasztja alá; a politikát részleges egyensúlyi árpadlóként érdemes érteni, amelynek jóléti hatása a monopsoniumtól, az árátadástól és a vállalati átrendeződéstől függ. A Nemzetgazdasági Minisztérium minden elemzőjének standard olvasmány.",
+  "topics": [
+    "labor-markets"
+  ],
+  "methods": [
+    "descriptive-survey",
+    "diff-in-diff"
+  ],
+  "countries_studied": [
+    "US",
+    "GB",
+    "DE",
+    "HU"
+  ],
+  "data_types": [
+    "survey-individual",
+    "admin-individual"
+  ],
+  "featured": true,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "openalex_id": null,
+  "policy_instruments": [
+    "minimum wage",
+    "minimálbér",
+    "Kaitz index"
+  ]
+}

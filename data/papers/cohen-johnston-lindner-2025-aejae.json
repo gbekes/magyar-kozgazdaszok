@@ -1,0 +1,52 @@
+{
+  "id": "cohen-johnston-lindner-2025-aejae",
+  "title": "Skill Depreciation during Unemployment: Evidence from Panel Data",
+  "authors": [
+    "Jonathan Cohen",
+    "Andrew C. Johnston",
+    "lindner-attila"
+  ],
+  "publication_type": "article",
+  "journal": "American Economic Journal: Applied Economics",
+  "year": 2025,
+  "volume": "17",
+  "issue": "3",
+  "pages": "208-235",
+  "doi": "10.1257/app.20230195",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1257/app.20230195",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "Both the reemployment hazard and reemployment earnings steadily decline with unemployment duration. We use a panel of skill measures linked to administrative data to determine whether this is because workers' skills deteriorate during unemployment. Among German workers, indicators of depression and loneliness rise substantially during unemployment. However, we find no decline in a wide range of cognitive and noncognitive skills, including mathematical, verbal, and analytical skills, while workers remain unemployed. We find the same pattern in a panel of American workers.",
+  "summary_en": "Why do people who have been unemployed longer have a harder time getting hired back, and at lower wages? A classic theory says their skills depreciate during the spell. Cohen, Johnston and Lindner test this directly using panel data on cognitive and non-cognitive skills for German and American workers, linked to administrative employment records. They find no skill decline during unemployment — mathematical, verbal and analytical skills are stable — but mental-health indicators like depression and loneliness rise sharply. The result reframes the policy problem: long-term unemployment is not primarily about lost human capital, but about employer stigma and worker well-being.",
+  "summary_hu": "Miért nehezebb a hosszabb ideje munkanélkülieknek visszakerülniük a munkaerőpiacra, és miért alacsonyabb a fizetésük? A klasszikus elmélet szerint a készségeik leértékelődnek a munkanélküliség alatt. Cohen, Johnston és Lindner ezt közvetlenül teszteli német és amerikai dolgozók kognitív és nem-kognitív készségeinek panel-adatain, adminisztratív foglalkoztatási rekordokhoz kapcsolva. Nem találnak készségvesztést a munkanélküliség alatt — a matematikai, verbális és analitikai készségek stabilak —, de a mentálhigiénés mutatók, mint a depresszió és magány, élesen romlanak. Az eredmény átformálja a szakpolitikai kérdést: a hosszú távú munkanélküliség nem elsősorban az emberi tőke elvesztéséről, hanem a munkáltatói stigmáról és a dolgozói jóllétről szól.",
+  "data_used": "German Socio-Economic Panel (SOEP) linked to BA administrative unemployment records; National Longitudinal Survey of Youth (NLSY) for the US comparison. Skill measures include cognitive tests, Big Five personality, and depression/loneliness scales.",
+  "data_used_hu": "Német Szociál-Gazdasági Panel (SOEP) a BA adminisztratív munkanélküli regiszterhez kapcsolva; amerikai összehasonlításhoz a National Longitudinal Survey of Youth (NLSY). A készségmérők kognitív tesztek, Big Five személyiségvonások, valamint depresszió/magány skálák.",
+  "policy_relevance": "Direct relevance for Hungarian unemployment policy (NFSZ, Ministry of National Economy) and for EU-level UI design. Implication: long-term unemployed do not need skills retraining as urgently as previously assumed — mental-health support and active labour-market policies that combat employer stigma may be more cost-effective. For NFSZ caseworkers, the result suggests that signalling instruments (e.g., wage subsidies, structured job-search support) deserve more weight than classroom retraining. Caveat: evidence from Germany and the US; in lower-skilled or more digitally-changing labour markets, depreciation could be larger.",
+  "policy_relevance_hu": "Közvetlen relevancia a magyar munkanélküli-szakpolitika (NFSZ, Nemzetgazdasági Minisztérium) és az EU-szintű UI-tervezés számára. Az implikáció: a hosszú távú munkanélkülieknek nem annyira készség-átképzésre van szükségük, mint korábban gondolták — a mentálhigiénés támogatás és a munkáltatói stigma ellen ható aktív munkaerőpiaci politikák költséghatékonyabbak lehetnek. Az NFSZ ügyintézői számára az eredmény azt sugallja, hogy a jelzőeszközök (pl. bértámogatás, strukturált álláskeresési segítség) nagyobb súlyt érdemelnek a tantermi átképzéssel szemben. Korlát: német és amerikai bizonyíték; alacsonyabb képzettségű vagy digitálisan gyorsabban változó munkaerőpiacokon a leértékelődés nagyobb lehet.",
+  "topics": [
+    "labor-markets",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "panel-data"
+  ],
+  "countries_studied": [
+    "DE",
+    "US"
+  ],
+  "data_types": [
+    "survey-individual",
+    "admin-individual"
+  ],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "openalex_id": null,
+  "policy_instruments": [
+    "active labour-market programmes",
+    "aktív munkaerőpiaci eszközök",
+    "long-term unemployment retraining"
+  ]
+}

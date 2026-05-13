@@ -629,8 +629,8 @@
         "HU"
       ],
       "paper_count": 27,
-      "policy_count": 1,
-      "press_count": 2
+      "policy_count": 2,
+      "press_count": 3
     },
     {
       "id": "biro-peter",
@@ -817,8 +817,8 @@
         "HU"
       ],
       "paper_count": 9,
-      "policy_count": 0,
-      "press_count": 0
+      "policy_count": 1,
+      "press_count": 1
     },
     {
       "id": "csaji-gergely",
@@ -3158,7 +3158,7 @@
       ],
       "paper_count": 14,
       "policy_count": 0,
-      "press_count": 0
+      "press_count": 1
     },
     {
       "id": "lindner-attila",
@@ -3235,9 +3235,9 @@
         "HU"
       ],
       "last_reviewed_at": "2026-05-13",
-      "paper_count": 9,
-      "policy_count": 0,
-      "press_count": 7
+      "paper_count": 14,
+      "policy_count": 3,
+      "press_count": 11
     },
     {
       "id": "loranth-gyongyi",
@@ -3588,7 +3588,7 @@
         "HU"
       ],
       "paper_count": 15,
-      "policy_count": 3,
+      "policy_count": 4,
       "press_count": 8
     },
     {
@@ -3831,8 +3831,8 @@
         "GB"
       ],
       "paper_count": 9,
-      "policy_count": 0,
-      "press_count": 1
+      "policy_count": 1,
+      "press_count": 2
     },
     {
       "id": "reizer-balazs",
@@ -3876,7 +3876,7 @@
         "HU"
       ],
       "paper_count": 9,
-      "policy_count": 0,
+      "policy_count": 1,
       "press_count": 0
     },
     {
@@ -17508,6 +17508,57 @@
       "openalex_id": "W3123490317"
     },
     {
+      "id": "cengiz-dube-lindner-zentler-2022-jole",
+      "title": "Seeing Beyond the Trees: Using Machine Learning to Estimate the Impact of Minimum Wages on Labor Market Outcomes",
+      "authors": [
+        "Doruk Cengiz",
+        "Arindrajit Dube",
+        "lindner-attila",
+        "David Zentler-Munro"
+      ],
+      "publication_type": "article",
+      "journal": "Journal of Labor Economics",
+      "year": 2022,
+      "volume": "40",
+      "issue": "S1",
+      "pages": "S203-S247",
+      "doi": "10.1086/718497",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1086/718497",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "We assess the effect of the minimum wage on labor-market outcomes using a novel machine-learning approach. We show that ML methods recover the bunching effect of minimum wages on the wage distribution and yield estimates of the employment effect more precise than standard methods, especially when the comparison group is uncertain. We illustrate the approach by re-examining a wide set of US state-level minimum-wage changes and confirm small disemployment effects for low-wage workers, even using sub-state geographies.",
+      "summary_en": "Are minimum-wage employment effects sensitive to the choice of comparison group? Cengiz, Dube, Lindner and Zentler-Munro use machine learning to construct synthetic control groups for US state-level minimum-wage events. The ML-based estimator delivers more precise estimates than conventional approaches and confirms the central finding of the modern minimum-wage literature: small disemployment effects for low-wage workers, even when the analysis is done at finer geographic levels. A methodological contribution that strengthens the credibility of the small-effects conclusion.",
+      "summary_hu": "Érzékenyek-e a minimálbér foglalkoztatási hatásai a kontrollcsoport választására? Cengiz, Dube, Lindner és Zentler-Munro gépi tanulást használnak amerikai tagállami minimálbér-emelések szintetikus kontrollcsoportjainak építésére. A gépi tanulásos becslő pontosabb becsléseket ad, mint a hagyományos módszerek, és megerősíti a modern minimálbér-irodalom központi megállapítását: kis foglalkoztatási hatás az alacsony bérű dolgozóknál, akár finomabb földrajzi szinten is. Módszertani hozzájárulás, amely erősíti a kis hatások következtetésének hitelességét.",
+      "data_used": "US Current Population Survey 1979–2019; state-level minimum-wage change events; sub-state geography (CBSA / county) data merged in.",
+      "data_used_hu": "Amerikai Current Population Survey 1979–2019; tagállami minimálbér-emelési események; sub-állami földrajzi adatok (CBSA / county) hozzákapcsolva.",
+      "policy_relevance": "Useful for any evaluation team building counterfactuals for minimum-wage or similar wage-floor reforms — including Hungarian KSH/MNB labour analysts. The ML-based synthetic control method is general-purpose and applicable to other policy events. Caveat: methodological, not directly a Hungarian policy lesson.",
+      "policy_relevance_hu": "Hasznos minden olyan értékelő csapatnak, amely minimálbér- vagy hasonló bérpadló-reformokhoz épít kontroll-forgatókönyveket — beleértve a magyar KSH/MNB munkaerőpiaci elemzőket. A gépi tanulásos szintetikus kontroll módszer általános célú, és más szakpolitikai eseményekre is alkalmazható. Korlát: módszertani, nem közvetlen magyar szakpolitikai tanulság.",
+      "topics": [
+        "labor-markets",
+        "methods"
+      ],
+      "methods": [
+        "machine-learning",
+        "diff-in-diff"
+      ],
+      "countries_studied": [
+        "US"
+      ],
+      "data_types": [
+        "survey-individual"
+      ],
+      "featured": false,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13",
+      "review_status": "ai-drafted",
+      "openalex_id": null,
+      "policy_instruments": [
+        "minimum wage",
+        "machine-learning policy evaluation"
+      ]
+    },
+    {
       "id": "cengiz-dube-lindner-zipperer-2019-qje",
       "title": "The Effect of Minimum Wages on Low-Wage Jobs",
       "authors": [
@@ -18201,6 +18252,58 @@
       "last_reviewed_at": "2026-04-27",
       "review_status": "ai-drafted",
       "openalex_id": "W4226513743"
+    },
+    {
+      "id": "cohen-johnston-lindner-2025-aejae",
+      "title": "Skill Depreciation during Unemployment: Evidence from Panel Data",
+      "authors": [
+        "Jonathan Cohen",
+        "Andrew C. Johnston",
+        "lindner-attila"
+      ],
+      "publication_type": "article",
+      "journal": "American Economic Journal: Applied Economics",
+      "year": 2025,
+      "volume": "17",
+      "issue": "3",
+      "pages": "208-235",
+      "doi": "10.1257/app.20230195",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1257/app.20230195",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "Both the reemployment hazard and reemployment earnings steadily decline with unemployment duration. We use a panel of skill measures linked to administrative data to determine whether this is because workers' skills deteriorate during unemployment. Among German workers, indicators of depression and loneliness rise substantially during unemployment. However, we find no decline in a wide range of cognitive and noncognitive skills, including mathematical, verbal, and analytical skills, while workers remain unemployed. We find the same pattern in a panel of American workers.",
+      "summary_en": "Why do people who have been unemployed longer have a harder time getting hired back, and at lower wages? A classic theory says their skills depreciate during the spell. Cohen, Johnston and Lindner test this directly using panel data on cognitive and non-cognitive skills for German and American workers, linked to administrative employment records. They find no skill decline during unemployment — mathematical, verbal and analytical skills are stable — but mental-health indicators like depression and loneliness rise sharply. The result reframes the policy problem: long-term unemployment is not primarily about lost human capital, but about employer stigma and worker well-being.",
+      "summary_hu": "Miért nehezebb a hosszabb ideje munkanélkülieknek visszakerülniük a munkaerőpiacra, és miért alacsonyabb a fizetésük? A klasszikus elmélet szerint a készségeik leértékelődnek a munkanélküliség alatt. Cohen, Johnston és Lindner ezt közvetlenül teszteli német és amerikai dolgozók kognitív és nem-kognitív készségeinek panel-adatain, adminisztratív foglalkoztatási rekordokhoz kapcsolva. Nem találnak készségvesztést a munkanélküliség alatt — a matematikai, verbális és analitikai készségek stabilak —, de a mentálhigiénés mutatók, mint a depresszió és magány, élesen romlanak. Az eredmény átformálja a szakpolitikai kérdést: a hosszú távú munkanélküliség nem elsősorban az emberi tőke elvesztéséről, hanem a munkáltatói stigmáról és a dolgozói jóllétről szól.",
+      "data_used": "German Socio-Economic Panel (SOEP) linked to BA administrative unemployment records; National Longitudinal Survey of Youth (NLSY) for the US comparison. Skill measures include cognitive tests, Big Five personality, and depression/loneliness scales.",
+      "data_used_hu": "Német Szociál-Gazdasági Panel (SOEP) a BA adminisztratív munkanélküli regiszterhez kapcsolva; amerikai összehasonlításhoz a National Longitudinal Survey of Youth (NLSY). A készségmérők kognitív tesztek, Big Five személyiségvonások, valamint depresszió/magány skálák.",
+      "policy_relevance": "Direct relevance for Hungarian unemployment policy (NFSZ, Ministry of National Economy) and for EU-level UI design. Implication: long-term unemployed do not need skills retraining as urgently as previously assumed — mental-health support and active labour-market policies that combat employer stigma may be more cost-effective. For NFSZ caseworkers, the result suggests that signalling instruments (e.g., wage subsidies, structured job-search support) deserve more weight than classroom retraining. Caveat: evidence from Germany and the US; in lower-skilled or more digitally-changing labour markets, depreciation could be larger.",
+      "policy_relevance_hu": "Közvetlen relevancia a magyar munkanélküli-szakpolitika (NFSZ, Nemzetgazdasági Minisztérium) és az EU-szintű UI-tervezés számára. Az implikáció: a hosszú távú munkanélkülieknek nem annyira készség-átképzésre van szükségük, mint korábban gondolták — a mentálhigiénés támogatás és a munkáltatói stigma ellen ható aktív munkaerőpiaci politikák költséghatékonyabbak lehetnek. Az NFSZ ügyintézői számára az eredmény azt sugallja, hogy a jelzőeszközök (pl. bértámogatás, strukturált álláskeresési segítség) nagyobb súlyt érdemelnek a tantermi átképzéssel szemben. Korlát: német és amerikai bizonyíték; alacsonyabb képzettségű vagy digitálisan gyorsabban változó munkaerőpiacokon a leértékelődés nagyobb lehet.",
+      "topics": [
+        "labor-markets",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "panel-data"
+      ],
+      "countries_studied": [
+        "DE",
+        "US"
+      ],
+      "data_types": [
+        "survey-individual",
+        "admin-individual"
+      ],
+      "featured": false,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13",
+      "review_status": "ai-drafted",
+      "openalex_id": null,
+      "policy_instruments": [
+        "active labour-market programmes",
+        "aktív munkaerőpiaci eszközök",
+        "long-term unemployment retraining"
+      ]
     },
     {
       "id": "commander-kollo-2008-eot",
@@ -22637,6 +22740,59 @@
       ]
     },
     {
+      "id": "dube-lindner-2024-handbook",
+      "title": "Minimum Wages in the 21st Century",
+      "authors": [
+        "Arindrajit Dube",
+        "lindner-attila"
+      ],
+      "publication_type": "chapter",
+      "journal": "Handbook of Labor Economics, Volume 5",
+      "year": 2024,
+      "volume": "5",
+      "issue": null,
+      "pages": "261-383",
+      "doi": "10.1016/bs.heslab.2024.11.004",
+      "working_paper_series": "NBER WP 32878",
+      "url_published": "https://doi.org/10.1016/bs.heslab.2024.11.004",
+      "url_pdf": "https://www.nber.org/system/files/working_papers/w32878/w32878.pdf",
+      "url_replication": null,
+      "abstract": "This chapter surveys the literature on the impact of minimum wages on low-wage labor markets. We describe and critically review empirical methods in the new minimum-wage literature — particularly those leveraging quasi-experimental variation — and provide a quantitative overview of the recent evidence on employment and wage effects. We also explore emerging research on the impact of the minimum wage on other margins including amenities, other inputs, firm entry and exit, output prices, demand, profits, and productivity. We present a comprehensive picture of how minimum wage policies affect firms, workers, and labor markets, and review evidence on the policy's impact on wage inequality and income distribution. Finally, we discuss how these effects can vary depending on economic context and a country's development level.",
+      "summary_en": "Twenty-five years after the New Jersey-Pennsylvania minimum-wage studies relaunched the field, what does the modern evidence say? Dube and Lindner write the definitive Handbook of Labor Economics chapter on minimum wages. They synthesise the quasi-experimental literature, present a quantitative meta-summary of employment and wage effects, and extend the analysis to less-studied margins: amenities, capital substitution, firm entry/exit, prices, profits, productivity. Two central conclusions: (1) employment effects of moderate minimum wages are small and often statistically indistinguishable from zero, even at relatively high Kaitz indices; (2) the policy's redistributive impact is meaningful but bounded by labour-market segmentation. A defining state-of-the-art reference for the field for the next decade.",
+      "summary_hu": "Huszonöt évvel azután, hogy a New Jersey-Pennsylvania-i minimálbér-tanulmányok újraindították a területet, mit mond a modern bizonyíték? Dube és Lindner megírják a Handbook of Labor Economics meghatározó minimálbér-fejezetét. Szintetizálják a kvázi-kísérleti irodalmat, kvantitatív meta-összefoglalót adnak a foglalkoztatási és bérhatásokról, és kiterjesztik az elemzést a kevésbé vizsgált területekre: munkahelyi körülmények, tőkehelyettesítés, vállalati be- és kilépés, árak, profit, termelékenység. Két fő következtetés: (1) a mérsékelt minimálbérek foglalkoztatási hatása kicsi, és gyakran nem különböztethető meg statisztikailag a nullától, viszonylag magas Kaitz-indexnél is; (2) a politika újraelosztási hatása érdemi, de a munkaerőpiac szegmentációja korlátozza. Meghatározó referencia a területnek az elkövetkező évtizedre.",
+      "data_used": "Synthesis of published quasi-experimental studies on US, UK, German, Hungarian, French, Brazilian and other minimum-wage events. Methodological review draws on bunching estimators, synthetic control, and DiD designs.",
+      "data_used_hu": "Az amerikai, brit, német, magyar, francia, brazil és más minimálbér-események publikált kvázi-kísérleti tanulmányainak szintézise. A módszertani áttekintés bunching becslőkre, szintetikus kontrollra és diff-in-diff tervekre épít.",
+      "policy_relevance": "Single most useful reference for any Hungarian policymaker engaging with the minimum-wage debate (VKF, NGM, MNB). Covers the full quasi-experimental evidence base and discusses development-level heterogeneity (relevant for Hungary's middle-income labour market). Implication for VKF: textbook predictions of large disemployment are not supported by modern evidence; the policy is best understood as a partial-equilibrium price floor whose welfare effects depend on monopsony, pass-through to prices, and firm reallocation. Should be standard reading for every analyst in the Ministry of National Economy.",
+      "policy_relevance_hu": "Magyar döntéshozók számára a minimálbér-vitában (VKF, NGM, MNB) használható egyik leghasznosabb hivatkozás. Lefedi a teljes kvázi-kísérleti bizonyítékbázist, és tárgyalja a fejlettségi szint szerinti heterogenitást (releváns Magyarország közepes jövedelmű munkaerőpiacához). Implikáció a VKF-nek: a tankönyvi nagy foglalkoztatás-veszteséget a modern bizonyíték nem támasztja alá; a politikát részleges egyensúlyi árpadlóként érdemes érteni, amelynek jóléti hatása a monopsoniumtól, az árátadástól és a vállalati átrendeződéstől függ. A Nemzetgazdasági Minisztérium minden elemzőjének standard olvasmány.",
+      "topics": [
+        "labor-markets"
+      ],
+      "methods": [
+        "descriptive-survey",
+        "diff-in-diff"
+      ],
+      "countries_studied": [
+        "US",
+        "GB",
+        "DE",
+        "HU"
+      ],
+      "data_types": [
+        "survey-individual",
+        "admin-individual"
+      ],
+      "featured": true,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13",
+      "review_status": "ai-drafted",
+      "openalex_id": null,
+      "policy_instruments": [
+        "minimum wage",
+        "minimálbér",
+        "Kaitz index"
+      ]
+    },
+    {
       "id": "ducruet-juhasz-et-al-2024-jie",
       "title": "All aboard: The effects of port development",
       "authors": [
@@ -26179,6 +26335,59 @@
       ]
     },
     {
+      "id": "french-lindner-et-al-2025-restud",
+      "title": "Labor Supply and the Pension-Contribution Link",
+      "authors": [
+        "Eric French",
+        "lindner-attila",
+        "Cormac O'Dea",
+        "Tom Zawisza"
+      ],
+      "publication_type": "article",
+      "journal": "Review of Economic Studies",
+      "year": 2025,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": "10.3386/w30184",
+      "working_paper_series": "NBER WP 30184",
+      "url_published": "https://www.nber.org/papers/w30184",
+      "url_pdf": "https://www.nber.org/system/files/working_papers/w30184/w30184.pdf",
+      "url_replication": null,
+      "abstract": "We estimate the impact of public pension systems on labor supply far from the normal retirement age by exploiting Poland's switch from a Defined Benefit (DB) to a Notional Defined Contribution (NDC) scheme for men born after 1948. Using the universe of Polish administrative records, we find that the change increased the link between earnings and future pension benefits among older workers, leading to a sharp rise in employment. We estimate an employment elasticity with respect to the return to work of 0.44 for ages 51-54. A lifecycle model implies the reform increases employment among those in their 30s but decreases it at older ages, reducing overall labor supply across the lifecycle by 2 months.",
+      "summary_en": "Does linking pension benefits more tightly to lifetime contributions get people to work more? French, Lindner, O'Dea and Zawisza exploit Poland's 1999 switch from a defined-benefit to a notional-defined-contribution (NDC) pension scheme for men born after 1948 — a sharp cohort discontinuity. Using the universe of Polish administrative records, they find that workers facing the new contribution-benefit link have a 0.44 employment elasticity with respect to the return to work at ages 51-54: employment jumps. But a lifecycle model shows total labour supply across the lifecycle barely changes — workers shift labour from their 30s to their 50s. A first-rate test of pension-incentive design using the cleanest natural experiment available in the region.",
+      "summary_hu": "A pontosabb járulék-nyugdíj kapcsolat megnöveli-e az embereket munkára? French, Lindner, O'Dea és Zawisza a lengyel 1999-es nyugdíjreformot használja ki, amely az 1948 után született férfiaknál meghatározott szolgáltatású rendszerről „elvi járulékfedezeti\" (NDC) rendszerre váltott — éles kohorszbeli diszkontinuitás. A teljes lengyel adminisztratív adatállományt használva azt találják, hogy az új járulék-nyugdíj kapcsolattal szembesülő dolgozóknál a foglalkoztatás 51–54 éves korban erősen reagál a munkából származó hozamra (rugalmasság: 0,44). De egy életciklus-modell azt mutatja, hogy a teljes munkakínálat alig változik — a dolgozók a 30-as éveikből áthelyezik a munkát az 50-es éveikbe. A régióban elérhető legtisztább természetes kísérlet a nyugdíj-ösztönzési tervezés vizsgálatára.",
+      "data_used": "Universe of Polish administrative employment-and-pension records (ZUS), 1990s–2010s, covering male workers born around the 1948 reform cohort cutoff. Linked individual earnings, pension contributions, and retirement decisions.",
+      "data_used_hu": "A lengyel adminisztratív foglalkoztatási és nyugdíjbiztosítási adatállomány (ZUS) teljes adatbázisa, 1990-es évek–2010-es évek, az 1948-as reform-kohorszhoz közeli férfi munkavállalókat lefedve. Egyéni keresetek, járulékok és nyugdíjazási döntések összekapcsolva.",
+      "policy_relevance": "Highly relevant for the Hungarian pension debate and for the Ministry of National Economy's review of Tb járulékok and the Magyar nyugdíjrendszer. The Polish NDC reform is a regional natural experiment with direct parallels to Hungarian options. Implication: a clearer contribution-benefit link raises employment in late working life but partly cannibalises employment at younger ages — net lifecycle labour supply moves are small. For pension-reform design (e.g., Bíró-Lindner-Prinz line on payroll-tax incentives), this is the benchmark estimate of NDC's behavioural response.",
+      "policy_relevance_hu": "Erősen releváns a magyar nyugdíj-vitához és a Nemzetgazdasági Minisztérium Tb-járulékokra és a magyar nyugdíjrendszerre vonatkozó felülvizsgálatához. A lengyel NDC-reform regionális természetes kísérlet, közvetlen párhuzamokkal a magyar opciókhoz. Implikáció: a tisztább járulék-nyugdíj kapcsolat növeli a foglalkoztatást a késői munkás években, de részben csökkenti a fiatalabb korban — a teljes életciklus-szintű munkakínálat-változás kicsi. A nyugdíj-reform tervezéséhez (pl. a Bíró–Lindner–Prinz vonal a bérterhekről) ez az NDC viselkedési válaszának benchmark becslése.",
+      "topics": [
+        "labor-markets",
+        "inequality-welfare",
+        "public-finance"
+      ],
+      "methods": [
+        "diff-in-diff",
+        "structural"
+      ],
+      "countries_studied": [
+        "PL"
+      ],
+      "data_types": [
+        "admin-individual"
+      ],
+      "featured": false,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13",
+      "review_status": "ai-drafted",
+      "openalex_id": null,
+      "policy_instruments": [
+        "notional defined contribution pension",
+        "elvi járulékfedezeti nyugdíjrendszer",
+        "Tb járulék"
+      ]
+    },
+    {
       "id": "friebel-manchin-et-al-2024-jie",
       "title": "International migration and illegal costs: Evidence from Africa-to-Europe smuggling routes",
       "authors": [
@@ -27473,6 +27682,62 @@
       "last_reviewed_at": "2026-04-30",
       "review_status": "ai-drafted",
       "openalex_id": "W4415393240"
+    },
+    {
+      "id": "giupponi-joyce-lindner-et-al-2024-jole",
+      "title": "The Employment and Distributional Impacts of Nationwide Minimum Wage Changes",
+      "authors": [
+        "Giulia Giupponi",
+        "Robert Joyce",
+        "lindner-attila",
+        "Tom Waters",
+        "Thomas Wernham",
+        "Xiaowei Xu"
+      ],
+      "publication_type": "article",
+      "journal": "Journal of Labor Economics",
+      "year": 2024,
+      "volume": "42",
+      "issue": "S1",
+      "pages": "S293-S333",
+      "doi": "10.1086/728471",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1086/728471",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": "We examine the employment and distributional impacts of nationwide minimum-wage changes in the UK using rich administrative data. We find no detectable adverse employment effects, but find that the minimum wage had large effects on the wage distribution — including spillovers up to the 25th percentile. The minimum wage has lifted the wages of low-paid workers substantially since 1999, but has done less to reduce household income inequality because affected workers are not concentrated in poor households.",
+      "summary_en": "How much has 25 years of UK National Minimum Wage (NMW) and National Living Wage (NLW) policy actually done for low-paid workers and inequality? Giupponi, Joyce, Lindner and colleagues use UK administrative wage data to trace the impact since the NMW was introduced in 1999. Employment effects are not detectable. Wage effects are large and spill upward to the 25th percentile of the wage distribution. But the impact on household-level inequality is more modest: low-paid workers are not concentrated in low-income households, so the minimum wage is a blunt redistributive tool. A clean evaluation of one of Europe's most studied minimum-wage regimes.",
+      "summary_hu": "Mit hozott a brit Nemzeti Minimálbér (NMW) és Nemzeti Megélhetési Bér (NLW) 25 éve az alacsony bérűeknek és az egyenlőtlenségnek? Giupponi, Joyce, Lindner és szerzőtársaik brit adminisztratív béradatokkal követik a hatást a NMW 1999-es bevezetése óta. Foglalkoztatási hatás nem mutatható ki. A bérre gyakorolt hatás nagy, és felfelé átgyűrűzik a bérelosztás 25. percentiliséig. Háztartási szintű egyenlőtlenségre azonban szerényebb a hatás: az alacsony bérűek nem koncentrálódnak alacsony jövedelmű háztartásokba, így a minimálbér tompa újraelosztási eszköz. Európa egyik legtöbbet vizsgált minimálbér-rendszerének tiszta értékelése.",
+      "data_used": "UK Annual Survey of Hours and Earnings (ASHE) — 1% sample of UK employees from PAYE — 1997–2019; Family Resources Survey for household-income linkage.",
+      "data_used_hu": "Brit Éves Munkaóra- és Bérfelvétel (ASHE) — a brit foglalkoztatottak 1%-os PAYE-mintája — 1997–2019; háztartási jövedelmi összekapcsolás a Family Resources Surveyjel.",
+      "policy_relevance": "Central UK evidence base, but also directly relevant for VKF and for the European Commission's minimum-wage directive monitoring. Two main lessons: (1) ambitious minimum-wage targets (UK's NLW reaches ~2/3 of median) can be implemented without measurable disemployment in a high-employment economy; (2) the minimum wage is not a strong household-poverty tool. For Hungarian policy, the second point is sobering: pursuing inequality reduction may require targeted transfers (e.g., family benefits, in-work tax credits) alongside the minimum wage.",
+      "policy_relevance_hu": "Központi brit bizonyítékbázis, de közvetlenül releváns a VKF és az Európai Bizottság minimálbér-irányelvének monitorozása szempontjából is. Két fő tanulság: (1) az ambiciózus minimálbér-célok (a brit NLW eléri a medián ~2/3-át) érdemi foglalkoztatás-veszteség nélkül megvalósíthatók egy magas foglalkoztatású gazdaságban; (2) a minimálbér nem erős háztartási szegénység-csökkentő eszköz. A magyar szakpolitikának a második pont józanító: az egyenlőtlenség csökkentéséhez célzott transzferek (pl. családi pótlékok, munkavégzéshez kötött adójóváírások) is kellenek a minimálbér mellé.",
+      "topics": [
+        "labor-markets",
+        "inequality-welfare"
+      ],
+      "methods": [
+        "diff-in-diff",
+        "panel-data"
+      ],
+      "countries_studied": [
+        "GB"
+      ],
+      "data_types": [
+        "admin-individual",
+        "survey-individual"
+      ],
+      "featured": false,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13",
+      "review_status": "ai-drafted",
+      "openalex_id": null,
+      "policy_instruments": [
+        "National Minimum Wage",
+        "National Living Wage",
+        "minimálbér",
+        "in-work tax credit"
+      ]
     },
     {
       "id": "glaeser-ujhelyi-2010-jpube",
@@ -47910,6 +48175,48 @@
       "review_status": "ai-drafted"
     },
     {
+      "id": "biro-branyiczki-lindner-et-al-2022-ifs-wp",
+      "title": "Firm heterogeneity and the impact of payroll taxes",
+      "title_hu": "Vállalati heterogenitás és a bérterhek hatása",
+      "authors": [
+        "biro-aniko",
+        "branyiczki-reka",
+        "lindner-attila",
+        "Lili Márk",
+        "prinz-daniel"
+      ],
+      "outlet_kind": "working_paper",
+      "outlet": "IFS Working Paper W22/49",
+      "outlet_issue": "W22/49",
+      "institution": "Institute for Fiscal Studies",
+      "year": 2022,
+      "language": "en",
+      "url": "https://ifs.org.uk/publications/firm-heterogeneity-and-impact-payroll-taxes",
+      "doi": null,
+      "summary_en": "What happens when payroll taxes for older Hungarian workers are cut sharply? Bíró, Branyiczki, Lindner, Márk and Prinz use Hungarian administrative employer-employee data to study a large age-targeted payroll-tax cut and find heterogeneous effects across firms. Low-productivity, low-wage firms expand employment, hiring from unemployment. High-productivity firms barely change employment but raise wages instead. The aggregate pass-through is small: out of every 1 forint of tax cut, only about 22 fillér reach workers as higher wages, while 78 fillér stay with firms.",
+      "summary_hu": "Mi történik, ha az idősebb magyar munkavállalókra vonatkozó bérterhet jelentősen csökkentik? Bíró, Branyiczki, Lindner, Márk és Prinz magyar adminisztratív munkáltató–munkavállaló adatokkal vizsgálnak egy nagy, korhoz kötött bérteher-csökkentést, és heterogén hatást találnak a vállalatok között. Az alacsony termelékenységű, alacsony bérű cégek foglalkoztatást bővítenek, és a munkanélküliek közül vesznek fel embereket. A magas termelékenységű cégek alig változtatnak a foglalkoztatáson, de béremelésbe forgatják az adómegtakarítást. Az aggregált továbbgyűrűzés kicsi: egy forint adócsökkentésből csak mintegy 22 fillér jut a dolgozókhoz béremelésként, 78 fillér a cégeknél marad.",
+      "policy_relevance": "Direct evidence for the Hungarian Ministry of National Economy on age-targeted payroll-tax subsidies. Two findings matter for policy: (1) targeted payroll-tax cuts do raise employment among older workers, but mostly at the bottom of the productivity distribution; (2) much of the cost benefits firms, not workers — so the pure wage-redistribution rationale is weak. Useful for evaluating the Munkahelyvédelmi Akcióterv (Job Protection Action Plan) and similar age-targeted subsidies. NGM should weigh the lower fiscal pass-through against the targeted employment gains for older Hungarians.",
+      "policy_relevance_hu": "Közvetlen bizonyíték a Nemzetgazdasági Minisztériumnak az idősebb dolgozókat célzó bérterhe-csökkentésekről. Két megállapítás fontos a szakpolitika szempontjából: (1) a célzott bérterhe-csökkentések valóban növelik az idősebb munkavállalók foglalkoztatását, de főleg a termelékenységi eloszlás alsó részén; (2) a költség nagyobb része a cégeknél marad, nem a dolgozóknál — így a tiszta bérújraelosztási indok gyenge. Hasznos a Munkahelyvédelmi Akcióterv és a hasonló korcélú támogatások értékelésére. Az NGM-nek a csekélyebb fiskális továbbgyűrűzést a célzott idősebb foglalkoztatási nyereséggel szemben kell mérlegelnie.",
+      "topics": [
+        "labor-markets",
+        "public-finance",
+        "firms-productivity"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "policy_instruments": [
+        "payroll tax cut",
+        "bérteher-csökkentés",
+        "Munkahelyvédelmi Akcióterv",
+        "age-targeted employment subsidies"
+      ],
+      "linked_paper_id": null,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13",
+      "review_status": "ai-drafted"
+    },
+    {
       "id": "biro-kertesi-hajdu-2025-mt-life-expectancy",
       "title": "A várható élettartam jövedelmi egyenlőtlenségei Magyarországon 1992–1993 és 2022–2023 között",
       "title_hu": null,
@@ -48825,6 +49132,85 @@
       "linked_paper_id": null,
       "added_at": "2026-04-25",
       "last_reviewed_at": "2026-05-09",
+      "review_status": "ai-drafted"
+    },
+    {
+      "id": "lindner-2020-ec-sme-mw-report",
+      "title": "Effects of Statutory Minimum Wages on Small and Medium-Sized Enterprises",
+      "title_hu": "A törvényi minimálbér hatása a kis- és középvállalkozásokra",
+      "authors": [
+        "lindner-attila"
+      ],
+      "outlet_kind": "report",
+      "outlet": "Report for the European Commission",
+      "outlet_issue": null,
+      "institution": "European Commission",
+      "year": 2020,
+      "language": "en",
+      "url": "https://sites.google.com/site/attilalindner/",
+      "doi": null,
+      "summary_en": "Commissioned by the European Commission as part of the evidence base for the EU Adequate Minimum Wage Directive, this report reviews how statutory minimum wages affect small and medium-sized enterprises across EU member states. It synthesises the modern quasi-experimental evidence on minimum-wage effects on SME employment, profits, prices and exit, and considers whether and how SME impacts differ from those at larger firms. The report informed the Commission's impact assessment for the directive.",
+      "summary_hu": "Az Európai Bizottság megbízásából készült, az EU Megfelelő Minimálbér Irányelvének bizonyítékbázisához kapcsolódó jelentés áttekinti, hogyan hatnak a törvényi minimálbérek a kis- és középvállalkozásokra az EU tagállamaiban. Szintetizálja a modern kvázi-kísérleti bizonyítékokat a minimálbér KKV-foglalkoztatásra, profitra, árakra és kilépésre gyakorolt hatásairól, és megvizsgálja, hogy a KKV-hatás miben tér el a nagyvállalatoknál mértől. A jelentés tájékoztatta a Bizottság hatásvizsgálatát.",
+      "policy_relevance": "Direct policy document for the EU Adequate Minimum Wage Directive (Directive 2022/2041). For Hungary's transposition of the directive and for VKF negotiations, the report's findings on SME-specific channels (price pass-through, productivity-enhancing reallocation, modest disemployment) are the analytical bridge between academic minimum-wage research and the directive's national implementation. KKV-érdekképviselet (e.g., IPOSZ, VOSZ) may find the synthesis useful for their position on minimum-wage thresholds.",
+      "policy_relevance_hu": "Közvetlen szakpolitikai dokumentum az EU Megfelelő Minimálbér Irányelvéhez (2022/2041). A magyar átültetéshez és a VKF-tárgyalásokhoz a jelentés KKV-specifikus csatornákra vonatkozó megállapításai (árátadás, termelékenység-növelő átrendeződés, mérsékelt foglalkoztatás-veszteség) az akadémiai minimálbér-kutatás és az irányelv nemzeti megvalósítása közötti analitikai híd. A KKV-érdekképviselet (IPOSZ, VOSZ) hasznosíthatja a szintézist a minimálbér-küszöbökre vonatkozó álláspontjuk megalapozásához.",
+      "topics": [
+        "labor-markets",
+        "firms-productivity"
+      ],
+      "countries_studied": [
+        "EU"
+      ],
+      "policy_instruments": [
+        "minimum wage",
+        "EU Adequate Minimum Wage Directive",
+        "KKV-támogatás",
+        "minimálbér"
+      ],
+      "linked_paper_id": "harasztosi-lindner-2019-aer",
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13",
+      "review_status": "ai-drafted"
+    },
+    {
+      "id": "lindner-murakozy-reizer-schreiner-2022-cepr-dp",
+      "title": "Firm-level Technological Change and Skill Demand",
+      "title_hu": "Vállalati szintű technológiai változás és képzettség-kereslet",
+      "authors": [
+        "lindner-attila",
+        "murakozy-balazs",
+        "reizer-balazs",
+        "Ragnhild Schreiner"
+      ],
+      "outlet_kind": "working_paper",
+      "outlet": "CEPR Discussion Paper DP17421",
+      "outlet_issue": "DP17421",
+      "institution": "CEPR",
+      "year": 2022,
+      "language": "en",
+      "url": "https://cepr.org/publications/dp17421",
+      "doi": null,
+      "summary_en": "How much do firm-level technology adoption decisions drive skill demand and wage inequality? Lindner, Muraközy, Reizer and Schreiner combine Hungarian and Norwegian administrative employer-employee data with firm technology surveys and a model of imperfect labour-market competition. Skill-biased technological change at individual firms raises both the share of skilled workers and the skill wage premium; aggregating up, the college wage premium rises by 6.1% in Norway and 13.8% in Hungary because of this channel. The paper opens a credible link from micro firm-level technology change to country-level inequality.",
+      "summary_hu": "Mennyit magyaráz a vállalati szintű technológia-adoptálás a képzettség-keresletből és a bérek egyenlőtlenségéből? Lindner, Muraközy, Reizer és Schreiner magyar és norvég adminisztratív munkáltató–munkavállaló adatokat kombinálnak vállalati technológia-felmérésekkel és tökéletlen munkaerőpiaci versenymodellt használnak. Az egyes vállalatoknál a képzettségelfogultságú technológiai változás növeli a képzett munkások arányát és a képzettségi bérprémiumot; aggregálva a diplomás bérprémium ezen csatorna miatt 6,1 százalékkal nő Norvégiában és 13,8 százalékkal Magyarországon. A tanulmány hiteles kapcsolatot teremt a vállalati szintű technológiai változás és az országos szintű egyenlőtlenség között.",
+      "policy_relevance": "Important framing for Hungarian inequality and skill policy (KSH, KRTK, ITM): half or more of the rise in Hungary's college wage premium comes from firm-level technology change, not pure labour-supply shifts. Implication for innovation/digitalisation policy: subsidies for technology adoption may have unintended distributional consequences and should be paired with skills policies. Particularly relevant for Hungarian government interest in tech FDI and Industry 4.0 push.",
+      "policy_relevance_hu": "Fontos keret a magyar egyenlőtlenségi és képzettségi szakpolitika számára (KSH, KRTK, ITM): a magyar diplomás bérprémium-növekedés fele vagy nagyobb része a vállalati szintű technológiai változásból ered, nem tiszta munkakínálati változásokból. Implikáció az innovációs/digitalizációs szakpolitika számára: a technológia-adoptálási támogatások nem szándékolt eloszlási következményeket okozhatnak, és képzési politikákkal érdemes párosítani őket. Különösen releváns a magyar kormány technológiai FDI- és Ipar 4.0-irányultsága szempontjából.",
+      "topics": [
+        "labor-markets",
+        "firms-productivity",
+        "inequality-welfare"
+      ],
+      "countries_studied": [
+        "HU",
+        "NO"
+      ],
+      "policy_instruments": [
+        "skills policy",
+        "képzési politika",
+        "technology adoption subsidies",
+        "Industry 4.0 programmes"
+      ],
+      "linked_paper_id": null,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13",
       "review_status": "ai-drafted"
     },
     {
@@ -51027,6 +51413,82 @@
       "title_hu": "Minimálbér: új generációs kutatások egy régi kérdésről"
     },
     {
+      "id": "lindner-2021-telex-mw-employment",
+      "title": "Meglepő, de a minimálbér növelheti a foglalkoztatottságot",
+      "title_hu": "Meglepő, de a minimálbér növelheti a foglalkoztatottságot",
+      "authors": [
+        "lindner-attila",
+        "lieli-robert"
+      ],
+      "kind": "column",
+      "venue": "Telex",
+      "date": "2021-10-19",
+      "language": "hu",
+      "url": "https://telex.hu/defacto/2021/10/19/a-minimalber-novelheti-a-foglalkoztatottsagot",
+      "blurb": "A 2021-es közgazdasági Nobel-díj apropóján a cikk bemutatja David Card és társai eredményeit a minimálbér-emelés foglalkoztatási hatásairól, és kontrasztba állítja a klasszikus tankönyvi várakozással.",
+      "linked_paper_id": "cengiz-dube-lindner-zipperer-2019-qje",
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13"
+    },
+    {
+      "id": "lindner-2024-telex-abuse-economic-dep",
+      "title": "A bántalmazás természete: súlyos következményekkel jár a nők gazdasági függése",
+      "title_hu": "A bántalmazás természete: súlyos következményekkel jár a nők gazdasági függése",
+      "authors": [
+        "lindner-attila",
+        "Rebeka Cook"
+      ],
+      "kind": "column",
+      "venue": "Telex",
+      "date": "2024-05-02",
+      "language": "hu",
+      "url": "https://telex.hu/defacto/2024/05/02/bantalmazo-kapcsolatok-gazdasagi-hattere",
+      "blurb": "Egy finn kutatást bemutatva a cikk arról ír, hogy a bántalmazó kapcsolatban élő nők foglalkoztatási rátája drasztikusan csökken az összeköltözés után, ami gazdasági függésüket fokozza és a kilépést megnehezíti.",
+      "linked_paper_id": null,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13"
+    },
+    {
+      "id": "lindner-2025-telex-payroll-tax",
+      "title": "Az adókedvezmények új munkahelyeket hoznak létre, de ez nem biztos, hogy megéri",
+      "title_hu": "Az adókedvezmények új munkahelyeket hoznak létre, de ez nem biztos, hogy megéri",
+      "authors": [
+        "lindner-attila",
+        "biro-aniko",
+        "prinz-daniel",
+        "branyiczki-reka",
+        "Lili Márk"
+      ],
+      "kind": "column",
+      "venue": "Telex",
+      "date": "2025-04-29",
+      "language": "hu",
+      "url": "https://telex.hu/defacto/2025/04/29/adokedvezmeny-foglalkoztatas-munkahelyteremtes-kozgazdasagtan",
+      "blurb": "A magyar idősebb dolgozók bérterhének csökkentését vizsgálva a szerzők azt mutatják, hogy az adókedvezmények főként az alacsony termelékenységű cégeknél hoznak új munkahelyeket, miközben a magas termelékenységű cégeknél bérnövekedéssé válnak munkahelyteremtés nélkül.",
+      "linked_paper_id": null,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13"
+    },
+    {
+      "id": "lindner-2026-telex-wealth-tax",
+      "title": "Vagyonadó: nem igaz, hogy nem működhet, de okosan kell csinálni",
+      "title_hu": "Vagyonadó: nem igaz, hogy nem működhet, de okosan kell csinálni",
+      "authors": [
+        "lindner-attila",
+        "Gabriel Zucman",
+        "Emmanuel Saez"
+      ],
+      "kind": "op_ed",
+      "venue": "Telex",
+      "date": "2026-05-13",
+      "language": "hu",
+      "url": "https://telex.hu/nevertek/2026/05/13/egy-valoban-mukodo-es-emberseges-vagyonado-megtervezese",
+      "blurb": "Lindner, Zucman és Saez amellett érvel, hogy a vagyonadó megvalósítható és igazságos lehet, ha széles adóalappal, erős végrehajtással és az elvándorlás kezelésével tervezik meg.",
+      "linked_paper_id": null,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13"
+    },
+    {
       "id": "loranth-voxeu-bank-payouts-crisis",
       "title": "Understanding bank payouts during the financial crisis of 2007–2009",
       "title_hu": null,
@@ -51660,7 +52122,7 @@
       "policy_framing_en": "Relevant to: minimum wage policy, unemployment benefits, active labor market programs, labor taxation, worker protection, retraining.",
       "policy_framing_hu": "Releváns: minimálbér-politika, munkanélküli segélyek, aktív munkaerőpiaci programok, bérterhek, munkavállalóvédelem, átképzés.",
       "icon": "briefcase",
-      "paper_count": 143
+      "paper_count": 151
     },
     {
       "id": "education-skills",
@@ -51715,7 +52177,7 @@
       "policy_framing_en": "Relevant to: competitiveness agenda, SME support, productivity diagnostic, business environment reform.",
       "policy_framing_hu": "Releváns: versenyképességi program, kkv-támogatás, termelékenységi diagnosztika, üzleti környezet reformja.",
       "icon": "factory",
-      "paper_count": 179
+      "paper_count": 182
     },
     {
       "id": "innovation-digital",
@@ -51781,7 +52243,7 @@
       "policy_framing_en": "Relevant to: welfare system, anti-poverty programs, family allowances, gender-equal pay policies.",
       "policy_framing_hu": "Releváns: szociális rendszer, szegénység elleni programok, családi pótlékok, egyenlő bérezés.",
       "icon": "scale",
-      "paper_count": 147
+      "paper_count": 151
     },
     {
       "id": "political-economy",
@@ -51858,7 +52320,7 @@
       "policy_framing_en": "Relevant to: rigorous programme evaluation; papers here explain how to measure policy effects credibly.",
       "policy_framing_hu": "Releváns: szigorú programértékeléshez; az itt található tanulmányok magyarázzák, hogyan mérhetők hitelesen a szakpolitikai hatások.",
       "icon": "function-square",
-      "paper_count": 225
+      "paper_count": 226
     },
     {
       "id": "market-design",
@@ -53243,9 +53705,9 @@
   ],
   "counts": {
     "authors": 112,
-    "papers": 914,
-    "policy": 35,
-    "press": 159,
+    "papers": 919,
+    "policy": 38,
+    "press": 163,
     "topics": 21
   }
 }

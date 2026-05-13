@@ -1,0 +1,53 @@
+{
+  "id": "dustmann-lindner-et-al-2022-qje",
+  "title": "Reallocation Effects of the Minimum Wage",
+  "authors": [
+    "Christian Dustmann",
+    "lindner-attila",
+    "Uta Schönberg",
+    "Matthias Umkehrer",
+    "Philipp vom Berge"
+  ],
+  "publication_type": "article",
+  "journal": "Quarterly Journal of Economics",
+  "year": 2022,
+  "volume": "137",
+  "issue": "1",
+  "pages": "267-328",
+  "doi": "10.1093/qje/qjab028",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1093/qje/qjab028",
+  "url_pdf": "https://academic.oup.com/qje/article-pdf/137/1/267/41929667/qjab028.pdf",
+  "url_replication": null,
+  "abstract": "We investigate the wage, employment, and reallocation effects of the introduction of a nationwide minimum wage in Germany that affected 15% of all employees. Based on an extensive data set that comprises the universe of administrative employment records, we find that the minimum wage raised wages but did not lower employment, even in the short run. The minimum wage led to the reallocation of low-wage workers from smaller to larger, from lower- to higher-paying, and from less to more productive establishments. This worker upgrading accounts for up to 17% of the wage increase induced by the minimum wage.",
+  "summary_en": "What happens to low-wage workers when a country introduces a nationwide minimum wage from scratch? Dustmann, Lindner and co-authors use the universe of German administrative employment records to study the 2015 introduction of Germany's federal minimum wage, which directly affected 15 percent of employees. Wages went up; employment did not fall. The new channel they uncover is reallocation: low-wage workers moved from smaller, lower-paying, less productive establishments to larger, higher-paying, more productive ones. This upgrading accounts for up to 17 percent of the wage gain. The paper reshaped the labour-economics understanding of how minimum wages work — not just by lifting wages within firms, but by reshuffling workers across them.",
+  "summary_hu": "Mi történik az alacsony bérű dolgozókkal, ha egy ország nulláról bevezet egy országos minimálbért? Dustmann, Lindner és szerzőtársaik a teljes német adminisztratív foglalkoztatási adatállományt használják a 2015-ös német szövetségi minimálbér bevezetésének vizsgálatára, amely a foglalkoztatottak 15 százalékát közvetlenül érintette. A bérek emelkedtek; a foglalkoztatás nem csökkent. Az új csatorna, amit feltárnak, az újrarendeződés: az alacsony bérű dolgozók kisebb, alacsonyabb bérű, kevésbé termelékeny vállalkozásokból nagyobb, magasabb bérű, termelékenyebb vállalkozásokba kerültek át. Ez a fejlődés a bérnövekedés akár 17 százalékáért is felelős. A tanulmány átformálta a minimálbér-irodalmat: a hatás nemcsak vállalaton belüli béremelés, hanem a dolgozók átrendeződése a vállalatok között.",
+  "data_used": "Universe of German administrative social-security employment records (IAB) 2010–2017, covering all employees in establishments subject to social-security contributions. Linked to establishment-level data on size, wages, productivity proxies, and industry.",
+  "data_used_hu": "A német adminisztratív társadalombiztosítási foglalkoztatási regiszter (IAB) teljes adatbázisa 2010 és 2017 között, lefedve a társadalombiztosítási járulékkötelezettség alatt álló összes munkavállalót. Vállalatszintű adatokhoz kapcsolva (méret, bérek, termelékenységi mutatók, ágazat).",
+  "policy_relevance": "Important framing for the EU Adequate Minimum Wage Directive, for the German Mindestlohnkommission and for any country considering a meaningful new national minimum wage (relevant for Hungary's VKF). Implication: low employment effects can be explained partly by within-firm absorption (as in Hungary 2000–02) and partly by worker reallocation across firms. For Hungarian policymakers, the paper validates that minimum-wage hikes can serve as a productivity-enhancing reallocation lever, not only a redistributive one. Caveat: Germany's labour market is unusually formal and integrated; the magnitude of reallocation in less productive labour markets may differ.",
+  "policy_relevance_hu": "Fontos keret az EU megfelelő minimálbér-irányelvéhez, a német Mindestlohnkommission munkájához és minden olyan országnak, amely érdemi új országos minimálbéren gondolkodik (releváns a magyar VKF szempontjából). Az implikáció: a minimálbér alacsony foglalkoztatási hatása részben vállalaton belüli alkalmazkodással (mint Magyarországon 2000–02-ben), részben a munkavállalók vállalatok közötti átrendeződésével magyarázható. A magyar döntéshozók számára a tanulmány alátámasztja, hogy a minimálbér-emelés nemcsak újraelosztási, hanem termelékenység-növelő átrendezési eszköz is lehet. Korlát: a német munkaerőpiac szokatlanul formális és integrált; a kevésbé termelékeny munkaerőpiacokon az átrendeződés mértéke eltérő lehet.",
+  "topics": [
+    "labor-markets",
+    "firms-productivity"
+  ],
+  "methods": [
+    "diff-in-diff",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "DE"
+  ],
+  "data_types": [
+    "admin-firm",
+    "admin-individual"
+  ],
+  "featured": true,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "openalex_id": null,
+  "policy_instruments": [
+    "national statutory minimum wage",
+    "minimálbér"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "giupponi-joyce-lindner-et-al-2024-jole",
+  "title": "The Employment and Distributional Impacts of Nationwide Minimum Wage Changes",
+  "authors": [
+    "Giulia Giupponi",
+    "Robert Joyce",
+    "lindner-attila",
+    "Tom Waters",
+    "Thomas Wernham",
+    "Xiaowei Xu"
+  ],
+  "publication_type": "article",
+  "journal": "Journal of Labor Economics",
+  "year": 2024,
+  "volume": "42",
+  "issue": "S1",
+  "pages": "S293-S333",
+  "doi": "10.1086/728471",
+  "working_paper_series": null,
+  "url_published": "https://doi.org/10.1086/728471",
+  "url_pdf": null,
+  "url_replication": null,
+  "abstract": "We examine the employment and distributional impacts of nationwide minimum-wage changes in the UK using rich administrative data. We find no detectable adverse employment effects, but find that the minimum wage had large effects on the wage distribution — including spillovers up to the 25th percentile. The minimum wage has lifted the wages of low-paid workers substantially since 1999, but has done less to reduce household income inequality because affected workers are not concentrated in poor households.",
+  "summary_en": "How much has 25 years of UK National Minimum Wage (NMW) and National Living Wage (NLW) policy actually done for low-paid workers and inequality? Giupponi, Joyce, Lindner and colleagues use UK administrative wage data to trace the impact since the NMW was introduced in 1999. Employment effects are not detectable. Wage effects are large and spill upward to the 25th percentile of the wage distribution. But the impact on household-level inequality is more modest: low-paid workers are not concentrated in low-income households, so the minimum wage is a blunt redistributive tool. A clean evaluation of one of Europe's most studied minimum-wage regimes.",
+  "summary_hu": "Mit hozott a brit Nemzeti Minimálbér (NMW) és Nemzeti Megélhetési Bér (NLW) 25 éve az alacsony bérűeknek és az egyenlőtlenségnek? Giupponi, Joyce, Lindner és szerzőtársaik brit adminisztratív béradatokkal követik a hatást a NMW 1999-es bevezetése óta. Foglalkoztatási hatás nem mutatható ki. A bérre gyakorolt hatás nagy, és felfelé átgyűrűzik a bérelosztás 25. percentiliséig. Háztartási szintű egyenlőtlenségre azonban szerényebb a hatás: az alacsony bérűek nem koncentrálódnak alacsony jövedelmű háztartásokba, így a minimálbér tompa újraelosztási eszköz. Európa egyik legtöbbet vizsgált minimálbér-rendszerének tiszta értékelése.",
+  "data_used": "UK Annual Survey of Hours and Earnings (ASHE) — 1% sample of UK employees from PAYE — 1997–2019; Family Resources Survey for household-income linkage.",
+  "data_used_hu": "Brit Éves Munkaóra- és Bérfelvétel (ASHE) — a brit foglalkoztatottak 1%-os PAYE-mintája — 1997–2019; háztartási jövedelmi összekapcsolás a Family Resources Surveyjel.",
+  "policy_relevance": "Central UK evidence base, but also directly relevant for VKF and for the European Commission's minimum-wage directive monitoring. Two main lessons: (1) ambitious minimum-wage targets (UK's NLW reaches ~2/3 of median) can be implemented without measurable disemployment in a high-employment economy; (2) the minimum wage is not a strong household-poverty tool. For Hungarian policy, the second point is sobering: pursuing inequality reduction may require targeted transfers (e.g., family benefits, in-work tax credits) alongside the minimum wage.",
+  "policy_relevance_hu": "Központi brit bizonyítékbázis, de közvetlenül releváns a VKF és az Európai Bizottság minimálbér-irányelvének monitorozása szempontjából is. Két fő tanulság: (1) az ambiciózus minimálbér-célok (a brit NLW eléri a medián ~2/3-át) érdemi foglalkoztatás-veszteség nélkül megvalósíthatók egy magas foglalkoztatású gazdaságban; (2) a minimálbér nem erős háztartási szegénység-csökkentő eszköz. A magyar szakpolitikának a második pont józanító: az egyenlőtlenség csökkentéséhez célzott transzferek (pl. családi pótlékok, munkavégzéshez kötött adójóváírások) is kellenek a minimálbér mellé.",
+  "topics": [
+    "labor-markets",
+    "inequality-welfare"
+  ],
+  "methods": [
+    "diff-in-diff",
+    "panel-data"
+  ],
+  "countries_studied": [
+    "GB"
+  ],
+  "data_types": [
+    "admin-individual",
+    "survey-individual"
+  ],
+  "featured": false,
+  "added_at": "2026-05-13",
+  "last_reviewed_at": "2026-05-13",
+  "review_status": "ai-drafted",
+  "openalex_id": null,
+  "policy_instruments": [
+    "National Minimum Wage",
+    "National Living Wage",
+    "minimálbér",
+    "in-work tax credit"
+  ]
+}

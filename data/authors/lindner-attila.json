@@ -8,6 +8,13 @@
       "name_hu": "University College London",
       "role": "Professor of Economics",
       "role_hu": "közgazdaságtudomány professzor",
+      "start": 2022
+    },
+    {
+      "name": "Institute for Fiscal Studies (IFS-CPP)",
+      "name_hu": "Institute for Fiscal Studies (IFS-CPP)",
+      "role": "Co-Director / Research Associate",
+      "role_hu": "társigazgató, kutató munkatárs",
       "start": 2015
     },
     {
@@ -15,11 +22,32 @@
       "name_hu": "KRTK Közgazdaság-tudományi Intézet",
       "role": "External Fellow",
       "role_hu": "külső munkatárs",
-      "start": 2018
+      "start": 2015
+    },
+    {
+      "name": "CEPR",
+      "name_hu": "CEPR",
+      "role": "Research Affiliate",
+      "role_hu": "kutató munkatárs",
+      "start": 2017
+    },
+    {
+      "name": "IZA",
+      "name_hu": "IZA",
+      "role": "Research Fellow",
+      "role_hu": "kutató munkatárs",
+      "start": 2015
+    },
+    {
+      "name": "Centre for Economic Performance, LSE",
+      "name_hu": "Centre for Economic Performance, LSE",
+      "role": "Associate",
+      "role_hu": "kutató munkatárs",
+      "start": 2016
     }
   ],
   "website": "https://sites.google.com/site/attilalindner/",
-  "email": null,
+  "email": "a.lindner@ucl.ac.uk",
   "repec_id": "pli582",
   "scholar_id": "pvRQMxkAAAAJ",
   "orcid": null,
@@ -27,21 +55,22 @@
     "labor-markets",
     "firms-productivity"
   ],
-  "bio_en": "Attila Lindner is Professor of Economics at University College London. He studies labor markets, with a focus on how policies such as minimum wages and payroll taxes affect workers, firms, and prices. Much of his empirical work uses Hungarian administrative data. Attila Lindner has published in journals like American Economic Journal: Applied Economics, American Economic Review and Quarterly Journal of Economics.",
-  "bio_hu": "Lindner Attila a University College London közgazdaságtan professzora. A munkaerőpiacot kutatja, különös tekintettel arra, hogyan hatnak a minimálbér és a bérterhek a munkavállalókra, a vállalatokra és az árakra. Empirikus munkáinak jelentős része magyar adminisztratív adatokon alapul. Lindner Attila tanulmányai olyan folyóiratokban jelentek meg, mint az American Economic Journal: Applied Economics, az American Economic Review és a Quarterly Journal of Economics.",
+  "bio_en": "Attila Lindner is Professor of Economics at University College London, where he co-directs the IFS Centre for the Microeconomic Analysis of Public Policy and serves as a joint managing editor of the Review of Economic Studies. His research uses Hungarian and other administrative micro-data to study minimum wages, payroll taxes, unemployment insurance and pension design. His papers appear in the Quarterly Journal of Economics (three times), American Economic Review, Review of Economic Studies and AEJ: Applied Economics, and he co-authored the minimum-wage chapter of the Handbook of Labor Economics (2024). He holds an ERC Starting Grant, won the 2024 Gábor Kézdi Award, and is a Research Affiliate at CEPR, IZA and KRTK.",
+  "bio_hu": "Lindner Attila a University College London közgazdaságtan professzora, az IFS Centre for the Microeconomic Analysis of Public Policy társigazgatója, és a Review of Economic Studies társ-főszerkesztője. Magyar és külföldi adminisztratív mikroadatokon vizsgálja a minimálbér, a bérterhek, a munkanélküli-ellátás és a nyugdíjrendszer hatásait. Tanulmányai a Quarterly Journal of Economicsban (háromszor), az American Economic Reviewban, a Review of Economic Studiesban és az AEJ: Appliedben jelentek meg; ő írta Arindrajit Dube-bal a Handbook of Labor Economics 2024-es minimálbér-fejezetét. ERC Starting Grant nyertese, 2024-ben Kézdi Gábor-díjat kapott, és a CEPR, IZA, valamint a KRTK kutató munkatársa.",
   "photo_url": "https://profiles.ucl.ac.uk/52122-attila-lindner/thumbnail",
   "qualifying_publication": {
     "title": "Who Pays for the Minimum Wage?",
     "journal": "American Economic Review",
     "year": 2019
   },
-  "open_to_media_en": false,
-  "open_to_media_hu": false,
-  "media_note": null,
+  "open_to_media_en": true,
+  "open_to_media_hu": true,
+  "media_note": "Rendszeresen ír a Telex Defacto rovatába, és hozzáférhető angol és magyar nyelvű sajtó-megkeresésekre munkaerőpiaci, adópolitikai, minimálbér- és vagyonadó-kérdésekben.",
   "openalex_id": "A5111929267",
-  "review_status": "needs-verification",
+  "review_status": "confident",
   "countries": [
     "GB",
     "HU"
-  ]
+  ],
+  "last_reviewed_at": "2026-05-13"
 }
