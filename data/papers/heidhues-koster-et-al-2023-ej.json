@@ -19,11 +19,11 @@
   "url_replication": null,
   "abstract": "Abstract Online intermediaries with information about a consumer’s tendencies often ‘steer’ her toward products she is more likely to purchase. We analyse the welfare implications of this practice for ‘fallible’ consumers, who make statistical and strategic mistakes in evaluating offers. The welfare effects depend on the nature and quality of the intermediary’s information and on properties of the consumer’s mistakes. In particular, steering based on high-quality information about the consumer’s mistakes is typically harmful, sometimes extremely so. We argue that much real-life steering is of this type, raising the scope for a broader regulation of steering practices.",
   "summary_en": "Online platforms know a lot about their users and often \"steer\" them toward certain products. When does this help consumers and when does it hurt? This paper analyses consumer welfare when consumers are \"fallible\" — they make statistical and strategic mistakes. The key insight: steering based on the platform's superior information about the consumer's mistakes (rather than about product fit) is typically harmful, sometimes extremely so. Since in practice much real-world steering uses exactly this kind of information — i.e., exploits errors rather than corrects them — the paper makes a strong theoretical case for regulation of algorithmic recommendation and personalised pricing.",
-  "summary_hu": null,
+  "summary_hu": "Az online platformok sokat tudnak felhasználóikról, és gyakran „terelik” őket bizonyos termékek felé. Mikor segít ez a fogyasztónak, és mikor árt? Paul Heidhues, Mats Köster és Kőszegi Botond a fogyasztói jólétet elemzi olyan „hibázó” fogyasztók esetén, akik statisztikai és stratégiai tévedéseket követnek el. A fő tanulság: ha a platform fölénye nem a termék illeszkedéséről, hanem a fogyasztó tévedéseiről szól, a terelés jellemzően káros, és olykor kifejezetten súlyos veszteséget okoz. Mivel a valós terelés nagyrészt épp ilyen információkra épül — a hibákat kihasználja, nem kiigazítja —, a tanulmány erős elméleti érvet ad az algoritmikus ajánlórendszerek és a személyre szabott árazás szabályozása mellett.",
   "data_used": "Theoretical paper; no empirical data.",
-  "data_used_hu": null,
+  "data_used_hu": "Elméleti tanulmány; empirikus adatok nélkül.",
   "policy_relevance": "Highly relevant to Hungary's implementation of the EU Digital Services Act and Digital Markets Act. The paper provides a foundation for GVH and NMHH to differentiate between \"helpful\" personalisation (recommending a product the consumer would actually like) and \"harmful\" steering (exploiting a known consumer error). Policy implication: tighter rules on steering that is information-asymmetric against the consumer — e.g. dark patterns, default-setting, price discrimination on known biases. Caveat: the paper is theoretical; empirically distinguishing the two types of steering in real Hungarian online markets is non-trivial and would require access to platform algorithms.",
-  "policy_relevance_hu": null,
+  "policy_relevance_hu": "Erősen releváns az EU Digitális Szolgáltatásokról szóló rendeletének (DSA) és Digitális Piacokról szóló rendeletének (DMA) magyar alkalmazása szempontjából. A tanulmány keretet ad a GVH és az NMHH számára, hogy elválassza a „hasznos” személyre szabást (egy a fogyasztónak ténylegesen tetsző termék ajánlása) a „káros” tereléstől (egy ismert fogyasztói tévedés kihasználása). Policy-implikáció: szigorúbb szabályok a fogyasztóval szemben információs aszimmetriát kihasználó terelésre — sötét mintázatok, alapértelmezett beállítások, ismert torzításokra épülő ármegkülönböztetés. Korlát: a tanulmány elméleti; a két típusú terelés empirikus elkülönítése a valós magyar online piacokon nehéz, és a platformalgoritmusokhoz való hozzáférést igényelne.",
   "topics": [
     "behavioral",
     "innovation-digital"
@@ -38,7 +38,7 @@
   "data_types": [],
   "featured": false,
   "added_at": "2026-04-22",
-  "last_reviewed_at": "2026-04-23",
+  "last_reviewed_at": "2026-05-13",
   "review_status": "ai-drafted",
   "openalex_id": "W4320886430",
   "policy_instruments": [
