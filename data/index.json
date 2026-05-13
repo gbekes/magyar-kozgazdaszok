@@ -1291,9 +1291,9 @@
       "countries": [
         "HU"
       ],
-      "paper_count": 8,
+      "paper_count": 9,
       "policy_count": 0,
-      "press_count": 0
+      "press_count": 1
     },
     {
       "id": "ertl-antal",
@@ -2286,9 +2286,9 @@
       "countries": [
         "HU"
       ],
-      "paper_count": 8,
+      "paper_count": 10,
       "policy_count": 0,
-      "press_count": 0
+      "press_count": 1
     },
     {
       "id": "karadi-peter",
@@ -2890,38 +2890,46 @@
           "name_hu": "Bonni Egyetem",
           "role": "Professor of Economics",
           "role_hu": "közgazdaságtudomány professzor",
-          "start": null
+          "start": 2022
+        },
+        {
+          "name": "Central European University",
+          "name_hu": "Közép-európai Egyetem",
+          "role": "University Professor (on leave)",
+          "role_hu": "egyetemi tanár (szabadságon)",
+          "start": 2012
         }
       ],
-      "website": "https://www.econ.uni-bonn.de/en/department/professors/botond-koszegi",
+      "website": "https://www.wiwi.uni-bonn.de/koszegi/",
       "email": null,
       "repec_id": null,
       "scholar_id": "0XJt9uQAAAAJ",
-      "orcid": null,
+      "orcid": "0000-0002-9150-7506",
       "primary_fields": [
         "methods",
         "inequality-welfare"
       ],
-      "bio_en": "Botond Kőszegi is a behavioral economist. With Matthew Rabin, he developed a widely used framework of reference-dependent preferences that has become a standard tool in modern behavioral economics, with applications to consumer choice, labor supply, and public policy. Botond Kőszegi has published in journals like Quarterly Journal of Economics, American Economic Review and Journal of the European Economic Association.",
-      "bio_hu": "Kőszegi Botond viselkedés-közgazdász. Matthew Rabinnel közösen kidolgozta a referenciafüggő preferenciák ma már széles körben használt keretrendszerét, amely a modern viselkedés-közgazdaságtan standard eszközévé vált a fogyasztói döntések, a munkakínálat és a közpolitika alkalmazásaival. Rendszeresen publikál a Quarterly Journal of Economicsban, az American Economic Reviewben és az Econometricában. Kőszegi Botond tanulmányai olyan folyóiratokban jelentek meg, mint a Quarterly Journal of Economics, az American Economic Review és a Journal of the European Economic Association.",
+      "bio_en": "Botond Kőszegi is Professor of Economics at the University of Bonn (since 2022) and University Professor at Central European University (on leave). With Matthew Rabin, he developed a widely used framework of reference-dependent preferences that has become a standard tool in modern behavioral economics, with applications to consumer choice, labor supply, and public policy. He has also published influential work on behavioral industrial organization, consumer protection in markets with naive consumers, and the welfare implications of overconfidence. His papers appear regularly in the Quarterly Journal of Economics, American Economic Review, Econometrica, and Review of Economic Studies. He is a Fellow of the Econometric Society (2021), a Member of Academia Europaea (2015), holds an honorary doctorate from Corvinus University of Budapest (2016), and received the Yrjö Jahnsson Award (2015).",
+      "bio_hu": "Kőszegi Botond a Bonni Egyetem közgazdaságtan-professzora (2022 óta) és a Közép-európai Egyetem egyetemi tanára (szabadságon). Matthew Rabinnel közösen kidolgozta a referenciafüggő preferenciák ma már széles körben használt keretrendszerét, amely a modern viselkedés-közgazdaságtan standard eszközévé vált a fogyasztói döntések, a munkakínálat és a közpolitika alkalmazásaival. Befolyásos munkái jelentek meg a viselkedési iparszervezésről, a naiv fogyasztókkal működő piacok fogyasztóvédelméről és a túlzott magabiztosság jóléti következményeiről. Tanulmányai rendszeresen jelennek meg a Quarterly Journal of Economicsban, az American Economic Reviewben, az Econometricában és a Review of Economic Studiesban. Az Econometric Society fellow-ja (2021), az Academia Europaea tagja (2015), a Budapesti Corvinus Egyetem díszdoktora (2016), és 2015-ben elnyerte a Yrjö Jahnsson-díjat.",
       "photo_url": "https://economics.ceu.edu/sites/economics.ceu.edu/files/styles/profile_teaser/public/koszegi1_3.jpg?itok=gXB8FFwV",
       "qualifying_publication": {
         "title": "Understanding Markets with Socially Responsible Consumers",
         "journal": "Quarterly Journal of Economics",
         "year": 2024
       },
-      "open_to_media_en": false,
-      "open_to_media_hu": false,
-      "media_note": null,
-      "review_status": "needs-verification",
+      "open_to_media_en": true,
+      "open_to_media_hu": true,
+      "media_note": "Occasional Hungarian-press contributor on behavioral economics, consumer protection, and academic-freedom issues. Past interviews in Index, Magyar Narancs, and 444.hu.",
+      "review_status": "confident",
       "openalex_id": "A5088707502",
-      "last_reviewed_at": "2026-04-27",
+      "last_reviewed_at": "2026-05-13",
       "countries": [
-        "DE"
+        "DE",
+        "HU"
       ],
       "paper_count": 33,
       "policy_count": 0,
-      "press_count": 3
+      "press_count": 4
     },
     {
       "id": "kovacs-balazs",
@@ -3117,9 +3125,9 @@
       "countries": [
         "HU"
       ],
-      "paper_count": 23,
+      "paper_count": 26,
       "policy_count": 0,
-      "press_count": 2
+      "press_count": 7
     },
     {
       "id": "lieli-robert",
@@ -3322,7 +3330,7 @@
       "countries": [
         "HU"
       ],
-      "paper_count": 10,
+      "paper_count": 11,
       "policy_count": 0,
       "press_count": 3
     },
@@ -33002,6 +33010,60 @@
       ]
     },
     {
+      "id": "juhasz-pinter-et-al-2023-epjds",
+      "title": "Amenity complexity and urban locations of socio-economic mixing",
+      "authors": [
+        "juhasz-sandor",
+        "Gergő Pintér",
+        "Ádám J. Kovács",
+        "Endre Borza",
+        "Gergely Mónus",
+        "lorincz-laszlo",
+        "lengyel-balazs"
+      ],
+      "publication_type": "article",
+      "journal": "EPJ Data Science",
+      "year": 2023,
+      "volume": "12",
+      "issue": "1",
+      "pages": "34",
+      "doi": "10.1140/epjds/s13688-023-00413-6",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1140/epjds/s13688-023-00413-6",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "Where in a city do rich and poor actually meet? Using fine-grained urban data on amenities (shops, restaurants, services) and visit flows in Budapest, the authors construct an index of amenity complexity — how diverse and rare the mix of venues at a location is. They show that locations with more complex amenity mixes attract visitors from a wider range of socio-economic backgrounds and become hotspots of social mixing. Simple, single-purpose locations (only shops, only services) do not. The finding gives urban planners a concrete, measurable target: cultivating amenity complexity is a lever for reducing socio-economic segregation in city space.",
+      "summary_hu": "Hol találkoznak ténylegesen egy városban a gazdagok és a szegények? Részletes városi adatok alapján — kiszolgáló helyek (üzletek, éttermek, szolgáltatások) és látogatási áramlások Budapestre — a szerzők egy „amenity-komplexitási\" indexet építenek: mennyire sokrétű és ritka az adott helyen elérhető üzletek és szolgáltatások keveréke. Megmutatják, hogy a komplexebb amenity-összetételű helyek szélesebb szocio-ökonómiai háttérből vonzanak látogatókat, és a szociális keveredés gócpontjaivá válnak. Az egyszerű, egycélú helyek (csak üzletek, csak szolgáltatások) nem. Az eredmény konkrét, mérhető célt ad a várostervezőknek: az amenity-komplexitás ápolása fogantyú a városi szocio-ökonómiai szegregáció csökkentésére.",
+      "data_used": "Budapest amenity-database (Google Places-type fine-grained venue records) combined with anonymised mobile-phone visit data. Socio-economic indicators at the neighbourhood level (income, education). Complexity index built from venue co-occurrence patterns.",
+      "data_used_hu": "Budapesti amenity-adatbázis (Google Places-típusú részletes hely-rekordok) anonimizált mobiltelefonos látogatási adatokkal kombinálva. Szocio-ökonómiai mutatók városrészi szinten (jövedelem, iskolázottság). Komplexitási index a hely-előfordulási minták alapján.",
+      "policy_relevance": "Relevant for Budapest urban-planning, district-level rehabilitation and zoning policy (Főváros, district mayors' offices, ITM regional development). The paper suggests that mixed-use zoning, rather than mono-functional retail or service zones, is the more effective lever for cross-class mixing. Useful input for the design of cultural-quarter and urban-regeneration programmes. Budapest data; principles extend to other large Hungarian cities (Debrecen, Szeged).",
+      "policy_relevance_hu": "Releváns a budapesti várostervezés, kerületi rehabilitáció és övezet-politika számára (Főváros, kerületi polgármesteri hivatalok, ITM területfejlesztés). A tanulmány azt sugallja, hogy a vegyes funkciójú övezet — nem az egyfunkciós kiskereskedelmi vagy szolgáltató zóna — a hatékonyabb fogantyú az osztályok közötti keveredésre. Hasznos input kulturális negyed- és városrehabilitációs programok tervezéséhez. Budapesti adat; az elvek kiterjeszthetők más nagyvárosokra (Debrecen, Szeged).",
+      "topics": [
+        "regional-urban",
+        "innovation-digital"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "digital-trace"
+      ],
+      "featured": false,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13",
+      "review_status": "ai-drafted",
+      "openalex_id": null,
+      "policy_instruments": [
+        "mixed-use zoning",
+        "urban regeneration",
+        "cultural-quarter policy"
+      ]
+    },
+    {
       "id": "juhasz-squicciarini-et-al-2024-jpe",
       "title": "Technology Adoption and Productivity Growth: Evidence from Industrialization in France",
       "authors": [
@@ -42505,6 +42567,55 @@
       "openalex_id": "W2133246183"
     },
     {
+      "id": "pinter-lengyel-2025-cities",
+      "title": "Quantifying barriers of urban mobility",
+      "authors": [
+        "Gergő Pintér",
+        "lengyel-balazs"
+      ],
+      "publication_type": "article",
+      "journal": "Cities",
+      "year": 2025,
+      "volume": "167",
+      "issue": null,
+      "pages": "106322",
+      "doi": "10.1016/j.cities.2025.106322",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1016/j.cities.2025.106322",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "Where do urban residents not go, and why? Using anonymised mobile-phone location data for Budapest, Pintér and Lengyel quantify how much rivers, motorways, railway tracks and similar built features deflect everyday movement compared with what straight-line distance would predict. They show that these physical barriers cause large, measurable detours and reduce mixing between neighbourhoods on opposite sides — even when the street-network detour is short. The paper offers a clean empirical method to test whether new bridges, underpasses or pedestrian links would actually reconnect urban populations, rather than just look good on a map.",
+      "summary_hu": "Hová nem mennek a városlakók, és miért? Anonimizált mobiltelefonos helyadatokra építve Pintér és Lengyel megméri, hogy a folyók, autópályák, vasútvonalak és hasonló épített elemek mennyiben térítik el a hétköznapi mozgást ahhoz képest, amit a légvonalbeli távolság előrejelezne. Megmutatják, hogy ezek a fizikai akadályok nagy, mérhető kerülőutakat okoznak, és csökkentik a két oldal közötti keveredést — még akkor is, ha az utcahálózati kerülő rövid. A tanulmány tiszta empirikus módszert kínál annak tesztelésére, hogy egy új híd, aluljáró vagy gyalogos kapcsolat valóban újra összekötné-e a városi népességet, vagy csak a térképen néz ki jól.",
+      "data_used": "Anonymised mobile-phone (CDR-type) location data for Budapest. Movement patterns aggregated to small spatial units. Built-environment data (rivers, motorways, railways) overlaid; statistical models compare observed flows with straight-line and street-network counterfactuals.",
+      "data_used_hu": "Anonimizált mobiltelefonos (CDR-típusú) helyadatok Budapestre. Mozgási minták kis területi egységekre aggregálva. Beépített környezet adatai (folyók, autópályák, vasutak) ráhelyezve; statisztikai modellek hasonlítják össze a megfigyelt áramlásokat a légvonalas és utcahálózati ellenpárokkal.",
+      "policy_relevance": "Highly relevant for Budapest urban-planning and transport policy (Főváros, BKK, ITM). Provides a method to quantify ex ante which new infrastructure (bridges, pedestrian links, public-transport bypasses) would most reduce neighbourhood-level segregation. Useful input for the Budapest 2040 mobility plan and for cohesion-funded urban regeneration. Budapest data; directly applicable to other Hungarian cities (Debrecen, Miskolc) where rail or river severance is a planning constraint.",
+      "policy_relevance_hu": "Erősen releváns a budapesti várostervezés és közlekedéspolitika számára (Főváros, BKK, ITM). Olyan módszert ad, amely ex ante számszerűsíti, melyik új infrastruktúra (híd, gyalogos kapcsolat, közösségi közlekedési átvágás) csökkentené leginkább a városrész-szintű szegregációt. Hasznos input a Budapest 2040 mobilitási tervhez és a kohéziós forrásból finanszírozott városrehabilitációhoz. Budapesti adat; közvetlenül alkalmazható más magyar városokra (Debrecen, Miskolc), ahol vasúti vagy folyó-keresztezés tervezési korlát.",
+      "topics": [
+        "regional-urban",
+        "innovation-digital"
+      ],
+      "methods": [
+        "descriptive-survey"
+      ],
+      "countries_studied": [
+        "HU"
+      ],
+      "data_types": [
+        "digital-trace"
+      ],
+      "featured": false,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13",
+      "review_status": "ai-drafted",
+      "openalex_id": "W4413010451",
+      "policy_instruments": [
+        "urban-transport planning",
+        "infrastructure investment",
+        "urban regeneration"
+      ]
+    },
+    {
       "id": "pinter-wang-zou-2024-rfs",
       "title": "Size discount and size penalty: Trading costs in bond markets",
       "authors": [
@@ -46553,6 +46664,58 @@
       "openalex_id": "W4415479581"
     },
     {
+      "id": "toth-juhasz-et-al-2021-eps",
+      "title": "Repeated collaboration of inventors across European regions",
+      "authors": [
+        "Gergő Tóth",
+        "juhasz-sandor",
+        "elekes-zoltan",
+        "lengyel-balazs"
+      ],
+      "publication_type": "article",
+      "journal": "European Planning Studies",
+      "year": 2021,
+      "volume": "29",
+      "issue": "12",
+      "pages": "2252-2272",
+      "doi": "10.1080/09654313.2021.1914555",
+      "working_paper_series": null,
+      "url_published": "https://doi.org/10.1080/09654313.2021.1914555",
+      "url_pdf": null,
+      "url_replication": null,
+      "abstract": null,
+      "summary_en": "When inventors in two European regions collaborate, how often do they do it again? Using the universe of EPO patent records, the authors map repeated cross-regional inventor ties across European NUTS-3 regions. Only a small fraction of cross-regional collaborations are repeated; gravity modelling shows that geographical proximity is the dominant predictor of a tie repeating, even when controlling for prior collaboration intensity and triadic closure. The result tempers the standard view that one-off Europe-wide collaborations build durable innovation links — sustained co-invention remains a regional, not pan-European, phenomenon.",
+      "summary_hu": "Ha két európai régió feltalálói együttműködnek, milyen gyakran teszik ezt újra? Az EPO szabadalmi adatok teljes körén a szerzők feltérképezik az ismétlődő régiók közötti feltalálói kapcsolatokat európai NUTS-3 régiók között. Csak a régiók közötti együttműködések kis része ismétlődik; gravitációs modellezés kimutatja, hogy a földrajzi közelség a kapcsolat megismétlődésének domináns előrejelzője, még a korábbi együttműködési intenzitás és a triadikus zárás kontrollálása mellett is. Az eredmény mérsékli azt a hagyományos nézetet, hogy az egyszeri európai szintű együttműködések tartós innovációs kapcsolatokat építenek — a tartós közös találmány továbbra is regionális, nem páneurópai jelenség.",
+      "data_used": "European Patent Office (EPO) patent and inventor records, full cross-section of EU NUTS-3 regions. Co-inventor network analysis with gravity models of tie repetition.",
+      "data_used_hu": "Európai Szabadalmi Hivatal (EPO) szabadalmi és feltalálói adatok, az EU NUTS-3 régiók teljes keresztmetszete. Társfeltalálói hálózati elemzés és kapcsolat-ismétlődési gravitációs modellek.",
+      "policy_relevance": "Relevant for EU Horizon Europe and Hungarian innovation policy (NKFIH, ITM). The standard EU narrative — that Framework-Programme funding creates durable cross-regional research links — is partially contradicted: ties rarely repeat without geographical proximity. Argues for combining cross-regional grants with sustained, place-based collaboration infrastructure (consortia, mobility, repeat-funding incentives). Useful input for the design of EU Smart Specialisation Strategies and for Hungarian participation in Horizon Europe.",
+      "policy_relevance_hu": "Releváns az EU Horizon Europe és a magyar innovációpolitika számára (NKFIH, ITM). A hagyományos EU-narratíva — hogy a keretprogramos finanszírozás tartós régiók közötti kutatási kapcsolatokat hoz létre — részben megdől: a kapcsolatok ritkán ismétlődnek földrajzi közelség nélkül. Az érv: a régiók közötti pályázatokat kell kombinálni tartós, területi alapú együttműködési infrastruktúrával (konzorciumok, mobilitás, ismételt finanszírozási ösztönzők). Hasznos input az EU Intelligens Szakosodási Stratégiák tervezéséhez és a magyar Horizon Europe-részvételhez.",
+      "topics": [
+        "innovation-digital",
+        "regional-urban"
+      ],
+      "methods": [
+        "panel-data",
+        "iv-rd"
+      ],
+      "countries_studied": [
+        "EU"
+      ],
+      "data_types": [
+        "admin-firm"
+      ],
+      "featured": false,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13",
+      "review_status": "ai-drafted",
+      "openalex_id": null,
+      "policy_instruments": [
+        "EU Framework Programme",
+        "smart specialisation",
+        "innovation network policy"
+      ]
+    },
+    {
       "id": "toth-lengyel-2019-tjott",
       "title": "Inter-firm inventor mobility and the role of co-inventor networks in producing high-impact innovation",
       "authors": [
@@ -50578,6 +50741,24 @@
       "last_reviewed_at": "2026-04-25"
     },
     {
+      "id": "csomos-lengyel-2021-portfolio-tavolsag",
+      "title": "Számít-e a földrajzi távolság? Városok közötti nemzetközi tudományos együttműködések változása",
+      "title_hu": "Számít-e a földrajzi távolság? Városok közötti nemzetközi tudományos együttműködések változása",
+      "authors": [
+        "György Csomós",
+        "lengyel-balazs"
+      ],
+      "kind": "column",
+      "venue": "Portfolio (KRTK Blog)",
+      "date": "2021-05-23",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/krtk/20210523/szamit-e-a-foldrajzi-tavolsag-varosok-kozotti-nemzetkozi-tudomanyos-egyuttmukodesek-valtozasa-484116",
+      "blurb": "Csomós és Lengyel bemutatja, hogyan változott a nemzetközi tudományos együttműködés városok közötti földrajza évtizedek alatt, és érvel amellett, hogy a fizikai távolság a digitalizáció ellenére is továbbra is akadályozza a kollaborációt.",
+      "linked_paper_id": null,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13"
+    },
+    {
       "id": "darvas-2025-bruegel-newsletter-gender-wealth",
       "title": "How has Europe's gender wealth gap evolved, and why?",
       "title_hu": null,
@@ -51706,6 +51887,23 @@
       "last_reviewed_at": "2026-04-25"
     },
     {
+      "id": "koszegi-2013-index-interview",
+      "title": "One in ten people would pay for others to be worse off — interview with Botond Kőszegi",
+      "title_hu": "Az emberek tizede fizetne, hogy másnak rosszabb legyen — interjú Kőszegi Botonddal",
+      "authors": [
+        "koszegi-botond"
+      ],
+      "kind": "interview",
+      "venue": "Index",
+      "date": "2013-02-16",
+      "language": "hu",
+      "url": "https://index.hu/gazdasag/2013/02/16/koszegi_botond/",
+      "blurb": "Kőszegi Botond a viselkedési közgazdaságtan tanulságairól: veszteségkerülésről, irracionális döntésekről, és arról, hogy az emberek egy része hajlandó fizetni azért, hogy másoknak rosszabb legyen.",
+      "linked_paper_id": null,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13"
+    },
+    {
       "id": "koszegi-2015-444-clark-medal",
       "title": "Botond Köszegi receives one of the most prestigious economics prizes",
       "title_hu": "Kőszegi Botond kapta az egyik legrangosabb közgazdasági díjat",
@@ -51755,6 +51953,41 @@
       "linked_paper_id": null,
       "added_at": "2026-04-25",
       "last_reviewed_at": "2026-04-25"
+    },
+    {
+      "id": "lengyel-2021-sztealmamater-innovacio",
+      "title": "Az innováció sikere és bukása – interjú Dr. Lengyel Balázzsal",
+      "title_hu": "Az innováció sikere és bukása – interjú Dr. Lengyel Balázzsal",
+      "authors": [
+        "lengyel-balazs"
+      ],
+      "kind": "interview",
+      "venue": "SZTE Alma Mater",
+      "date": "2021-04-29",
+      "language": "hu",
+      "url": "https://sztealmamater.blog.hu/2021/04/29/az_innovacio_sikere_es_bukasa_interju_dr_lengyel_balazzsal",
+      "blurb": "Lengyel Balázs hosszabb interjúban beszél kutatási pályájáról, az iWiW hálózati adatok elemzéséről és arról, miért határozza meg a közösségi hálók szerkezete, hogy egy innováció elterjed-e vagy elbukik.",
+      "linked_paper_id": null,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13"
+    },
+    {
+      "id": "lengyel-pager-2020-portfolio-nagyvarosok",
+      "title": "Tényleg a nagyvárosok kiváltsága a fejlődés?",
+      "title_hu": "Tényleg a nagyvárosok kiváltsága a fejlődés?",
+      "authors": [
+        "lengyel-balazs",
+        "Páger Balázs"
+      ],
+      "kind": "column",
+      "venue": "Portfolio (KRTK Blog)",
+      "date": "2020-09-17",
+      "language": "hu",
+      "url": "https://www.portfolio.hu/krtk/20200917/tenyleg-a-nagyvarosok-kivaltsaga-a-fejlodes-448936",
+      "blurb": "Lengyel és Páger amellett érvel, hogy az innováció és a fejlődés nagyvárosokba való koncentrálódása növeli a regionális egyenlőtlenségeket Magyarországon, és vázolja, milyen szakpolitikai eszközök tehetik a kisebb településeket is részeseivé a növekedésnek.",
+      "linked_paper_id": null,
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13"
     },
     {
       "id": "lengyel-voxeu-disruptive",
@@ -52522,6 +52755,45 @@
       "last_reviewed_at": "2026-04-25"
     },
     {
+      "id": "toth-juhasz-elekes-lengyel-2021-krtk-szabadalmi",
+      "title": "Átfogó elemzés a szabadalmi együttműködések szerkezetéről az ANETI Lab kutatóitól",
+      "title_hu": "Átfogó elemzés a szabadalmi együttműködések szerkezetéről az ANETI Lab kutatóitól",
+      "authors": [
+        "Gergő Tóth",
+        "juhasz-sandor",
+        "elekes-zoltan",
+        "lengyel-balazs"
+      ],
+      "kind": "column",
+      "venue": "Portfolio (KRTK Blog)",
+      "date": "2021-06-28",
+      "language": "hu",
+      "url": "https://archive.krtk.hu/portfolio-blog/atfogo-elemzes-a-szabadalmi-egyuttmukodesek-szerkezeterol-az-ANET-LAB-kutatoitol-a-KRTK-Blogban-a-Portfolion/828/",
+      "blurb": "Az ANETI Lab kutatói bemutatják európai szabadalmi adatokon, hogy a régiók közötti feltalálói együttműködések ritkán ismétlődnek, és a földrajzi közelség kulcsfontosságú a tartós innovációs kapcsolatok kialakulásához.",
+      "linked_paper_id": "toth-juhasz-et-al-2021-eps",
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13"
+    },
+    {
+      "id": "toth-wachs-et-al-2021-elte-toredezett",
+      "title": "Töredezett kapcsolati háló – nagyobb társadalmi egyenlőtlenség",
+      "title_hu": "Töredezett kapcsolati háló – nagyobb társadalmi egyenlőtlenség",
+      "authors": [
+        "Gergő Tóth",
+        "Johannes Wachs",
+        "lengyel-balazs"
+      ],
+      "kind": "feature",
+      "venue": "ELTE hírek",
+      "date": "2021-03-10",
+      "language": "hu",
+      "url": "https://www.elte.hu/content/toredezett-kapcsolati-halo-nagyobb-tarsadalmi-egyenlotlenseg.t.23015",
+      "blurb": "Az ELTE összefoglalója a Tóth-Wachs-Lengyel és társai szerzőinek Nature Communications-cikkéről: azokban a magyar városokban, ahol a társadalmi háló töredezett, magasabb a jövedelmi egyenlőtlenség, és a térszerkezet erősíti ezt az összefüggést.",
+      "linked_paper_id": "toth-wachs-et-al-2021-natcom",
+      "added_at": "2026-05-13",
+      "last_reviewed_at": "2026-05-13"
+    },
+    {
       "id": "vom-berge-lindner-et-al-2021-voxeu-reallocation",
       "title": "Reallocation effects of the minimum wage",
       "authors": [
@@ -52614,7 +52886,7 @@
       "policy_framing_en": "Relevant to: R&D tax credits, digital strategy, AI policy, innovation agency design, university–industry linkages.",
       "policy_framing_hu": "Releváns: K+F adókedvezmények, digitális stratégia, MI-politika, innovációs ügynökségek, egyetem–ipar kapcsolatok.",
       "icon": "cpu",
-      "paper_count": 93
+      "paper_count": 96
     },
     {
       "id": "banking-finance",
@@ -52647,7 +52919,7 @@
       "policy_framing_en": "Relevant to: regional development funds, housing policy, transport investment, urban planning.",
       "policy_framing_hu": "Releváns: regionális fejlesztési alapok, lakáspolitika, közlekedési beruházások, városfejlesztés.",
       "icon": "building",
-      "paper_count": 115
+      "paper_count": 118
     },
     {
       "id": "energy-environment",
@@ -54131,9 +54403,9 @@
   ],
   "counts": {
     "authors": 112,
-    "papers": 925,
+    "papers": 928,
     "policy": 40,
-    "press": 165,
+    "press": 171,
     "topics": 21
   }
 }
